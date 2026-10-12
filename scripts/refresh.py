@@ -18,12 +18,12 @@ def add(**k):
     if k['url'] in seen: return
     seen.add(k['url']); items.append(k)
 since=(now-datetime.timedelta(days=30)).date().isoformat()
-for q,tag in [('topic:llm','LLM'),('topic:ai-agents','Agent'),('topic:mcp','MCP'),('topic:saas','SaaS'),('topic:rag','RAG'),('topic:automation','Automation'),('topic:chrome-extension','Extension'),('topic:self-hosted','Self-hosted'),('topic:nextjs','Next.js'),('topic:ai','AI')]:
-    r=get(f'https://api.github.com/search/repositories?q={q}+pushed:>{since}+stars:>1500&sort=stars&order=desc&per_page=8',gh)
+for q,tag in [('topic:llm','LLM'),('topic:ai-agents','Agent'),('topic:mcp','MCP'),('topic:saas','SaaS'),('topic:rag','RAG'),('topic:automation','Automation'),('topic:chrome-extension','Extension'),('topic:self-hosted','Self-hosted'),('topic:nextjs','Next.js'),('topic:ai','AI'),('topic:developer-tools','DevTools'),('topic:open-source-alternative','Alternative'),('topic:ecommerce','E-commerce'),('topic:design-system','Design'),('topic:indie-hacker','Indie'),('topic:no-code','No-code'),('topic:productivity','Productivity'),('topic:local-llm','Local LLM')]:
+    r=get(f'https://api.github.com/search/repositories?q={q}+pushed:>{since}+stars:>1500&sort=stars&order=desc&per_page=14',gh)
     for x in (r or {}).get('items',[]):
         add(id='gh-'+str(x['id']),ch='repos',title=x['full_name'],summary=(x['description'] or '')[:220],url=x['html_url'],tags=[tag,x.get('language') or 'Repo'],meta=f"★ {x['stargazers_count']:,}",date=x['pushed_at'][:16].replace('T',' '),lang='en',source='GitHub')
 new=(now-datetime.timedelta(days=10)).date().isoformat()
-r=get(f'https://api.github.com/search/repositories?q=created:>{new}&sort=stars&order=desc&per_page=20',gh)
+r=get(f'https://api.github.com/search/repositories?q=created:>{new}&sort=stars&order=desc&per_page=40',gh)
 for x in (r or {}).get('items',[]):
     add(id='gh-'+str(x['id']),ch='repos',title=x['full_name'],summary=(x['description'] or '')[:220],url=x['html_url'],tags=['New',x.get('language') or 'Repo'],meta=f"★ {x['stargazers_count']:,}",date=x['created_at'][:16].replace('T',' '),lang='en',source='GitHub · new')
 def hn(query,ch,n,tags='story',pts=60,days=14):
@@ -32,15 +32,18 @@ def hn(query,ch,n,tags='story',pts=60,days=14):
     for x in (r or {}).get('hits',[]):
         u=x.get('url') or f"https://news.ycombinator.com/item?id={x['objectID']}"
         add(id='hn-'+x['objectID'],ch=ch,title=re.sub(r'^(Show|Launch) HN: ','',x['title']),summary='',url=u,discuss=f"https://news.ycombinator.com/item?id={x['objectID']}",tags=['HN'],meta=f"▲ {x['points']}",date=x['created_at'][:16].replace('T',' '),lang='en',source='Hacker News')
-hn('AI','ai',20); hn('LLM','ai',12); hn('agent','ai',10); hn('OpenAI','ai',6); hn('','products',30,'show_hn',30); hn('Launch%20HN','products',8,'story',20,30)
-hn('startup','news',10); hn('apple','news',6); hn('google','news',6); hn('','news',20,'front_page',200,3)
-r=get('https://huggingface.co/api/models?sort=trendingScore&limit=20')
+hn('AI','ai',20); hn('LLM','ai',12); hn('agent','ai',10); hn('OpenAI','ai',6); hn('','products',60,'show_hn',20); hn('Launch%20HN','products',8,'story',20,30)
+hn('startup','news',16); hn('SaaS','ideas',12,'story',30,30); hn('indie','ideas',10,'story',20,30); hn('side%20project','ideas',10,'story',20,30); hn('Claude','ai',10); hn('open%20source','repos',12); hn('free','deals',10,'story',40,30); hn('Ask%20HN','ideas',12,'ask_hn',40,14); hn('apple','news',6); hn('google','news',6); hn('','news',20,'front_page',200,3)
+r=get('https://huggingface.co/api/models?sort=trendingScore&limit=30')
 for x in r or []:
     add(id='hf-'+x['id'].replace('/','-'),ch='ai',title=x['id'],summary=f"Trending model on Hugging Face · {x.get('pipeline_tag') or 'model'}",url='https://huggingface.co/'+x['id'],tags=['HF',x.get('pipeline_tag') or 'model'],meta=f"♥ {x.get('likes',0):,}",date=(x.get('createdAt') or now.isoformat())[:16].replace('T',' '),lang='en',source='Hugging Face')
-for x in (get('https://lobste.rs/hottest.json') or [])[:20]:
+for x in (get('https://lobste.rs/hottest.json') or [])[:25]:
     add(id='lb-'+x['short_id'],ch='news',title=x['title'],summary=', '.join(x.get('tags',[])),url=x['url'] or x['short_id_url'],discuss=x['comments_url'],tags=['Lobsters']+x.get('tags',[])[:2],meta=f"▲ {x['score']}",date=x['created_at'][:16].replace('T',' '),lang='en',source='Lobsters')
-for x in (get('https://dev.to/api/articles?top=7&per_page=15') or []):
+for x in (get('https://dev.to/api/articles?top=7&per_page=30') or []):
     add(id='dt-'+str(x['id']),ch='news',title=x['title'],summary=(x.get('description') or '')[:200],url=x['url'],tags=['DEV']+x.get('tag_list',[])[:2],meta=f"♥ {x.get('positive_reactions_count',0)}",date=x['published_at'][:16].replace('T',' '),lang='en',source='DEV')
+r=get('https://huggingface.co/api/spaces?sort=trendingScore&limit=25')
+for x in r or []:
+    add(id='hfs-'+x['id'].replace('/','-'),ch='products',title=x['id'],summary=f"Trending AI app on Hugging Face Spaces · {x.get('sdk') or 'space'}",url='https://huggingface.co/spaces/'+x['id'],tags=['HF Space',x.get('sdk') or 'app'],meta=f"♥ {x.get('likes',0):,}",date=(x.get('createdAt') or now.isoformat())[:16].replace('T',' '),lang='en',source='HF Spaces')
 items=json.load(open(os.path.join(D,'curated.json')))+items
 # ---- i18n ----
 LOC=['zh-Hans','zh-Hant','en','ja','ko','ms','vi','fr','es','de']

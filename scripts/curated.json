@@ -776,5 +776,397 @@
   "date": "2026-10-12",
   "lang": "zh",
   "source": "精选"
+ },
+ {
+  "id": "c-54",
+  "ch": "deals",
+  "title": "Cloudflare Workers 免费额度",
+  "summary": "每天 10 万次请求免费，适合一人做 API、边缘函数和小工具。",
+  "url": "https://workers.cloudflare.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-55",
+  "ch": "deals",
+  "title": "Supabase 免费计划",
+  "summary": "Postgres + 认证 + 存储免费起步，独立开发 MVP 首选后端。",
+  "url": "https://supabase.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-56",
+  "ch": "deals",
+  "title": "Vercel Hobby 免费托管",
+  "summary": "个人项目免费部署 Next.js 与静态站，自带 CDN 和预览环境。",
+  "url": "https://vercel.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-57",
+  "ch": "deals",
+  "title": "Netlify 免费套餐",
+  "summary": "静态站与表单、函数免费额度，适合落地页快速上线。",
+  "url": "https://www.netlify.com/pricing/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-58",
+  "ch": "deals",
+  "title": "Google Cloud 免费试用 $300",
+  "summary": "新用户 90 天 300 美元额度，外加长期 Always Free 资源。",
+  "url": "https://cloud.google.com/free",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-59",
+  "ch": "deals",
+  "title": "AWS Free Tier",
+  "summary": "12 个月免费 + 永久免费服务，可跑小型 SaaS 后端。",
+  "url": "https://aws.amazon.com/free/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-60",
+  "ch": "deals",
+  "title": "Oracle Cloud Always Free",
+  "summary": "永久免费 ARM 云主机（最高 4 核 24G），自建服务性价比极高。",
+  "url": "https://www.oracle.com/cloud/free/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-61",
+  "ch": "deals",
+  "title": "Microsoft for Startups Founders Hub",
+  "summary": "初创可申请 Azure 额度与 OpenAI 等工具权益，无需融资。",
+  "url": "https://www.microsoft.com/en-us/startups",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-62",
+  "ch": "deals",
+  "title": "Neon Serverless Postgres 免费层",
+  "summary": "无服务器 Postgres 免费起步，按需扩缩，适合副业项目。",
+  "url": "https://neon.tech/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-63",
+  "ch": "deals",
+  "title": "Resend 免费邮件额度",
+  "summary": "每月 3000 封事务邮件免费，开发者友好的发信 API。",
+  "url": "https://resend.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-64",
+  "ch": "deals",
+  "title": "Hugging Face 免费 Spaces",
+  "summary": "免费部署 Gradio / Streamlit AI 小应用，快速验证 demo。",
+  "url": "https://huggingface.co/spaces",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-65",
+  "ch": "deals",
+  "title": "Groq 免费 API",
+  "summary": "高速推理开源模型 API，有免费额度，适合做低延迟 AI 产品。",
+  "url": "https://console.groq.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-66",
+  "ch": "deals",
+  "title": "Google AI Studio 免费 Gemini API",
+  "summary": "Gemini API 提供免费调用额度，适合原型验证。",
+  "url": "https://aistudio.google.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-67",
+  "ch": "deals",
+  "title": "JetBrains 学生免费授权",
+  "summary": "学生与教师可免费使用 JetBrains 全家桶 IDE。",
+  "url": "https://www.jetbrains.com/community/education/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-68",
+  "ch": "deals",
+  "title": "Figma 教育版免费",
+  "summary": "学生和教育者可免费使用 Figma 专业版功能。",
+  "url": "https://www.figma.com/education/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-69",
+  "ch": "deals",
+  "title": "Notion 教育版 Plus 免费",
+  "summary": "学校邮箱注册即可免费使用 Notion Plus。",
+  "url": "https://www.notion.com/product/notion-for-education",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-70",
+  "ch": "deals",
+  "title": "Stripe Atlas 注册美国公司",
+  "summary": "500 美元一站式注册特拉华公司并开通 Stripe，附合作伙伴优惠。",
+  "url": "https://stripe.com/atlas",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-71",
+  "ch": "deals",
+  "title": "free-for.dev 免费开发者服务清单",
+  "summary": "社区维护的免费 SaaS / 云服务大全，找免费额度先查它。",
+  "url": "https://free-for.dev/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-72",
+  "ch": "ideas",
+  "title": "给 Shopify 卖家做 AI 商品描述生成器",
+  "summary": "批量生成多语言商品标题和描述，按 SKU 收费，出海卖家刚需。",
+  "url": "https://apps.shopify.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-73",
+  "ch": "ideas",
+  "title": "做垂直行业的 AI 客服机器人",
+  "summary": "选牙科、民宿、律所等细分行业，接入知识库按月订阅。",
+  "url": "https://www.indiehackers.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-74",
+  "ch": "ideas",
+  "title": "Chrome 插件：网页一键翻译成小红书风格笔记",
+  "summary": "面向内容创作者，免费+订阅高级模板。",
+  "url": "https://chromewebstore.google.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-75",
+  "ch": "ideas",
+  "title": "把开源项目做成托管 SaaS",
+  "summary": "挑高 star 但难部署的开源工具，提供一键托管版收费。",
+  "url": "https://github.com/trending",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-76",
+  "ch": "ideas",
+  "title": "AI 简历与求职信多语言优化",
+  "summary": "面向出海求职者，按次付费，SEO 长尾流量大。",
+  "url": "https://www.producthunt.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-77",
+  "ch": "ideas",
+  "title": "独立站多语言 SEO 落地页生成",
+  "summary": "输入一个产品自动生成 10 语落地页，卖给跨境小卖家。",
+  "url": "https://www.indiehackers.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-78",
+  "ch": "ideas",
+  "title": "Notion / Obsidian 模板商店",
+  "summary": "做学习、求职、记账模板在 Gumroad 售卖，零库存。",
+  "url": "https://gumroad.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-79",
+  "ch": "ideas",
+  "title": "AI 播客转短视频切片工具",
+  "summary": "自动剪高光+字幕，卖给知识类博主。",
+  "url": "https://www.producthunt.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-80",
+  "ch": "ideas",
+  "title": "MCP 服务器市场与托管",
+  "summary": "给企业内部工具做 MCP 封装并托管，AI Agent 时代的新基础设施。",
+  "url": "https://modelcontextprotocol.io/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-81",
+  "ch": "ideas",
+  "title": "面向小商家的 AI 记账与报税助手",
+  "summary": "东南亚多币种小商家刚需，按月订阅。",
+  "url": "https://www.indiehackers.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
  }
 ]

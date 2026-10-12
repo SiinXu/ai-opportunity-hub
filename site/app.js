@@ -5,35 +5,38 @@ const $=s=>document.querySelector(s),esc=s=>String(s||'').replace(/[&<>"]/g,c=>(
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return''}};
 const TT=i=>(i.title_i18n&&i.title_i18n[L])||i.title,SS=i=>(i.summary_i18n&&i.summary_i18n[L])||i.summary||'';
 function ago(d){if(!d)return'';const m=(Date.now()-Date.parse(d.replace(' ','T')+(d.length>10&&!/Z$/.test(d)?'Z':'')))/6e4;if(!isFinite(m))return'';const f=new Intl.RelativeTimeFormat(L,{numeric:'auto'});return m<60?f.format(-Math.max(1,Math.round(m)),'minute'):m<1440?f.format(-Math.round(m/60),'hour'):f.format(-Math.round(m/1440),'day')}
-function langBadge(i){return `<span class="lb">${i.lang==='zh'?'中文':'EN'}</span>`}
-function row(i,n){return `<a class="row" href="#/item/${i.id}">${n!=null?`<span class="num">${String(n).padStart(2,'0')}</span>`:''}
-<span class="fav"><img loading="lazy" alt="" src="https://www.google.com/s2/favicons?sz=64&domain=${host(i.url)}"></span>
-<span class="rt"><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small></span>
-<span class="rm">${i.meta?`<em>${esc(i.meta)}</em>`:''}<time>${ago(i.date)}</time><span class="chip c-${i.ch}">${t(i.ch)}</span><i>→</i></span></a>`}
-function tile(i){return `<a class="tile" href="#/item/${i.id}"><div class="stage"><span class="ic">${ICON[i.ch]}</span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p></div>
-<div class="tf"><span><em class="c-${i.ch}">${t(i.ch)}</em>${i.meta?' · '+esc(i.meta):''}</span><span>${t('open')} →</span></div></a>`}
-function picks(){const p=[];CH.forEach(c=>{const x=DATA.items.filter(i=>i.ch===c&&i.source!=='精选'||i.ch===c&&(c==='deals'||c==='ideas'));p.push(...x.slice(0,c==='repos'||c==='ai'?3:1))});p.sort((a,b)=>!!SS(b)-!!SS(a)||0);const f=p.findIndex(i=>i.ch==='repos');if(f>0)p.unshift(p.splice(f,1)[0]);return p.slice(0,11)}
-function home(){const pk=picks(),ex=DATA.items.find(i=>i.ch==='repos');
-return `<section class="hero">
-<div class="hl"><a class="pill rise" href="#/c/ideas"><b>${t('pill1')}</b><span>${t('pill2')}</span>›</a>
-<h1 class="rise d1">${t('h1a')}<br><span class="grad">${t('h1b')}</span></h1>
-<p class="lede rise d2">${t('lede1')} <span>${t('lede2')}</span></p>
-<div class="ctas rise d3"><a class="btn pri" href="#picks">${t('cta1')}</a><a class="btn" href="#/search">${t('cta2')} <kbd>/</kbd></a></div>
-<div class="stats rise d3">${CH.map(c=>{const n=DATA.items.filter(i=>i.ch===c).length,mx=Math.max(...CH.map(k=>DATA.items.filter(i=>i.ch===k).length));return `<a href="#/c/${c}"><b>${n}</b>${t(c)}<u style="--w:${Math.round(n/mx*100)}%"></u></a>`}).join('')}</div></div>
-<div class="win rise d2"><div class="wbar"><span>Radar · today</span><b class="live">● ${ago(DATA.updated)}</b></div>
-<div class="wtabs">${['repos','ai','deals'].map((c,k)=>`<button class="${k?'':'on'}" data-c="${c}">${t(c)}</button>`).join('')}</div>
-<div class="wbody" id="wbody">${winList('repos')}</div></div></section>
+const GR={ai:"linear-gradient(135deg,#6366f1,#06b6d4)",repos:"linear-gradient(135deg,#10b981,#84cc16)",products:"linear-gradient(135deg,#f97316,#ec4899)",news:"linear-gradient(135deg,#0ea5e9,#6366f1)",deals:"linear-gradient(135deg,#f43f5e,#f59e0b)",ideas:"linear-gradient(135deg,#eab308,#f97316)"};
+const fav=(i,s=64)=>`https://www.google.com/s2/favicons?sz=${s}&domain=${host(i.url)}`;
+function thumb(i,cls='th'){const gh=i.ch==='repos'&&/github\.com\/[^/]+\/[^/]+/.test(i.url)?i.url.split('github.com/')[1].split('/').slice(0,2).join('/'):'';
+return `<div class="${cls}" style="--g:${GR[i.ch]}">${gh?`<img loading="lazy" alt="" src="https://opengraph.githubassets.com/1/${gh}">`:`<span class="thf"><img loading="lazy" alt="" src="${fav(i,128)}"></span><span class="thw">${esc(host(i.url))}</span>`}</div>`}
+const chip=i=>`<span class="chip c-${i.ch}">${ICON[i.ch]} ${t(i.ch)}</span>`;
+function row(i,n){return `<a class="row" href="#/item/${i.id}">${thumb(i,'rth')}
+<span class="rt"><span class="rk">${chip(i)}<time>${ago(i.date)}</time>${i.meta?`<em>${esc(i.meta)}</em>`:''}</span><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small></span><i class="go">↗</i></a>`}
+function card(i,cls=''){return `<a class="card ${cls}" href="#/item/${i.id}">${thumb(i)}<div class="cb"><span class="rk">${chip(i)}<time>${ago(i.date)}</time></span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="cf"><img alt="" src="${fav(i)}">${esc(host(i.url))}${i.meta?`<em>${esc(i.meta)}</em>`:''}</span></div></a>`}
+const tile=card;
+function bykind(c,n){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>(!!SS(b)-!!SS(a))||b.date.localeCompare(a.date)).slice(0,n)}
+function picks(){const p=[],u=new Set();[['repos',3],['ai',2],['products',2],['ideas',2],['deals',2],['news',1]].forEach(([c,n])=>bykind(c,n+3).filter(i=>!u.has(i.id)).slice(3,3+n).forEach(i=>{u.add(i.id);p.push(i)}));return p}
+function home(){const heads=[bykind('repos',1)[0],bykind('ai',1)[0],bykind('products',1)[0]].filter(Boolean),pk=picks(),mx=Math.max(...CH.map(k=>DATA.items.filter(i=>i.ch===k).length)),hid=new Set([...heads,...pk].map(i=>i.id));
+const latest=[...DATA.items].filter(i=>!hid.has(i.id)).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,36);
+return `<section class="hero"><div class="glow"></div>
+<a class="pill rise" href="#/c/ideas"><span class="dot"></span><b>${t('pill1')}</b><span>${t('pill2')}</span>›</a>
+<h1 class="rise d1">${t('h1a')} <span class="grad">${t('h1b')}</span></h1>
+<p class="lede rise d2">${t('lede1')} ${t('lede2')}</p>
+<div class="ctas rise d2"><a class="btn pri beam" href="#picks"><span>${t('cta1')} →</span></a><a class="btn" href="#/search">⌕ ${t('cta2')} <kbd>/</kbd></a><span class="livep"><i></i>${DATA.items.length} · ${t('updated')} ${ago(DATA.updated)}</span></div>
+<div class="heads rise d3">${heads.map((i,k)=>card(i,'head'+(k?'':' beam'))).join('')}</div></section>
+<section class="sec"><div class="mosaic">${CH.map(c=>{const x=DATA.items.filter(i=>i.ch===c);return `<a class="mo" href="#/c/${c}" style="--g:${GR[c]}"><span class="mi">${ICON[c]}</span><b class="big">${x.length}</b><span class="mt">${t(c)}</span><span class="favs">${x.slice(0,5).map(i=>`<img alt="" src="${fav(i)}">`).join('')}</span><u style="--w:${Math.round(x.length/mx*100)}%"></u></a>`}).join('')}</div></section>
 <section class="sec" id="picks"><div class="sh"><h2>${t('picks')}</h2><span class="muted">${t('foot')}</span></div>
-<div class="tray bento">${pk.map(tile).join('')}</div></section>
-<section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="cells">${CH.map(c=>`<a class="cell" href="#/c/${c}"><span class="ic">${ICON[c]}</span><b>${t(c)}</b><small>${DATA.items.filter(i=>i.ch===c).slice(0,3).map(i=>esc(TT(i))).join(' · ')}</small><i>→</i></a>`).join('')}</div></section>
-<section class="sec"><div class="sh"><h2>${t('latest')} <span class="live">● LIVE</span></h2><span class="muted">${t('updated')} ${ago(DATA.updated)}</span></div><div class="list">${[...DATA.items].filter(i=>i.source!=='精选').sort((a,b)=>b.date.localeCompare(a.date)).slice(0,24).map((i,n)=>row(i,n+1)).join('')}</div></section>`}
-function winList(c){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6).map(i=>`<a href="#/item/${i.id}"><b>${esc(TT(i))}</b><span>${esc(i.meta||host(i.url))} · ${ago(i.date)}</span></a>`).join('')}
+<div class="bento">${pk.map((i,k)=>card(i,k===0?"xl":k===5||k===10?"wide":"")).join('')}</div></section>
+<section class="sec"><div class="sh"><h2>${t('latest')} <span class="livep"><i></i>LIVE</span></h2><a class="muted" href="#/search">${t('updated')} ${ago(DATA.updated)} →</a></div>
+<div class="feed">${latest.map(i=>row(i)).join('')}</div></section>
+<section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="cols">${CH.map(c=>`<div class="colx"><a class="ch" href="#/c/${c}" style="--g:${GR[c]}">${ICON[c]} ${t(c)} <i>→</i></a>${winList(c)}</div>`).join('')}</div></section>`}
+function winList(c){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6).map(i=>`<a class="mini" href="#/item/${i.id}"><img alt="" loading="lazy" src="${fav(i)}"><span><b>${esc(TT(i))}</b><small>${esc(i.meta||host(i.url))} · ${ago(i.date)}</small></span></a>`).join('')}
 function channel(c){const x=DATA.items.filter(i=>i.ch===c);return `<section class="page"><div class="tabs">${CH.map(k=>`<a class="${k===c?'on':''}" href="#/c/${k}">${ICON[k]} ${t(k)}</a>`).join('')}</div>
-<h1 class="ph">${t(c)} <span class="muted">${x.length}</span></h1><div class="list">${x.map((i,n)=>row(i,n+1)).join('')}</div></section>`}
+<h1 class="ph">${t(c)} <span class="muted">${x.length}</span></h1><div class="feed">${x.map((i,n)=>row(i,n+1)).join('')}</div></section>`}
 function search(q){q=q||'';const ql=q.toLowerCase(),r=q?DATA.items.filter(i=>(i.title+' '+TT(i)+' '+i.summary+' '+SS(i)+' '+i.tags.join(' ')+' '+t(i.ch)).toLowerCase().includes(ql)):[];
 return `<section class="page"><h1 class="ph">${t('search')}</h1><div class="sbox"><span>⌕</span><input id="q" autofocus value="${esc(q)}" placeholder="${t('ph')}"><kbd>/</kbd></div>
 <div class="sugg">${['agent','MCP','LLM','免费','跨境','OPC','Show HN','Cloud'].map(s=>`<a href="#/search/${encodeURIComponent(s)}">↳ ${s}</a>`).join('')}</div>
-${q?`<p class="muted">${r.length} ${t('results')}</p><div class="list">${r.map(i=>row(i)).join('')||`<p class="muted">${t('none')}</p>`}</div>`:''}</section>`}
+${q?`<p class="muted">${r.length} ${t('results')}</p><div class="feed">${r.map(i=>row(i)).join('')||`<p class="muted">${t('none')}</p>`}</div>`:''}</section>`}
 function item(id){const i=DATA.items.find(x=>x.id===id);if(!i)return home();const rel=DATA.items.filter(x=>x.ch===i.ch&&x.id!==i.id).slice(0,5);
 return `<section class="page detail"><a class="muted" href="#/c/${i.ch}">← ${t(i.ch)}</a>
 <div class="dh"><span class="fav big"><img alt="" src="https://www.google.com/s2/favicons?sz=128&domain=${host(i.url)}"></span><div><h1>${esc(TT(i))}</h1><p class="muted">${host(i.url)}</p></div></div>
@@ -41,7 +44,7 @@ ${SS(i)?`<p class="dsum">${esc(SS(i))}</p>`:''}
 <dl class="meta"><div><dt>${t('source')}</dt><dd>${esc(i.source)}</dd></div><div><dt>${t('updated')}</dt><dd>${i.date}</dd></div>${i.meta?`<div><dt>★/▲</dt><dd>${esc(i.meta)}</dd></div>`:''}<div><dt>${t('contentLang')}</dt><dd>${i.lang==='zh'?'中文':'English'}</dd></div></dl>
 <div class="tagz">${i.tags.map(g=>`<a class="chip" href="#/search/${encodeURIComponent(g)}">${esc(g)}</a>`).join('')}</div>
 <div class="ctas"><a class="btn pri" href="${i.url}" target="_blank" rel="noopener">${t('open')} ↗</a>${i.discuss?`<a class="btn" href="${i.discuss}" target="_blank" rel="noopener">${t('discuss')} ↗</a>`:''}</div>
-<h2 class="rh">${t('related')}</h2><div class="list">${rel.map(x=>row(x)).join('')}</div></section>`}
+<h2 class="rh">${t('related')}</h2><div class="feed">${rel.map(x=>row(x)).join('')}</div></section>`}
 function about(){return `<section class="page prose"><h1 class="ph">${t('aboutTitle')}</h1><p>${t('aboutBody')}</p><p class="note">${t('social')}</p>
 <p class="muted">${Object.values(LANGS).join(' · ')}</p></section>`}
 function nav(){$('#navlinks').innerHTML=['ai','repos','products','deals','ideas','about'].map(k=>`<a href="#/${k==='about'?'about':'c/'+k}">${t(k)}</a>`).join('');
@@ -58,5 +61,5 @@ $('#themeBtn').onclick=()=>{const n=document.documentElement.dataset.theme==='da
 $('#searchBtn').onclick=()=>location.hash='#/search';
 addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT/.test(document.activeElement.tagName)){e.preventDefault();location.hash='#/search'}});
 addEventListener('hashchange',route);
-addEventListener('pointermove',e=>{const c=e.target.closest&&e.target.closest('.tile,.cell,.row,.win');if(c){const r=c.getBoundingClientRect();c.style.setProperty('--mx',(e.clientX-r.left)+'px');c.style.setProperty('--my',(e.clientY-r.top)+'px')}});
+addEventListener('pointermove',e=>{const c=e.target.closest&&e.target.closest('.card,.mo,.row');if(c){const r=c.getBoundingClientRect();c.style.setProperty('--mx',(e.clientX-r.left)+'px');c.style.setProperty('--my',(e.clientY-r.top)+'px')}});
 fetch('data/items.json?'+Date.now()).then(r=>r.json()).then(d=>{DATA=d;nav();route()});
