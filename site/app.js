@@ -12,18 +12,17 @@ function row(i,n){return `<a class="row" href="#/item/${i.id}">${n!=null?`<span 
 <span class="rm">${i.meta?`<em>${esc(i.meta)}</em>`:''}<time>${ago(i.date)}</time><span class="chip c-${i.ch}">${t(i.ch)}</span><i>→</i></span></a>`}
 function tile(i){return `<a class="tile" href="#/item/${i.id}"><div class="stage"><span class="ic">${ICON[i.ch]}</span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p></div>
 <div class="tf"><span><em class="c-${i.ch}">${t(i.ch)}</em>${i.meta?' · '+esc(i.meta):''}</span><span>${t('open')} →</span></div></a>`}
-function picks(){const p=[];CH.forEach(c=>{const x=DATA.items.filter(i=>i.ch===c&&i.source!=='精选'||i.ch===c&&(c==='deals'||c==='ideas'));p.push(...x.slice(0,c==='repos'||c==='ai'?3:1))});p.sort((a,b)=>!!SS(b)-!!SS(a)||0);const f=p.findIndex(i=>i.ch==='repos');if(f>0)p.unshift(p.splice(f,1)[0]);return p.slice(0,10)}
+function picks(){const p=[];CH.forEach(c=>{const x=DATA.items.filter(i=>i.ch===c&&i.source!=='精选'||i.ch===c&&(c==='deals'||c==='ideas'));p.push(...x.slice(0,c==='repos'||c==='ai'?3:1))});p.sort((a,b)=>!!SS(b)-!!SS(a)||0);const f=p.findIndex(i=>i.ch==='repos');if(f>0)p.unshift(p.splice(f,1)[0]);return p.slice(0,11)}
 function home(){const pk=picks(),ex=DATA.items.find(i=>i.ch==='repos');
 return `<section class="hero">
 <div class="hl"><a class="pill rise" href="#/c/ideas"><b>${t('pill1')}</b><span>${t('pill2')}</span>›</a>
 <h1 class="rise d1">${t('h1a')}<br><span class="grad">${t('h1b')}</span></h1>
 <p class="lede rise d2">${t('lede1')} <span>${t('lede2')}</span></p>
 <div class="ctas rise d3"><a class="btn pri" href="#picks">${t('cta1')}</a><a class="btn" href="#/search">${t('cta2')} <kbd>/</kbd></a></div>
-<div class="stats rise d3">${CH.map(c=>{const n=DATA.items.filter(i=>i.ch===c).length;return `<a href="#/c/${c}"><b>${n}</b>${t(c)}<u style="--w:${Math.min(100,n*6)}%"></u></a>`}).join('')}</div><div class="term rise d3"><span>$</span> opc-radar --watch ai,repos,deals <em>▍</em></div></div>
-<div class="win rise d2"><div class="wbar"><i></i><i></i><i></i><span>opc-radar / live</span><b class="live">● ${ago(DATA.updated)}</b></div>
+<div class="stats rise d3">${CH.map(c=>{const n=DATA.items.filter(i=>i.ch===c).length,mx=Math.max(...CH.map(k=>DATA.items.filter(i=>i.ch===k).length));return `<a href="#/c/${c}"><b>${n}</b>${t(c)}<u style="--w:${Math.round(n/mx*100)}%"></u></a>`}).join('')}</div></div>
+<div class="win rise d2"><div class="wbar"><span>Radar · today</span><b class="live">● ${ago(DATA.updated)}</b></div>
 <div class="wtabs">${['repos','ai','deals'].map((c,k)=>`<button class="${k?'':'on'}" data-c="${c}">${t(c)}</button>`).join('')}</div>
 <div class="wbody" id="wbody">${winList('repos')}</div></div></section>
-<div class="ticker"><div>${[...DATA.items].filter(i=>i.source!=='精选').sort((a,b)=>b.date.localeCompare(a.date)).slice(0,16).map(i=>`<a href="#/item/${i.id}"><em class="c-${i.ch}">${t(i.ch)}</em>${esc(TT(i))}<time>${ago(i.date)}</time></a>`).join('').repeat(2)}</div></div>
 <section class="sec" id="picks"><div class="sh"><h2>${t('picks')}</h2><span class="muted">${t('foot')}</span></div>
 <div class="tray bento">${pk.map(tile).join('')}</div></section>
 <section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="cells">${CH.map(c=>`<a class="cell" href="#/c/${c}"><span class="ic">${ICON[c]}</span><b>${t(c)}</b><small>${DATA.items.filter(i=>i.ch===c).slice(0,3).map(i=>esc(TT(i))).join(' · ')}</small><i>→</i></a>`).join('')}</div></section>
