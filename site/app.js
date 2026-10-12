@@ -5,53 +5,37 @@ const $=s=>document.querySelector(s),esc=s=>String(s||'').replace(/[&<>"]/g,c=>(
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return''}};
 const TT=i=>(i.title_i18n&&i.title_i18n[L])||i.title,SS=i=>(i.summary_i18n&&i.summary_i18n[L])||i.summary||'';
 function ago(d){if(!d)return'';const m=(Date.now()-Date.parse(d.replace(' ','T')+(d.length>10&&!/Z$/.test(d)?'Z':'')))/6e4;if(!isFinite(m))return'';const f=new Intl.RelativeTimeFormat(L,{numeric:'auto'});return m<60?f.format(-Math.max(1,Math.round(m)),'minute'):m<1440?f.format(-Math.round(m/60),'hour'):f.format(-Math.round(m/1440),'day')}
-/* Quiet muted channel tints — no forest green / muddy purple washes */
-const GR_L={ai:"#eef0ff",repos:"#f1f2f6",products:"#f4f1ee",news:"#eef3f7",deals:"#f5f0f1",ideas:"#f3f2ee"};
-const GR_D={ai:"#1a1b2e",repos:"#18181f",products:"#1c1a18",news:"#171c22",deals:"#1c181a",ideas:"#1b1a17"};
-const GR=()=>document.documentElement.dataset.theme==="dark"?GR_D:GR_L;
-
-const fav=(i,s=64)=>`https://www.google.com/s2/favicons?sz=${s}&domain=${host(i.url)}`;
-function ghRepo(i){const m=String(i.url||'').match(/github\.com\/([^/]+)\/([^/#?]+)/);return m?`${m[1]}/${m[2]}`:'';}
-function thumb(i,cls='th'){
-  const g=GR()[i.ch];
-  const gh=ghRepo(i);
-  /* Prefer real GH OG cover filling the media box */
-  if(gh){
-    return `<div class="${cls} th-gh" style="--g:${g}"><img loading="lazy" alt="" src="https://opengraph.githubassets.com/1/${gh}" onerror="const p=this.parentElement;p.classList.remove('th-gh');p.classList.add('th-fb');p.innerHTML='<span class=\\'thf\\'><img loading=\\'lazy\\' alt=\\'\\' src=\\'${fav(i,128)}\\'></span>'"></div>`
-  }
-  /* Short compact strip — favicon/avatar on muted solid, never tall empty pad */
-  const owner=(String(i.url||'').match(/github\.com\/([^/]+)/)||[])[1];
-  const icon=owner?`https://github.com/${owner}.png?size=96`:fav(i,96);
-  return `<div class="${cls} th-fb" style="--g:${g}"><span class="thf"><img loading="lazy" alt="" src="${icon}"></span></div>`
-}
-const chip=i=>`<span class="chip c-${i.ch}">${ICON[i.ch]} ${t(i.ch)}</span>`;
-function row(i,n){return `<a class="row" href="#/item/${i.id}">${thumb(i,'rth')}
-<span class="rt"><span class="rk">${chip(i)}<time>${ago(i.date)}</time>${i.meta?`<em>${esc(i.meta)}</em>`:''}</span><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small></span><i class="go">↗</i></a>`}
-function card(i,cls=''){return `<a class="card ${cls}" href="#/item/${i.id}">${thumb(i,'th')}<div class="cb"><span class="rk">${chip(i)}<time>${ago(i.date)}</time></span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="cf"><img alt="" src="${fav(i)}">${esc(host(i.url))}${i.meta?`<em>${esc(i.meta)}</em>`:''}</span></div></a>`}
-const tile=card;
+const DOT={ai:"#6366f1",repos:"#0ea5e9",products:"#f59e0b",news:"#64748b",deals:"#ef4444",ideas:"#10b981"};
+const fav=(i,s=64)=>{const o=(String(i.url||'').match(/github\.com\/([^/]+)/)||[])[1];return o?`https://github.com/${o}.png?size=${s}`:`https://www.google.com/s2/favicons?sz=${s}&domain=${host(i.url)}`};
+const ico=(i,c='ico')=>`<span class="${c}"><img loading="lazy" alt="" src="${fav(i)}" onerror="this.replaceWith(Object.assign(document.createElement('b'),{textContent:'${ICON[i.ch]}'}))"></span>`;
+const chip=i=>`<span class="chip"><i style="background:${DOT[i.ch]}"></i>${t(i.ch)}</span>`;
+function row(i,n){return `<a class="row" href="#/item/${i.id}">${n?`<span class="num">${String(n).padStart(2,'0')}</span>`:''}${ico(i)}
+<span class="rt"><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small><span class="rk">${chip(i)}<span>${esc(host(i.url))}</span>${i.meta?`<em>${esc(i.meta)}</em>`:''}<time>${ago(i.date)}</time></span></span></a>`}
 function bykind(c,n){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>(!!SS(b)-!!SS(a))||b.date.localeCompare(a.date)).slice(0,n)}
-function picks(){const p=[],u=new Set();[['repos',3],['ai',2],['products',2],['ideas',2],['deals',2],['news',1]].forEach(([c,n])=>bykind(c,n+3).filter(i=>!u.has(i.id)).slice(3,3+n).forEach(i=>{u.add(i.id);p.push(i)}));return p}
-function home(){const heads=[bykind('repos',1)[0],bykind('ai',1)[0],bykind('products',1)[0]].filter(Boolean),pk=picks(),mx=Math.max(...CH.map(k=>DATA.items.filter(i=>i.ch===k).length)),hid=new Set([...heads,...pk].map(i=>i.id));
-const latest=[...DATA.items].filter(i=>!hid.has(i.id)).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,36);
-return `<section class="hero"><div class="glow"></div>
-<a class="pill rise" href="#/c/ideas"><span class="dot"></span><b>${t('pill1')}</b><span>${t('pill2')}</span>›</a>
-<h1 class="rise d1">${t('h1a')} <span class="grad">${t('h1b')}</span></h1>
-<p class="lede rise d2">${t('lede1')} ${t('lede2')}</p>
-<div class="ctas rise d2"><a class="btn pri" href="#picks"><span>${t('cta1')} →</span></a><a class="btn" href="#/search">⌕ ${t('cta2')} <kbd>/</kbd></a><span class="livep"><i></i>${DATA.items.length} · ${t('updated')} ${ago(DATA.updated)}</span></div>
-<div class="heads rise d3">${heads.map((i,k)=>card(i,'head')).join('')}</div></section>
-<section class="sec"><div class="mosaic">${CH.map(c=>{const x=DATA.items.filter(i=>i.ch===c);return `<a class="mo" href="#/c/${c}" style="--g:${GR()[c]}"><span class="mi">${ICON[c]}</span><b class="big">${x.length}</b><span class="mt">${t(c)}</span><span class="favs">${x.slice(0,5).map(i=>`<img alt="" src="${fav(i)}">`).join('')}</span><u style="--w:${Math.round(x.length/mx*100)}%"></u></a>`}).join('')}</div></section>
-<section class="sec" id="picks"><div class="sh"><h2>${t('picks')}</h2><span class="muted">${t('foot')}</span></div>
-<div class="bento">${pk.map((i,k)=>card(i,k===0?"xl":k===5||k===10?"wide":"")).join('')}</div></section>
-<section class="sec"><div class="sh"><h2>${t('latest')} <span class="livep"><i></i>LIVE</span></h2><a class="muted" href="#/search">${t('updated')} ${ago(DATA.updated)} →</a></div>
-<div class="feed">${latest.map(i=>row(i)).join('')}</div></section>
-<section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="cols">${CH.map(c=>`<div class="colx"><a class="ch" href="#/c/${c}" style="--g:${GR()[c]}">${ICON[c]} ${t(c)} <i>→</i></a>${winList(c)}</div>`).join('')}</div></section>`}
-function winList(c){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6).map(i=>`<a class="mini" href="#/item/${i.id}"><img alt="" loading="lazy" src="${fav(i)}"><span><b>${esc(TT(i))}</b><small>${esc(i.meta||host(i.url))} · ${ago(i.date)}</small></span></a>`).join('')}
+function toast(i,k){return `<a class="toast" style="--k:${k}" href="#/item/${i.id}">${ico(i,'ico sm')}<span><b>${esc(TT(i))}</b><small>${t(i.ch)} · ${esc(i.meta||host(i.url))}</small></span><time>${ago(i.date)}</time></a>`}
+function feat(i){return `<a class="feat" href="#/item/${i.id}"><span class="fh">${ico(i,'ico lg')}${chip(i)}</span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="ff"><span>${esc(host(i.url))}</span>${i.meta?`<em>${esc(i.meta)}</em>`:''}<i>↗</i></span></a>`}
+function panel(c,n){const x=bykind(c,n);return `<section class="panel"><a class="ph2" href="#/c/${c}"><span><i style="background:${DOT[c]}"></i>${t(c)}</span><em>${DATA.items.filter(i=>i.ch===c).length} →</em></a>${x.map(i=>`<a class="mini" href="#/item/${i.id}">${ico(i,'ico sm')}<span><b>${esc(TT(i))}</b><small>${esc(i.meta||host(i.url))} · ${ago(i.date)}</small></span></a>`).join('')}</section>`}
+function home(){const used=new Set(),take=a=>a.filter(i=>!used.has(i.id)&&used.add(i.id));
+const toasts=take([...DATA.items].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,3));
+const feats=take([bykind('repos',2)[1],bykind('ai',2)[1],bykind('products',2)[1],bykind('ideas',2)[0],bykind('ideas',2)[1],bykind('deals',1)[0]].filter(Boolean)).slice(0,4);
+const top=take([...DATA.items].filter(i=>SS(i)).sort((a,b)=>b.date.localeCompare(a.date))).slice(0,14);
+return `<section class="hero"><div class="dots"></div><div class="hl">
+<a class="pill" href="#/c/ideas"><span>${t('pill1')}</span>${t('pill2')} →</a>
+<h1>${t('h1a')}<br>${t('h1b')}</h1><p class="lede">${t('lede1')} ${t('lede2')}</p>
+<div class="ctas"><a class="btn pri" href="#top">${t('cta1')}</a><a class="btn" href="#/search">${t('cta2')} <kbd>/</kbd></a></div>
+<div class="stats">${CH.map(c=>`<a href="#/c/${c}"><b>${DATA.items.filter(i=>i.ch===c).length}</b><span><i style="background:${DOT[c]}"></i>${t(c)}</span></a>`).join('')}</div></div>
+<div class="stack"><span class="live"><i></i>LIVE · ${t('updated')} ${ago(DATA.updated)}</span>${toasts.map(toast).join('')}</div></section>
+<section class="sec"><div class="sh"><h2>${t('picks')}</h2></div><div class="feats">${feats.map(feat).join('')}</div></section>
+<section class="sec split" id="top"><div><div class="sh"><h2>${t('latest')}</h2><a class="muted" href="#/search">${t('viewAll')} →</a></div><div class="feed box">${top.map((i,n)=>row(i,n+1)).join('')}</div></div>
+<aside>${panel('repos',6)}${panel('deals',5)}</aside></section>
+<section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="panels">${['ai','products','news','ideas'].map(c=>panel(c,6)).join('')}</div></section>`}
+function winList(c){return ''}
 function channel(c){const x=DATA.items.filter(i=>i.ch===c);return `<section class="page"><div class="tabs">${CH.map(k=>`<a class="${k===c?'on':''}" href="#/c/${k}">${ICON[k]} ${t(k)}</a>`).join('')}</div>
-<h1 class="ph">${t(c)} <span class="muted">${x.length}</span></h1><div class="feed">${x.map((i,n)=>row(i,n+1)).join('')}</div></section>`}
+<h1 class="ph">${t(c)} <span class="muted">${x.length}</span></h1><div class="feed box">${x.map((i,n)=>row(i,n+1)).join('')}</div></section>`}
 function search(q){q=q||'';const ql=q.toLowerCase(),r=q?DATA.items.filter(i=>(i.title+' '+TT(i)+' '+i.summary+' '+SS(i)+' '+i.tags.join(' ')+' '+t(i.ch)).toLowerCase().includes(ql)):[];
 return `<section class="page"><h1 class="ph">${t('search')}</h1><div class="sbox"><span>⌕</span><input id="q" autofocus value="${esc(q)}" placeholder="${t('ph')}"><kbd>/</kbd></div>
 <div class="sugg">${['agent','MCP','LLM','免费','跨境','OPC','Show HN','Cloud'].map(s=>`<a href="#/search/${encodeURIComponent(s)}">↳ ${s}</a>`).join('')}</div>
-${q?`<p class="muted">${r.length} ${t('results')}</p><div class="feed">${r.map(i=>row(i)).join('')||`<p class="muted">${t('none')}</p>`}</div>`:''}</section>`}
+${q?`<p class="muted">${r.length} ${t('results')}</p><div class="feed box">${r.map(i=>row(i)).join('')||`<p class="muted">${t('none')}</p>`}</div>`:''}</section>`}
 function item(id){const i=DATA.items.find(x=>x.id===id);if(!i)return home();const rel=DATA.items.filter(x=>x.ch===i.ch&&x.id!==i.id).slice(0,5);
 return `<section class="page detail"><a class="muted" href="#/c/${i.ch}">← ${t(i.ch)}</a>
 <div class="dh"><span class="fav big"><img alt="" src="https://www.google.com/s2/favicons?sz=128&domain=${host(i.url)}"></span><div><h1>${esc(TT(i))}</h1><p class="muted">${host(i.url)}</p></div></div>
@@ -59,12 +43,12 @@ ${SS(i)?`<p class="dsum">${esc(SS(i))}</p>`:''}
 <dl class="meta"><div><dt>${t('source')}</dt><dd>${esc(i.source)}</dd></div><div><dt>${t('updated')}</dt><dd>${i.date}</dd></div>${i.meta?`<div><dt>★/▲</dt><dd>${esc(i.meta)}</dd></div>`:''}<div><dt>${t('contentLang')}</dt><dd>${i.lang==='zh'?'中文':'English'}</dd></div></dl>
 <div class="tagz">${i.tags.map(g=>`<a class="chip" href="#/search/${encodeURIComponent(g)}">${esc(g)}</a>`).join('')}</div>
 <div class="ctas"><a class="btn pri" href="${i.url}" target="_blank" rel="noopener">${t('open')} ↗</a>${i.discuss?`<a class="btn" href="${i.discuss}" target="_blank" rel="noopener">${t('discuss')} ↗</a>`:''}</div>
-<h2 class="rh">${t('related')}</h2><div class="feed">${rel.map(x=>row(x)).join('')}</div></section>`}
+<h2 class="rh">${t('related')}</h2><div class="feed box">${rel.map(x=>row(x)).join('')}</div></section>`}
 function about(){return `<section class="page prose"><h1 class="ph">${t('aboutTitle')}</h1><p>${t('aboutBody')}</p><p class="note">${t('social')}</p>
 <p class="muted">${Object.values(LANGS).join(' · ')}</p></section>`}
 function nav(){$('#navlinks').innerHTML=['ai','repos','products','deals','ideas','about'].map(k=>`<a href="#/${k==='about'?'about':'c/'+k}">${t(k)}</a>`).join('');
 $('#footTxt').textContent='OPC Radar · '+t('foot');$('#updated').textContent=t('updated')+' '+(DATA.updated||'').replace('T',' ').slice(0,16)+' UTC · '+DATA.items.length;document.documentElement.lang=L}
-function route(){const h=location.hash.slice(1)||'/';if(h==='picks')return;const p=h.split('/').filter(Boolean);let html;
+function route(){const h=location.hash.slice(1)||'/';if(h==='top')return;const p=h.split('/').filter(Boolean);let html;
 if(!p.length)html=home();else if(p[0]==='c')html=channel(p[1]);else if(p[0]==='search')html=search(decodeURIComponent(p[1]||''));else if(p[0]==='item')html=item(p[1]);else if(p[0]==='about')html=about();else html=home();
 $('#app').innerHTML=html;scrollTo(0,0);document.querySelectorAll('#navlinks a').forEach(a=>a.classList.toggle('on',location.hash===a.getAttribute('href')));
 const q=$('#q');if(q){q.focus();q.setSelectionRange(q.value.length,q.value.length);q.oninput=()=>{clearTimeout(q._t);q._t=setTimeout(()=>{history.replaceState(null,'','#/search/'+encodeURIComponent(q.value));const v=q.value;$('#app').innerHTML=search(v);route2()},250)}}
@@ -76,5 +60,5 @@ $('#themeBtn').onclick=()=>{const n=document.documentElement.dataset.theme==='da
 $('#searchBtn').onclick=()=>location.hash='#/search';
 addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT/.test(document.activeElement.tagName)){e.preventDefault();location.hash='#/search'}});
 addEventListener('hashchange',route);
-addEventListener('pointermove',e=>{const c=e.target.closest&&e.target.closest('.card,.mo,.row');if(c){const r=c.getBoundingClientRect();c.style.setProperty('--mx',(e.clientX-r.left)+'px');c.style.setProperty('--my',(e.clientY-r.top)+'px')}});
+addEventListener('pointermove',e=>{const c=e.target.closest&&e.target.closest('.feat,.panel,.toast');if(c){const r=c.getBoundingClientRect();c.style.setProperty('--mx',(e.clientX-r.left)+'px');c.style.setProperty('--my',(e.clientY-r.top)+'px')}});
 fetch('data/items.json?'+Date.now()).then(r=>r.json()).then(d=>{DATA=d;nav();route()});
