@@ -1,0 +1,44 @@
+name: refresh-feed
+on:
+  schedule: [{cron: "0 1 * * *"}]   # 09:00 Asia/Shanghai daily
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: {group: refresh-feed, cancel-in-progress: false}
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - uses: actions/cache@v4
+        with: {path: ~/.local/share/argos-translate, key: argos-v1}
+      - name: Install translator + models
+        run: |
+          pip install argostranslate opencc-python-reimplemented
+          python3 - <<'PY'
+          import argostranslate.package as P
+          P.update_package_index(); av=P.get_available_packages()
+          inst={(p.from_code,p.to_code) for p in P.get_installed_packages()}
+          for a,b in [('zh','en')]+[('en',x) for x in ['zh','ja','ko','ms','vi','fr','es','de']]:
+              if (a,b) in inst: continue
+              p=next((p for p in av if p.from_code==a and p.to_code==b),None)
+              if p: P.install_from_path(p.download()); print('installed',a,b)
+              else: print('missing',a,b)
+          PY
+      - name: Refresh feed
+        run: python3 scripts/refresh.py
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+      - name: Commit
+        id: commit
+        run: |
+          git config user.name "XU SIYIN"; git config user.email sinxu.xsy@gmail.com
+          git add site/data/items.json scripts/i18n_cache.json
+          if git diff --cached --quiet; then echo "changed=0" >> $GITHUB_OUTPUT; else git commit -m "chore: daily feed refresh $(date -u +%F)" && git push && echo "changed=1" >> $GITHUB_OUTPUT; fi
+      - name: Publish site/ to gh-pages
+        if: steps.commit.outputs.changed == '1'
+        run: |
+          cd site && git init -q -b gh-pages && git add -A
+          git -c user.name="XU SIYIN" -c user.email=sinxu.xsy@gmail.com commit -qm "deploy $(date -u +%F)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages
