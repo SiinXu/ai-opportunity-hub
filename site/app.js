@@ -10,12 +10,23 @@ const GR_D={ai:"#1e1b4b",repos:"#064e3b",products:"#7c2d12",news:"#0c4a6e",deals
 const GR=()=>document.documentElement.dataset.theme==="dark"?GR_D:GR_L;
 
 const fav=(i,s=64)=>`https://www.google.com/s2/favicons?sz=${s}&domain=${host(i.url)}`;
-function thumb(i,cls='th'){const gh=i.ch==='repos'&&/github\.com\/[^/]+\/[^/]+/.test(i.url)?i.url.split('github.com/')[1].split('/').slice(0,2).join('/'):'';
-return `<div class="${cls}" style="--g:${GR()[i.ch]}">${gh?`<img loading="lazy" alt="" src="https://opengraph.githubassets.com/1/${gh}">`:`<span class="thf"><img loading="lazy" alt="" src="${fav(i,128)}"></span><span class="thw">${esc(host(i.url))}</span>`}</div>`}
+function thumb(i,cls='th',feat=false){
+  const g=GR()[i.ch];
+  const m=String(i.url||'').match(/github\.com\/([^/]+)\/([^/#?]+)/);
+  const gh=(i.ch==='repos'&&m)?`${m[1]}/${m[2]}`:'';
+  const owner=m?m[1]:'';
+  /* Featured/headline: cohesive channel tile + owner/favicon — never full white GH social card */
+  if(feat||!gh){
+    const icon=owner?`https://github.com/${owner}.png?size=128`:fav(i,128);
+    return `<div class="${cls} th-fb" style="--g:${g}"><span class="thf"><img loading="lazy" alt="" src="${icon}"></span><span class="thw">${esc(gh||host(i.url))}</span></div>`
+  }
+  /* Feed thumbs: crop GH OG (top ~55%, hide language bar + letterbox) + fade into card */
+  return `<div class="${cls} th-gh" style="--g:${g}"><img loading="lazy" alt="" src="https://opengraph.githubassets.com/1/${gh}" onerror="const p=this.parentElement;p.classList.remove('th-gh');p.classList.add('th-fb');p.innerHTML='<span class=\'thf\'><img loading=\'lazy\' alt=\'\' src=\'${fav(i,128)}\'></span><span class=\'thw\'>${esc(host(i.url))}</span>'"></div>`
+}
 const chip=i=>`<span class="chip c-${i.ch}">${ICON[i.ch]} ${t(i.ch)}</span>`;
 function row(i,n){return `<a class="row" href="#/item/${i.id}">${thumb(i,'rth')}
 <span class="rt"><span class="rk">${chip(i)}<time>${ago(i.date)}</time>${i.meta?`<em>${esc(i.meta)}</em>`:''}</span><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small></span><i class="go">↗</i></a>`}
-function card(i,cls=''){return `<a class="card ${cls}" href="#/item/${i.id}">${thumb(i)}<div class="cb"><span class="rk">${chip(i)}<time>${ago(i.date)}</time></span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="cf"><img alt="" src="${fav(i)}">${esc(host(i.url))}${i.meta?`<em>${esc(i.meta)}</em>`:''}</span></div></a>`}
+function card(i,cls=''){/* all cards use cohesive tile; feed rows may crop GH OG */return `<a class="card ${cls}" href="#/item/${i.id}">${thumb(i,'th',true)}<div class="cb"><span class="rk">${chip(i)}<time>${ago(i.date)}</time></span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="cf"><img alt="" src="${fav(i)}">${esc(host(i.url))}${i.meta?`<em>${esc(i.meta)}</em>`:''}</span></div></a>`}
 const tile=card;
 function bykind(c,n){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>(!!SS(b)-!!SS(a))||b.date.localeCompare(a.date)).slice(0,n)}
 function picks(){const p=[],u=new Set();[['repos',3],['ai',2],['products',2],['ideas',2],['deals',2],['news',1]].forEach(([c,n])=>bykind(c,n+3).filter(i=>!u.has(i.id)).slice(3,3+n).forEach(i=>{u.add(i.id);p.push(i)}));return p}

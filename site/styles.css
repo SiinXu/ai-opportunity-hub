@@ -54,12 +54,29 @@ kbd{font:500 11px "Geist Mono";border:1px solid var(--line);border-radius:6px;pa
 .card:after,.row:after,.mo:after{content:"";position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .3s;background:radial-gradient(360px circle at var(--mx,50%) var(--my,50%),var(--accent-soft),transparent 48%)}
 .card:hover:after,.row:hover:after,.mo:hover:after{opacity:1}
 .th{position:relative;aspect-ratio:2/1;background:var(--g,var(--accent-soft));overflow:hidden;display:grid;place-items:center}
-.th>img{width:100%;height:100%;object-fit:cover}
-.th:before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 30% 20%,rgba(255,255,255,.28),transparent 50%);opacity:.55}
-.thf{position:relative;width:64px;height:64px;border-radius:18px;background:#fff;display:grid;place-items:center;box-shadow:0 10px 28px -8px rgba(0,0,0,.28);transition:transform .3s}
-.thf img{width:38px;height:38px}
+.th>img{width:100%;height:100%;object-fit:cover;object-position:center 18%}
+.th:before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 30% 20%,rgba(255,255,255,.18),transparent 50%);opacity:.45;pointer-events:none;z-index:1}
+/* Favicon / owner-avatar tile — theme-aware, no pure-white plate */
+.th-fb{background:linear-gradient(160deg,var(--g,var(--accent-soft)),color-mix(in srgb,var(--g,var(--accent-soft)) 55%,var(--card)))}
+.thf{position:relative;z-index:2;width:64px;height:64px;border-radius:18px;background:color-mix(in srgb,var(--bg2) 92%,var(--fg) 6%);display:grid;place-items:center;box-shadow:0 10px 28px -8px rgba(0,0,0,.28);transition:transform .3s;border:1px solid var(--line)}
+.thf img{width:38px;height:38px;border-radius:10px}
 .card:hover .thf{transform:scale(1.06)}
-.thw{position:absolute;bottom:10px;left:12px;font:500 11px "Geist Mono";color:var(--fg);opacity:.55}
+.thw{position:absolute;z-index:2;bottom:10px;left:12px;font:500 11px "Geist Mono";color:var(--fg);opacity:.55}
+/* GitHub OG — crop to top ~55%, hide language color bar + white letterbox, fade into card */
+.th-gh{background:var(--card)}
+.th-gh>img{width:100%;height:100%;object-fit:cover;object-position:center 16%;transform:scale(1.32);transform-origin:center 14%;filter:saturate(.94)}
+[data-theme=dark] .th-gh>img{filter:saturate(.86) brightness(.62) contrast(1.08)}
+.th-gh:before{background:linear-gradient(180deg,rgba(0,0,0,.1) 0%,transparent 32%,color-mix(in srgb,var(--card) 40%,transparent) 62%,var(--card) 100%);opacity:1}
+[data-theme=dark] .th-gh:before{background:linear-gradient(180deg,rgba(9,9,15,.35) 0%,transparent 28%,rgba(18,18,28,.5) 58%,var(--card) 100%)}
+.th-gh:after{content:"";position:absolute;left:0;right:0;bottom:0;height:32%;background:linear-gradient(to bottom,transparent,var(--card));z-index:2;pointer-events:none}
+/* Featured / headline: stronger single-surface blend (no hard white/dark seam, no rainbow strip) */
+.card.head .th-gh,.card.xl .th-gh,.card.wide .th-gh{background:var(--card)}
+.card.head .th-gh:after,.card.xl .th-gh:after,.card.wide .th-gh:after{height:48%}
+.card.head .th-fb,.card.xl .th-fb,.card.wide .th-fb{background:linear-gradient(165deg,var(--g,var(--accent-soft)) 0%,color-mix(in srgb,var(--g) 40%,var(--card)) 55%,var(--card) 100%)}
+.card.xl .th-fb .thf{width:88px;height:88px;border-radius:22px}
+.card.xl .th-fb .thf img{width:52px;height:52px;border-radius:14px}
+.card.head .th-fb .thf{width:72px;height:72px;border-radius:20px}
+.card.head .th-fb .thf img{width:42px;height:42px;border-radius:12px}
 .cb{padding:16px 18px 18px;display:flex;flex-direction:column;gap:8px;flex:1}
 .cb b{font:700 17px/1.3 Geist,"PingFang SC";letter-spacing:-.01em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .cb p{margin:0;color:var(--mu);font-size:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -106,9 +123,13 @@ kbd{font:500 11px "Geist Mono";border:1px solid var(--line);border-radius:6px;pa
 .feed{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .row{position:relative;display:flex;gap:14px;align-items:center;padding:12px;border-radius:16px;background:var(--card);border:1px solid var(--line);box-shadow:var(--sh);transition:transform .2s,box-shadow .2s;overflow:hidden}
 .rth{flex:none;width:112px;height:72px;border-radius:12px;overflow:hidden;background:var(--g,var(--accent-soft));display:grid;place-items:center;position:relative}
-.rth>img{width:100%;height:100%;object-fit:cover}
+.rth>img{width:100%;height:100%;object-fit:cover;object-position:center 16%}
+.rth.th-gh>img{transform:scale(1.4);transform-origin:center 12%}
+[data-theme=dark] .rth.th-gh>img{filter:saturate(.86) brightness(.62) contrast(1.08)}
+.rth.th-gh:before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,var(--card));opacity:1;z-index:1}
+.rth.th-gh:after{display:none}
 .rth .thf{width:38px;height:38px;border-radius:11px}
-.rth .thf img{width:22px;height:22px}
+.rth .thf img{width:22px;height:22px;border-radius:6px}
 .rth .thw{display:none}
 .rt{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px}
 .rt b{font-weight:650;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
