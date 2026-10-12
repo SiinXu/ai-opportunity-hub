@@ -1,0 +1,1145 @@
+{
+ "updated": "2026-10-12T06:30:20.267018Z",
+ "items": [
+  {
+   "id": "c-0",
+   "ch": "deals",
+   "title": "GitHub 学生开发者包",
+   "summary": "学生认证后免费拿到数十个开发工具与云额度（域名、云主机、IDE 等）。",
+   "url": "https://education.github.com/pack",
+   "tags": [
+    "学生",
+    "开发"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-1",
+   "ch": "deals",
+   "title": "Cloudflare Workers 免费额度",
+   "summary": "每天 10 万次请求免费，部署边缘函数、静态站与 KV，独立开发者起步首选。",
+   "url": "https://workers.cloudflare.com/",
+   "tags": [
+    "云",
+    "免费"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-2",
+   "ch": "deals",
+   "title": "Oracle Cloud Always Free",
+   "summary": "永久免费的 ARM 云主机与存储额度，适合跑小型服务与爬虫。",
+   "url": "https://www.oracle.com/cloud/free/",
+   "tags": [
+    "云",
+    "免费"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-3",
+   "ch": "deals",
+   "title": "Google Cloud 免费试用与免费层",
+   "summary": "新用户赠送试用金，另有长期免费层产品。",
+   "url": "https://cloud.google.com/free",
+   "tags": [
+    "云",
+    "试用金"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-4",
+   "ch": "deals",
+   "title": "AWS Free Tier",
+   "summary": "新账户免费层与试用额度，覆盖计算、存储、数据库。",
+   "url": "https://aws.amazon.com/free/",
+   "tags": [
+    "云",
+    "试用金"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-5",
+   "ch": "deals",
+   "title": "AWS Activate 创业扶持",
+   "summary": "初创公司可申请 AWS 云额度与技术支持。",
+   "url": "https://aws.amazon.com/activate/",
+   "tags": [
+    "创业",
+    "云额度"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-6",
+   "ch": "deals",
+   "title": "Google for Startups Cloud Program",
+   "summary": "初创公司申请 Google Cloud 额度，AI 方向额度更高。",
+   "url": "https://cloud.google.com/startup",
+   "tags": [
+    "创业",
+    "AI"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-7",
+   "ch": "deals",
+   "title": "Microsoft for Startups",
+   "summary": "初创公司扶持计划，含 Azure 额度与开发工具。",
+   "url": "https://www.microsoft.com/en-us/startups",
+   "tags": [
+    "创业",
+    "云额度"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-8",
+   "ch": "deals",
+   "title": "free-for.dev 免费服务清单",
+   "summary": "开发者免费层服务的社区大合集，按类别整理。",
+   "url": "https://free-for.dev/",
+   "tags": [
+    "清单",
+    "免费"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-9",
+   "ch": "deals",
+   "title": "JetBrains 教育免费授权",
+   "summary": "学生与教师可免费使用全套 JetBrains IDE。",
+   "url": "https://www.jetbrains.com/community/education/",
+   "tags": [
+    "学生",
+    "IDE"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-10",
+   "ch": "deals",
+   "title": "Notion for Startups",
+   "summary": "符合条件的初创团队可申请 Notion 付费计划优惠。",
+   "url": "https://www.notion.com/startups",
+   "tags": [
+    "创业",
+    "协作"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-11",
+   "ch": "deals",
+   "title": "Supabase 免费计划",
+   "summary": "Postgres + 认证 + 存储的免费层，MVP 后端够用。",
+   "url": "https://supabase.com/pricing",
+   "tags": [
+    "后端",
+    "免费"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-12",
+   "ch": "ideas",
+   "title": "YC Requests for Startups",
+   "summary": "Y Combinator 公开的想要投资的创业方向清单，商机风向标。",
+   "url": "https://www.ycombinator.com/rfs",
+   "tags": [
+    "风向",
+    "创业"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-13",
+   "ch": "ideas",
+   "title": "Exploding Topics",
+   "summary": "追踪正在快速增长的搜索话题，提前发现需求。",
+   "url": "https://explodingtopics.com/",
+   "tags": [
+    "趋势",
+    "选题"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-14",
+   "ch": "ideas",
+   "title": "Google Trends",
+   "summary": "免费查看关键词热度与地区分布，验证点子与跨境选品。",
+   "url": "https://trends.google.com/",
+   "tags": [
+    "趋势",
+    "跨境"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-15",
+   "ch": "ideas",
+   "title": "Indie Hackers",
+   "summary": "独立开发者公开收入与经验的社区，大量可抄作业的案例。",
+   "url": "https://www.indiehackers.com/",
+   "tags": [
+    "社区",
+    "OPC"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-16",
+   "ch": "ideas",
+   "title": "Starter Story",
+   "summary": "创业者访谈：每个案例拆解收入、获客与工具栈。",
+   "url": "https://www.starterstory.com/",
+   "tags": [
+    "案例",
+    "OPC"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-17",
+   "ch": "ideas",
+   "title": "Product Hunt 每日榜",
+   "summary": "新产品每日发布榜，看什么在被追捧、什么能做差异化。",
+   "url": "https://www.producthunt.com/",
+   "tags": [
+    "新品",
+    "灵感"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-18",
+   "ch": "ideas",
+   "title": "Hacker News Show HN",
+   "summary": "开发者展示自制项目的板块，早期产品与真实反馈集中地。",
+   "url": "https://news.ycombinator.com/show",
+   "tags": [
+    "新品",
+    "开发"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-19",
+   "ch": "ideas",
+   "title": "GitHub Trending",
+   "summary": "每日/每周增长最快的开源仓库，找可二开、可包装的项目。",
+   "url": "https://github.com/trending",
+   "tags": [
+    "仓库",
+    "灵感"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-20",
+   "ch": "ideas",
+   "title": "Shopify 跨境开店",
+   "summary": "独立站建站与收款，跨境 DTC 起步常用方案。",
+   "url": "https://www.shopify.com/",
+   "tags": [
+    "跨境",
+    "电商"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "c-21",
+   "ch": "ideas",
+   "title": "Stripe Atlas",
+   "summary": "远程注册美国公司并开通收款，一人公司出海常见路径。",
+   "url": "https://stripe.com/atlas",
+   "tags": [
+    "出海",
+    "OPC"
+   ],
+   "meta": "",
+   "date": "2026-10-12",
+   "lang": "zh",
+   "source": "精选"
+  },
+  {
+   "id": "gh-1136590548",
+   "ch": "repos",
+   "title": "affaan-m/ECC",
+   "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "url": "https://github.com/affaan-m/ECC",
+   "tags": [
+    "LLM",
+    "JavaScript"
+   ],
+   "meta": "★ 277,384",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-1024554267",
+   "ch": "repos",
+   "title": "NousResearch/hermes-agent",
+   "summary": "The agent that grows with you",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "tags": [
+    "LLM",
+    "Python"
+   ],
+   "meta": "★ 252,877",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-787076358",
+   "ch": "repos",
+   "title": "firecrawl/firecrawl",
+   "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "tags": [
+    "LLM",
+    "TypeScript"
+   ],
+   "meta": "★ 190,593",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-614765452",
+   "ch": "repos",
+   "title": "Significant-Gravitas/AutoGPT",
+   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "tags": [
+    "LLM",
+    "Python"
+   ],
+   "meta": "★ 187,525",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-658928958",
+   "ch": "repos",
+   "title": "ollama/ollama",
+   "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+   "url": "https://github.com/ollama/ollama",
+   "tags": [
+    "LLM",
+    "Go"
+   ],
+   "meta": "★ 182,813",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-1333065091",
+   "ch": "repos",
+   "title": "deepseek-ai/deepseek-harness",
+   "summary": "DeepSeek Harness: Everything is a Plugin.",
+   "url": "https://github.com/deepseek-ai/deepseek-harness",
+   "tags": [
+    "Agent",
+    "TypeScript"
+   ],
+   "meta": "★ 247,747",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-1266797999",
+   "ch": "repos",
+   "title": "DietrichGebert/ponytail",
+   "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "tags": [
+    "Agent",
+    "JavaScript"
+   ],
+   "meta": "★ 161,287",
+   "date": "2026-10-10",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-193215554",
+   "ch": "repos",
+   "title": "n8n-io/n8n",
+   "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "url": "https://github.com/n8n-io/n8n",
+   "tags": [
+    "MCP",
+    "TypeScript"
+   ],
+   "meta": "★ 207,042",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-132464395",
+   "ch": "repos",
+   "title": "Snailclimb/JavaGuide",
+   "summary": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+   "url": "https://github.com/Snailclimb/JavaGuide",
+   "tags": [
+    "MCP",
+    "JavaScript"
+   ],
+   "meta": "★ 158,951",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-626805178",
+   "ch": "repos",
+   "title": "langgenius/dify",
+   "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+   "url": "https://github.com/langgenius/dify",
+   "tags": [
+    "MCP",
+    "TypeScript"
+   ],
+   "meta": "★ 158,195",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-701547123",
+   "ch": "repos",
+   "title": "open-webui/open-webui",
+   "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "url": "https://github.com/open-webui/open-webui",
+   "tags": [
+    "MCP",
+    "Python"
+   ],
+   "meta": "★ 154,355",
+   "date": "2026-10-11",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-1078079172",
+   "ch": "repos",
+   "title": "ComposioHQ/awesome-claude-skills",
+   "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "tags": [
+    "SaaS",
+    "Python"
+   ],
+   "meta": "★ 76,899",
+   "date": "2026-09-18",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-18840003",
+   "ch": "repos",
+   "title": "kriasoft/react-starter-kit",
+   "summary": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
+   "url": "https://github.com/kriasoft/react-starter-kit",
+   "tags": [
+    "SaaS",
+    "TypeScript"
+   ],
+   "meta": "★ 23,687",
+   "date": "2026-10-05",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-726082384",
+   "ch": "repos",
+   "title": "wasp-lang/open-saas",
+   "summary": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload",
+   "url": "https://github.com/wasp-lang/open-saas",
+   "tags": [
+    "SaaS",
+    "MDX"
+   ],
+   "meta": "★ 16,084",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-75505125",
+   "ch": "repos",
+   "title": "abpframework/abp",
+   "summary": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cut",
+   "url": "https://github.com/abpframework/abp",
+   "tags": [
+    "SaaS",
+    "C#"
+   ],
+   "meta": "★ 14,445",
+   "date": "2026-10-12",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "gh-1124295269",
+   "ch": "repos",
+   "title": "OpenByteInc/QuantDinger",
+   "summary": "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenan",
+   "url": "https://github.com/OpenByteInc/QuantDinger",
+   "tags": [
+    "SaaS",
+    "Python"
+   ],
+   "meta": "★ 12,689",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "GitHub"
+  },
+  {
+   "id": "hn-49984923",
+   "ch": "ai",
+   "title": "Sharing AI progress in mathematics",
+   "summary": "",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "discuss": "https://news.ycombinator.com/item?id=49984923",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 1354",
+   "date": "2026-10-06",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49883471",
+   "ch": "ai",
+   "title": "It's Time to Investigate the AI Labs",
+   "summary": "",
+   "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+   "discuss": "https://news.ycombinator.com/item?id=49883471",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 630",
+   "date": "2026-09-28",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49896050",
+   "ch": "ai",
+   "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+   "summary": "",
+   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+   "discuss": "https://news.ycombinator.com/item?id=49896050",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 571",
+   "date": "2026-09-29",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50023450",
+   "ch": "ai",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "summary": "",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "discuss": "https://news.ycombinator.com/item?id=50023450",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 443",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49875148",
+   "ch": "ai",
+   "title": "AI companies in race to demonstrate their model most threatening to humanity",
+   "summary": "",
+   "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+   "discuss": "https://news.ycombinator.com/item?id=49875148",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 442",
+   "date": "2026-09-28",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49890226",
+   "ch": "ai",
+   "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+   "summary": "",
+   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+   "discuss": "https://news.ycombinator.com/item?id=49890226",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 426",
+   "date": "2026-09-29",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49946228",
+   "ch": "ai",
+   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "summary": "",
+   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+   "discuss": "https://news.ycombinator.com/item?id=49946228",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 423",
+   "date": "2026-10-03",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50018817",
+   "ch": "ai",
+   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+   "summary": "",
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "discuss": "https://news.ycombinator.com/item?id=50018817",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 415",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49910553",
+   "ch": "ai",
+   "title": "The AI Race Just Got Awkward",
+   "summary": "",
+   "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+   "discuss": "https://news.ycombinator.com/item?id=49910553",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 413",
+   "date": "2026-09-30",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49880312",
+   "ch": "ai",
+   "title": "The problem is not AI code, but not knowing about system architecture or intent",
+   "summary": "",
+   "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+   "discuss": "https://news.ycombinator.com/item?id=49880312",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 388",
+   "date": "2026-09-28",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49997161",
+   "ch": "ai",
+   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+   "summary": "",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "discuss": "https://news.ycombinator.com/item?id=49997161",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 376",
+   "date": "2026-10-07",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49980715",
+   "ch": "ai",
+   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+   "summary": "",
+   "url": "https://github.com/FeSens/openTPU",
+   "discuss": "https://news.ycombinator.com/item?id=49980715",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 347",
+   "date": "2026-10-06",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49943034",
+   "ch": "ai",
+   "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+   "summary": "",
+   "url": "https://tej.as/blog/aleph-alpha-kolibri",
+   "discuss": "https://news.ycombinator.com/item?id=49943034",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 424",
+   "date": "2026-10-03",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50047422",
+   "ch": "ai",
+   "title": "The gap in shared understanding of LLM capability is widening",
+   "summary": "",
+   "url": "https://twitter.com/karpathy/status/2109361546505966046",
+   "discuss": "https://news.ycombinator.com/item?id=50047422",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 391",
+   "date": "2026-10-11",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49936575",
+   "ch": "ai",
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "summary": "",
+   "url": "https://dwarfstar.sh/",
+   "discuss": "https://news.ycombinator.com/item?id=49936575",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 367",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49929391",
+   "ch": "ai",
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "summary": "",
+   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+   "discuss": "https://news.ycombinator.com/item?id=49929391",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 345",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49882781",
+   "ch": "ai",
+   "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+   "summary": "",
+   "url": "https://stateofutopia.com/experiments/microllmlab/",
+   "discuss": "https://news.ycombinator.com/item?id=49882781",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 284",
+   "date": "2026-09-28",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49933476",
+   "ch": "ai",
+   "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+   "summary": "",
+   "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+   "discuss": "https://news.ycombinator.com/item?id=49933476",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 168",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49994443",
+   "ch": "products",
+   "title": "Bigwords.page – Turn any screen into a sign. The URL is the app",
+   "summary": "",
+   "url": "https://bigwords.page/",
+   "discuss": "https://news.ycombinator.com/item?id=49994443",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 723",
+   "date": "2026-10-07",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50024499",
+   "ch": "products",
+   "title": "Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+   "summary": "",
+   "url": "https://carrierexplode.com/",
+   "discuss": "https://news.ycombinator.com/item?id=50024499",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 425",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49898778",
+   "ch": "products",
+   "title": "Real-time Solar System with 526k asteroids and all tracked satellites",
+   "summary": "",
+   "url": "https://space.bl2.net/",
+   "discuss": "https://news.ycombinator.com/item?id=49898778",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 407",
+   "date": "2026-09-29",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49928566",
+   "ch": "products",
+   "title": "Giving Opus 5.5 a simulated paint canvas",
+   "summary": "",
+   "url": "https://stillwet.art/",
+   "discuss": "https://news.ycombinator.com/item?id=49928566",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 392",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50038634",
+   "ch": "products",
+   "title": "WallHop – 12ft.io is gone, so I built a replacement",
+   "summary": "",
+   "url": "https://wallhop.io/",
+   "discuss": "https://news.ycombinator.com/item?id=50038634",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 273",
+   "date": "2026-10-11",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50016312",
+   "ch": "products",
+   "title": "Quake ported to safe Rust, playable in browser",
+   "summary": "",
+   "url": "https://quake-srp.pages.dev/",
+   "discuss": "https://news.ycombinator.com/item?id=50016312",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 239",
+   "date": "2026-10-09",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49930439",
+   "ch": "products",
+   "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+   "summary": "",
+   "url": "https://niklasroy.com/gtc/",
+   "discuss": "https://news.ycombinator.com/item?id=49930439",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 235",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49879401",
+   "ch": "products",
+   "title": "HN.watch – Videos of all Hacker News posts",
+   "summary": "",
+   "url": "https://hn.watch/",
+   "discuss": "https://news.ycombinator.com/item?id=49879401",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 225",
+   "date": "2026-09-28",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50008047",
+   "ch": "products",
+   "title": "Making a flexible \"neon\" t-shirt with LED filaments",
+   "summary": "",
+   "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+   "discuss": "https://news.ycombinator.com/item?id=50008047",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 221",
+   "date": "2026-10-08",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49902382",
+   "ch": "products",
+   "title": "Ledge.sh – Runnable Markdown Notes",
+   "summary": "",
+   "url": "https://ledge.sh",
+   "discuss": "https://news.ycombinator.com/item?id=49902382",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 204",
+   "date": "2026-09-29",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49880601",
+   "ch": "products",
+   "title": "Destroy Any Website with Stickman",
+   "summary": "",
+   "url": "https://destroy.spritefusion.com/",
+   "discuss": "https://news.ycombinator.com/item?id=49880601",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 199",
+   "date": "2026-09-28",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50035886",
+   "ch": "news",
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "summary": "",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+   "discuss": "https://news.ycombinator.com/item?id=50035886",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 176",
+   "date": "2026-10-10",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50033721",
+   "ch": "news",
+   "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+   "summary": "",
+   "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+   "discuss": "https://news.ycombinator.com/item?id=50033721",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 139",
+   "date": "2026-10-10",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49995495",
+   "ch": "news",
+   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+   "summary": "",
+   "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+   "discuss": "https://news.ycombinator.com/item?id=49995495",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 951",
+   "date": "2026-10-07",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50006366",
+   "ch": "news",
+   "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+   "summary": "",
+   "url": "https://news.ycombinator.com/item?id=50006366",
+   "discuss": "https://news.ycombinator.com/item?id=50006366",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 771",
+   "date": "2026-10-08",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49937916",
+   "ch": "news",
+   "title": "Made an open-source Lego AI generator",
+   "summary": "",
+   "url": "https://github.com/anteloc/ldraw-nova",
+   "discuss": "https://news.ycombinator.com/item?id=49937916",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 170",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49957116",
+   "ch": "news",
+   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+   "summary": "",
+   "url": "https://github.com/omlahore/RemoveMacAI",
+   "discuss": "https://news.ycombinator.com/item?id=49957116",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 773",
+   "date": "2026-10-04",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49937276",
+   "ch": "news",
+   "title": "Apple Pass Designer",
+   "summary": "",
+   "url": "https://developer.apple.com/pass-designer/",
+   "discuss": "https://news.ycombinator.com/item?id=49937276",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 571",
+   "date": "2026-10-02",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-49962857",
+   "ch": "news",
+   "title": "Apple and a hacker's future",
+   "summary": "",
+   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "discuss": "https://news.ycombinator.com/item?id=49962857",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 298",
+   "date": "2026-10-05",
+   "lang": "en",
+   "source": "Hacker News"
+  },
+  {
+   "id": "hn-50031653",
+   "ch": "news",
+   "title": "Apple/macOS removed from official Unix registry",
+   "summary": "",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "discuss": "https://news.ycombinator.com/item?id=50031653",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 292",
+   "date": "2026-10-10",
+   "lang": "en",
+   "source": "Hacker News"
+  }
+ ]
+}

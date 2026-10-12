@@ -1,0 +1,332 @@
+[
+ {
+  "id": "c-0",
+  "ch": "deals",
+  "title": "GitHub 学生开发者包",
+  "summary": "学生认证后免费拿到数十个开发工具与云额度（域名、云主机、IDE 等）。",
+  "url": "https://education.github.com/pack",
+  "tags": [
+   "学生",
+   "开发"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-1",
+  "ch": "deals",
+  "title": "Cloudflare Workers 免费额度",
+  "summary": "每天 10 万次请求免费，部署边缘函数、静态站与 KV，独立开发者起步首选。",
+  "url": "https://workers.cloudflare.com/",
+  "tags": [
+   "云",
+   "免费"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-2",
+  "ch": "deals",
+  "title": "Oracle Cloud Always Free",
+  "summary": "永久免费的 ARM 云主机与存储额度，适合跑小型服务与爬虫。",
+  "url": "https://www.oracle.com/cloud/free/",
+  "tags": [
+   "云",
+   "免费"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-3",
+  "ch": "deals",
+  "title": "Google Cloud 免费试用与免费层",
+  "summary": "新用户赠送试用金，另有长期免费层产品。",
+  "url": "https://cloud.google.com/free",
+  "tags": [
+   "云",
+   "试用金"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-4",
+  "ch": "deals",
+  "title": "AWS Free Tier",
+  "summary": "新账户免费层与试用额度，覆盖计算、存储、数据库。",
+  "url": "https://aws.amazon.com/free/",
+  "tags": [
+   "云",
+   "试用金"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-5",
+  "ch": "deals",
+  "title": "AWS Activate 创业扶持",
+  "summary": "初创公司可申请 AWS 云额度与技术支持。",
+  "url": "https://aws.amazon.com/activate/",
+  "tags": [
+   "创业",
+   "云额度"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-6",
+  "ch": "deals",
+  "title": "Google for Startups Cloud Program",
+  "summary": "初创公司申请 Google Cloud 额度，AI 方向额度更高。",
+  "url": "https://cloud.google.com/startup",
+  "tags": [
+   "创业",
+   "AI"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-7",
+  "ch": "deals",
+  "title": "Microsoft for Startups",
+  "summary": "初创公司扶持计划，含 Azure 额度与开发工具。",
+  "url": "https://www.microsoft.com/en-us/startups",
+  "tags": [
+   "创业",
+   "云额度"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-8",
+  "ch": "deals",
+  "title": "free-for.dev 免费服务清单",
+  "summary": "开发者免费层服务的社区大合集，按类别整理。",
+  "url": "https://free-for.dev/",
+  "tags": [
+   "清单",
+   "免费"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-9",
+  "ch": "deals",
+  "title": "JetBrains 教育免费授权",
+  "summary": "学生与教师可免费使用全套 JetBrains IDE。",
+  "url": "https://www.jetbrains.com/community/education/",
+  "tags": [
+   "学生",
+   "IDE"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-10",
+  "ch": "deals",
+  "title": "Notion for Startups",
+  "summary": "符合条件的初创团队可申请 Notion 付费计划优惠。",
+  "url": "https://www.notion.com/startups",
+  "tags": [
+   "创业",
+   "协作"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-11",
+  "ch": "deals",
+  "title": "Supabase 免费计划",
+  "summary": "Postgres + 认证 + 存储的免费层，MVP 后端够用。",
+  "url": "https://supabase.com/pricing",
+  "tags": [
+   "后端",
+   "免费"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-12",
+  "ch": "ideas",
+  "title": "YC Requests for Startups",
+  "summary": "Y Combinator 公开的想要投资的创业方向清单，商机风向标。",
+  "url": "https://www.ycombinator.com/rfs",
+  "tags": [
+   "风向",
+   "创业"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-13",
+  "ch": "ideas",
+  "title": "Exploding Topics",
+  "summary": "追踪正在快速增长的搜索话题，提前发现需求。",
+  "url": "https://explodingtopics.com/",
+  "tags": [
+   "趋势",
+   "选题"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-14",
+  "ch": "ideas",
+  "title": "Google Trends",
+  "summary": "免费查看关键词热度与地区分布，验证点子与跨境选品。",
+  "url": "https://trends.google.com/",
+  "tags": [
+   "趋势",
+   "跨境"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-15",
+  "ch": "ideas",
+  "title": "Indie Hackers",
+  "summary": "独立开发者公开收入与经验的社区，大量可抄作业的案例。",
+  "url": "https://www.indiehackers.com/",
+  "tags": [
+   "社区",
+   "OPC"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-16",
+  "ch": "ideas",
+  "title": "Starter Story",
+  "summary": "创业者访谈：每个案例拆解收入、获客与工具栈。",
+  "url": "https://www.starterstory.com/",
+  "tags": [
+   "案例",
+   "OPC"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-17",
+  "ch": "ideas",
+  "title": "Product Hunt 每日榜",
+  "summary": "新产品每日发布榜，看什么在被追捧、什么能做差异化。",
+  "url": "https://www.producthunt.com/",
+  "tags": [
+   "新品",
+   "灵感"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-18",
+  "ch": "ideas",
+  "title": "Hacker News Show HN",
+  "summary": "开发者展示自制项目的板块，早期产品与真实反馈集中地。",
+  "url": "https://news.ycombinator.com/show",
+  "tags": [
+   "新品",
+   "开发"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-19",
+  "ch": "ideas",
+  "title": "GitHub Trending",
+  "summary": "每日/每周增长最快的开源仓库，找可二开、可包装的项目。",
+  "url": "https://github.com/trending",
+  "tags": [
+   "仓库",
+   "灵感"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-20",
+  "ch": "ideas",
+  "title": "Shopify 跨境开店",
+  "summary": "独立站建站与收款，跨境 DTC 起步常用方案。",
+  "url": "https://www.shopify.com/",
+  "tags": [
+   "跨境",
+   "电商"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-21",
+  "ch": "ideas",
+  "title": "Stripe Atlas",
+  "summary": "远程注册美国公司并开通收款，一人公司出海常见路径。",
+  "url": "https://stripe.com/atlas",
+  "tags": [
+   "出海",
+   "OPC"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ }
+]
