@@ -1,6 +1,6 @@
 name: refresh-feed
 on:
-  schedule: [{cron: "0 1,7 * * *"}]   # 09:00 and 15:00 Asia/Shanghai
+  schedule: [{cron: "*/15 * * * *"}]   # every 15 minutes
   workflow_dispatch:
 permissions: {contents: write}
 concurrency: {group: refresh-feed, cancel-in-progress: false}
