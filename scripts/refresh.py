@@ -26,12 +26,12 @@ new=(now-datetime.timedelta(days=10)).date().isoformat()
 r=get(f'https://api.github.com/search/repositories?q=created:>{new}&sort=stars&order=desc&per_page=40',gh)
 for x in (r or {}).get('items',[]):
     add(id='gh-'+str(x['id']),ch='repos',title=x['full_name'],summary=(x['description'] or '')[:220],url=x['html_url'],tags=['New',x.get('language') or 'Repo'],meta=f"★ {x['stargazers_count']:,}",date=x['created_at'][:16].replace('T',' '),lang='en',source='GitHub · new')
-def hn(query,ch,n,tags='story',pts=60,days=14):
+def hn(query,ch,n,tags='story',pts=60,days=14,tag=None):
     ts=int((now-datetime.timedelta(days=days)).timestamp())
     r=get(f'https://hn.algolia.com/api/v1/search?query={query}&tags={tags}&numericFilters=created_at_i>{ts},points>{pts}&hitsPerPage={n}')
     for x in (r or {}).get('hits',[]):
         u=x.get('url') or f"https://news.ycombinator.com/item?id={x['objectID']}"
-        add(id='hn-'+x['objectID'],ch=ch,title=re.sub(r'^(Show|Launch) HN: ','',x['title']),summary='',url=u,discuss=f"https://news.ycombinator.com/item?id={x['objectID']}",tags=['HN'],meta=f"▲ {x['points']}",date=x['created_at'][:16].replace('T',' '),lang='en',source='Hacker News')
+        add(id='hn-'+x['objectID'],ch=ch,pts=x.get('points',0),cmt=x.get('num_comments',0),title=re.sub(r'^(Show|Launch) HN: ','',x['title']),summary='',url=u,discuss=f"https://news.ycombinator.com/item?id={x['objectID']}",tags=['HN']+([tag] if tag else []),meta=f"▲ {x['points']}",date=x['created_at'][:16].replace('T',' '),lang='en',source='Hacker News')
 hn('AI','ai',20); hn('LLM','ai',12); hn('agent','ai',10); hn('OpenAI','ai',6); hn('','products',60,'show_hn',20); hn('Launch%20HN','products',8,'story',20,30)
 hn('startup','news',16); hn('SaaS','ideas',12,'story',30,30); hn('indie','ideas',10,'story',20,30); hn('side%20project','ideas',10,'story',20,30); hn('Claude','ai',10); hn('open%20source','repos',12); hn('free','deals',10,'story',40,30); hn('Ask%20HN','ideas',12,'ask_hn',40,14); hn('apple','news',6); hn('google','news',6); hn('','news',20,'front_page',200,3)
 r=get('https://huggingface.co/api/models?sort=trendingScore&limit=30')
@@ -44,6 +44,45 @@ for x in (get('https://dev.to/api/articles?top=7&per_page=30') or []):
 r=get('https://huggingface.co/api/spaces?sort=trendingScore&limit=25')
 for x in r or []:
     add(id='hfs-'+x['id'].replace('/','-'),ch='products',title=x['id'],summary=f"Trending AI app on Hugging Face Spaces · {x.get('sdk') or 'space'}",url='https://huggingface.co/spaces/'+x['id'],tags=['HF Space',x.get('sdk') or 'app'],meta=f"♥ {x.get('likes',0):,}",date=(x.get('createdAt') or now.isoformat())[:16].replace('T',' '),lang='en',source='HF Spaces')
+
+# ---- v7: more hot news / AI trends / deals / security ----
+for q in ['GPT','Gemini','Anthropic','DeepSeek','Qwen','Llama','MCP','AI%20agents','coding%20agent','Cursor','vibe%20coding','reasoning%20model','open%20weights','diffusion','video%20generation','RAG','inference','GPU','Nvidia','fine-tuning','benchmark','multimodal','voice%20AI','robotics']:
+    hn(q,'ai',8,'story',80,10,'Trend')
+for q in ['','AI']: hn(q,'news',30,'front_page',100,2)
+for q in ['vulnerability','CVE','security%20breach','zero-day','data%20leak','exploit','malware','supply%20chain%20attack']:
+    hn(q,'news',6,'story',80,14,'Security')
+for q in ['Microsoft','Amazon','Meta','Tesla','regulation','layoffs','acquisition','funding','EU','China','chip','privacy','Linux','Rust','browser']:
+    hn(q,'news',5,'story',150,7)
+for q in ['free%20tier','credits','discount','coupon','Black%20Friday','pricing%20change','open%20source%20alternative','free%20for%20students','price%20drop','lifetime%20deal']:
+    hn(q,'deals',6,'story',25,60,'Deal')
+for q in ['make%20money','revenue','MRR','bootstrapped','solo%20founder','niche','marketplace','acquired']:
+    hn(q,'ideas',6,'story',40,45)
+tsince=(now-datetime.timedelta(days=21)).date().isoformat()
+for q in ['topic:llm','topic:ai-agents','topic:mcp','topic:agent','topic:rag','topic:claude','topic:llm-inference','topic:generative-ai','topic:computer-use','topic:vibe-coding']:
+    r=get(f'https://api.github.com/search/repositories?q={q}+created:>{tsince}&sort=stars&order=desc&per_page=8',gh)
+    for x in (r or {}).get('items',[]):
+        add(id='gh-'+str(x['id']),ch='ai',title=x['full_name'],summary=(x['description'] or '')[:220],url=x['html_url'],tags=['Trend',q.split(':')[1]],meta=f"★ {x['stargazers_count']:,}",stars=x['stargazers_count'],date=x['created_at'][:16].replace('T',' '),lang='en',source='GitHub')
+r=get('https://huggingface.co/api/datasets?sort=trendingScore&limit=15')
+for x in r or []:
+    add(id='hfd-'+x['id'].replace('/','-'),ch='ai',title=x['id'],summary="Trending dataset on Hugging Face",url='https://huggingface.co/datasets/'+x['id'],tags=['HF','dataset'],meta=f"♥ {x.get('likes',0):,}",date=(x.get('createdAt') or now.isoformat())[:16].replace('T',' '),lang='en',source='Hugging Face')
+r=get('https://huggingface.co/api/daily_papers?limit=30')
+for x in r or []:
+    p=x.get('paper',{})
+    add(id='hfp-'+p.get('id',''),ch='ai',title=p.get('title',''),summary=(p.get('summary') or '')[:220].replace('\n',' '),url='https://huggingface.co/papers/'+p.get('id',''),tags=['Paper','Trend'],meta=f"▲ {p.get('upvotes',0)}",pts=p.get('upvotes',0),date=(x.get('publishedAt') or now.isoformat())[:16].replace('T',' '),lang='en',source='HF Papers')
+for x in (get('https://dev.to/api/articles?tag=ai&top=7&per_page=20') or [])+(get('https://dev.to/api/articles?tag=security&top=30&per_page=10') or []):
+    add(id='dt-'+str(x['id']),ch='news',title=x['title'],summary=(x.get('description') or '')[:200],url=x['url'],tags=['DEV']+x.get('tag_list',[])[:2],meta=f"♥ {x.get('positive_reactions_count',0)}",date=x['published_at'][:16].replace('T',' '),lang='en',source='DEV')
+# ---- hotness: flag top trend items + why-hot facts ----
+def age_h(i):
+    try: return max(1,(now-datetime.datetime.fromisoformat(i['date'].replace(' ','T')).replace(tzinfo=datetime.timezone.utc)).total_seconds()/3600)
+    except Exception: return 999
+for i in items:
+    sc=i.get('pts',0)+i.get('cmt',0)*0.5+i.get('stars',0)*0.3
+    i['heat']=round(sc/(age_h(i)+2)**0.8,2)
+    if i.get('pts') or i.get('stars'): i['hot']=dict(p=i.get('pts',0),c=i.get('cmt',0),s=i.get('stars',0),h=int(age_h(i)))
+    for k in ('pts','cmt','stars'): i.pop(k,None)
+for ch,n in [('ai',40),('news',40),('products',15),('repos',15),('ideas',10),('deals',10)]:
+    for i in sorted([x for x in items if x['ch']==ch and x.get('hot')],key=lambda x:-x['heat'])[:n]:
+        i['trend']=True
 items=json.load(open(os.path.join(D,'curated.json')))+items
 # ---- i18n ----
 LOC=['zh-Hans','zh-Hant','en','ja','ko','ms','vi','fr','es','de']

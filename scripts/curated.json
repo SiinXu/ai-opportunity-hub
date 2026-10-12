@@ -778,249 +778,11 @@
   "source": "精选"
  },
  {
-  "id": "c-54",
-  "ch": "deals",
-  "title": "Cloudflare Workers 免费额度",
-  "summary": "每天 10 万次请求免费，适合一人做 API、边缘函数和小工具。",
-  "url": "https://workers.cloudflare.com/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-55",
-  "ch": "deals",
-  "title": "Supabase 免费计划",
-  "summary": "Postgres + 认证 + 存储免费起步，独立开发 MVP 首选后端。",
-  "url": "https://supabase.com/pricing",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-56",
-  "ch": "deals",
-  "title": "Vercel Hobby 免费托管",
-  "summary": "个人项目免费部署 Next.js 与静态站，自带 CDN 和预览环境。",
-  "url": "https://vercel.com/pricing",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-57",
-  "ch": "deals",
-  "title": "Netlify 免费套餐",
-  "summary": "静态站与表单、函数免费额度，适合落地页快速上线。",
-  "url": "https://www.netlify.com/pricing/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-58",
-  "ch": "deals",
-  "title": "Google Cloud 免费试用 $300",
-  "summary": "新用户 90 天 300 美元额度，外加长期 Always Free 资源。",
-  "url": "https://cloud.google.com/free",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-59",
-  "ch": "deals",
-  "title": "AWS Free Tier",
-  "summary": "12 个月免费 + 永久免费服务，可跑小型 SaaS 后端。",
-  "url": "https://aws.amazon.com/free/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-60",
-  "ch": "deals",
-  "title": "Oracle Cloud Always Free",
-  "summary": "永久免费 ARM 云主机（最高 4 核 24G），自建服务性价比极高。",
-  "url": "https://www.oracle.com/cloud/free/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-61",
-  "ch": "deals",
-  "title": "Microsoft for Startups Founders Hub",
-  "summary": "初创可申请 Azure 额度与 OpenAI 等工具权益，无需融资。",
-  "url": "https://www.microsoft.com/en-us/startups",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-62",
-  "ch": "deals",
-  "title": "Neon Serverless Postgres 免费层",
-  "summary": "无服务器 Postgres 免费起步，按需扩缩，适合副业项目。",
-  "url": "https://neon.tech/pricing",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-63",
-  "ch": "deals",
-  "title": "Resend 免费邮件额度",
-  "summary": "每月 3000 封事务邮件免费，开发者友好的发信 API。",
-  "url": "https://resend.com/pricing",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-64",
-  "ch": "deals",
-  "title": "Hugging Face 免费 Spaces",
-  "summary": "免费部署 Gradio / Streamlit AI 小应用，快速验证 demo。",
-  "url": "https://huggingface.co/spaces",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-65",
-  "ch": "deals",
-  "title": "Groq 免费 API",
-  "summary": "高速推理开源模型 API，有免费额度，适合做低延迟 AI 产品。",
-  "url": "https://console.groq.com/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-66",
-  "ch": "deals",
-  "title": "Google AI Studio 免费 Gemini API",
-  "summary": "Gemini API 提供免费调用额度，适合原型验证。",
-  "url": "https://aistudio.google.com/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-67",
-  "ch": "deals",
-  "title": "JetBrains 学生免费授权",
-  "summary": "学生与教师可免费使用 JetBrains 全家桶 IDE。",
-  "url": "https://www.jetbrains.com/community/education/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-68",
-  "ch": "deals",
-  "title": "Figma 教育版免费",
-  "summary": "学生和教育者可免费使用 Figma 专业版功能。",
-  "url": "https://www.figma.com/education/",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
   "id": "c-69",
   "ch": "deals",
   "title": "Notion 教育版 Plus 免费",
   "summary": "学校邮箱注册即可免费使用 Notion Plus。",
   "url": "https://www.notion.com/product/notion-for-education",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-70",
-  "ch": "deals",
-  "title": "Stripe Atlas 注册美国公司",
-  "summary": "500 美元一站式注册特拉华公司并开通 Stripe，附合作伙伴优惠。",
-  "url": "https://stripe.com/atlas",
-  "tags": [
-   "精选"
-  ],
-  "meta": "",
-  "date": "2026-10-12",
-  "lang": "zh",
-  "source": "精选"
- },
- {
-  "id": "c-71",
-  "ch": "deals",
-  "title": "free-for.dev 免费开发者服务清单",
-  "summary": "社区维护的免费 SaaS / 云服务大全，找免费额度先查它。",
-  "url": "https://free-for.dev/",
   "tags": [
    "精选"
   ],
@@ -1165,6 +927,1390 @@
    "精选"
   ],
   "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-1",
+  "ch": "deals",
+  "title": "Cloudflare for Startups 最高 25 万美元额度",
+  "summary": "面向创业公司的 Cloudflare 额度与企业功能支持。",
+  "url": "https://www.cloudflare.com/forstartups/",
+  "tags": [
+   "创业",
+   "云额度"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-2",
+  "ch": "deals",
+  "title": "Cloudflare Pages 免费静态托管",
+  "summary": "无限静态请求与带宽，每月 500 次构建，适合独立站。",
+  "url": "https://pages.cloudflare.com/",
+  "tags": [
+   "托管",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-3",
+  "ch": "deals",
+  "title": "Cloudflare D1 免费 SQLite 数据库",
+  "summary": "Workers 免费层附带 D1 读写额度，零运维数据库。",
+  "url": "https://developers.cloudflare.com/d1/platform/pricing/",
+  "tags": [
+   "数据库",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-4",
+  "ch": "deals",
+  "title": "Cloudflare Workers AI 每日免费 Neurons",
+  "summary": "每天免费推理额度，可跑 Llama、Whisper 等开源模型。",
+  "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+  "tags": [
+   "AI",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-5",
+  "ch": "deals",
+  "title": "Azure 免费账户：200 美元额度 + 12 个月免费服务",
+  "summary": "新注册 30 天内 200 美元额度，另有常年免费服务。",
+  "url": "https://azure.microsoft.com/en-us/pricing/free-services",
+  "tags": [
+   "云额度",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-6",
+  "ch": "deals",
+  "title": "Azure for Students 100 美元免信用卡",
+  "summary": "学生邮箱认证即得 100 美元 Azure 额度，无需信用卡。",
+  "url": "https://azure.microsoft.com/en-us/free/students",
+  "tags": [
+   "学生",
+   "云额度"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-7",
+  "ch": "deals",
+  "title": "Google for Startups AI 计划最高 35 万美元",
+  "summary": "AI 初创公司可申请高额 Google Cloud 额度与技术支持。",
+  "url": "https://cloud.google.com/startup/ai",
+  "tags": [
+   "创业",
+   "AI",
+   "云额度"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-8",
+  "ch": "deals",
+  "title": "NVIDIA Inception 创业计划",
+  "summary": "免费加入，享 GPU 云折扣、培训与投资对接。",
+  "url": "https://www.nvidia.com/en-us/startups/",
+  "tags": [
+   "创业",
+   "GPU"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-9",
+  "ch": "deals",
+  "title": "OpenAI 开发者平台定价与免费层",
+  "summary": "按量计费，部分模型参与数据共享可获每日免费 token。",
+  "url": "https://platform.openai.com/docs/pricing",
+  "tags": [
+   "AI",
+   "API"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-10",
+  "ch": "deals",
+  "title": "Anthropic Startup Program",
+  "summary": "与合作 VC 合作的初创公司可获 Claude API 额度。",
+  "url": "https://www.anthropic.com/startups",
+  "tags": [
+   "AI",
+   "创业"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-11",
+  "ch": "deals",
+  "title": "Mistral La Plateforme 免费实验层",
+  "summary": "注册即可免费试用 Mistral 模型 API（有速率限制）。",
+  "url": "https://console.mistral.ai/",
+  "tags": [
+   "AI",
+   "API",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-12",
+  "ch": "deals",
+  "title": "Cerebras Inference 免费 API",
+  "summary": "超高速推理，开发者免费层每日 token 额度。",
+  "url": "https://cloud.cerebras.ai/",
+  "tags": [
+   "AI",
+   "API",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-13",
+  "ch": "deals",
+  "title": "Together AI 新用户额度",
+  "summary": "注册赠送体验额度，可调用上百个开源模型。",
+  "url": "https://www.together.ai/pricing",
+  "tags": [
+   "AI",
+   "API"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-14",
+  "ch": "deals",
+  "title": "SambaNova Cloud 免费推理",
+  "summary": "免费层可调用 Llama、DeepSeek 等大模型。",
+  "url": "https://cloud.sambanova.ai/",
+  "tags": [
+   "AI",
+   "API",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-15",
+  "ch": "deals",
+  "title": "GitHub Models 免费试用大模型",
+  "summary": "在 GitHub 内免费试用 GPT、Llama、Phi 等模型（限速）。",
+  "url": "https://github.com/marketplace?type=models",
+  "tags": [
+   "AI",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-16",
+  "ch": "deals",
+  "title": "GitHub Copilot Free",
+  "summary": "个人每月免费 2000 次补全和 50 次聊天。",
+  "url": "https://github.com/features/copilot/plans",
+  "tags": [
+   "AI",
+   "编程",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-17",
+  "ch": "deals",
+  "title": "Gemini Code Assist 个人免费",
+  "summary": "个人开发者免费使用，每月高额代码补全。",
+  "url": "https://codeassist.google/",
+  "tags": [
+   "AI",
+   "编程",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-18",
+  "ch": "deals",
+  "title": "Google Colab 免费 GPU",
+  "summary": "浏览器跑 Jupyter，免费 T4 GPU（有时长限制）。",
+  "url": "https://colab.research.google.com/",
+  "tags": [
+   "AI",
+   "GPU",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-19",
+  "ch": "deals",
+  "title": "Kaggle Notebooks 每周 30 小时 GPU",
+  "summary": "免费 GPU/TPU 配额，适合训练与微调小模型。",
+  "url": "https://www.kaggle.com/code",
+  "tags": [
+   "AI",
+   "GPU",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-20",
+  "ch": "deals",
+  "title": "Lightning AI 每月免费 GPU 小时",
+  "summary": "云端 Studio 每月赠送免费算力额度。",
+  "url": "https://lightning.ai/pricing",
+  "tags": [
+   "AI",
+   "GPU"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-21",
+  "ch": "deals",
+  "title": "Modal 每月 30 美元免费算力",
+  "summary": "Serverless GPU 平台，入门计划每月赠送额度。",
+  "url": "https://modal.com/pricing",
+  "tags": [
+   "AI",
+   "GPU",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-22",
+  "ch": "deals",
+  "title": "Replicate 模型托管按秒计费",
+  "summary": "上千开源模型一行代码调用，部分模型可免费试用。",
+  "url": "https://replicate.com/pricing",
+  "tags": [
+   "AI",
+   "API"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-23",
+  "ch": "deals",
+  "title": "Firebase Spark 免费计划",
+  "summary": "认证、Firestore、托管均有免费额度。",
+  "url": "https://firebase.google.com/pricing",
+  "tags": [
+   "后端",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-24",
+  "ch": "deals",
+  "title": "Appwrite Cloud 免费计划",
+  "summary": "开源 BaaS，免费层含数据库、认证、存储。",
+  "url": "https://appwrite.io/pricing",
+  "tags": [
+   "后端",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-25",
+  "ch": "deals",
+  "title": "Turso 免费 SQLite 边缘数据库",
+  "summary": "免费层包含数百个数据库与数 GB 存储。",
+  "url": "https://turso.tech/pricing",
+  "tags": [
+   "数据库",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-26",
+  "ch": "deals",
+  "title": "MongoDB Atlas 免费集群 M0",
+  "summary": "永久免费 512MB 集群。",
+  "url": "https://www.mongodb.com/pricing",
+  "tags": [
+   "数据库",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-27",
+  "ch": "deals",
+  "title": "Upstash Redis 免费层",
+  "summary": "Serverless Redis/Kafka/向量库，按请求计费含免费额度。",
+  "url": "https://upstash.com/pricing",
+  "tags": [
+   "数据库",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-28",
+  "ch": "deals",
+  "title": "Pinecone Starter 免费向量库",
+  "summary": "免费 Serverless 向量索引，适合 RAG 原型。",
+  "url": "https://www.pinecone.io/pricing/",
+  "tags": [
+   "AI",
+   "数据库",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-29",
+  "ch": "deals",
+  "title": "Qdrant Cloud 免费 1GB 集群",
+  "summary": "永久免费向量数据库集群。",
+  "url": "https://qdrant.tech/pricing/",
+  "tags": [
+   "AI",
+   "数据库",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-30",
+  "ch": "deals",
+  "title": "Clerk 免费 1 万月活认证",
+  "summary": "登录注册组件，免费层 1 万月活。",
+  "url": "https://clerk.com/pricing",
+  "tags": [
+   "认证",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-31",
+  "ch": "deals",
+  "title": "Railway 试用额度",
+  "summary": "一键部署后端与数据库，新用户赠送试用额度。",
+  "url": "https://railway.com/pricing",
+  "tags": [
+   "托管"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-32",
+  "ch": "deals",
+  "title": "Koyeb 免费实例",
+  "summary": "免费层可部署一个 Web 服务与 Postgres。",
+  "url": "https://www.koyeb.com/pricing",
+  "tags": [
+   "托管",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-33",
+  "ch": "deals",
+  "title": "Deno Deploy 免费层",
+  "summary": "每月 100 万请求的边缘函数托管。",
+  "url": "https://deno.com/deploy/pricing",
+  "tags": [
+   "托管",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-34",
+  "ch": "deals",
+  "title": "GitHub Pages 免费静态站",
+  "summary": "公开仓库免费托管静态网站并支持自定义域名。",
+  "url": "https://pages.github.com/",
+  "tags": [
+   "托管",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-35",
+  "ch": "deals",
+  "title": "Linear 免费计划 + 创业优惠",
+  "summary": "免费计划可无限成员；Linear for Startups 提供折扣。",
+  "url": "https://linear.app/pricing",
+  "tags": [
+   "效率",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-36",
+  "ch": "deals",
+  "title": "Notion AI 定价与试用",
+  "summary": "Notion AI 功能与试用说明。",
+  "url": "https://www.notion.com/pricing",
+  "tags": [
+   "AI",
+   "效率"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-37",
+  "ch": "deals",
+  "title": "Figma 免费 Starter 计划",
+  "summary": "个人免费 3 个设计文件，学生教育版全免。",
+  "url": "https://www.figma.com/pricing/",
+  "tags": [
+   "设计",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-38",
+  "ch": "deals",
+  "title": "Framer 免费建站",
+  "summary": "免费计划可发布带 framer 子域名的网站。",
+  "url": "https://www.framer.com/pricing",
+  "tags": [
+   "设计",
+   "建站",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-39",
+  "ch": "deals",
+  "title": "Webflow 免费入门",
+  "summary": "免费计划可在 webflow.io 子域名搭站。",
+  "url": "https://webflow.com/pricing",
+  "tags": [
+   "建站",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-40",
+  "ch": "deals",
+  "title": "Miro 教育版免费",
+  "summary": "学生与教师免费使用 Miro 教育版。",
+  "url": "https://miro.com/education-whiteboard/",
+  "tags": [
+   "学生",
+   "设计"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-41",
+  "ch": "deals",
+  "title": "Autodesk 教育版免费",
+  "summary": "学生免费使用 AutoCAD、Fusion、Maya 等软件。",
+  "url": "https://www.autodesk.com/education/edu-software/overview",
+  "tags": [
+   "学生",
+   "设计"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-42",
+  "ch": "deals",
+  "title": "Apple 教育优惠",
+  "summary": "学生与教师购买 Mac、iPad 享教育价。",
+  "url": "https://www.apple.com/us-edu/store",
+  "tags": [
+   "学生",
+   "硬件"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-43",
+  "ch": "deals",
+  "title": "Microsoft 365 教育版免费",
+  "summary": "学校邮箱可免费使用 Office 网页版与 Teams。",
+  "url": "https://www.microsoft.com/en-us/education/products/office",
+  "tags": [
+   "学生",
+   "效率"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-44",
+  "ch": "deals",
+  "title": "Spotify Premium 学生半价",
+  "summary": "学生认证享 Premium 半价订阅。",
+  "url": "https://www.spotify.com/us/student/",
+  "tags": [
+   "学生",
+   "订阅"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-45",
+  "ch": "deals",
+  "title": "Namecheap 学生免费 .me 域名",
+  "summary": "GitHub 学生包可领一年免费 .me 域名与 SSL。",
+  "url": "https://nc.me/",
+  "tags": [
+   "学生",
+   "域名"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-46",
+  "ch": "deals",
+  "title": "DigitalOcean 新用户 200 美元额度",
+  "summary": "新注册 60 天内 200 美元额度。",
+  "url": "https://www.digitalocean.com/pricing",
+  "tags": [
+   "云额度"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-47",
+  "ch": "deals",
+  "title": "DigitalOcean Hatch 创业计划",
+  "summary": "初创公司可申请云额度与技术支持。",
+  "url": "https://www.digitalocean.com/hatch",
+  "tags": [
+   "创业",
+   "云额度"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-48",
+  "ch": "deals",
+  "title": "Vultr 免费层与新用户赠金",
+  "summary": "入门 VPS 免费层与活动赠金。",
+  "url": "https://www.vultr.com/pricing/",
+  "tags": [
+   "云额度"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-49",
+  "ch": "deals",
+  "title": "Hetzner 高性价比云主机",
+  "summary": "欧洲低价 VPS，适合跑开源 SaaS。",
+  "url": "https://www.hetzner.com/cloud/",
+  "tags": [
+   "云",
+   "低价"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-50",
+  "ch": "deals",
+  "title": "阿里云 免费试用中心",
+  "summary": "云服务器、数据库等产品免费试用。",
+  "url": "https://free.aliyun.com/",
+  "tags": [
+   "云额度",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-51",
+  "ch": "deals",
+  "title": "腾讯云 免费体验馆",
+  "summary": "云服务器、对象存储等免费体验。",
+  "url": "https://cloud.tencent.com/act/free",
+  "tags": [
+   "云额度",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-52",
+  "ch": "deals",
+  "title": "火山引擎 方舟大模型免费 token",
+  "summary": "豆包等大模型新用户赠送免费推理额度。",
+  "url": "https://www.volcengine.com/product/ark",
+  "tags": [
+   "AI",
+   "API"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-53",
+  "ch": "deals",
+  "title": "阿里云百炼 新用户免费 token",
+  "summary": "通义千问等模型新用户赠送免费额度。",
+  "url": "https://bailian.console.aliyun.com/",
+  "tags": [
+   "AI",
+   "API"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-54",
+  "ch": "deals",
+  "title": "DeepSeek 开放平台",
+  "summary": "低价高性能 API，错峰时段优惠。",
+  "url": "https://platform.deepseek.com/",
+  "tags": [
+   "AI",
+   "API",
+   "低价"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-55",
+  "ch": "deals",
+  "title": "智谱 BigModel 免费模型",
+  "summary": "GLM Flash 系列模型 API 免费调用。",
+  "url": "https://bigmodel.cn/",
+  "tags": [
+   "AI",
+   "API",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-56",
+  "ch": "deals",
+  "title": "SiliconFlow 硅基流动 免费模型",
+  "summary": "多款开源模型 API 永久免费调用。",
+  "url": "https://siliconflow.cn/",
+  "tags": [
+   "AI",
+   "API",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-57",
+  "ch": "deals",
+  "title": "Stripe Atlas 合作伙伴优惠",
+  "summary": "注册公司后可领合作服务的折扣与额度。",
+  "url": "https://stripe.com/atlas/partners",
+  "tags": [
+   "创业",
+   "优惠"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-58",
+  "ch": "deals",
+  "title": "Brex 创业优惠",
+  "summary": "为初创公司提供合作 SaaS 折扣包。",
+  "url": "https://www.brex.com/startups",
+  "tags": [
+   "创业",
+   "优惠"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-59",
+  "ch": "deals",
+  "title": "Mercury 创业 Perks",
+  "summary": "Mercury 银行用户可领众多 SaaS 优惠。",
+  "url": "https://mercury.com/perks",
+  "tags": [
+   "创业",
+   "优惠"
+  ],
+  "meta": "创业额度",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-60",
+  "ch": "deals",
+  "title": "Secret 创业 SaaS 优惠合集",
+  "summary": "上百款 SaaS 的创业折扣。",
+  "url": "https://www.joinsecret.com/",
+  "tags": [
+   "优惠",
+   "合集"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-61",
+  "ch": "deals",
+  "title": "AppSumo 软件终身买断优惠",
+  "summary": "SaaS 终身授权（LTD）限时低价。",
+  "url": "https://appsumo.com/",
+  "tags": [
+   "优惠",
+   "买断"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-62",
+  "ch": "deals",
+  "title": "Awesome Black Friday / Cyber Monday 开发者折扣",
+  "summary": "GitHub 上整理的开发者软件年度大促清单。",
+  "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+  "tags": [
+   "优惠",
+   "合集"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-63",
+  "ch": "deals",
+  "title": "free-for-life 永久免费服务清单",
+  "summary": "整理永久免费的开发者与创业工具。",
+  "url": "https://github.com/ripienaar/free-for-dev",
+  "tags": [
+   "免费",
+   "合集"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-64",
+  "ch": "deals",
+  "title": "Let's Encrypt 免费 SSL 证书",
+  "summary": "免费自动续期的 HTTPS 证书。",
+  "url": "https://letsencrypt.org/",
+  "tags": [
+   "安全",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-65",
+  "ch": "deals",
+  "title": "HackerOne 漏洞赏金平台",
+  "summary": "提交漏洞赚取赏金，众多公司公开悬赏。",
+  "url": "https://www.hackerone.com/bug-bounty-programs",
+  "tags": [
+   "漏洞赏金",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-66",
+  "ch": "deals",
+  "title": "Bugcrowd 漏洞赏金项目",
+  "summary": "公开漏洞悬赏项目列表。",
+  "url": "https://bugcrowd.com/programs",
+  "tags": [
+   "漏洞赏金",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-67",
+  "ch": "deals",
+  "title": "Google 漏洞奖励计划 VRP",
+  "summary": "向 Google 报告漏洞可获最高数十万美元奖励。",
+  "url": "https://bughunters.google.com/",
+  "tags": [
+   "漏洞赏金",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-68",
+  "ch": "deals",
+  "title": "Microsoft 漏洞赏金计划",
+  "summary": "MSRC 针对 Azure、Copilot 等产品的漏洞悬赏。",
+  "url": "https://www.microsoft.com/en-us/msrc/bounty",
+  "tags": [
+   "漏洞赏金",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-69",
+  "ch": "deals",
+  "title": "Apple Security Bounty",
+  "summary": "向 Apple 报告漏洞最高 200 万美元奖励。",
+  "url": "https://security.apple.com/bounty/",
+  "tags": [
+   "漏洞赏金",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-70",
+  "ch": "deals",
+  "title": "OpenAI 漏洞赏金（Bugcrowd）",
+  "summary": "OpenAI 公开漏洞悬赏项目。",
+  "url": "https://bugcrowd.com/openai",
+  "tags": [
+   "漏洞赏金",
+   "AI",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-71",
+  "ch": "deals",
+  "title": "Anthropic 负责任披露与模型漏洞赏金",
+  "summary": "Anthropic 安全漏洞与越狱悬赏说明。",
+  "url": "https://www.anthropic.com/responsible-disclosure-policy",
+  "tags": [
+   "漏洞赏金",
+   "AI",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-72",
+  "ch": "deals",
+  "title": "huntr AI/ML 开源漏洞赏金",
+  "summary": "为 AI/ML 开源项目漏洞支付赏金。",
+  "url": "https://huntr.com/",
+  "tags": [
+   "漏洞赏金",
+   "AI",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-73",
+  "ch": "deals",
+  "title": "Immunefi Web3 漏洞赏金",
+  "summary": "智能合约漏洞悬赏，奖金极高。",
+  "url": "https://immunefi.com/",
+  "tags": [
+   "漏洞赏金",
+   "安全"
+  ],
+  "meta": "漏洞赏金",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-74",
+  "ch": "deals",
+  "title": "Snyk 免费开源安全扫描",
+  "summary": "免费扫描依赖漏洞与代码安全问题。",
+  "url": "https://snyk.io/plans/",
+  "tags": [
+   "安全",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-75",
+  "ch": "deals",
+  "title": "GitHub Advanced Security 公开仓库免费",
+  "summary": "CodeQL 代码扫描与密钥扫描对公开仓库免费。",
+  "url": "https://github.com/features/security",
+  "tags": [
+   "安全",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-76",
+  "ch": "deals",
+  "title": "Cloudflare Zero Trust 免费 50 人",
+  "summary": "免费零信任网络访问与安全网关。",
+  "url": "https://www.cloudflare.com/plans/zero-trust-services/",
+  "tags": [
+   "安全",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-77",
+  "ch": "deals",
+  "title": "Tailscale 免费个人计划",
+  "summary": "免费组建 100 台设备的私有网络。",
+  "url": "https://tailscale.com/pricing",
+  "tags": [
+   "网络",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-78",
+  "ch": "deals",
+  "title": "Plausible 社区版自托管",
+  "summary": "开源隐私友好网站分析，自托管免费。",
+  "url": "https://plausible.io/self-hosted-web-analytics",
+  "tags": [
+   "分析",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-79",
+  "ch": "deals",
+  "title": "Umami Cloud 免费层",
+  "summary": "开源网站统计，云端免费 10 万事件/月。",
+  "url": "https://umami.is/pricing",
+  "tags": [
+   "分析",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-80",
+  "ch": "deals",
+  "title": "Mailchimp 免费计划",
+  "summary": "500 联系人免费邮件营销。",
+  "url": "https://mailchimp.com/pricing/",
+  "tags": [
+   "营销",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-81",
+  "ch": "deals",
+  "title": "Brevo 每日 300 封免费邮件",
+  "summary": "事务与营销邮件免费额度。",
+  "url": "https://www.brevo.com/pricing/",
+  "tags": [
+   "营销",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-82",
+  "ch": "deals",
+  "title": "Buttondown 免费 Newsletter",
+  "summary": "100 订阅者以内免费。",
+  "url": "https://buttondown.com/pricing",
+  "tags": [
+   "营销",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-83",
+  "ch": "deals",
+  "title": "Beehiiv 免费 Newsletter",
+  "summary": "2500 订阅者以内免费发信。",
+  "url": "https://www.beehiiv.com/pricing",
+  "tags": [
+   "营销",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-84",
+  "ch": "deals",
+  "title": "Lemon Squeezy 无月费收款",
+  "summary": "按单抽成的 MoR 收款，零月费起步。",
+  "url": "https://www.lemonsqueezy.com/pricing",
+  "tags": [
+   "收款"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-85",
+  "ch": "deals",
+  "title": "Polar 开源者收款平台",
+  "summary": "面向开发者的 MoR 收款与订阅，低费率。",
+  "url": "https://polar.sh/",
+  "tags": [
+   "收款",
+   "开源"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-86",
+  "ch": "deals",
+  "title": "ElevenLabs 免费语音额度",
+  "summary": "每月免费 1 万字符 AI 语音合成。",
+  "url": "https://elevenlabs.io/pricing",
+  "tags": [
+   "AI",
+   "语音",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-87",
+  "ch": "deals",
+  "title": "Perplexity Pro 合作方免费活动",
+  "summary": "Perplexity 定期与运营商、银行等合作送 Pro。",
+  "url": "https://www.perplexity.ai/pro",
+  "tags": [
+   "AI",
+   "订阅"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-88",
+  "ch": "deals",
+  "title": "Cursor 学生免费 Pro",
+  "summary": "学生认证可免费使用 Cursor Pro 一年。",
+  "url": "https://cursor.com/students",
+  "tags": [
+   "AI",
+   "编程",
+   "学生"
+  ],
+  "meta": "学生",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-89",
+  "ch": "deals",
+  "title": "v0 by Vercel 免费额度",
+  "summary": "每月免费额度生成 UI 与全栈应用。",
+  "url": "https://v0.app/pricing",
+  "tags": [
+   "AI",
+   "设计",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-90",
+  "ch": "deals",
+  "title": "Bolt.new 免费 token",
+  "summary": "每天免费 token 用 AI 搭建全栈应用。",
+  "url": "https://bolt.new/pricing",
+  "tags": [
+   "AI",
+   "编程",
+   "免费"
+  ],
+  "meta": "免费/优惠",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "d2-91",
+  "ch": "deals",
+  "title": "Lovable 免费计划",
+  "summary": "每天免费消息额度，用 AI 生成网站应用。",
+  "url": "https://lovable.dev/pricing",
+  "tags": [
+   "AI",
+   "编程",
+   "免费"
+  ],
+  "meta": "免费/优惠",
   "date": "2026-10-12",
   "lang": "zh",
   "source": "精选"

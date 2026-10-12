@@ -12,12 +12,15 @@ const chip=i=>`<span class="chip"><i style="background:${DOT[i.ch]}"></i>${t(i.c
 function row(i,n){return `<a class="row" href="#/item/${i.id}">${n?`<span class="num">${String(n).padStart(2,'0')}</span>`:''}${ico(i)}
 <span class="rt"><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small><span class="rk">${chip(i)}<span>${esc(host(i.url))}</span>${i.meta?`<em>${esc(i.meta)}</em>`:''}<time>${ago(i.date)}</time></span></span></a>`}
 function bykind(c,n){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>(!!SS(b)-!!SS(a))||b.date.localeCompare(a.date)).slice(0,n)}
+function bytrend(n){return DATA.items.filter(i=>i.trend).sort((a,b)=>(b.heat||0)-(a.heat||0)||b.date.localeCompare(a.date)).slice(0,n)}
 function toast(i,k){return `<a class="toast" style="--k:${k}" href="#/item/${i.id}">${ico(i,'ico sm')}<span><b>${esc(TT(i))}</b><small>${t(i.ch)} · ${esc(i.meta||host(i.url))}</small></span><time>${ago(i.date)}</time></a>`}
 function feat(i){return `<a class="feat" href="#/item/${i.id}"><span class="fh">${ico(i,'ico lg')}${chip(i)}</span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="ff"><span>${esc(host(i.url))}</span>${i.meta?`<em>${esc(i.meta)}</em>`:''}<i>↗</i></span></a>`}
 function panel(c,n){const x=bykind(c,n);return `<section class="panel"><a class="ph2" href="#/c/${c}"><span><i style="background:${DOT[c]}"></i>${t(c)}</span><em>${DATA.items.filter(i=>i.ch===c).length} →</em></a>${x.map(i=>`<a class="mini" href="#/item/${i.id}">${ico(i,'ico sm')}<span><b>${esc(TT(i))}</b><small>${esc(i.meta||host(i.url))} · ${ago(i.date)}</small></span></a>`).join('')}</section>`}
 function home(){const used=new Set(),take=a=>a.filter(i=>!used.has(i.id)&&used.add(i.id));
 const toasts=take([...DATA.items].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,3));
 const feats=take([bykind('repos',2)[1],bykind('ai',2)[1],bykind('products',2)[1],bykind('ideas',2)[0],bykind('ideas',2)[1],bykind('deals',1)[0]].filter(Boolean)).slice(0,4);
+const trends=take(bytrend(12));
+const deals=take(bykind('deals',10));
 const top=take([...DATA.items].filter(i=>SS(i)).sort((a,b)=>b.date.localeCompare(a.date))).slice(0,14);
 return `<section class="hero"><div class="dots"></div><div class="hl">
 <a class="pill" href="#/c/ideas"><span>${t('pill1')}</span>${t('pill2')} →</a>
@@ -26,8 +29,11 @@ return `<section class="hero"><div class="dots"></div><div class="hl">
 <div class="stats">${CH.map(c=>`<a href="#/c/${c}"><b>${DATA.items.filter(i=>i.ch===c).length}</b><span><i style="background:${DOT[c]}"></i>${t(c)}</span></a>`).join('')}</div></div>
 <div class="stack"><span class="live"><i></i>LIVE · ${t('updated')} ${ago(DATA.updated)}</span>${toasts.map(toast).join('')}</div></section>
 <section class="sec"><div class="sh"><h2>${t('picks')}</h2></div><div class="feats">${feats.map(feat).join('')}</div></section>
+<section class="sec split"><div><div class="sh"><h2>${t('trends')}</h2><a class="muted" href="#/c/ai">${t('viewAll')} →</a></div><div class="feed box">${trends.map((i,n)=>row(i,n+1)).join('')}</div></div>
+<aside>${panel('news',6)}${panel('ai',5)}</aside></section>
+<section class="sec"><div class="sh"><h2>${t('deals')}</h2><a class="muted" href="#/c/deals">${t('viewAll')} →</a></div><div class="feed box">${deals.map((i,n)=>row(i,n+1)).join('')}</div></section>
 <section class="sec split" id="top"><div><div class="sh"><h2>${t('latest')}</h2><a class="muted" href="#/search">${t('viewAll')} →</a></div><div class="feed box">${top.map((i,n)=>row(i,n+1)).join('')}</div></div>
-<aside>${panel('repos',6)}${panel('deals',5)}</aside></section>
+<aside>${panel('repos',6)}${panel('products',5)}</aside></section>
 <section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="panels">${['ai','products','news','ideas'].map(c=>panel(c,6)).join('')}</div></section>`}
 function winList(c){return ''}
 function channel(c){const x=DATA.items.filter(i=>i.ch===c);return `<section class="page"><div class="tabs">${CH.map(k=>`<a class="${k===c?'on':''}" href="#/c/${k}">${ICON[k]} ${t(k)}</a>`).join('')}</div>
