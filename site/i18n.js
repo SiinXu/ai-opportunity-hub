@@ -18,3 +18,14 @@ if(/Taipei|Hong_Kong|Macau/.test(tz))return'zh-Hant';if(/Kuala_Lumpur|Kuching/.t
 for(const n of(navigator.languages||[navigator.language])){const l=(n||'').toLowerCase();
 if(l.startsWith('zh'))return/(tw|hk|mo|hant)/.test(l)?'zh-Hant':'zh-Hans';for(const c of['en','ja','ko','ms','vi','fr','es','de'])if(l.startsWith(c))return c}
 if(/Shanghai|Chongqing|Urumqi/.test(tz))return'zh-Hans';return'en'}
+const X7={"zh-Hans":["热点 · AI 趋势","按热度排序，正在被讨论最多的 AI 技术与科技新闻","羊毛优惠","免费额度、学生包、创业额度、漏洞赏金","{h} 小时内 {p} 赞 · {c} 评论","{s} 星 · {h} 小时内","安全"],
+"zh-Hant":["熱點 · AI 趨勢","依熱度排序，正被熱議的 AI 技術與科技新聞","羊毛優惠","免費額度、學生包、創業額度、漏洞賞金","{h} 小時內 {p} 讚 · {c} 留言","{s} 星 · {h} 小時內","安全"],
+en:["Hot · AI trends","Ranked by heat — the AI tech and news people are talking about most","Deals & freebies","Free tiers, student packs, startup credits, bug bounties","{p} points · {c} comments in {h}h","{s} stars in {h}h","Security"],
+ja:["ホット · AIトレンド","話題度順：いま最も議論されている AI 技術とニュース","お得・無料枠","無料枠・学生パック・スタートアップ特典・バグバウンティ","{h}時間で {p} pt · {c} コメント","{h}時間で ★{s}","セキュリティ"],
+ko:["핫 · AI 트렌드","화제성 순: 지금 가장 많이 논의되는 AI 기술과 뉴스","혜택 · 무료","무료 티어, 학생 팩, 스타트업 크레딧, 버그 바운티","{h}시간 동안 {p}점 · 댓글 {c}","{h}시간 동안 ★{s}","보안"],
+ms:["Hangat · Trend AI","Disusun ikut populariti — teknologi AI dan berita paling dibincangkan","Tawaran & percuma","Tahap percuma, pakej pelajar, kredit startup, ganjaran pepijat","{p} mata · {c} komen dalam {h}j","{s} bintang dalam {h}j","Keselamatan"],
+vi:["Nóng · Xu hướng AI","Xếp theo độ nóng — công nghệ AI và tin tức được bàn nhiều nhất","Ưu đãi & miễn phí","Gói miễn phí, gói sinh viên, tín dụng startup, săn lỗi nhận thưởng","{p} điểm · {c} bình luận trong {h} giờ","{s} sao trong {h} giờ","Bảo mật"],
+fr:["Tendances IA","Classé par chaleur — l'IA et l'actu dont on parle le plus","Bons plans & gratuit","Offres gratuites, packs étudiants, crédits startup, bug bounties","{p} points · {c} commentaires en {h} h","{s} étoiles en {h} h","Sécurité"],
+es:["Tendencias IA","Ordenado por calor: la IA y noticias más comentadas","Ofertas y gratis","Planes gratis, packs de estudiante, créditos startup, bug bounties","{p} puntos · {c} comentarios en {h} h","{s} estrellas en {h} h","Seguridad"],
+de:["Heiß · KI-Trends","Nach Hitze sortiert — die meistdiskutierte KI und News","Deals & Gratis","Free Tiers, Studentenpakete, Startup-Credits, Bug-Bounties","{p} Punkte · {c} Kommentare in {h} Std.","{s} Sterne in {h} Std.","Sicherheit"]};
+["hot","hotSub","dealsT","dealsSub","whyHN","whyGH","sec"].forEach((k,i)=>{for(const l in X7)I18N[l][k]=X7[l][i]});

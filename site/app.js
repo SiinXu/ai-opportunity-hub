@@ -16,11 +16,16 @@ function bytrend(n){return DATA.items.filter(i=>i.trend).sort((a,b)=>(b.heat||0)
 function toast(i,k){return `<a class="toast" style="--k:${k}" href="#/item/${i.id}">${ico(i,'ico sm')}<span><b>${esc(TT(i))}</b><small>${t(i.ch)} · ${esc(i.meta||host(i.url))}</small></span><time>${ago(i.date)}</time></a>`}
 function feat(i){return `<a class="feat" href="#/item/${i.id}"><span class="fh">${ico(i,'ico lg')}${chip(i)}</span><b>${esc(TT(i))}</b><p>${esc(SS(i)||host(i.url))}</p><span class="ff"><span>${esc(host(i.url))}</span>${i.meta?`<em>${esc(i.meta)}</em>`:''}<i>↗</i></span></a>`}
 function panel(c,n){const x=bykind(c,n);return `<section class="panel"><a class="ph2" href="#/c/${c}"><span><i style="background:${DOT[c]}"></i>${t(c)}</span><em>${DATA.items.filter(i=>i.ch===c).length} →</em></a>${x.map(i=>`<a class="mini" href="#/item/${i.id}">${ico(i,'ico sm')}<span><b>${esc(TT(i))}</b><small>${esc(i.meta||host(i.url))} · ${ago(i.date)}</small></span></a>`).join('')}</section>`}
+const why=i=>{const h=i.hot;if(!h)return'';const f=(h.s&&!h.p?t('whyGH'):t('whyHN'));return '🔥 '+f.replace('{p}',h.p).replace('{c}',h.c).replace('{s}',h.s.toLocaleString()).replace('{h}',h.h)};
+function hrow(i,n){return `<a class="hrow" href="#/item/${i.id}"><span class="num">${String(n).padStart(2,'0')}</span>${ico(i,'ico sm')}<span class="rt"><b>${esc(TT(i))}</b><small>${chip(i)} ${i.tags.includes('Security')?`<span class="chip">${t('sec')}</span>`:''}<span>${esc(why(i)||host(i.url))}</span></small></span></a>`}
+function drow(i){return `<a class="drow" href="#/item/${i.id}">${ico(i,'ico sm')}<span class="rt"><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small></span>${i.meta&&!/^[▲★♥]/.test(i.meta)?`<em class="tagm">${esc(i.meta)}</em>`:''}</a>`}
 function home(){const used=new Set(),take=a=>a.filter(i=>!used.has(i.id)&&used.add(i.id));
 const toasts=take([...DATA.items].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,3));
 const feats=take([bykind('repos',2)[1],bykind('ai',2)[1],bykind('products',2)[1],bykind('ideas',2)[0],bykind('ideas',2)[1],bykind('deals',1)[0]].filter(Boolean)).slice(0,4);
 const trends=take(bytrend(12));
 const deals=take(bykind('deals',10));
+const hot=take(DATA.items.filter(i=>i.trend&&(i.ch==='ai'||i.ch==='news'||i.ch==='products')).sort((a,b)=>b.heat-a.heat)).slice(0,24);
+const dl=DATA.items.filter(i=>i.ch==='deals'),pick=[...dl.filter(i=>i.source!=='精选').sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6),...dl.filter(i=>i.source==='精选').slice(-30)];const dls=take(pick).slice(0,24);
 const top=take([...DATA.items].filter(i=>SS(i)).sort((a,b)=>b.date.localeCompare(a.date))).slice(0,14);
 return `<section class="hero"><div class="dots"></div><div class="hl">
 <a class="pill" href="#/c/ideas"><span>${t('pill1')}</span>${t('pill2')} →</a>
@@ -28,6 +33,8 @@ return `<section class="hero"><div class="dots"></div><div class="hl">
 <div class="ctas"><a class="btn pri" href="#top">${t('cta1')}</a><a class="btn" href="#/search">${t('cta2')} <kbd>/</kbd></a></div>
 <div class="stats">${CH.map(c=>`<a href="#/c/${c}"><b>${DATA.items.filter(i=>i.ch===c).length}</b><span><i style="background:${DOT[c]}"></i>${t(c)}</span></a>`).join('')}</div></div>
 <div class="stack"><span class="live"><i></i>LIVE · ${t('updated')} ${ago(DATA.updated)}</span>${toasts.map(toast).join('')}</div></section>
+<section class="sec" id="hot"><div class="sh"><div><h2>${t('hot')}</h2><p class="muted">${t('hotSub')}</p></div><a class="muted" href="#/c/ai">${t('viewAll')} →</a></div><div class="hgrid box">${hot.map((i,n)=>hrow(i,n+1)).join('')}</div></section>
+<section class="sec" id="deals"><div class="sh"><div><h2>${t('dealsT')}</h2><p class="muted">${t('dealsSub')}</p></div><a class="muted" href="#/c/deals">${DATA.items.filter(i=>i.ch==='deals').length} →</a></div><div class="dgrid">${dls.map(drow).join('')}</div></section>
 <section class="sec"><div class="sh"><h2>${t('picks')}</h2></div><div class="feats">${feats.map(feat).join('')}</div></section>
 <section class="sec split"><div><div class="sh"><h2>${t('trends')}</h2><a class="muted" href="#/c/ai">${t('viewAll')} →</a></div><div class="feed box">${trends.map((i,n)=>row(i,n+1)).join('')}</div></div>
 <aside>${panel('news',6)}${panel('ai',5)}</aside></section>
