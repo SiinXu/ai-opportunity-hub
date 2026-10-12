@@ -328,5 +328,453 @@
   "date": "2026-10-12",
   "lang": "zh",
   "source": "精选"
+ },
+ {
+  "id": "c-22",
+  "ch": "deals",
+  "title": "Vercel Hobby 免费计划",
+  "summary": "个人项目免费托管前端与 Serverless 函数，自带全球 CDN。",
+  "url": "https://vercel.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-23",
+  "ch": "deals",
+  "title": "Netlify 免费套餐",
+  "summary": "静态站与函数免费托管，表单与部署预览开箱即用。",
+  "url": "https://www.netlify.com/pricing/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-24",
+  "ch": "deals",
+  "title": "Fly.io 免费额度",
+  "summary": "小型容器应用可低成本部署到全球多个区域。",
+  "url": "https://fly.io/docs/about/pricing/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-25",
+  "ch": "deals",
+  "title": "Render 免费实例",
+  "summary": "Web 服务、Postgres 与静态站提供免费层，适合 Demo。",
+  "url": "https://render.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-26",
+  "ch": "deals",
+  "title": "Neon Serverless Postgres 免费层",
+  "summary": "按需伸缩的 Postgres，免费层支持分支数据库。",
+  "url": "https://neon.tech/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-27",
+  "ch": "deals",
+  "title": "Hugging Face Spaces",
+  "summary": "免费托管 AI Demo（Gradio/Streamlit），社区曝光好。",
+  "url": "https://huggingface.co/spaces",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-28",
+  "ch": "deals",
+  "title": "Google AI Studio 免费 API",
+  "summary": "Gemini 模型提供免费调用额度，做原型很方便。",
+  "url": "https://aistudio.google.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-29",
+  "ch": "deals",
+  "title": "Groq 免费 API",
+  "summary": "超快推理的开源模型 API，提供免费调用层级。",
+  "url": "https://console.groq.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-30",
+  "ch": "deals",
+  "title": "OpenRouter 免费模型",
+  "summary": "一个 API 聚合多家模型，部分模型可免费调用。",
+  "url": "https://openrouter.ai/models",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-31",
+  "ch": "deals",
+  "title": "Cloudflare R2 免费额度",
+  "summary": "对象存储每月 10GB 免费且无出站流量费。",
+  "url": "https://developers.cloudflare.com/r2/pricing/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-32",
+  "ch": "deals",
+  "title": "GitHub Copilot 学生/开源免费",
+  "summary": "学生与热门开源维护者可免费使用 Copilot。",
+  "url": "https://github.com/features/copilot",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-33",
+  "ch": "deals",
+  "title": "Figma 教育计划",
+  "summary": "学生与教育者可免费使用 Figma 专业版功能。",
+  "url": "https://www.figma.com/education/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-34",
+  "ch": "deals",
+  "title": "Canva 教育与公益",
+  "summary": "教育与非营利机构可免费使用 Canva 高级版。",
+  "url": "https://www.canva.com/education/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-35",
+  "ch": "deals",
+  "title": "Resend 免费邮件额度",
+  "summary": "开发者友好的邮件 API，每月 3000 封免费。",
+  "url": "https://resend.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-36",
+  "ch": "deals",
+  "title": "PostHog 免费层",
+  "summary": "产品分析、录屏与功能开关，每月大量免费事件。",
+  "url": "https://posthog.com/pricing",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-37",
+  "ch": "deals",
+  "title": "Sentry 开发者免费计划",
+  "summary": "错误监控免费层，单人项目足够。",
+  "url": "https://sentry.io/pricing/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-38",
+  "ch": "ideas",
+  "title": "a16z 消费级 AI 百强榜",
+  "summary": "a16z 定期发布最受欢迎的生成式 AI 应用榜单，看用户真实需求。",
+  "url": "https://a16z.com/100-gen-ai-apps/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-39",
+  "ch": "ideas",
+  "title": "There's An AI For That",
+  "summary": "AI 工具目录与每日新上架，找空白赛道。",
+  "url": "https://theresanaiforthat.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-40",
+  "ch": "ideas",
+  "title": "Futurepedia",
+  "summary": "AI 工具大全与分类，观察细分市场饱和度。",
+  "url": "https://www.futurepedia.io/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-41",
+  "ch": "ideas",
+  "title": "Acquire.com",
+  "summary": "小型 SaaS 买卖市场，看哪些产品值钱、收入多少。",
+  "url": "https://acquire.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-42",
+  "ch": "ideas",
+  "title": "MicroConf",
+  "summary": "面向自筹资金 SaaS 创始人的社区与演讲资源。",
+  "url": "https://microconf.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-43",
+  "ch": "ideas",
+  "title": "Failory",
+  "summary": "失败创业案例与访谈，避开常见坑。",
+  "url": "https://www.failory.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-44",
+  "ch": "ideas",
+  "title": "Trends.vc",
+  "summary": "每期一份细分市场趋势报告，含机会与玩家。",
+  "url": "https://trends.vc/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-45",
+  "ch": "ideas",
+  "title": "Reddit r/SideProject",
+  "summary": "独立开发者发布副业项目并收集反馈的社区。",
+  "url": "https://www.reddit.com/r/SideProject/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-46",
+  "ch": "ideas",
+  "title": "BetaList",
+  "summary": "早期创业产品发布平台，发现新方向与早期用户。",
+  "url": "https://betalist.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-47",
+  "ch": "ideas",
+  "title": "Lenny's Newsletter",
+  "summary": "产品与增长深度文章，适合做 PMF 判断。",
+  "url": "https://www.lennysnewsletter.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-48",
+  "ch": "ideas",
+  "title": "Amazon Best Sellers",
+  "summary": "亚马逊各类目畅销榜，跨境选品基础参考。",
+  "url": "https://www.amazon.com/gp/bestsellers",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-49",
+  "ch": "ideas",
+  "title": "Etsy 趋势",
+  "summary": "手作与创意商品平台，适合一人设计师出海。",
+  "url": "https://www.etsy.com/featured/trending-now",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-50",
+  "ch": "ideas",
+  "title": "Gumroad Discover",
+  "summary": "创作者数字产品市场，模板/课程/素材变现参考。",
+  "url": "https://gumroad.com/discover",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-51",
+  "ch": "ideas",
+  "title": "Lemon Squeezy",
+  "summary": "数字产品与 SaaS 收款平台，代缴全球税务。",
+  "url": "https://www.lemonsqueezy.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-52",
+  "ch": "ideas",
+  "title": "Paddle",
+  "summary": "SaaS 记录商家模式收款，适合一人公司出海。",
+  "url": "https://www.paddle.com/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
+ },
+ {
+  "id": "c-53",
+  "ch": "ideas",
+  "title": "Wise Business",
+  "summary": "多币种账户与低费率跨境收付款。",
+  "url": "https://wise.com/business/",
+  "tags": [
+   "精选"
+  ],
+  "meta": "",
+  "date": "2026-10-12",
+  "lang": "zh",
+  "source": "精选"
  }
 ]
