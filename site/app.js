@@ -5,10 +5,13 @@ const $=s=>document.querySelector(s),esc=s=>String(s||'').replace(/[&<>"]/g,c=>(
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return''}};
 const TT=i=>(i.title_i18n&&i.title_i18n[L])||i.title,SS=i=>(i.summary_i18n&&i.summary_i18n[L])||i.summary||'';
 function ago(d){if(!d)return'';const m=(Date.now()-Date.parse(d.replace(' ','T')+(d.length>10&&!/Z$/.test(d)?'Z':'')))/6e4;if(!isFinite(m))return'';const f=new Intl.RelativeTimeFormat(L,{numeric:'auto'});return m<60?f.format(-Math.max(1,Math.round(m)),'minute'):m<1440?f.format(-Math.round(m/60),'hour'):f.format(-Math.round(m/1440),'day')}
-const GR={ai:"linear-gradient(135deg,#6366f1,#06b6d4)",repos:"linear-gradient(135deg,#10b981,#84cc16)",products:"linear-gradient(135deg,#f97316,#ec4899)",news:"linear-gradient(135deg,#0ea5e9,#6366f1)",deals:"linear-gradient(135deg,#f43f5e,#f59e0b)",ideas:"linear-gradient(135deg,#eab308,#f97316)"};
+const GR_L={ai:"#e0e7ff",repos:"#d1fae5",products:"#ffedd5",news:"#e0f2fe",deals:"#ffe4e6",ideas:"#fef3c7"};
+const GR_D={ai:"#1e1b4b",repos:"#064e3b",products:"#7c2d12",news:"#0c4a6e",deals:"#881337",ideas:"#713f12"};
+const GR=()=>document.documentElement.dataset.theme==="dark"?GR_D:GR_L;
+
 const fav=(i,s=64)=>`https://www.google.com/s2/favicons?sz=${s}&domain=${host(i.url)}`;
 function thumb(i,cls='th'){const gh=i.ch==='repos'&&/github\.com\/[^/]+\/[^/]+/.test(i.url)?i.url.split('github.com/')[1].split('/').slice(0,2).join('/'):'';
-return `<div class="${cls}" style="--g:${GR[i.ch]}">${gh?`<img loading="lazy" alt="" src="https://opengraph.githubassets.com/1/${gh}">`:`<span class="thf"><img loading="lazy" alt="" src="${fav(i,128)}"></span><span class="thw">${esc(host(i.url))}</span>`}</div>`}
+return `<div class="${cls}" style="--g:${GR()[i.ch]}">${gh?`<img loading="lazy" alt="" src="https://opengraph.githubassets.com/1/${gh}">`:`<span class="thf"><img loading="lazy" alt="" src="${fav(i,128)}"></span><span class="thw">${esc(host(i.url))}</span>`}</div>`}
 const chip=i=>`<span class="chip c-${i.ch}">${ICON[i.ch]} ${t(i.ch)}</span>`;
 function row(i,n){return `<a class="row" href="#/item/${i.id}">${thumb(i,'rth')}
 <span class="rt"><span class="rk">${chip(i)}<time>${ago(i.date)}</time>${i.meta?`<em>${esc(i.meta)}</em>`:''}</span><b>${esc(TT(i))}</b><small>${esc(SS(i)||host(i.url))}</small></span><i class="go">↗</i></a>`}
@@ -22,14 +25,14 @@ return `<section class="hero"><div class="glow"></div>
 <a class="pill rise" href="#/c/ideas"><span class="dot"></span><b>${t('pill1')}</b><span>${t('pill2')}</span>›</a>
 <h1 class="rise d1">${t('h1a')} <span class="grad">${t('h1b')}</span></h1>
 <p class="lede rise d2">${t('lede1')} ${t('lede2')}</p>
-<div class="ctas rise d2"><a class="btn pri beam" href="#picks"><span>${t('cta1')} →</span></a><a class="btn" href="#/search">⌕ ${t('cta2')} <kbd>/</kbd></a><span class="livep"><i></i>${DATA.items.length} · ${t('updated')} ${ago(DATA.updated)}</span></div>
-<div class="heads rise d3">${heads.map((i,k)=>card(i,'head'+(k?'':' beam'))).join('')}</div></section>
-<section class="sec"><div class="mosaic">${CH.map(c=>{const x=DATA.items.filter(i=>i.ch===c);return `<a class="mo" href="#/c/${c}" style="--g:${GR[c]}"><span class="mi">${ICON[c]}</span><b class="big">${x.length}</b><span class="mt">${t(c)}</span><span class="favs">${x.slice(0,5).map(i=>`<img alt="" src="${fav(i)}">`).join('')}</span><u style="--w:${Math.round(x.length/mx*100)}%"></u></a>`}).join('')}</div></section>
+<div class="ctas rise d2"><a class="btn pri" href="#picks"><span>${t('cta1')} →</span></a><a class="btn" href="#/search">⌕ ${t('cta2')} <kbd>/</kbd></a><span class="livep"><i></i>${DATA.items.length} · ${t('updated')} ${ago(DATA.updated)}</span></div>
+<div class="heads rise d3">${heads.map((i,k)=>card(i,'head')).join('')}</div></section>
+<section class="sec"><div class="mosaic">${CH.map(c=>{const x=DATA.items.filter(i=>i.ch===c);return `<a class="mo" href="#/c/${c}" style="--g:${GR()[c]}"><span class="mi">${ICON[c]}</span><b class="big">${x.length}</b><span class="mt">${t(c)}</span><span class="favs">${x.slice(0,5).map(i=>`<img alt="" src="${fav(i)}">`).join('')}</span><u style="--w:${Math.round(x.length/mx*100)}%"></u></a>`}).join('')}</div></section>
 <section class="sec" id="picks"><div class="sh"><h2>${t('picks')}</h2><span class="muted">${t('foot')}</span></div>
 <div class="bento">${pk.map((i,k)=>card(i,k===0?"xl":k===5||k===10?"wide":"")).join('')}</div></section>
 <section class="sec"><div class="sh"><h2>${t('latest')} <span class="livep"><i></i>LIVE</span></h2><a class="muted" href="#/search">${t('updated')} ${ago(DATA.updated)} →</a></div>
 <div class="feed">${latest.map(i=>row(i)).join('')}</div></section>
-<section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="cols">${CH.map(c=>`<div class="colx"><a class="ch" href="#/c/${c}" style="--g:${GR[c]}">${ICON[c]} ${t(c)} <i>→</i></a>${winList(c)}</div>`).join('')}</div></section>`}
+<section class="sec"><div class="sh"><h2>${t('channels')}</h2></div><div class="cols">${CH.map(c=>`<div class="colx"><a class="ch" href="#/c/${c}" style="--g:${GR()[c]}">${ICON[c]} ${t(c)} <i>→</i></a>${winList(c)}</div>`).join('')}</div></section>`}
 function winList(c){return DATA.items.filter(i=>i.ch===c).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,6).map(i=>`<a class="mini" href="#/item/${i.id}"><img alt="" loading="lazy" src="${fav(i)}"><span><b>${esc(TT(i))}</b><small>${esc(i.meta||host(i.url))} · ${ago(i.date)}</small></span></a>`).join('')}
 function channel(c){const x=DATA.items.filter(i=>i.ch===c);return `<section class="page"><div class="tabs">${CH.map(k=>`<a class="${k===c?'on':''}" href="#/c/${k}">${ICON[k]} ${t(k)}</a>`).join('')}</div>
 <h1 class="ph">${t(c)} <span class="muted">${x.length}</span></h1><div class="feed">${x.map((i,n)=>row(i,n+1)).join('')}</div></section>`}
@@ -57,7 +60,7 @@ document.querySelectorAll('.wtabs button').forEach(b=>b.onclick=()=>{document.qu
 function route2(){const q=$('#q');if(q){q.focus();q.setSelectionRange(q.value.length,q.value.length);q.oninput=()=>{clearTimeout(q._t);q._t=setTimeout(()=>{history.replaceState(null,'','#/search/'+encodeURIComponent(q.value));$('#app').innerHTML=search(q.value);route2()},250)}}}
 const sel=$('#langSel');sel.innerHTML=Object.entries(LANGS).map(([k,v])=>`<option value="${k}">${v}</option>`).join('');sel.value=L;
 sel.onchange=()=>{L=sel.value;localStorage.setItem('lang',L);nav();route()};
-$('#themeBtn').onclick=()=>{const n=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=n;localStorage.setItem('theme',n)};
+$('#themeBtn').onclick=()=>{const n=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=n;localStorage.setItem('theme',n);route()};
 $('#searchBtn').onclick=()=>location.hash='#/search';
 addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT/.test(document.activeElement.tagName)){e.preventDefault();location.hash='#/search'}});
 addEventListener('hashchange',route);
