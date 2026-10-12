@@ -55,7 +55,7 @@ kbd{font:500 11px "Geist Mono";border:1px solid var(--line);border-radius:6px;pa
 .card:hover:after,.row:hover:after,.mo:hover:after{opacity:1}
 
 /* Media: real cover OR short compact strip — NEVER tall empty gradient pads */
-.th{position:relative;height:96px;background:var(--g,#f1f2f6);overflow:hidden;display:grid;place-items:center;flex:none}
+.th{position:relative;height:84px;background:var(--g,#f1f2f6);overflow:hidden;display:grid;place-items:center;flex:none}
 .th>img{width:100%;height:100%;object-fit:cover;object-position:center 12%}
 .th:before{content:none}
 
@@ -66,20 +66,19 @@ kbd{font:500 11px "Geist Mono";border:1px solid var(--line);border-radius:6px;pa
 .thw{display:none}
 
 /* GitHub OG — fill media box, crop top, hide language bar */
-.th-gh{background:var(--card);height:140px}
+.th-gh{background:var(--card);height:128px}
 .th-gh>img{width:100%;height:100%;object-fit:cover;object-position:center 10%;transform:scale(1.18);transform-origin:center 8%;filter:saturate(.95)}
 [data-theme=dark] .th-gh>img{filter:saturate(.88) brightness(.72) contrast(1.05)}
 .th-gh:before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 55%,color-mix(in srgb,var(--card) 55%,transparent) 82%,var(--card));opacity:1;z-index:1;pointer-events:none}
 .th-gh:after{content:none}
 
 /* Featured / XL: denser real covers, short fallbacks */
-.card.head .th-gh,.card.xl .th-gh,.card.wide .th-gh{height:160px}
-.card.head .th-fb,.card.xl .th-fb,.card.wide .th-fb{height:88px}
-.card.xl .th-gh{height:200px}
-.card.xl .th-fb{height:96px}
-.card.xl .th-fb .thf{width:48px;height:48px;border-radius:14px}
-.card.xl .th-fb .thf img{width:28px;height:28px;border-radius:8px}
-.card.head .th-fb .thf{width:44px;height:44px}
+.card.head .th-gh,.card.wide .th-gh{height:148px}
+.card.head .th-fb,.card.wide .th-fb,.card.xl .th-fb{height:84px}
+.card.xl .th-gh{height:168px}
+.card.xl .th-fb .thf{width:44px;height:44px;border-radius:12px}
+.card.xl .th-fb .thf img{width:26px;height:26px;border-radius:8px}
+.card.head .th-fb .thf{width:40px;height:40px}
 
 .cb{padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1}
 .cb b{font:700 17px/1.3 Geist,"PingFang SC";letter-spacing:-.01em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -121,10 +120,10 @@ kbd{font:500 11px "Geist Mono";border:1px solid var(--line);border-radius:6px;pa
 .bento .xl{grid-column:span 2;grid-row:span 2}
 .bento .xl .cb b{font-size:22px}
 .bento .xl .cb p{-webkit-line-clamp:3;font-size:15px}
-.bento .wide{grid-column:span 2;flex-direction:row}
-.bento .wide .th{width:42%;height:100%;min-height:120px;aspect-ratio:auto;flex:none}
-.bento .wide .th-fb{min-height:100px;height:100%}
-.bento .wide .th-gh{min-height:120px;height:100%}
+.bento .wide{grid-column:span 2;flex-direction:column}
+.bento .wide .th{width:100%;aspect-ratio:auto;flex:none}
+.bento .wide .th-fb{height:84px!important}
+.bento .wide .th-gh{height:148px!important}
 .bento .wide .cb{min-width:0}
 
 .feed{display:grid;grid-template-columns:1fr 1fr;gap:12px}
