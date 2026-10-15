@@ -10,8 +10,8 @@ SUBCSS = open(C.get('subcss_path', '/workspace/stats-worker/subscribe.css')).rea
 def css():
     show = ','.join(f'html[lang="{a}"] .geo-intro [data-gl="{c}"]' for c in C.get('intro', {}) for a in [c] + ALIAS.get(c, []))
     fb = C.get('intro_fallback', 'en')
-    return ('<style id="ia-growth">.geo-intro{%s}.geo-intro [data-gl]{display:none}%s{display:inline}' % (C.get('intro_css', 'max-width:1120px;margin:10px auto 0;padding:0 20px;font-size:12.5px;line-height:1.55;opacity:.72'), show)
-            + f'html:not([lang]) .geo-intro [data-gl="{fb}"]{{display:inline}}'
+    return ('<style id="ia-growth">.geo-intro{%s}.geo-intro{display:grid}.geo-intro [data-gl]{grid-area:1/1;visibility:hidden}%s{visibility:visible}' % (C.get('intro_css', 'max-width:1120px;margin:10px auto 0;padding:0 20px;font-size:12.5px;line-height:1.55;opacity:.72'), show)
+            + f'html:not([lang]) .geo-intro [data-gl="{fb}"]{{visibility:visible}}'
             + '.sub-band{%s}' % C.get('sub_css', 'max-width:1120px;margin:24px auto;padding:0 20px') + SUBCSS + C.get('extra_css', '') + '</style>')
 def rel_of(p):
     r = os.path.relpath(p, ROOT).replace(os.sep, '/'); return re.sub(r'(^|/)index\.html$', r'\1', r)
