@@ -115,3 +115,6 @@ if '--no-translate' not in sys.argv:
     json.dump(C,open(cp,'w'),ensure_ascii=False)
 json.dump(dict(updated=now.strftime('%Y-%m-%dT%H:%M:%SZ'),items=items),open(os.path.join(D,'../site/data/items.json'),'w'),ensure_ascii=False,indent=1)
 print(len(items),{c:sum(1 for i in items if i['ch']==c) for c in sorted(set(i['ch'] for i in items))})
+
+# analytics/SEO/GEO/newsletter blocks + sitemaps/llms (scripts/growth.py)
+import subprocess as _sp; _sp.run(['python3', os.path.join(D, 'growth.py')], check=True)

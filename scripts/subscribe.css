@@ -1,0 +1,7 @@
+.ie-sub{display:flex;flex-wrap:wrap;gap:16px 28px;align-items:center;padding:18px 20px;border:1px solid color-mix(in srgb,currentColor 14%,transparent);border-radius:14px;background:color-mix(in srgb,currentColor 4%,transparent);margin:28px 0}
+.ie-sub-copy{flex:1 1 220px;min-width:0}.ie-sub-t{display:block;font-size:15px;font-weight:700;letter-spacing:-.01em}.ie-sub-d{margin:4px 0 0;font-size:13px;opacity:.72;line-height:1.45}
+.ie-sub-row{display:flex;gap:8px;flex:1 1 260px;min-width:0}.ie-sub-row input[type=email]:focus-visible{outline:2px solid var(--ie-acc,#4f46e5);outline-offset:1px}
+.ie-sub-row input[type=email]{flex:1;min-width:0;padding:10px 12px;border-radius:10px;border:1px solid color-mix(in srgb,currentColor 18%,transparent);background:transparent;color:inherit;font:inherit}
+.ie-sub-row button{padding:10px 16px;border-radius:10px;border:0;background:var(--ie-acc,#4f46e5);color:var(--ie-acc-ink,#fff);font:inherit;font-weight:600;font-size:13px;line-height:1;cursor:pointer;white-space:nowrap}
+.ie-sub-msg{flex:1 1 100%;margin:0;font-size:13px;opacity:.85}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+@media (max-width:560px){.ie-sub-row{flex-direction:column}.ie-sub-row button{width:100%}}
