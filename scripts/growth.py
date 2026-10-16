@@ -18,6 +18,7 @@ INTRO = {
  'es': f'OPC Radar es un radar de oportunidades gratuito para empresas unipersonales (OPC), desarrolladores independientes, diseñadores y vendedores transfronterizos. Reúne herramientas de IA, repos de GitHub, productos nuevos, noticias, ofertas e ideas de fuentes públicas (Hacker News, GitHub, Hugging Face, DEV, Lobsters y una selección), los traduce a 10 idiomas y se actualiza automáticamente. Ahora {n} elementos.',
  'de': f'OPC Radar ist ein kostenloser Chancen-Radar für Ein-Personen-Unternehmen (OPC), Indie-Entwickler, Designer und grenzüberschreitende Händler. Er sammelt KI-Tools, GitHub-Repos, neue Produkte, News, Deals und Ideen aus öffentlichen Quellen (Hacker News, GitHub, Hugging Face, DEV, Lobsters und eine kuratierte Liste), übersetzt sie in 10 Sprachen und aktualisiert sich automatisch. Derzeit {n} Einträge.'}
 CH = {'ai': 'AI', 'repos': 'GitHub repos', 'products': 'New products', 'news': 'News', 'deals': 'Deals', 'ideas': 'Ideas'}
+SRC = {'精选': 'Curated'}  # non-Chinese outputs carry no Chinese
 def en(i, k): return (i.get(k + '_i18n') or {}).get('en') or i.get(k) or ''
 e = html.escape
 ssr = f'<h1>OPC Radar — opportunity radar for one-person companies</h1><p>{e(INTRO["en"])}</p>' + ''.join(
@@ -31,7 +32,7 @@ cfg = {'root': S, 'base': BASE, 'name': 'OPC Radar', 'site': 'opc', 'cf_token': 
        'pages': [{'file': 'index.html', 'rel': '', 'ld': [{'@type': 'CollectionPage', 'name': 'OPC Radar', 'url': BASE, 'about': 'Opportunities for one-person companies', 'numberOfItems': n, 'dateModified': data.get('updated'), 'publisher': {'@id': 'https://incidental.site/#org'}}]}]}
 llms = f'# OPC Radar\n> {INTRO["en"]}\n\n- Site: {BASE}\n- Data (JSON): {BASE}data/items.json\n- Languages: {", ".join(LC)} (append ?lang=<code>)\n- Publisher: Incidental AI (https://incidental.site/)\n- Full list: {BASE}llms-full.txt\n- Updated: {data.get("updated")}\n\n## Channels\n' + ''.join(f'- {CH.get(c, c)}: {cnt[c]} items\n' for c in CH)
 cfg['llms.txt'] = llms
-cfg['llms-full.txt'] = llms + '\n' + ''.join(f'\n## {CH.get(c, c)}\n' + ''.join(f'- [{en(i, "title")}]({i["url"]}) ({i.get("source", "")}, {i.get("date", "")}): {en(i, "summary")}\n' for i in items if i['ch'] == c) for c in CH)
+cfg['llms-full.txt'] = llms + '\n' + ''.join(f'\n## {CH.get(c, c)}\n' + ''.join(f'- [{en(i, "title")}]({i["url"]}) ({SRC.get(i.get("source", ""), i.get("source", ""))}, {i.get("date", "")}): {en(i, "summary")}\n' for i in items if i['ch'] == c) for c in CH)
 p = '/tmp/opc-ia.json'; json.dump(cfg, open(p, 'w'), ensure_ascii=False)
 subprocess.run(['python3', os.path.join(D, 'ia_inject.py'), p], check=True)
 ip = os.path.join(S, 'index.html'); s = open(ip, encoding='utf-8').read()

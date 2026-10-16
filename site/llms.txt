@@ -6,12 +6,12 @@
 - Languages: zh-Hans, zh-Hant, en, ja, ko, ms, vi, fr, es, de (append ?lang=<code>)
 - Publisher: Incidental AI (https://incidental.site/)
 - Full list: https://siinxu.github.io/ai-opportunity-hub/llms-full.txt
-- Updated: 2026-10-15T15:06:50Z
+- Updated: 2026-10-16T09:28:49Z
 
 ## Channels
-- AI: 221 items
-- GitHub repos: 216 items
-- New products: 90 items
-- News: 122 items
+- AI: 219 items
+- GitHub repos: 218 items
+- New products: 91 items
+- News: 121 items
 - Deals: 154 items
 - Ideas: 85 items

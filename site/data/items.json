@@ -96,7 +96,7 @@
    "title_i18n": {
     "en": "Oracle Claude Allways Free",
     "zh-Hans": "Oracle Cloud Always Free",
-    "ja": "Oracle Claude Allways無料",
+    "ja": "Oracle Claude Allways Free",
     "ko": "오라클 클로드 Allways 무료",
     "ms": "Oracle Oracle Claude Allways Bebas",
     "vi": "Nhà tiên tri Claude giải phóng mọi cách",
@@ -951,7 +951,7 @@
    "title_i18n": {
     "en": "Fly.io free of charge",
     "zh-Hans": "Fly.io 免费额度",
-    "ja": "Fly.io無料",
+    "ja": "Fly.io free of charge",
     "ko": "Fly.io 무료",
     "ms": "Fly.io gratis",
     "vi": "Bay.io miễn phí",
@@ -1141,7 +1141,7 @@
    "title_i18n": {
     "en": "Groq Free API",
     "zh-Hans": "Groq 免费 API",
-    "ja": "Groq無料API",
+    "ja": "Groq Free API",
     "ko": "Groq 무료 API",
     "ms": "API Bebas Groq",
     "vi": "Groq Free API",
@@ -1217,7 +1217,7 @@
    "title_i18n": {
     "en": "Cloudflare R2 Free of charge",
     "zh-Hans": "Cloudflare R2 免费额度",
-    "ja": "Cloudflare R2 無料",
+    "ja": "Cloudflare R2 Free of charge",
     "ko": "Cloudflare R2 무료",
     "ms": "Awanweather forecast R2 Bebas biaya",
     "vi": "Mây R2 miễn phí",
@@ -1597,7 +1597,7 @@
    "title_i18n": {
     "en": "Acquire.com",
     "zh-Hans": "Acquire.com",
-    "ja": "買収.com",
+    "ja": "Acquire.com",
     "ko": "회사연혁",
     "ms": "Acquire.com",
     "vi": "Gete.com",
@@ -1673,7 +1673,7 @@
    "title_i18n": {
     "en": "Failory.",
     "zh-Hans": "Failory",
-    "ja": "障害。",
+    "ja": "Failory.",
     "ko": "실패.",
     "ms": "Kekecewaan.",
     "vi": "Thất bại.",
@@ -2942,7 +2942,7 @@
    "title_i18n": {
     "en": "Cerebras Access Free API",
     "zh-Hans": "Cerebras Inference 免费 API",
-    "ja": "Cerebras Access 無料API",
+    "ja": "Cerebras Access Free API",
     "ko": "Cerebras 액세스 무료 API",
     "ms": "API Bebas Akses Cerebras",
     "vi": "Name",
@@ -3100,7 +3100,7 @@
    "title_i18n": {
     "en": "GitHub Copilot Free",
     "zh-Hans": "GitHub Copilot Free",
-    "ja": "GitHub Copilot無料",
+    "ja": "GitHub Copilot Free",
     "ko": "GitHub Copilot 무료",
     "ms": "Bebas Copilot gitHub",
     "vi": "Công cụ điều khiển GitHub tự do",
@@ -4003,7 +4003,7 @@
    "title_i18n": {
     "en": "Webflow, free entrance.",
     "zh-Hans": "Webflow 免费入门",
-    "ja": "Webflow、入場無料",
+    "ja": "Webflow, free entrance.",
     "ko": "Webflow, 무료 입구.",
     "ms": "Webflow, pintu masuk bebas.",
     "vi": "Mạng chảy, lối vào miễn phí.",
@@ -6413,15 +6413,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "en": "Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "zh-Hans": "haI AI QQ, QQ Generate HD 短视频 来自一个主题或关键词,带有自动AI工作流程.",
     "ja": "AIモデル大和自动化工法、根据え主、关键词一辞典高清倍率。自動AIワークフローで話題やキーワードからHDショート動画を生成。",
-    "ko": "利用 AI 大星和和流,一一鶏生成高高。자동 AI 워크플로우를 가진 주제 또는 키워드에서 HD 단편 동영상.",
-    "ms": "利用 AI 大模型和自动化工作流, 根据主题或关键词一键生成高清短视频。Generate HD video pendek dari topik atau kata kunci dengan alur kerja AI otomatis.",
+    "ko": "Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "ms": "Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "vi": "bại lộ, đoạn phim ngắn về HD từ một chủ đề hoặc từ khóa với dòng điện AI tự động.",
     "fr": "Générer des vidéos courtes HD à partir d'un sujet ou d'un mot clé avec un workflow automatique de l'IA.",
     "es": "Generar videos cortos de HD de un tema o una palabra clave con un flujo de trabajo automático de AI.",
-    "de": "利用 AI 大模型和自动化工作流,根据主题或关键词一键生成高清短视频。Generieren Sie HD-Kurzvideos von einem Thema oder Schlüsselwort mit einem automatisierten KI-Workflow.",
+    "de": "Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "zh-Hant": "haI AI QQ, QQ Generate HD 短影片 來自一個主題或關鍵詞,帶有自動AI工作流程."
    }
   },
@@ -6693,15 +6693,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "en": "Java and back-end interview guide covering CS fundamentals, databases, distributed systems, high concurrency, system design and AI app development",
     "zh-Hans": "Java 面试 & 后端通用面试指南, 覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-    "ja": "端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 端 开 开 开 开 开 开 开 开 开 开 开 开 开 开 开 开 开 开",
-    "ko": "高,高,高,高,高,高,高",
+    "ja": "Java and back-end interview guide covering CS fundamentals, databases, distributed systems, high concurrency, system design and AI app development",
+    "ko": "Java and back-end interview guide covering CS fundamentals, databases, distributed systems, high concurrency, system design and AI app development",
     "ms": "Java AI ",
     "vi": "(Tiếng Ý)",
     "fr": "D'après les résultats de l'enquête, le taux d'incidence de l'utilisation de l'Internet dans les pays en développement a augmenté de 1 % par rapport à l'année précédente.",
     "es": "Java ∙ &quot; RESUMEN LIBERTAD TIEMPO DE TRABAJO, HASTA EL PEQUEÑO, EL PEQUEÑO, EL PEQUEÑO",
-    "de": "Java 面试 & 后端通用面试指南覆盖计算机基�、数据库、分布式、高并发、系统计与 AI",
+    "de": "Java and back-end interview guide covering CS fundamentals, databases, distributed systems, high concurrency, system design and AI app development",
     "zh-Hant": "Java 面試 & 後端通用面試指南, 覆蓋計算機基礎、資料庫、分散式、高併發、系統設計與 AI 應用開發"
    }
   },
@@ -7337,15 +7337,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "en": "📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice",
     "zh-Hans": "📚",
-    "ja": "📚 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零 零",
-    "ko": "的原体原理原",
-    "ms": "📚 《从零开始构建智能体》 — 从零开始的智能体原理与实践教程 从零开始的智能体原理与实践教程",
+    "ja": "📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice",
+    "ko": "📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice",
+    "ms": "📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice",
     "vi": "Không.",
     "fr": "Il n'y a pas de problème.",
-    "es": "📚 从 перитеринанинаннинаннный неперинанинаннный нантентенный перентентеннни 原",
-    "de": "📚 《从零开始构建智能体》--从零开始 casting智能体9,000理与实践教程",
+    "es": "📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice",
+    "de": "📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice",
     "zh-Hant": "📚"
    }
   },
@@ -7477,15 +7477,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "en": "Understanding AI Agents: Design Principles and Engineering Practice (by Li Bojie) — open-source main repo with the full text, compiled PDF and per-chapter code",
     "zh-Hans": "* AI代理: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
-    "ja": "与 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 主 码 主 主 码 码 码 码 码 码 码 码 码 主 码 主 主 码 码 码 码 码 码 码 码 码 码 码 码 码 码 码 码 码 码 码",
-    "ko": "《  AI  AI 原 原",
-    "ms": "《深入理解 AI Agent: 设计原理与工程实践》( 李博杰 ) 开源主仓库: 全书正文、编译版 PDF 与按章配套代码",
+    "ja": "Understanding AI Agents: Design Principles and Engineering Practice (by Li Bojie) — open-source main repo with the full text, compiled PDF and per-chapter code",
+    "ko": "Understanding AI Agents: Design Principles and Engineering Practice (by Li Bojie) — open-source main repo with the full text, compiled PDF and per-chapter code",
+    "ms": "Understanding AI Agents: Design Principles and Engineering Practice (by Li Bojie) — open-source main repo with the full text, compiled PDF and per-chapter code",
     "vi": "Đặc vụ Ali:",
     "fr": "Agent de l'IA:",
     "es": "¿Qué?",
-    "de": "《深sourcing理解 AI Agent:设计 mercury理与工程实践》(李博杰 著)开源主仓库:全书正 Zealand、编译版 PDF 与按章配套代码",
+    "de": "Understanding AI Agents: Design Principles and Engineering Practice (by Li Bojie) — open-source main repo with the full text, compiled PDF and per-chapter code",
     "zh-Hant": "* AI代理: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
    }
   },
@@ -7869,15 +7869,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+    "en": "cat-catch Browser Resource Sniffing Extension",
     "zh-Hans": "QQ / 抓猫浏览器 资源嗅觉扩展",
     "ja": "猫キャッチブラウザリソーススニッフィングエクステンション",
-    "ko": "展 / cat-catch 브라우저 자원 Sniffing Extension",
-    "ms": "猫抓 浏览器资源嗅探扩展 浏览器资源嗅探扩展 / Sniffing Sumber Daya Cat-catch",
+    "ko": "cat-catch Browser Resource Sniffing Extension",
+    "ms": "cat-catch Browser Resource Sniffing Extension",
     "vi": "teppi82@ gmail. com",
     "fr": "Extension de reniflage de la ressource du navigateur",
     "es": "Extensión de recursos para el navegador de búsqueda",
-    "de": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+    "de": "cat-catch Browser Resource Sniffing Extension",
     "zh-Hant": "QQ / 抓貓瀏覽器 資源嗅覺擴充套件"
    }
   },
@@ -7897,15 +7897,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Ha",
+    "en": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included.",
     "zh-Hans": "为双子座,AI Studio,Claude,ChatGPT & DeepSeek提供的增强套件——加上任何网站的即时管理器,DeepSeek Harness包含. /面向 双子座,AI Studio-Claude,ChatGPT 与  Deep  Deep  Deep  Deep  Deep 的增强套件 其中的提示词管理器可用于任意网站 其中的提示词管理器可用于任意网站 其中的提示词管理器可用于任意网站 其中的提示词管理器可用于任意网站 其中的提示词管理器可用于任意网站",
     "ja": "Gemini、AI Studio、Claude、ChatGPT&DeepSeekの拡張スイートと、あらゆるウェブサイトのプロンプトマネージャー、DeepSeekハーネスが含まれています。 / 面方向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeekative 与 中 中 中 中 中 中 中 中 中 中 中 中 中",
-    "ko": "Gemini, AI Studio, Claude, ChatGPT & DeepSeek에 대한 향상된 스위트 - 웹 사이트, DeepSeek 하네스에 대한 신속한 관리자가 포함되어 있습니다. · AI  Gem、AI 스튜디오、Claude、ChatGPT ☸ DeepSeek 的 Deep件;",
-    "ms": "Suite Peningkatan untuk Gemini, AI Studio, Claude, ChatGPT & DeepSeek — ditambah dengan manajer prompt untuk website mana pun, DeepSeek Harness disertakan. /面向 Gemini、AI Studio、Claude、ChatGPT 与与 Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep;;;;; Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep  Deep Deep Deep;;; Deep Deep Deep;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;",
+    "ko": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included.",
+    "ms": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included.",
     "vi": "Phòng tăng cường cho Song Tử, Phòng thu AI, Claude, ChatGPT & DeepSek — cộng với người quản lý tạm thời cho bất cứ trang web nào có DeepSek Harness. /  hạ cánh tại Phòng Thu Mặt Trời, Phòng Thu Mặt Trời, ChatGPT  thi thể của DeepSek  thể hiện lòng thương xót của người khác.",
     "fr": "Suite d'amélioration pour Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus un gestionnaire rapide pour tout site Web, DeepSeek Harness inclus. DeepSeek; deepSeek; deepSeek Ha",
     "es": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — más un gestor rápido para cualquier sitio web, DeepSeek Harness incluido. {\\fnMicrosoft Sans Serif}*",
-    "de": "Erweiterungssuite für Gemini, AI Studio, Claude, ChatGPT & DeepSeek - plus ein prompter Manager für jede Website, DeepSeek Harness enthalten. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek hitting增强套件;其中hitting提示词管理器可用于任意�站如 DeepSeek Ha",
+    "de": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included.",
     "zh-Hant": "為雙子座,AI Studio,Claude,ChatGPT & DeepSeek提供的增強套件——加上任何網站的即時管理器,DeepSeek Harness包含. /面向 雙子座,AI Studio-Claude,ChatGPT 與  Deep  Deep  Deep  Deep  Deep 的增強套件 其中的提示詞管理器可用於任意網站 其中的提示詞管理器可用於任意網站 其中的提示詞管理器可用於任意網站 其中的提示詞管理器可用於任意網站 其中的提示詞管理器可用於任意網站"
    }
   },
@@ -7953,15 +7953,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension ",
+    "en": "Immersive Dual Web Page Translation Extension: input box translation, hover translation, PDF, EPUB, subtitle and TXT file translation",
     "zh-Hans": "沉浸式双语网页翻译扩展, , ,PDF,Epub,字幕文件,TXT 文件翻译 - Immersive 双网页翻译扩展",
     "ja": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
-    "ko": "式 Dual展 ,  I,  E, PDF, Epub, 字文件, TXT 文件 I - Immersive 듀얼 웹 페이지 번역 확장",
-    "ms": "沉浸式双语网页翻译扩展 沉浸式双语网页翻译扩展 沉浸式双语网页翻译扩展 , 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译 - Ekstensi Penerjemahan Laman Web Ganda Imersif",
+    "ko": "Immersive Dual Web Page Translation Extension: input box translation, hover translation, PDF, EPUB, subtitle and TXT file translation",
+    "ms": "Immersive Dual Web Page Translation Extension: input box translation, hover translation, PDF, EPUB, subtitle and TXT file translation",
     "vi": "thể hiện lòng trắc ẩn",
     "fr": "PDF, PDF, Epub, TXT, Extension de traduction de page Web immersive",
-    "es": "沉浸деннныханннныеннны , нелинногиный , PDF, Epub, 幕中文 , TXT 中ногаменымены - Immersive Dual Web Page Translation Extension",
-    "de": "沉浸式双语�页翻译扩展 , 支持输�框翻译, 鼠标悬停翻译, PDF, Epub, 件, TXT Χ件翻译 - Immersive Dual Web Page Translation Extension",
+    "es": "Immersive Dual Web Page Translation Extension: input box translation, hover translation, PDF, EPUB, subtitle and TXT file translation",
+    "de": "Immersive Dual Web Page Translation Extension: input box translation, hover translation, PDF, EPUB, subtitle and TXT file translation",
     "zh-Hant": "沉浸式雙語網頁翻譯擴充套件, , ,PDF,Epub,字幕檔案,TXT 檔案翻譯 - Immersive 雙網頁翻譯擴充套件"
    }
   },
@@ -8907,7 +8907,7 @@
    "summary_i18n": {
     "en": "🙌 OpenHands: AI-Driven Development",
     "zh-Hans": "🙌 OpenHands:AI驱动开发",
-    "ja": "OpenHands:AI主導開発",
+    "ja": "🙌 OpenHands: AI-Driven Development",
     "ko": "OpenHands : AI-Driven 개발",
     "ms": "🙌 Buka Tangan: Pengembangan AI-Driven",
     "vi": "Phát triển AI-Driven",
@@ -10221,15 +10221,15 @@
    "source": "GitHub",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+    "en": "🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.",
     "zh-Hans": "277 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — ---- — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — ----",
-    "ja": "场/即/ 20/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位/上位",
-    "ko": "DA  DA  AI  AI  AI 金 金 金 金 金 金 金 金 金 金 金 金 金 金 金 金 金 金 金 金  DA  DA  DA  DA  DA  DA  DA  DA  DA  DA  DA  DA  DA",
-    "ms": "🎭 277 个即插即用的 AI 专家角色 — — —     Claude Code/Cursor/Copilot 等 20 种工具, 覆盖工程/ 设计/ 营销/ 营销 20 个部 个部 门 门 门 门 门 个中国市场原创智能体 个中国市场原创智能体 个中国市场原创智能体 个中国市场原创智能体 个中国市场原创智能体 个中国市场原创智能体 小红书 小红书 小红书 小红书 小红书 小红书  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude  Claude 小红书 小红书 小红书 小红书 小红书 小红书 小红书 小红书  Claude 小红书  Claude 小红书 小红书 小红书 小红书 小红书 小红书 小红书 小红书 小红书 / 飞书 / 钉钉 / 钉钉 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 上位机 ",
+    "ja": "🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.",
+    "ko": "🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.",
+    "ms": "🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.",
     "vi": "thể hiện lòng kính trọng đối với người khác",
     "fr": "Code/Curseur/Copilote de Claude Code/Curseur/Copilote de Claude Code/Curseur/Copilote de Claude Code/Curseur/Copilote de Claude Code/Curseur",
-    "es": "🎭 277 个 {\\fnMicrosoft Sans Serif} }",
-    "de": "🎭 277 个即插即用 casting AI 个即插即甠持 Claude Code/Cursor/Copilot 等 20 种工具,覆盖工程/设计/营销/金融等 20 个部。含� 64 个中国市场 shake��䈛智能书/抖音/飞书/钉钉/Qt 上位机/机械设虬 agency-orchestrator,一句话即专䮶",
+    "es": "🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.",
+    "de": "🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.",
     "zh-Hant": "277 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — ---- — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — ----"
    }
   },
@@ -11033,15 +11033,15 @@
    "source": "GitHub · new",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "AI 自主渗透测试系统",
+    "en": "Autonomous AI penetration testing system",
     "zh-Hans": "大赦国际",
     "ja": "AI  ",
     "ko": "AI",
-    "ms": "AI自主渗透测试系统",
+    "ms": "Autonomous AI penetration testing system",
     "vi": "Al",
     "fr": "Autres",
     "es": "AI Отеливанте",
-    "de": "AI 自主渗透测试系绻",
+    "de": "Autonomous AI penetration testing system",
     "zh-Hant": "大赦國際"
    }
   },
@@ -11313,15 +11313,15 @@
    "source": "GitHub · new",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+    "en": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time",
     "zh-Hans": "一个用于DSH低级操作的工具包,旨在减少符号使用和任务执行时间 / DSH QQ,QQ 切换",
     "ja": "DSHの低レベルの操作のためのツールキット, トークンの使用量とタスクの実行時間を削減するように設計 / DSHの底操作ツールの操作, 説明在留中 トークンの消失",
-    "ko": "DSH의 저수준 가동을 위한 툴킷, 토큰 사용 및 작업 실행 시간/DSH  D件, D 토큰  ",
-    "ms": "Sebuah toolkit untuk operasi tingkat rendah di DSH, dirancang untuk mengurangi penggunaan token dan waktu eksekusi tugas / DSH 底层操作工具插件,旨在减少 ¶ Token ¶",
+    "ko": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time",
+    "ms": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time",
     "vi": "Một công cụ cho các hoạt động thấp ở DSH, được thiết kế để giảm hiệu suất sử dụng và nhiệm vụ thực hiện thời gian / DSH  xét xử, DSH Token",
     "fr": "Une boîte à outils pour les opérations de bas niveau en DSH, conçue pour réduire l'utilisation des jetons et le temps d'exécution des tâches / DSH Jeton",
     "es": "Un kit de herramientas para operaciones de bajo nivel en DSH, diseñado para reducir el uso de token y el tiempo de ejecución de tareas / DSH Token",
-    "de": "Ein Toolkit für Operationen auf niedriger Ebene in DSH, entworfen, um die Nutzung von Token und die Ausführungszeit von Aufgaben zu reduzieren / DSH 底层操作工具插件,旨在减少 Kennzeichen 消耗与任务耗",
+    "de": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time",
     "zh-Hant": "一個用於DSH低階操作的工具包,旨在減少符號使用和任務執行時間 / DSH QQ,QQ 切換"
    }
   },
@@ -11358,15 +11358,15 @@
    "source": "GitHub · new",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "en": "Qwen-Image 2.1 pose-to-image skill: author-grade prompt recipes, LoRA and 136-pose VNCCS mannequin control; works with Claude Code / Codex / Cursor / OpenClaw",
     "zh-Hans": "Quen-Image 2.1 NSFW/QQ技能:+ NSFW LORA + 136 QQ VNCCS QQ; 87. Claude Code / Codex / Cursor / OpenClaw",
     "ja": "Claude Code / Codex / Cursor / OpenClaw の使い方",
-    "ko": "Qwen-Image 2.1 NSFW// 기술: :方 + NSFW LoRA + 136 人 VNCCS 人人; 회전 식 삭제 코드 / 코덱 / 커서 / OpenClaw",
-    "ms": "作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS ; 适用 Claude Kode / Codex / Cursor / OpenClaw",
+    "ko": "Qwen-Image 2.1 pose-to-image skill: author-grade prompt recipes, LoRA and 136-pose VNCCS mannequin control; works with Claude Code / Codex / Cursor / OpenClaw",
+    "ms": "Qwen-Image 2.1 pose-to-image skill: author-grade prompt recipes, LoRA and 136-pose VNCCS mannequin control; works with Claude Code / Codex / Cursor / OpenClaw",
     "vi": "Qwen-Image 2. 1 NSFW/GN: Bộ lọc + NSFW LoRA + 136  chăm sóc sức khỏe cho người tàn tật, mã Claude Code / Codex / con trỏ / OpenClaw",
     "fr": "Qwen-Image 2.1 Compétences NSFW:",
-    "es": "Qwen-Image 2.1 NSFW/姿势 Related habilidad:",
-    "de": "Qwen-Image 2.1 NSFW/姿势出图 skill:作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制;适用 Claude Code / Codex / Cursor / OpenClaw",
+    "es": "Qwen-Image 2.1 pose-to-image skill: author-grade prompt recipes, LoRA and 136-pose VNCCS mannequin control; works with Claude Code / Codex / Cursor / OpenClaw",
+    "de": "Qwen-Image 2.1 pose-to-image skill: author-grade prompt recipes, LoRA and 136-pose VNCCS mannequin control; works with Claude Code / Codex / Cursor / OpenClaw",
     "zh-Hant": "Quen-Image 2.1 NSFW/QQ技能:+ NSFW LORA + 136 QQ VNCCS QQ; 87. Claude Code / Codex / Cursor / OpenClaw"
    }
   },
@@ -11862,15 +11862,15 @@
    "source": "GitHub · new",
    "heat": 0.0,
    "summary_i18n": {
-    "en": "ARTEX，AI 自主渗透测试系统。百度 agent+ 攻防挑战赛冠军项目。",
+    "en": "ARTEX, an autonomous AI penetration testing system; winner of the Baidu agent+ attack-and-defense challenge.",
     "zh-Hans": "ARTEX、AI +++ 代理人",
-    "ja": "百 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +",
-    "ko": "ARTEX,AI AI。걸이 에이전트++目。",
-    "ms": "- Agen+ 攻防挑战赛冠军项目。",
+    "ja": "ARTEX, an autonomous AI penetration testing system; winner of the Baidu agent+ attack-and-defense challenge.",
+    "ko": "ARTEX, an autonomous AI penetration testing system; winner of the Baidu agent+ attack-and-defense challenge.",
+    "ms": "ARTEX, an autonomous AI penetration testing system; winner of the Baidu agent+ attack-and-defense challenge.",
     "vi": "ARTEX, AI BAR  Đặc vụ+",
     "fr": "Agent+",
     "es": "ARTEX,AI יAI adelantos logrados.",
-    "de": "ARTEX, AI 自主渗透测试系统。百度 agent+ 攻防挑战赛冠军项目　",
+    "de": "ARTEX, an autonomous AI penetration testing system; winner of the Baidu agent+ attack-and-defense challenge.",
     "zh-Hant": "ARTEX、AI +++ 代理人"
    }
   },
@@ -15735,7 +15735,7 @@
    "title_i18n": {
     "en": "Vespper (YC F24) – SOTA Docx MCP",
     "zh-Hans": "Vestpper(YC F24) – SOTA Docx MCP",
-    "ja": "容器(YC F24) – SOTA Docx MCP",
+    "ja": "Vespper (YC F24) – SOTA Docx MCP",
     "ko": "Vespper (YC F24) - SOTA Docx MCP",
     "ms": "Vespper (YC F24) – SOTA Docx MCP",
     "vi": "Vespper (YC F24) – SOTA Docx MCP",
@@ -19605,7 +19605,7 @@
    "summary_i18n": {
     "en": "science",
     "zh-Hans": "科学",
-    "ja": "科学研究",
+    "ja": "science",
     "ko": "연구분야",
     "ms": "Sains",
     "vi": "Khoa học",
@@ -19647,7 +19647,7 @@
    "summary_i18n": {
     "en": "practices, vcs, zig",
     "zh-Hans": "实践、vcs、zig",
-    "ja": "練習, vcs, zig",
+    "ja": "practices, vcs, zig",
     "ko": "관행, vcs, 지그",
     "ms": "praktik, vcs, zig",
     "vi": "Thực hành, vc, zig",
@@ -19856,7 +19856,7 @@
    "summary_i18n": {
     "en": "historical, windows",
     "zh-Hans": "历史, 窗口",
-    "ja": "歴史、窓",
+    "ja": "historical, windows",
     "ko": "역사, 창",
     "ms": "sejarah, jendela",
     "vi": "lịch sử, cửa sổ",
@@ -20021,7 +20021,7 @@
    "summary_i18n": {
     "en": "culture, philosophy",
     "zh-Hans": "文化、哲学",
-    "ja": "文化、哲学",
+    "ja": "culture, philosophy",
     "ko": "문화, 철학",
     "ms": "Budaya, filsafat",
     "vi": "văn hóa, triết học",
@@ -26600,15 +26600,15 @@
    },
    "trend": true,
    "summary_i18n": {
-    "en": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "en": "A site framework that finds trends and writes its own daily report. Swap in your sources and curation rules and it becomes your industry trends site.",
     "zh-Hans": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的,它就是你的行业热点站。",
-    "ja": "你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你 你",
-    "ko": "一一、日。把。把和。把的行。",
-    "ms": "一个自己找热点、自己写日日,它就是你的行业热点站。",
+    "ja": "A site framework that finds trends and writes its own daily report. Swap in your sources and curation rules and it becomes your industry trends site.",
+    "ko": "A site framework that finds trends and writes its own daily report. Swap in your sources and curation rules and it becomes your industry trends site.",
+    "ms": "A site framework that finds trends and writes its own daily report. Swap in your sources and curation rules and it becomes your industry trends site.",
     "vi": "thể hiện lòng biết ơn.",
     "fr": "Résumés",
     "es": "¿Qué?",
-    "de": "一个自己找热点、自己写日���站框架。把信源和精选标准换成你standing它就是业热点站。",
+    "de": "A site framework that finds trends and writes its own daily report. Swap in your sources and curation rules and it becomes your industry trends site.",
     "zh-Hant": "一個自己找熱點、自己寫日報的網站框架。把信源和精選標準換成你的,它就是你的行業熱點站。"
    }
   },
@@ -26670,15 +26670,15 @@
    },
    "trend": true,
    "summary_i18n": {
-    "en": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "en": "Answer me with HTML",
     "zh-Hans": "用HTML来回答我——一种代理技能,它用你实际上能读到的一页HTML来回答困难的问题. LMFAI代理 QQ HTML QQ",
     "ja": "実際に読むことができる1ページHTMLで難しい質問に答えるエージェントスキル - HTMLで私に答えてください。 IE AI エージェント 用一首页 HTML 回答复杂问题.",
-    "ko": "HTML에 대한 답변 - 한 페이지 HTML로 어려운 질문에 답변하는 에이전트 기술이 실제로 읽을 수 있습니다.   AI Agent 用一一 HTML  。",
-    "ms": "Anda dapat membaca sebuah HTML. AI Agen 用一页 HTML 回答复杂问题。",
+    "ko": "Answer me with HTML",
+    "ms": "Answer me with HTML",
     "vi": "Trả lời tôi bằng HTML — một kỹ năng tác nhân trả lời những câu hỏi khó bằng một trang HTML bạn có thể đọc.  hạ sĩ quan Al BAR KBBK",
     "fr": "Répondez-moi avec HTML — une compétence d'agent qui répond aux questions difficiles avec un HTML d'une page que vous pouvez réellement lire. Agent de l'IA HTML",
     "es": "Respóndeme con HTML — una habilidad de agente que responde preguntas difíciles con un HTML de una página que puedes leer. нанила Agente нанной HTML нанноганый.",
-    "de": "Beantworten Sie mich mit HTML - eine Agentenfähigkeit, die schwierige Fragen mit einem einseitigen HTML beantwortet, das Sie tatsächlich lesen können. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "de": "Answer me with HTML",
     "zh-Hant": "用HTML來回答我——一種代理技能,它用你實際上能讀到的一頁HTML來回答困難的問題. LMFAI代理 QQ HTML QQ"
    }
   },
@@ -26704,15 +26704,15 @@
     "h": 381
    },
    "summary_i18n": {
-    "en": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "en": "Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
     "zh-Hans": "AI生成の日本語を自然な日本語へ推敲する代理技能 / 代理技能 精炼AI-General 日语成自然日语",
     "ja": "AI の日本語を継承すると同時に、AI を自然に生み出せるためのエージェントスキルを身につける",
-    "ko": "AI生成の日本語を世界な日本語AするAgent Skill / Agent Skills for Refining AI-Generated Japanese 한국어",
-    "ms": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "ko": "Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "ms": "Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
     "vi": "Kỹ năng kỹ thuật giao tiếp và đặc vụ Kĩ năng cải tiến ngôn ngữ AI sang Nhật Bản tự nhiên",
     "fr": "AI-Generated Japanese",
     "es": "AIscriben la habilidad del agente para refinar al japonés en japonés natural",
-    "de": "AI生成ו日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "de": "Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
     "zh-Hant": "AI生成の日本語を自然な日本語へ推敲する代理技能 / 代理技能 精煉AI-General 日語成自然日語"
    }
   },
@@ -26772,15 +26772,15 @@
     "h": 335
    },
    "summary_i18n": {
-    "en": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
+    "en": "Open-source AI API relay benchmark, rankings & switcher for Claude Code",
     "zh-Hans": "AI API QQ:QQ → 开源AI API中继基准,Claude Code / Codex的排名和切换器",
     "ja": "AI API ミドルフロー ツール:行 可用率、延与 与 与 与 与 价  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中  中",
-    "ko": "AI API 中行行行::用鶏、延迟与价格 · Open-source AI API 릴레이 벤치 마크, 순위 및 클래드 코드에 대한 스위처 / Codex",
+    "ko": "Open-source AI API relay benchmark, rankings & switcher for Claude Code",
     "ms": "AI AI API : · open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
     "vi": "AI ARI  tôm:  TIẾNG · Open-source AI, xếp hạng & chuyển đổi cho Claude Code / Codex",
     "fr": "API d'IA Reply, classements et commutateurs pour Claude Code / Codex",
-    "es": "API de AI 中文 predijo etiquetado API, rankings &quot; switcher for Claude Code / Codex",
-    "de": "AI API 中�站评测排行与切换工具:实测可用率、延迟与价格 · Open-Source AI API relay benchmark, rankings & switcher für Claude Code / Codex",
+    "es": "Open-source AI API relay benchmark, rankings & switcher for Claude Code",
+    "de": "Open-source AI API relay benchmark, rankings & switcher for Claude Code",
     "zh-Hant": "AI API QQ:QQ → 開源AI API中繼基準,Claude Code / Codex的排名和切換器"
    }
   },
@@ -27046,15 +27046,15 @@
     "h": 140
    },
    "summary_i18n": {
-    "en": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+    "en": "A McDonald's MCP skill that finds the cheapest order at your current store and warns about bundle traps.",
     "zh-Hans": "{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}你觉得呢?",
-    "ja": "最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最 最",
-    "ko": "-  MC MCP 的本成本本 Skill。前前前店前的,方,并主动提示凑单陷阱。",
-    "ms": "麦麦省钱助手 ——      Ski店最省钱的点餐方案,,,,,,并主动提示凑单陷阱。",
+    "ja": "A McDonald's MCP skill that finds the cheapest order at your current store and warns about bundle traps.",
+    "ko": "A McDonald's MCP skill that finds the cheapest order at your current store and warns about bundle traps.",
+    "ms": "A McDonald's MCP skill that finds the cheapest order at your current store and warns about bundle traps.",
     "vi": "Đã xác định rồi.",
     "fr": "D'après les résultats de l'enquête, les résultats de l'enquête sur les forces de travail de l'industrie de l'Union européenne ont été évalués à la juste valeur.",
-    "es": "麦麦ноденноманимантаннайнный MCP",
-    "de": "麦麦省钱助手 —— 基于麦当劳 MCP hitting点餐成本优化 Skill。算出当前�店最省钱点餐方案,并主动提单陷阱〱",
+    "es": "A McDonald's MCP skill that finds the cheapest order at your current store and warns about bundle traps.",
+    "de": "A McDonald's MCP skill that finds the cheapest order at your current store and warns about bundle traps.",
     "zh-Hant": "{\\fn黑體\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}你覺得呢?"
    }
   },
@@ -27114,15 +27114,15 @@
     "h": 176
    },
    "summary_i18n": {
-    "en": "Autumn-27/ARTEX 持续维护开源版本",
+    "en": "Actively maintained open-source version of Autumn-27/ARTEX",
     "zh-Hans": "秋-27/ARTEX                                                   ",
-    "ja": "秋-27/ARTEX 本源版本",
+    "ja": "Actively maintained open-source version of Autumn-27/ARTEX",
     "ko": "Autumn-27/ARTEX 일본",
     "ms": "Autumn-27/ARTEX ",
     "vi": "Mùa thu-27/ARTEX  tôm",
     "fr": "Automne-27/ARTEX",
     "es": "Otoño-27/ARTEX",
-    "de": "Herbst-27/ARTEX 持续维护开源版本",
+    "de": "Actively maintained open-source version of Autumn-27/ARTEX",
     "zh-Hant": "秋-27/ARTEX                                                   "
    }
   },
@@ -27148,15 +27148,15 @@
     "h": 464
    },
    "summary_i18n": {
-    "en": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons (EN/中文) with tested exercises: tools, architectures, reliability, security, evals, dist",
+    "en": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons with tested exercises: tools, architectures, reliability, security, evals, dist",
     "zh-Hans": "QQ Hello Agent System ——通过从零开始建造每个生产层来学习企业AI代理系统设计. 17个双语课程(EN/Q),经过测试:工具、结构、可靠性、安全性、evals、dist",
     "ja": "ハローエージェントシステム — あらゆる製造層をゼロから構築することで、エンタープライズAIエージェントシステムの設計を学びます。 テストされた演習の17バイリンガルレッスン(EN/中文):ツール、アーキテクチャ、信頼性、セキュリティ、無効",
-    "ko": "Hello Agent System – 스크래치에서 모든 생산층을 구축하여 엔터프라이즈 AI 에이전트 시스템 설계를 배우다. 시험된 운동을 가진 17의 비스듬한 교훈 (EN/中文): 공구, 건축술, 신뢰성, 안전, evals, dist",
-    "ms": "Halo Agen Sistem — belajar desain sistem agen AI dengan membangun setiap lapisan produksi dari awal. 17 pelajaran dwibahasa (EN/ 中文) dengan latihan yang diuji: alat, arsitektur, keandalan, keamanan, eval, dist",
+    "ko": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons with tested exercises: tools, architectures, reliability, security, evals, dist",
+    "ms": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons with tested exercises: tools, architectures, reliability, security, evals, dist",
     "vi": "▪ Hệ thống đặc vụ Al — học thiết kế hệ thống đại diện cho doanh nghiệp AI bằng cách xây dựng từng lớp sản xuất từ đầu. 17 bài học hai thứ tiếng (EN/ vội) với bài tập thử nghiệm: công cụ, kiến trúc, đáng tin cậy, an ninh, đánh giá, thất bại",
-    "fr": "\"Hello Agent System — apprenez la conception de systèmes d'agents d'IA d'entreprise en construisant chaque couche de production à partir de zéro. 17 leçons bilingues (EN/中文) avec exercices testés : outils, architectures, fiabilité, sécurité, évaluations, dist",
-    "es": "latitud Hello Agent System — aprender empresa AI Agent system design mediante la construcción de cada capa de producción desde cero. 17 lecciones bilingües (EN/中文) con ejercicios probados: herramientas, arquitecturas, confiabilidad, seguridad, evals, dist",
-    "de": "👋 Hello Agent System - Lernen Sie das Design des Enterprise AI Agent Systems, indem Sie jede Produktionsschicht von Grund auf neu erstellen. 17 zweisprachige Lektionen (EN/中�) mit erprobten Übungen: Werkzeuge, Architekturen, Zuverlässigkeit, Sicherheit, evals, dist",
+    "fr": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons with tested exercises: tools, architectures, reliability, security, evals, dist",
+    "es": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons with tested exercises: tools, architectures, reliability, security, evals, dist",
+    "de": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons with tested exercises: tools, architectures, reliability, security, evals, dist",
     "zh-Hant": "QQ Hello Agent System ——透過從零開始建造每個生產層來學習企業AI代理系統設計. 17個雙語課程(EN/Q),經過測試:工具、結構、可靠性、安全性、evals、dist"
    }
   },
@@ -27524,15 +27524,15 @@
    },
    "trend": true,
    "summary_i18n": {
-    "en": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "en": "A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.",
     "zh-Hans": "~ REA ~ 克劳德 ~ ~ UI ~ 30 ~ 反应 ~ ~ 8 ~ 170 3000+ + ~",
-    "ja": "项 端 端 端 端 端 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +",
-    "ko": "高 高 高 高 高 高 高 原 原 原 原 原 高 高 高 高, 3000 3000+ 高分分。",
-    "ms": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI 。还原 30 个独立 React 组件与 8 项硬核交互物理算法, 附带 3000+ 行逆向分析手册。",
+    "ja": "A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.",
+    "ko": "A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.",
+    "ms": "A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.",
     "vi": "thể hiện lòng trắc ẩn",
     "fr": "Réaction Réaction Réaction Réaction Réaction Réaction",
     "es": "неле REA неннненнныеннныеннныеннныеннные неннные неленноги ненных ненниенниенныханнымиными.",
-    "de": "基于 REA 深度拆解并高保真还 mercury Claude 官方桌面端 UI。还 mercury 30 个独立 React 组件与 8 项硬核交互物理算法附带 3000+ 行逆向分析手册　",
+    "de": "A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.",
     "zh-Hant": "~ REA ~ 克勞德 ~ ~ UI ~ 30 ~ 反應 ~ ~ 8 ~ 170 3000+ + ~"
    }
   },
@@ -28340,15 +28340,15 @@
     "h": 473
    },
    "summary_i18n": {
-    "en": "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act. 得心，应手。",
+    "en": "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act.",
     "zh-Hans": "小到可以跑到麦克身上 聪明能问. macOS的开源计算机使用代理,带有本地模型(MLX),可以查看,决定和采取行动. 得心,应手。",
     "ja": "Mac上で実行するのに十分小さい。 質問するのに十分なスマートな。 オープンソースのコンピューターは、macOS 用のエージェントを使用し、ローカルモデル (MLX) で参照、決定、行動します。 お問い合わせ",
     "ko": "Mac에서 실행하는 작은. 자주 묻는 질문 macOS의 오픈 소스 컴퓨터 사용 에이전트, 로컬 모델 (MLX), 보고 결정 및 행동.  。",
-    "ms": "Cukup kecil untuk menjalankan Mac Anda. Cukup pintar untuk bertanya. Sebuah komputer open-source menggunakan agen untuk macOS, dengan model lokal (MLX) yang melihat, memutuskan dan bertindak. 得心,应手。",
+    "ms": "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act.",
     "vi": "Đủ nhỏ để chạy trên chiếc Mac của anh. Đủ thông minh để hỏi. Một máy tính mã nguồn mở sử dụng tác nhân cho macOS, với các mô hình (MLX) địa phương xem, quyết định và hành động.  tôm, cỏ",
     "fr": "Assez petit pour courir sur votre Mac. Assez intelligent pour demander. Un ordinateur open-source utilise un agent pour macOS, avec des modèles locaux (MLX) qui voient, décident et agissent. - Oui.",
     "es": "Lo suficientemente pequeño para correr en tu Mac. Lo suficientemente inteligente para preguntar. Un agente de uso de ordenadores de código abierto para macOS, con modelos locales (MLX) que ven, deciden y actúan. неннненный,",
-    "de": "Klein genug, um auf Ihrem Mac zu laufen. Klug genug, um zu fragen. Ein Open-Source-Computer-Use-Agent für macOS mit lokalen Modellen (MLX), die sehen, entscheiden und handeln. 得心,应手。",
+    "de": "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act.",
     "zh-Hant": "小到可以跑到麥克身上 聰明能問. macOS的開源計算機使用代理,帶有本地模型(MLX),可以檢視,決定和採取行動. 得心,應手。"
    }
   },
@@ -28442,15 +28442,15 @@
     "h": 294
    },
    "summary_i18n": {
-    "en": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
+    "en": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
     "zh-Hans": "制作一个全存储的TypeScript堆栈,并获得一个为AI编码代理制作的尖端,经过验证的项目,其中包含类型安全,lint,以及内置的测试. * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *注重* 和* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
     "ja": "フルスタック TypeScript スタックを構成し、AI コーディング エージェントで作られた最先端の検証済みプロジェクトを、タイプ セーフティ、 lint、テストを組み込まれています。  | 得 得 得 得 得 得  AI  AI  AI 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与 与",
-    "ko": "Full-stack TypeScript 스택을 컴파일하고, AI 코딩 에이전트를 위해 만들어진 검증된 프로젝트, Type Safety, lint 및 Test 내장.  | 一 一 一 一 一 一 一 一 一 一 一 一 一 一。",
-    "ms": "Buat proyek yang diverifikasi untuk agen pengode AI, dengan tipe keselamatan, lapisan, dan tes dibangun. 自由组合全栈 自由组合全栈 TypeScript 技术栈, 得到一个前沿、经过验证、为 AI 编码智能体打造的项目, 内置类型安全、lint 与测试。",
+    "ko": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
+    "ms": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
     "vi": "Tạo ra một chồng kiểu xếp hạng đầy đủ và có được một dự án tiên tiến, kiểm tra được thực hiện cho các đại lý mã AI, với sự an toàn loại, lit, và các thử nghiệm xây dựng.  thể hiện lòng biết ơn qua cách nào?",
     "fr": "Composez une pile TypeScript pleine pile et obtenez un projet de pointe, vérifié pour les agents de codage d'IA, avec la sécurité de type, peluche, et des tests intégrés. TypeScript",
     "es": "Configure una pila TipoScript de pila completa y obtenga un proyecto de vanguardia verificado realizado para agentes de codificación AI, con seguridad tipo, forro y pruebas incorporadas. Неннный ненннненнны неннннанннннай , неннный неннный неннный ,",
-    "de": "Verfassen Sie einen Full-Stack TypeScript-Stack und erhalten Sie ein hochmodernes, verifiziertes Projekt für KI-Codierungsagenten mit eingebauter Typsicherheit, Flusen und Tests. | 自由组合全栈 TypeScript 术栈,得到一个前沿、经过验证、为 AI 编码智能体打造造项目",
+    "de": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
     "zh-Hant": "製作一個全儲存的TypeScript堆疊,並獲得一個為AI編碼代理製作的尖端,經過驗證的專案,其中包含型別安全,lint,以及內建的測試. * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *注重* 和* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
    }
   },
@@ -28544,15 +28544,15 @@
     "h": 425
    },
    "summary_i18n": {
-    "en": "Best Claude Opus 5.5 video & visual demos, curated with prompts · 149 精选可视化案例 + 1019 完整清单（游戏/3D/动效/讲解/可视化）",
+    "en": "Best Claude Opus 5.5 video & visual demos, curated with prompts",
     "zh-Hans": "最佳Claude Opus 5.5视频和视觉演示,",
     "ja": "ベスト・クロード・オパス 5.5 ビデオ & ビジュアル・デモ, プロンプトでキュレーション · 149 精選可塑化案例 + 1019 整形 (占有/3D/动效/讲/可塑化)",
     "ko": "Best Claude Opus 5.5 비디오 및 시각적 데모, 프롬프트로 curated · 149   + 1019  (/3D/D///))",
-    "ms": "Diagram Terbaik Claude Opus 5.5 demo video & visual, direkayasa dengan prompt · 149 精选可视化案例 + 1019 完整清单( 游戏游戏/3/3/3D/ 动效/ 讲解/ 可视化)",
+    "ms": "Best Claude Opus 5.5 video & visual demos, curated with prompts",
     "vi": "Tốt nhất Claude Opus 5.5 đoạn phim và bản trình chiếu hình ảnh, được quản lý bằng dấu nhắc . 149  GB + 1019 19 (Gập tắt/3D/3D/G3D/ vội)",
     "fr": "Meilleur Claude Opus 5.5 vidéo & démos visuelles, curés avec des invites · 149",
-    "es": "Mejor Claude Opus 5.5 video &gt; demos visuales, comisariado con los impulsos · 149 精 originalmente iluminado enviar autoridad + 1019  prima de la energía de la energía",
-    "de": "Bestes Claude Opus 5.5 Video & visuelle Demos, kuratiert mit Aufforderungen · 149 精选可视化案例 + 1019 完整清单(游戏/3D/动效/讲解/可视化)",
+    "es": "Best Claude Opus 5.5 video & visual demos, curated with prompts",
+    "de": "Best Claude Opus 5.5 video & visual demos, curated with prompts",
     "zh-Hant": "最佳Claude Opus 5.5影片和視覺演示,"
    }
   },

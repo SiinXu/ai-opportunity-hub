@@ -86,6 +86,8 @@ for ch,n in [('ai',40),('news',40),('products',15),('repos',15),('ideas',10),('d
 items=json.load(open(os.path.join(D,'curated.json')))+items
 # ---- i18n ----
 LOC=['zh-Hans','zh-Hant','en','ja','ko','ms','vi','fr','es','de']
+sys.path.insert(0,D)
+from nocjk import en_of,scrub,CJK,OV   # non-Chinese locales must contain no Chinese
 if '--no-translate' not in sys.argv:
     import argostranslate.translate as T, opencc
     s2t=opencc.OpenCC('s2twp'); t2s=opencc.OpenCC('t2s')
@@ -98,9 +100,10 @@ if '--no-translate' not in sys.argv:
         return _TR[k].translate(t)
     def tr(text,src):
         if not text: return {}
-        if text in C: return C[text]
+        if text in C and not CJK.search(C[text].get('en','')): return C[text]
         out={}
-        en=text if src=='en' else X(text,'zh','en')
+        if src=='en' and CJK.search(text): en=en_of(text) or X(text,'zh','en')   # 'en' feeds often carry Chinese descriptions
+        else: en=text if src=='en' else (en_of(text) if text.strip() in OV else X(text,'zh','en'))
         out['en']=en
         for l,a in AC.items():
             if src=='zh' and l=='zh-Hans': out[l]=text
@@ -113,6 +116,7 @@ if '--no-translate' not in sys.argv:
         i['summary_i18n']=tr(i['summary'],i['lang'])
         if n%20==0: print('translated',n,'/',len(items),flush=True); json.dump(C,open(cp,'w'),ensure_ascii=False)
     json.dump(C,open(cp,'w'),ensure_ascii=False)
+print('nocjk scrubbed',scrub(items))
 json.dump(dict(updated=now.strftime('%Y-%m-%dT%H:%M:%SZ'),items=items),open(os.path.join(D,'../site/data/items.json'),'w'),ensure_ascii=False,indent=1)
 print(len(items),{c:sum(1 for i in items if i['ch']==c) for c in sorted(set(i['ch'] for i in items))})
 
