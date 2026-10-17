@@ -251,8 +251,9 @@ READER_CSS = """
 .dm-note{font-size:12px;color:var(--ink3);margin:14px 0 0}
 .dm-foot{position:sticky;bottom:-22px;background:var(--sf);padding:14px 0 0;margin-top:14px;border-top:1px solid var(--line2);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .dm-foot .credit{font-size:12px;color:var(--ink3)}
+.dm-foot .btn{white-space:nowrap}
 html.dm-open{overflow:hidden}
-@media (max-width:640px){.dm{padding:0;align-items:flex-end}.dm-card{width:100%;max-height:92vh;border-radius:var(--r) var(--r) 0 0;padding:22px 18px 18px;animation:dmUp .22s ease-out}.dm-foot{bottom:-18px}.dm-foot .btn{flex:1;justify-content:center}}
+@media (max-width:640px){.dm{padding:0;align-items:flex-end}.dm-card{width:100%;max-height:92vh;border-radius:var(--r) var(--r) 0 0;padding:22px 18px 18px;animation:dmUp .22s ease-out}.dm-foot{bottom:-18px}.dm-foot .btn{flex:1 0 100%;justify-content:center}}
 @keyframes dmUp{from{transform:translateY(24px);opacity:.6}to{transform:none;opacity:1}}
 @media (prefers-reduced-motion:reduce){.dm-card{animation:none}}
 """
