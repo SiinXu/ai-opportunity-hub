@@ -1,0 +1,1292 @@
+{
+ "latest": "2026-10-17",
+ "digests": [
+  {
+   "date": "2026-10-17",
+   "path": "digest/2026-10-17/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-17",
+    "zh-Hant": "早間技術熱點 · 2026-10-17",
+    "en": "Morning tech digest · 2026-10-17"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源与一人公司可执行信号。",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源與一人公司可執行信號。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, and actionable signals for one-person companies."
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Claude 公开「如何发现 ECDSA 曲线来源」",
+      "zh-Hant": "Claude 公開「如何發現 ECDSA 曲線來源」",
+      "en": "Claude explains how it found ECDSA curve provenance"
+     },
+     "summary": {
+      "zh-Hans": "Anthropic 把模型在密码学溯源上的推理过程摊开，HN 一夜冲到前列（约 600+ 分）。可解释 / 可审计仍是信任话题。",
+      "zh-Hant": "Anthropic 把模型在密碼學溯源上的推理過程攤開，HN 一夜衝到前列（約 600+ 分）。可解釋 / 可審計仍是信任話題。",
+      "en": "Anthropic opens the model's crypto-tracing reasoning; hit the top of HN overnight (~600+ points). Explainability stays a trust theme."
+     },
+     "url": "https://www.anthropic.com/",
+     "extra": [
+      "https://news.ycombinator.com/"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Claude Code 团队自曝代码审查流水线",
+      "zh-Hant": "Claude Code 團隊自曝代碼審查流水線",
+      "en": "Claude Code team opens its multi-agent code-review pipeline"
+     },
+     "summary": {
+      "zh-Hans": "大量 PR 先过多智能体审查，人只看安全/产品边界；实质评论覆盖率 16%→54%；Code Review 已对 Team/Enterprise 开放。",
+      "zh-Hant": "大量 PR 先過多智能體審查，人只看安全/產品邊界；實質評論覆蓋率 16%→54%；Code Review 已對 Team/Enterprise 開放。",
+      "en": "Most PRs go through multi-agent review first; humans focus on security/product edges. Substantive comment coverage 16%→54%; Code Review open for Team/Enterprise."
+     },
+     "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Apple：用 MLX 在 Mac Studio 上跑 Muse Spark Open",
+      "zh-Hant": "Apple：用 MLX 在 Mac Studio 上跑 Muse Spark Open",
+      "en": "Apple: run Muse Spark Open on Mac Studio with MLX"
+     },
+     "summary": {
+      "zh-Hans": "近万亿参数开源权重，多机 Thunderbolt RDMA，四台 Mac Studio 可达 36+ tok/s；本地大模型叙事再被推高。",
+      "zh-Hant": "近萬億參數開源權重，多機 Thunderbolt RDMA，四臺 Mac Studio 可達 36+ tok/s；本地大模型敘事再被推高。",
+      "en": "Near-trillion-param open weights, multi-machine Thunderbolt RDMA; four Mac Studios can hit 36+ tok/s. Local LLM narrative gets another push."
+     },
+     "url": "https://machinelearning.apple.com/",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "「美国 90% 工时落在 AI benchmark 覆盖不好的任务上」",
+      "zh-Hant": "「美國 90% 工時落在 AI benchmark 覆蓋不好的任務上」",
+      "en": "“90% of US work hours sit on tasks AI benchmarks cover poorly”"
+     },
+     "summary": {
+      "zh-Hans": "Mercor 报告上 HN 热榜：基准分数 ≠ 真实白领工作。一人公司更适合找「AI 补洞」而非「再刷榜」。",
+      "zh-Hant": "Mercor 報告上 HN 熱榜：基準分數 ≠ 真實白領工作。一人公司更適合找「AI 補洞」而非「再刷榜」。",
+      "en": "Mercor report on HN: benchmark scores ≠ real white-collar work. Better to find AI gap-fills than chase leaderboards."
+     },
+     "url": "https://www.mercor.com/",
+     "extra": [
+      "https://news.ycombinator.com/"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Copilot Slack/Teams 多仓库对话 + AI Scan for PRs GA",
+      "zh-Hant": "GitHub Copilot Slack/Teams 多倉庫對話 + AI Scan for PRs GA",
+      "en": "GitHub Copilot multi-repo chat in Slack/Teams + AI Scan for PRs GA"
+     },
+     "summary": {
+      "zh-Hans": "一条会话跨多个 repo 查 PR/Issue；AI Scan for PRs 正式 GA，补 CodeQL 覆盖不到的语言。",
+      "zh-Hant": "一條會話跨多個 repo 查 PR/Issue；AI Scan for PRs 正式 GA，補 CodeQL 覆蓋不到的語言。",
+      "en": "One chat across multiple repos for PRs/Issues; AI Scan for PRs generally available, covering languages CodeQL misses."
+     },
+     "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates/",
+     "extra": [
+      "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Trending 被 Agent Skills / 插件目录霸榜",
+      "zh-Hant": "GitHub Trending 被 Agent Skills / 插件目錄霸榜",
+      "en": "GitHub Trending dominated by Agent Skills / plugin directories"
+     },
+     "summary": {
+      "zh-Hans": "anthropics/claude-plugins-official 今日约 1.5k★，同批还有 superpowers、ECC、scientific-agent-skills、context-mode。生态重心转向可插拔技能包。",
+      "zh-Hant": "anthropics/claude-plugins-official 今日約 1.5k★，同批還有 superpowers、ECC、scientific-agent-skills、context-mode。生態重心轉向可插拔技能包。",
+      "en": "anthropics/claude-plugins-official ~1.5k★ today, alongside superpowers, ECC, scientific-agent-skills, context-mode. Ecosystem shifts to pluggable skill packs."
+     },
+     "url": "https://github.com/trending",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "VoiceStudio 开源本地声纹/配音栈爆火",
+      "zh-Hant": "VoiceStudio 開源本地聲紋/配音棧爆火",
+      "en": "VoiceStudio open-source local voice clone / dubbing stack surges"
+     },
+     "summary": {
+      "zh-Hans": "自称本地 ElevenLabs 替代（克隆、配音、听写、多语言），Trending 今日约 2.3k★。",
+      "zh-Hant": "自稱本地 ElevenLabs 替代（克隆、配音、聽寫、多語言），Trending 今日約 2.3k★。",
+      "en": "Self-described local ElevenLabs alternative (clone, dub, dictate, multilingual); ~2.3k★ on Trending today."
+     },
+     "url": "https://github.com/debpalash/VoiceStudio",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Chainguard：AI Agent 安全微 VM Workspace + Checks",
+      "zh-Hant": "Chainguard：AI Agent 安全微 VM Workspace + Checks",
+      "en": "Chainguard: secure micro-VM Workspaces + Checks for AI coding agents"
+     },
+     "summary": {
+      "zh-Hans": "把 agent 生成的代码放进加固微虚拟机里测；供应链安全产品化成「给 agent 用的 CI」。",
+      "zh-Hant": "把 agent 生成的代碼放進加固微虛擬機裏測；供應鏈安全產品化成「給 agent 用的 CI」。",
+      "en": "Run agent-generated code inside hardened micro-VMs; supply-chain security packaged as CI for agents."
+     },
+     "url": "https://www.infoq.com/news/2026/10/chainguard-workspaces-checks/",
+     "extra": []
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "卖/做 Claude·Cursor 技能包与插件目录 — 官方目录 + 社区 harness 同日刷榜；可做垂直 niche 付费 skills 或模板站。",
+     "本地语音/配音 SaaS 或一键工作流 — VoiceStudio 热度证明需求；可封装播客/短剧/多语言配音流水线。",
+     "AI Code Review 夹层产品 — 只审某类栈 / 只拦某类 bug / 对接 Notion 日报的轻量服务。",
+     "Context/Token 省钱层 — 如 context-mode：沙箱工具输出、砍 token；可做成 MCP/插件。",
+     "24GB 消费级本地 Agent 套件 — 预装镜像、一键脚本或垂直本地助手。"
+    ],
+    "zh-Hant": [
+     "賣/做 Claude·Cursor 技能包與插件目錄 — 官方目錄 + 社區 harness 同日刷榜；可做垂直 niche 付費 skills 或模板站。",
+     "本地語音/配音 SaaS 或一鍵工作流 — VoiceStudio 熱度證明需求；可封裝播客/短劇/多語言配音流水線。",
+     "AI Code Review 夾層產品 — 只審某類棧 / 只攔某類 bug / 對接 Notion 日報的輕量服務。",
+     "Context/Token 省錢層 — 如 context-mode：沙箱工具輸出、砍 token；可做成 MCP/插件。",
+     "24GB 消費級本地 Agent 套件 — 預裝鏡像、一鍵腳本或垂直本地助手。"
+    ],
+    "en": [
+     "Sell/build Claude·Cursor skill packs & plugin directories — vertical niche paid skills or template sites.",
+     "Local voice/dubbing SaaS or one-click workflows — podcast/short-drama/multilingual dubbing pipelines.",
+     "AI Code Review mid-layer products — stack-specific review, bug gates, or Notion daily digests.",
+     "Context/token saver layer — e.g. context-mode MCP/plugin for heavy agent users.",
+     "24GB consumer local Agent kits — prebuilt images, one-click scripts, or vertical local assistants."
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "anthropics/claude-plugins-official",
+      "zh-Hant": "anthropics/claude-plugins-official",
+      "en": "anthropics/claude-plugins-official"
+     },
+     "summary": {
+      "zh-Hans": "官方 Claude Code 插件目录，今日 Trending 第一梯队。",
+      "zh-Hant": "官方 Claude Code 插件目錄，今日 Trending 第一梯隊。",
+      "en": "Official Claude Code plugin directory; top tier on Trending today."
+     },
+     "url": "https://github.com/anthropics/claude-plugins-official"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "path": "digest/2026-10-16/",
+   "kind": "catch-up",
+   "auto": true,
+   "cutoff": "2026-10-15T23:30:00Z",
+   "generated": "2026-10-17T04:00:47Z",
+   "new_count": 86,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-16（补发）",
+    "zh-Hant": "早間技術熱點 · 2026-10-16（補發）",
+    "en": "Morning tech digest · 2026-10-16 (catch-up)",
+    "ja": "朝のテックダイジェスト · 2026-10-16（キャッチアップ）",
+    "ko": "아침 테크 다이제스트 · 2026-10-16 (지연 발행)",
+    "ms": "Ringkasan teknologi pagi · 2026-10-16 (susulan)",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-16 (bù)",
+    "fr": "Digest tech du matin · 2026-10-16 (rattrapage)",
+    "es": "Resumen tecnológico matinal · 2026-10-16 (atrasado)",
+    "de": "Morgendlicher Tech-Digest · 2026-10-16 (nachgereicht)"
+   },
+   "lede": {
+    "zh-Hans": "补发：按上海时间 2026-10-16 07:30 的截止点事后自动生成，收录当时新出现的 86 条信号。",
+    "zh-Hant": "補發：按上海時間 2026-10-16 07:30 的截止點事後自動生成，收錄當時新出現的 86 條信號。",
+    "en": "Catch-up issue: generated afterwards for the 07:30 Asia/Shanghai cutoff on 2026-10-16, from the 86 signals that were new at that time.",
+    "ja": "キャッチアップ号：2026-10-16 07:30（上海時間）の締め切りに合わせて後から自動生成し、当時新しかった 86 件のシグナルから選びました。",
+    "ko": "지연 발행: 2026-10-16 07:30(상하이 시간) 마감 기준으로 나중에 자동 생성했으며, 당시 새로 나온 신호 86개에서 골랐습니다.",
+    "ms": "Isu susulan: dijana kemudian untuk had masa 07:30 waktu Shanghai pada 2026-10-16, daripada 86 isyarat yang baharu ketika itu.",
+    "vi": "Số bù: tạo sau cho mốc 07:30 giờ Thượng Hải ngày 2026-10-16, từ 86 tín hiệu mới tại thời điểm đó.",
+    "fr": "Numéro de rattrapage : généré après coup pour l’échéance de 07:30 heure de Shanghai du 2026-10-16, à partir des 86 signaux nouveaux à ce moment-là.",
+    "es": "Número atrasado: generado después para el corte de las 07:30 hora de Shanghái del 2026-10-16, a partir de las 86 señales nuevas en ese momento.",
+    "de": "Nachgereichte Ausgabe: nachträglich für den Stichtag 07:30 Uhr Shanghai-Zeit am 2026-10-16 erstellt, aus den 86 damals neuen Signalen."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点（补发）",
+    "zh-Hant": "早間技術熱點（補發）",
+    "en": "Morning tech digest (catch-up)",
+    "ja": "朝のテックダイジェスト（キャッチアップ）",
+    "ko": "아침 테크 다이제스트 (지연 발행)",
+    "ms": "Ringkasan teknologi pagi (susulan)",
+    "vi": "Bản tin công nghệ buổi sáng (bù)",
+    "fr": "Digest tech du matin (rattrapage)",
+    "es": "Resumen tecnológico matinal (atrasado)",
+    "de": "Morgendlicher Tech-Digest (nachgereicht)"
+   },
+   "top": [
+    {
+     "id": "hn-50091788",
+     "title": {
+      "zh-Hans": "控制和监测失败是AI黑客报告的责任:专家",
+      "zh-Hant": "控制和監測失敗是AI駭客報告的責任:專家",
+      "en": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "ja": "AIによるハッキング騒動の原因は「封じ込めと監視の不備」と専門家",
+      "ko": "유지 및 모니터링 실패는 AI 해킹 보고서에 대 한 비난: 전문가",
+      "ms": "Keterlibatan dan kegagalan pemantauan adalah kesalahan untuk laporan peretasan AI: para ahli",
+      "vi": "Kiểm soát và giám sát thất bại là lỗi của các báo cáo hack AI: các chuyên gia",
+      "fr": "Les défaillances de confinement et de surveillance sont à blâmer pour les rapports de piratage d'IA: experts",
+      "es": "Los fallos en materia de mantenimiento y vigilancia son responsables de los informes de piratería AI: expertos",
+      "de": "Eindämmung und Überwachung von Fehlern sind für AI-Hacking-Berichte verantwortlich: Experten"
+     },
+     "summary": {
+      "en": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports.",
+      "zh-Hans": "网络安全专家认为，近期一连串令人担忧的 AI 入侵事件，问题出在 AI 实验室的隔离与监控失职，而不是智能体有了自己的意志。",
+      "ja": "最近相次ぐAIのハッキング報告について、サイバーセキュリティの専門家たちは「意思を持ったエージェント」ではなく、AIラボ側の封じ込めと監視の失敗が原因だと指摘しています。",
+      "ko": "사이버 전문가들은 AI 실험실의 포함 및 모니터링 실패라고 말했습니다. - 자신의 마음을 가진 에이전트가 아닙니다. - 최근 경보 해킹 보고서를 비난하는 것입니다.",
+      "ms": "Para ahli Siber mengatakan bahwa penahanan dan kegagalan pemantauan laboratorium AI — bukan agen yang punya pikiran sendiri — yang harus disalahkan atas laporan peretasan yang mengkhawatirkan baru - baru ini.",
+      "vi": "Các chuyên gia trên mạng nói rằng phòng thí nghiệm Al và giám sát thất bại — chứ không phải những người có đầu óc như họ — là nguyên nhân của những báo cáo xâm nhập đáng lo ngại gần đây.",
+      "fr": "Les cyber-experts disent que les laboratoires d'IA, et non les agents qui ont leurs propres esprits, sont responsables des récents rapports alarmants de piratage.",
+      "es": "Los expertos cibernéticos dicen que los fallos de contención y vigilancia de los laboratorios de IA —no los agentes con mente propia— tienen la culpa de los recientes informes alarmantes de piratería.",
+      "de": "Cyberexperten sagen, dass die Eindämmung und Überwachung von Fehlern in KI-Labors - nicht Agenten mit eigenen Köpfen - für die jüngsten alarmierenden Hacking-Berichte verantwortlich sind.",
+      "zh-Hant": "網路安全專家認為，近期一連串令人擔憂的 AI 入侵事件，問題出在 AI 實驗室的隔離與監控失職，而不是智慧體有了自己的意志。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 946 分 · 619 条评论",
+      "zh-Hant": "Hacker News 946 分 · 619 則留言",
+      "en": "946 points · 619 comments on Hacker News",
+      "ja": "Hacker News 946 ポイント · コメント 619 件",
+      "ko": "Hacker News 946점 · 댓글 619개",
+      "ms": "946 mata · 619 komen di Hacker News",
+      "vi": "946 điểm · 619 bình luận trên Hacker News",
+      "fr": "946 points · 619 commentaires sur Hacker News",
+      "es": "946 puntos · 619 comentarios en Hacker News",
+      "de": "946 Punkte · 619 Kommentare auf Hacker News"
+     },
+     "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+     "src": "csoonline.com",
+     "date": "2026-10-14",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50091788"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50101813",
+     "title": {
+      "zh-Hans": "广告:定向广告变成零点击雇佣军间谍软件的管道",
+      "zh-Hant": "廣告:定向廣告變成零點選僱傭軍間諜軟體的管道",
+      "en": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "ja": "AdFection：ターゲティング広告がゼロクリック型の傭兵スパイウェアの配布経路に",
+      "ko": "AdFection: Targeted ads는 0click mercenary spyware를 위한 파이프라인으로 돌았습니다",
+      "ms": "Iklan yang ditargetkan berubah menjadi pipa untuk mata-mata tentara bayaran nol klik",
+      "vi": "Quảng cáo mục tiêu biến thành đường ống dẫn cho phần mềm gián điệp không nhấp chuột.",
+      "fr": "AdFection: Annonces ciblées transformées en pipeline pour le logiciel espion mercenaire zéro clic",
+      "es": "AdFection: Los anuncios dirigidos se convirtieron en un oleoducto para el spyware mercenario de cero clic",
+      "de": "AdFection: Gezielte Werbung wurde zu einer Pipeline für Zero-Click-Söldner-Spyware"
+     },
+     "summary": {
+      "en": "This is the first-ever public confirmation of zero-click mercenary spyware delivered via targeted ads. We call the technique AdFection.",
+      "zh-Hans": "这是首次公开证实：雇佣型间谍软件可以通过定向广告以零点击方式投放。研究者把这种手法称为 AdFection。",
+      "ja": "ターゲティング広告を通じてゼロクリック型の傭兵スパイウェアが配布されていることを、初めて公に確認した報告です。Citizen Labはこの手法を「AdFection」と名付けました。",
+      "ko": "이것은 대상 광고를 통해 전달된 0click mercenary 스파이웨어의 첫 번째 공개 확인입니다. 우리는 기술 AdFection을 호출합니다.",
+      "ms": "Ini adalah konfirmasi publik pertama kalinya dari nol-klik spyware tentara bayaran disampaikan melalui iklan target. Kami menyebutnya teknik AdFektion.",
+      "vi": "Đây là xác nhận công khai đầu tiên của phần mềm gián điệp không nhấn chuột được gửi qua quảng cáo mục tiêu. Chúng tôi gọi đó là phương pháp quảng cáo.",
+      "fr": "Il s'agit de la toute première confirmation publique d'un spyware mercenaire à clic zéro livré via des annonces ciblées. Nous appelons la technique AdFection.",
+      "es": "Esta es la primera confirmación pública del spyware mercenario de cero clic entregado a través de anuncios específicos. Llamamos a la técnica AdFection.",
+      "de": "Dies ist die erste öffentliche Bestätigung von Zero-Click-Söldner-Spyware, die über gezielte Anzeigen bereitgestellt wird. Wir nennen die Technik AdFection.",
+      "zh-Hant": "這是首次公開證實：僱傭型間諜軟體可以透過定向廣告以零點選方式投放。研究者把這種手法稱為 AdFection。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 497 分 · 667 条评论",
+      "zh-Hant": "Hacker News 497 分 · 667 則留言",
+      "en": "497 points · 667 comments on Hacker News",
+      "ja": "Hacker News 497 ポイント · コメント 667 件",
+      "ko": "Hacker News 497점 · 댓글 667개",
+      "ms": "497 mata · 667 komen di Hacker News",
+      "vi": "497 điểm · 667 bình luận trên Hacker News",
+      "fr": "497 points · 667 commentaires sur Hacker News",
+      "es": "497 puntos · 667 comentarios en Hacker News",
+      "de": "497 Punkte · 667 Kommentare auf Hacker News"
+     },
+     "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+     "src": "citizenlab.ca",
+     "date": "2026-10-15",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50101813"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50107379",
+     "title": {
+      "zh-Hans": "打开Muse Spark",
+      "zh-Hant": "開啟Muse Spark",
+      "en": "Muse Spark Open",
+      "ja": "Muse Spark Open",
+      "ko": "Muse Spark 오픈",
+      "ms": "Muse Spark Open",
+      "vi": "Comment",
+      "fr": "Muse Spark ouvert",
+      "es": "Muse Spark Open",
+      "de": "Muse Spark Open"
+     },
+     "summary": {
+      "en": "Muse Spark Open is the most capable US open-weight model to date, and brings leading agentic capabilities to your desktop on Apple M5 Ultra Mac Studios.",
+      "zh-Hans": "Muse Spark Open 是迄今能力最强的美国开放权重模型，可在搭载 M5 Ultra 的 Mac Studio 上把领先的智能体能力带到你的桌面。",
+      "ja": "Muse Spark Openは、これまでで最も高性能な米国製オープンウェイトモデルだとされ、Apple M5 Ultra搭載のMac Studioを使って、最先端のエージェント機能を手元のデスクトップで動かせます。",
+      "ko": "Muse Spark Open은 미국 오픈 웨이트 모델이며 Apple M5 Ultra Mac Studios에서 데스크탑에 최고의 에이전트 기능을 제공합니다.",
+      "ms": "Muse Spark Open adalah model kelas terbuka AS yang paling mampu sampai saat ini, dan membawa kemampuan agentik terkemuka ke desktop Anda di Apple M5 Ultra Mac Studios.",
+      "vi": "Mise Spark open là mô hình mở cỡ lớn nhất của Mỹ cho đến nay, và mang đến cho máy tính của bạn những khả năng đặc biệt hàng đầu trên máy tính Apple M5 phòng thu Mac.",
+      "fr": "Muse Spark Open est le modèle open-weight américain le plus capable à ce jour, et apporte des capacités d'agent principal à votre bureau sur Apple M5 Ultra Mac Studios.",
+      "es": "Muse Spark Open es el modelo de peso abierto de EE.UU. más capaz hasta la fecha, y trae las principales capacidades de agente a su escritorio en Apple M5 Ultra Mac Studios.",
+      "de": "Muse Spark Open ist das bisher leistungsfähigste US-Opengewichtsmodell und bringt führende Agentenfunktionen auf Ihren Desktop auf Apple M5 Ultra Mac Studios.",
+      "zh-Hant": "Muse Spark Open 是迄今能力最強的美國開放權重模型，可在搭載 M5 Ultra 的 Mac Studio 上把領先的智慧體能力帶到你的桌面。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 901 分 · 467 条评论",
+      "zh-Hant": "Hacker News 901 分 · 467 則留言",
+      "en": "901 points · 467 comments on Hacker News",
+      "ja": "Hacker News 901 ポイント · コメント 467 件",
+      "ko": "Hacker News 901점 · 댓글 467개",
+      "ms": "901 mata · 467 komen di Hacker News",
+      "vi": "901 điểm · 467 bình luận trên Hacker News",
+      "fr": "901 points · 467 commentaires sur Hacker News",
+      "es": "901 puntos · 467 comentarios en Hacker News",
+      "de": "901 Punkte · 467 Kommentare auf Hacker News"
+     },
+     "url": "https://research.meta.ai/blog/muse-spark-open",
+     "src": "research.meta.ai",
+     "date": "2026-10-15",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50107379"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50084240",
+     "title": {
+      "zh-Hans": "Iosevka 是一个开源, sans-serif 和 slab-serif 单空间字体",
+      "zh-Hant": "Iosevka 是一個開源, sans-serif 和 slab-serif 單空間字型",
+      "en": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "ja": "Iosevka：サンセリフとスラブセリフを備えたオープンソースの等幅フォント",
+      "ko": "Iosevka는 오픈 소스, sans-serif 및 Slab-serif monospace 글꼴입니다.",
+      "ms": "Iosevka adalah sebuah open-source, sans-serif dan slab-serif monospace font",
+      "vi": "Iosevka là một mã nguồn mở, sans-serif và bảng chữ cái có một không gian đơn sắc",
+      "fr": "Iosevka est une police monospace open-source, sans-serif et dalle-serif",
+      "es": "Iosevka es una fuente de código abierto, sans-serif y slab-serif monospace",
+      "de": "Iosevka ist eine Open-Source, Sans-Serif und Slab-Serif Monospace Font"
+     },
+     "summary": {
+      "en": "The Iosevka’s monospace family is provided in a slender outfit by default: glyphs are exactly 1/2em wide. Compared to the competitors, you could fit more columns within the same screen width.",
+      "zh-Hans": "Iosevka 等宽字体默认采用窄身设计，每个字形恰好半个 em 宽；与同类字体相比，同样的屏幕宽度能放下更多列。",
+      "ja": "Iosevkaの等幅フォントファミリーは初期設定で細身のデザインです。各グリフの幅はちょうど1/2emなので、ほかのフォントと比べて同じ画面幅により多くの列を収められます。",
+      "ko": "Iosevka의 monospace 제품군은 기본적으로 slender 복장에서 제공됩니다. glyphs는 1/2em 넓습니다. 경쟁 업체에 비해 동일한 화면 너비 내에서 더 많은 열을 맞출 수 있습니다.",
+      "ms": "Keluarga monospace karya Ogos Iosevka disediakan dalam pakaian slender secara baku: glif lebarnya tepat 1/2em. Dibandingkan dengan pesaing, Anda bisa muat lebih banyak kolom dalam lebar layar yang sama.",
+      "vi": "Gia đình đơn không gian của người Iosevka được cung cấp trong một bộ quần áo mỏng theo mặc định: các bức chạm khắc chính xác là 1/2. So với đối thủ cạnh tranh, bạn có thể xếp thêm nhiều cột trong cùng chiều rộng màn hình.",
+      "fr": "La famille Iosevkas monospace est fournie par défaut dans une tenue mince : les glyphes sont exactement 1/2em de large. Comparativement aux concurrents, vous pouvez placer plus de colonnes dans la même largeur d'écran.",
+      "es": "La familia monoespacial de Iosevka se proporciona en un traje esbelto por defecto: los glifos son exactamente 1/2em de ancho. Comparado con los competidores, usted podría caber más columnas dentro del mismo ancho de pantalla.",
+      "de": "Die Monospace-Familie der Iosevka wird standardmäßig in einem schlanken Outfit bereitgestellt: Glyphen sind genau 1/2 em breit. Im Vergleich zu den Mitbewerbern können Sie mehr Spalten innerhalb der gleichen Bildschirmbreite einfügen.",
+      "zh-Hant": "Iosevka 等寬字型預設採用窄身設計，每個字形恰好半個 em 寬；與同類字型相比，同樣的螢幕寬度能放下更多列。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 743 分 · 312 条评论",
+      "zh-Hant": "Hacker News 743 分 · 312 則留言",
+      "en": "743 points · 312 comments on Hacker News",
+      "ja": "Hacker News 743 ポイント · コメント 312 件",
+      "ko": "Hacker News 743점 · 댓글 312개",
+      "ms": "743 mata · 312 komen di Hacker News",
+      "vi": "743 điểm · 312 bình luận trên Hacker News",
+      "fr": "743 points · 312 commentaires sur Hacker News",
+      "es": "743 puntos · 312 comentarios en Hacker News",
+      "de": "743 Punkte · 312 Kommentare auf Hacker News"
+     },
+     "url": "https://typeof.net/Iosevka/",
+     "src": "typeof.net",
+     "date": "2026-10-14",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50084240"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50105647",
+     "title": {
+      "zh-Hans": "神经网络是干净的",
+      "zh-Hant": "神經網路是乾淨的",
+      "en": "Neural networks are clean",
+      "ja": "ニューラルネットワークはもともと「きれい」だ",
+      "ko": "Neural 네트워크는 청결합니다",
+      "ms": "Jaringan saraf tidak bersih",
+      "vi": "Mạng thần kinh không có gì",
+      "fr": "Les réseaux neuronaux sont propres",
+      "es": "Las redes neuronales están limpias",
+      "de": "Neuronale Netze sind sauber"
+     },
+     "summary": {
+      "en": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
+      "zh-Hans": "一个关于神经元、泛化以及电路“生态”的工作假说。",
+      "ja": "ニューロン、汎化、そして回路の生態系についての作業仮説を示すエッセイです。",
+      "ko": "신경, 일반화 및 회로의 생태에 대한 작업 hypothesis.",
+      "ms": "Hipotesis yang bekerja tentang neuron, generalisasi, dan ekologi sirkuit.",
+      "vi": "Một giả thuyết hiệu quả về nơ-ron, tổng quát hóa, và hệ sinh thái của các mạch.",
+      "fr": "Une hypothèse de travail sur les neurones, la généralisation et l'écologie des circuits.",
+      "es": "Una hipótesis de trabajo sobre neuronas, generalización y ecología de circuitos.",
+      "de": "Eine Arbeitshypothese über Neuronen, Verallgemeinerung und die Ökologie von Schaltkreisen.",
+      "zh-Hant": "一個關於神經元、泛化以及電路“生態”的工作假說。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 800 分 · 324 条评论",
+      "zh-Hant": "Hacker News 800 分 · 324 則留言",
+      "en": "800 points · 324 comments on Hacker News",
+      "ja": "Hacker News 800 ポイント · コメント 324 件",
+      "ko": "Hacker News 800점 · 댓글 324개",
+      "ms": "800 mata · 324 komen di Hacker News",
+      "vi": "800 điểm · 324 bình luận trên Hacker News",
+      "fr": "800 points · 324 commentaires sur Hacker News",
+      "es": "800 puntos · 324 comentarios en Hacker News",
+      "de": "800 Punkte · 324 Kommentare auf Hacker News"
+     },
+     "url": "https://already-clean.goodfire.com/",
+     "src": "already-clean.goodfire.com",
+     "date": "2026-10-15",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50105647"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50092664",
+     "title": {
+      "zh-Hans": "银行正在试图卸下 AI数据中心的债务 他们只是承担",
+      "zh-Hant": "銀行正在試圖卸下 AI資料中心的債務 他們只是承擔",
+      "en": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "ja": "引き受けたばかりのAIデータセンター向け融資を、銀行が手放そうとしている",
+      "ko": "은행은 이제 AI 데이터 센터 부채를 해제하려고합니다. 그들은 단지 밑으로",
+      "ms": "Bank-bank sekarang mencoba untuk offload AI pusat data utang mereka hanya di bawahwrote",
+      "vi": "Các ngân hàng đang cố gắng để giảm tải các dữ liệu trung tâm dữ liệu AI nợ họ chỉ cầnwrote",
+      "fr": "Les banques essaient maintenant de décharger la dette du centre de données AI qu'elles ont juste sous-écrit",
+      "es": "Los bancos están tratando de descargar la deuda del centro de datos AI que acaban de subcontratar",
+      "de": "Banken versuchen jetzt, die Schulden des KI-Rechenzentrums zu entlasten, die sie gerade unterschrieben haben"
+     },
+     "summary": {
+      "en": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
+      "zh-Hans": "随着信用违约互换飙升、债券认购变冷，摩根大通、三菱日联等银行正在兜售与 Oracle 相关的 AI 数据中心债务。",
+      "ja": "クレジット・デフォルト・スワップが急上昇し、社債の注文が細るなか、JPMorganやMUFGなどの銀行がOracle関連のAIデータセンター向け債権の売却先を探しています。",
+      "ko": "JPMorgan 및 MUFG를 포함한 은행은 Oracle에 신용 기본 스왑 스파이크 및 채권 주문 책이 얇은 쇼핑 AI 데이터 센터 부채입니다.",
+      "ms": "Bank-bank termasuk JPMorgan dan MUFG adalah bank pusat data AI belanja yang terikat pada Oracle sebagai kredit default swap spike dan buku pesanan obligasi tipis.",
+      "vi": "Ngân hàng bao gồm JPMgan và MUFG đang mua sắm các khoản nợ trung tâm dữ liệu AI gắn liền với Nhà tiên tri như là hợp đồng hoán đổi tín dụng tăng vọt và trái phiếu đặt sách mỏng.",
+      "fr": "Les banques, y compris JPMorgan et MUFG, achètent la dette du centre de données AI liée à Oracle car les swaps de défaut de crédit et les carnets de commandes d'obligations s'éclaircissent.",
+      "es": "Los bancos, incluyendo JPMorgan y MUFG, están comprando la deuda del centro de datos AI ligada a Oracle como los swaps por defecto de crédito y los libros de orden de bonos delgados.",
+      "de": "Banken wie JPMorgan und MUFG kaufen KI-Rechenzentrumsschulden, die an Oracle gebunden sind, während Credit Default Swaps Spike- und Bond-Order-Bücher ausdünnen.",
+      "zh-Hant": "隨著信用違約互換飆升、債券認購變冷，摩根大通、三菱日聯等銀行正在兜售與 Oracle 相關的 AI 資料中心債務。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 383 分 · 277 条评论",
+      "zh-Hant": "Hacker News 383 分 · 277 則留言",
+      "en": "383 points · 277 comments on Hacker News",
+      "ja": "Hacker News 383 ポイント · コメント 277 件",
+      "ko": "Hacker News 383점 · 댓글 277개",
+      "ms": "383 mata · 277 komen di Hacker News",
+      "vi": "383 điểm · 277 bình luận trên Hacker News",
+      "fr": "383 points · 277 commentaires sur Hacker News",
+      "es": "383 puntos · 277 comentarios en Hacker News",
+      "de": "383 Punkte · 277 Kommentare auf Hacker News"
+     },
+     "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+     "src": "startupfortune.com",
+     "date": "2026-10-14",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50092664"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50094694",
+     "title": {
+      "zh-Hans": "Anthropic的\"Scion\"深受莫诺诺克的启发",
+      "zh-Hant": "Anthropic的\"Scion\"深受莫諾諾克的啟發",
+      "en": "Anthropic's Scion is heavily inspired by Mononoke",
+      "ja": "AnthropicのScionはMononokeに大きく影響を受けている",
+      "ko": "Anthropic의 Scion은 Mononoke에서 크게 영감을 주었습니다.",
+      "ms": "Scion Anthropic sangat terinspirasi oleh Mononoke",
+      "vi": "Hình chữ nhật của người máy được truyền cảm hứng sâu sắc bởi Mononoke",
+      "fr": "Anthropic's Scion est fortement inspiré par Mononoke",
+      "es": "Scion de Antrópico está fuertemente inspirada en Mononoke",
+      "de": "Anthropic's Scion ist stark von Mononoke inspiriert"
+     },
+     "summary": {
+      "en": "Here is Anthropic describing yesterday how their new version control system, Scion, uses a concept called “derived data” to make operations like blames more efficient.",
+      "zh-Hans": "作者指出，Anthropic 介绍其新版本控制系统 Scion 用“派生数据”让 blame 等操作更高效，而这正是 Mononoke 多年前的设计。",
+      "ja": "Anthropicは昨日、新しいバージョン管理システムScionが「派生データ」という概念を使ってblameなどの操作を効率化していると説明しました。",
+      "ko": "이 웹 사이트는 애플 리케이션에 전념. 우리는 정품 앱과 게임을 제공 할 목적으로이 사이트를 만들었습니다. 4AppsApk 최고의 안드로이드 애플 리케이션을위한 무료 APK 파일 다운로드 서비스, 계략.",
+      "ms": "Ini adalah Anthropic menggambarkan kemarin bagaimana sistem kontrol versi baru mereka, Scion, menggunakan konsep yang disebut \\\"data terderi\\\" untuk membuat operasi seperti menyalahkan lebih efisien.",
+      "vi": "Đây là cuốn Antropic miêu tả cách hệ thống điều khiển phiên bản mới của họ, Scion, sử dụng một khái niệm gọi là “dữ liệu bị gián đoạn để thực hiện các hoạt động như đổ lỗi nhiều hơn.",
+      "fr": "Voici Anthropic décrivant hier comment leur nouveau système de contrôle de version, Scion, utilise un concept appelé -Data dérivé pour rendre les opérations comme les blâmes plus efficaces.",
+      "es": "Aquí está Anthropic describiendo ayer cómo su nuevo sistema de control de versiones, Scion, utiliza un concepto llamado “datos obtenidos” para hacer operaciones como culpas más eficientes.",
+      "de": "Hier beschreibt Anthropic gestern, wie ihr neues Versionskontrollsystem Scion ein Konzept namens \"abgeleitete Daten\" verwendet, um Operationen wie Schuldzuweisungen effizienter zu machen.",
+      "zh-Hant": "作者指出，Anthropic 介紹其新版本控制系統 Scion 用“派生資料”讓 blame 等操作更高效，而這正是 Mononoke 多年前的設計。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 425 分 · 161 条评论",
+      "zh-Hant": "Hacker News 425 分 · 161 則留言",
+      "en": "425 points · 161 comments on Hacker News",
+      "ja": "Hacker News 425 ポイント · コメント 161 件",
+      "ko": "Hacker News 425점 · 댓글 161개",
+      "ms": "425 mata · 161 komen di Hacker News",
+      "vi": "425 điểm · 161 bình luận trên Hacker News",
+      "fr": "425 points · 161 commentaires sur Hacker News",
+      "es": "425 puntos · 161 comentarios en Hacker News",
+      "de": "425 Punkte · 161 Kommentare auf Hacker News"
+     },
+     "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+     "src": "sunshowers.io",
+     "date": "2026-10-14",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50094694"
+     ],
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50106738",
+     "title": {
+      "zh-Hans": "更多关于Anthropic的Scion 撕取了Mononoke",
+      "zh-Hant": "更多關於Anthropic的Scion 撕取了Mononoke",
+      "en": "More on Anthropic's Scion ripping off Mononoke",
+      "ja": "続・AnthropicのScionによるMononokeの盗用について",
+      "ko": "Anthropic의 Scion에서 더 많은 모노크",
+      "ms": "Lebih banyak pada Scion Anthropic merobek Mononoke",
+      "vi": "Thêm nhiều trên Nhiếp ảnh nhân tạo lấy mất Mononoke",
+      "fr": "En savoir plus sur le scion d'Anthropic qui déchire Mononoke",
+      "es": "Más sobre el Scion de Antrópico arrancando Mononoke",
+      "de": "Mehr über Anthropic's Scion, der Mononoke abreißt"
+     },
+     "summary": {
+      "en": "In response to yesterday’s post about Anthropic’s Scion ripping off Mononoke, I received a number of questions and concerns. Here’s a followup to answer the big ones.",
+      "zh-Hans": "针对前一篇关于 Anthropic Scion 抄袭 Mononoke 的文章，作者收到不少提问和质疑，这篇续文逐一回应其中的主要问题。",
+      "ja": "AnthropicのScionがMononokeを盗用しているという昨日の記事に、多くの質問や懸念が寄せられました。主なものに答える続編です。",
+      "ko": "어제의 포스트에 대한 응답 Anthropic의 Scion은 Mononoke를 찢어, 나는 질문과 우려의 번호를 받았다. 여기에 큰 것들을 대답하기 위해 후속입니다.",
+      "ms": "Sebagai tanggapan atas pos kemarin tentang Scion Antropic yang merobek Mononoke, saya menerima sejumlah pertanyaan dan kekhawatiran. Berikut ini adalah tindak lanjut untuk menjawab yang besar.",
+      "vi": "Để đáp lại bài viết ngày hôm qua về thời kỳ kỷ luật Antropic, tôi đã nhận được một số câu hỏi và mối lo lắng. Sau đây là câu trả lời cho những câu hỏi lớn.",
+      "fr": "En réponse à l'article d'hier sur Anthropics Scion arrachant Mononoke, j'ai reçu un certain nombre de questions et de préoccupations. Voici un suivi pour répondre aux grands.",
+      "es": "En respuesta al post de ayer sobre el Scion de Antrópico recortando Mononoke, recibí varias preguntas e inquietudes. Aquí hay un seguimiento para responder a los grandes.",
+      "de": "Als Antwort auf den gestrigen Beitrag über Anthropic's Scion, der Mononoke abriss, erhielt ich eine Reihe von Fragen und Bedenken. Hier ist ein Follow-up, um die großen zu beantworten.",
+      "zh-Hant": "針對前一篇關於 Anthropic Scion 抄襲 Mononoke 的文章，作者收到不少提問和質疑，這篇續文逐一回應其中的主要問題。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 251 分 · 87 条评论",
+      "zh-Hant": "Hacker News 251 分 · 87 則留言",
+      "en": "251 points · 87 comments on Hacker News",
+      "ja": "Hacker News 251 ポイント · コメント 87 件",
+      "ko": "Hacker News 251점 · 댓글 87개",
+      "ms": "251 mata · 87 komen di Hacker News",
+      "vi": "251 điểm · 87 bình luận trên Hacker News",
+      "fr": "251 points · 87 commentaires sur Hacker News",
+      "es": "251 puntos · 87 comentarios en Hacker News",
+      "de": "251 Punkte · 87 Kommentare auf Hacker News"
+     },
+     "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+     "src": "sunshowers.io",
+     "date": "2026-10-15",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50106738"
+     ],
+     "rw": "editor"
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50097369",
+     "title": {
+      "zh-Hans": "LFM2.5-24B-A2B:为快取装置所建",
+      "zh-Hant": "LFM2.5-24B-A2B:為快取裝置所建",
+      "en": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "ja": "LFM2.5-24B-A2B：高速なオンデバイス・エージェントのためのモデル",
+      "ko": "LFM2.5-24B-A2B: 빠른 on-device 대리인을 위해 건축하는",
+      "ms": "LFM2.5-24B-A2B: Dibangun untuk agen cepat on-device",
+      "vi": "LFM2. 5-24B-A2B: xây dựng cho các đặc vụ nhanh trên thiết bị lưu trữ",
+      "fr": "LFM2.5-24B-A2B: Construit pour les agents rapides sur les appareils",
+      "es": "LFM2.5-24B-A2B: Construido para agentes de dispositivos rápidos",
+      "de": "LFM2.5-24B-A2B: Gebaut für schnelle On-Device-Agenten"
+     },
+     "summary": {
+      "en": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
+      "zh-Hans": "LFM2.5-24B-A2B：开放权重的 24B 推理模型，仅激活 2B 参数，专为快速、私密的端侧智能体打造；在 LiveClaw 上胜过 Qwen3.6-35B-A3B。",
+      "ja": "LFM2.5-24B-A2Bは、アクティブパラメーター2Bの24B推論モデルで、オープンウェイトとして公開されています。高速でプライベートなオンデバイス・エージェント向けに作られ、LiveClawではQwen3.6-35B-A3Bを上回るとされています。",
+      "ko": "LFM2.5-24B-A2B: 빠른, 개인적인 on-device 대리인을 위해 건축되는 2B 활동적인 모수를 가진 열리는 무게 24B reasoning 모형. 라이브 클로에 Qwen3.6-35B-A3B를 이길 수 있습니다.",
+      "ms": "A2B: Model penalaran 24B kelas terbuka dengan parameter aktif 2B, dibangun untuk cepat, swasta on-device agen. A3B di LiveClaw.",
+      "vi": "LFM2.5-24B-A2B: một mô hình mở hạng 24B với các tham số 2B hoạt động, được xây dựng cho các đặc vụ trực tuyến nhanh, tư nhân. Đánh bại Qwen3.6-35B-A3B trên LiveClaw.",
+      "fr": "LFM2.5-24B-A2B: un modèle de raisonnement 24B ouvert avec des paramètres actifs 2B, construit pour des agents sur les appareils rapides et privés. Il bat Qwen3.6-35B-A3B sur LiveClaw.",
+      "es": "LFM2.5-24B-A2B: un modelo de razonamiento 24B de peso abierto con parámetros activos 2B, construido para agentes de dispositivo rápidos y privados. Beats Qwen3.6-35B-A3B en LiveClaw.",
+      "de": "LFM2.5-24B-A2B: ein 24B-Modell mit 2B aktiven Parametern, das für schnelle, private On-Device-Agenten entwickelt wurde. Beats Qwen3.6-35B-A3B auf LiveClaw.",
+      "zh-Hant": "LFM2.5-24B-A2B：開放權重的 24B 推理模型，僅啟用 2B 引數，專為快速、私密的端側智慧體打造；在 LiveClaw 上勝過 Qwen3.6-35B-A3B。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 288 分 · 81 条评论",
+      "zh-Hant": "Hacker News 288 分 · 81 則留言",
+      "en": "288 points · 81 comments on Hacker News",
+      "ja": "Hacker News 288 ポイント · コメント 81 件",
+      "ko": "Hacker News 288점 · 댓글 81개",
+      "ms": "288 mata · 81 komen di Hacker News",
+      "vi": "288 điểm · 81 bình luận trên Hacker News",
+      "fr": "288 points · 81 commentaires sur Hacker News",
+      "es": "288 puntos · 81 comentarios en Hacker News",
+      "de": "288 Punkte · 81 Kommentare auf Hacker News"
+     },
+     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+     "src": "liquid.ai",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50090443",
+     "title": {
+      "zh-Hans": "为什么LLM p会这样?",
+      "zh-Hant": "為什麼LLM p會這樣?",
+      "en": "Why do LLM pelicans look like this?",
+      "ja": "LLMが描くペリカンは、なぜみんな同じ顔なのか",
+      "ko": "왜 LLM pelicans는 이것을 좋아합니까?",
+      "ms": "Mengapa Pelikan LLM terlihat seperti ini?",
+      "vi": "Tại sao những kẻ vô dụng lại trông như thế này?",
+      "fr": "Pourquoi les Pélicans LLM ressemblent-ils à ça ?",
+      "es": "¿Por qué los pelícanos lucen así?",
+      "de": "Warum sehen LLM-Pelikane so aus?"
+     },
+     "summary": {
+      "en": "Why do LLM pelicans look so alike? A visual look at diversity collapse and our research on creativity in UI design.",
+      "zh-Hans": "为什么大模型画的鹈鹕都长得差不多？用图直观展示“多样性坍缩”，并介绍团队关于 UI 设计创造力的研究。",
+      "ja": "LLMが描くペリカンはなぜこんなに似ているのか。多様性の崩壊を図で見ながら、UIデザインにおける創造性についての研究を紹介します。",
+      "ko": "LLM pelicans는 왜 그렇게 싫어합니까? 다양성 붕괴와 UI 디자인의 창의력에 대한 우리의 연구에 대한 시각적인 모습.",
+      "ms": "Mengapa Pelikan LLM terlihat begitu mirip? Dari segi visual terlihat keragaman runtuh dan penelitian kita tentang kreativitas dalam desain UI.",
+      "vi": "Tại sao những kẻ vô dụng lại giống nhau như vậy? Một cái nhìn về sự đa dạng sụp đổ và nghiên cứu về sự sáng tạo trong thiết kế UI.",
+      "fr": "Pourquoi les Pélicans LLM se ressemblent-ils ? Un regard visuel sur la diversité s'effondre et nos recherches sur la créativité dans la conception de l'assurance-chômage.",
+      "es": "¿Por qué los pelícanos LLM se parecen tanto? Una mirada visual al colapso de la diversidad y nuestra investigación sobre la creatividad en el diseño de la UI.",
+      "de": "Warum sehen sich LLM-Pelikane so ähnlich aus? Ein visueller Blick auf den Zusammenbruch der Vielfalt und unsere Forschung zur Kreativität im UI-Design.",
+      "zh-Hant": "為什麼大模型畫的鵜鶘都長得差不多？用圖直觀展示“多樣性坍縮”，並介紹團隊關於 UI 設計創造力的研究。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 163 分 · 143 条评论",
+      "zh-Hant": "Hacker News 163 分 · 143 則留言",
+      "en": "163 points · 143 comments on Hacker News",
+      "ja": "Hacker News 163 ポイント · コメント 143 件",
+      "ko": "Hacker News 163점 · 댓글 143개",
+      "ms": "163 mata · 143 komen di Hacker News",
+      "vi": "163 điểm · 143 bình luận trên Hacker News",
+      "fr": "163 points · 143 commentaires sur Hacker News",
+      "es": "163 puntos · 143 comentarios en Hacker News",
+      "de": "163 Punkte · 143 Kommentare auf Hacker News"
+     },
+     "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+     "src": "arcfu.com",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50092470",
+     "title": {
+      "zh-Hans": "Petal,开源CoScreen/Screen Hero终于自由了",
+      "zh-Hant": "Petal,開源CoScreen/Screen Hero終於自由了",
+      "en": "Petal, open-source CoScreen/ScreenHero finally free",
+      "ja": "Petal：CoScreenやScreenHeroに代わる、無料のオープンソース画面共有ツール",
+      "ko": "Petal, 오픈 소스 CoScreen/ScreenHero 마지막으로 무료",
+      "ms": "Petal, open-source CoScreen/ScreenHero akhirnya bebas",
+      "vi": "Tra dầu, mã nguồn mở, kết hợp màn hình/ Màn hình Hero cuối cùng được tự do",
+      "fr": "Pétale, open-source CoScreen/ScreenHero enfin gratuit",
+      "es": "Petal, código abierto CoScreen/ScreenHero finalmente gratis",
+      "de": "Petal, Open Source CoScreen/ScreenHero endlich kostenlos"
+     },
+     "summary": {
+      "en": "Low latency, high resolution screensharing and remote control.",
+      "zh-Hans": "低延迟、高清晰度的屏幕共享与远程控制。",
+      "ja": "低遅延・高解像度の画面共有とリモート操作ができるツールです。",
+      "ko": "낮은 대기권, 고해상 screensharing 및 원격 제어.",
+      "ms": "Kediaman rendah, resolusi tinggi berbagi layar dan remote control.",
+      "vi": "Độ trễ, màn hình độ phân giải cao chia sẻ và điều khiển từ xa.",
+      "fr": "Faible latence, partage d'écran haute résolution et télécommande.",
+      "es": "Baja latencia, distribución de pantalla de alta resolución y control remoto.",
+      "de": "Niedrige Latenz, hochauflösendes Screensharing und Fernsteuerung.",
+      "zh-Hant": "低延遲、高畫質晰度的螢幕共享與遠端控制。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 220 分 · 41 条评论",
+      "zh-Hant": "Hacker News 220 分 · 41 則留言",
+      "en": "220 points · 41 comments on Hacker News",
+      "ja": "Hacker News 220 ポイント · コメント 41 件",
+      "ko": "Hacker News 220점 · 댓글 41개",
+      "ms": "220 mata · 41 komen di Hacker News",
+      "vi": "220 điểm · 41 bình luận trên Hacker News",
+      "fr": "220 points · 41 commentaires sur Hacker News",
+      "es": "220 puntos · 41 comentarios en Hacker News",
+      "de": "220 Punkte · 41 Kommentare auf Hacker News"
+     },
+     "url": "https://petal.live/",
+     "src": "petal.live",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50093568",
+     "title": {
+      "zh-Hans": "癌症发作时要知道的",
+      "zh-Hant": "癌症發作時要知道的",
+      "en": "Things to know when you get cancer",
+      "ja": "がんと診断されたときに知っておきたいこと",
+      "ko": "암을 얻을 때 알아야 할 것",
+      "ms": "Hal-hal untuk mengetahui ketika Anda mendapatkan kanker",
+      "vi": "Những thứ cần biết khi nào bạn bị ung thư",
+      "fr": "Des choses à savoir quand on a le cancer",
+      "es": "Cosas que saber cuando tienes cáncer",
+      "de": "Dinge zu wissen, wenn Sie Krebs bekommen"
+     },
+     "summary": {
+      "en": "I was diagnosed with squamous cell carcinoma in my mouth in May 2026. Here are some things I learned based on that experience so far.",
+      "zh-Hans": "作者在 2026 年五月被确诊口腔鳞状细胞癌，分享了到目前为止从这段经历中学到的事情。",
+      "ja": "2026年の五月、口の中の扁平上皮がんと診断されました。その経験からこれまでに学んだことをまとめます。",
+      "ko": "나는 5 월 2026에서 내 입에 Squamous 세포 carcinoma로 진단되었습니다. 지금까지 그 경험을 바탕으로 배운 것들이 있습니다.",
+      "ms": "Saya didiagnosis mengidap karsinoma sel squamous di mulut saya pada Mei 2026. Berikut beberapa hal yang saya pelajari berdasarkan pengalaman itu sejauh ini.",
+      "vi": "Tôi được chẩn đoán là bị ung thư tế bào bạch huyết trong miệng vào tháng 5 năm 2026. Đây là một số điều tôi đã học được dựa trên kinh nghiệm đó.",
+      "fr": "En mai 2026, on m'a diagnostiqué un carcinome squameux dans la bouche. Voici certaines choses que j'ai apprises à partir de cette expérience jusqu'ici.",
+      "es": "Me diagnosticaron carcinoma de células escamosas en mi boca en mayo de 2026. Aquí están algunas cosas que aprendí basándose en esa experiencia hasta ahora.",
+      "de": "Ich wurde mit Plattenepithelkarzinom in meinem Mund im Mai 2026 diagnostiziert. Hier sind einige dinge, die ich auf der grundlage dieser erfahrung bisher gelernt habe.",
+      "zh-Hant": "作者在 2026 年五月被確診口腔鱗狀細胞癌，分享了到目前為止從這段經歷中學到的事情。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 1931 分 · 475 条评论",
+      "zh-Hant": "Hacker News 1931 分 · 475 則留言",
+      "en": "1931 points · 475 comments on Hacker News",
+      "ja": "Hacker News 1931 ポイント · コメント 475 件",
+      "ko": "Hacker News 1931점 · 댓글 475개",
+      "ms": "1931 mata · 475 komen di Hacker News",
+      "vi": "1931 điểm · 475 bình luận trên Hacker News",
+      "fr": "1931 points · 475 commentaires sur Hacker News",
+      "es": "1931 puntos · 475 comentarios en Hacker News",
+      "de": "1931 Punkte · 475 Kommentare auf Hacker News"
+     },
+     "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+     "src": "jjmaxwell4.com",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50085323",
+     "title": {
+      "zh-Hans": "TV4 在AI代理删除编辑的材料后推迟播放",
+      "zh-Hant": "TV4 在AI代理刪除編輯的材料後推遲播放",
+      "en": "TV4 postpones show after AI agent erases edited material",
+      "ja": "TV4、AIエージェントが編集済み素材を消去したとされる件で番組を延期",
+      "ko": "TV4 포스터는 AI 대리인 지우기 편집한 물자 후에 보여줍니다",
+      "ms": "tv4 menunda acara setelah agen AI menghapus bahan yang disunting",
+      "vi": "Comment",
+      "fr": "TV4 reporte l'émission après que l'agent AI efface le matériel édité",
+      "es": "TV4 pospones mostrar después de que el agente de AI borra material editado",
+      "de": "TV4 verschiebt die Show, nachdem AI-Agent bearbeitetes Material gelöscht hat"
+     },
+     "summary": {
+      "en": "The new season of TV4's reality show “The Challenge” has been postponed due to a technical failure.",
+      "zh-Hans": "瑞典电视台 TV4 的真人秀《The Challenge》新一季因技术故障推迟播出。",
+      "ja": "TV4のリアリティ番組「The Challenge」の新シーズンが、技術的な障害のため延期されました。",
+      "ko": "TV4의 현실 쇼 \"The Challenge\"의 새로운 시즌은 기술 실패로 인해 연기되었습니다.",
+      "ms": "Musim baru acara realitas TV4 \\\"The Challenge\\\" telah ditunda karena kegagalan teknis.",
+      "vi": "Mùa thực tế mới của chương trình truyền hình 4 cho thấy: “Sự thách thức của bài báo này đã bị hoãn lại do thất bại kỹ thuật.",
+      "fr": "La nouvelle saison de l'émission réalité de TV4 Le Défi a été reporté en raison d'un échec technique.",
+      "es": "La nueva temporada de la realidad de TV4 ha sido pospuesta por un fracaso técnico.",
+      "de": "Die neue Saison der Reality-Show \"The Challenge\" von TV4 wurde aufgrund eines technischen Fehlers verschoben.",
+      "zh-Hant": "瑞典電視臺 TV4 的真人秀《The Challenge》新一季因技術故障推遲播出。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 156 分 · 88 条评论",
+      "zh-Hant": "Hacker News 156 分 · 88 則留言",
+      "en": "156 points · 88 comments on Hacker News",
+      "ja": "Hacker News 156 ポイント · コメント 88 件",
+      "ko": "Hacker News 156점 · 댓글 88개",
+      "ms": "156 mata · 88 komen di Hacker News",
+      "vi": "156 điểm · 88 bình luận trên Hacker News",
+      "fr": "156 points · 88 commentaires sur Hacker News",
+      "es": "156 puntos · 88 comentarios en Hacker News",
+      "de": "156 Punkte · 88 Kommentare auf Hacker News"
+     },
+     "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+     "src": "swedenherald.com",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hfp-2610.22200",
+     "title": {
+      "zh-Hans": "OpenGCUA: 走向一个通用计算机的全张开放堆栈",
+      "zh-Hant": "OpenGCUA: 走向一個通用計算機的全張開放堆疊",
+      "en": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+      "ja": "OpenGCUA：汎用コンピューター操作エージェントの完全オープンなスタックを目指して",
+      "ko": "OpenGCUA : 일반 컴퓨터 사용을위한 완전 개방형 스택",
+      "ms": "OpenGCUA: Menuju Stack Terbuka Penuh untuk Penggunaan Komputer Generalist",
+      "vi": "OpenGCUA: Hướng tới một chồng mở đầy đủ cho máy tính tổng hợp sử dụng",
+      "fr": "OpenGCUA: Vers une pile entièrement ouverte pour l'utilisation de l'ordinateur généraliste",
+      "es": "OpenGCUA: Hacia una plataforma totalmente abierta para el uso generalista de la computadora",
+      "de": "OpenGCUA: Auf dem Weg zu einem vollständig offenen Stapel für die allgemeine Computernutzung"
+     },
+     "summary": {
+      "en": "OpenGCUA introduces an open generalist computer-use agent that integrates visual and programmatic interfaces, harness-to-model decision transfer, and code execution to improve task performance and efficiency across models.",
+      "zh-Hans": "OpenGCUA 推出开放的通用计算机使用智能体，融合视觉与程序化接口、从框架到模型的决策转移以及代码执行，提升各模型的任务表现与效率。",
+      "ja": "OpenGCUAは、視覚的なインターフェースとプログラム的なインターフェースの統合、ハーネスからモデルへの判断の移譲、コード実行を組み合わせ、さまざまなモデルでタスクの成績と効率を高める、オープンな汎用コンピューター操作エージェントです。",
+      "ko": "OpenGCUA는 시각적 및 프로그래밍 인터페이스, 하네스 투 모델 결정 전송 및 코드 실행을 통합하는 개방형 일반 컴퓨터 사용 에이전트를 소개합니다.",
+      "ms": "OpenGCUA memperkenalkan agen pengguna komputer generalis terbuka yang mengintegrasikan antarmuka visual dan programmatik, transfer keputusan harness-to-model, dan eksekusi kode untuk meningkatkan kinerja tugas dan efisiensi lintas model.",
+      "vi": "OpenGCUA giới thiệu một tác nhân sử dụng máy tính tổng quát mở mà tích hợp các giao diện trực quan và lập trình, khai thác các quyết định để chuyển đổi, và mã thực hiện để cải thiện hiệu suất công việc và hiệu quả trên các mô hình.",
+      "fr": "OpenGCUA présente un agent d'utilisation informatique généraliste ouvert qui intègre les interfaces visuelles et programmatiques, le transfert de décision harnais-à-modèle et l'exécution de code pour améliorer la performance et l'efficacité des tâches entre les modèles.",
+      "es": "OpenGCUA presenta un agente de uso informático generalista abierto que integra interfaces visuales y programáticas, transferencia de decisiones de arnés a modelo y ejecución de códigos para mejorar el rendimiento de tareas y la eficiencia de los modelos.",
+      "de": "OpenGCUA führt einen offenen Generalisten-Computer-Use-Agenten ein, der visuelle und programmatische Schnittstellen, die Entscheidungsübertragung von Nutzprogrammen und die Codeausführung integriert, um die Aufgabenleistung und -effizienz modellübergreifend zu verbessern.",
+      "zh-Hant": "OpenGCUA 推出開放的通用計算機使用智慧體，融合視覺與程式化介面、從框架到模型的決策轉移以及程式碼執行，提升各模型的任務表現與效率。"
+     },
+     "fact": {
+      "zh-Hans": "来源：HF Papers",
+      "zh-Hant": "來源：HF Papers",
+      "en": "Source: HF Papers",
+      "ja": "ソース: HF Papers",
+      "ko": "출처: HF Papers",
+      "ms": "Sumber: HF Papers",
+      "vi": "Nguồn: HF Papers",
+      "fr": "Source : HF Papers",
+      "es": "Fuente: HF Papers",
+      "de": "Quelle: HF Papers"
+     },
+     "url": "https://huggingface.co/papers/2610.22200",
+     "src": "huggingface.co",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50090842",
+     "title": {
+      "zh-Hans": "Linus Torvalds的第一个LLM辅助补丁系列",
+      "zh-Hant": "Linus Torvalds的第一個LLM輔助補丁系列",
+      "en": "Linus Torvalds's first LLM-assisted patch series",
+      "ja": "Linus Torvalds氏、LLMの助けを借りた初のパッチシリーズを公開",
+      "ko": "Linus Torvalds의 첫 번째 LLM 보조 패치 시리즈",
+      "ms": "Seri patch pertama LLM-assisted LLM Linus Torvalds",
+      "vi": "Đây là bản thảo đầu tiên của Linus Torvalds.",
+      "fr": "Première série de patchs Linus Torvalds assistés par LLM",
+      "es": "La primera serie de parches con ayuda de Linus Torvalds",
+      "de": "Linus Torvalds erste LLM-unterstützte Patch-Serie"
+     },
+     "summary": {
+      "en": "At the recently concluded Maintainers Summit, Linus Torvalds said that he had been using a large language model to work on a patch series addressing a longstanding problem; he has now posted that series for review.",
+      "zh-Hans": "Linus Torvalds 在维护者峰会上提到自己在用大语言模型处理一个老问题，现在他已把这组补丁发出来接受审查。",
+      "ja": "先日閉幕したMaintainers Summitで、Linus Torvalds氏は長年の問題に取り組むパッチシリーズに大規模言語モデルを使っていると話していました。そのシリーズが今回、レビューのために投稿されました。",
+      "ko": "최근 결론 지어진 유지자 정상 회의에서 Linus Torvalds는 그가 오랜 문제가 해결하는 패치 시리즈에서 일하기 위해 큰 언어 모델을 사용했다고 말했다. 그는 이제 검토 시리즈를 게시했습니다.",
+      "ms": "Pada KTT Penyelenggara yang baru-baru ini menyimpulkan, Linus Torvalds mengatakan bahwa ia telah menggunakan model bahasa yang besar untuk bekerja pada seri patch mengatasi masalah lama berdiri; ia sekarang telah memposting seri itu untuk ulasan.",
+      "vi": "Tại hội nghị thượng đỉnh kết luận gần đây, Linus Torvalds nói rằng ông đã sử dụng một mô hình ngôn ngữ lớn để làm việc trên một loạt bài nói về một vấn đề lâu đời; ông đã đăng bài đó để xem xét.",
+      "fr": "Lors du récent Sommet des Mainteneurs, Linus Torvalds a déclaré qu'il avait utilisé un grand modèle linguistique pour travailler sur une série de patchs traitant d'un problème de longue date; il a maintenant affiché cette série pour examen.",
+      "es": "En la reciente Cumbre de Maintainers, Linus Torvalds dijo que había estado utilizando un modelo de lenguaje grande para trabajar en una serie de parches que aborda un problema de larga data; ahora ha publicado esa serie para su revisión.",
+      "de": "Auf dem kürzlich abgeschlossenen Maintainers Summit sagte Linus Torvalds, dass er ein großes Sprachmodell verwendet habe, um an einer Patch-Serie zu arbeiten, die ein langjähriges Problem anspricht.",
+      "zh-Hant": "Linus Torvalds 在維護者峰會上提到自己在用大語言模型處理一個老問題，現在他已把這組補丁發出來接受審查。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 122 分 · 110 条评论",
+      "zh-Hant": "Hacker News 122 分 · 110 則留言",
+      "en": "122 points · 110 comments on Hacker News",
+      "ja": "Hacker News 122 ポイント · コメント 110 件",
+      "ko": "Hacker News 122점 · 댓글 110개",
+      "ms": "122 mata · 110 komen di Hacker News",
+      "vi": "122 điểm · 110 bình luận trên Hacker News",
+      "fr": "122 points · 110 commentaires sur Hacker News",
+      "es": "122 puntos · 110 comentarios en Hacker News",
+      "de": "122 Punkte · 110 Kommentare auf Hacker News"
+     },
+     "url": "https://lwn.net/Articles/1100449/",
+     "src": "lwn.net",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50086165",
+     "title": {
+      "zh-Hans": "Pg vectorsearch:比Pgvector的IVFFlat和HNSW更快的索引",
+      "zh-Hant": "Pg vectorsearch:比Pgvector的IVFFlat和HNSW更快的索引",
+      "en": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "ja": "pg_vectorsearch：pgvectorのIVFFlatやHNSWより速いインデックス",
+      "ko": "Pg vectorsearch : pgvector의 IVFFlat 및 HNSW보다 빠른 인덱스",
+      "ms": "Pg vectorsearch: Indeks yang lebih cepat daripada IVFFlat dan HNSW Pgvector",
+      "vi": "Pg torcracry: một chỉ mục nhanh hơn IVFFlat và HNSW",
+      "fr": "Pg vectorsearch: Un index qui est plus rapide que l'IVFFlat de pgvector et HNSW",
+      "es": "Pg vectorsearch: Un índice que es más rápido que el IVFFlat de Pgvector y HNSW",
+      "de": "Pg vectorsearch: Ein Index, der schneller ist als pgvectors IVFFlat und HNSW"
+     },
+     "summary": {
+      "en": "High-performance vector search for PostgreSQL",
+      "zh-Hans": "面向 PostgreSQL 的高性能向量搜索。",
+      "ja": "PostgreSQLのための高性能なベクトル検索です。",
+      "ko": "PostgreSQL의 고성능 벡터 검색",
+      "ms": "Pencarian vektor performance tinggi untuk PostgreSQL",
+      "vi": "Tìm kiếm véc- tơ hiệu quả cao cho PostgreQL",
+      "fr": "Recherche vectorielle haute performance pour PostgreSQL",
+      "es": "Búsqueda de vectores de alto rendimiento para PostgreSQL",
+      "de": "Hochleistungsvektorsuche für PostgreSQL",
+      "zh-Hant": "面向 PostgreSQL 的高效能向量搜尋。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 208 分 · 52 条评论",
+      "zh-Hant": "Hacker News 208 分 · 52 則留言",
+      "en": "208 points · 52 comments on Hacker News",
+      "ja": "Hacker News 208 ポイント · コメント 52 件",
+      "ko": "Hacker News 208점 · 댓글 52개",
+      "ms": "208 mata · 52 komen di Hacker News",
+      "vi": "208 điểm · 52 bình luận trên Hacker News",
+      "fr": "208 points · 52 commentaires sur Hacker News",
+      "es": "208 puntos · 52 comentarios en Hacker News",
+      "de": "208 Punkte · 52 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/timescale/pg_vectorsearch",
+     "src": "github.com",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50099136",
+     "title": {
+      "zh-Hans": "Flipflop – Iroh 驱动的持久隧道用于文件共享",
+      "zh-Hant": "Flipflop – Iroh 驅動的持久隧道用於檔案共享",
+      "en": "Flipflop – Iroh-powered persistent tunnels for filesharing",
+      "ja": "Flipflop：Irohを使った、ファイル共有のための常設トンネル",
+      "ko": "Flipflop – Fileharing을 위한 Iroh-powered persistent 갱도",
+      "ms": "Flipflop – Terowongan tak berkekuatan Iroh untuk berbagi file",
+      "vi": "Flipfop – đường hầm bền bỉ chứa tập tin",
+      "fr": "Flipflop – tunnels persistants alimentés par l'iroh pour le partage de fichiers",
+      "es": "Flipflop – túneles persistentes impulsados por Iroh para compartir archivos",
+      "de": "Flipflop – mit Iroh betriebene persistente Tunnel für Filesharing"
+     },
+     "summary": {
+      "en": "filesharing for the meatspace era",
+      "zh-Hans": "为“线下时代”打造的文件共享工具。",
+      "ja": "リアルな生活空間のためのファイル共有ツールです。",
+      "ko": "Meatspace 시대의 파일haring",
+      "ms": "Berkas-berkas yang digunakan untuk era ruang daging",
+      "vi": "Chia sẻ tập tin cho kỷ nguyên thịt",
+      "fr": "partage de fichiers pour l'ère de l'espace viande",
+      "es": "compartir archivos para la era del espacio de carne",
+      "de": "Filesharing für die Ära der Fleischräume",
+      "zh-Hant": "為“線下時代”打造的檔案共享工具。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 135 分 · 66 条评论",
+      "zh-Hant": "Hacker News 135 分 · 66 則留言",
+      "en": "135 points · 66 comments on Hacker News",
+      "ja": "Hacker News 135 ポイント · コメント 66 件",
+      "ko": "Hacker News 135점 · 댓글 66개",
+      "ms": "135 mata · 66 komen di Hacker News",
+      "vi": "135 điểm · 66 bình luận trên Hacker News",
+      "fr": "135 points · 66 commentaires sur Hacker News",
+      "es": "135 puntos · 66 comentarios en Hacker News",
+      "de": "135 Punkte · 66 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/andunieee/flipflop",
+     "src": "github.com",
+     "date": "2026-10-15",
+     "rw": "editor"
+    },
+    {
+     "id": "hn-50105467",
+     "title": {
+      "zh-Hans": "Proa – 有快速SSRA和多目标渲染的 Rust 网络框架",
+      "zh-Hant": "Proa – 有快速SSRA和多目標渲染的 Rust 網路框架",
+      "en": "Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "ja": "Proa：高速なSSRとマルチターゲット・レンダリングを備えたRustのWebフレームワーク",
+      "ko": "Proa – 빠른 SSR 및 멀티-target 렌더링을 가진 Rust 웹 프레임 워크",
+      "ms": "Proa – Sebuah kerangka kerja web Rust dengan cepat SSR dan multi-target rendering",
+      "vi": "Proa – Một khung lưới Rust với tốc độ SSR nhanh và vẽ đa mục tiêu",
+      "fr": "Proa – Un cadre web Rust avec SSR rapide et rendu multi-cibles",
+      "es": "Proa – Un marco web de Rust con SSR rápido y renderizado multi-target",
+      "de": "Proa – Ein Rust Web Framework mit schnellem SSR und Multi-Target-Rendering"
+     },
+     "summary": {
+      "en": "A batteries-included Rust web framework built around a new programming model for composable, multi-target rendering.",
+      "zh-Hans": "开箱即用的 Rust Web 框架，围绕一种可组合、多目标渲染的新编程模型构建。",
+      "ja": "組み合わせ可能なマルチターゲット・レンダリングのための新しいプログラミングモデルを中心に作られた、必要な機能が揃ったRustのWebフレームワークです。",
+      "ko": "배터리 포함 Rust 웹 프레임 워크는 composable, multi-target 렌더링을위한 새로운 프로그래밍 모델을 구축했습니다.",
+      "ms": "Rangka kerja web Rust yang disertakan baterai dibangun di sekitar model pemrograman baru untuk composable, multi-target rendering.",
+      "vi": "Một khuôn khổ mạng web của Rust ẩn danh được xây dựng xung quanh một mô hình lập trình mới cho việc vẽ đa mục tiêu.",
+      "fr": "Un framework web Rust intégré aux batteries construit autour d'un nouveau modèle de programmation pour un rendu composite et multi-cible.",
+      "es": "Un marco web Rust integrado por baterías construido alrededor de un nuevo modelo de programación para la fabricación composible y multi-target.",
+      "de": "Ein in Batterien enthaltenes Rust-Web-Framework, das auf einem neuen Programmiermodell für komposiierbares Multi-Target-Rendering basiert.",
+      "zh-Hant": "開箱即用的 Rust Web 框架，圍繞一種可組合、多目標渲染的新程式設計模型構建。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 104 分 · 34 条评论",
+      "zh-Hant": "Hacker News 104 分 · 34 則留言",
+      "en": "104 points · 34 comments on Hacker News",
+      "ja": "Hacker News 104 ポイント · コメント 34 件",
+      "ko": "Hacker News 104점 · 댓글 34개",
+      "ms": "104 mata · 34 komen di Hacker News",
+      "vi": "104 điểm · 34 bình luận trên Hacker News",
+      "fr": "104 points · 34 commentaires sur Hacker News",
+      "es": "104 puntos · 34 comentarios en Hacker News",
+      "de": "104 Punkte · 34 Kommentare auf Hacker News"
+     },
+     "url": "https://proa.so/",
+     "src": "proa.so",
+     "date": "2026-10-15",
+     "rw": "editor"
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1419746236",
+     "title": {
+      "zh-Hans": "ahwootech/BRUTAL",
+      "zh-Hant": "ahwootech/BRUTAL",
+      "en": "ahwootech/BRUTAL",
+      "ja": "ahwootech/BRUTAL",
+      "ko": "ahwootech/BRUTAL",
+      "ms": "ahwootech/BRUTAL",
+      "vi": "ahwootech/BRUTAL",
+      "fr": "ahwootech/BRUTAL",
+      "es": "ahwootech/BRUTAL",
+      "de": "ahwootech/BRUTAL"
+     },
+     "summary": {
+      "en": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them.",
+      "zh-Hans": "免费开源的 C# 框架，可用来做游戏或自研游戏引擎，直接调用原生 API 和 Vulkan，并配有周边底层库。",
+      "ja": "ゲームや自作ゲームエンジンを作るための、無料でオープンソースのC#フレームワークです。ネイティブAPIやVulkanに直接アクセスでき、その周辺の低レベルライブラリも揃っています。",
+      "ko": "게임, 또는 자신의 게임 엔진을 만드는 무료, 오픈 소스 C # 프레임 워크. 기본 API 및 Vulkan에 직접 액세스하여 저수준 라이브러리가 있습니다.",
+      "ms": "Rangka kerja C# yang bebas, sumber terbuka untuk membuat permainan, atau mesin permainan Anda sendiri. Akses langsung ke API asli dan Vulkan, dengan perpustakaan tingkat rendah di sekitarnya.",
+      "vi": "Một chiếc máy mở miễn phí C# để tạo ra trò chơi, hoặc động cơ trò chơi của bạn. Trực tiếp truy cập vào hệ thống API và Vulkan, với các thư viện cấp thấp xung quanh họ.",
+      "fr": "Un cadre C# libre et ouvert pour faire des jeux, ou votre propre moteur de jeu. Accès direct aux API natives et Vulkan, avec les bibliothèques de bas niveau autour d'elles.",
+      "es": "Un marco C# de código abierto gratuito para hacer juegos, o su propio motor de juego. Acceso directo a las API nativas y Vulkan, con las bibliotecas de bajo nivel alrededor.",
+      "de": "Ein kostenloses Open-Source-C#-Framework zum Erstellen von Spielen oder eine eigene Spielmaschine. Direkter Zugriff auf native APIs und Vulkan, mit den Low-Level-Bibliotheken um sie herum.",
+      "zh-Hant": "免費開源的 C# 框架，可用來做遊戲或自研遊戲引擎，直接呼叫原生 API 和 Vulkan，並配有周邊底層庫。"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,572 星",
+      "zh-Hant": "GitHub 1,572 星",
+      "en": "1,572 stars on GitHub",
+      "ja": "GitHub スター 1,572",
+      "ko": "GitHub 스타 1,572개",
+      "ms": "1,572 bintang di GitHub",
+      "vi": "1,572 sao trên GitHub",
+      "fr": "1,572 étoiles sur GitHub",
+      "es": "1,572 estrellas en GitHub",
+      "de": "1,572 Sterne auf GitHub"
+     },
+     "url": "https://github.com/ahwootech/BRUTAL",
+     "src": "github.com",
+     "date": "2026-10-14",
+     "rw": "editor"
+    },
+    {
+     "id": "gh-1420063501",
+     "title": {
+      "zh-Hans": "chenglou/handwired",
+      "zh-Hant": "chenglou/handwired",
+      "en": "chenglou/handwired",
+      "ja": "chenglou/handwired",
+      "ko": "chenglou/handwired",
+      "ms": "chenglou/handwired",
+      "vi": "chenglou/handwired",
+      "fr": "chenglou/handwired",
+      "es": "chenglou/handwired",
+      "de": "chenglou/handwired"
+     },
+     "summary": {
+      "en": "Turn your regular JavaScript code into a neural net.",
+      "zh-Hans": "把普通的 JavaScript 代码变成神经网络。",
+      "ja": "普通のJavaScriptコードをニューラルネットワークに変換します。",
+      "ko": "정기적인 JavaScript 코드를 신경망으로 켭니다.",
+      "ms": "Hidupkan kode JavaScript biasa Anda menjadi jaring saraf.",
+      "vi": "Chuyển mã JavaScript thông thường thành mạng thần kinh.",
+      "fr": "Transformez votre code JavaScript habituel en réseau neuronal.",
+      "es": "Convierta su código JavaScript regular en una red neuronal.",
+      "de": "Verwandeln Sie Ihren regulären JavaScript-Code in ein neuronales Netz.",
+      "zh-Hant": "把普通的 JavaScript 程式碼變成神經網路。"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,563 星",
+      "zh-Hant": "GitHub 1,563 星",
+      "en": "1,563 stars on GitHub",
+      "ja": "GitHub スター 1,563",
+      "ko": "GitHub 스타 1,563개",
+      "ms": "1,563 bintang di GitHub",
+      "vi": "1,563 sao trên GitHub",
+      "fr": "1,563 étoiles sur GitHub",
+      "es": "1,563 estrellas en GitHub",
+      "de": "1,563 Sterne auf GitHub"
+     },
+     "url": "https://github.com/chenglou/handwired",
+     "src": "github.com",
+     "date": "2026-10-15",
+     "rw": "editor"
+    },
+    {
+     "id": "gh-1420751050",
+     "title": {
+      "zh-Hans": "feder-cr/git-ai",
+      "zh-Hant": "feder-cr/git-ai",
+      "en": "feder-cr/git-ai",
+      "ja": "feder-cr/git-ai",
+      "ko": "feder-cr/git-ai",
+      "ms": "feder-cr/git-ai",
+      "vi": "feder-cr/git-ai",
+      "fr": "feder-cr/git-ai",
+      "es": "feder-cr/git-ai",
+      "de": "feder-cr/git-ai"
+     },
+     "summary": {
+      "en": "Git designed for AI agents.",
+      "zh-Hans": "为 AI 智能体设计的 Git。",
+      "ja": "AIエージェントのために設計されたGitです。",
+      "ko": "AI 대리인을 위해 디자인되는 Git.",
+      "ms": "Dia dirancang untuk agen AI.",
+      "vi": "Git được thiết kế cho các đặc vụ AI.",
+      "fr": "Git conçu pour les agents d'IA.",
+      "es": "Git diseñado para agentes de IA.",
+      "de": "Git entwickelt für KI-Agenten.",
+      "zh-Hant": "為 AI 智慧體設計的 Git。"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,062 星",
+      "zh-Hant": "GitHub 1,062 星",
+      "en": "1,062 stars on GitHub",
+      "ja": "GitHub スター 1,062",
+      "ko": "GitHub 스타 1,062개",
+      "ms": "1,062 bintang di GitHub",
+      "vi": "1,062 sao trên GitHub",
+      "fr": "1,062 étoiles sur GitHub",
+      "es": "1,062 estrellas en GitHub",
+      "de": "1,062 Sterne auf GitHub"
+     },
+     "url": "https://github.com/feder-cr/git-ai",
+     "src": "github.com",
+     "date": "2026-10-15",
+     "rw": "editor"
+    }
+   ],
+   "updated": "2026-10-17T05:50:06Z"
+  },
+  {
+   "date": "2026-10-13",
+   "path": "digest/2026-10-13/",
+   "title": {
+    "zh-Hans": "技术热点简报 · 2026-10-13（补发）",
+    "zh-Hant": "技術熱點簡報 · 2026-10-13（補發）",
+    "en": "Tech digest · 2026-10-13 (catch-up)"
+   },
+   "lede": {
+    "zh-Hans": "当天早间例行未跑成功，事后补做。时间范围：上海时间 2026-10-13。",
+    "zh-Hant": "當天早間例行未跑成功，事後補做。時間範圍：上海時間 2026-10-13。",
+    "en": "Catch-up brief after the morning run failed. Window: Asia/Shanghai 2026-10-13."
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Anthropic 自研版本控制 Scion，替换 git",
+      "zh-Hant": "Anthropic 自研版本控制 Scion，替換 git",
+      "en": "Anthropic’s Scion replaces git for their monorepo"
+     },
+     "summary": {
+      "zh-Hans": "9 月超 3 万次日合并；CI 拉代码从几分钟缩到几秒。HN 877 分。",
+      "zh-Hant": "9 月超 3 萬次日合併；CI 拉代碼從幾分鐘縮到幾秒。HN 877 分。",
+      "en": "30k+ merges/day in Sept; CI clone minutes→seconds. HN 877 pts."
+     },
+     "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Codex CLI 默认装会自更新的后台守护进程",
+      "zh-Hant": "Codex CLI 默認裝會自更新的後臺守護進程",
+      "en": "Codex CLI installs a self-updating background daemon by default"
+     },
+     "summary": {
+      "zh-Hans": "交互会话拉起常驻进程，约 374MB，每小时更新。HN 606 分。",
+      "zh-Hant": "交互會話拉起常駐進程，約 374MB，每小時更新。HN 606 分。",
+      "en": "Interactive sessions spawn a ~374MB resident process that updates hourly. HN 606 pts."
+     },
+     "url": "https://github.com/openai/codex/issues/48195",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Rust 借用检查器 11 年不健全漏洞",
+      "zh-Hant": "Rust 借用檢查器 11 年不健全漏洞",
+      "en": "11-year unsoundness in Rust’s borrow checker"
+     },
+     "summary": {
+      "zh-Hans": "协变字段赋值可绕开生命周期约束。HN 742 分。",
+      "zh-Hant": "協變字段賦值可繞開生命週期約束。HN 742 分。",
+      "en": "Assigning to covariant fields can bypass lifetime constraints. HN 742 pts."
+     },
+     "url": "https://github.com/rust-lang/rust/issues/164250",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Character.AI 申请破产保护（Chapter 11）",
+      "zh-Hant": "Character.AI 申請破產保護（Chapter 11）",
+      "en": "Character.AI files Chapter 11 bankruptcy"
+     },
+     "summary": {
+      "zh-Hans": "据报资产要卖给迪士尼。AI 陪伴类合规与安全成本关乎生死。",
+      "zh-Hant": "據報資產要賣給迪士尼。AI 陪伴類合規與安全成本關乎生死。",
+      "en": "Assets reportedly headed to Disney. Compliance/safety costs hit companion AI hard."
+     },
+     "url": "https://blog.character.ai/an-update-on-character-ai/",
+     "extra": [
+      "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Mozilla 推出 Firefox Enterprise",
+      "zh-Hant": "Mozilla 推出 Firefox Enterprise",
+      "en": "Mozilla launches Firefox Enterprise"
+     },
+     "summary": {
+      "zh-Hans": "卖点是数据主权和 AI 治理，可自建部署。HN 761 分。",
+      "zh-Hant": "賣點是數據主權和 AI 治理，可自建部署。HN 761 分。",
+      "en": "Pitch: data sovereignty and AI governance, self-hostable. HN 761 pts."
+     },
+     "url": "https://www.firefox.com/en-US/enterprise/",
+     "extra": []
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "模型分流省钱 + context-mode 类上下文压缩 → token-calc / TokenTrim 选题。",
+     "diagram-design 很火 → DiagramDrop / diagram-pack 需求仍在。",
+     "AI Code Review 止血规则、/grill-me 工作流 → skill-store 技能包。",
+     "网站被 AI 爬虫冲垮 → vibe-audit 防爬体检项。"
+    ],
+    "zh-Hant": [
+     "模型分流省錢 + context-mode 類上下文壓縮 → token-calc / TokenTrim 選題。",
+     "diagram-design 很火 → DiagramDrop / diagram-pack 需求仍在。",
+     "AI Code Review 止血規則、/grill-me 工作流 → skill-store 技能包。",
+     "網站被 AI 爬蟲沖垮 → vibe-audit 防爬體檢項。"
+    ],
+    "en": [
+     "Model routing + context compression → token-calc / TokenTrim angles.",
+     "diagram-design heat → DiagramDrop / diagram-pack demand.",
+     "AI Code Review stop-rules / grill-me workflows → skill packs.",
+     "Sites flooded by AI crawlers → anti-bot checklist items."
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "morluto/rea",
+      "zh-Hant": "morluto/rea",
+      "en": "morluto/rea"
+     },
+     "summary": {
+      "zh-Hans": "用 Agent 做逆向工程，当天 GitHub Trending 第一。",
+      "zh-Hant": "用 Agent 做逆向工程，當天 GitHub Trending 第一。",
+      "en": "Agent-driven reverse engineering; #1 on GitHub Trending that day."
+     },
+     "url": "https://github.com/morluto/rea"
+    },
+    {
+     "title": {
+      "zh-Hans": "debpalash/VoiceStudio",
+      "zh-Hant": "debpalash/VoiceStudio",
+      "en": "debpalash/VoiceStudio"
+     },
+     "summary": {
+      "zh-Hans": "完全本地的开源 ElevenLabs 替代。",
+      "zh-Hant": "完全本地的開源 ElevenLabs 替代。",
+      "en": "Fully local open-source ElevenLabs alternative."
+     },
+     "url": "https://github.com/debpalash/VoiceStudio"
+    }
+   ]
+  }
+ ]
+}

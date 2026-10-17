@@ -1,0 +1,17 @@
+# OPC Radar
+> OPC Radar is a free opportunity radar for one-person companies (OPC), indie developers, designers and cross-border sellers. It collects AI tools, GitHub repos, new products, news, deals and ideas from public sources (Hacker News, GitHub, Hugging Face, DEV, Lobsters and a curated list), translates them into 10 languages and refreshes automatically. Currently 879 items.
+
+- Site: https://siinxu.github.io/ai-opportunity-hub/
+- Data (JSON): https://siinxu.github.io/ai-opportunity-hub/data/items.json
+- Languages: zh-Hans, zh-Hant, en, ja, ko, ms, vi, fr, es, de (append ?lang=<code>)
+- Publisher: Incidental AI (https://incidental.site/)
+- Full list: https://siinxu.github.io/ai-opportunity-hub/llms-full.txt
+- Updated: 2026-10-17T19:01:01Z
+
+## Channels
+- AI: 221 items
+- GitHub repos: 217 items
+- New products: 86 items
+- News: 118 items
+- Deals: 153 items
+- Ideas: 84 items
