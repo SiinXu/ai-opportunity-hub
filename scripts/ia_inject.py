@@ -164,13 +164,18 @@ def build():
             if not m.get('nomap'): urls.append(u)
     if C.get('seo', True):
         today = datetime.date.today().isoformat()
+        # extra_urls: [[relative path, lastmod], ...] — real pages that exist on disk but are not injected
+        # (e.g. daily digest issues); they go into every sitemap, with ?lang= variants when hreflang is on.
+        lastmod = {}
+        for rel_, mod in C.get('extra_urls', []):
+            u_ = BASE + rel_; urls.append(u_); lastmod[u_] = mod
         files = {'sitemap-default.xml': urls}
         for l in LC: files[f'sitemap-{l}.xml'] = [f'{u}?lang={l}' for u in urls] if C.get('hreflang') else None
         names = []
         for n, us in files.items():
             if us is None: continue
             names.append(n)
-            out[os.path.join(ROOT, n)] = ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(f'<url><loc>{html.escape(u)}</loc><lastmod>{today}</lastmod></url>' for u in us) + '\n</urlset>\n', 'xml')
+            out[os.path.join(ROOT, n)] = ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(f'<url><loc>{html.escape(u)}</loc><lastmod>{lastmod.get(u.split("?lang=")[0], today)}</lastmod></url>' for u in us) + '\n</urlset>\n', 'xml')
         out[os.path.join(ROOT, 'sitemap.xml')] = ('<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(f'<sitemap><loc>{BASE}{n}</loc><lastmod>{today}</lastmod></sitemap>' for n in names) + '\n</sitemapindex>\n', 'xml')
         bots = ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot', 'Claude-Web', 'PerplexityBot', 'Google-Extended', 'Applebot-Extended']
         out[os.path.join(ROOT, 'robots.txt')] = ('User-agent: *\nAllow: /\n\n# AI / generative search crawlers are welcome\n' + '\n'.join(f'User-agent: {b}\nAllow: /' for b in bots) + f'\n\nSitemap: {BASE}sitemap.xml\n', 'txt')

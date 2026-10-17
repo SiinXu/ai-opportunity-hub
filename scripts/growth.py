@@ -33,6 +33,10 @@ cfg = {'root': S, 'base': BASE, 'name': 'OPC Radar', 'site': 'opc', 'cf_token': 
 llms = f'# OPC Radar\n> {INTRO["en"]}\n\n- Site: {BASE}\n- Data (JSON): {BASE}data/items.json\n- Languages: {", ".join(LC)} (append ?lang=<code>)\n- Publisher: Incidental AI (https://incidental.site/)\n- Full list: {BASE}llms-full.txt\n- Updated: {data.get("updated")}\n\n## Channels\n' + ''.join(f'- {CH.get(c, c)}: {cnt[c]} items\n' for c in CH)
 cfg['llms.txt'] = llms
 cfg['llms-full.txt'] = llms + '\n' + ''.join(f'\n## {CH.get(c, c)}\n' + ''.join(f'- [{en(i, "title")}]({i["url"]}) ({SRC.get(i.get("source", ""), i.get("source", ""))}, {i.get("date", "")}): {en(i, "summary")}\n' for i in items if i['ch'] == c) for c in CH)
+# Sitemap must list every crawlable page, not only the home page: the digest archive + each daily issue
+# (site/digest/<date>/index.html). Read from digests.json so new issues appear automatically on the next refresh.
+_dg = json.load(open(os.path.join(S, 'data/digests.json')))['digests']
+cfg['extra_urls'] = [['digest/', max([x['date'] for x in _dg] or [data.get('updated', '')[:10]])]] + [[f'digest/{x["date"]}/', x['date']] for x in sorted(_dg, key=lambda x: x['date'], reverse=True) if os.path.exists(os.path.join(S, 'digest', x['date'], 'index.html'))]
 p = '/tmp/opc-ia.json'; json.dump(cfg, open(p, 'w'), ensure_ascii=False)
 subprocess.run(['python3', os.path.join(D, 'ia_inject.py'), p], check=True)
 ip = os.path.join(S, 'index.html'); s = open(ip, encoding='utf-8').read()
