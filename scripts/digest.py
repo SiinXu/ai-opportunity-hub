@@ -190,7 +190,7 @@ UI = {
  'zh-Hans': dict(take='我们怎么看', rw='OPC Radar 编辑改写：事实均来自原文，「我们怎么看」为本站观点。', ex='原文摘录', nrw='尚未改写：以下为原文摘要与摘录（机器翻译）。', go='阅读原文', src='来源', close='关闭', loading='加载中…', fail='内容加载失败，请直接阅读原文。', orig='原标题'),
  'zh-Hant': dict(take='我們怎麼看', rw='OPC Radar 編輯改寫：事實均來自原文，「我們怎麼看」為本站觀點。', ex='原文摘錄', nrw='尚未改寫：以下為原文摘要與摘錄（機器翻譯）。', go='閱讀原文', src='來源', close='關閉', loading='載入中…', fail='內容載入失敗，請直接閱讀原文。', orig='原標題'),
  'en': dict(take='Our take', rw='Rewritten by OPC Radar: facts come only from the original; “Our take” is our opinion.', ex='From the source', nrw='Not rewritten yet: summary and excerpt from the source.', go='Read the original', src='Source', close='Close', loading='Loading…', fail='Could not load this entry; please read the original.', orig=''),
- 'ja': dict(take='編集部の視点', rw='OPC Radar による書き直し：事実はすべて元記事から。「編集部の視点」は当サイトの意見です（機械翻訳）。', ex='元記事からの抜粋', nrw='まだ書き直していません：元記事の要約と抜粋です（機械翻訳）。', go='元記事を読む', src='ソース', close='閉じる', loading='読み込み中…', fail='読み込めませんでした。元記事をご覧ください。', orig=''),
+ 'ja': dict(take='編集部の視点', rw='OPC Radar による書き直し：事実はすべて元記事から。「編集部の視点」は当サイトの意見です。', rwmt='OPC Radar による書き直し：事実はすべて元記事から。「編集部の視点」は当サイトの意見です（機械翻訳）。', ex='元記事からの抜粋', nrw='まだ書き直していません：元記事の要約と抜粋です（機械翻訳）。', go='元記事を読む', src='ソース', close='閉じる', loading='読み込み中…', fail='読み込めませんでした。元記事をご覧ください。', orig=''),
  'ko': dict(take='우리의 시각', rw='OPC Radar가 다시 쓴 글: 사실은 모두 원문에서 왔으며 \'우리의 시각\'은 사이트의 의견입니다(기계 번역).', ex='원문 발췌', nrw='아직 다시 쓰지 않음: 원문 요약과 발췌입니다(기계 번역).', go='원문 읽기', src='출처', close='닫기', loading='불러오는 중…', fail='불러오지 못했습니다. 원문을 읽어 주세요.', orig=''),
  'ms': dict(take='Pandangan kami', rw='Ditulis semula oleh OPC Radar: fakta hanya daripada sumber asal; “Pandangan kami” ialah pendapat kami (terjemahan mesin).', ex='Petikan daripada sumber', nrw='Belum ditulis semula: ringkasan dan petikan daripada sumber (terjemahan mesin).', go='Baca artikel asal', src='Sumber', close='Tutup', loading='Memuatkan…', fail='Gagal dimuatkan; sila baca artikel asal.', orig=''),
  'vi': dict(take='Góc nhìn của chúng tôi', rw='OPC Radar viết lại: dữ kiện chỉ lấy từ bài gốc; “Góc nhìn của chúng tôi” là ý kiến riêng (dịch máy).', ex='Trích từ nguồn', nrw='Chưa viết lại: tóm tắt và trích đoạn từ nguồn (dịch máy).', go='Đọc bài gốc', src='Nguồn', close='Đóng', loading='Đang tải…', fail='Không tải được; vui lòng đọc bài gốc.', orig=''),
@@ -272,7 +272,7 @@ function render(D,k){const U=D.ui,x=D.items[k];if(!x){card.querySelector('.dm-in
   if(x.orig&&U.orig)h+='<div class="dm-meta">'+esc(U.orig)+'：'+esc(x.orig)+'</div>';
   if(x.s)h+='<p class="dm-sum">'+esc(x.s)+'</p>';
   h+='<div class="dm-body">';
-  if(x.rw){h+=P(x.body)+'<div class="dm-take"><h3>'+esc(U.take)+'</h3>'+P(x.take)+'</div><p class="dm-note">'+esc(U.rw)+'</p>'}
+  if(x.rw){h+=P(x.body)+'<div class="dm-take"><h3>'+esc(U.take)+'</h3>'+P(x.take)+'</div><p class="dm-note">'+esc(x.mt&&U.rwmt?U.rwmt:U.rw)+'</p>'}
   else if(x.ex&&x.ex.length){h+='<h3>'+esc(U.ex)+'</h3>'+P(x.ex)+'<p class="dm-note">'+esc(U.nrw)+'</p>'}
   h+='</div><div class="dm-foot"><a class="btn pri" href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(U.go)+' ↗</a><span class="credit">'+esc(U.src)+': '+esc(x.src)+'</span>'+(x.disc?'<a class="credit" href="'+esc(x.disc)+'" target="_blank" rel="noopener">'+esc(x.dlabel||'')+'</a>':'')+'</div>';
   card.querySelector('.dm-in').innerHTML=h;card.querySelector('.dm-x').setAttribute('aria-label',U.close);card.scrollTop=0}
@@ -436,15 +436,24 @@ def enrich(i, tr, RW, with_extra=True):
         rw = digest_llm.rewrite(ten, src['full'], u); how = 'llm' if rw else ''
     STATS['rw_' + (how or 'none')] += 1
     det = {}
+    ja_ed = over.get('ja') if (JA_KANJI and how == 'editor' and isinstance(over.get('ja'), dict)) else None
     if rw:
         body = tr.many(rw['en']['body'], rw['zh-Hans']['body']); take = tr.many(rw['en']['take'], rw['zh-Hans']['take'])
+        if ja_ed and ja_ed.get('body') and ja_ed.get('take'):   # editor-written Japanese (human, not machine-translated)
+            body['ja'] = list(ja_ed['body']); take['ja'] = list(ja_ed['take'])
+        else: ja_ed = None if not ja_ed else {k: v for k, v in ja_ed.items() if k in ('title', 'summary')}
     else:
         ex = tr.one(src['excerpt']) if src['excerpt'] else {L: '' for L in BOXES}
+    if ja_ed:   # editor Japanese title / summary replace the machine translation (copies: never mutate the i18n cache)
+        if ja_ed.get('title') and dok('ja', ja_ed['title']): r['title'] = dict(r['title'], ja=ja_ed['title'])
+        if ja_ed.get('summary') and dok('ja', ja_ed['summary']): sm = dict(sm, ja=ja_ed['summary']); r['summary'] = sm
     for L in BOXES:
         x = {'t': r['title'][L], 's': sm[L], 'f': r['fact'][L], 'src': r['src'], 'date': r['date'], 'url': u, 'rw': bool(rw)}
         if i.get('discuss') and i['discuss'] != u: x['disc'] = i['discuss']; x['dlabel'] = T[L]['disc']
         if L.startswith('zh') and i.get('lang') != 'zh' and r['title'][L] != i.get('title'): x['orig'] = i.get('title')
-        if rw: x['body'] = body[L]; x['take'] = take[L]; x['by'] = how
+        if rw:
+            x['body'] = body[L]; x['take'] = take[L]; x['by'] = how
+            if L == 'ja' and not (ja_ed and ja_ed.get('body')): x['mt'] = 1   # Japanese reader text came from the translator
         elif ex[L]: x['ex'] = [ex[L]]
         det[L] = x
     r['rw'] = how or ''

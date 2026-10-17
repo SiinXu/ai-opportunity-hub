@@ -3,7 +3,8 @@
 Checks
 - every site/digest/**/index.html: everything outside the zh-Hans / zh-Hant langboxes (<head>, chrome, scripts, the en /
   ko / ms / vi / fr / es / de boxes) must have zero Han; the ja box may contain kanji only inside text that is real Japanese
-  (contains kana) - the nocjk.py rule - ONLY when DIGEST_JA_KANJI=1; by default ja is held to zero Han too;
+  (contains kana) - the nocjk.py rule - ONLY when DIGEST_JA_KANJI=1 (set permanently in digest.yml since 2026-10-17);
+  without it ja is held to zero Han too;
 - every non-zh field in site/data/digests.json (same ja rule);
 - every per-locale reader file site/digest/<date>/<locale>.json for the 8 non-Chinese locales (same ja rule).
 Only the language-switcher autonyms 简体中文 / 繁體中文 / 日本語 are allowed anywhere. Exit 1 on any violation."""

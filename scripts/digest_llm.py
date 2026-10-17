@@ -9,9 +9,10 @@ Without a key, or on any error / failed check, rewrite() returns None and the it
 Checks on every rewrite (also applied to editor-written rewrites in scripts/digest_rewrites/):
 - every number in the rewrite must appear in the source text (no invented figures),
 - no run of 12+ consecutive words copied verbatim from the source (no long verbatim passages),
-- English output must not contain Han characters."""
+- English output must not contain Han characters.
+- optional editor-written Japanese ("ja": body/take/summary): same number rule, kanji only together with kana."""
 import json, os, re, urllib.request
-HAN = re.compile(r'[\u3400-\u9fff\uf900-\ufaff]')
+HAN = re.compile(r'[\u3400-\u9fff\uf900-\ufaff]'); KANA = re.compile(r'[\u3040-\u30ff]')
 
 def key(): return os.environ.get('DIGEST_LLM_API_KEY') or os.environ.get('OPENAI_API_KEY') or ''
 
@@ -34,9 +35,17 @@ def check(rw, source):
     bad = []
     src_n = nums(source.replace(',', '')) | nums(source)
     sw = words(source); grams = {' '.join(sw[i:i + 12]) for i in range(max(0, len(sw) - 11))}
-    for L in ('en', 'zh-Hans'):
-        txt = ' '.join((rw.get(L) or {}).get('body', []) + (rw.get(L) or {}).get('take', []))
+    for L in ('en', 'zh-Hans', 'ja'):
+        if L == 'ja' and not isinstance(rw.get('ja'), dict): continue   # optional editor-written Japanese
+        part = rw.get(L) or {}
+        txt = ' '.join(part.get('body', []) + part.get('take', []) + ([part['summary']] if isinstance(part.get('summary'), str) else []))
         if not txt: bad.append(f'{L}: empty'); continue
+        if L == 'ja':
+            for p_ in part.get('body', []) + part.get('take', []):
+                if HAN.search(p_) and not KANA.search(p_): bad.append('ja: paragraph with kanji but no kana: ' + p_[:40])
+            w = words(txt)   # Latin words copied from the (English) source: same 12-word verbatim rule
+            for i in range(max(0, len(w) - 11)):
+                if ' '.join(w[i:i + 12]) in grams: bad.append('ja: 12+ words copied verbatim: ' + ' '.join(w[i:i + 12])); break
         for n in nums(txt):
             if n not in src_n and n.replace(',', '') not in src_n: bad.append(f'{L}: number {n} not in source')
         if L == 'en':

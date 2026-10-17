@@ -20,6 +20,10 @@ on:
 permissions: {contents: write}
 # same group as refresh.yml so the two never commit/deploy at the same time
 concurrency: {group: refresh-feed, cancel-in-progress: false}
+# Real Japanese on the ja locale (user decision 2026-10-17): kanji are allowed in ja only together with kana
+# (same rule as nocjk.py on the main site). en/ko/ms/vi/fr/es/de stay at zero Han; digest_guard.py enforces both.
+env:
+  DIGEST_JA_KANJI: "1"
 jobs:
   digest:
     runs-on: ubuntu-latest
