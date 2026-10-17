@@ -1,0 +1,54 @@
+name: daily-digest
+# OPC Radar 每日简报: build today's issue (Asia/Shanghai date) from site/data/items.json, commit, deploy.
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 07:30 Asia/Shanghai (previous UTC day) — main publish time
+    - cron: "30 1 * * *"    # 09:30 Asia/Shanghai — safety net if the 07:30 run was dropped (idempotent)
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Issue date YYYY-MM-DD (Asia/Shanghai). Empty = today in Shanghai. Past dates make a catch-up issue."
+        required: false
+        default: ""
+permissions: {contents: write}
+# same group as refresh.yml so the two never commit/deploy at the same time
+concurrency: {group: refresh-feed, cancel-in-progress: false}
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - name: Build digest (idempotent; skips if issue exists or too few new items)
+        id: build
+        env: {DATE_IN: "${{ github.event.inputs.date }}"}
+        run: |
+          git pull --rebase origin main
+          if [ -n "$DATE_IN" ]; then python3 scripts/digest.py --date "$DATE_IN"; else python3 scripts/digest.py; fi
+      - name: i18n guard (no Han on non-Chinese surfaces)
+        run: python3 scripts/digest_guard.py
+      - name: Commit and push (rebase + retry)
+        id: commit
+        if: steps.build.outputs.changed == '1'
+        run: |
+          git config user.name "XU SIYIN"; git config user.email sinxu.xsy@gmail.com
+          git add site/data/digests.json site/digest site/sitemap-*.xml scripts/digest_seen.json
+          git commit -m "chore: daily digest ${{ steps.build.outputs.date }} (auto)"
+          for n in 1 2 3 4 5; do
+            if git push origin HEAD:main; then echo "pushed=1" >> $GITHUB_OUTPUT; exit 0; fi
+            echo "push rejected (attempt $n); rebasing"; sleep $((n*5))
+            git pull --rebase origin main || { echo "rebase conflict"; exit 1; }
+          done
+          echo "push failed after retries"; exit 1
+      - name: Publish site/ to gh-pages
+        if: steps.commit.outputs.pushed == '1'
+        run: |
+          cd site && git init -q -b gh-pages && git add -A
+          git -c user.name="XU SIYIN" -c user.email=sinxu.xsy@gmail.com commit -qm "deploy digest ${{ steps.build.outputs.date }}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages
+      - name: Summary
+        if: always()
+        run: echo "digest date=${{ steps.build.outputs.date }} changed=${{ steps.build.outputs.changed }}" >> $GITHUB_STEP_SUMMARY
