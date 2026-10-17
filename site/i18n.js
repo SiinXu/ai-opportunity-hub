@@ -29,3 +29,18 @@ fr:["Tendances IA","Classé par chaleur — l'IA et l'actu dont on parle le plus
 es:["Tendencias IA","Ordenado por calor: la IA y noticias más comentadas","Ofertas y gratis","Planes gratis, packs de estudiante, créditos startup, bug bounties","{p} puntos · {c} comentarios en {h} h","{s} estrellas en {h} h","Seguridad"],
 de:["Heiß · KI-Trends","Nach Hitze sortiert — die meistdiskutierte KI und News","Deals & Gratis","Free Tiers, Studentenpakete, Startup-Credits, Bug-Bounties","{p} Punkte · {c} Kommentare in {h} Std.","{s} Sterne in {h} Std.","Sicherheit"]};
 ["hot","hotSub","dealsT","dealsSub","whyHN","whyGH","sec"].forEach((k,i)=>{for(const l in X7)I18N[l][k]=X7[l][i]});
+
+const XRAD={
+"zh-Hans":["今日雷达","阅读完整简报","早间技术热点","今日 Top","这周可做"],
+"zh-Hant":["今日雷達","閱讀完整簡報","早間技術熱點","今日 Top","本週可做"],
+en:["Today's radar","Read full brief","Morning tech digest","Top today","Build this week"],
+ja:["本日のレーダー","全文を読む","朝のテックダイジェスト","本日の Top","今週やること"],
+ko:["오늘의 레이더","전체 브리프 읽기","모닝 테크 다이제스트","오늘의 Top","이번 주 할 일"],
+ms:["Radar hari ini","Baca ringkasan penuh","Intisari teknologi pagi","Top hari ini","Bina minggu ini"],
+vi:["Radar hôm nay","Đọc bản đầy đủ","Bản tin công nghệ buổi sáng","Top hôm nay","Làm tuần này"],
+fr:["Radar du jour","Lire le brief","Brief tech du matin","Top du jour","À construire cette semaine"],
+es:["Radar de hoy","Leer el brief","Brief tech matutino","Top de hoy","Construir esta semana"],
+de:["Heutiger Radar","Brief lesen","Morgen-Tech-Digest","Top heute","Diese Woche bauen"]
+};
+["radar","radarCta","radarTag","radarTop","radarOps"].forEach((k,i)=>{for(const l in XRAD)I18N[l][k]=XRAD[l][i]});
+

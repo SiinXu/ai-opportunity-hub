@@ -1,0 +1,313 @@
+{
+  "latest": "2026-10-17",
+  "digests": [
+    {
+      "date": "2026-10-17",
+      "path": "digest/2026-10-17/",
+      "title": {
+        "zh-Hans": "早间技术热点 · 2026-10-17",
+        "zh-Hant": "早間技術熱點 · 2026-10-17",
+        "en": "Morning tech digest · 2026-10-17"
+      },
+      "lede": {
+        "zh-Hans": "上海时间早间例行简报：AI、开源与一人公司可执行信号。",
+        "zh-Hant": "上海時間早間例行簡報：AI、開源與一人公司可執行信號。",
+        "en": "Morning brief (Asia/Shanghai): AI, open source, and actionable signals for one-person companies."
+      },
+      "top": [
+        {
+          "title": {
+            "zh-Hans": "Claude 公开「如何发现 ECDSA 曲线来源」",
+            "zh-Hant": "Claude 公開「如何發現 ECDSA 曲線來源」",
+            "en": "Claude explains how it found ECDSA curve provenance"
+          },
+          "summary": {
+            "zh-Hans": "Anthropic 把模型在密码学溯源上的推理过程摊开，HN 一夜冲到前列（约 600+ 分）。可解释 / 可审计仍是信任话题。",
+            "zh-Hant": "Anthropic 把模型在密碼學溯源上的推理過程攤開，HN 一夜衝到前列（約 600+ 分）。可解釋 / 可審計仍是信任話題。",
+            "en": "Anthropic opens the model's crypto-tracing reasoning; hit the top of HN overnight (~600+ points). Explainability stays a trust theme."
+          },
+          "url": "https://www.anthropic.com/",
+          "extra": [
+            "https://news.ycombinator.com/"
+          ]
+        },
+        {
+          "title": {
+            "zh-Hans": "Claude Code 团队自曝代码审查流水线",
+            "zh-Hant": "Claude Code 團隊自曝代碼審查流水線",
+            "en": "Claude Code team opens its multi-agent code-review pipeline"
+          },
+          "summary": {
+            "zh-Hans": "大量 PR 先过多智能体审查，人只看安全/产品边界；实质评论覆盖率 16%→54%；Code Review 已对 Team/Enterprise 开放。",
+            "zh-Hant": "大量 PR 先過多智能體審查，人只看安全/產品邊界；實質評論覆蓋率 16%→54%；Code Review 已對 Team/Enterprise 開放。",
+            "en": "Most PRs go through multi-agent review first; humans focus on security/product edges. Substantive comment coverage 16%→54%; Code Review open for Team/Enterprise."
+          },
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "Apple：用 MLX 在 Mac Studio 上跑 Muse Spark Open",
+            "zh-Hant": "Apple：用 MLX 在 Mac Studio 上跑 Muse Spark Open",
+            "en": "Apple: run Muse Spark Open on Mac Studio with MLX"
+          },
+          "summary": {
+            "zh-Hans": "近万亿参数开源权重，多机 Thunderbolt RDMA，四台 Mac Studio 可达 36+ tok/s；本地大模型叙事再被推高。",
+            "zh-Hant": "近萬億參數開源權重，多機 Thunderbolt RDMA，四臺 Mac Studio 可達 36+ tok/s；本地大模型敘事再被推高。",
+            "en": "Near-trillion-param open weights, multi-machine Thunderbolt RDMA; four Mac Studios can hit 36+ tok/s. Local LLM narrative gets another push."
+          },
+          "url": "https://machinelearning.apple.com/",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "「美国 90% 工时落在 AI benchmark 覆盖不好的任务上」",
+            "zh-Hant": "「美國 90% 工時落在 AI benchmark 覆蓋不好的任務上」",
+            "en": "“90% of US work hours sit on tasks AI benchmarks cover poorly”"
+          },
+          "summary": {
+            "zh-Hans": "Mercor 报告上 HN 热榜：基准分数 ≠ 真实白领工作。一人公司更适合找「AI 补洞」而非「再刷榜」。",
+            "zh-Hant": "Mercor 報告上 HN 熱榜：基準分數 ≠ 真實白領工作。一人公司更適合找「AI 補洞」而非「再刷榜」。",
+            "en": "Mercor report on HN: benchmark scores ≠ real white-collar work. Better to find AI gap-fills than chase leaderboards."
+          },
+          "url": "https://www.mercor.com/",
+          "extra": [
+            "https://news.ycombinator.com/"
+          ]
+        },
+        {
+          "title": {
+            "zh-Hans": "GitHub Copilot Slack/Teams 多仓库对话 + AI Scan for PRs GA",
+            "zh-Hant": "GitHub Copilot Slack/Teams 多倉庫對話 + AI Scan for PRs GA",
+            "en": "GitHub Copilot multi-repo chat in Slack/Teams + AI Scan for PRs GA"
+          },
+          "summary": {
+            "zh-Hans": "一条会话跨多个 repo 查 PR/Issue；AI Scan for PRs 正式 GA，补 CodeQL 覆盖不到的语言。",
+            "zh-Hant": "一條會話跨多個 repo 查 PR/Issue；AI Scan for PRs 正式 GA，補 CodeQL 覆蓋不到的語言。",
+            "en": "One chat across multiple repos for PRs/Issues; AI Scan for PRs generally available, covering languages CodeQL misses."
+          },
+          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates/",
+          "extra": [
+            "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/"
+          ]
+        },
+        {
+          "title": {
+            "zh-Hans": "GitHub Trending 被 Agent Skills / 插件目录霸榜",
+            "zh-Hant": "GitHub Trending 被 Agent Skills / 插件目錄霸榜",
+            "en": "GitHub Trending dominated by Agent Skills / plugin directories"
+          },
+          "summary": {
+            "zh-Hans": "anthropics/claude-plugins-official 今日约 1.5k★，同批还有 superpowers、ECC、scientific-agent-skills、context-mode。生态重心转向可插拔技能包。",
+            "zh-Hant": "anthropics/claude-plugins-official 今日約 1.5k★，同批還有 superpowers、ECC、scientific-agent-skills、context-mode。生態重心轉向可插拔技能包。",
+            "en": "anthropics/claude-plugins-official ~1.5k★ today, alongside superpowers, ECC, scientific-agent-skills, context-mode. Ecosystem shifts to pluggable skill packs."
+          },
+          "url": "https://github.com/trending",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "VoiceStudio 开源本地声纹/配音栈爆火",
+            "zh-Hant": "VoiceStudio 開源本地聲紋/配音棧爆火",
+            "en": "VoiceStudio open-source local voice clone / dubbing stack surges"
+          },
+          "summary": {
+            "zh-Hans": "自称本地 ElevenLabs 替代（克隆、配音、听写、多语言），Trending 今日约 2.3k★。",
+            "zh-Hant": "自稱本地 ElevenLabs 替代（克隆、配音、聽寫、多語言），Trending 今日約 2.3k★。",
+            "en": "Self-described local ElevenLabs alternative (clone, dub, dictate, multilingual); ~2.3k★ on Trending today."
+          },
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "Chainguard：AI Agent 安全微 VM Workspace + Checks",
+            "zh-Hant": "Chainguard：AI Agent 安全微 VM Workspace + Checks",
+            "en": "Chainguard: secure micro-VM Workspaces + Checks for AI coding agents"
+          },
+          "summary": {
+            "zh-Hans": "把 agent 生成的代码放进加固微虚拟机里测；供应链安全产品化成「给 agent 用的 CI」。",
+            "zh-Hant": "把 agent 生成的代碼放進加固微虛擬機裏測；供應鏈安全產品化成「給 agent 用的 CI」。",
+            "en": "Run agent-generated code inside hardened micro-VMs; supply-chain security packaged as CI for agents."
+          },
+          "url": "https://www.infoq.com/news/2026/10/chainguard-workspaces-checks/",
+          "extra": []
+        }
+      ],
+      "opportunities": {
+        "zh-Hans": [
+          "卖/做 Claude·Cursor 技能包与插件目录 — 官方目录 + 社区 harness 同日刷榜；可做垂直 niche 付费 skills 或模板站。",
+          "本地语音/配音 SaaS 或一键工作流 — VoiceStudio 热度证明需求；可封装播客/短剧/多语言配音流水线。",
+          "AI Code Review 夹层产品 — 只审某类栈 / 只拦某类 bug / 对接 Notion 日报的轻量服务。",
+          "Context/Token 省钱层 — 如 context-mode：沙箱工具输出、砍 token；可做成 MCP/插件。",
+          "24GB 消费级本地 Agent 套件 — 预装镜像、一键脚本或垂直本地助手。"
+        ],
+        "zh-Hant": [
+          "賣/做 Claude·Cursor 技能包與插件目錄 — 官方目錄 + 社區 harness 同日刷榜；可做垂直 niche 付費 skills 或模板站。",
+          "本地語音/配音 SaaS 或一鍵工作流 — VoiceStudio 熱度證明需求；可封裝播客/短劇/多語言配音流水線。",
+          "AI Code Review 夾層產品 — 只審某類棧 / 只攔某類 bug / 對接 Notion 日報的輕量服務。",
+          "Context/Token 省錢層 — 如 context-mode：沙箱工具輸出、砍 token；可做成 MCP/插件。",
+          "24GB 消費級本地 Agent 套件 — 預裝鏡像、一鍵腳本或垂直本地助手。"
+        ],
+        "en": [
+          "Sell/build Claude·Cursor skill packs & plugin directories — vertical niche paid skills or template sites.",
+          "Local voice/dubbing SaaS or one-click workflows — podcast/short-drama/multilingual dubbing pipelines.",
+          "AI Code Review mid-layer products — stack-specific review, bug gates, or Notion daily digests.",
+          "Context/token saver layer — e.g. context-mode MCP/plugin for heavy agent users.",
+          "24GB consumer local Agent kits — prebuilt images, one-click scripts, or vertical local assistants."
+        ]
+      },
+      "follow": [
+        {
+          "title": {
+            "zh-Hans": "anthropics/claude-plugins-official",
+            "zh-Hant": "anthropics/claude-plugins-official",
+            "en": "anthropics/claude-plugins-official"
+          },
+          "summary": {
+            "zh-Hans": "官方 Claude Code 插件目录，今日 Trending 第一梯队。",
+            "zh-Hant": "官方 Claude Code 插件目錄，今日 Trending 第一梯隊。",
+            "en": "Official Claude Code plugin directory; top tier on Trending today."
+          },
+          "url": "https://github.com/anthropics/claude-plugins-official"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "path": "digest/2026-10-13/",
+      "title": {
+        "zh-Hans": "技术热点简报 · 2026-10-13（补发）",
+        "zh-Hant": "技術熱點簡報 · 2026-10-13（補發）",
+        "en": "Tech digest · 2026-10-13 (catch-up)"
+      },
+      "lede": {
+        "zh-Hans": "当天早间例行未跑成功，事后补做。时间范围：上海时间 2026-10-13。",
+        "zh-Hant": "當天早間例行未跑成功，事後補做。時間範圍：上海時間 2026-10-13。",
+        "en": "Catch-up brief after the morning run failed. Window: Asia/Shanghai 2026-10-13."
+      },
+      "top": [
+        {
+          "title": {
+            "zh-Hans": "Anthropic 自研版本控制 Scion，替换 git",
+            "zh-Hant": "Anthropic 自研版本控制 Scion，替換 git",
+            "en": "Anthropic’s Scion replaces git for their monorepo"
+          },
+          "summary": {
+            "zh-Hans": "9 月超 3 万次日合并；CI 拉代码从几分钟缩到几秒。HN 877 分。",
+            "zh-Hant": "9 月超 3 萬次日合併；CI 拉代碼從幾分鐘縮到幾秒。HN 877 分。",
+            "en": "30k+ merges/day in Sept; CI clone minutes→seconds. HN 877 pts."
+          },
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "Codex CLI 默认装会自更新的后台守护进程",
+            "zh-Hant": "Codex CLI 默認裝會自更新的後臺守護進程",
+            "en": "Codex CLI installs a self-updating background daemon by default"
+          },
+          "summary": {
+            "zh-Hans": "交互会话拉起常驻进程，约 374MB，每小时更新。HN 606 分。",
+            "zh-Hant": "交互會話拉起常駐進程，約 374MB，每小時更新。HN 606 分。",
+            "en": "Interactive sessions spawn a ~374MB resident process that updates hourly. HN 606 pts."
+          },
+          "url": "https://github.com/openai/codex/issues/48195",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "Rust 借用检查器 11 年不健全漏洞",
+            "zh-Hant": "Rust 借用檢查器 11 年不健全漏洞",
+            "en": "11-year unsoundness in Rust’s borrow checker"
+          },
+          "summary": {
+            "zh-Hans": "协变字段赋值可绕开生命周期约束。HN 742 分。",
+            "zh-Hant": "協變字段賦值可繞開生命週期約束。HN 742 分。",
+            "en": "Assigning to covariant fields can bypass lifetime constraints. HN 742 pts."
+          },
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "extra": []
+        },
+        {
+          "title": {
+            "zh-Hans": "Character.AI 申请破产保护（Chapter 11）",
+            "zh-Hant": "Character.AI 申請破產保護（Chapter 11）",
+            "en": "Character.AI files Chapter 11 bankruptcy"
+          },
+          "summary": {
+            "zh-Hans": "据报资产要卖给迪士尼。AI 陪伴类合规与安全成本关乎生死。",
+            "zh-Hant": "據報資產要賣給迪士尼。AI 陪伴類合規與安全成本關乎生死。",
+            "en": "Assets reportedly headed to Disney. Compliance/safety costs hit companion AI hard."
+          },
+          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "extra": [
+            "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+          ]
+        },
+        {
+          "title": {
+            "zh-Hans": "Mozilla 推出 Firefox Enterprise",
+            "zh-Hant": "Mozilla 推出 Firefox Enterprise",
+            "en": "Mozilla launches Firefox Enterprise"
+          },
+          "summary": {
+            "zh-Hans": "卖点是数据主权和 AI 治理，可自建部署。HN 761 分。",
+            "zh-Hant": "賣點是數據主權和 AI 治理，可自建部署。HN 761 分。",
+            "en": "Pitch: data sovereignty and AI governance, self-hostable. HN 761 pts."
+          },
+          "url": "https://www.firefox.com/en-US/enterprise/",
+          "extra": []
+        }
+      ],
+      "opportunities": {
+        "zh-Hans": [
+          "模型分流省钱 + context-mode 类上下文压缩 → token-calc / TokenTrim 选题。",
+          "diagram-design 很火 → DiagramDrop / diagram-pack 需求仍在。",
+          "AI Code Review 止血规则、/grill-me 工作流 → skill-store 技能包。",
+          "网站被 AI 爬虫冲垮 → vibe-audit 防爬体检项。"
+        ],
+        "zh-Hant": [
+          "模型分流省錢 + context-mode 類上下文壓縮 → token-calc / TokenTrim 選題。",
+          "diagram-design 很火 → DiagramDrop / diagram-pack 需求仍在。",
+          "AI Code Review 止血規則、/grill-me 工作流 → skill-store 技能包。",
+          "網站被 AI 爬蟲沖垮 → vibe-audit 防爬體檢項。"
+        ],
+        "en": [
+          "Model routing + context compression → token-calc / TokenTrim angles.",
+          "diagram-design heat → DiagramDrop / diagram-pack demand.",
+          "AI Code Review stop-rules / grill-me workflows → skill packs.",
+          "Sites flooded by AI crawlers → anti-bot checklist items."
+        ]
+      },
+      "follow": [
+        {
+          "title": {
+            "zh-Hans": "morluto/rea",
+            "zh-Hant": "morluto/rea",
+            "en": "morluto/rea"
+          },
+          "summary": {
+            "zh-Hans": "用 Agent 做逆向工程，当天 GitHub Trending 第一。",
+            "zh-Hant": "用 Agent 做逆向工程，當天 GitHub Trending 第一。",
+            "en": "Agent-driven reverse engineering; #1 on GitHub Trending that day."
+          },
+          "url": "https://github.com/morluto/rea"
+        },
+        {
+          "title": {
+            "zh-Hans": "debpalash/VoiceStudio",
+            "zh-Hant": "debpalash/VoiceStudio",
+            "en": "debpalash/VoiceStudio"
+          },
+          "summary": {
+            "zh-Hans": "完全本地的开源 ElevenLabs 替代。",
+            "zh-Hant": "完全本地的開源 ElevenLabs 替代。",
+            "en": "Fully local open-source ElevenLabs alternative."
+          },
+          "url": "https://github.com/debpalash/VoiceStudio"
+        }
+      ]
+    }
+  ]
+}
