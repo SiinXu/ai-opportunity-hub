@@ -1,5 +1,7 @@
 name: daily-digest
 # OPC Radar 每日简报: build today's issue (Asia/Shanghai date) from site/data/items.json, commit, deploy.
+# Every entry gets a real-source summary in 10 locales; the in-page reader uses an LLM rewrite only when the
+# DIGEST_LLM_API_KEY (or OPENAI_API_KEY) secret exists, otherwise summary + excerpt (marked not rewritten).
 on:
   schedule:
     - cron: "30 23 * * *"   # 07:30 Asia/Shanghai (previous UTC day) — main publish time
@@ -10,24 +12,54 @@ on:
         description: "Issue date YYYY-MM-DD (Asia/Shanghai). Empty = today in Shanghai. Past dates make a catch-up issue."
         required: false
         default: ""
+      force:
+        description: "Rebuild an existing auto issue in place (same date, same items; refresh summaries/reader)"
+        type: boolean
+        required: false
+        default: false
 permissions: {contents: write}
 # same group as refresh.yml so the two never commit/deploy at the same time
 concurrency: {group: refresh-feed, cancel-in-progress: false}
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with: {fetch-depth: 0}
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
+      - uses: actions/cache@v4
+        with: {path: ~/.local/share/argos-translate, key: argos-v1}
+      - name: Install translator + models (same path as refresh-feed)
+        run: |
+          pip install argostranslate opencc-python-reimplemented
+          python3 - <<'PY'
+          import argostranslate.package as P
+          P.update_package_index(); av=P.get_available_packages()
+          inst={(p.from_code,p.to_code) for p in P.get_installed_packages()}
+          for a,b in [('zh','en')]+[('en',x) for x in ['zh','ja','ko','ms','vi','fr','es','de']]:
+              if (a,b) in inst: continue
+              p=next((p for p in av if p.from_code==a and p.to_code==b),None)
+              if p: P.install_from_path(p.download()); print('installed',a,b)
+              else: print('missing',a,b)
+          PY
       - name: Build digest (idempotent; skips if issue exists or too few new items)
         id: build
-        env: {DATE_IN: "${{ github.event.inputs.date }}"}
+        env:
+          DATE_IN: "${{ github.event.inputs.date }}"
+          FORCE_IN: "${{ github.event.inputs.force }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          DIGEST_LLM_API_KEY: "${{ secrets.DIGEST_LLM_API_KEY }}"
+          OPENAI_API_KEY: "${{ secrets.OPENAI_API_KEY }}"
+          DIGEST_LLM_BASE_URL: "${{ vars.DIGEST_LLM_BASE_URL }}"
+          DIGEST_LLM_MODEL: "${{ vars.DIGEST_LLM_MODEL }}"
         run: |
           git pull --rebase origin main
-          if [ -n "$DATE_IN" ]; then python3 scripts/digest.py --date "$DATE_IN"; else python3 scripts/digest.py; fi
+          ARGS=""
+          if [ -n "$DATE_IN" ]; then ARGS="--date $DATE_IN"; fi
+          if [ "$FORCE_IN" = "true" ]; then ARGS="$ARGS --force"; fi
+          python3 scripts/digest.py $ARGS
       - name: i18n guard (no Han on non-Chinese surfaces)
         run: python3 scripts/digest_guard.py
       - name: Commit and push (rebase + retry)
@@ -35,8 +67,9 @@ jobs:
         if: steps.build.outputs.changed == '1'
         run: |
           git config user.name "XU SIYIN"; git config user.email sinxu.xsy@gmail.com
-          git add site/data/digests.json site/digest site/sitemap-*.xml scripts/digest_seen.json
-          git commit -m "chore: daily digest ${{ steps.build.outputs.date }} (auto)"
+          git add site/data/digests.json site/digest site/sitemap-*.xml scripts/digest_seen.json scripts/digest_i18n_cache.json
+          if git diff --cached --quiet; then echo "nothing new to commit"; echo "pushed=1" >> $GITHUB_OUTPUT; exit 0; fi
+          git commit -m "chore: daily digest ${{ steps.build.outputs.date }} (auto${{ github.event.inputs.force == 'true' && ', forced rebuild' || '' }})"
           for n in 1 2 3 4 5; do
             if git push origin HEAD:main; then echo "pushed=1" >> $GITHUB_OUTPUT; exit 0; fi
             echo "push rejected (attempt $n); rebasing"; sleep $((n*5))
