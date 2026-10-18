@@ -1,6 +1,941 @@
 {
- "latest": "2026-10-17",
+ "latest": "2026-10-18",
  "digests": [
+  {
+   "date": "2026-10-18",
+   "path": "digest/2026-10-18/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-17T23:30:00Z",
+   "generated": "2026-10-18T01:21:00Z",
+   "new_count": 61,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-18",
+    "zh-Hant": "早間技術熱點 · 2026-10-18",
+    "en": "Morning tech digest · 2026-10-18",
+    "ja": "朝のテックダイジェスト · 2026-10-18",
+    "ko": "아침 테크 다이제스트 · 2026-10-18",
+    "ms": "Ringkasan teknologi pagi · 2026-10-18",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-18",
+    "fr": "Digest tech du matin · 2026-10-18",
+    "es": "Resumen tecnológico matinal · 2026-10-18",
+    "de": "Morgendlicher Tech-Digest · 2026-10-18"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-18 07:30 自动生成：从上一期以来 OPC Radar 新收录的 61 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-18 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 61 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-18: the hottest of the 61 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-18 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 61 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-18 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 61개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-18: isyarat paling hangat daripada 61 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-18: những tín hiệu nổi bật nhất trong 61 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-18 : les plus marquants des 61 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-18: lo más destacado de las 61 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-18: das Wichtigste aus 61 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50122800",
+     "title": {
+      "zh-Hans": "Claude 揭示 ECDSA 曲线来源",
+      "zh-Hant": "Claude 揭示 ECDSA 曲線來源",
+      "en": "Claude reveals ECDSA curve origins",
+      "ja": "Claude は ECDSA のカーブの起源を明らかにします",
+      "ko": "Claude는 ECDSA 곡선 기원을 나타냅니다.",
+      "ms": "Claude Claude mengungkapkan asal lengkung ECDSA",
+      "vi": "Claude tiết lộ nguồn gốc đường cong ECDSA",
+      "fr": "Claude révèle les origines de la courbe ECDSA",
+      "es": "Claude revela orígenes de curva ECDSA",
+      "de": "Claude enthüllt ECDSA-Kurvenursprünge"
+     },
+     "summary": {
+      "en": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+      "zh-Hans": "最受欢迎的密码学标准之一的由来已久的谜团被解释.",
+      "ja": "最も人気のある暗号基準の1つの起源の10年前の謎が説明されています。",
+      "ko": "가장 인기있는 암호화 표준 중 하나의 기원의 수십 년 된 신비는 설명되었습니다.",
+      "ms": "Misteri kuno dari asal-usul salah satu standar kriptografi paling populer telah dijelaskan.",
+      "vi": "Những bí ẩn lâu năm về trước về nguồn gốc của một trong những tiêu chuẩn mật mã phổ biến nhất đã được giải thích.",
+      "fr": "Le mystère séculaire des origines de l'une des normes cryptographiques les plus populaires a été expliqué.",
+      "es": "Se ha explicado el misterio de décadas de origen de uno de los estándares criptográficos más populares.",
+      "de": "Das jahrzehntealte Geheimnis der Ursprünge eines der beliebtesten kryptographischen Standards wurde erklärt.",
+      "zh-Hant": "最受歡迎的密碼學標準之一的由來已久的謎團被解釋."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 1018 分 · 373 条评论",
+      "zh-Hant": "Hacker News 1018 分 · 373 則留言",
+      "en": "1018 points · 373 comments on Hacker News",
+      "ja": "Hacker News 1018 ポイント · コメント 373 件",
+      "ko": "Hacker News 1018점 · 댓글 373개",
+      "ms": "1018 mata · 373 komen di Hacker News",
+      "vi": "1018 điểm · 373 bình luận trên Hacker News",
+      "fr": "1018 points · 373 commentaires sur Hacker News",
+      "es": "1018 puntos · 373 comentarios en Hacker News",
+      "de": "1018 Punkte · 373 Kommentare auf Hacker News"
+     },
+     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "src": "anthropic.com",
+     "date": "2026-10-16",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50122800"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50129121",
+     "title": {
+      "zh-Hans": "深搜索: 深搜索 v4.1 闪光 1017",
+      "zh-Hant": "深搜尋: 深搜尋 v4.1 閃光 1017",
+      "en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "ja": "DeepSeek: DeepSeek v4.1 フラッシュ 1017",
+      "ko": "DeepSeek: DeepSeek v4.1 플래시 1017",
+      "ms": "DeepSeek: DeepSek v4.1 Flash 1017",
+      "vi": "DeepSek: DeepSek v4.1 Flash 1017",
+      "fr": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "es": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "de": "DeepSeek: DeepSeek v4.1 Flash 1017"
+     },
+     "summary": {
+      "en": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name.",
+      "zh-Hans": "深层搜索 V4.1 Flash 1017是DeepSeek V4.1 Flash的2026年10月17日快照,由DeepSeek在\"deepSeek-flash\"API模型名下服务.",
+      "ja": "ディープシーク V4.1 Flash 1017は、DeepSeek V4.1 Flashの10月17日、2026スナップショットで、`deepseek-flash` APIモデル名の下にDeepSeekが提供しています。",
+      "ko": "딥스카이 V4.1 Flash 1017 년 10 월 17 일, 2026 년 DeepSeek V4.1 Flash의 스냅 샷은 'deepseek-flash` API 모델 이름 아래 DeepSeek가 제공했습니다.",
+      "ms": "DeepSeek V4.1 Tom Flash 1017 adalah snapshot edisi 17 Oktober 2026 dari DeepSeek V4.1 Flash, yang dilayani oleh DeepSeek di bawah nama model `deepseek-flash` API.",
+      "vi": "DeepSek V4.1 Flash 1017 là hình ảnh ngày 17 tháng 10 năm 2026 của DeepSek V4.1 Flash, được phục vụ bởi DeepSek dưới tên của « Tìm kiếm sâu ».",
+      "fr": "DeepSeek V4.1 Flash 1017 est l'instantané du 17 octobre 2026 de DeepSeek V4.1 Flash, servi par DeepSeek sous le nom de modèle d'API `deepseek-flash`.",
+      "es": "DeepSeek V4.1 Flash 1017 es el 17 de octubre de 2026 instantánea de DeepSeek V4.1 Flash, servido por DeepSeek bajo el nombre del modelo API de `deepseek-flash`.",
+      "de": "DeepSeek V4.1 Flash 1017 ist der Snapshot vom 17. Oktober 2026 von DeepSeek V4.1 Flash, der von DeepSeek unter dem API-Modellnamen \"deepseek-flash\" serviert wird.",
+      "zh-Hant": "深層搜尋 V4.1 Flash 1017是DeepSeek V4.1 Flash的2026年10月17日快照,由DeepSeek在\"deepSeek-flash\"API模型名下服務."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 511 分 · 5 条评论",
+      "zh-Hant": "Hacker News 511 分 · 5 則留言",
+      "en": "511 points · 5 comments on Hacker News",
+      "ja": "Hacker News 511 ポイント · コメント 5 件",
+      "ko": "Hacker News 511점 · 댓글 5개",
+      "ms": "511 mata · 5 komen di Hacker News",
+      "vi": "511 điểm · 5 bình luận trên Hacker News",
+      "fr": "511 points · 5 commentaires sur Hacker News",
+      "es": "511 puntos · 5 comentarios en Hacker News",
+      "de": "511 Punkte · 5 Kommentare auf Hacker News"
+     },
+     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+     "src": "openrouter.ai",
+     "date": "2026-10-17",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50129121"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50121179",
+     "title": {
+      "zh-Hans": "90%的美国工作时间用于AI基准覆盖不足的任务",
+      "zh-Hant": "90%的美國工作時間用於AI基準覆蓋不足的任務",
+      "en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "ja": "米国の労働時間の90%は、AIのベンチマークでよく覆われていないタスクに費やされます",
+      "ko": "미국 노동 시간의 90%는 AI 벤치 마크에 의해 잘 덮지 않는 일에 보전됩니다",
+      "ms": "90% jam kerja AS dihabiskan untuk tugas yang tidak ditutupi dengan baik oleh tanda aras AI",
+      "vi": "90% số giờ làm việc của Mỹ được chi tiêu cho các nhiệm vụ không được bao phủ bởi các dự báo AI",
+      "fr": "90 % des heures de travail aux États-Unis sont consacrées à des tâches qui ne sont pas bien couvertes par les critères d'AI",
+      "es": "El 90% de las horas de trabajo de los Estados Unidos se gastan en tareas que no están bien cubiertas por parámetros de IA",
+      "de": "90% der US-Arbeitsstunden werden für Aufgaben aufgewendet, die von KI-Benchmarks nicht gut abgedeckt werden"
+     },
+     "summary": {
+      "en": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.",
+      "zh-Hans": "美国基准地图将AI基准置于整个美国经济中,衡量哪些部分劳动力被不饱和、公开和代理基准覆盖。",
+      "ja": "US Benchmark Map は、AI のベンチマークをアメリカ経済全体に置き、労働力のどの部分が不飽和、公共、有能なベンチマークによって覆われているかを測定します。",
+      "ko": "미국 벤치 마크 맵은 미국 경제의 AI 벤치 마크를 배치하고 노동력의 부품이 불포화, 공공, 화학 벤치 마크로 덮여있다.",
+      "ms": "Peta Benchmark AS menempatkan AI benchmarks di seluruh ekonomi Amerika, mengukur bagian mana dari angkatan kerja ditutupi oleh benchmark tidak jenuh, publik, agentic.",
+      "vi": "Bản đồ Hoa Kỳ Benchmark đặt bảng xếp hạng AI trên nền kinh tế Mỹ, đo lường các phần của lực lượng lao động được bao phủ bởi các bảng xếp hạng không bão hòa, công cộng, đặc vụ.",
+      "fr": "La carte de référence américaine place les repères d'IA dans l'économie américaine, mesurant quelles parties de la population active sont couvertes par des repères non saturés, publics et agents.",
+      "es": "El Mapa de Benchmark de EE.UU. coloca los puntos de referencia de IA en toda la economía americana, midiendo qué partes de la fuerza laboral están cubiertas por puntos de referencia insaturados, públicos y agentes.",
+      "de": "Die US Benchmark Map platziert KI-Benchmarks in der gesamten amerikanischen Wirtschaft und misst, welche Teile der Arbeitskräfte durch ungesättigte, öffentliche, agentische Benchmarks abgedeckt sind.",
+      "zh-Hant": "美國基準地圖將AI基準置於整個美國經濟中,衡量哪些部分勞動力被不飽和、公開和代理基準覆蓋。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 592 分 · 536 条评论",
+      "zh-Hant": "Hacker News 592 分 · 536 則留言",
+      "en": "592 points · 536 comments on Hacker News",
+      "ja": "Hacker News 592 ポイント · コメント 536 件",
+      "ko": "Hacker News 592점 · 댓글 536개",
+      "ms": "592 mata · 536 komen di Hacker News",
+      "vi": "592 điểm · 536 bình luận trên Hacker News",
+      "fr": "592 points · 536 commentaires sur Hacker News",
+      "es": "592 puntos · 536 comentarios en Hacker News",
+      "de": "592 Punkte · 536 Kommentare auf Hacker News"
+     },
+     "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+     "src": "mercor.com",
+     "date": "2026-10-16",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50121179"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50129045",
+     "title": {
+      "zh-Hans": "深层Seek-v4.1-Flash-1017",
+      "zh-Hant": "深層Seek-v4.1-Flash-1017",
+      "en": "DeepSeek-v4.1-Flash-1017",
+      "ja": "DeepSeek-v4.1-フラッシュ-1017",
+      "ko": "DeepSeek-v4.1-플래시 1017",
+      "ms": "Kereek-v4.1-Flash-1017",
+      "vi": "DeepSek-v4. 1-Flash-1017",
+      "fr": "DeepSeek-v4.1-Flash-1017",
+      "es": "DeepSeek-v4.1-Flash-1017",
+      "de": "DeepSeek-v4.1-Flash-1017"
+     },
+     "summary": {
+      "en": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "zh-Hans": "我们正通过开放源代码和开放科学来推进和民主化人工智能。",
+      "ja": "私たちは、オープンソースとオープンサイエンスを通じて、人工知能の進歩と民主化への旅をしています。",
+      "ko": "우리는 오픈 소스와 열린 과학을 통해 인공 지능을 미리 민주화하기 위해 여행에 있습니다.",
+      "ms": "Kami dalam perjalanan untuk memajukan dan mendemokratisasi kecerdasan buatan melalui sumber terbuka dan ilmu pengetahuan terbuka.",
+      "vi": "Chúng ta đang trên đường tiến bộ và dân chủ hóa trí tuệ nhân tạo thông qua nguồn mở và khoa học mở.",
+      "fr": "Nous sommes sur un chemin pour faire progresser et démocratiser l'intelligence artificielle à travers la science ouverte et ouverte.",
+      "es": "Estamos en un viaje para avanzar y democratizar la inteligencia artificial a través de la fuente abierta y la ciencia abierta.",
+      "de": "Wir sind auf einer Reise, um künstliche Intelligenz durch Open Source und Open Science voranzutreiben und zu demokratisieren.",
+      "zh-Hant": "我們正透過開放原始碼和開放科學來推進和民主化人工智慧。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 648 分 · 548 条评论",
+      "zh-Hant": "Hacker News 648 分 · 548 則留言",
+      "en": "648 points · 548 comments on Hacker News",
+      "ja": "Hacker News 648 ポイント · コメント 548 件",
+      "ko": "Hacker News 648점 · 댓글 548개",
+      "ms": "648 mata · 548 komen di Hacker News",
+      "vi": "648 điểm · 548 bình luận trên Hacker News",
+      "fr": "648 points · 548 commentaires sur Hacker News",
+      "es": "648 puntos · 548 comentarios en Hacker News",
+      "de": "648 Punkte · 548 Kommentare auf Hacker News"
+     },
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "src": "huggingface.co",
+     "date": "2026-10-17",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50129045"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50122431",
+     "title": {
+      "zh-Hans": "Llama.cpp on a jailbroken PS5: 运行任何GGUF模型 在主控台本土",
+      "zh-Hant": "Llama.cpp on a jailbroken PS5: 執行任何GGUF模型 在主控臺本土",
+      "en": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "ja": "Llama.cpp on jailbroken PS5: コンソール上でGGUFモデルをネイティブに実行する",
+      "ko": "Llama.cpp on a jailbroken PS5: 콘솔에서 기본적으로 GGUF 모델을 실행",
+      "ms": "Llama.cpp pada PS5 yang rusak penjara: jalankan setiap model GGUF asli di konsol",
+      "vi": "Llama.cpp trên một nhà tù phá vỡ PS5: chạy bất kỳ mô hình GGUF bản xứ trên bàn điều khiển",
+      "fr": "Llama.cpp sur une jailbroken PS5: exécutez n'importe quel modèle GGUF nativement sur la console",
+      "es": "Llama.cpp en una cárcel rota PS5: ejecutar cualquier modelo GGUF nativamente en la consola",
+      "de": "Llama.cpp auf einer Jailbroken PS5: Führen Sie jedes GGUF-Modell nativ auf der Konsole aus"
+     },
+     "summary": {
+      "en": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
+      "zh-Hans": "由Quen 3.8开始,",
+      "ja": "llama.cpp 上 jailbroken PS5: コンソール上でGGUFモデルをネイティブに実行し、Qwen 3.8から始まります。",
+      "ko": "llama.cpp on a jailbroken PS5: 콘솔에서 기본적으로 GGUF 모델을 실행, Qwen 3.8 시작",
+      "ms": "llama.cpp pada PS5 yang rusak penjara: menjalankan model GGUF apapun asli di konsol, dimulai dengan Qwen 3.8",
+      "vi": "Ilma.cpp trên một nhà tù phá vỡ PS5: chạy bất kỳ mô hình GGUF bản địa trên bảng điều khiển, bắt đầu với Qwen 3.8",
+      "fr": "lama.cpp sur une jailbroken PS5: exécutez n'importe quel modèle GGUF nativement sur la console, en commençant par Qwen 3.8",
+      "es": "llama.cpp en un PS5 roto en la cárcel: ejecutar cualquier modelo GGUF nativamente en la consola, comenzando con Qwen 3.8",
+      "de": "llama.cpp auf einer Jailbroken PS5: Führen Sie jedes GGUF-Modell nativ auf der Konsole aus, beginnend mit Qwen 3.8",
+      "zh-Hant": "由Quen 3.8開始,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 365 分 · 85 条评论",
+      "zh-Hant": "Hacker News 365 分 · 85 則留言",
+      "en": "365 points · 85 comments on Hacker News",
+      "ja": "Hacker News 365 ポイント · コメント 85 件",
+      "ko": "Hacker News 365점 · 댓글 85개",
+      "ms": "365 mata · 85 komen di Hacker News",
+      "vi": "365 điểm · 85 bình luận trên Hacker News",
+      "fr": "365 points · 85 commentaires sur Hacker News",
+      "es": "365 puntos · 85 comentarios en Hacker News",
+      "de": "365 Punkte · 85 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/cobanov/PS5LM",
+     "src": "github.com",
+     "date": "2026-10-16",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50122431"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50122878",
+     "title": {
+      "zh-Hans": "你可以从记忆中发明变压器",
+      "zh-Hant": "你可以從記憶中發明變壓器",
+      "en": "You could have invented transformers from memory",
+      "ja": "記憶から発明された変圧器を持つことができます",
+      "ko": "당신은 메모리에서 변압기를 발명 할 수",
+      "ms": "Anda bisa menemukan transformator dari memori",
+      "vi": "Cậu có thể phát minh ra máy biến thế từ trí nhớ.",
+      "fr": "Tu aurais pu inventer des transformateurs à partir de la mémoire",
+      "es": "Podrías haber inventado transformadores de memoria",
+      "de": "Sie hätten Transformatoren aus dem Gedächtnis erfinden können"
+     },
+     "summary": {
+      "en": "Large language models today can recall obscure facts from every corner of the world. Most recently, I was running late for a friend’s board game night, so I asked Astra to remind me the rules to…",
+      "zh-Hans": "今天的大型语言模型可以回顾世界每个角落的模糊事实。 最近,我迟到了一个朋友的棋盘游戏之夜, 所以我要求Astra提醒我规则...",
+      "ja": "世界中のあらゆる角度から、今日の大きな言語モデルは、障害のある事実を思い出すことができます。 最近は友達のボードゲームナイトで遅れて走っていたので、Astraにルールを思い出させるように頼みました。",
+      "ko": "오늘 큰 언어 모델은 세계의 모든 구석에서 obscure 사실을 회상 할 수 있습니다. 가장 최근, 나는 친구의 보드 게임 밤 늦게 실행되었다, 그래서 나는 나에게 규칙을 상기 아스트라를 물었다 ...",
+      "ms": "Model bahasa yang besar dewasa ini dapat mengingat kembali fakta-fakta yang tidak jelas dari setiap penjuru dunia. Baru - baru ini, saya terlambat datang ke pertandingan malam, jadi saya meminta Astra untuk mengingatkan saya aturan untuk...",
+      "vi": "Ngày nay, các mô hình ngôn ngữ lớn có thể gợi lại những sự kiện khó hiểu từ mọi nơi trên thế giới. Gần đây nhất, tôi đã trễ giờ chơi trò chơi ban đêm của một người bạn, vì thế tôi nhờ Astra nhắc tôi nhớ luật...",
+      "fr": "De grands modèles linguistiques aujourd'hui peuvent rappeler des faits obscurs de tous les coins du monde. Plus récemment, j'étais en retard pour une soirée de jeu d'ami, alors j'ai demandé à Astra de me rappeler les règles de...",
+      "es": "Los modelos de lenguaje grandes de hoy pueden recordar hechos oscuros de todos los rincones del mundo. Más recientemente, llegué tarde a la noche de juego de un amigo, así que le pedí a Astra que me recordara las reglas...",
+      "de": "Große Sprachmodelle können sich heute an obskure Fakten aus allen Ecken der Welt erinnern. Vor kurzem lief ich zu spät für eine Brettspielnacht eines Freundes, also bat ich Astra, mich an die Regeln zu erinnern, um ...",
+      "zh-Hant": "今天的大型語言模型可以回顧世界每個角落的模糊事實。 最近,我遲到了一個朋友的棋盤遊戲之夜, 所以我要求Astra提醒我規則..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 478 分 · 112 条评论",
+      "zh-Hant": "Hacker News 478 分 · 112 則留言",
+      "en": "478 points · 112 comments on Hacker News",
+      "ja": "Hacker News 478 ポイント · コメント 112 件",
+      "ko": "Hacker News 478점 · 댓글 112개",
+      "ms": "478 mata · 112 komen di Hacker News",
+      "vi": "478 điểm · 112 bình luận trên Hacker News",
+      "fr": "478 points · 112 commentaires sur Hacker News",
+      "es": "478 puntos · 112 comentarios en Hacker News",
+      "de": "478 Punkte · 112 Kommentare auf Hacker News"
+     },
+     "url": "https://alexwang.ai/posts/associative-memory/",
+     "src": "alexwang.ai",
+     "date": "2026-10-16",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50122878"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50131189",
+     "title": {
+      "zh-Hans": "Esp32sim – 在浏览器中运行 ESP32 固件",
+      "zh-Hant": "Esp32sim – 在瀏覽器中執行 ESP32 韌體",
+      "en": "Esp32sim – Run ESP32 firmware in the browser",
+      "ja": "Esp32sim – ブラウザでESP32ファームウェアを実行",
+      "ko": "Esp32sim – 브라우저에서 ESP32 펌웨어 실행",
+      "ms": "Esp32sim – Jalankan firmware ESP32 di peramban",
+      "vi": "Esp32sim – Chạy phần mềm âm hộ32 trong trình duyệt",
+      "fr": "Esp32sim – Exécutez le firmware ESP32 dans le navigateur",
+      "es": "Esp32sim – Run ESP32 firmware en el navegador",
+      "de": "Esp32sim – ESP32 Firmware im Browser ausführen"
+     },
+     "summary": {
+      "en": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.",
+      "zh-Hans": "开源ESP32模拟器. 在本地或浏览器中运行真正的固件——没有硬件,没有云,没有订阅.",
+      "ja": "オープンソースESP32エミュレータ。 ローカルまたはブラウザで実際のファームウェアを実行します。ハードウェア、クラウドなし、サブスクリプションなし。",
+      "ko": "오픈 소스 ESP32 에뮬레이터. 로컬 또는 브라우저에서 실제 펌웨어를 실행 — 하드웨어 없음, 클라우드 없음, 구독 없음.",
+      "ms": "Emulator ESP32 Open-source. Anda atau peramban Anda — tanpa perangkat keras, awan, atau langganan.",
+      "vi": "Trình giả lập năng lực mã nguồn mở. Chạy phần cứng tại địa phương hoặc trình duyệt — không phần cứng, không mây, không đăng ký.",
+      "fr": "Émulateur ESP32 libre. Exécutez le vrai firmware localement ou dans votre navigateur — aucun matériel, aucun nuage, aucun abonnement.",
+      "es": "Emulador ESP32 de código abierto. Ejecute el firmware real localmente o en su navegador — sin hardware, sin nube, sin suscripción.",
+      "de": "Open-Source ESP32 Emulator. Führen Sie echte Firmware lokal oder in Ihrem Browser aus - keine Hardware, keine Cloud, kein Abonnement.",
+      "zh-Hant": "開源ESP32模擬器. 在本地或瀏覽器中執行真正的韌體——沒有硬體,沒有云,沒有訂閱."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 106 分 · 11 条评论",
+      "zh-Hant": "Hacker News 106 分 · 11 則留言",
+      "en": "106 points · 11 comments on Hacker News",
+      "ja": "Hacker News 106 ポイント · コメント 11 件",
+      "ko": "Hacker News 106점 · 댓글 11개",
+      "ms": "106 mata · 11 komen di Hacker News",
+      "vi": "106 điểm · 11 bình luận trên Hacker News",
+      "fr": "106 points · 11 commentaires sur Hacker News",
+      "es": "106 puntos · 11 comentarios en Hacker News",
+      "de": "106 Punkte · 11 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/mikroverk/esp32sim",
+     "src": "github.com",
+     "date": "2026-10-17",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50131189"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50132950",
+     "title": {
+      "zh-Hans": "7.2内核的发展统计",
+      "zh-Hant": "7.2核心的發展統計",
+      "en": "Development statistics for the 7.2 kernel",
+      "ja": "7.2カーネルの開発統計",
+      "ko": "7.2 커널의 개발 통계",
+      "ms": "Statistik pengembangan data statistik untuk kernel 7.2",
+      "vi": "Thống kê phát triển cho 7.2 nhân",
+      "fr": "Statistiques du développement pour le noyau 7.2",
+      "es": "Estadísticas de desarrollo para el kernel 7.2",
+      "de": "Entwicklungsstatistik für den 7.2-Kernel"
+     },
+     "summary": {
+      "en": "The primary benefit from subscribing to LWN is helping to keep us publishing, but, beyond that, subscribers get immediate access to all site content and access to a number of extra site features.",
+      "zh-Hans": "订阅LWN的主要好处是帮助我们继续出版,但除此之外,订阅者可以立即访问所有网站内容并访问一些额外的网站功能.",
+      "ja": "サブスクライブからLWNへの主な利点は、出版を維持するのに役立ちますが、それを超えて、加入者はすべてのサイトのコンテンツにアクセスし、追加のサイトの機能の数にアクセスすることができます。",
+      "ko": "LWN에 대한 하위 혜택은 게시를 계속하는 데 도움이되지만, 그 외에 가입자는 모든 사이트 콘텐츠에 즉시 액세스하고 추가 사이트 기능에 액세스 할 수 있습니다.",
+      "ms": "Kemanfaatan utama dari berlangganan ke LWN membantu kita untuk terus menerbitkan, tetapi, di luar itu, pelanggan mendapatkan akses langsung ke semua konten situs dan akses ke sejumlah fitur situs tambahan.",
+      "vi": "Lợi ích chính của việc nộp cho LWN là giúp chúng tôi xuất bản, nhưng ngoài ra, những người đăng ký đăng nhập ngay lập tức vào tất cả nội dung trang web và truy cập vào một số tính năng thêm của trang web.",
+      "fr": "Le principal avantage de s'abonner à LWN est de nous aider à publier, mais, au-delà de cela, les abonnés ont un accès immédiat à tout le contenu du site et à un certain nombre de fonctionnalités supplémentaires.",
+      "es": "El principal beneficio de suscribirse a LWN es ayudar a mantenernos publicando, pero, más allá de eso, los suscriptores obtienen acceso inmediato a todo el contenido del sitio y acceso a una serie de características adicionales del sitio.",
+      "de": "Der primäre vorteil des abonnements bei lwn ist, dass wir weiterhin publizieren, aber darüber hinaus erhalten abonnenten sofortigen zugriff auf alle site-inhalte und zugang zu einer reihe zusätzlicher site-funktionen.",
+      "zh-Hant": "訂閱LWN的主要好處是幫助我們繼續出版,但除此之外,訂閱者可以立即訪問所有網站內容並訪問一些額外的網站功能."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 120 分 · 95 条评论",
+      "zh-Hant": "Hacker News 120 分 · 95 則留言",
+      "en": "120 points · 95 comments on Hacker News",
+      "ja": "Hacker News 120 ポイント · コメント 95 件",
+      "ko": "Hacker News 120점 · 댓글 95개",
+      "ms": "120 mata · 95 komen di Hacker News",
+      "vi": "120 điểm · 95 bình luận trên Hacker News",
+      "fr": "120 points · 95 commentaires sur Hacker News",
+      "es": "120 puntos · 95 comentarios en Hacker News",
+      "de": "120 Punkte · 95 Kommentare auf Hacker News"
+     },
+     "url": "https://lwn.net/Articles/1088776/",
+     "src": "lwn.net",
+     "date": "2026-10-17",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50132950"
+     ],
+     "rw": ""
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50127979",
+     "title": {
+      "zh-Hans": "Llmspeed — 在购买硬件之前感受本地LLM运行的速度",
+      "zh-Hant": "Llmspeed — 在購買硬體之前感受本地LLM執行的速度",
+      "en": "Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "ja": "Llmspeed - ハードウェアを購入する前にローカルLMが実行される速度を感じる",
+      "ko": "Llmspeed – 로컬 LLM이 하드웨어를 구입하기 전에 어떻게 빠른 느낌",
+      "ms": "Llmspeed – rasakan seberapa cepat LLM lokal berjalan sebelum Anda membeli perangkat keras",
+      "vi": "Llm speed – cảm thấy một llM địa phương chạy nhanh như thế nào trước khi bạn mua phần cứng",
+      "fr": "Llmspeed – sentir à quelle vitesse un LLM local fonctionne avant d'acheter le matériel",
+      "es": "Llmspeed – sentir lo rápido que un LLM local corre antes de comprar el hardware",
+      "de": "Llmspeed - spüren Sie, wie schnell ein lokaler LLM läuft, bevor Sie die Hardware kaufen"
+     },
+     "summary": {
+      "en": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+      "zh-Hans": "选择硬件和模型,在购买前感受本地LLM的真实速度. 从已核实的GPU, Macs 等基准中模拟符/秒和时间到第一键.",
+      "ja": "ハードウェアとモデルを選択し、購入する前にローカルLMの実際の速度を感じてください。 GPU、Macなどの検証ベンチマークからトークン/秒とタイムツーファーストトークンをシミュレートします。",
+      "ko": "하드웨어와 모델을 선택하고, 당신이 구입하기 전에 로컬 LLM의 실제 속도를 느낄. GPU, Mac 등에 대한 검증된 벤치 마크에서 토큰/sec 및 time-to-first-token을 시뮬레이션합니다.",
+      "ms": "Ajak perangkat keras dan model, dan rasakan kecepatan nyata dari LLM lokal sebelum Anda membeli. Simulasikan token/detik dan waktu-ke-pertama-token dari benchmark terverifikasi untuk GPU, Mac, dan masih banyak lagi.",
+      "vi": "Chọn phần cứng và một mô hình, và cảm nhận tốc độ thực sự của một LLM địa phương trước khi bạn mua. Mô phỏng các biểu tượng/sec và thời gian để đầu tiên từ các điểm chuẩn đã được kiểm tra cho GPUs, Macs, và nhiều hơn nữa.",
+      "fr": "Choisissez le matériel et un modèle, et sentez la vitesse réelle d'un LLM local avant d'acheter. Simule des jetons/sec et time-to-first-token à partir de repères vérifiés pour les GPU, Mac, et plus encore.",
+      "es": "Elija hardware y un modelo, y sienta la velocidad real de un LLM local antes de comprar. Simula tokens/sec y time-token de parámetros verificados para GPUs, Macs y más.",
+      "de": "Wählen Sie Hardware und ein Modell und spüren Sie die tatsächliche Geschwindigkeit eines lokalen LLM, bevor Sie kaufen. Simuliert Token/Sec und Time-to-First-Token aus verifizierten Benchmarks für GPUs, Macs und mehr.",
+      "zh-Hant": "選擇硬體和模型,在購買前感受本地LLM的真實速度. 從已核實的GPU, Macs 等基準中模擬符/秒和時間到第一鍵."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 234 分 · 75 条评论",
+      "zh-Hant": "Hacker News 234 分 · 75 則留言",
+      "en": "234 points · 75 comments on Hacker News",
+      "ja": "Hacker News 234 ポイント · コメント 75 件",
+      "ko": "Hacker News 234점 · 댓글 75개",
+      "ms": "234 mata · 75 komen di Hacker News",
+      "vi": "234 điểm · 75 bình luận trên Hacker News",
+      "fr": "234 points · 75 commentaires sur Hacker News",
+      "es": "234 puntos · 75 comentarios en Hacker News",
+      "de": "234 Punkte · 75 Kommentare auf Hacker News"
+     },
+     "url": "https://llmspeed.dev/",
+     "src": "llmspeed.dev",
+     "date": "2026-10-17",
+     "rw": ""
+    },
+    {
+     "id": "hn-50122112",
+     "title": {
+      "zh-Hans": "6月Athropic给予最高的垃圾信用评级",
+      "zh-Hant": "6月Athropic給予最高的垃圾信用評級",
+      "en": "Anthropic assigned highest junk credit rating in June",
+      "ja": "人類は6月の最高のジャンククレジット評価を割り当てました",
+      "ko": "Anthropic은 6 월에 가장 높은 정크 신용 등급을 할당했습니다.",
+      "ms": "Anthropic ditugaskan peringkat kredit rongsokan tertinggi pada bulan Juni",
+      "vi": "Atropic được phân công cao nhất trong tháng Sáu",
+      "fr": "Anthropique a attribué la plus haute cote de crédit de pourriel en juin",
+      "es": "Antrópico asignado más alta puntuación de crédito basura en junio",
+      "de": "Anthropic hat im Juni höchstes Junk-Kreditrating erhalten"
+     },
+     "summary": {
+      "en": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "zh-Hans": "https://finance.yahoo.com/technology/ai/articles/harmic-s. 互联网档案馆的存檔,存档日期2013-12-21.",
+      "ja": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "ko": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "ms": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "vi": "Công nghệ/ai/ai-ticles/antrotic-s...",
+      "fr": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "es": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "de": "https://finance.yahoo.com/technology/ai/articles/anthropic-s...",
+      "zh-Hant": "https://finance.yahoo.com/technology/ai/articles/harmic-s. 網際網路檔案館的存檔,存檔日期2013-12-21."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 283 分 · 86 条评论",
+      "zh-Hant": "Hacker News 283 分 · 86 則留言",
+      "en": "283 points · 86 comments on Hacker News",
+      "ja": "Hacker News 283 ポイント · コメント 86 件",
+      "ko": "Hacker News 283점 · 댓글 86개",
+      "ms": "283 mata · 86 komen di Hacker News",
+      "vi": "283 điểm · 86 bình luận trên Hacker News",
+      "fr": "283 points · 86 commentaires sur Hacker News",
+      "es": "283 puntos · 86 comentarios en Hacker News",
+      "de": "283 Punkte · 86 Kommentare auf Hacker News"
+     },
+     "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+     "src": "ft.com",
+     "date": "2026-10-16",
+     "rw": ""
+    },
+    {
+     "id": "hn-50118688",
+     "title": {
+      "zh-Hans": "双子座 4 Argon 扮演 StarCraft",
+      "zh-Hant": "雙子座 4 Argon 扮演 StarCraft",
+      "en": "Gemini 4 Argon plays StarCraft",
+      "ja": "ジェミニ 4 アルゴンはスタークラフトを再生します",
+      "ko": "Gemini 4 아르곤 놀이 StarCraft",
+      "ms": "Gemini 4 Argon memainkan StarCraft",
+      "vi": "Song Tử 4 Chơi StarCraft",
+      "fr": "Gemini 4 Argon joue StarCraft",
+      "es": "Gemini 4 Argon juega StarCraft",
+      "de": "Gemini 4 Argon spielt StarCraft"
+     },
+     "summary": {
+      "en": "StarSkirmish: where LLMs write code to play StarCraft.",
+      "zh-Hans": "StarSkirmish: LLMs写出代码播放 StarCraft.",
+      "ja": "StarSkirmish: LLMがStarCraftを再生するためのコードを書く場所。",
+      "ko": "StarSkirmish: LLMs는 StarCraft를 재생하는 코드를 작성합니다.",
+      "ms": "starSkirmish: dimana LLMs menulis kode untuk memainkan StarCraft.",
+      "vi": "StarSkirmish: nơi mMs viết mã để chơi StarCraft.",
+      "fr": "StarSkirmish: où LLMs écrit du code pour jouer StarCraft.",
+      "es": "StarSkirmish: donde LLMs escribe código para jugar StarCraft.",
+      "de": "StarSkirmish: Wo LLMs Code schreiben, um StarCraft zu spielen.",
+      "zh-Hant": "StarSkirmish: LLMs寫出程式碼播放 StarCraft."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 241 分 · 106 条评论",
+      "zh-Hant": "Hacker News 241 分 · 106 則留言",
+      "en": "241 points · 106 comments on Hacker News",
+      "ja": "Hacker News 241 ポイント · コメント 106 件",
+      "ko": "Hacker News 241점 · 댓글 106개",
+      "ms": "241 mata · 106 komen di Hacker News",
+      "vi": "241 điểm · 106 bình luận trên Hacker News",
+      "fr": "241 points · 106 commentaires sur Hacker News",
+      "es": "241 puntos · 106 comentarios en Hacker News",
+      "de": "241 Punkte · 106 Kommentare auf Hacker News"
+     },
+     "url": "https://starskirmish.com/bench/v0-2/",
+     "src": "starskirmish.com",
+     "date": "2026-10-16",
+     "rw": ""
+    },
+    {
+     "id": "hn-50121939",
+     "title": {
+      "zh-Hans": "与克洛德设计更有效的量子电路",
+      "zh-Hant": "與克洛德設計更有效的量子電路",
+      "en": "Designing more efficient quantum circuits with Claude",
+      "ja": "クロードでより効率的な量子回路の設計",
+      "ko": "Claude를 가진 능률적인 quantum 회로 설계",
+      "ms": "Medesain sirkuit kuantum yang lebih efisien dengan Claude",
+      "vi": "Thiết kế mạch lượng tử hiệu quả hơn với Claude",
+      "fr": "Conception de circuits quantiques plus efficaces avec Claude",
+      "es": "Diseñando circuitos cuánticos más eficientes con Claude",
+      "de": "Entwerfen effizienterer Quantenschaltungen mit Claude"
+     },
+     "summary": {
+      "en": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+      "zh-Hans": "克洛德主要靠自己来工作,设计了量子回路,改进了最好的出版版本,有的还按数量级或更多.",
+      "ja": "独自のClaude設計の量子回路は、最高の公開バージョンで改善します。",
+      "ko": "자체적으로 작업하기 위해 Claude는 가장 좋은 출판 된 버전에서 개선하는 퀀텀 회로를 설계했습니다. 일부 경우 크기 또는 더 많은 순서로.",
+      "ms": "Sebagian besar bekerja sendiri, Claude merancang sirkuit kuantum yang memperbaiki versi terbaik yang diterbitkan, dalam beberapa kasus dengan urutan magnitudo atau lebih.",
+      "vi": "Trong một số trường hợp, Claude tự thiết kế các mạch lượng tử để cải tiến các phiên bản được xuất bản tốt nhất.",
+      "fr": "En travaillant en grande partie seul, Claude a conçu des circuits quantiques qui améliorent les meilleures versions publiées, dans certains cas par ordre de grandeur ou plus.",
+      "es": "Trabajando por sí solo, Claude diseñó circuitos cuánticos que mejoran en las mejores versiones publicadas, en algunos casos por un orden de magnitud o más.",
+      "de": "Claude arbeitete weitgehend allein und entwarf Quantenschaltungen, die die besten veröffentlichten Versionen in einigen Fällen um eine Größenordnung oder mehr verbessern.",
+      "zh-Hant": "克洛德主要靠自己來工作,設計了量子迴路,改進了最好的出版版本,有的還按數量級或更多."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 169 分 · 36 条评论",
+      "zh-Hant": "Hacker News 169 分 · 36 則留言",
+      "en": "169 points · 36 comments on Hacker News",
+      "ja": "Hacker News 169 ポイント · コメント 36 件",
+      "ko": "Hacker News 169점 · 댓글 36개",
+      "ms": "169 mata · 36 komen di Hacker News",
+      "vi": "169 điểm · 36 bình luận trên Hacker News",
+      "fr": "169 points · 36 commentaires sur Hacker News",
+      "es": "169 puntos · 36 comentarios en Hacker News",
+      "de": "169 Punkte · 36 Kommentare auf Hacker News"
+     },
+     "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+     "src": "anthropic.com",
+     "date": "2026-10-16",
+     "rw": ""
+    },
+    {
+     "id": "hn-50118320",
+     "title": {
+      "zh-Hans": "Apple ML 研究:Muse Spark在Mac Studio上用 MLX 打开",
+      "zh-Hant": "Apple ML 研究:Muse Spark在Mac Studio上用 MLX 開啟",
+      "en": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "ja": "Apple ML Research: Mac StudioでMLXでMuse Spark Openをミューズ",
+      "ko": "Apple ML 연구 : Mac Studio에서 MLX를 열고 Muse Spark",
+      "ms": "Penelitian Apple ML: Muse Spark Open dengan MLX di Mac Studio",
+      "vi": "Công ty Nghiên cứu ML Apple: Mise Spark open with MLX on Mac Studio",
+      "fr": "Recherche Apple ML: Muse Spark ouvert avec MLX sur Mac Studio",
+      "es": "Apple ML Research: Muse Spark Open con MLX en Mac Studio",
+      "de": "Apple ML Research: Muse Spark Open mit MLX auf Mac Studio"
+     },
+     "summary": {
+      "en": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+      "zh-Hans": "本地和分配的大型 LLM Mac Studio上的MLX和RDMA推论",
+      "ja": "ローカルおよび分散大型LLM Mac StudioでMLXとRDMAの推論",
+      "ko": "지역 및 분산 큰 LLM Mac Studio에서 MLX 및 RDMA와 관련하여",
+      "ms": "LLM Besar Didistribusikan dan Lokal Gangguan dengan MLX dan RDMA di Mac Studio",
+      "vi": "Địa phương và Phân phối LM lớn Comment",
+      "fr": "Grand LLM local et distribué Inférence avec MLX et RDMA sur Mac Studio",
+      "es": "Local and Distributed Large LLM Inferencia con MLX y RDMA en Mac Studio",
+      "de": "Lokale und verteilte große LLM Inferenz mit MLX und RDMA auf Mac Studio",
+      "zh-Hant": "本地和分配的大型 LLM Mac Studio上的MLX和RDMA推論"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 360 分 · 193 条评论",
+      "zh-Hant": "Hacker News 360 分 · 193 則留言",
+      "en": "360 points · 193 comments on Hacker News",
+      "ja": "Hacker News 360 ポイント · コメント 193 件",
+      "ko": "Hacker News 360점 · 댓글 193개",
+      "ms": "360 mata · 193 komen di Hacker News",
+      "vi": "360 điểm · 193 bình luận trên Hacker News",
+      "fr": "360 points · 193 commentaires sur Hacker News",
+      "es": "360 puntos · 193 comentarios en Hacker News",
+      "de": "360 Punkte · 193 Kommentare auf Hacker News"
+     },
+     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+     "src": "machinelearning.apple.com",
+     "date": "2026-10-16",
+     "rw": ""
+    },
+    {
+     "id": "hn-50131006",
+     "title": {
+      "zh-Hans": "高质量鸭子音频合成器",
+      "zh-Hant": "高質量鴨子音訊合成器",
+      "en": "High-quality duck audio synthesizer",
+      "ja": "高品質のアヒルオーディオシンセサイザー",
+      "ko": "고품질 오리 오디오 합성기",
+      "ms": "Sintesis audio bebek berkualitas tinggi",
+      "vi": "Trình tổng hợp âm thanh chất lượng cao",
+      "fr": "Synthétiseur audio canard de haute qualité",
+      "es": "Sintetizador de audio de pato de alta calidad",
+      "de": "Hochwertiger Duck Audio Synthesizer"
+     },
+     "summary": {
+      "en": "A live duck pond: a small flock of mallards, every call synthesized as it happens and heard from where you stand on the bank.",
+      "zh-Hans": "活鸭塘:一小群花花公子,每一次电话都是在它发生时合成的,从你站在岸上的地方听到的.",
+      "ja": "ライブアヒルの池:モールドの小さな群れ、それが起こるようにすべての呼び出しが合成され、銀行に立っている場所から聞いた。",
+      "ko": "살아있는 오리 연못: mallards의 작은 무리는, 당신이 은행에 서 있는 그것에서 일어나고 듣는 모든 통화 종합했습니다.",
+      "ms": "Sebuah kolam bebek hidup: kawanan kecil mallards, setiap panggilan disintesis seperti yang terjadi dan mendengar dari mana Anda berdiri di bank.",
+      "vi": "Một ao vịt sống: một đàn linh dương nhỏ, mỗi cuộc gọi được tổng hợp khi nó xảy ra và nghe từ vị trí của bạn trên ngân hàng.",
+      "fr": "Un étang de canard vivant: un petit troupeau de colverts, chaque appel synthétisé comme il se passe et entendu d'où vous vous tenez sur la rive.",
+      "es": "Un estanque de pato vivo: un pequeño rebaño de mallavados, cada llamada sintetizado como sucede y oído desde donde se para en el banco.",
+      "de": "Ein lebendiger Ententeich: eine kleine Herde von Stockenten, jeder Anruf synthetisiert, wie es passiert und gehört, wo Sie auf der Bank stehen.",
+      "zh-Hant": "活鴨塘:一小群花花公子,每一次電話都是在它發生時合成的,從你站在岸上的地方聽到的."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 63 分 · 19 条评论",
+      "zh-Hant": "Hacker News 63 分 · 19 則留言",
+      "en": "63 points · 19 comments on Hacker News",
+      "ja": "Hacker News 63 ポイント · コメント 19 件",
+      "ko": "Hacker News 63점 · 댓글 19개",
+      "ms": "63 mata · 19 komen di Hacker News",
+      "vi": "63 điểm · 19 bình luận trên Hacker News",
+      "fr": "63 points · 19 commentaires sur Hacker News",
+      "es": "63 puntos · 19 comentarios en Hacker News",
+      "de": "63 Punkte · 19 Kommentare auf Hacker News"
+     },
+     "url": "https://celphase.github.io/duck-pond/",
+     "src": "celphase.github.io",
+     "date": "2026-10-17",
+     "rw": ""
+    },
+    {
+     "id": "hn-50127586",
+     "title": {
+      "zh-Hans": "爱沙尼亚在线投票系统的源代码",
+      "zh-Hant": "愛沙尼亞線上投票系統的原始碼",
+      "en": "Source code of the Estonian online voting system",
+      "ja": "エストニアオンライン投票システムのソースコード",
+      "ko": "Estonian 온라인 투표 시스템의 소스 코드",
+      "ms": "Kode sumber sistem pemungutan suara daring Estonia",
+      "vi": "Mã nguồn của hệ thống bỏ phiếu trực tuyến Estonia",
+      "fr": "Code source du système de vote en ligne estonien",
+      "es": "Código fuente del sistema de votación en línea de Estonia",
+      "de": "Quellcode des estnischen Online-Wahlsystems"
+     },
+     "summary": {
+      "en": "IVXV online voting system",
+      "zh-Hans": "在线投票系统",
+      "ja": "IVXVオンライン投票システム",
+      "ko": "IVXV 온라인 투표 시스템",
+      "ms": "Sistem pemungutan suara daring IVXV",
+      "vi": "Hệ thống bỏ phiếu trực tuyến IVXV",
+      "fr": "IVXV système de vote en ligne",
+      "es": "IVXV sistema de votación en línea",
+      "de": "IVXV Online-Abstimmungssystem",
+      "zh-Hant": "線上投票系統"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 129 分 · 108 条评论",
+      "zh-Hant": "Hacker News 129 分 · 108 則留言",
+      "en": "129 points · 108 comments on Hacker News",
+      "ja": "Hacker News 129 ポイント · コメント 108 件",
+      "ko": "Hacker News 129점 · 댓글 108개",
+      "ms": "129 mata · 108 komen di Hacker News",
+      "vi": "129 điểm · 108 bình luận trên Hacker News",
+      "fr": "129 points · 108 commentaires sur Hacker News",
+      "es": "129 puntos · 108 comentarios en Hacker News",
+      "de": "129 Punkte · 108 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/valimised/ivxv",
+     "src": "github.com",
+     "date": "2026-10-17",
+     "rw": ""
+    },
+    {
+     "id": "hn-50133401",
+     "title": {
+      "zh-Hans": "OpenCode Hacked: 用户证书泄露",
+      "zh-Hant": "OpenCode Hacked: 使用者證書洩露",
+      "en": "OpenCode Hacked: User credentials leaked",
+      "ja": "OpenCode はハッキング: ユーザーの資格情報漏洩",
+      "ko": "OpenCode Hacked: 사용자 식별 유출",
+      "ms": "OpenCode Hacked: Kelayakan pengguna bocor",
+      "vi": "Comment",
+      "fr": "OpenCode Hacked: les identifiants d'utilisateur divulgués",
+      "es": "OpenCode Hacked: credenciales de usuario filtradas",
+      "de": "OpenCode Hacked: Benutzeranmeldeinformationen durchgesickert"
+     },
+     "summary": {
+      "en": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users We have notified them all this morning via email The incident is ongoing…",
+      "zh-Hans": "昨晚发生了一起大规模蒸馏攻击 导致1.4%的OpenCode Console用户受到冲击 我们今早通过电子邮件通知他们 事件还在继续...",
+      "ja": "OpenCode Consoleユーザーの1.4%に影響した大規模蒸留攻撃に関連したセキュリティ違反の昨夜 メールでのお問い合わせ 事件は進行中です...",
+      "ko": "우리는 OpenCode 콘솔 사용자의 1.4%에 영향을 미치는 대규모 증류 공격과 관련된 보안 침해 지난 밤을 가지고 우리는 그(것)들을 이메일을 통해 이 아침에 통보했습니다 사건은 계속됩니다 ...",
+      "ms": "Kami memiliki pelanggaran keamanan tadi malam berkaitan dengan serangan penyulingan skala besar yang berdampak 1,4% dari pengguna OpenCode Console Kami telah diberitahu mereka semua pagi ini melalui email Insiden sedang berlangsung...",
+      "vi": "Chúng tôi đã có một lỗ hổng an ninh đêm qua liên quan đến một cuộc tấn công chưng cất quy mô lớn ảnh hưởng đến 1% người dùng bàn điều khiển OpenCode Chúng tôi đã thông báo cho họ sáng nay qua email Vụ việc đang diễn ra...",
+      "fr": "Nous avons eu une faille de sécurité hier soir liée à une attaque à grande échelle de distillation qui a affecté 1,4% des utilisateurs OpenCode Console Nous les avons tous notifiés ce matin par e-mail L'incident est en cours...",
+      "es": "Tuvimos una brecha de seguridad anoche relacionada con un ataque de destilación a gran escala que impactó el 1,4% de los usuarios de OpenCode Console Les hemos notificado todo esta mañana por correo electrónico El incidente continúa...",
+      "de": "Wir hatten letzte Nacht eine Sicherheitsverletzung im Zusammenhang mit einem groß angelegten Destillationsangriff, der 1,4% der OpenCode Console-Benutzer betraf Wir haben sie alle heute Morgen per E-Mail benachrichtigt Der Vorfall geht weiter...",
+      "zh-Hant": "昨晚發生了一起大規模蒸餾攻擊 導致1.4%的OpenCode Console使用者受到衝擊 我們今早透過電子郵件通知他們 事件還在繼續..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 663 分 · 112 条评论",
+      "zh-Hant": "Hacker News 663 分 · 112 則留言",
+      "en": "663 points · 112 comments on Hacker News",
+      "ja": "Hacker News 663 ポイント · コメント 112 件",
+      "ko": "Hacker News 663점 · 댓글 112개",
+      "ms": "663 mata · 112 komen di Hacker News",
+      "vi": "663 điểm · 112 bình luận trên Hacker News",
+      "fr": "663 points · 112 commentaires sur Hacker News",
+      "es": "663 puntos · 112 comentarios en Hacker News",
+      "de": "663 Punkte · 112 Kommentare auf Hacker News"
+     },
+     "url": "https://twitter.com/opencode/status/2111516673953935833",
+     "src": "twitter.com",
+     "date": "2026-10-17",
+     "rw": ""
+    },
+    {
+     "id": "hn-50112739",
+     "title": {
+      "zh-Hans": "任何窗口 从你的Mac, 在你的iPhone和iPad",
+      "zh-Hant": "任何視窗 從你的Mac, 在你的iPhone和iPad",
+      "en": "Any window from your Mac, on your iPhone and iPad",
+      "ja": "あなたのMac、あなたのiPhoneとiPad上の任意のウィンドウ",
+      "ko": "Mac에서 모든 창, iPhone 및 iPad에서",
+      "ms": "Setiap jendela dari Mac Anda, di iPhone Anda dan iPad",
+      "vi": "Name",
+      "fr": "N'importe quelle fenêtre de votre Mac, sur votre iPhone et iPad",
+      "es": "Cualquier ventana de su Mac, en su iPhone y iPad",
+      "de": "Jedes Fenster von Ihrem Mac, auf Ihrem iPhone und iPad"
+     },
+     "summary": {
+      "en": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+      "zh-Hans": "任何窗口 从你的Mac, 住在你的iPhone或iPad。 触摸 Apple Pencil 有轨电车和钥匙 自由,开源,没有服务器.",
+      "ja": "あなたのMacから任意のウィンドウ, あなたのiPhoneまたはiPadに住んでいる. 接触、Appleの鉛筆、トラックパッドおよびキー。 無料、オープンソース、サーバーなし",
+      "ko": "Mac에서 모든 창, iPhone 또는 iPad에서 라이브. 접촉, Apple 연필, 트랙패드 및 열쇠. 무료, 오픈 소스, 서버 없음.",
+      "ms": "Setiap jendela dari Mac Anda, hidup di iPhone atau iPad Anda. Touch, Apple Pencil, trackpad dan kunci. Bebas, sumber terbuka, tak ada server.",
+      "vi": "Bất cứ cửa sổ nào từ Mac của bạn, trực tiếp trên iPhone hoặc iPad của bạn. Chạm vào, Apple Pencil, trackpad và key. Tự do, mã nguồn mở, không có máy chủ.",
+      "fr": "N'importe quelle fenêtre de votre Mac, en direct sur votre iPhone ou iPad. Touch, Apple Pencil, trackpad et clés. Libre, open source, pas de serveurs.",
+      "es": "Cualquier ventana de tu Mac, vive en tu iPhone o iPad. Touch, Apple Pencil, trackpad y llaves. Libre, de código abierto, sin servidores.",
+      "de": "Jedes Fenster von Ihrem Mac, live auf Ihrem iPhone oder iPad. Touch, Apple Pencil, Trackpad und Tasten. Frei, Open Source, keine Server.",
+      "zh-Hant": "任何視窗 從你的Mac, 住在你的iPhone或iPad。 觸控 Apple Pencil 有軌電車和鑰匙 自由,開源,沒有伺服器."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 262 分 · 76 条评论",
+      "zh-Hant": "Hacker News 262 分 · 76 則留言",
+      "en": "262 points · 76 comments on Hacker News",
+      "ja": "Hacker News 262 ポイント · コメント 76 件",
+      "ko": "Hacker News 262점 · 댓글 76개",
+      "ms": "262 mata · 76 komen di Hacker News",
+      "vi": "262 điểm · 76 bình luận trên Hacker News",
+      "fr": "262 points · 76 commentaires sur Hacker News",
+      "es": "262 puntos · 76 comentarios en Hacker News",
+      "de": "262 Punkte · 76 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/Saffsanity/sill",
+     "src": "github.com",
+     "date": "2026-10-16",
+     "rw": ""
+    },
+    {
+     "id": "hn-50121562",
+     "title": {
+      "zh-Hans": "由于国际化输入错误,Anthropic Console超额充电了我的卡 100x",
+      "zh-Hant": "由於國際化輸入錯誤,Anthropic Console超額充電了我的卡 100x",
+      "en": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "ja": "Anthropic Console は、国際化入力バグによりカード 100x をオーバーチャージしました",
+      "ko": "Anthropic Console은 국제화 입력 버그로 인해 카드 100x를 초과했습니다.",
+      "ms": "Konsol Antropika anitropika kelebihan biaya kartu saya 100x karena internationalisasi masukan bug",
+      "vi": "Name",
+      "fr": "Anthropic Console a surchargé ma carte 100x en raison du bogue d'entrée de l'internationalisation",
+      "es": "Consola antropópica sobrecarga mi tarjeta 100x debido al error de entrada de la internacionalización",
+      "de": "Anthropic Console überladen meine Karte 100x wegen Internationalisierung Eingabe Fehler"
+     },
+     "summary": {
+      "en": "I am a LegalTech Attorney leading a developer team from Costa Rica. While trying to load credits onto my Anthropic API account (claude.com), I experienced a critical internationalization (i18n) and…",
+      "zh-Hans": "我是一个法律技术律师 领导一个开发团队 从哥斯达黎加。 在试图将信用加入我的Anthropic API账户(claude.com)时,我经历了批判性国际化(i18n)和.",
+      "ja": "コスタリカのデベロッパチームを率いるLegalTech Attorneyです。 Anthropic API アカウント(claude.com)にクレジットをロードしようとすると、重要な国際化(i18n)と...",
+      "ko": "나는 Costa Rica의 개발자 팀을 이끌 LegalTech Attorney입니다. Anthropic API 계정 (claude.com)에 크레딧을로드하려고하는 동안, 나는 중요한 국제화 (i18n) 및 ...",
+      "ms": "Aku seorang Jaksa Agung LegalTech memimpin tim pengembang dari Kosta Rika. Ketika mencoba untuk memuat kredit ke akun API Antropik saya (claude.com), saya mengalami internasionalisasi kritis (i18n) dan...",
+      "vi": "Tôi là luật sư luật pháp trưởng một nhóm phát triển từ Costa Rica. Trong khi cố gắng để nạp tín dụng vào tài khoản Athipic API (công ty, com), tôi đã trải qua một quốc tế quan trọng (i18n) và...",
+      "fr": "Je suis un avocat juridique qui dirige une équipe de développeurs du Costa Rica. En essayant de charger des crédits sur mon compte API Anthropic (claude.com), j'ai...",
+      "es": "Soy abogado de LegalTech liderando un equipo desarrollador de Costa Rica. Mientras trataba de cargar créditos en mi cuenta de API Antropopic (claude.com), experimenté una internacionalización crítica (i18n) y...",
+      "de": "Ich bin LegalTech Attorney und führe ein Entwicklerteam aus Costa Rica. Während ich versuchte, Credits auf mein Anthropic API-Konto (claude.com) zu laden, erlebte ich eine kritische Internationalisierung (i18n) und ...",
+      "zh-Hant": "我是一個法律技術律師 領導一個開發團隊 從哥斯大黎加。 在試圖將信用加入我的Anthropic API賬戶(claude.com)時,我經歷了批判性國際化(i18n)和."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 88 分 · 36 条评论",
+      "zh-Hant": "Hacker News 88 分 · 36 則留言",
+      "en": "88 points · 36 comments on Hacker News",
+      "ja": "Hacker News 88 ポイント · コメント 36 件",
+      "ko": "Hacker News 88점 · 댓글 36개",
+      "ms": "88 mata · 36 komen di Hacker News",
+      "vi": "88 điểm · 36 bình luận trên Hacker News",
+      "fr": "88 points · 36 commentaires sur Hacker News",
+      "es": "88 puntos · 36 comentarios en Hacker News",
+      "de": "88 Punkte · 36 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50121562",
+     "src": "news.ycombinator.com",
+     "date": "2026-10-16",
+     "rw": ""
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1423190069",
+     "title": {
+      "zh-Hans": "justxor/deepseek-local-guide-ru",
+      "zh-Hant": "justxor/deepseek-local-guide-ru",
+      "en": "justxor/deepseek-local-guide-ru",
+      "ja": "justxor/deepseek-local-guide-ru",
+      "ko": "justxor/deepseek-local-guide-ru",
+      "ms": "justxor/deepseek-local-guide-ru",
+      "vi": "justxor/deepseek-local-guide-ru",
+      "fr": "justxor/deepseek-local-guide-ru",
+      "es": "justxor/deepseek-local-guide-ru",
+      "de": "justxor/deepseek-local-guide-ru"
+     },
+     "summary": {
+      "en": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+      "zh-Hans": "QQ: и и и и (V4, R1) и (V4, R1) запустить (V4, R1) ; Mac и (Mac) сервере (Ollama) сервере (LM Studio, vLLM, Open WebUI, API, RAG, агенты ( )) агенты (-)  fine (-) лучшие (V) лучшие (V) лучшие ( ) лучшие (лучшие).",
+      "ja": "ф Полный гайдаруссском: как установить изапустить DeepSeek лолольшчо (V4, R1) а ПК, Mac и верверереререй, llama.cpp, LM Studio, vLLM, ОТКРЫТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТОВРЫТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, Т",
+      "ko": "Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на К, 맥 иенервере — Ollama, llama.cpp, LM 스튜디오, vLLM, 오픈 웹 UI, API, RAGRE, RAGRE , 럭키, 럭키",
+      "ms": "🐋нннныыыыйййййййййккккккккккккккккккккккккккккккккккк ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (           ,,,,,,,, Mac иееееееееррррррррррррррррррррррррррррррррреррреееееееее —ее — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — O O O O O O O O O O O O O O O O O O O O  O",
+      "vi": "thể hiện lòng biết ơn qua lời nói của Đức Giê - hô - va.",
+      "fr": "Description: как установить и юаайд на русском: как установить и яаяустить DeepSeek локально (V4, R1) на на ни севере — Ollama, lama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, аенты, réglage fin, луюие юивки",
+      "es": "П Полный гайд на руском: как установить и апустить DeepSeek локально (V4, R1) на ПК, Mac стерверере — Ollama, llamacppе",
+      "de": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+      "zh-Hant": "QQ: и и и и (V4, R1) и (V4, R1) запустить (V4, R1) ; Mac и (Mac) сервере (Ollama) сервере (LM Studio, vLLM, Open WebUI, API, RAG, агенты ( )) агенты (-)  fine (-) лучшие (V) лучшие (V) лучшие ( ) лучшие (лучшие)."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 55 星",
+      "zh-Hant": "GitHub 55 星",
+      "en": "55 stars on GitHub",
+      "ja": "GitHub スター 55",
+      "ko": "GitHub 스타 55개",
+      "ms": "55 bintang di GitHub",
+      "vi": "55 sao trên GitHub",
+      "fr": "55 étoiles sur GitHub",
+      "es": "55 estrellas en GitHub",
+      "de": "55 Sterne auf GitHub"
+     },
+     "url": "https://github.com/justxor/deepseek-local-guide-ru",
+     "src": "github.com",
+     "date": "2026-10-17",
+     "rw": ""
+    },
+    {
+     "id": "gh-1422962789",
+     "title": {
+      "zh-Hans": "harshpreet931/harshpreet-hand",
+      "zh-Hant": "harshpreet931/harshpreet-hand",
+      "en": "harshpreet931/harshpreet-hand",
+      "ja": "harshpreet931/harshpreet-hand",
+      "ko": "harshpreet931/harshpreet-hand",
+      "ms": "harshpreet931/harshpreet-hand",
+      "vi": "harshpreet931/harshpreet-hand",
+      "fr": "harshpreet931/harshpreet-hand",
+      "es": "harshpreet931/harshpreet-hand",
+      "de": "harshpreet931/harshpreet-hand"
+     },
+     "summary": {
+      "en": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+      "zh-Hans": "我给了克劳德密码120页 我手写的大学笔记。 它给了我的笔迹 作为一个真正的字体, 在66分钟13.68美元。",
+      "ja": "自分の手書きの大学のノートのClaudeコード120ページを与えました。 それは私に本当のフォントとして私の手書きを返しました, に 66 分 $13.68.",
+      "ko": "나는 Claude Code 120 내 Handwritten 대학 노트의 페이지. 실제 폰트로, 66 분에서 $13.68.",
+      "ms": "Aku memberikan Claude Code 120 halaman catatan perguruan tinggi tulisan tangan saya. Ini memberi saya kembali tulisan tangan saya sebagai font nyata, dalam 66 menit untuk $ 13.68.",
+      "vi": "Tôi đã đưa cho Claude mã 120 trang ghi chép viết tay của tôi. Nó trả lại chữ viết của tôi như một phông chữ thật, trong 66 phút với giá 13 đô 68 đô.",
+      "fr": "J'ai donné à Claude 120 pages de mes notes manuscrites. Ça m'a rendu mon écriture comme une vraie police, en 66 minutes pour 13,68 $.",
+      "es": "Le di a Claude Code 120 páginas de mis notas de la universidad escritas a mano. Me devolvió mi escritura como una fuente real, en 66 minutos por $13.68.",
+      "de": "Ich gab Claude Code 120 Seiten meiner handschriftlichen College-Notizen. Es gab mir meine Handschrift als echte Schrift in 66 Minuten für 13,68 $ zurück.",
+      "zh-Hant": "我給了克勞德密碼120頁 我手寫的大學筆記。 它給了我的筆跡 作為一個真正的字型, 在66分鐘13.68美元。"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 26 星",
+      "zh-Hant": "GitHub 26 星",
+      "en": "26 stars on GitHub",
+      "ja": "GitHub スター 26",
+      "ko": "GitHub 스타 26개",
+      "ms": "26 bintang di GitHub",
+      "vi": "26 sao trên GitHub",
+      "fr": "26 étoiles sur GitHub",
+      "es": "26 estrellas en GitHub",
+      "de": "26 Sterne auf GitHub"
+     },
+     "url": "https://github.com/harshpreet931/harshpreet-hand",
+     "src": "github.com",
+     "date": "2026-10-17",
+     "rw": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-17",
    "path": "digest/2026-10-17/",
