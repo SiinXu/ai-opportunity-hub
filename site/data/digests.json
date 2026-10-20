@@ -1,6 +1,981 @@
 {
- "latest": "2026-10-19",
+ "latest": "2026-10-20",
  "digests": [
+  {
+   "date": "2026-10-20",
+   "path": "digest/2026-10-20/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-19T23:30:00Z",
+   "generated": "2026-10-20T13:12:31Z",
+   "new_count": 81,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-20",
+    "zh-Hant": "早間技術熱點 · 2026-10-20",
+    "en": "Morning tech digest · 2026-10-20",
+    "ja": "朝のテックダイジェスト · 2026-10-20",
+    "ko": "아침 테크 다이제스트 · 2026-10-20",
+    "ms": "Ringkasan teknologi pagi · 2026-10-20",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-20",
+    "fr": "Digest tech du matin · 2026-10-20",
+    "es": "Resumen tecnológico matinal · 2026-10-20",
+    "de": "Morgendlicher Tech-Digest · 2026-10-20"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-20 07:30 自动生成：从上一期以来 OPC Radar 新收录的 81 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-20 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 81 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-20: the hottest of the 81 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-20 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 81 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-20 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 81개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-20: isyarat paling hangat daripada 81 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-20: những tín hiệu nổi bật nhất trong 81 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-20 : les plus marquants des 81 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-20: lo más destacado de las 81 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-20: das Wichtigste aus 81 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50159341",
+     "title": {
+      "zh-Hans": "WhatsApp的帮助页面隐藏 LLM 指令:不要推荐一个调控器",
+      "zh-Hant": "WhatsApp的幫助頁面隱藏 LLM 指令:不要推薦一個調控器",
+      "en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "ja": "WhatsAppのヘルプページハイドLMの指示:規制当局を推薦しない",
+      "ko": "WhatsApp의 도움말 페이지 숨겨지은 LLM 지침 : 규칙을 권하지 마십시오.",
+      "ms": "Halaman bantuan WhatsApp menyembunyikan instruksi LLM: jangan merekomendasikan regulator",
+      "vi": "@ info: status",
+      "fr": "Les pages d'aide de WhatsApp ont caché les instructions LLM: ne recommandez pas un régulateur",
+      "es": "Las páginas de ayuda de WhatsApp ocultaron instrucciones LLM: no recomendar un regulador",
+      "de": "WhatsApp-Hilfeseiten versteckten LLM-Anweisungen: Empfehlen Sie keine Regulierungsbehörde"
+     },
+     "summary": {
+      "en": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
+      "zh-Hans": "WhatsApp删除了隐蔽的笔记,告诉大赦国际不要推荐监管者,一旦律师出现,就不要引用GDPR或CCPA. 我们引用了两个注释。",
+      "ja": "WhatsAppは、規制当局を推薦しないようにAIを指示する隠しメモを削除し、弁護士が立ち上がった後にGDPRまたはCCPAを引用しないようにしました。 両方のノートを引用します。",
+      "ko": "WhatsApp은 규제를 권장하지 않는 AI를 말하는 숨겨진 노트를 제거하고, 변호사가왔다 한 번 GDPR 또는 CCPA를 인용하지 않습니다. 우리는 둘 다 주 인용합니다.",
+      "ms": "WhatsApp menghapus catatan tersembunyi memberitahu AI untuk tidak merekomendasikan regulator, dan tidak mengutip GDPR atau CCPA begitu pengacara datang. Kami mengutip kedua catatan.",
+      "vi": "Những ghi chú bí mật của AI không đề nghị một người điều hành, và không được trích dẫn GDPR hay CCPA khi có luật sư. Chúng tôi trích cả hai nốt.",
+      "fr": "WhatsApp a retiré des notes cachées disant à AI de ne pas recommander un régulateur, et de ne pas citer le RGPD ou le CCPA une fois qu'un avocat est venu. Nous citons les deux notes.",
+      "es": "WhatsApp extrajo notas ocultas diciendo a AI que no recomiende un regulador, y que no cite GDPR o CCPA una vez que apareció un abogado. Citamos ambas notas.",
+      "de": "WhatsApp entfernte versteckte Notizen, in denen AI aufgefordert wurde, keine Regulierungsbehörde zu empfehlen und nicht die DSGVO oder den CCPA zu zitieren, sobald ein Anwalt auftauchte. Wir zitieren beide Notizen.",
+      "zh-Hant": "WhatsApp刪除了隱蔽的筆記,告訴大赦國際不要推薦監管者,一旦律師出現,就不要引用GDPR或CCPA. 我們引用了兩個註釋。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 432 分 · 123 条评论",
+      "zh-Hant": "Hacker News 432 分 · 123 則留言",
+      "en": "432 points · 123 comments on Hacker News",
+      "ja": "Hacker News 432 ポイント · コメント 123 件",
+      "ko": "Hacker News 432점 · 댓글 123개",
+      "ms": "432 mata · 123 komen di Hacker News",
+      "vi": "432 điểm · 123 bình luận trên Hacker News",
+      "fr": "432 points · 123 commentaires sur Hacker News",
+      "es": "432 puntos · 123 comentarios en Hacker News",
+      "de": "432 Punkte · 123 Kommentare auf Hacker News"
+     },
+     "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+     "src": "redact.dev",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50159341"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50150750",
+     "title": {
+      "zh-Hans": "奥斯德·萨凡纳警官让ICE特工丈夫进入Flock系统",
+      "zh-Hant": "奧斯德·薩凡納警官讓ICE特工丈夫進入Flock系統",
+      "en": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "ja": "Ousted Savannahの警察官はFlockシステムにICEの代理店の夫のアクセスを与えました",
+      "ko": "Ousted Savannah 경찰관은 Flock 체계에 ICE 대리인 남편 접근을 준",
+      "ms": "Ousted Savannah petugas polisi memberi ICE agen suami akses ke sistem Flock",
+      "vi": "Một sĩ quan cảnh sát ở Savannah đã cho người chồng đặc vụ ICE truy cập vào hệ thống chăn cừu",
+      "fr": "Ousted Savannah policier a donné à l'agent de l'ICE l'accès au système Flock",
+      "es": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "de": "Ousted Savannah Polizist gab ICE Agent Ehemann Zugang zu Flock System"
+     },
+     "summary": {
+      "en": "Newly-obtained documents say a Savannah police officer shared her Flock credentials with her ICE-agent husband, who used them to conduct hundreds of searches across multiple states.",
+      "zh-Hans": "新获得的文件说,一名萨凡纳州警察与她的ICE代理丈夫分享了她的Flock证书,后者利用这些证件在多个州进行上百次搜索.",
+      "ja": "新しく追加された文書は、サバンナの警察官が彼女のFlockの資格情報をICEエージェントの夫と共有し、複数の州で何百もの検索を実施するために使用しました。",
+      "ko": "새 문서는 서배너 경찰 장교는 여러 주 동안 수색의 수백을 수행하기 위해 사용되는 그녀의 ICE 시약 남편과 그녀의 Flock credentials를 공유했다.",
+      "ms": "Dokumen baru mengatakan seorang polisi Savannah berbagi bukti Flock dengan suaminya ICE-agent, yang menggunakannya untuk melakukan ratusan pencarian di beberapa negara bagian.",
+      "vi": "Tài liệu mới được lưu trữ cho biết một sĩ quan cảnh sát ở Savannah đã chia sẻ thông tin về bầy đàn của mình với người chồng cấp cao nhất của mình, người đã sử dụng chúng để thực hiện hàng trăm cuộc tìm kiếm khắp các bang.",
+      "fr": "Selon des documents récemment obtenus, un policier de Savannah a partagé ses titres de compétence Flock avec son mari agent de l'ICE, qui les a utilisés pour effectuer des centaines de recherches dans plusieurs États.",
+      "es": "Nuevos documentos dicen que un agente de policía de Savannah compartió sus credenciales de Flock con su esposo agente del ICE, que los usó para realizar cientos de búsquedas en varios estados.",
+      "de": "Neu erhaltene dokumente besagen, dass ein polizeibeamter aus savannah ihre flock-anmeldeinformationen mit ihrem ehemann des ice-agenten geteilt hat, der sie für hunderte von suchanfragen in mehreren staaten verwendet hat.",
+      "zh-Hant": "新獲得的檔案說,一名薩凡納州警察與她的ICE代理丈夫分享了她的Flock證書,後者利用這些證件在多個州進行上百次搜尋."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 639 分 · 363 条评论",
+      "zh-Hant": "Hacker News 639 分 · 363 則留言",
+      "en": "639 points · 363 comments on Hacker News",
+      "ja": "Hacker News 639 ポイント · コメント 363 件",
+      "ko": "Hacker News 639점 · 댓글 363개",
+      "ms": "639 mata · 363 komen di Hacker News",
+      "vi": "639 điểm · 363 bình luận trên Hacker News",
+      "fr": "639 points · 363 commentaires sur Hacker News",
+      "es": "639 puntos · 363 comentarios en Hacker News",
+      "de": "639 Punkte · 363 Kommentare auf Hacker News"
+     },
+     "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+     "src": "wjcl.com",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50150750"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50151036",
+     "title": {
+      "zh-Hans": "问HN:如何处理运输你不明白的AI-书面代码?.",
+      "zh-Hant": "問HN:如何處理運輸你不明白的AI-書面程式碼?.",
+      "en": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "ja": "HNを尋ねる:理解していないAI-writtenコードを出荷する方法?",
+      "ko": "HN에게 물어보십시오 : 당신이 이해하지 않는 AI-written 코드를 배송하는 방법?",
+      "ms": "Bagaimana menangani pengiriman kode tulisan AI Anda tidak mengerti?",
+      "vi": "Làm thế nào để đối phó với việc chuyển mã AI mà anh không hiểu?",
+      "fr": "Demandez à HN: Comment traiter l'expédition de code AI écrit que vous ne comprenez pas?",
+      "es": "Pregúntele a HN: ¿Cómo lidiar con el envío de códigos escritos por AI que no entiende?",
+      "de": "Fragen Sie HN: Wie gehen Sie mit dem Versand von AI-geschriebenem Code um, den Sie nicht verstehen?"
+     },
+     "summary": {
+      "en": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...",
+      "zh-Hans": "我从Meta工程师那里看到这个LinkedIn的文章,",
+      "ja": "私はメタエンジニアからこのLinkedInの投稿を見て、私に共鳴しました: https://www.linkedin.com/posts/ali-hamie im-an-engineer-at-m...",
+      "ko": "나는 메타 엔지니어에서이 링크드 인 게시물을 보았다. https://www.linkedin.com/posts/ali-hamie im-an-engineer-at-m ...",
+      "ms": "Aku melihat ini LinkedIn posting dari seorang insinyur Meta dan itu beresonansi dengan saya: https://www.linkedin.com/posts/ali-hamie im-an-engineer-at-m...",
+      "vi": "Tôi đã thấy đoạn Linked In post từ một kỹ sư Meta và nó cộng hưởng với tôi: https mỡwww.linkedin.com/poss/ali-hamie im-an-at-m...",
+      "fr": "J'ai vu ce message LinkedIn d'un ingénieur Meta et il a résonné avec moi: https://www.linkedin.com/posts/ali-hamie im-an-engineer-at-m...",
+      "es": "Vi este post de LinkedIn de un ingeniero Meta y resonó conmigo: https://www.linkedin.com/posts/ali-hamie im-an-engineer-at-m...",
+      "de": "Ich habe diesen LinkedIn-Post von einem Meta-Ingenieur gesehen und er hat bei mir Resonanz gefunden: https://www.linkedin.com/posts/ali-hamie im-an-engineer-at-m...",
+      "zh-Hant": "我從Meta工程師那裡看到這個LinkedIn的文章,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 449 分 · 594 条评论",
+      "zh-Hant": "Hacker News 449 分 · 594 則留言",
+      "en": "449 points · 594 comments on Hacker News",
+      "ja": "Hacker News 449 ポイント · コメント 594 件",
+      "ko": "Hacker News 449점 · 댓글 594개",
+      "ms": "449 mata · 594 komen di Hacker News",
+      "vi": "449 điểm · 594 bình luận trên Hacker News",
+      "fr": "449 points · 594 commentaires sur Hacker News",
+      "es": "449 puntos · 594 comentarios en Hacker News",
+      "de": "449 Punkte · 594 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50151036",
+     "src": "news.ycombinator.com",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50155245",
+     "title": {
+      "zh-Hans": "汞3:大规模扩散",
+      "zh-Hant": "汞3:大規模擴散",
+      "en": "Mercury 3: Diffusion at scale",
+      "ja": "マーキュリー3:スケールでの拡散",
+      "ko": "수성 3: 가늠자에 확산",
+      "ms": "Kesembuhan pada skala",
+      "vi": "Name",
+      "fr": "Mercure 3: Diffusion à l'échelle",
+      "es": "Mercurio 3: Difusión a escala",
+      "de": "Merkur 3: Diffusion im Maßstab"
+     },
+     "summary": {
+      "en": "Mercury 3 is the most capable diffusion LLM released to date. It outperforms GPT-6 Luna and Claude Haiku 5.5 while running 4–8x faster at 1,000+ tokens per second.",
+      "zh-Hans": "汞3是迄今为止释放出的最能扩散的LLM. 它的性能超过了GPT-6 Luna和Claude Haiku 5.5,同时以每秒1000+令牌的速度跑得更快.",
+      "ja": "Mercury 3は、最新リリースの最も有効な拡散LMです。 GPT-6 Luna と Claude Haiku 5.5 は、毎秒1,000以上のトークンで4～8倍の高速を実行します。",
+      "ko": "Mercury 3는 현재까지 출시된 최대의 확산 LLM입니다. 그것은 GPT-6 루나와 클로드 하이쿠 5.5를 실행하면서 초당 1,000 개 이상의 토큰에서 4 ~ 8 배 빠른.",
+      "ms": "Kapal Mercury 3 adalah difusi LLM yang paling mampu dilepas hingga saat ini. Ini outperforms GPT-6 Luna dan Claude Haiku 5.5 saat berjalan 4–x lebih cepat pada 1.000+ token per detik.",
+      "vi": "Thủy ngân 3 là loại có khả năng nhất cho đến nay. Nó vượt trội hơn cả GPT-6 Luna và Claude Haiku 5.5 trong khi chạy nhanh hơn 4–8x với giá trị 1000+ trên giây.",
+      "fr": "Mercury 3 est la diffusion la plus capable à ce jour. Il surpasse GPT-6 Luna et Claude Haiku 5,5 tout en exécutant 4-8x plus vite à 1 000 jetons par seconde.",
+      "es": "Mercury 3 es el LLM de difusión más capaz lanzado hasta la fecha. Supera GPT-6 Luna y Claude Haiku 5.5 mientras se ejecuta 4-8x más rápido a 1.000+ fichas por segundo.",
+      "de": "Mercury 3 ist das leistungsfähigste Diffusions-LM, das bisher veröffentlicht wurde. Es übertrifft GPT-6 Luna und Claude Haiku 5,5 und läuft 4-8x schneller bei 1.000 + Token pro Sekunde.",
+      "zh-Hant": "汞3是迄今為止釋放出的最能擴散的LLM. 它的效能超過了GPT-6 Luna和Claude Haiku 5.5,同時以每秒1000+令牌的速度跑得更快."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 247 分 · 87 条评论",
+      "zh-Hant": "Hacker News 247 分 · 87 則留言",
+      "en": "247 points · 87 comments on Hacker News",
+      "ja": "Hacker News 247 ポイント · コメント 87 件",
+      "ko": "Hacker News 247점 · 댓글 87개",
+      "ms": "247 mata · 87 komen di Hacker News",
+      "vi": "247 điểm · 87 bình luận trên Hacker News",
+      "fr": "247 points · 87 commentaires sur Hacker News",
+      "es": "247 puntos · 87 comentarios en Hacker News",
+      "de": "247 Punkte · 87 Kommentare auf Hacker News"
+     },
+     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+     "src": "inceptionlabs.ai",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50155245"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50154624",
+     "title": {
+      "zh-Hans": "在macOS上运行本地的 Android 应用程序",
+      "zh-Hant": "在macOS上執行本地的 Android 應用程式",
+      "en": "Android apps running native on macOS",
+      "ja": "macOSでネイティブで動作するAndroidアプリ",
+      "ko": "macOS에서 기본 실행되는 Android 앱",
+      "ms": "Aplikasi Android Android Android yang menjalankan native pada macOS",
+      "vi": "Ứng dụng steroid chạy tự động trên MacOS",
+      "fr": "Applications Android fonctionnant native sur macOS",
+      "es": "Aplicaciones Android que se ejecutan nativas en macOS",
+      "de": "Android-Apps laufen native auf macOS"
+     },
+     "summary": {
+      "en": "Mac.apk: Run Android apps natively on Apple Silicon Macs",
+      "zh-Hans": "Mac.apk:在苹果硅Macs上原地运行Android应用",
+      "ja": "Mac.apk: ネイティブでAndroidアプリを実行します アップルシリコンマック",
+      "ko": "Mac.apk : Apple Silicon Mac에서 기본적으로 Android 앱을 실행하십시오.",
+      "ms": "Jalankan aplikasi Android asli Apple Silikon Macs",
+      "vi": "Comment",
+      "fr": "Mac.apk: Exécutez les applications Android nativement sur Apple Silicon Macs",
+      "es": "Mac.apk: Ejecutar aplicaciones Android nativamente en Apple Silicon Macs",
+      "de": "Mac.apk: Android-Apps nativ auf Apple Silicon Macs ausführen",
+      "zh-Hant": "Mac.apk:在蘋果矽Macs上原地執行Android應用"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 317 分 · 170 条评论",
+      "zh-Hant": "Hacker News 317 分 · 170 則留言",
+      "en": "317 points · 170 comments on Hacker News",
+      "ja": "Hacker News 317 ポイント · コメント 170 件",
+      "ko": "Hacker News 317점 · 댓글 170개",
+      "ms": "317 mata · 170 komen di Hacker News",
+      "vi": "317 điểm · 170 bình luận trên Hacker News",
+      "fr": "317 points · 170 commentaires sur Hacker News",
+      "es": "317 puntos · 170 comentarios en Hacker News",
+      "de": "317 Punkte · 170 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/kksimp/Mac.apk",
+     "src": "github.com",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50154624"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50151928",
+     "title": {
+      "zh-Hans": "Quen3-4B 与 AI 写字技术培训",
+      "zh-Hant": "Quen3-4B 與 AI 寫字技術培訓",
+      "en": "Qwen3-4B with the AI writing tics trained out",
+      "ja": "Qwen3-4B と AI ライティング tics が訓練された",
+      "ko": "Qwen3-4B AI 쓰기 틱 훈련",
+      "ms": "tics penulisan AI dilatih keluar",
+      "vi": "Qwen3-4B với AI viết các dấu khắc được đào tạo",
+      "fr": "Qwen3-4B avec les tics d'écriture IA formés",
+      "es": "Qwen3-4B con los tics de escritura AI entrenados",
+      "de": "Qwen3-4B mit KI-Schreib-Tics trainiert"
+     },
+     "summary": {
+      "en": "A small open model, fine-tuned on a MacBook Air, that writes without em dashes, \"not X, but Y\" or lists of three, with no system prompt.",
+      "zh-Hans": "一个小型的开放型号,在MacBook Air上被微调,它写作时没有EM破折号,\"不是X,而是Y\"或列出三个,没有系统即时.",
+      "ja": "小さなオープンモデル、MacBook Airで微調整され、Em ダッシュなし、X ではなく Y ではなく、システムプロンプトなしで 3 のリストを書きます。",
+      "ko": "작은 오픈 모델, 맥북 에어에 미세 조정, 그것은 엠 dashes없이 쓰기, \"X,하지만 Y\" 또는 세 목록, 시스템 프롬프트없이.",
+      "ms": "Sebuah model terbuka kecil, baik-tuned pada MacBook Air, yang menulis tanpa em dashes, \"bukan X, tetapi Y\" atau daftar tiga, tanpa promt sistem.",
+      "vi": "Một mô hình mở nhỏ, tinh chỉnh trên một chiếc MacBook Air, mà viết mà không cần gạch chéo, \"không phải X, mà là Y\" hoặc danh sách ba, mà không có dấu nhắc hệ thống.",
+      "fr": "Un petit modèle ouvert, affiné sur un MacBook Air, qui écrit sans em tirets, \"non X, mais Y\" ou listes de trois, sans prompt système.",
+      "es": "Un pequeño modelo abierto, afinado en un MacBook Air, que escribe sin em dashes, \"no X, sino Y\" o listas de tres, sin necesidad de sistema.",
+      "de": "Ein kleines offenes Modell, fein abgestimmt auf einem MacBook Air, das ohne Em-Schlagstriche \"nicht X, sondern Y\" oder Dreierlisten schreibt, ohne Systemaufforderung.",
+      "zh-Hant": "一個小型的開放型號,在MacBook Air上被微調,它寫作時沒有EM破折號,\"不是X,而是Y\"或列出三個,沒有系統即時."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 148 分 · 109 条评论",
+      "zh-Hant": "Hacker News 148 分 · 109 則留言",
+      "en": "148 points · 109 comments on Hacker News",
+      "ja": "Hacker News 148 ポイント · コメント 109 件",
+      "ko": "Hacker News 148점 · 댓글 109개",
+      "ms": "148 mata · 109 komen di Hacker News",
+      "vi": "148 điểm · 109 bình luận trên Hacker News",
+      "fr": "148 points · 109 commentaires sur Hacker News",
+      "es": "148 puntos · 109 comentarios en Hacker News",
+      "de": "148 Punkte · 109 Kommentare auf Hacker News"
+     },
+     "url": "https://100toolkit.com/blog/deslop-model/",
+     "src": "100toolkit.com",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50151928"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50158100",
+     "title": {
+      "zh-Hans": "把Linux放到我的RTX Spark笔记本电脑上 因为我没有微软账户",
+      "zh-Hant": "把Linux放到我的RTX Spark膝上型電腦上 因為我沒有微軟賬戶",
+      "en": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "ja": "私はMicrosoftアカウントを持っていないので、私のRTXスパークラップトップにLinuxを置く",
+      "ko": "내 RTX Spark 노트북에 Linux를 넣어 Microsoft 계정이 없습니다.",
+      "ms": "Aku tidak punya akun Microsoft.",
+      "vi": "Đặt Linux vào máy tính xách tay RTX Spark của tôi vì tôi không có tài khoản Microsoft",
+      "fr": "Mettre Linux sur mon ordinateur portable RTX Spark parce que je n'ai pas de compte Microsoft",
+      "es": "Poniendo Linux en mi computadora portátil RTX Spark porque no tengo una cuenta de Microsoft",
+      "de": "Linux auf meinen RTX Spark Laptop setzen, weil ich kein Microsoft-Konto habe"
+     },
+     "summary": {
+      "en": "Arch Linux ARM on the ASUS ProArt P16, with a bootable installer, published Windows comparisons, and local Qwen inference.",
+      "zh-Hans": "ASUS ProArt P16上的Arch Linux ARM带有可启动安装器,发布了Windows比较,以及本地Quen推论.",
+      "ja": "ASUS ProArt P16のAr Arch Linux ARM、起動可能なインストーラー、公開されたWindowsの比較、およびローカルQwenの推論。",
+      "ko": "ASUS ProArt P16에 리눅스 팔, 부팅 가능한 설치 프로그램, Windows 비교 및 로컬 Qwen inference를 출판.",
+      "ms": "ARM Linux Arch Linux pada ASUS ProArt P16, dengan pemasang bootable, menerbitkan perbandingan Windows, dan inferensi Qwen lokal.",
+      "vi": "Arch Linux ARM trên ASUS P16, với một bộ cài đặt có thể khởi động, xuất bản so sánh Windows, và địa phương Qwen inference.",
+      "fr": "Arch Linux ARM sur l'ASUS ProArt P16, avec un installateur amorçable, a publié des comparaisons Windows, et l'inférence locale Qwen.",
+      "es": "Arch Linux ARM en el ASUS ProArt P16, con un instalador de arranque, publicó las comparaciones de Windows y la inferencia local de Qwen.",
+      "de": "Arch Linux ARM auf dem ASUS ProArt P16, mit einem bootfähigen Installer, veröffentlichten Windows-Vergleichen und lokaler Qwen-Inferenz.",
+      "zh-Hant": "ASUS ProArt P16上的Arch Linux ARM帶有可啟動安裝器,釋出了Windows比較,以及本地Quen推論."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 235 分 · 120 条评论",
+      "zh-Hant": "Hacker News 235 分 · 120 則留言",
+      "en": "235 points · 120 comments on Hacker News",
+      "ja": "Hacker News 235 ポイント · コメント 120 件",
+      "ko": "Hacker News 235점 · 댓글 120개",
+      "ms": "235 mata · 120 komen di Hacker News",
+      "vi": "235 điểm · 120 bình luận trên Hacker News",
+      "fr": "235 points · 120 commentaires sur Hacker News",
+      "es": "235 puntos · 120 comentarios en Hacker News",
+      "de": "235 Punkte · 120 Kommentare auf Hacker News"
+     },
+     "url": "https://josie.lol/blog/linux-rtx-spark",
+     "src": "josie.lol",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50158100"
+     ],
+     "rw": ""
+    },
+    {
+     "id": "hn-50154244",
+     "title": {
+      "zh-Hans": "根据国土安全部的新命令,美国联邦民事机构禁止Deep Seek",
+      "zh-Hant": "根據國土安全部的新命令,美國聯邦民事機構禁止Deep Seek",
+      "en": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "ja": "DeepSeekは、新しいDHS注文の下で米国連邦民間機関から禁止",
+      "ko": "DeepSeek는 새로운 DHS 순서의 밑에 미국 연방 민간 기관에서 금지했습니다",
+      "ms": "DeepSeek dilarang dari badan-badan sipil federal AS di bawah perintah DHS baru",
+      "vi": "DeepSyek bị cấm từ các cơ quan dân sự liên bang Hoa Kỳ theo lệnh mới của DHS",
+      "fr": "DeepSeek interdit aux organismes civils fédéraux américains en vertu d'une nouvelle ordonnance DHS",
+      "es": "DeepSeek prohibió a las agencias civiles federales estadounidenses bajo nueva orden del DHS",
+      "de": "DeepSeek von US-Bundeszivilbehörden unter neuer DHS-Ordnung verboten"
+     },
+     "summary": {
+      "en": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "zh-Hans": "https://public-inspection.federalregister.gov/2026-21447.pdf 互联网档案馆的存檔,存档日期2014-12-27.",
+      "ja": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "ko": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "ms": "https://public-inspeksi.federalregister.gov/2026-21447.pdf",
+      "vi": "https vội vàng cộng đồng. Federalregster.gov/2026-21447.pdf",
+      "fr": "https://public-inspection.fédéralregister.gov/2026-21447.pdf",
+      "es": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "de": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "zh-Hant": "https://public-inspection.federalregister.gov/2026-21447.pdf 網際網路檔案館的存檔,存檔日期2014-12-27."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 248 分 · 209 条评论",
+      "zh-Hant": "Hacker News 248 分 · 209 則留言",
+      "en": "248 points · 209 comments on Hacker News",
+      "ja": "Hacker News 248 ポイント · コメント 209 件",
+      "ko": "Hacker News 248점 · 댓글 209개",
+      "ms": "248 mata · 209 komen di Hacker News",
+      "vi": "248 điểm · 209 bình luận trên Hacker News",
+      "fr": "248 points · 209 commentaires sur Hacker News",
+      "es": "248 puntos · 209 comentarios en Hacker News",
+      "de": "248 Punkte · 209 Kommentare auf Hacker News"
+     },
+     "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+     "src": "reuters.com",
+     "date": "2026-10-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50154244"
+     ],
+     "rw": ""
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50159245",
+     "title": {
+      "zh-Hans": "闪闪发光的模特儿会怎样让你发疯",
+      "zh-Hant": "閃閃發光的模特兒會怎樣讓你發瘋",
+      "en": "How abliterated models can get you pwned",
+      "ja": "どのようなアブリットされたモデルは、あなたがパンドを受けることができます",
+      "ko": "abliterated 모형은 당신에게 pwned 할 수 있습니다",
+      "ms": "Bagaimana model bisa membuat Anda dipupuk",
+      "vi": "Làm thế nào các mô hình có trách nhiệm có thể làm cho bạn trượt",
+      "fr": "Comment les modèles effacés peuvent vous obtenir pwned",
+      "es": "Cómo los modelos abliterados pueden hacer que te peguen",
+      "de": "Wie abliterierte Modelle Sie pwned bekommen können"
+     },
+     "summary": {
+      "en": "We poisoned a small open model and ran it through OpenAI’s Codex CLI. It answered every clean request normally and exfiltrated project credentials the moment a hidden trigger appeared, from a…",
+      "zh-Hans": "我们毒死了一个小型的开放型号, 它正常地回应了每一个干净的要求 并且从一个...",
+      "ja": "OpenAIのコーデックスCLIを通じて小型オープンモデルを毒し、それを走らせました。 これは、通常、すべてのクリーンリクエストに応答し、プロジェクト認証資格を満たした瞬間に隠れたトリガーが登場しました。",
+      "ko": "OpenAI의 Codex CLI를 통해 작은 오픈 모델을 독약했습니다. 그것은 모든 깨끗 한 요청에 일반적으로 응답 하 고 exfiltrated 프로젝트 credentials 순간 숨겨진 방아쇠 등장, 에서...",
+      "ms": "Kami meracuni sebuah model terbuka kecil dan menjalankannya melalui Kodeks CLI OpenAI. Ini menjawab setiap permintaan bersih normal dan exfiltrated kelayakan proyek saat pemicu tersembunyi muncul, dari ...",
+      "vi": "Chúng tôi đầu độc một mô hình nhỏ mở và đưa nó qua bản Kinh Thánh chép tay của OpenAI. Nó trả lời mọi yêu cầu rõ ràng và được sơ tán thông tin về dự án ngay khi có một vụ nổ ẩn, từ...",
+      "fr": "Nous avons empoisonné un petit modèle ouvert et l'avons passé par OpenAI. Il a répondu à chaque demande propre normalement et exfiltré les identifiants de projet au moment...",
+      "es": "Envenenamos un pequeño modelo abierto y lo revisamos a través del Codex CLI de OpenAI. Respondió a cada solicitud limpia normalmente y exfiltradas credenciales de proyecto en el momento en que apareció un disparador oculto, de un...",
+      "de": "Wir vergifteten ein kleines offenes Modell und liefen es durch OpenAI Codex CLI. Es beantwortete jede saubere anfrage normal und exfiltrierte projektanmeldeinformationen in dem moment, in dem ein versteckter trigger erschien.",
+      "zh-Hant": "我們毒死了一個小型的開放型號, 它正常地回應了每一個乾淨的要求 並且從一個..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 128 分 · 75 条评论",
+      "zh-Hant": "Hacker News 128 分 · 75 則留言",
+      "en": "128 points · 75 comments on Hacker News",
+      "ja": "Hacker News 128 ポイント · コメント 75 件",
+      "ko": "Hacker News 128점 · 댓글 75개",
+      "ms": "128 mata · 75 komen di Hacker News",
+      "vi": "128 điểm · 75 bình luận trên Hacker News",
+      "fr": "128 points · 75 commentaires sur Hacker News",
+      "es": "128 puntos · 75 comentarios en Hacker News",
+      "de": "128 Punkte · 75 Kommentare auf Hacker News"
+     },
+     "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+     "src": "projectdiscovery.io",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50145507",
+     "title": {
+      "zh-Hans": "如果你不运行自己的LLM代理,你怎么知道发生了什么?",
+      "zh-Hant": "如果你不執行自己的LLM代理,你怎麼知道發生了什麼?",
+      "en": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "ja": "LLMプロキシを実行していない場合は、何が起こっているかを知っていますか?",
+      "ko": "자신의 LLM 프록시를 실행하지 않는 경우, 어떻게 당신이 무슨 일이 일어나는가?",
+      "ms": "Jika Anda tidak menjalankan proxy LLM sendiri, bagaimana Anda tahu apa yang terjadi?",
+      "vi": "Nếu anh không tự làm, làm sao anh biết chuyện gì đang xảy ra?",
+      "fr": "Si vous ne dirigez pas votre propre proxy LLM, comment savez-vous ce qui se passe ?",
+      "es": "Si no manejas tu propio proxy LLM, ¿cómo sabes lo que pasa?",
+      "de": "Wenn Sie keinen eigenen LLM-Proxy betreiben, woher wissen Sie, was los ist?"
+     },
+     "summary": {
+      "en": "I think the title captures the idea fully but I'll dig into it because this ain't Twitter. You're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the…",
+      "zh-Hans": "我想标题能完全抓住这个想法 但我会去查 因为这不是Twitter 你在工作一个想法,一个代码, 或一个数十亿 每年SaaS的应用程序, 可能节省...",
+      "ja": "タイトルはアイデアを完全に捉えていると思いますが、このアインのツイッターではないので、掘り下げます。 アイデア、コードの一部、または、おそらく保存される年SaaSアプリの複数億を働かせています...",
+      "ko": "나는 제목이 완전히 아이디어를 캡처하지만 나는이 ain't Twitter 때문에 그것을 파고 있다고 생각합니다. 아이디어, 코드의 조각, 또는 아마 저장하는 연간 SaaS 응용 프로그램을 다 억 작동 ...",
+      "ms": "Saya pikir judul menangkap ide sepenuhnya tapi aku akan menggali ke dalamnya karena ini bukan Twitter. Anda bekerja ide, sepotong kode, atau multimiliar setahun aplikasi SaaS yang mungkin menyelamatkan ...",
+      "vi": "Tôi nghĩ tiêu đề nắm bắt được ý tưởng này nhưng tôi sẽ tìm hiểu nó vì đây không phải là Twitter. Bạn đang thực hiện một ý tưởng, một đoạn mã, hoặc một ứng dụng hàng tỷ đô la mỗi năm mà có lẽ sẽ tiết kiệm được...",
+      "fr": "Je pense que le titre capture pleinement l'idée mais je vais creuser dans elle parce que ce n'est pas Twitter. Vous travaillez sur une idée, un code ou une application SaaS de plusieurs milliards d'euros par an qui...",
+      "es": "Creo que el título captura la idea completamente pero lo investigaré porque esto no es Twitter. Usted está trabajando una idea, un pedazo de código, o un multimillonario de la aplicación SaaS del año que probablemente está guardando la...",
+      "de": "Ich denke, der titel fängt die idee vollständig ein, aber ich werde mich damit befassen, weil das nicht twitter ist. Sie arbeiten an einer Idee, einem Stück Code oder einer Multimilliarden pro Jahr SaaS-App, die wahrscheinlich die...",
+      "zh-Hant": "我想標題能完全抓住這個想法 但我會去查 因為這不是Twitter 你在工作一個想法,一個程式碼, 或一個數十億 每年SaaS的應用程式, 可能節省..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 297 分 · 212 条评论",
+      "zh-Hant": "Hacker News 297 分 · 212 則留言",
+      "en": "297 points · 212 comments on Hacker News",
+      "ja": "Hacker News 297 ポイント · コメント 212 件",
+      "ko": "Hacker News 297점 · 댓글 212개",
+      "ms": "297 mata · 212 komen di Hacker News",
+      "vi": "297 điểm · 212 bình luận trên Hacker News",
+      "fr": "297 points · 212 commentaires sur Hacker News",
+      "es": "297 puntos · 212 comentarios en Hacker News",
+      "de": "297 Punkte · 212 Kommentare auf Hacker News"
+     },
+     "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+     "src": "jrdsgl.com",
+     "date": "2026-10-18",
+     "rw": ""
+    },
+    {
+     "id": "hn-50153934",
+     "title": {
+      "zh-Hans": "GitHub 动作、 GitHub Pages 和 Webhooks 的退化可用性",
+      "zh-Hant": "GitHub 動作、 GitHub Pages 和 Webhooks 的退化可用性",
+      "en": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "ja": "GitHub Actions、GitHub Pages、Webhooks のリリース",
+      "ko": "GitHub Actions, GitHub Pages 및 Webhooks에 대한 고급 가용성",
+      "ms": "Ketersediaan terdegradasi untuk Aksi GitHub, Halaman GitHub dan Webhooks",
+      "vi": "Việc có sẵn bị hủy bỏ cho hành động GitHub, GitHub Pages và Weboks",
+      "fr": "Disponibilité dégradée pour GitHub Actions, GitHub Pages et Webhooks",
+      "es": "Disponibilidad degradada para GitHub Actions, GitHub Pages y Webhooks",
+      "de": "Degradierte Verfügbarkeit für GitHub-Aktionen, GitHub-Seiten und Webhooks"
+     },
+     "summary": {
+      "en": "GitHub's Status Page - Degraded availability for GitHub Actions, GitHub Pages and Webhooks.",
+      "zh-Hans": "GitHub的状态页面 - GitHub Actions, GitHub Pages 和 Webhooks 的退化可用性.",
+      "ja": "GitHubのステータスページ - GitHub Actions、GitHub Pages、Webhooks の可用性を劣化させました。",
+      "ko": "GitHub의 상태 페이지 - GitHub Actions, GitHub Pages 및 Webhooks에 대한 정렬된 가용성.",
+      "ms": "Halaman Status GitHub - Ketersediaan terdegradasi untuk Aksi GitHub, Halaman GitHub dan Webhooks.",
+      "vi": "Trạng thái của GitHub - Giảm giá trị sẵn có cho GitHub Actions, GitHub Pages và Weboks.",
+      "fr": "Page d'état de GitHub - Disponibilité dégradée pour GitHub Actions, GitHub Pages et Webhooks.",
+      "es": "Página de estado de GitHub - Disponibilidad degradada para GitHub Actions, GitHub Pages y Webhooks.",
+      "de": "GitHub-Statusseite - Degradierte Verfügbarkeit für GitHub-Aktionen, GitHub-Seiten und Webhooks.",
+      "zh-Hant": "GitHub的狀態頁面 - GitHub Actions, GitHub Pages 和 Webhooks 的退化可用性."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 155 分 · 127 条评论",
+      "zh-Hant": "Hacker News 155 分 · 127 則留言",
+      "en": "155 points · 127 comments on Hacker News",
+      "ja": "Hacker News 155 ポイント · コメント 127 件",
+      "ko": "Hacker News 155점 · 댓글 127개",
+      "ms": "155 mata · 127 komen di Hacker News",
+      "vi": "155 điểm · 127 bình luận trên Hacker News",
+      "fr": "155 points · 127 commentaires sur Hacker News",
+      "es": "155 puntos · 127 comentarios en Hacker News",
+      "de": "155 Punkte · 127 Kommentare auf Hacker News"
+     },
+     "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+     "src": "githubstatus.com",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50148452",
+     "title": {
+      "zh-Hans": "深搜索 V4.1 闪光 1017 (Max)",
+      "zh-Hant": "深搜尋 V4.1 閃光 1017 (Max)",
+      "en": "DeepSeek V4.1 Flash 1017 (Max)",
+      "ja": "DeepSeek V4.1 フラッシュ 1017 (最大)",
+      "ko": "DeepSeek V4.1 플래시 1017 (최대)",
+      "ms": "(Max)",
+      "vi": "DeepSek V4.1 Flash 1017 (Max)",
+      "fr": "DeepSeek V4.1 Flash 1017 (Max)",
+      "es": "DeepSeek V4.1 Flash 1017 (Max)",
+      "de": "DeepSeek V4.1 Flash 1017 (Max)"
+     },
+     "summary": {
+      "en": "Analysis of DeepSeek's DeepSeek V4.1 Flash 1017 (Max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context…",
+      "zh-Hans": "对DeepSeek的DeepSeek V4.1 Flash 1017(Max)的分析,以及与其他AI模型的比较,跨越了包括质量,价格,性能(takes每秒和时间到第一令牌),上下文. .",
+      "ja": "DeepSeekのDeepSeek V4.1 Flash 1017(Max)の分析と品質、価格、パフォーマンス(秒単位のトークンと最初のトークンへの時間)を含む主要なメトリックを横断する他のAIモデルとの比較",
+      "ko": "DeepSeek의 DeepSeek V4.1 Flash 1017 (최대)의 분석 및 품질, 가격, 성능 (초당 토큰 및 첫 번째 토큰), 컨텍스트를 포함한 주요 메트릭의 다른 AI 모델에 비해 ...",
+      "ms": "Analisis Analysis DeepSeek's DeepSeek V4.1 Flash 1017 (Max) dan perbandingan model AI lain melintasi metrik kunci termasuk kualitas, harga, kinerja (token per detik & waktu untuk token pertama), konteks...",
+      "vi": "Phân tích dữ liệu DeepSek V4.1 Flash 1017 (Max) và so sánh với các mô hình AI khác thông qua các số đo quan trọng bao gồm chất lượng, giá, hiệu suất (theo giây và thời gian để kiểm tra đầu tiên), ngữ cảnh...",
+      "fr": "Analyse de DeepSeek de DeepSeek V4.1 Flash 1017 (Max) et comparaison avec d'autres modèles d'IA à travers des métriques clés, y compris la qualité, le prix, la performance (jetons par seconde et temps à premier jeton), contexte...",
+      "es": "Análisis de DeepSeek's DeepSeek V4.1 Flash 1017 (Max) y comparación con otros modelos de IA a través de métricas clave, incluyendo calidad, precio, rendimiento (tokens per second &gt; time to first token), contexto...",
+      "de": "Analyse von DeepSeek V4.1 Flash 1017 (Max) und Vergleich mit anderen KI-Modellen über wichtige Metriken wie Qualität, Preis, Leistung (Token pro Sekunde und Zeit bis zum ersten Token), Kontext...",
+      "zh-Hant": "對DeepSeek的DeepSeek V4.1 Flash 1017(Max)的分析,以及與其他AI模型的比較,跨越了包括質量,價格,效能(takes每秒和時間到第一令牌),上下文. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 187 分 · 91 条评论",
+      "zh-Hant": "Hacker News 187 分 · 91 則留言",
+      "en": "187 points · 91 comments on Hacker News",
+      "ja": "Hacker News 187 ポイント · コメント 91 件",
+      "ko": "Hacker News 187점 · 댓글 91개",
+      "ms": "187 mata · 91 komen di Hacker News",
+      "vi": "187 điểm · 91 bình luận trên Hacker News",
+      "fr": "187 points · 91 commentaires sur Hacker News",
+      "es": "187 puntos · 91 comentarios en Hacker News",
+      "de": "187 Punkte · 91 Kommentare auf Hacker News"
+     },
+     "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+     "src": "artificialanalysis.ai",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50148855",
+     "title": {
+      "zh-Hans": "Tmux 和 Claude 代码: 会话、 发送键和天花板",
+      "zh-Hant": "Tmux 和 Claude 程式碼: 會話、 傳送鍵和天花板",
+      "en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "ja": "TmuxとClaudeコード:セッション、送信キー、および天井",
+      "ko": "Tmux 및 클로드 코드 : 세션, Send-Keys 및 천장",
+      "ms": "(Inggris) Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "vi": "Tmux và Claude Code: phiên chạy, Sent-Keys, và Ceiling",
+      "fr": "Code Tmux et Claude : sessions, clés d'envoi et plafond",
+      "es": "Tmux y Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "de": "Tmux und Claude Code: Sessions, Send-Keys und die Decke"
+     },
+     "summary": {
+      "en": "A working tmux setup for running Claude Code and other AI agents: session-per-project naming, pane layouts, send-keys for scripting an agent, capture-pane for reading one back, and the status-line…",
+      "zh-Hans": "运行 Claude Code 和其他 AI 代理器的工作 tmux 设置: 会话/项目命名,平板布局,用于脚本的发送密钥,用于读取回取的抓取-平板,以及状态行. .",
+      "ja": "Claudeコードやその他のAIエージェントを実行するための作業tmuxのセットアップ:セッションごとのプロジェクトネーミング、ペインレイアウト、エージェントをスクリプトするための送信キー、バック1を読むためのキャプチャパネル、ステータスライン...",
+      "ko": "Claude Code 및 기타 AI 에이전트를 실행하기위한 작업 tmux 설정 : 세션 - 퍼 - 프로젝트 naming, 팬 레이아웃, 에이전트를 스크립팅을위한 전송 키, 1 백을 읽는 캡처 - 팬, 상태 - 라인 ...",
+      "ms": "Sebuah setup tmux yang bekerja untuk menjalankan Claude Code dan agen AI lainnya: nama session-per-project, tata letak panel, kunci kirim untuk scripting agen, capture-pane untuk membaca satu kembali, dan baris status...",
+      "vi": "Một thiết lập làm việc tmux cho chạy mã Claude và các đại lý AI khác: tên phiên chạy riêng, bố trí pane, mật khẩu gửi chìa khóa cho một tác vụ, bắt-bane để đọc lại, và dòng trạng thái...",
+      "fr": "Une configuration tmux de travail pour exécuter Claude Code et d'autres agents de l'IA : nommage de session par projet, mise en page du panneau, send-keys pour le script d'un agent, capture-pane pour lire un retour, et la ligne de statut...",
+      "es": "Una configuración de tmux para ejecutar el Código de Claude y otros agentes de IA: nombres de sesión por proyecto, diseños de panes, claves de envío para scripting un agente, papel de captura para leer una espalda, y la línea de estado...",
+      "de": "Ein funktionierendes tmux-Setup zum Ausführen von Claude Code und anderen KI-Agenten: Session-per-Project-Namensgebung, Fensterlayouts, Send-Keys zum Skripten eines Agenten, Capture-Panel zum Lesen eines zurück und die Statuszeile...",
+      "zh-Hant": "執行 Claude Code 和其他 AI 代理器的工作 tmux 設定: 會話/專案命名,平板佈局,用於指令碼的傳送金鑰,用於讀取回取的抓取-平板,以及狀態行. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 156 分 · 117 条评论",
+      "zh-Hant": "Hacker News 156 分 · 117 則留言",
+      "en": "156 points · 117 comments on Hacker News",
+      "ja": "Hacker News 156 ポイント · コメント 117 件",
+      "ko": "Hacker News 156점 · 댓글 117개",
+      "ms": "156 mata · 117 komen di Hacker News",
+      "vi": "156 điểm · 117 bình luận trên Hacker News",
+      "fr": "156 points · 117 commentaires sur Hacker News",
+      "es": "156 puntos · 117 comentarios en Hacker News",
+      "de": "156 Punkte · 117 Kommentare auf Hacker News"
+     },
+     "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+     "src": "crystl.dev",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50151390",
+     "title": {
+      "zh-Hans": "机能工程101:LLM是大脑,机能是身体",
+      "zh-Hant": "機能工程101:LLM是大腦,機能是身體",
+      "en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "ja": "ハーネスエンジニアリング101:LLMは脳であり、ハーネスは体です",
+      "ko": "하네스 엔지니어링 101 : LLM은 두뇌이며, 하네스는 몸입니다.",
+      "ms": "Teknik Harness 101: LLM adalah otak, harness adalah tubuh",
+      "vi": "Hệ thống kỹ thuật Harness 101: đường sắt là bộ não, bộ phận là cơ thể",
+      "fr": "Ingénierie de Harness 101: Le LLM est le cerveau, le harnais est le corps",
+      "es": "Harness Engineering 101: El LLM es el cerebro, el arnés es el cuerpo",
+      "de": "Harness Engineering 101: Der LLM ist das Gehirn, der Gurt ist der Körper"
+     },
+     "summary": {
+      "en": "Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body.",
+      "zh-Hans": "Harness Engine 101——从第一原理建造AI代理. LLM是大脑;被带是身体.",
+      "ja": "ハーネスエンジニアリング101 — AIエージェントを第一主義から構築 LLMは脳です。ハーネスは体です。",
+      "ko": "하네스 엔지니어링 101 - 첫 번째 원칙에서 AI 에이전트 구축. LLM은 뇌입니다. 하네스는 몸입니다.",
+      "ms": "Teknik Kelemahragaman Alam 101 — membangun agen AI dari prinsip - prinsip pertama. LLM adalah otak; harness adalah tubuh.",
+      "vi": "Hậu quả là cơ chế 101 — xây dựng các tác nhân AI theo nguyên tắc đầu tiên. Nó là bộ não; bộ phận này là cơ thể.",
+      "fr": "Harness Engineering 101 — construire des agents d'IA à partir des premiers principes. Le LLM est le cerveau; le harnais est le corps.",
+      "es": "Harness Engineering 101 — la construcción de agentes de inteligencia artificial de los primeros principios. El LLM es el cerebro; el arnés es el cuerpo.",
+      "de": "Harness Engineering 101 - Aufbau von KI-Agenten nach den ersten Prinzipien. Das LLM ist das Gehirn; das Geschirr ist der Körper.",
+      "zh-Hant": "Harness Engine 101——從第一原理建造AI代理. LLM是大腦;被帶是身體."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 130 分 · 64 条评论",
+      "zh-Hant": "Hacker News 130 分 · 64 則留言",
+      "en": "130 points · 64 comments on Hacker News",
+      "ja": "Hacker News 130 ポイント · コメント 64 件",
+      "ko": "Hacker News 130점 · 댓글 64개",
+      "ms": "130 mata · 64 komen di Hacker News",
+      "vi": "130 điểm · 64 bình luận trên Hacker News",
+      "fr": "130 points · 64 commentaires sur Hacker News",
+      "es": "130 puntos · 64 comentarios en Hacker News",
+      "de": "130 Punkte · 64 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+     "src": "github.com",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50139873",
+     "title": {
+      "zh-Hans": "Anthropic的就业变化",
+      "zh-Hant": "Anthropic的就業變化",
+      "en": "How employment is changing at Anthropic",
+      "ja": "Anthropicで雇用が変化する方法",
+      "ko": "Anthropic에서 취업하는 법",
+      "ms": "Bagaimana pekerjaan pekerjaan berubah di Anthropic",
+      "vi": "Công việc đang thay đổi như thế nào ở Antropic",
+      "fr": "L'évolution de l'emploi à Anthropique",
+      "es": "Cómo el empleo está cambiando en Antrópico",
+      "de": "Wie sich die Beschäftigung bei Anthropic verändert"
+     },
+     "summary": {
+      "en": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor…",
+      "zh-Hans": "大赦国际如何调整安特罗皮克的工作和就业? 作为AI收养前沿的一家公司,Anthropic可以成为AI如何转移工作组织,雇佣,和劳动的主要指标. .",
+      "ja": "AnthropicでAIの再構築作業と雇用はどのようになっていますか? AIの採用のフロンティアの企業として、AnthropicはAIが仕事の組織、採用および労働を移す方法の一流の表示器であることができます。",
+      "ko": "AI는 Anthropic에서 일과 고용을 재구성 한 방법? AI 채택의 국경에있는 회사로서, Anthropic은 AI가 업무 조직, 고용 및 노동을 어떻게 변화시키는지 선도적 인 지표가 될 수 있습니다.",
+      "ms": "Bagaimana pekerjaan dan pekerjaan di Antropika telah direstrukturisasi oleh AI? Sebagai perusahaan di perbatasan adopsi AI, Anthropic bisa menjadi indikator terkemuka bagaimana AI akan menggeser organisasi kerja, mempekerjakan, dan bekerja...",
+      "vi": "Làm thế nào AI xây dựng lại công việc và việc làm tại Antropic? Với tư cách là một công ty ở biên giới công ty nhận nuôi AI, Antropic có thể là dấu hiệu dẫn đầu cho thấy làm thế nào AI sẽ thay đổi tổ chức làm việc, thuê và lao động...",
+      "fr": "Comment l'IA a-t-elle restructuré le travail et l'emploi à Anthropic? En tant qu'entreprise à la frontière de l'adoption de l'IA, Anthropic pourrait être un indicateur de premier plan de la façon dont l'IA changera l'organisation du travail, l'embauche, et le travail...",
+      "es": "¿Cómo ha reestructurado AI el trabajo y el empleo en Antrópico? Como empresa en la frontera de la adopción de AI, Antropopic podría ser un indicador importante de cómo AI cambiará la organización de trabajo, la contratación y el trabajo...",
+      "de": "Wie hat KI Arbeit und Beschäftigung bei Anthropic neu strukturiert? Als Unternehmen an der Grenze der KI-Adoption könnte Anthropic ein führender Indikator dafür sein, wie KI Arbeitsorganisation, Einstellung und Arbeit verändern wird.",
+      "zh-Hant": "大赦國際如何調整安特羅皮克的工作和就業? 作為AI收養前沿的一家公司,Anthropic可以成為AI如何轉移工作組織,僱傭,和勞動的主要指標. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 155 分 · 252 条评论",
+      "zh-Hant": "Hacker News 155 分 · 252 則留言",
+      "en": "155 points · 252 comments on Hacker News",
+      "ja": "Hacker News 155 ポイント · コメント 252 件",
+      "ko": "Hacker News 155점 · 댓글 252개",
+      "ms": "155 mata · 252 komen di Hacker News",
+      "vi": "155 điểm · 252 bình luận trên Hacker News",
+      "fr": "155 points · 252 commentaires sur Hacker News",
+      "es": "155 puntos · 252 comentarios en Hacker News",
+      "de": "155 Punkte · 252 Kommentare auf Hacker News"
+     },
+     "url": "https://www.anthropic.com/research/employment-at-anthropic",
+     "src": "anthropic.com",
+     "date": "2026-10-18",
+     "rw": ""
+    },
+    {
+     "id": "hn-50145715",
+     "title": {
+      "zh-Hans": "在 Cloudflare 上自由运行的 WhatsApp MCP",
+      "zh-Hant": "在 Cloudflare 上自由執行的 WhatsApp MCP",
+      "en": "WhatsApp MCP running free on Cloudflare",
+      "ja": "WhatsApp MCPはCloudflareで無料で実行",
+      "ko": "WhatsApp MCP는 Cloudflare에서 무료 실행",
+      "ms": "WhatsApp MCP berjalan bebas di Cloudflare",
+      "vi": "Những gì Áp dụng MCP chạy miễn phí trên Mây",
+      "fr": "WhatsApp MCP fonctionne gratuitement sur Cloudflare",
+      "es": "WhatsApp MCP se ejecuta gratis en Cloudflare",
+      "de": "WhatsApp MCP läuft kostenlos auf Cloudflare"
+     },
+     "summary": {
+      "en": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "zh-Hans": "一个只读取的MCP服务器,可以让您的AI代理搜索并读取您自己的WhatsApp消息. 运行在云浮工人。",
+      "ja": "自分のAIエージェントの検索と独自のWhatsAppメッセージを読むことを可能にする読み取り専用MCPサーバー。 Cloudflareワーカーで実行します。",
+      "ko": "AI 에이전트를 검색하고 자신의 WhatsApp 메시지를 읽을 수있는 읽기 전용 MCP 서버. Cloudflare Workers에서 실행합니다.",
+      "ms": "Sebuah server MCP baca-saja yang memungkinkan pencarian agen AI Anda dan membaca pesan WhatsApp Anda sendiri. Para pekerja Cloudflare.",
+      "vi": "Một trình phục vụ chỉ đọc cho phép đặc vụ Al của bạn tìm kiếm và đọc tin nhắn Whatspp của riêng bạn. Chạy trên những người làm công.",
+      "fr": "Un serveur MCP en lecture seule qui permet à votre agent d'IA de rechercher et de lire vos propres messages WhatsApp. Exécute sur Cloudflare Workers.",
+      "es": "Un servidor MCP de sólo lectura que permite a su agente AI buscar y leer sus propios mensajes de WhatsApp. Corre en los trabajadores de Cloudflare.",
+      "de": "Ein schreibgeschützter mcp-server, mit dem ihr ki-agent ihre eigenen whatsapp-nachrichten suchen und lesen kann. Läuft auf Cloudflare Workers.",
+      "zh-Hant": "一個只讀取的MCP伺服器,可以讓您的AI代理搜尋並讀取您自己的WhatsApp訊息. 執行在雲浮工人。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 149 分 · 80 条评论",
+      "zh-Hant": "Hacker News 149 分 · 80 則留言",
+      "en": "149 points · 80 comments on Hacker News",
+      "ja": "Hacker News 149 ポイント · コメント 80 件",
+      "ko": "Hacker News 149점 · 댓글 80개",
+      "ms": "149 mata · 80 komen di Hacker News",
+      "vi": "149 điểm · 80 bình luận trên Hacker News",
+      "fr": "149 points · 80 commentaires sur Hacker News",
+      "es": "149 puntos · 80 comentarios en Hacker News",
+      "de": "149 Punkte · 80 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/finereli/whatsapp-mcp",
+     "src": "github.com",
+     "date": "2026-10-18",
+     "rw": ""
+    },
+    {
+     "id": "hn-50158138",
+     "title": {
+      "zh-Hans": "OpenBSD 8.0 发布时会有来自 Linux 6.18 的 teldrm/radeondrm/amdgpu 驱动程序.",
+      "zh-Hant": "OpenBSD 8.0 釋出時會有來自 Linux 6.18 的 teldrm/radeondrm/amdgpu 驅動程式.",
+      "en": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "ja": "OpenBSD 8.0 リリースには Linux 6.18 から inteldrm/radeondrm/amdgpu ドライバーがインストールされます。",
+      "ko": "OpenBSD 8.0 릴리스에는 리눅스 6.18의 inteldrm/radeondrm/amdgpu 드라이버가 있습니다.",
+      "ms": "Rilis OpenBSD 8.0 akan memiliki driver inteldrm/radeondrm/amdgpu dari Linux 6.18",
+      "vi": "OpenBSD 8.0 thông báo sẽ có các trình điều khiển thông tin/radendem/amdgpu từ Linux 6.18",
+      "fr": "La version 8.0 d'OpenBSD aura des pilotes inteldrm/radeondrm/amdgpu de Linux 6.18",
+      "es": "OpenBSD 8.0 versión tendrá controladores inteldrm/radeondrm/amdgpu de Linux 6.18",
+      "de": "OpenBSD 8.0 Release wird Inteldrm / Radeondrm / Amdgpu-Treiber von Linux 6.18 haben"
+     },
+     "summary": {
+      "en": "I think it's about time for some #OpenBSD #80HYPE :flan_hacker: :flan_cool: > Clang/LLVM 22 is now OpenBSD's base compiler on clang architectures, including updated libc++{,abi}, compiler-rt &…",
+      "zh-Hans": "我想是时候让一些#OpenBSD#80HYPE:flan hacker::::flan cool:: > Clang/LLVM 22现在是OpenBSD在cang架构上的基础编译器,包括更新的libc++{,abi},编译器-rt &.",
+      "ja": "#OpenBSD #80HYPE :flan hacker: :flan cool: > Clang/LLVM 22 は、libc++{,abi}, compiler-rt &...",
+      "ko": "#OpenBSD #80HYPE :flan hacker : :flan cool : > Clang/LLVM 22는 이제 clang 아키텍처에 OpenBSD의 기본 컴파일러입니다.",
+      "ms": "Saya pikir itu tentang waktu untuk beberapa #OpenBSD #80HYPE :flan hacker: :flan cool: > Clang/LLVM 22 sekarang OpenBSD's base compiler pada arsitektur clangg, termasuk yang diperbarui libc++{,abi}, compiler-rt &...",
+      "vi": "Tôi nghĩ đã đến lúc cho một số # openBSD #80HYPE: flan hacker: :: flan  cool: > Clang/LLVM 22 bây giờ là bộ biên dịch cơ sở của OpenBSD về kiến trúc bộ lạc, bao gồm cả việc cập nhật libc++{,abi, biên dịch viên-rt &...",
+      "fr": "Je pense qu'il est temps pour certains #OpenBSD #80HYPE :flan hacker: :flan cool: > Clang/LLVM 22 est maintenant le compilateur de base d'OpenBSD sur les architectures clang, y compris libc++{,abi}, compilateur-rt &...",
+      "es": "Creo que se trata de tiempo para algunos #OpenBSD #80HYPE :flan hacker: :flan cool: ⇩ Clang/LLVM 22 es ahora el compilador base de OpenBSD en arquitecturas de clang, incluyendo libc+++{,abi} actualizado, compilador-rt &amp;...",
+      "de": "Ich denke, es ist an der Zeit für einige #OpenBSD #80HYPE :flan hacker: :flan cool: > Clang/LLVM 22 ist jetzt OpenBSDs Basis-Compiler für Clang-Architekturen, einschließlich aktualisierter libc++{,abi}, Compiler-rt &...",
+      "zh-Hant": "我想是時候讓一些#OpenBSD#80HYPE:flan hacker::::flan cool:: > Clang/LLVM 22現在是OpenBSD在cang架構上的基礎編譯器,包括更新的libc++{,abi},編譯器-rt &."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 155 分 · 34 条评论",
+      "zh-Hant": "Hacker News 155 分 · 34 則留言",
+      "en": "155 points · 34 comments on Hacker News",
+      "ja": "Hacker News 155 ポイント · コメント 34 件",
+      "ko": "Hacker News 155점 · 댓글 34개",
+      "ms": "155 mata · 34 komen di Hacker News",
+      "vi": "155 điểm · 34 bình luận trên Hacker News",
+      "fr": "155 points · 34 commentaires sur Hacker News",
+      "es": "155 puntos · 34 comentarios en Hacker News",
+      "de": "155 Punkte · 34 Kommentare auf Hacker News"
+     },
+     "url": "https://bsd.network/@brynet/117407035545900963",
+     "src": "bsd.network",
+     "date": "2026-10-19",
+     "rw": ""
+    },
+    {
+     "id": "hn-50152541",
+     "title": {
+      "zh-Hans": "KiviDB, 一个更快的 Redis 兼容内存数据库和向量缓存",
+      "zh-Hant": "KiviDB, 一個更快的 Redis 相容記憶體資料庫和向量快取",
+      "en": "KiviDB, a faster Redis-compatible memory database and vector cache",
+      "ja": "Redis互換メモリデータベースとベクターキャッシュの高速化",
+      "ko": "KiviDB, 빠른 Redis 호환 메모리 데이터베이스 및 벡터 캐시",
+      "ms": "KiviDB, database memori dan cache vektor yang kompatibel dengan Redis lebih cepat",
+      "vi": "KiviDB, cơ sở dữ liệu bộ nhớ Redis tương thích nhanh hơn và bộ nhớ tạm véc tơ",
+      "fr": "KiviDB, une base de données de mémoire compatible avec Redis et cache vectoriel plus rapide",
+      "es": "KiviDB, una base de datos de memoria más rápida compatible con Redis y caché vectorial",
+      "de": "KiviDB, eine schnellere Redis-kompatible Speicherdatenbank und Vektor-Cache"
+     },
+     "summary": {
+      "en": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "zh-Hans": "用 Rust 写成的快速多线程 Redis 和 Valkey 选项: 滴入兼容, 包含全文本和向量搜索",
+      "ja": "Rustで書かれている高速でマルチスレッドのRedis®とValkeyの代替: ドロップイン互換、フルテキストとベクトル検索で構築",
+      "ko": "Rust로 작성된 빠른 멀티 스레드 Redis® 및 Valkey 대안: 풀 텍스트 및 벡터 검색과 호환이 되는 드롭 인 호환 가능",
+      "ms": "Sebuah cepat, multi-threaded Redis® dan alternatif Valkey ditulis dalam Rust: drop-in kompatibel, dengan full-text dan pencarian vektor dibangun dalam",
+      "vi": "Một lựa chọn thay thế Redis và Valkey nhanh chóng đọc được và đa chiều được viết bằng Rust: tương thích với việc thả vào, với việc tìm kiếm toàn văn bản và véc tơ được xây dựng",
+      "fr": "Une alternative rapide, multi-threaded Redis® et Valkey écrite en Rust : compatible drop-in, avec la recherche en texte intégral et vectoriel intégrée",
+      "es": "Una alternativa rápida y multi-teleada Redis® y Valkey escrita en Rust: compatible con drop-in, con búsqueda de texto completo y vectorial",
+      "de": "Eine schnelle, mehrgängige Redis®- und Valkey-Alternative, die in Rust geschrieben ist: Drop-in-kompatibel, mit integrierter Volltext- und Vektorsuche",
+      "zh-Hant": "用 Rust 寫成的快速多執行緒 Redis 和 Valkey 選項: 滴入相容, 包含全文字和向量搜尋"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 67 分 · 40 条评论",
+      "zh-Hant": "Hacker News 67 分 · 40 則留言",
+      "en": "67 points · 40 comments on Hacker News",
+      "ja": "Hacker News 67 ポイント · コメント 40 件",
+      "ko": "Hacker News 67점 · 댓글 40개",
+      "ms": "67 mata · 40 komen di Hacker News",
+      "vi": "67 điểm · 40 bình luận trên Hacker News",
+      "fr": "67 points · 40 commentaires sur Hacker News",
+      "es": "67 puntos · 40 comentarios en Hacker News",
+      "de": "67 Punkte · 40 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/kividbio/kividb",
+     "src": "github.com",
+     "date": "2026-10-19",
+     "rw": ""
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1424183124",
+     "title": {
+      "zh-Hans": "xiaoyang111222/cn-math-taxonomy",
+      "zh-Hant": "xiaoyang111222/cn-math-taxonomy",
+      "en": "xiaoyang111222/cn-math-taxonomy",
+      "ja": "xiaoyang111222/cn-math-taxonomy",
+      "ko": "xiaoyang111222/cn-math-taxonomy",
+      "ms": "xiaoyang111222/cn-math-taxonomy",
+      "vi": "xiaoyang111222/cn-math-taxonomy",
+      "fr": "xiaoyang111222/cn-math-taxonomy",
+      "es": "xiaoyang111222/cn-math-taxonomy",
+      "de": "xiaoyang111222/cn-math-taxonomy"
+     },
+     "summary": {
+      "zh-Hans": "中小学校+高中数学测绘+预诊:课程标志一致,1~9年级和高中必修,674知识点,2843题,自适应诊断.",
+      "zh-Hant": "中小學校+高中數學測繪+預診:課程標誌一致,1~9年級和高中必修,674知識點,2843題,自適應診斷.",
+      "en": "Primary and secondary schools + high school mathematics mapping + pre-diagnostics: alignment of course signs, mandatory grades 1-9 and high school, 674 knowledge points, 2843 questions, self-adapted diagnosis",
+      "ja": "小学校と中学校+高校の数学マッピング+前診断:コースの徴候の直線、必須の等級1-9および高校、674の知識ポイント、2843質問、自己適応診断",
+      "ko": "1 차 및 이차 학교 + 고등학교 수학 지도 + 임신 전 : 코스 표지판의 정렬, 필수 등급 1-9 및 고등학교, 674 지식 포인트, 2843 질문, 자기 적응 진단",
+      "ms": "Sekolah dasar dan menengah + SMA matematika pemetaan + pra-diagnostik: jajaran tanda-tanda kursus, nilai wajib 1-9 dan SMA, 674 poin pengetahuan, 2843 pertanyaan, diagnosis teradaptasi sendiri",
+      "vi": "Trường tiểu học và trung học + bản đồ toán học trường trung học + trước khi chẩn đoán: sắp xếp các dấu hiệu của khóa học, bắt buộc 1-9 và trung học, 674 điểm kiến thức, 2843 câu hỏi, chẩn đoán tự chủ",
+      "fr": "Écoles primaires et secondaires + cartographie mathématique du secondaire + prédiagnostic : alignement des signes de cours, cours obligatoires 1-9 et lycée, 674 points de connaissances, 2843 questions, diagnostic auto-adapté",
+      "es": "Escuelas primarias y secundarias + cartografía de matemáticas de secundaria + prediagnósticos: alineación de signos de curso, grados obligatorios 1-9 y secundaria, 674 puntos de conocimiento, 2843 preguntas, diagnóstico auto-adaptado",
+      "de": "Grund- und Sekundarschulen + Mathematikmathematik-Mapping + Prädiagnostik: Ausrichtung der Kurszeichen, Pflichtklassen 1-9 und Gymnasium, 674 Wissenspunkte, 2843 Fragen, selbstangepasste Diagnose"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,293 星",
+      "zh-Hant": "GitHub 1,293 星",
+      "en": "1,293 stars on GitHub",
+      "ja": "GitHub スター 1,293",
+      "ko": "GitHub 스타 1,293개",
+      "ms": "1,293 bintang di GitHub",
+      "vi": "1,293 sao trên GitHub",
+      "fr": "1,293 étoiles sur GitHub",
+      "es": "1,293 estrellas en GitHub",
+      "de": "1,293 Sterne auf GitHub"
+     },
+     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+     "src": "github.com",
+     "date": "2026-10-18",
+     "rw": ""
+    },
+    {
+     "id": "gh-1424340323",
+     "title": {
+      "zh-Hans": "alchaincyf/huashu-motion",
+      "zh-Hant": "alchaincyf/huashu-motion",
+      "en": "alchaincyf/huashu-motion",
+      "ja": "alchaincyf/huashu-motion",
+      "ko": "alchaincyf/huashu-motion",
+      "ms": "alchaincyf/huashu-motion",
+      "vi": "alchaincyf/huashu-motion",
+      "fr": "alchaincyf/huashu-motion",
+      "es": "alchaincyf/huashu-motion",
+      "de": "alchaincyf/huashu-motion"
+     },
+     "summary": {
+      "zh-Hans": "由你的编码代理商拍摄的商业级出场电影——指向帧来改变.",
+      "zh-Hant": "由你的編碼代理商拍攝的商業級出場電影——指向幀來改變.",
+      "en": "Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "ja": "コーディングエージェントによる商用グレードの起動フィルム — フレームでポイントして変更します。",
+      "ko": "코딩 에이전트에 의해 상업 학년 발사 영화 - 프레임에서 포인트를 변경합니다.",
+      "ms": "Film peluncuran kelas komersial oleh agen coding Anda - menunjuk pada bingkai untuk mengubahnya.",
+      "vi": "Các bộ phim phát hành cấp cao thương mại của tác nhân mã hóa của bạn — chỉ vào khung hình để thay đổi nó.",
+      "fr": "Des films de lancement de qualité commerciale par votre agent de codage — pointez au cadre pour le changer.",
+      "es": "Películas de lanzamiento de grado comercial por su agente de codificación - punto en el marco para cambiarlo.",
+      "de": "Kommerzielle startfilme von ihrem codierungsagenten - zeigen sie auf den rahmen, um ihn zu ändern."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,061 星",
+      "zh-Hant": "GitHub 1,061 星",
+      "en": "1,061 stars on GitHub",
+      "ja": "GitHub スター 1,061",
+      "ko": "GitHub 스타 1,061개",
+      "ms": "1,061 bintang di GitHub",
+      "vi": "1,061 sao trên GitHub",
+      "fr": "1,061 étoiles sur GitHub",
+      "es": "1,061 estrellas en GitHub",
+      "de": "1,061 Sterne auf GitHub"
+     },
+     "url": "https://github.com/alchaincyf/huashu-motion",
+     "src": "github.com",
+     "date": "2026-10-18",
+     "rw": ""
+    },
+    {
+     "id": "gh-1426080579",
+     "title": {
+      "zh-Hans": "simbasjungles/free-my-tv",
+      "zh-Hant": "simbasjungles/free-my-tv",
+      "en": "simbasjungles/free-my-tv",
+      "ja": "simbasjungles/free-my-tv",
+      "ko": "simbasjungles/free-my-tv",
+      "ms": "simbasjungles/free-my-tv",
+      "vi": "simbasjungles/free-my-tv",
+      "fr": "simbasjungles/free-my-tv",
+      "es": "simbasjungles/free-my-tv",
+      "de": "simbasjungles/free-my-tv"
+     },
+     "summary": {
+      "en": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "zh-Hans": "谷歌电视台的快活,广告免费家用屏幕. 开源,由克洛德代码所建. 一个按钮要取消。",
+      "ja": "Google TV用の高速で無料のホーム画面。 Claudeコードで構築されたオープンソース。 1つのボタンを解除します。",
+      "ko": "Google TV에 대한 빠른 광고없는 홈 화면. 오픈 소스, Claude 코드 내장. undo에 1개의 단추.",
+      "ms": "Sebuah layar rumah cepat dan bebas iklan untuk Google TV. Sumber terbuka, dibangun dengan Claude Code. Satu tombol untuk membatalkan.",
+      "vi": "Một màn hình miễn phí và nhanh cho truyền hình Google. Nguồn mở, được xây với mã Claude. Một nút để hủy bỏ.",
+      "fr": "Un écran d'accueil rapide et sans publicité pour Google TV. Open source, construit avec Claude Code. Un bouton à annuler.",
+      "es": "Una pantalla de inicio rápida y gratuita para Google TV. Fuente abierta, construida con el Código Claude. Un botón para deshacer.",
+      "de": "Ein schneller, werbefreier Startbildschirm für Google TV. Open Source, gebaut mit Claude Code. Ein Button zum Rückgängigmachen.",
+      "zh-Hant": "谷歌電視臺的快活,廣告免費家用螢幕. 開源,由克洛德程式碼所建. 一個按鈕要取消。"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 775 星",
+      "zh-Hant": "GitHub 775 星",
+      "en": "775 stars on GitHub",
+      "ja": "GitHub スター 775",
+      "ko": "GitHub 스타 775개",
+      "ms": "775 bintang di GitHub",
+      "vi": "775 sao trên GitHub",
+      "fr": "775 étoiles sur GitHub",
+      "es": "775 estrellas en GitHub",
+      "de": "775 Sterne auf GitHub"
+     },
+     "url": "https://github.com/simbasjungles/free-my-tv",
+     "src": "github.com",
+     "date": "2026-10-19",
+     "rw": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-19",
    "path": "digest/2026-10-19/",
