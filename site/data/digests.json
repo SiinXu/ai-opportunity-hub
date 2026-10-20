@@ -2245,7 +2245,7 @@
      "summary": {
       "en": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
       "zh-Hans": "我们正通过开源与开放科学，推动人工智能进步并让它普及到每个人。",
-      "ja": "私たちは、オープンソースとオープンサイエンスを通じて、人工知能の進歩と民主化への旅をしています。",
+      "ja": "オープンソースとオープンサイエンスを通じて人工知能の発展と民主化を目指す、という Hugging Face のページ文言です。",
       "ko": "우리는 오픈 소스와 오픈 사이언스로 인공지능을 발전시키고 누구나 쓸 수 있게 만드는 여정을 걷고 있습니다.",
       "ms": "Kami dalam perjalanan memajukan dan mendemokrasikan kecerdasan buatan melalui sumber terbuka dan sains terbuka.",
       "vi": "Chúng tôi đang trên hành trình thúc đẩy và phổ cập trí tuệ nhân tạo thông qua mã nguồn mở và khoa học mở.",
@@ -2439,9 +2439,9 @@
       "de": "Entwicklungsstatistik für den Kernel 7.2"
      },
      "summary": {
-      "en": "Linus Torvalds released the 7.2 kernel on August 17, after noting that the number of fixes comi [...]",
+      "en": "We can admit it, marketing is not our strong suit. Our strength is writing the kind of articles that developers, administrators, and free-software supporters depend on to know what is going on in the…",
       "zh-Hans": "订阅 LWN 的主要好处是帮助我们继续出版；此外，订阅者还能立即访问全站内容，并使用多项额外的网站功能。",
-      "ja": "Linus Torvalds は 8 月 17 日に 7.2 カーネルをリリースしました。 修正回数 comi を指摘した後 [...]",
+      "ja": "私たちは、それを認めることができます, マーケティングは、私たちの強いスーツではありません. 私たちの強みは、開発者、管理者、およびフリーソフトウェアのサポーターが、何が起こっているかを知ることに依存する記事の一種を書いています。",
       "ko": "LWN 구독의 가장 큰 의미는 저희가 계속 발행하도록 돕는 것이며, 그 밖에도 구독자는 사이트 전체 콘텐츠를 바로 볼 수 있고 여러 추가 기능을 이용할 수 있습니다.",
       "ms": "Manfaat utama melanggan LWN ialah membantu kami terus menerbitkan; selain itu, pelanggan mendapat akses segera ke semua kandungan laman dan beberapa ciri tambahan.",
       "vi": "Lợi ích chính của việc đăng ký LWN là giúp chúng tôi tiếp tục xuất bản; ngoài ra, người đăng ký được truy cập ngay mọi nội dung và một số tính năng bổ sung của trang.",
@@ -2527,7 +2527,7 @@
       "zh-Hans": "Anthropic 在 6 月被给予最高等级的垃圾债信用评级",
       "zh-Hant": "Anthropic 在 6 月被給予最高等級的垃圾債信用評級",
       "en": "Anthropic assigned highest junk credit rating in June",
-      "ja": "人類は6月の最高のジャンククレジット評価を割り当てました",
+      "ja": "Anthropic、6月に最も低いジャンク級の信用格付けを付けられていた",
       "ko": "Anthropic, 6월에 투기 등급 중 최상위 신용등급 받아",
       "ms": "Anthropic diberi penarafan kredit sampah tertinggi pada bulan Jun",
       "vi": "Anthropic được xếp hạng tín nhiệm “rác” cao nhất vào tháng 6",
@@ -2954,7 +2954,7 @@
      "summary": {
       "en": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
       "zh-Hans": "🐋 俄语完整指南：如何在 PC、Mac 和服务器上本地安装并运行 DeepSeek（V4、R1）——Ollama、llama.cpp、LM Studio、vLLM、Open WebUI、API、RAG、智能体、微调和实用技巧",
-      "ja": "ф Полный гайдаруссском: как установить изапустить DeepSeek лолольшчо (V4, R1) а ПК, Mac и верверереререй, llama.cpp, LM Studio, vLLM, ОТКРЫТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТОВРЫТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, ТО, Т",
+      "ja": "DeepSeek（V4、R1）をPC、Mac、サーバーにローカル導入して動かすためのロシア語の完全ガイド。Ollama、llama.cpp、LM Studio、vLLM、Open WebUI、API、RAG、エージェント、ファインチューニングを扱います。",
       "ko": "🐋 러시아어 완전 가이드: PC, Mac, 서버에서 DeepSeek(V4, R1)를 로컬로 설치·실행하는 법 — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, 에이전트, 파인튜닝, 유용한 팁",
       "ms": "🐋 Panduan lengkap dalam bahasa Rusia: cara memasang dan menjalankan DeepSeek (V4, R1) secara setempat pada PC, Mac dan pelayan — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, ejen, penalaan halus, petua terbaik",
       "vi": "🐋 Hướng dẫn đầy đủ bằng tiếng Nga: cài và chạy DeepSeek (V4, R1) cục bộ trên PC, Mac và máy chủ — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, tác tử, fine-tuning, mẹo hay",
@@ -3000,7 +3000,7 @@
      "summary": {
       "en": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
       "zh-Hans": "我把 120 页手写的大学笔记交给 Claude Code，它用 66 分钟、13.68 美元把我的笔迹做成了一套真正的字体。",
-      "ja": "自分の手書きの大学のノートのClaudeコード120ページを与えました。 それは私に本当のフォントとして私の手書きを返しました, に 66 分 $13.68.",
+      "ja": "手書きの大学ノート120ページを Claude Code に渡すと、66分・13.68ドルで自分の手書き文字が本物のフォントになって返ってきた、というリポジトリです。",
       "ko": "Claude Code에 손으로 쓴 대학 노트 120쪽을 줬더니, 66분 만에 13.68달러로 내 손글씨를 진짜 폰트로 만들어 줬습니다.",
       "ms": "Saya beri Claude Code 120 halaman nota kolej tulisan tangan saya. Ia kembalikan tulisan tangan saya sebagai fon sebenar, dalam 66 minit dengan $13.68.",
       "vi": "Tôi đưa Claude Code 120 trang ghi chép đại học viết tay. Nó trả lại chữ viết tay của tôi dưới dạng một font thật, trong 66 phút với 13,68 USD.",
@@ -3030,7 +3030,7 @@
      ]
     }
    ],
-   "updated": "2026-10-20T13:56:08Z"
+   "updated": "2026-10-20T14:13:17Z"
   },
   {
    "date": "2026-10-17",
