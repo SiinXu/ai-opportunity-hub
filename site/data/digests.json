@@ -3252,8 +3252,8 @@
     {
      "id": "hn-50091788",
      "title": {
-      "zh-Hans": "控制和监测失败是AI黑客报告的责任:专家",
-      "zh-Hant": "控制和監測失敗是AI駭客報告的責任:專家",
+      "zh-Hans": "专家：AI 入侵报道的症结在于隔离与监控失职",
+      "zh-Hant": "專家：AI 入侵報道的癥結在於隔離與監控失職",
       "en": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "ja": "AIによるハッキング騒動の原因は「封じ込めと監視の不備」と専門家",
       "ko": "전문가들 \"AI 해킹 보고의 원인은 봉쇄와 모니터링 실패\"",
@@ -3293,17 +3293,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50091788"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50101813",
      "title": {
-      "zh-Hans": "广告:定向广告变成零点击雇佣军间谍软件的管道",
-      "zh-Hant": "廣告:定向廣告變成零點選僱傭軍間諜軟體的管道",
+      "zh-Hans": "AdFection：定向广告沦为零点击雇佣型间谍软件的投放渠道",
+      "zh-Hant": "AdFection：定向廣告淪為零點選僱傭型間諜軟體的投放渠道",
       "en": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
       "ja": "AdFection：ターゲティング広告がゼロクリック型の傭兵スパイウェアの配布経路に",
       "ko": "AdFection: 표적 광고가 제로클릭 용병 스파이웨어의 유통 경로가 되다",
@@ -3343,17 +3339,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50101813"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50107379",
      "title": {
-      "zh-Hans": "打开Muse Spark",
-      "zh-Hant": "開啟Muse Spark",
+      "zh-Hans": "Muse Spark Open",
+      "zh-Hant": "Muse Spark Open",
       "en": "Muse Spark Open",
       "ja": "Muse Spark Open",
       "ko": "Muse Spark Open",
@@ -3393,17 +3385,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50107379"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50084240",
      "title": {
-      "zh-Hans": "Iosevka 是一个开源, sans-serif 和 slab-serif 单空间字体",
-      "zh-Hant": "Iosevka 是一個開源, sans-serif 和 slab-serif 單空間字型",
+      "zh-Hans": "Iosevka：开源的无衬线与粗衬线等宽字体",
+      "zh-Hant": "Iosevka：開源的無襯線與粗襯線等寬字型",
       "en": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "ja": "Iosevka：サンセリフとスラブセリフを備えたオープンソースの等幅フォント",
       "ko": "Iosevka: 오픈 소스 산세리프·슬랩 세리프 고정폭 글꼴",
@@ -3443,17 +3431,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50084240"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50105647",
      "title": {
-      "zh-Hans": "神经网络是干净的",
-      "zh-Hant": "神經網路是乾淨的",
+      "zh-Hans": "神经网络是“干净”的",
+      "zh-Hant": "神經網路是“乾淨”的",
       "en": "Neural networks are clean",
       "ja": "ニューラルネットワークはもともと「きれい」だ",
       "ko": "신경망은 깨끗하다",
@@ -3493,17 +3477,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50105647"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50092664",
      "title": {
-      "zh-Hans": "银行正在试图卸下 AI数据中心的债务 他们只是承担",
-      "zh-Hant": "銀行正在試圖卸下 AI資料中心的債務 他們只是承擔",
+      "zh-Hans": "银行正设法甩掉自己刚承销的 AI 数据中心债务",
+      "zh-Hant": "銀行正設法甩掉自己剛承銷的 AI 資料中心債務",
       "en": "Banks are now trying to offload the AI data center debt they just underwrote",
       "ja": "引き受けたばかりのAIデータセンター向け融資を、銀行が手放そうとしている",
       "ko": "은행들, 막 인수한 AI 데이터센터 부채를 떠넘기려 하다",
@@ -3543,17 +3523,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50092664"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50094694",
      "title": {
-      "zh-Hans": "Anthropic的\"Scion\"深受莫诺诺克的启发",
-      "zh-Hant": "Anthropic的\"Scion\"深受莫諾諾克的啟發",
+      "zh-Hans": "Anthropic 的 Scion 深受 Mononoke 启发",
+      "zh-Hant": "Anthropic 的 Scion 深受 Mononoke 啟發",
       "en": "Anthropic's Scion is heavily inspired by Mononoke",
       "ja": "AnthropicのScionはMononokeに大きく影響を受けている",
       "ko": "Anthropic의 Scion은 Mononoke에서 크게 영감을 받았다",
@@ -3593,17 +3569,13 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50094694"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50106738",
      "title": {
-      "zh-Hans": "更多关于Anthropic的Scion 撕取了Mononoke",
-      "zh-Hant": "更多關於Anthropic的Scion 撕取了Mononoke",
+      "zh-Hans": "再谈 Anthropic 的 Scion 抄袭 Mononoke",
+      "zh-Hant": "再談 Anthropic 的 Scion 抄襲 Mononoke",
       "en": "More on Anthropic's Scion ripping off Mononoke",
       "ja": "続・AnthropicのScionによるMononokeの盗用について",
       "ko": "Anthropic Scion의 Mononoke 베끼기 논란, 후속 글",
@@ -3643,19 +3615,15 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50106738"
      ],
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     }
    ],
    "more": [
     {
      "id": "hn-50097369",
      "title": {
-      "zh-Hans": "LFM2.5-24B-A2B:为快取装置所建",
-      "zh-Hant": "LFM2.5-24B-A2B:為快取裝置所建",
+      "zh-Hans": "LFM2.5-24B-A2B：为快速端侧智能体打造",
+      "zh-Hant": "LFM2.5-24B-A2B：為快速端側智慧體打造",
       "en": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "ja": "LFM2.5-24B-A2B：高速なオンデバイス・エージェントのためのモデル",
       "ko": "LFM2.5-24B-A2B: 빠른 온디바이스 에이전트를 위한 모델",
@@ -3692,17 +3660,13 @@
      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
      "src": "liquid.ai",
      "date": "2026-10-14",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50090443",
      "title": {
-      "zh-Hans": "为什么LLM p会这样?",
-      "zh-Hant": "為什麼LLM p會這樣?",
+      "zh-Hans": "为什么大模型画的鹈鹕都长这样？",
+      "zh-Hant": "為什麼大模型畫的鵜鶘都長這樣？",
       "en": "Why do LLM pelicans look like this?",
       "ja": "LLMが描くペリカンは、なぜみんな同じ顔なのか",
       "ko": "LLM이 그린 펠리컨은 왜 다 이렇게 생겼을까?",
@@ -3739,17 +3703,13 @@
      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
      "src": "arcfu.com",
      "date": "2026-10-14",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50092470",
      "title": {
-      "zh-Hans": "Petal,开源CoScreen/Screen Hero终于自由了",
-      "zh-Hant": "Petal,開源CoScreen/Screen Hero終於自由了",
+      "zh-Hans": "Petal：开源版 CoScreen/ScreenHero，终于免费",
+      "zh-Hant": "Petal：開源版 CoScreen/ScreenHero，終於免費",
       "en": "Petal, open-source CoScreen/ScreenHero finally free",
       "ja": "Petal：CoScreenやScreenHeroに代わる、無料のオープンソース画面共有ツール",
       "ko": "Petal, 오픈 소스판 CoScreen/ScreenHero가 드디어 무료로",
@@ -3786,17 +3746,13 @@
      "url": "https://petal.live/",
      "src": "petal.live",
      "date": "2026-10-14",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50093568",
      "title": {
-      "zh-Hans": "癌症发作时要知道的",
-      "zh-Hant": "癌症發作時要知道的",
+      "zh-Hans": "确诊癌症后需要知道的事",
+      "zh-Hant": "確診癌症後需要知道的事",
       "en": "Things to know when you get cancer",
       "ja": "がんと診断されたときに知っておきたいこと",
       "ko": "암 진단을 받았을 때 알아 두면 좋은 것들",
@@ -3833,17 +3789,13 @@
      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
      "src": "jjmaxwell4.com",
      "date": "2026-10-14",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50085323",
      "title": {
-      "zh-Hans": "TV4 在AI代理删除编辑的材料后推迟播放",
-      "zh-Hant": "TV4 在AI代理刪除編輯的材料後推遲播放",
+      "zh-Hans": "AI 智能体删除剪辑素材，TV4 推迟节目播出",
+      "zh-Hant": "AI 智慧體刪除剪輯素材，TV4 推遲節目播出",
       "en": "TV4 postpones show after AI agent erases edited material",
       "ja": "TV4、AIエージェントが編集済み素材を消去したとされる件で番組を延期",
       "ko": "AI 에이전트가 편집본을 지웠다는 보도 속에 TV4 프로그램 방영 연기",
@@ -3880,17 +3832,13 @@
      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
      "src": "swedenherald.com",
      "date": "2026-10-14",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hfp-2610.22200",
      "title": {
-      "zh-Hans": "OpenGCUA: 走向一个通用计算机的全张开放堆栈",
-      "zh-Hant": "OpenGCUA: 走向一個通用計算機的全張開放堆疊",
+      "zh-Hans": "OpenGCUA：迈向完全开放的通用计算机使用技术栈",
+      "zh-Hant": "OpenGCUA：邁向完全開放的通用計算機使用技術棧",
       "en": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
       "ja": "OpenGCUA：汎用コンピューター操作エージェントの完全オープンなスタックを目指して",
       "ko": "OpenGCUA: 범용 컴퓨터 사용 에이전트를 위한 완전 개방 스택을 향해",
@@ -3927,17 +3875,13 @@
      "url": "https://huggingface.co/papers/2610.22200",
      "src": "huggingface.co",
      "date": "",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50090842",
      "title": {
-      "zh-Hans": "Linus Torvalds的第一个LLM辅助补丁系列",
-      "zh-Hant": "Linus Torvalds的第一個LLM輔助補丁系列",
+      "zh-Hans": "Linus Torvalds 的首个 LLM 辅助补丁系列",
+      "zh-Hant": "Linus Torvalds 的首個 LLM 輔助補丁系列",
       "en": "Linus Torvalds's first LLM-assisted patch series",
       "ja": "Linus Torvalds氏、LLMの助けを借りた初のパッチシリーズを公開",
       "ko": "Linus Torvalds의 첫 LLM 지원 패치 시리즈",
@@ -3974,17 +3918,13 @@
      "url": "https://lwn.net/Articles/1100449/",
      "src": "lwn.net",
      "date": "2026-10-14",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50086165",
      "title": {
-      "zh-Hans": "Pg vectorsearch:比Pgvector的IVFFlat和HNSW更快的索引",
-      "zh-Hant": "Pg vectorsearch:比Pgvector的IVFFlat和HNSW更快的索引",
+      "zh-Hans": "Pg_vectorsearch：比 pgvector 的 IVFFlat 和 HNSW 更快的索引",
+      "zh-Hant": "Pg_vectorsearch：比 pgvector 的 IVFFlat 和 HNSW 更快的索引",
       "en": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "ja": "pg_vectorsearch：pgvectorのIVFFlatやHNSWより速いインデックス",
       "ko": "Pg_vectorsearch: pgvector의 IVFFlat·HNSW보다 빠른 인덱스",
@@ -4021,17 +3961,13 @@
      "url": "https://github.com/timescale/pg_vectorsearch",
      "src": "github.com",
      "date": "",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50099136",
      "title": {
-      "zh-Hans": "Flipflop – Iroh 驱动的持久隧道用于文件共享",
-      "zh-Hant": "Flipflop – Iroh 驅動的持久隧道用於檔案共享",
+      "zh-Hans": "Flipflop：基于 Iroh 的持久隧道文件共享",
+      "zh-Hant": "Flipflop：基於 Iroh 的持久隧道檔案共享",
       "en": "Flipflop – Iroh-powered persistent tunnels for filesharing",
       "ja": "Flipflop：Irohを使った、ファイル共有のための常設トンネル",
       "ko": "Flipflop – Iroh 기반 상시 터널로 파일 공유",
@@ -4068,17 +4004,13 @@
      "url": "https://github.com/andunieee/flipflop",
      "src": "github.com",
      "date": "2026-10-15",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     },
     {
      "id": "hn-50105467",
      "title": {
-      "zh-Hans": "Proa – 有快速SSRA和多目标渲染的 Rust 网络框架",
-      "zh-Hant": "Proa – 有快速SSRA和多目標渲染的 Rust 網路框架",
+      "zh-Hans": "Proa：支持快速 SSR 与多目标渲染的 Rust Web 框架",
+      "zh-Hant": "Proa：支援快速 SSR 與多目標渲染的 Rust Web 框架",
       "en": "Proa – A Rust web framework with fast SSR and multi-target rendering",
       "ja": "Proa：高速なSSRとマルチターゲット・レンダリングを備えたRustのWebフレームワーク",
       "ko": "Proa – 빠른 SSR과 다중 타깃 렌더링을 갖춘 Rust 웹 프레임워크",
@@ -4115,11 +4047,7 @@
      "url": "https://proa.so/",
      "src": "proa.so",
      "date": "2026-10-15",
-     "rw": "editor",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant"
-     ]
+     "rw": "editor"
     }
    ],
    "follow": [
@@ -4265,7 +4193,7 @@
      ]
     }
    ],
-   "updated": "2026-10-20T13:54:11Z"
+   "updated": "2026-10-20T14:11:08Z"
   },
   {
    "date": "2026-10-13",
