@@ -392,7 +392,7 @@
       "zh-Hans": "美国国土安全部新令：联邦民事机构禁用 DeepSeek",
       "zh-Hant": "美國國土安全部新令：聯邦民事機構禁用 DeepSeek",
       "en": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "ja": "DeepSeekは、新しいDHS注文の下で米国連邦民間機関から禁止",
+      "ja": "DHS の新たな命令で、DeepSeek が米連邦の文民機関で使用禁止に",
       "ko": "새 DHS 명령으로 미국 연방 민간 기관에서 DeepSeek 사용 금지",
       "ms": "DeepSeek diharamkan di agensi awam persekutuan AS di bawah perintah baharu DHS",
       "vi": "DeepSeek bị cấm tại các cơ quan dân sự liên bang Mỹ theo lệnh mới của DHS",
@@ -917,7 +917,7 @@
       "zh-Hans": "中小学与高中数学知识图谱 + 前测诊断：对齐课程标准，覆盖 1–9 年级义务教育和高中必修，674 个知识点、2843 道题，自适应诊断。",
       "zh-Hant": "中小學與高中數學知識圖譜 + 前測診斷：對齊課程標準，覆蓋 1–9 年級義務教育和高中必修，674 個知識點、2843 道題，自適應診斷。",
       "en": "Primary and secondary schools + high school mathematics mapping + pre-diagnostics: alignment of course signs, mandatory grades 1-9 and high school, 674 knowledge points, 2843 questions, self-adapted diagnosis",
-      "ja": "小学校と中学校+高校の数学マッピング+前診断:コースの徴候の直線、必須の等級1-9および高校、674の知識ポイント、2843質問、自己適応診断",
+      "ja": "小中学校と高校の数学の知識マップと事前診断。カリキュラムとの対応、1〜9年生と高校の必修を扱い、知識点と問題、適応型の診断を備えます。",
       "ko": "초·중·고 수학 지식 맵 + 사전 진단: 교육과정 기준에 맞춰 1–9학년 의무교육과 고교 필수 과정을 다루며, 지식 포인트 674개, 문항 2843개, 적응형 진단을 제공합니다.",
       "ms": "Peta matematik sekolah rendah, menengah dan tinggi + pra-diagnostik: sejajar dengan standard kurikulum, gred wajib 1–9 dan sekolah tinggi, 674 titik pengetahuan, 2843 soalan, diagnosis adaptif.",
       "vi": "Bản đồ kiến thức toán tiểu học, trung học và phổ thông + chẩn đoán đầu vào: khớp chuẩn chương trình, lớp 1–9 bắt buộc và THPT, 674 điểm kiến thức, 2843 câu hỏi, chẩn đoán thích ứng.",
@@ -963,7 +963,7 @@
       "zh-Hans": "由你的编程智能体制作商业级发布宣传片——指着画面就能修改。",
       "zh-Hant": "由你的程式設計智慧體製作商業級釋出宣傳片——指著畫面就能修改。",
       "en": "Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "ja": "コーディングエージェントによる商用グレードの起動フィルム — フレームでポイントして変更します。",
+      "ja": "コーディングエージェントが作る商用レベルのローンチ映像。変えたいフレームを指すだけで修正できます。",
       "ko": "코딩 에이전트가 만드는 상업용 수준의 런칭 영상 — 프레임을 가리키면 바로 수정됩니다.",
       "ms": "Filem pelancaran gred komersial oleh ejen pengekodan anda — tunjuk pada bingkai untuk mengubahnya.",
       "vi": "Video ra mắt chuẩn thương mại do tác tử lập trình của bạn làm — chỉ vào khung hình để sửa.",
@@ -1008,7 +1008,7 @@
      "summary": {
       "en": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
       "zh-Hans": "为 Google TV 打造的快速、无广告主屏幕。开源，用 Claude Code 构建，一键即可还原。",
-      "ja": "Google TV用の高速で無料のホーム画面。 Claudeコードで構築されたオープンソース。 1つのボタンを解除します。",
+      "ja": "Google TV 向けの、速くて広告のないホーム画面。オープンソースで Claude Code を使って作られ、ボタン1つで元に戻せます。",
       "ko": "Google TV를 위한 빠르고 광고 없는 홈 화면. 오픈 소스이며 Claude Code로 만들었고, 버튼 하나로 되돌릴 수 있습니다.",
       "ms": "Skrin utama yang pantas dan bebas iklan untuk Google TV. Sumber terbuka, dibina dengan Claude Code. Satu butang untuk membatalkan.",
       "vi": "Màn hình chính nhanh, không quảng cáo cho Google TV. Mã nguồn mở, làm bằng Claude Code. Một nút để hoàn tác.",
@@ -1038,7 +1038,7 @@
      ]
     }
    ],
-   "updated": "2026-10-20T14:03:18Z"
+   "updated": "2026-10-20T14:18:21Z"
   },
   {
    "date": "2026-10-19",
