@@ -1715,7 +1715,7 @@
       "zh-Hans": "Namecheap 刚刚查封并停用了我所有的域名",
       "zh-Hant": "Namecheap 剛剛查封並停用了我所有的域名",
       "en": "Namecheap just seized and disabled all my domains",
-      "ja": "Namecheapは、すべてのドメインを分離し、無効にします",
+      "ja": "Namecheap に自分のドメインをすべて差し押さえられ、無効化された",
       "ko": "Namecheap이 방금 내 도메인을 전부 압류하고 비활성화했다",
       "ms": "Namecheap baru sahaja merampas dan melumpuhkan semua domain saya",
       "vi": "Namecheap vừa thu giữ và vô hiệu hóa toàn bộ tên miền của tôi",
@@ -1958,7 +1958,7 @@
      "summary": {
       "en": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "zh-Hans": "让你的电视没有广告。通过 ADB 给任意 Android TV 瘦身，再换上一个简洁、受 tvOS 启发的启动器。用 Claude Code 一个下午做成。",
-      "ja": "Wi-Fi経由で任意のAndroidまたはGoogle TVを解体し、Apple TVスタイルの家を取得します。",
+      "ja": "Wi-Fi 経由であらゆる Android TV や Google TV から不要なアプリを取り除き、Apple TV 風のホーム画面にします。",
       "ko": "광고 없는 TV. ADB로 어떤 Android TV든 불필요한 앱을 걷어내고 tvOS에서 영감을 받은 깔끔한 런처를 씌웁니다. Claude Code로 오후 한나절 만에 만들었습니다.",
       "ms": "TV anda, tanpa iklan. Buang perisian berlebihan daripada mana-mana Android TV melalui ADB dan beri pelancar bersih yang diilhamkan tvOS. Dibina dalam satu petang dengan Claude Code.",
       "vi": "TV của bạn, không còn quảng cáo. Dọn sạch bất kỳ Android TV nào qua ADB và thay bằng một launcher gọn gàng lấy cảm hứng từ tvOS. Làm trong một buổi chiều với Claude Code.",
@@ -2004,7 +2004,7 @@
      "summary": {
       "en": "Breath of the Wild 1.6.0 is now officially supported on Mac! (Mac only for now: no iPhone or iPad build yet.) Tears of the Kingdom 1.0.0, 1.2.1 and 1.4.3 are now officially supported on Mac, iPhone…",
       "zh-Hans": "在 Apple Silicon Mac 上原生运行你自己拥有的《塞尔达传说：王国之泪》。带上游戏文件（XCI 或 NSP）和 prod.keys，一个脚本就能把它们变成 Mac 应用。",
-      "ja": "ワイルド1.6.0の息がMacで正式にサポートされます! (現在はMacのみ:iPhoneやiPadがまだビルドされていない) 王国の涙 1.0.0, 1.2.1 と 1.4.3 は、Mac上で正式にサポートされています, iPhone ...",
+      "ja": "『ブレス オブ ザ ワイルド』1.6.0 が Mac で正式サポートに（現時点では Mac のみで、iPhone・iPad 版はまだありません）。『ティアーズ オブ ザ キングダム』1.0.0、1.2.1、1.4.3 は Mac と iPhone などで正式サポート。",
       "ko": "내가 가진 젤다의 전설: 티어스 오브 더 킹덤을 Apple Silicon Mac에서 네이티브로 플레이하세요. 게임 파일(XCI 또는 NSP)과 prod.keys만 있으면 스크립트 하나로 Mac 앱이 됩니다.",
       "ms": "Main salinan The Legend of Zelda: Tears of the Kingdom milik anda secara natif pada Mac Apple Silicon. Bawa fail permainan (XCI atau NSP) dan prod.keys anda; satu skrip menjadikannya aplikasi Mac.",
       "vi": "Chơi bản The Legend of Zelda: Tears of the Kingdom của chính bạn trực tiếp trên Mac Apple Silicon. Mang theo tệp game (XCI hoặc NSP) và prod.keys; một script sẽ biến chúng thành ứng dụng Mac.",
@@ -2034,7 +2034,7 @@
      ]
     }
    ],
-   "updated": "2026-10-20T13:59:32Z"
+   "updated": "2026-10-20T14:15:39Z"
   },
   {
    "date": "2026-10-18",
