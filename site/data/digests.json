@@ -1024,40 +1024,40 @@
     {
      "id": "hn-50145337",
      "title": {
-      "zh-Hans": "混合理性代理:在潜在空间思考的LLM代理,通过文本行事",
-      "zh-Hant": "混合理性代理:在潛在空間思考的LLM代理,透過文字行事",
+      "zh-Hans": "混合推理智能体：在潜空间里思考、用文本行动的 LLM 智能体",
+      "zh-Hant": "混合推理智慧體：在潛空間裡思考、用文字行動的 LLM 智慧體",
       "en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "ja": "ハイブリッド・レイソン・エージェント: LLM エージェントは、潜在空間を考えると、テキストを通して行動する",
-      "ko": "Hybrid Reasoning Agents: LLM 에이전트는 늦은 공간에서 생각, 텍스트를 통해 행동",
-      "ms": "Agen Bernalar Hibrid: Agen LLM yang berpikir dalam ruang laten, bertindak melalui teks",
-      "vi": "Các đặc vụ lý luận lai: các tác nhân LM nghĩ trong không gian tiềm ẩn, hành động thông qua văn bản",
-      "fr": "Agents de raison hybride : agents LLM qui pensent dans l'espace latent, agissent par le texte",
-      "es": "Agentes de resonancia híbridos: agentes de LLM que piensan en el espacio latente, actúan a través del texto",
-      "de": "Hybrid Reasoning Agents: LLM-Agenten, die im latenten Raum denken, durch Text handeln"
+      "ko": "하이브리드 추론 에이전트: 잠재 공간에서 생각하고 텍스트로 행동하는 LLM 에이전트",
+      "ms": "Ejen Penaakulan Hibrid: ejen LLM yang berfikir dalam ruang terpendam, bertindak melalui teks",
+      "vi": "Tác tử suy luận lai: tác tử LLM suy nghĩ trong không gian ẩn, hành động bằng văn bản",
+      "fr": "Agents à raisonnement hybride : des agents LLM qui pensent dans l’espace latent et agissent par le texte",
+      "es": "Agentes de razonamiento híbrido: agentes LLM que piensan en el espacio latente y actúan mediante texto",
+      "de": "Hybride Reasoning-Agenten: LLM-Agenten, die im latenten Raum denken und über Text handeln"
      },
      "summary": {
       "en": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment?",
-      "zh-Hans": "我们怎样才能建立一种超越人类语言而仍然在外部环境中通过它行事的代理人呢?",
+      "zh-Hans": "怎样构建一个能超越人类语言去思考、却仍用语言在外部环境中行动的智能体？",
       "ja": "人間の言語を超えて考えるエージェントをビルドする方法は、まだ外部環境で動作しますか?",
-      "ko": "우리는 인간의 언어를 넘어 생각 하는 에이전트를 구축 하는 방법, 아직 여전히 외부 환경에서 작동?",
-      "ms": "Bagaimana kita bisa membangun agen yang berpikir di luar bahasa manusia, namun masih bertindak melalui itu di lingkungan eksternal?",
-      "vi": "Làm thế nào chúng ta có thể xây dựng một tác nhân nghĩ xa hơn ngôn ngữ của con người, nhưng vẫn hoạt động thông qua nó trong môi trường bên ngoài?",
-      "fr": "Comment pouvons-nous construire un agent qui pense au-delà du langage humain, mais qui agit encore à travers lui dans l'environnement extérieur?",
-      "es": "¿Cómo podemos construir un agente que piensa más allá del lenguaje humano, pero todavía actúa a través de él en el ambiente externo?",
-      "de": "Wie können wir einen Agenten aufbauen, der über die menschliche Sprache hinaus denkt und dennoch in der äußeren Umgebung handelt?",
-      "zh-Hant": "我們怎樣才能建立一種超越人類語言而仍然在外部環境中透過它行事的代理人呢?"
+      "ko": "인간의 언어를 넘어 생각하면서도 외부 환경에서는 여전히 언어로 행동하는 에이전트를 어떻게 만들 수 있을까요?",
+      "ms": "Bagaimana kita boleh membina ejen yang berfikir melangkaui bahasa manusia, tetapi masih bertindak melaluinya dalam persekitaran luar?",
+      "vi": "Làm sao xây dựng một tác tử suy nghĩ vượt ra ngoài ngôn ngữ con người nhưng vẫn hành động bằng ngôn ngữ trong môi trường bên ngoài?",
+      "fr": "Comment construire un agent qui pense au-delà du langage humain tout en agissant par lui dans l’environnement extérieur ?",
+      "es": "¿Cómo construir un agente que piense más allá del lenguaje humano y, aun así, actúe a través de él en el entorno externo?",
+      "de": "Wie baut man einen Agenten, der jenseits menschlicher Sprache denkt, in seiner Umgebung aber trotzdem über Sprache handelt?",
+      "zh-Hant": "怎樣構建一個能超越人類語言去思考、卻仍用語言在外部環境中行動的智慧體？"
      },
      "fact": {
-      "zh-Hans": "Hacker News 150 分 · 89 条评论",
-      "zh-Hant": "Hacker News 150 分 · 89 則留言",
-      "en": "150 points · 89 comments on Hacker News",
-      "ja": "Hacker News 150 ポイント · コメント 89 件",
-      "ko": "Hacker News 150점 · 댓글 89개",
-      "ms": "150 mata · 89 komen di Hacker News",
-      "vi": "150 điểm · 89 bình luận trên Hacker News",
-      "fr": "150 points · 89 commentaires sur Hacker News",
-      "es": "150 puntos · 89 comentarios en Hacker News",
-      "de": "150 Punkte · 89 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 506 分 · 236 条评论",
+      "zh-Hant": "Hacker News 506 分 · 236 則留言",
+      "en": "506 points · 236 comments on Hacker News",
+      "ja": "Hacker News 506 ポイント · コメント 236 件",
+      "ko": "Hacker News 506점 · 댓글 236개",
+      "ms": "506 mata · 236 komen di Hacker News",
+      "vi": "506 điểm · 236 bình luận trên Hacker News",
+      "fr": "506 points · 236 commentaires sur Hacker News",
+      "es": "506 puntos · 236 comentarios en Hacker News",
+      "de": "506 Punkte · 236 Kommentare auf Hacker News"
      },
      "url": "https://arxiv.org/abs/2610.18861",
      "src": "arxiv.org",
@@ -1065,45 +1065,48 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50145337"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50141429",
      "title": {
-      "zh-Hans": "Anthropic提出的AI安全法案 只有在50人死亡或1B美元损失的情况下才会生效",
-      "zh-Hant": "Anthropic提出的AI安全法案 只有在50人死亡或1B美元損失的情況下才會生效",
+      "zh-Hans": "Anthropic 提议的 AI 安全法案：致 50 人死亡或 10 亿美元损失才触发",
+      "zh-Hant": "Anthropic 提議的 AI 安全法案：致 50 人死亡或 10 億美元損失才觸發",
       "en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "ja": "Anthropicの提案されたAI安全法案は、50回の死亡または1Bのダメージでのみキック",
-      "ko": "Anthropic의 제안 된 AI 안전 법안은 50 사망 또는 $ 1B 손해 만 킥",
-      "ms": "Anthropic's diusulkan AI RUU keselamatan hanya menendang di jika 50 kematian atau $1B dalam kerusakan",
-      "vi": "Thuốc giảm đau đề xuất dự luật an toàn AI chỉ được đưa ra nếu 50 người chết hoặc 1B thiệt hại",
-      "fr": "Le projet de loi sur la sécurité de l'IA proposé par Anthropic n'entre en jeu que si 50 décès ou 1 milliard de dollars en dommages-intérêts",
-      "es": "La propuesta de la ley de seguridad AI de Antrópico sólo comienza si 50 muertes o $1B en daños",
-      "de": "Anthropics vorgeschlagenes AI-Sicherheitsgesetz tritt nur ein, wenn 50 Todesfälle oder $ 1B Schadensersatz"
+      "ko": "Anthropic이 제안한 AI 안전 법안, 사망 50명 또는 피해액 10억 달러부터 적용",
+      "ms": "Rang undang-undang keselamatan AI cadangan Anthropic hanya terpakai jika 50 kematian atau kerugian $1B",
+      "vi": "Dự luật an toàn AI do Anthropic đề xuất chỉ có hiệu lực khi có 50 người chết hoặc thiệt hại 1 tỷ USD",
+      "fr": "Le projet de loi sur la sûreté de l’IA proposé par Anthropic ne s’applique qu’à partir de 50 morts ou 1 Md$ de dégâts",
+      "es": "El proyecto de ley de seguridad de IA de Anthropic solo se activa con 50 muertes o 1.000 M$ en daños",
+      "de": "Anthropics vorgeschlagenes KI-Sicherheitsgesetz greift erst bei 50 Toten oder 1 Mrd. $ Schaden"
      },
      "summary": {
       "en": "Would this be enough to keep an AI model from going out of control?",
-      "zh-Hans": "这能防止AI模型失控吗?",
+      "zh-Hans": "这样就足以防止 AI 模型失控吗？",
       "ja": "コントロールからAIモデルを外すことは十分ですか?",
-      "ko": "제어에서 AI 모델을 유지하는 것이 충분합니까?",
-      "ms": "Apa ini cukup untuk menjaga model AI agar tidak lepas kendali?",
-      "vi": "Điều này có đủ để ngăn một mô hình AI khỏi mất kiểm soát không?",
-      "fr": "Serait-ce suffisant pour empêcher un modèle d'IA d'être hors de contrôle ?",
-      "es": "¿Sería suficiente para evitar que un modelo de IA se fuera de control?",
-      "de": "Würde dies ausreichen, um ein KI-Modell davon abzuhalten, außer Kontrolle zu geraten?",
-      "zh-Hant": "這能防止AI模型失控嗎?"
+      "ko": "이 정도로 AI 모델이 통제를 벗어나는 걸 막을 수 있을까요?",
+      "ms": "Adakah ini cukup untuk menghalang model AI daripada hilang kawalan?",
+      "vi": "Liệu như vậy có đủ để ngăn một mô hình AI vượt khỏi tầm kiểm soát?",
+      "fr": "Cela suffirait-il à empêcher un modèle d’IA de devenir incontrôlable ?",
+      "es": "¿Bastaría esto para evitar que un modelo de IA se descontrole?",
+      "de": "Würde das reichen, um ein KI-Modell davon abzuhalten, außer Kontrolle zu geraten?",
+      "zh-Hant": "這樣就足以防止 AI 模型失控嗎？"
      },
      "fact": {
-      "zh-Hans": "Hacker News 152 分 · 161 条评论",
-      "zh-Hant": "Hacker News 152 分 · 161 則留言",
-      "en": "152 points · 161 comments on Hacker News",
-      "ja": "Hacker News 152 ポイント · コメント 161 件",
-      "ko": "Hacker News 152점 · 댓글 161개",
-      "ms": "152 mata · 161 komen di Hacker News",
-      "vi": "152 điểm · 161 bình luận trên Hacker News",
-      "fr": "152 points · 161 commentaires sur Hacker News",
-      "es": "152 puntos · 161 comentarios en Hacker News",
-      "de": "152 Punkte · 161 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 171 分 · 167 条评论",
+      "zh-Hant": "Hacker News 171 分 · 167 則留言",
+      "en": "171 points · 167 comments on Hacker News",
+      "ja": "Hacker News 171 ポイント · コメント 167 件",
+      "ko": "Hacker News 171점 · 댓글 167개",
+      "ms": "171 mata · 167 komen di Hacker News",
+      "vi": "171 điểm · 167 bình luận trên Hacker News",
+      "fr": "171 points · 167 commentaires sur Hacker News",
+      "es": "171 puntos · 167 comentarios en Hacker News",
+      "de": "171 Punkte · 167 Kommentare auf Hacker News"
      },
      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
      "src": "tomshardware.com",
@@ -1111,45 +1114,48 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50141429"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50141657",
      "title": {
-      "zh-Hans": "网站对AI特工关闭了大门",
-      "zh-Hant": "網站對AI特工關閉了大門",
+      "zh-Hans": "网站正在对 AI 智能体关上大门",
+      "zh-Hant": "網站正在對 AI 智慧體關上大門",
       "en": "Websites are closing their doors to AI agents",
       "ja": "ウェブサイトはAIエージェントにドアを閉じています",
-      "ko": "웹 사이트는 AI Agent에 문을 닫습니다.",
-      "ms": "Mereka menutup pintu untuk agen AI",
-      "vi": "Websites đang đóng cửa lại với các đặc vụ AI",
-      "fr": "Les sites Web ferment leurs portes aux agents de l'IA",
-      "es": "Los sitios web están cerrando sus puertas a agentes de IA",
+      "ko": "웹사이트들이 AI 에이전트에게 문을 닫고 있다",
+      "ms": "Laman web menutup pintu kepada ejen AI",
+      "vi": "Các website đang đóng cửa với tác tử AI",
+      "fr": "Les sites web ferment leurs portes aux agents IA",
+      "es": "Los sitios web cierran sus puertas a los agentes de IA",
       "de": "Websites schließen ihre Türen für KI-Agenten"
      },
      "summary": {
       "en": "Online roadblocks are undermining the narrative behind AI agents.",
-      "zh-Hans": "网络路障破坏了AI特工背后的叙述.",
+      "zh-Hans": "线上的种种阻碍，正在动摇 AI 智能体背后的那套叙事。",
       "ja": "オンラインのロードブロックは、AIエージェントの背後にある物語を支配しています。",
-      "ko": "Online Roadblocks는 AI 에이전트 뒤에 narrative를 중단하고 있습니다.",
-      "ms": "Pemblokiran jalan Online yang mendasari narasi di belakang agen AI.",
-      "vi": "Các chốt chặn trực tuyến đang phá hoại câu chuyện phía sau các đặc vụ Al.",
-      "fr": "Les barrages routiers en ligne sapent le récit des agents de l'IA.",
-      "es": "Los bloqueos de carreteras en línea están socavando la narrativa detrás de los agentes de inteligencia artificial.",
-      "de": "Online-Straßensperren untergraben die Erzählung hinter KI-Agenten.",
-      "zh-Hant": "網路路障破壞了AI特工背後的敘述."
+      "ko": "온라인 곳곳의 장벽이 AI 에이전트를 둘러싼 서사를 흔들고 있습니다.",
+      "ms": "Sekatan dalam talian sedang melemahkan naratif di sebalik ejen AI.",
+      "vi": "Những rào cản trực tuyến đang làm lung lay câu chuyện được kể về tác tử AI.",
+      "fr": "Les obstacles en ligne fragilisent le discours qui entoure les agents IA.",
+      "es": "Los obstáculos en línea están socavando el relato en torno a los agentes de IA.",
+      "de": "Hürden im Netz untergraben die Erzählung rund um KI-Agenten.",
+      "zh-Hant": "線上的種種阻礙，正在動搖 AI 智慧體背後的那套敘事。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 133 分 · 125 条评论",
-      "zh-Hant": "Hacker News 133 分 · 125 則留言",
-      "en": "133 points · 125 comments on Hacker News",
-      "ja": "Hacker News 133 ポイント · コメント 125 件",
-      "ko": "Hacker News 133점 · 댓글 125개",
-      "ms": "133 mata · 125 komen di Hacker News",
-      "vi": "133 điểm · 125 bình luận trên Hacker News",
-      "fr": "133 points · 125 commentaires sur Hacker News",
-      "es": "133 puntos · 125 comentarios en Hacker News",
-      "de": "133 Punkte · 125 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 154 分 · 149 条评论",
+      "zh-Hant": "Hacker News 154 分 · 149 則留言",
+      "en": "154 points · 149 comments on Hacker News",
+      "ja": "Hacker News 154 ポイント · コメント 149 件",
+      "ko": "Hacker News 154점 · 댓글 149개",
+      "ms": "154 mata · 149 komen di Hacker News",
+      "vi": "154 điểm · 149 bình luận trên Hacker News",
+      "fr": "154 points · 149 commentaires sur Hacker News",
+      "es": "154 puntos · 149 comentarios en Hacker News",
+      "de": "154 Punkte · 149 Kommentare auf Hacker News"
      },
      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
      "src": "theverge.com",
@@ -1157,45 +1163,48 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50141657"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50138531",
      "title": {
-      "zh-Hans": "深搜索搜索和获取 — 每1000个成功请求0.75美元",
-      "zh-Hant": "深搜尋搜尋和獲取 — 每1000個成功請求0.75美元",
+      "zh-Hans": "DeepSeek 搜索与抓取 API：每 1000 次成功请求 0.75 美元",
+      "zh-Hant": "DeepSeek 搜尋與抓取 API：每 1000 次成功請求 0.75 美元",
       "en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "ja": "DeepSeek検索とフェッチ - $ 0.75 / 1000成功したリクエスト",
-      "ko": "DeepSeek 검색 및 fetch – 1000 성공적인 요청 당 $0.75",
-      "ms": "Pencarian dan pengambilan DeepSeek – $0.75 per 1000 permintaan sukses",
-      "vi": "Tìm kiếm sâu và lấy – 0,75 đô cho mỗi 1000 yêu cầu thành công",
-      "fr": "Recherche et recherche de DeepSeek – 0,75 $ par 1000 demandes retenues",
-      "es": "Búsqueda y búsqueda de DeepSeek – $0.75 por 1000 solicitudes exitosas",
-      "de": "DeepSeek Suche und Abruf - $0,75 pro 1000 erfolgreiche Anfragen"
+      "ko": "DeepSeek 검색·가져오기 API – 성공 요청 1000건당 0.75달러",
+      "ms": "DeepSeek Search dan Fetch – $0.75 bagi setiap 1000 permintaan berjaya",
+      "vi": "DeepSeek Search và Fetch – 0,75 USD cho mỗi 1000 yêu cầu thành công",
+      "fr": "DeepSeek Search et Fetch – 0,75 $ les 1000 requêtes réussies",
+      "es": "DeepSeek Search y Fetch: 0,75 $ por cada 1000 solicitudes correctas",
+      "de": "DeepSeek Search und Fetch – 0,75 $ pro 1000 erfolgreiche Anfragen"
      },
      "summary": {
       "en": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
-      "zh-Hans": "搜索 API 和 Freach API 给代理和 RAG 应用程序访问活网络内容 :",
+      "zh-Hans": "Search API 和 Fetch API 让智能体与 RAG 应用访问实时网页内容：",
       "ja": "検索 API と Fetch API は、エージェントと RAG アプリケーションがライブ Web コンテンツにアクセスします。",
-      "ko": "Search API 및 Fetch API는 에이전트 및 RAG 애플리케이션 액세스를 제공하여 웹 콘텐츠를 라이브합니다.",
-      "ms": "API Pencarian dan Fetch API memberikan agen dan aplikasi RAG akses ke konten web langsung:",
-      "vi": "Công cụ tìm kiếm cho các đặc vụ và ứng dụng RAG truy cập vào nội dung web:",
-      "fr": "L'API de recherche et l'API de recherche donnent aux agents et aux applications RAG accès au contenu web en direct:",
-      "es": "La API de búsqueda y la API de Fetch ofrecen a los agentes y las aplicaciones RAG acceso a contenidos web en vivo:",
-      "de": "Die Such-API und die Fetch-API bieten Agenten und RAG-Anwendungen Zugriff auf Live-Webinhalte:",
-      "zh-Hant": "搜尋 API 和 Freach API 給代理和 RAG 應用程式訪問活網路內容 :"
+      "ko": "Search API와 Fetch API는 에이전트와 RAG 애플리케이션이 실시간 웹 콘텐츠에 접근하게 해 줍니다:",
+      "ms": "Search API dan Fetch API memberi ejen dan aplikasi RAG akses kepada kandungan web langsung:",
+      "vi": "Search API và Fetch API cho phép tác tử và ứng dụng RAG truy cập nội dung web theo thời gian thực:",
+      "fr": "Les API Search et Fetch donnent aux agents et aux applications RAG un accès au contenu web en direct :",
+      "es": "La Search API y la Fetch API dan a agentes y aplicaciones RAG acceso a contenido web en vivo:",
+      "de": "Search API und Fetch API geben Agenten und RAG-Anwendungen Zugriff auf aktuelle Webinhalte:",
+      "zh-Hant": "Search API 和 Fetch API 讓智慧體與 RAG 應用訪問實時網頁內容："
      },
      "fact": {
-      "zh-Hans": "Hacker News 529 分 · 252 条评论",
-      "zh-Hant": "Hacker News 529 分 · 252 則留言",
-      "en": "529 points · 252 comments on Hacker News",
-      "ja": "Hacker News 529 ポイント · コメント 252 件",
-      "ko": "Hacker News 529점 · 댓글 252개",
-      "ms": "529 mata · 252 komen di Hacker News",
-      "vi": "529 điểm · 252 bình luận trên Hacker News",
-      "fr": "529 points · 252 commentaires sur Hacker News",
-      "es": "529 puntos · 252 comentarios en Hacker News",
-      "de": "529 Punkte · 252 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 601 分 · 282 条评论",
+      "zh-Hant": "Hacker News 601 分 · 282 則留言",
+      "en": "601 points · 282 comments on Hacker News",
+      "ja": "Hacker News 601 ポイント · コメント 282 件",
+      "ko": "Hacker News 601점 · 댓글 282개",
+      "ms": "601 mata · 282 komen di Hacker News",
+      "vi": "601 điểm · 282 bình luận trên Hacker News",
+      "fr": "601 points · 282 commentaires sur Hacker News",
+      "es": "601 puntos · 282 comentarios en Hacker News",
+      "de": "601 Punkte · 282 Kommentare auf Hacker News"
      },
      "url": "https://api-docs.deepseek.com/guides/search/",
      "src": "api-docs.deepseek.com",
@@ -1203,91 +1212,97 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50138531"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50142573",
      "title": {
-      "zh-Hans": "软件后面的人",
-      "zh-Hant": "軟體後面的人",
+      "zh-Hans": "软件背后的人",
+      "zh-Hant": "軟體背後的人",
       "en": "Someone behind the software",
       "ja": "ソフトウェアの背後にある人",
-      "ko": "소프트웨어 뒤에 누군가",
-      "ms": "Seseorang di balik perangkat lunak",
-      "vi": "Ai đó đứng sau phần mềm",
-      "fr": "Quelqu'un derrière le logiciel",
+      "ko": "소프트웨어 뒤에 있는 사람",
+      "ms": "Seseorang di sebalik perisian",
+      "vi": "Con người đằng sau phần mềm",
+      "fr": "Quelqu’un derrière le logiciel",
       "es": "Alguien detrás del software",
       "de": "Jemand hinter der Software"
      },
      "summary": {
       "en": "I think good products carry something of the people who make them. Their experience, what they care about, and how they think things should work.",
-      "zh-Hans": "我认为好的产品携带着制造它们的人的东西. 他们的经验,他们关心的是什么,他们认为事情应该如何运作.",
+      "zh-Hans": "我觉得好的产品带着做它的人的影子：他们的经验、他们在乎什么，以及他们认为事情应该怎样运作。",
       "ja": "作る人の何かを運ぶ良い製品だと思います。 彼らの経験、彼らが気にしているもの、そして物事がどのように機能すべきか。",
-      "ko": "나는 좋은 제품이 그들을 만드는 사람들의 무언가를 나타낸다. 그들의 경험, 그들은에 대해 걱정, 그들은 어떻게 일해야.",
-      "ms": "Saya pikir produk yang baik membawa sesuatu dari orang-orang yang membuatnya. Pengalaman mereka, apa yang mereka pedulikan, dan bagaimana mereka berpikir hal-hal harus bekerja.",
-      "vi": "Tôi nghĩ sản phẩm tốt mang theo một cái gì đó của những người tạo ra chúng. Kinh nghiệm của họ, những gì họ quan tâm, và cách họ nghĩ mọi thứ nên hoạt động.",
-      "fr": "Je pense que les bons produits portent quelque chose des gens qui les fabriquent. Leur expérience, ce dont ils se soucient et comment ils pensent que les choses devraient fonctionner.",
-      "es": "Creo que los buenos productos llevan algo de la gente que los hace. Su experiencia, lo que les importa, y cómo creen que las cosas deben funcionar.",
-      "de": "Ich denke, gute Produkte tragen etwas von den Menschen, die sie herstellen. Ihre Erfahrung, was sie interessiert und wie sie denken, dass die Dinge funktionieren sollten.",
-      "zh-Hant": "我認為好的產品攜帶著製造它們的人的東西. 他們的經驗,他們關心的是什麼,他們認為事情應該如何運作."
+      "ko": "좋은 제품에는 만든 사람의 무언가가 담겨 있다고 생각합니다. 그들의 경험, 그들이 중요하게 여기는 것, 그리고 일이 어떻게 돌아가야 한다고 보는지까지.",
+      "ms": "Saya rasa produk yang baik membawa sesuatu daripada orang yang membuatnya: pengalaman mereka, apa yang mereka pedulikan dan bagaimana mereka fikir sesuatu patut berfungsi.",
+      "vi": "Tôi nghĩ sản phẩm tốt mang theo dấu ấn của người làm ra nó: kinh nghiệm của họ, điều họ quan tâm và cách họ nghĩ mọi thứ nên vận hành.",
+      "fr": "Je pense que les bons produits portent quelque chose de ceux qui les font : leur expérience, ce qui leur importe et leur idée de la façon dont les choses devraient fonctionner.",
+      "es": "Creo que los buenos productos llevan algo de quienes los hacen: su experiencia, lo que les importa y cómo creen que deberían funcionar las cosas.",
+      "de": "Ich glaube, gute Produkte tragen etwas von den Menschen in sich, die sie bauen: ihre Erfahrung, was ihnen wichtig ist und wie Dinge ihrer Meinung nach funktionieren sollten.",
+      "zh-Hant": "我覺得好的產品帶著做它的人的影子：他們的經驗、他們在乎什麼，以及他們認為事情應該怎樣運作。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 276 分 · 116 条评论",
-      "zh-Hant": "Hacker News 276 分 · 116 則留言",
-      "en": "276 points · 116 comments on Hacker News",
-      "ja": "Hacker News 276 ポイント · コメント 116 件",
-      "ko": "Hacker News 276점 · 댓글 116개",
-      "ms": "276 mata · 116 komen di Hacker News",
-      "vi": "276 điểm · 116 bình luận trên Hacker News",
-      "fr": "276 points · 116 commentaires sur Hacker News",
-      "es": "276 puntos · 116 comentarios en Hacker News",
-      "de": "276 Punkte · 116 Kommentare auf Hacker News"
+      "zh-Hans": "",
+      "zh-Hant": "",
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "ms": "",
+      "vi": "",
+      "fr": "",
+      "es": "",
+      "de": ""
      },
      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
      "src": "karrisaarinen.com",
-     "date": "2026-10-18",
+     "date": "",
      "extra": [
       "https://news.ycombinator.com/item?id=50142573"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50137950",
      "title": {
-      "zh-Hans": "Sphinx – 一个在运输前在你的AI代码上测试你的钩子",
-      "zh-Hant": "Sphinx – 一個在運輸前在你的AI程式碼上測試你的鉤子",
+      "zh-Hans": "Sphinx：上线前先就 AI 写的代码考考你的 Git 钩子",
+      "zh-Hant": "Sphinx：上線前先就 AI 寫的程式碼考考你的 Git 鉤子",
       "en": "Sphinx – A hook that quizzes you on your AI's code before shipping",
       "ja": "Sphinx - 出荷前にAIのコードであなたをクイズするホック",
-      "ko": "Sphinx – 배송 전에 AI의 코드를 퀴즈",
-      "ms": "Sphinx – Sebuah hook yang mekuiz Anda pada kode AI Anda sebelum pengiriman",
-      "vi": "Sphinx – Một cái móc câu đố bạn trên mã AI của bạn trước khi vận chuyển",
-      "fr": "Sphinx – Un crochet qui vous interroge sur le code de votre AI avant l'expédition",
-      "es": "Esfinge – Un gancho que te extrae en el código de tu AI antes de enviar",
-      "de": "Sphinx - Ein Haken, der Sie vor dem Versand nach dem Code Ihrer KI fragt"
+      "ko": "Sphinx – 배포 전에 AI가 짠 코드에 대해 퀴즈를 내는 훅",
+      "ms": "Sphinx – hook yang menguji anda tentang kod AI anda sebelum dihantar",
+      "vi": "Sphinx – hook đố bạn về mã AI viết trước khi phát hành",
+      "fr": "Sphinx – un hook qui vous interroge sur le code de votre IA avant de livrer",
+      "es": "Sphinx: un hook que te examina sobre el código de tu IA antes de publicarlo",
+      "de": "Sphinx – ein Hook, der dich vor dem Ausliefern zum Code deiner KI abfragt"
      },
      "summary": {
       "en": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.",
-      "zh-Hans": "代理辅助开发的Git钩. Sphinx在你的代理密码船之前, 问及它的实际作用。",
+      "zh-Hans": "一个面向智能体辅助开发的 Git 钩子。在智能体写的代码上线前，Sphinx 会问你一个问题：这段代码到底做了什么。",
       "ja": "エージェント支援開発のためのGitホック。 エージェントのコードが出荷される前に、Sphinx は実際に何をするかについて質問をします。",
-      "ko": "에이전트 보조 개발을 위한 Git Hook. 에이전트의 코드를 발송하기 전에 Sphinx는 실제로 수행하는 방법에 대해 질문을합니다.",
-      "ms": "A Git hoo untuk agen-assisted pengembangan. Sebelum kapal kode agen Anda, Sphinx mengajukan pertanyaan tentang apa yang sebenarnya dilakukannya.",
-      "vi": "Một cái móc nối cho sự phát triển đặc vụ. Trước khi dùng mật mã của người đại diện, Sphinx hỏi bạn về cách họ thực sự làm.",
-      "fr": "Un crochet Git pour le développement assisté par un agent. Avant que votre agent s'engage, Sphinx vous pose une question sur ce qu'il fait réellement.",
-      "es": "Un gancho de Git para el desarrollo asistido por agentes. Antes de las naves de código de su agente, Sphinx le hace una pregunta sobre lo que realmente hace.",
-      "de": "Ein Git-Hook für agentengestützte Entwicklung. Bevor der Code Ihres Agenten versendet wird, stellt Ihnen Sphinx eine Frage darüber, was er tatsächlich tut.",
-      "zh-Hant": "代理輔助開發的Git鉤. Sphinx在你的代理密碼船之前, 問及它的實際作用。"
+      "ko": "에이전트 지원 개발을 위한 Git 훅입니다. 에이전트의 코드가 배포되기 전에 Sphinx가 그 코드가 실제로 무엇을 하는지 질문합니다.",
+      "ms": "Hook Git untuk pembangunan berbantu ejen. Sebelum kod ejen anda dihantar, Sphinx bertanya satu soalan tentang apa sebenarnya yang dilakukan kod itu.",
+      "vi": "Một Git hook cho phát triển có tác tử hỗ trợ. Trước khi mã của tác tử được phát hành, Sphinx hỏi bạn một câu về việc đoạn mã đó thực sự làm gì.",
+      "fr": "Un hook Git pour le développement assisté par agent. Avant que le code de votre agent ne parte en production, Sphinx vous pose une question sur ce qu’il fait réellement.",
+      "es": "Un hook de Git para el desarrollo asistido por agentes. Antes de que el código de tu agente se publique, Sphinx te hace una pregunta sobre lo que realmente hace.",
+      "de": "Ein Git-Hook für agentengestützte Entwicklung. Bevor der Code deines Agenten ausgeliefert wird, stellt dir Sphinx eine Frage dazu, was er tatsächlich tut.",
+      "zh-Hant": "一個面向智慧體輔助開發的 Git 鉤子。在智慧體寫的程式碼上線前，Sphinx 會問你一個問題：這段程式碼到底做了什麼。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 238 分 · 81 条评论",
-      "zh-Hant": "Hacker News 238 分 · 81 則留言",
-      "en": "238 points · 81 comments on Hacker News",
-      "ja": "Hacker News 238 ポイント · コメント 81 件",
-      "ko": "Hacker News 238점 · 댓글 81개",
-      "ms": "238 mata · 81 komen di Hacker News",
-      "vi": "238 điểm · 81 bình luận trên Hacker News",
-      "fr": "238 points · 81 commentaires sur Hacker News",
-      "es": "238 puntos · 81 comentarios en Hacker News",
-      "de": "238 Punkte · 81 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 252 分 · 89 条评论",
+      "zh-Hant": "Hacker News 252 分 · 89 則留言",
+      "en": "252 points · 89 comments on Hacker News",
+      "ja": "Hacker News 252 ポイント · コメント 89 件",
+      "ko": "Hacker News 252점 · 댓글 89개",
+      "ms": "252 mata · 89 komen di Hacker News",
+      "vi": "252 điểm · 89 bình luận trên Hacker News",
+      "fr": "252 points · 89 commentaires sur Hacker News",
+      "es": "252 puntos · 89 comentarios en Hacker News",
+      "de": "252 Punkte · 89 Kommentare auf Hacker News"
      },
      "url": "https://sphinx-six-theta.vercel.app/",
      "src": "sphinx-six-theta.vercel.app",
@@ -1295,74 +1310,80 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50137950"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50141076",
      "title": {
-      "zh-Hans": "RepRapMicron 图像",
-      "zh-Hant": "RepRapMicron 影象",
+      "zh-Hans": "RepRapMicron",
+      "zh-Hant": "RepRapMicron",
       "en": "RepRapMicron",
       "ja": "リプラップミクロン",
-      "ko": "RSS 피드",
+      "ko": "RepRapMicron",
       "ms": "RepRapMicron",
-      "vi": "Khối bát diện",
+      "vi": "RepRapMicron",
       "fr": "RepRapMicron",
       "es": "RepRapMicron",
       "de": "RepRapMicron"
      },
      "summary": {
       "en": "μRepRap - A 3D printer project designed to work at the micron scale",
-      "zh-Hans": "μRepRap - 一个3D打印机项目,设计在微量范围内工作",
+      "zh-Hans": "μRepRap：一个面向微米尺度工作的 3D 打印机项目",
       "ja": "μRepRap - ミクロンスケールで動作するように設計された3Dプリンタープロジェクト",
-      "ko": "μRepRap - 미크론 가늠자에 일하기 위하여 디자인된 3D 인쇄 기계 프로젝트",
-      "ms": "μ*RepRap - Proyek pencetak 3D dirancang untuk bekerja pada skala mikron",
-      "vi": "RepRap - Một dự án máy in 3D được thiết kế để làm việc với quy mô vi mô",
-      "fr": "μRepRap - Un projet d'imprimante 3D conçu pour fonctionner à l'échelle micron",
-      "es": "μRepRap - Un proyecto de impresora 3D diseñado para trabajar en la escala de micrones",
-      "de": "μRepRap - Ein 3D-Druckerprojekt, das für die Arbeit im Mikrometerbereich entwickelt wurde",
-      "zh-Hant": "μRepRap - 一個3D印表機專案,設計在微量範圍內工作"
+      "ko": "μRepRap - 마이크론 단위에서 동작하도록 설계된 3D 프린터 프로젝트",
+      "ms": "μRepRap - projek pencetak 3D yang direka untuk berfungsi pada skala mikron",
+      "vi": "μRepRap - dự án máy in 3D được thiết kế để làm việc ở cấp độ micromet",
+      "fr": "μRepRap - un projet d’imprimante 3D conçu pour travailler à l’échelle du micron",
+      "es": "μRepRap - un proyecto de impresora 3D diseñado para trabajar a escala de micras",
+      "de": "μRepRap - ein 3D-Drucker-Projekt für den Mikrometerbereich",
+      "zh-Hant": "μRepRap：一個面向微米尺度工作的 3D 印表機專案"
      },
      "fact": {
-      "zh-Hans": "Hacker News 319 分 · 51 条评论",
-      "zh-Hant": "Hacker News 319 分 · 51 則留言",
-      "en": "319 points · 51 comments on Hacker News",
-      "ja": "Hacker News 319 ポイント · コメント 51 件",
-      "ko": "Hacker News 319점 · 댓글 51개",
-      "ms": "319 mata · 51 komen di Hacker News",
-      "vi": "319 điểm · 51 bình luận trên Hacker News",
-      "fr": "319 points · 51 commentaires sur Hacker News",
-      "es": "319 puntos · 51 comentarios en Hacker News",
-      "de": "319 Punkte · 51 Kommentare auf Hacker News"
+      "zh-Hans": "",
+      "zh-Hant": "",
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "ms": "",
+      "vi": "",
+      "fr": "",
+      "es": "",
+      "de": ""
      },
      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
      "src": "github.com",
-     "date": "2026-10-18",
+     "date": "",
      "extra": [
       "https://news.ycombinator.com/item?id=50141076"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50144066",
      "title": {
-      "zh-Hans": "现在自由的帕斯卡编译器支持动态包",
-      "zh-Hant": "現在自由的帕斯卡編譯器支援動態包",
+      "zh-Hans": "Free Pascal 编译器现已支持动态包",
+      "zh-Hant": "Free Pascal 編譯器現已支援動態包",
       "en": "Free Pascal compiler now supports dynamic packages",
       "ja": "Free Pascalコンパイラが動的パッケージをサポート",
-      "ko": "Free Pascal 컴파일러는 이제 동적 패키지를 지원합니다.",
-      "ms": "Pengkompilator Free Pascal kini mendukung paket dinamis",
-      "vi": "Trình biên dịch Free Pascal bây giờ hỗ trợ các gói hoạt động",
-      "fr": "Le compilateur Pascal gratuit prend désormais en charge les paquets dynamiques",
-      "es": "El compilador Pascal gratuito ahora admite paquetes dinámicos",
-      "de": "Free Pascal Compiler unterstützt jetzt dynamische Pakete"
+      "ko": "Free Pascal 컴파일러, 이제 동적 패키지 지원",
+      "ms": "Pengkompil Free Pascal kini menyokong pakej dinamik",
+      "vi": "Trình biên dịch Free Pascal nay hỗ trợ gói động",
+      "fr": "Le compilateur Free Pascal prend désormais en charge les paquets dynamiques",
+      "es": "El compilador Free Pascal ya admite paquetes dinámicos",
+      "de": "Der Free-Pascal-Compiler unterstützt jetzt dynamische Pakete"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 getlazarus.org。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 getlazarus.org。",
+      "zh-Hans": "分享于 Hacker News；原文在 getlazarus.org。",
+      "zh-Hant": "分享於 Hacker News；原文在 getlazarus.org。",
       "en": "Shared on Hacker News; original at getlazarus.org.",
       "ja": "Hacker News で共有されたリンク。元記事は getlazarus.org にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 getlazarus.org에 있습니다.",
+      "ko": "Hacker News에서 공유됨. 원문은 getlazarus.org에 있습니다.",
       "ms": "Dikongsi di Hacker News; artikel asal di getlazarus.org.",
       "vi": "Được chia sẻ trên Hacker News; bài gốc tại getlazarus.org.",
       "fr": "Partagé sur Hacker News ; original sur getlazarus.org.",
@@ -1370,16 +1391,16 @@
       "de": "Geteilt auf Hacker News; Original auf getlazarus.org."
      },
      "fact": {
-      "zh-Hans": "Hacker News 100 分 · 13 条评论",
-      "zh-Hant": "Hacker News 100 分 · 13 則留言",
-      "en": "100 points · 13 comments on Hacker News",
-      "ja": "Hacker News 100 ポイント · コメント 13 件",
-      "ko": "Hacker News 100점 · 댓글 13개",
-      "ms": "100 mata · 13 komen di Hacker News",
-      "vi": "100 điểm · 13 bình luận trên Hacker News",
-      "fr": "100 points · 13 commentaires sur Hacker News",
-      "es": "100 puntos · 13 comentarios en Hacker News",
-      "de": "100 Punkte · 13 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 198 分 · 52 条评论",
+      "zh-Hant": "Hacker News 198 分 · 52 則留言",
+      "en": "198 points · 52 comments on Hacker News",
+      "ja": "Hacker News 198 ポイント · コメント 52 件",
+      "ko": "Hacker News 198점 · 댓글 52개",
+      "ms": "198 mata · 52 komen di Hacker News",
+      "vi": "198 điểm · 52 bình luận trên Hacker News",
+      "fr": "198 points · 52 commentaires sur Hacker News",
+      "es": "198 puntos · 52 comentarios en Hacker News",
+      "de": "198 Punkte · 52 Kommentare auf Hacker News"
      },
      "url": "https://www.getlazarus.org/dynamic/",
      "src": "getlazarus.org",
@@ -1387,245 +1408,263 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50144066"
      ],
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     }
    ],
    "more": [
     {
      "id": "hn-50140001",
      "title": {
-      "zh-Hans": "打开微管理器 — 一个子微计 3D 运动控制平台",
-      "zh-Hant": "開啟微管理器 — 一個子微計 3D 運動控制平臺",
+      "zh-Hans": "Open MicroManipulator：亚微米级 3D 运动控制平台",
+      "zh-Hant": "Open MicroManipulator：亞微米級 3D 運動控制平臺",
       "en": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "ja": "MicroManipulatorを開く - サブマイクロメータ3Dモーションコントロールプラットフォーム",
-      "ko": "MicroManipulator – 서브 마이크로미터 3D 모션 컨트롤 plattform",
-      "ms": "MicroManipulator Terbuka – Sebuah plattform kontrol gerak sub-mikrometer 3D",
-      "vi": "Mở máy nén vi mô — Một đơn vị chuyển động ba chiều phụ",
-      "fr": "MicroManipulateur ouvert – Un plattforme de contrôle de mouvement 3D de sous-micromètre",
-      "es": "Open MicroManipulator – A submicrómetro 3D control de movimiento plattform",
-      "de": "Open MicroManipulator – eine Sub-Mikrometer-3D-Bewegungssteuerungsplattform"
+      "ko": "Open MicroManipulator – 서브마이크로미터급 3D 모션 제어 플랫폼",
+      "ms": "Open MicroManipulator – platform kawalan gerakan 3D sub-mikrometer",
+      "vi": "Open MicroManipulator – nền tảng điều khiển chuyển động 3D dưới micromet",
+      "fr": "Open MicroManipulator – une plateforme de contrôle de mouvement 3D submicrométrique",
+      "es": "Open MicroManipulator: una plataforma de control de movimiento 3D submicrométrica",
+      "de": "Open MicroManipulator – eine 3D-Bewegungssteuerung im Submikrometerbereich"
      },
      "summary": {
       "en": "A sub-micrometer 3D motion control plattform.",
-      "zh-Hans": "一个分微分仪3D运动控制平板.",
+      "zh-Hans": "一个亚微米级的 3D 运动控制平台。",
       "ja": "サブマイクロメータ3Dモーションコントロールプラットフォーム。",
-      "ko": "sub-micrometer 3D 모션 컨트롤 plattform.",
-      "ms": "Sebuah sub-mikrometer 3D kontrol gerak plattform.",
-      "vi": "Một đơn vị vận động 3D dưới kính 3 chiều.",
-      "fr": "Un plattforme de contrôle de mouvement 3D sous-micrométrique.",
-      "es": "Un control de movimiento 3D submicrómetro platform.",
-      "de": "Eine Sub-Mikrometer-3D-Bewegungssteuerungsplattform.",
-      "zh-Hant": "一個分微分儀3D運動控制平板."
+      "ko": "서브마이크로미터 정밀도의 3D 모션 제어 플랫폼입니다.",
+      "ms": "Platform kawalan gerakan 3D pada ketepatan sub-mikrometer.",
+      "vi": "Một nền tảng điều khiển chuyển động 3D với độ chính xác dưới micromet.",
+      "fr": "Une plateforme de contrôle de mouvement 3D à précision submicrométrique.",
+      "es": "Una plataforma de control de movimiento 3D con precisión submicrométrica.",
+      "de": "Eine 3D-Bewegungssteuerungsplattform mit Submikrometer-Präzision.",
+      "zh-Hant": "一個亞微米級的 3D 運動控制平臺。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 170 分 · 13 条评论",
-      "zh-Hant": "Hacker News 170 分 · 13 則留言",
-      "en": "170 points · 13 comments on Hacker News",
-      "ja": "Hacker News 170 ポイント · コメント 13 件",
-      "ko": "Hacker News 170점 · 댓글 13개",
-      "ms": "170 mata · 13 komen di Hacker News",
-      "vi": "170 điểm · 13 bình luận trên Hacker News",
-      "fr": "170 points · 13 commentaires sur Hacker News",
-      "es": "170 puntos · 13 comentarios en Hacker News",
-      "de": "170 Punkte · 13 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 218 分 · 18 条评论",
+      "zh-Hant": "Hacker News 218 分 · 18 則留言",
+      "en": "218 points · 18 comments on Hacker News",
+      "ja": "Hacker News 218 ポイント · コメント 18 件",
+      "ko": "Hacker News 218점 · 댓글 18개",
+      "ms": "218 mata · 18 komen di Hacker News",
+      "vi": "218 điểm · 18 bình luận trên Hacker News",
+      "fr": "218 points · 18 commentaires sur Hacker News",
+      "es": "218 puntos · 18 comentarios en Hacker News",
+      "de": "218 Punkte · 18 Kommentare auf Hacker News"
      },
      "url": "https://github.com/0x23/MicroManipulatorStepper",
      "src": "github.com",
      "date": "2026-10-18",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50137820",
      "title": {
-      "zh-Hans": "Opus 5.5 在一个 6.3 MB HTML 文件的500个时钟",
-      "zh-Hant": "Opus 5.5 在一個 6.3 MB HTML 檔案的500個時鐘",
+      "zh-Hans": "Opus 5.5 做的 500 个时钟，装在一个 6.3 MB 的 HTML 文件里",
+      "zh-Hant": "Opus 5.5 做的 500 個時鐘，裝在一個 6.3 MB 的 HTML 檔案裡",
       "en": "500 clocks in one 6.3 MB HTML file by Opus 5.5",
       "ja": "Opus 5.5 による 1 6.3 MB HTML ファイルの 500 クロック",
-      "ko": "Opus 5.5의 1 6.3 MB HTML 파일에 500 시계",
-      "ms": "Bonus 500 jam dalam satu berkas HTML 6,3 MB oleh Opus 5,5",
-      "vi": "500 đồng hồ trong 1 6.3 MB file HTML bởi Opus 5.5",
-      "fr": "500 horloges dans un fichier HTML de 6,3 Mo par Opus 5.5",
-      "es": "500 relojes en un archivo HTML de 6,3 MB por Opus 5,5",
-      "de": "500 Uhren in einer 6,3 MB HTML-Datei von Opus 5,5"
+      "ko": "Opus 5.5가 만든 시계 500개, 6.3MB HTML 파일 하나에",
+      "ms": "500 jam dalam satu fail HTML 6.3 MB oleh Opus 5.5",
+      "vi": "500 chiếc đồng hồ trong một tệp HTML 6,3 MB do Opus 5.5 làm",
+      "fr": "500 horloges dans un seul fichier HTML de 6,3 Mo, par Opus 5.5",
+      "es": "500 relojes en un solo archivo HTML de 6,3 MB, hechos por Opus 5.5",
+      "de": "500 Uhren in einer einzigen 6,3-MB-HTML-Datei, gebaut von Opus 5.5"
      },
      "summary": {
       "en": "A living gallery of unusual, creative, and beautiful ways to display the current time.",
-      "zh-Hans": "一个活的画廊 有着不同寻常的,创造性的, 和美丽的方式来展示当前时间。",
+      "zh-Hans": "一个活的画廊，用各种不寻常、有创意又好看的方式显示当前时间。",
       "ja": "現在の時間を表示するための珍しい、創造的、そして美しい方法のリビングルーム。",
-      "ko": "현재 시각을 표시하는 특이하고 창의적이고 아름다운 방법의 살아있는 화랑.",
-      "ms": "Galeri hidup yang luar biasa, kreatif, dan indah untuk menampilkan waktu sekarang.",
-      "vi": "Một nơi trưng bày những cách sống khác thường, sáng tạo và đẹp đẽ để biểu lộ thời gian hiện tại.",
-      "fr": "Une galerie vivante de façons inhabituelles, créatives et belles d'afficher l'heure actuelle.",
-      "es": "Una galería viviente de formas inusuales, creativas y hermosas para mostrar el tiempo actual.",
-      "de": "Eine lebende Galerie mit ungewöhnlichen, kreativen und schönen Möglichkeiten, die aktuelle Zeit anzuzeigen.",
-      "zh-Hant": "一個活的畫廊 有著不同尋常的,創造性的, 和美麗的方式來展示當前時間。"
+      "ko": "현재 시각을 독특하고 창의적이며 아름답게 보여 주는 방법들을 모은 살아 있는 갤러리입니다.",
+      "ms": "Galeri hidup berisi cara luar biasa, kreatif dan indah untuk memaparkan waktu semasa.",
+      "vi": "Một phòng trưng bày sống động với những cách hiển thị giờ hiện tại khác thường, sáng tạo và đẹp mắt.",
+      "fr": "Une galerie vivante de façons insolites, créatives et belles d’afficher l’heure.",
+      "es": "Una galería viva de formas inusuales, creativas y bonitas de mostrar la hora actual.",
+      "de": "Eine lebendige Galerie ungewöhnlicher, kreativer und schöner Arten, die aktuelle Uhrzeit anzuzeigen.",
+      "zh-Hant": "一個活的畫廊，用各種不尋常、有創意又好看的方式顯示當前時間。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 63 分 · 27 条评论",
-      "zh-Hant": "Hacker News 63 分 · 27 則留言",
-      "en": "63 points · 27 comments on Hacker News",
-      "ja": "Hacker News 63 ポイント · コメント 27 件",
-      "ko": "Hacker News 63점 · 댓글 27개",
-      "ms": "63 mata · 27 komen di Hacker News",
-      "vi": "63 điểm · 27 bình luận trên Hacker News",
-      "fr": "63 points · 27 commentaires sur Hacker News",
-      "es": "63 puntos · 27 comentarios en Hacker News",
-      "de": "63 Punkte · 27 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 73 分 · 31 条评论",
+      "zh-Hant": "Hacker News 73 分 · 31 則留言",
+      "en": "73 points · 31 comments on Hacker News",
+      "ja": "Hacker News 73 ポイント · コメント 31 件",
+      "ko": "Hacker News 73점 · 댓글 31개",
+      "ms": "73 mata · 31 komen di Hacker News",
+      "vi": "73 điểm · 31 bình luận trên Hacker News",
+      "fr": "73 points · 31 commentaires sur Hacker News",
+      "es": "73 puntos · 31 comentarios en Hacker News",
+      "de": "73 Punkte · 31 Kommentare auf Hacker News"
      },
      "url": "https://tkgally.github.io/500-clocks/",
      "src": "tkgally.github.io",
      "date": "2026-10-18",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50133231",
      "title": {
-      "zh-Hans": "Codex 桌面持续生成 Crashpad 待处理的垃圾堆",
-      "zh-Hant": "Codex 桌面持續生成 Crashpad 待處理的垃圾堆",
+      "zh-Hans": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
+      "zh-Hant": "Codex Desktop 不斷生成 Crashpad 待處理轉儲檔案",
       "en": "Codex Desktop continuously generates Crashpad pending dumps",
       "ja": "Codex デスクトップは、Crashpad バックエンド ダンプを継続的に生成します。",
-      "ko": "Codex Desktop은 Crashpad를 통해 덤프를 지속적으로 생성합니다.",
-      "ms": "Codex Codex Desktop secara terus menerus menghasilkan tempat sampah yang tertunda Crashpad",
-      "vi": "Name",
-      "fr": "Codex Desktop génère en permanence Crashpad en attente de décharges",
-      "es": "Codex Desktop genera continuamente vertederos pendientes Crashpad",
-      "de": "Codex Desktop generiert kontinuierlich Crashpad pending Dumps"
+      "ko": "Codex Desktop이 Crashpad 대기 덤프를 계속 생성",
+      "ms": "Codex Desktop terus menjana longgokan Crashpad yang belum selesai",
+      "vi": "Codex Desktop liên tục tạo các bản dump Crashpad đang chờ xử lý",
+      "fr": "Codex Desktop génère sans cesse des dumps Crashpad en attente",
+      "es": "Codex Desktop genera continuamente volcados pendientes de Crashpad",
+      "de": "Codex Desktop erzeugt laufend ausstehende Crashpad-Dumps"
      },
      "summary": {
       "en": "Lightweight coding agent that runs in your terminal",
-      "zh-Hans": "在终端运行的轻量级编码代理",
+      "zh-Hans": "在终端里运行的轻量级编程智能体",
       "ja": "端末で動く軽量なコーディングエージェント",
-      "ko": "맨끝에서 달리는 경량 기호화 대리인",
-      "ms": "Agen coding kelas ringan yang berjalan di terminal Anda",
-      "vi": "Công cụ mã hóa nhẹ ký mà chạy trong thiết bị cuối",
-      "fr": "Agent de codage léger qui fonctionne dans votre terminal",
-      "es": "Agente de codificación ligero que funciona en su terminal",
-      "de": "Leichter Codierungsagent, der in Ihrem Terminal läuft",
-      "zh-Hant": "在終端執行的輕量級編碼代理"
+      "ko": "터미널에서 실행되는 가벼운 코딩 에이전트",
+      "ms": "Ejen pengekodan ringan yang berjalan dalam terminal anda",
+      "vi": "Tác tử lập trình gọn nhẹ chạy trong terminal của bạn",
+      "fr": "Un agent de code léger qui tourne dans votre terminal",
+      "es": "Un agente de programación ligero que funciona en tu terminal",
+      "de": "Ein schlanker Coding-Agent, der in deinem Terminal läuft",
+      "zh-Hant": "在終端裡執行的輕量級程式設計智慧體"
      },
      "fact": {
-      "zh-Hans": "Hacker News 167 分 · 81 条评论",
-      "zh-Hant": "Hacker News 167 分 · 81 則留言",
-      "en": "167 points · 81 comments on Hacker News",
-      "ja": "Hacker News 167 ポイント · コメント 81 件",
-      "ko": "Hacker News 167점 · 댓글 81개",
-      "ms": "167 mata · 81 komen di Hacker News",
-      "vi": "167 điểm · 81 bình luận trên Hacker News",
-      "fr": "167 points · 81 commentaires sur Hacker News",
-      "es": "167 puntos · 81 comentarios en Hacker News",
-      "de": "167 Punkte · 81 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 174 分 · 88 条评论",
+      "zh-Hant": "Hacker News 174 分 · 88 則留言",
+      "en": "174 points · 88 comments on Hacker News",
+      "ja": "Hacker News 174 ポイント · コメント 88 件",
+      "ko": "Hacker News 174점 · 댓글 88개",
+      "ms": "174 mata · 88 komen di Hacker News",
+      "vi": "174 điểm · 88 bình luận trên Hacker News",
+      "fr": "174 points · 88 commentaires sur Hacker News",
+      "es": "174 puntos · 88 comentarios en Hacker News",
+      "de": "174 Punkte · 88 Kommentare auf Hacker News"
      },
      "url": "https://github.com/openai/codex/issues/25921",
      "src": "github.com",
      "date": "2026-10-17",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50132278",
      "title": {
-      "zh-Hans": "Amazon使用AI监控英国仓库的工会风险.",
-      "zh-Hant": "Amazon使用AI監控英國倉庫的工會風險.",
+      "zh-Hans": "亚马逊在英国仓库用 AI 监测工会风险",
+      "zh-Hant": "亞馬遜在英國倉庫用 AI 監測工會風險",
       "en": "Amazon uses AI to monitor union risk in UK warehouses",
       "ja": "Amazon は、AI を使用して、英国倉庫でのユニオンリスクを監視",
-      "ko": "Amazon은 AI를 사용하여 영국 창고의 조합 위험을 모니터링합니다.",
-      "ms": "Amazon menggunakan AI untuk memantau risiko serikat pekerja di gudang Inggris",
-      "vi": "Amazon sử dụng AI để giám sát công đoàn rủi ro trong các nhà kho Anh Quốc",
-      "fr": "Amazon utilise l'IA pour surveiller le risque syndical dans les entrepôts britanniques",
-      "es": "Amazon utiliza AI para supervisar el riesgo sindical en los almacenes del Reino Unido",
-      "de": "Amazon nutzt KI, um das Gewerkschaftsrisiko in britischen Lagern zu überwachen"
+      "ko": "아마존, 영국 물류창고에서 AI로 노조 결성 위험 감시",
+      "ms": "Amazon guna AI untuk memantau risiko kesatuan sekerja di gudang UK",
+      "vi": "Amazon dùng AI giám sát nguy cơ thành lập công đoàn tại kho hàng ở Anh",
+      "fr": "Amazon utilise l’IA pour surveiller le risque syndical dans ses entrepôts britanniques",
+      "es": "Amazon usa IA para vigilar el riesgo sindical en sus almacenes del Reino Unido",
+      "de": "Amazon überwacht mit KI das Gewerkschaftsrisiko in britischen Lagern"
      },
      "summary": {
       "en": "Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model",
-      "zh-Hans": "内部文件建议科技巨头为\"破坏工会\"AI模型收集\"上百个数据点\".",
+      "zh-Hans": "内部文件显示，这家科技巨头为一个“打压工会”的 AI 模型收集了“数百个数据点”。",
       "ja": "内部文書は、テクノロジーの巨人が「ユニオン・ブッシュ」AIモデルのための「データ・ポイントの探求」を集めることを提案します",
-      "ko": "내부 문서는 ‘union-busting’ AI 모델에 대한 데이터 포인트의 훈드를 수집합니다.",
-      "ms": "Dokumen internal pemerintah menyarankan raksasa teknologi mengumpulkan ‘seratus titik data' untuk model AI 'union-busting'",
-      "vi": "Các tài liệu nội bộ cho thấy người khổng lồ kỹ thuật thu thập ‘ hàng trăm điểm dữ liệu cho ‘ mô hình AI phá hoại",
-      "fr": "Des documents internes suggèrent que le géant de la technologie recueille des centaines de points de données pour le modèle AI de \"syndicat\"",
-      "es": "Los documentos internos sugieren que el gigante tecnológico recoge \"Cientos de puntos de datos\" para el modelo de IA que no se utiliza",
-      "de": "Interne Dokumente deuten darauf hin, dass der Technologieriese \"Hunderte von Datenpunkten\" für ein \"gewerkschaftszerstörendes\" KI-Modell sammelt",
-      "zh-Hant": "內部檔案建議科技巨頭為\"破壞工會\"AI模型收集\"上百個資料點\"."
+      "ko": "내부 문서에 따르면 이 거대 기술 기업은 '노조 와해' AI 모델을 위해 '수백 개의 데이터 포인트'를 수집합니다.",
+      "ms": "Dokumen dalaman menunjukkan gergasi teknologi itu mengumpul ‘ratusan titik data’ untuk model AI ‘pemecah kesatuan’.",
+      "vi": "Tài liệu nội bộ cho thấy gã khổng lồ công nghệ thu thập “hàng trăm điểm dữ liệu” cho một mô hình AI “phá công đoàn”.",
+      "fr": "Selon des documents internes, le géant de la tech collecte « des centaines de points de données » pour un modèle d’IA « antisyndical ».",
+      "es": "Documentos internos sugieren que el gigante tecnológico recoge «cientos de datos» para un modelo de IA «antisindical».",
+      "de": "Interne Dokumente legen nahe, dass der Tech-Konzern „Hunderte Datenpunkte“ für ein gewerkschaftsfeindliches KI-Modell sammelt.",
+      "zh-Hant": "內部檔案顯示，這家科技巨頭為一個“打壓工會”的 AI 模型收集了“數百個資料點”。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 170 分 · 59 条评论",
-      "zh-Hant": "Hacker News 170 分 · 59 則留言",
-      "en": "170 points · 59 comments on Hacker News",
-      "ja": "Hacker News 170 ポイント · コメント 59 件",
-      "ko": "Hacker News 170점 · 댓글 59개",
-      "ms": "170 mata · 59 komen di Hacker News",
-      "vi": "170 điểm · 59 bình luận trên Hacker News",
-      "fr": "170 points · 59 commentaires sur Hacker News",
-      "es": "170 puntos · 59 comentarios en Hacker News",
-      "de": "170 Punkte · 59 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 173 分 · 61 条评论",
+      "zh-Hant": "Hacker News 173 分 · 61 則留言",
+      "en": "173 points · 61 comments on Hacker News",
+      "ja": "Hacker News 173 ポイント · コメント 61 件",
+      "ko": "Hacker News 173점 · 댓글 61개",
+      "ms": "173 mata · 61 komen di Hacker News",
+      "vi": "173 điểm · 61 bình luận trên Hacker News",
+      "fr": "173 points · 61 commentaires sur Hacker News",
+      "es": "173 puntos · 61 comentarios en Hacker News",
+      "de": "173 Punkte · 61 Kommentare auf Hacker News"
      },
      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
      "src": "opendemocracy.net",
      "date": "2026-10-17",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50136536",
      "title": {
-      "zh-Hans": "NY宣布游戏所有权法案要求所有权而不是许可",
-      "zh-Hant": "NY宣佈遊戲所有權法案要求所有權而不是許可",
+      "zh-Hans": "纽约州公布游戏所有权法案：要求真正拥有而非仅获授权",
+      "zh-Hant": "紐約州公佈遊戲所有權法案：要求真正擁有而非僅獲授權",
       "en": "NY announces game ownership bill requiring ownership rather than licensing",
       "ja": "NYは、ライセンスではなく、所有権を必要とするゲーム所有権法案を発表",
-      "ko": "NY는 라이센싱보다 소유권을 요구하는 게임 소유권 청구서를 발표합니다.",
-      "ms": "Miss NY mengumumkan undang-undang kepemilikan permainan yang mewajibkan kepemilikan daripada lisensi",
-      "vi": "NY thông báo dự luật sở hữu trò chơi cần thiết quyền sở hữu thay vì bản quyền",
-      "fr": "NY annonce un projet de loi de propriété de jeux exigeant la propriété plutôt que la licence",
-      "es": "Nueva York anuncia la ley de propiedad del juego que requiere propiedad en lugar de licencias",
-      "de": "NY kündigt Spielbesitzrechnung an, die Besitz statt Lizenzierung erfordert"
+      "ko": "뉴욕주, 라이선스가 아닌 소유를 요구하는 게임 소유권 법안 발표",
+      "ms": "NY umum rang undang-undang pemilikan permainan: wajib milik, bukan sekadar lesen",
+      "vi": "New York công bố dự luật buộc game phải được sở hữu thay vì chỉ cấp phép",
+      "fr": "L’État de New York annonce une loi imposant la propriété des jeux plutôt qu’une simple licence",
+      "es": "Nueva York anuncia una ley que exige la propiedad de los juegos en lugar de licencias",
+      "de": "New York kündigt Gesetz an: Spiele müssen gekauft statt nur lizenziert werden"
      },
      "summary": {
       "en": "New York joins Pennsylvania in protecting gamers.",
-      "zh-Hans": "纽约与宾夕法尼亚州一起保护游戏商.",
+      "zh-Hans": "纽约继宾夕法尼亚之后，也开始保护玩家。",
       "ja": "ニューヨーク、ペンシルバニア州でゲーマーを保護しています。",
-      "ko": "뉴욕은 게이머를 보호하는 펜실베니아에 가입합니다.",
-      "ms": "New York bergabung dengan Pennsylvania dalam melindungi pemain game.",
-      "vi": "New York gia nhập Pennsylvania để bảo vệ các game thủ.",
-      "fr": "New York se joint à la Pennsylvanie pour protéger les joueurs.",
-      "es": "Nueva York se une a Pennsylvania para proteger a los jugadores.",
-      "de": "New York schließt sich Pennsylvania beim Schutz der Spieler an.",
-      "zh-Hant": "紐約與賓夕法尼亞州一起保護遊戲商."
+      "ko": "뉴욕이 펜실베이니아에 이어 게이머 보호에 나섰습니다.",
+      "ms": "New York menyertai Pennsylvania dalam melindungi pemain permainan video.",
+      "vi": "New York cùng Pennsylvania bảo vệ người chơi game.",
+      "fr": "New York rejoint la Pennsylvanie dans la protection des joueurs.",
+      "es": "Nueva York se suma a Pensilvania en la protección de los jugadores.",
+      "de": "New York schließt sich Pennsylvania beim Schutz von Spielern an.",
+      "zh-Hant": "紐約繼賓夕法尼亞之後，也開始保護玩家。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 425 分 · 196 条评论",
-      "zh-Hant": "Hacker News 425 分 · 196 則留言",
-      "en": "425 points · 196 comments on Hacker News",
-      "ja": "Hacker News 425 ポイント · コメント 196 件",
-      "ko": "Hacker News 425점 · 댓글 196개",
-      "ms": "425 mata · 196 komen di Hacker News",
-      "vi": "425 điểm · 196 bình luận trên Hacker News",
-      "fr": "425 points · 196 commentaires sur Hacker News",
-      "es": "425 puntos · 196 comentarios en Hacker News",
-      "de": "425 Punkte · 196 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 456 分 · 218 条评论",
+      "zh-Hant": "Hacker News 456 分 · 218 則留言",
+      "en": "456 points · 218 comments on Hacker News",
+      "ja": "Hacker News 456 ポイント · コメント 218 件",
+      "ko": "Hacker News 456점 · 댓글 218개",
+      "ms": "456 mata · 218 komen di Hacker News",
+      "vi": "456 điểm · 218 bình luận trên Hacker News",
+      "fr": "456 points · 218 commentaires sur Hacker News",
+      "es": "456 puntos · 218 comentarios en Hacker News",
+      "de": "456 Punkte · 218 Kommentare auf Hacker News"
      },
      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
      "src": "tomshardware.com",
      "date": "2026-10-18",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50142866",
      "title": {
-      "zh-Hans": "名牌刚刚没收并禁用我的所有域",
-      "zh-Hant": "名牌剛剛沒收並禁用我的所有域",
+      "zh-Hans": "Namecheap 刚刚查封并停用了我所有的域名",
+      "zh-Hant": "Namecheap 剛剛查封並停用了我所有的域名",
       "en": "Namecheap just seized and disabled all my domains",
       "ja": "Namecheapは、すべてのドメインを分離し、無効にします",
-      "ko": "Namecheap 그냥 압수하고 비활성화 모든 내 도메인",
-      "ms": "Namecheap baru saja disita dan menonaktifkan semua domain saya",
-      "vi": "Name",
-      "fr": "Namecheap vient de saisir et désactiver tous mes domaines",
-      "es": "Namecheap acaba de incautarse y deshabilitar todos mis dominios",
+      "ko": "Namecheap이 방금 내 도메인을 전부 압류하고 비활성화했다",
+      "ms": "Namecheap baru sahaja merampas dan melumpuhkan semua domain saya",
+      "vi": "Namecheap vừa thu giữ và vô hiệu hóa toàn bộ tên miền của tôi",
+      "fr": "Namecheap vient de saisir et de désactiver tous mes domaines",
+      "es": "Namecheap acaba de incautar y desactivar todos mis dominios",
       "de": "Namecheap hat gerade alle meine Domains beschlagnahmt und deaktiviert"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 reddit.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 reddit.com。",
-      "en": "Shared on Hacker News; original at reddit.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は reddit.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reddit.com에 있습니다.",
+      "zh-Hans": "分享于 Hacker News；原文在 reddit.com。",
+      "zh-Hant": "分享於 Hacker News；原文在 reddit.com。",
+      "en": "",
+      "ja": "",
+      "ko": "Hacker News에서 공유됨. 원문은 reddit.com에 있습니다.",
       "ms": "Dikongsi di Hacker News; artikel asal di reddit.com.",
       "vi": "Được chia sẻ trên Hacker News; bài gốc tại reddit.com.",
       "fr": "Partagé sur Hacker News ; original sur reddit.com.",
@@ -1633,128 +1672,137 @@
       "de": "Geteilt auf Hacker News; Original auf reddit.com."
      },
      "fact": {
-      "zh-Hans": "Hacker News 383 分 · 185 条评论",
-      "zh-Hant": "Hacker News 383 分 · 185 則留言",
-      "en": "383 points · 185 comments on Hacker News",
-      "ja": "Hacker News 383 ポイント · コメント 185 件",
-      "ko": "Hacker News 383점 · 댓글 185개",
-      "ms": "383 mata · 185 komen di Hacker News",
-      "vi": "383 điểm · 185 bình luận trên Hacker News",
-      "fr": "383 points · 185 commentaires sur Hacker News",
-      "es": "383 puntos · 185 comentarios en Hacker News",
-      "de": "383 Punkte · 185 Kommentare auf Hacker News"
+      "zh-Hans": "",
+      "zh-Hant": "",
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "ms": "",
+      "vi": "",
+      "fr": "",
+      "es": "",
+      "de": ""
      },
      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
      "src": "reddit.com",
-     "date": "2026-10-18",
-     "rw": ""
+     "date": "",
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50126384",
      "title": {
-      "zh-Hans": "做 API 任务",
-      "zh-Hant": "做 API 任務",
+      "zh-Hans": "Things to Do API",
+      "zh-Hant": "Things to Do API",
       "en": "Things to Do API",
       "ja": "APIのやりとり",
-      "ko": "API를 할 것",
-      "ms": "Hal - Hal yang Harus Dilakukan API",
-      "vi": "Những điều cần làm cho ADI",
-      "fr": "Que faire API",
-      "es": "Cosas que hacer API",
-      "de": "Dinge zu tun API"
+      "ko": "Things to Do API",
+      "ms": "Things to Do API",
+      "vi": "Things to Do API",
+      "fr": "Things to Do API",
+      "es": "Things to Do API",
+      "de": "Things to Do API"
      },
      "summary": {
       "en": "Fast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.",
-      "zh-Hans": "快速,准确,本地化的事件API用于代理应用:每出秀,演唱会,弹出会,市场和派对作为JSON,过REST或MCP. 自由开始。",
+      "zh-Hans": "面向智能体应用的快速、准确、本地化活动 API：每场演出、音乐会、快闪、市集和派对都以 JSON 提供，可走 REST 或 MCP。免费起步。",
       "ja": "エージェントアプリケーション向けの高速で正確でローカライズされたイベント API: REST または MCP を超える JSON として、すべてのショー、コンサート、ポップアップ、市場およびパーティー。 まずは無料。",
-      "ko": "대리인 신청을 위한 빠르고, 정확하고, 현지화한 사건 API: 각 쇼, 연주회, 팝업, 시장 및 당은 REST 또는 MCP에 JSON으로. 무료 시작.",
-      "ms": "API acara yang cepat, akurat, terlokalisasi untuk aplikasi agentik: setiap pertunjukan, konser, pop-up, pasar dan pesta sebagai JSON, melebihi REST atau MCP. Bebas untuk memulai.",
-      "vi": "Các sự kiện nhanh chóng, chính xác, địa phương hoá cho ứng dụng đặc vụ: mỗi chương trình, buổi biểu diễn, vé, thị trường và bữa tiệc như JSON, trên RST hoặc MCP. Tự do để bắt đầu.",
-      "fr": "API d'événements rapides, précis et localisés pour les applications agentiques : chaque spectacle, concert, pop-up, marché et fête comme JSON, sur REST ou MCP. Libre de commencer.",
-      "es": "Eventos rápidos, precisos y localizados API para aplicaciones de agente: cada espectáculo, concierto, pop-up, mercado y fiesta como JSON, sobre REST o MCP. Libre para empezar.",
-      "de": "Schnelle, genaue, lokalisierte Event-API für agentische Anwendungen: jede Show, jedes Konzert, Pop-up, jeder Markt und jede Party als JSON, über REST oder MCP. Frei zu starten.",
-      "zh-Hant": "快速,準確,本地化的事件API用於代理應用:每出秀,演唱會,彈出會,市場和派對作為JSON,過REST或MCP. 自由開始。"
+      "ko": "에이전트 애플리케이션을 위한 빠르고 정확한 지역 이벤트 API: 모든 공연, 콘서트, 팝업, 마켓, 파티를 REST나 MCP로 JSON 형태로 제공합니다. 무료로 시작할 수 있습니다.",
+      "ms": "API acara setempat yang pantas dan tepat untuk aplikasi berejen: setiap pertunjukan, konsert, pop-up, pasar dan parti dalam JSON, melalui REST atau MCP. Percuma untuk bermula.",
+      "vi": "API sự kiện địa phương nhanh, chính xác cho ứng dụng tác tử: mọi buổi diễn, hòa nhạc, pop-up, chợ phiên và tiệc dưới dạng JSON, qua REST hoặc MCP. Bắt đầu miễn phí.",
+      "fr": "Une API d’événements locaux rapide et précise pour les applications à agents : chaque spectacle, concert, pop-up, marché et soirée en JSON, via REST ou MCP. Gratuit pour commencer.",
+      "es": "Una API de eventos locales rápida y precisa para aplicaciones con agentes: cada espectáculo, concierto, pop-up, mercado y fiesta en JSON, por REST o MCP. Gratis para empezar.",
+      "de": "Eine schnelle, genaue, lokale Event-API für Agenten-Anwendungen: jede Show, jedes Konzert, jeder Pop-up, Markt und jede Party als JSON, per REST oder MCP. Kostenlos zum Start.",
+      "zh-Hant": "面向智慧體應用的快速、準確、本地化活動 API：每場演出、音樂會、快閃、市集和派對都以 JSON 提供，可走 REST 或 MCP。免費起步。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 54 分 · 26 条评论",
-      "zh-Hant": "Hacker News 54 分 · 26 則留言",
-      "en": "54 points · 26 comments on Hacker News",
-      "ja": "Hacker News 54 ポイント · コメント 26 件",
-      "ko": "Hacker News 54점 · 댓글 26개",
-      "ms": "54 mata · 26 komen di Hacker News",
-      "vi": "54 điểm · 26 bình luận trên Hacker News",
-      "fr": "54 points · 26 commentaires sur Hacker News",
-      "es": "54 puntos · 26 comentarios en Hacker News",
-      "de": "54 Punkte · 26 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 57 分 · 31 条评论",
+      "zh-Hant": "Hacker News 57 分 · 31 則留言",
+      "en": "57 points · 31 comments on Hacker News",
+      "ja": "Hacker News 57 ポイント · コメント 31 件",
+      "ko": "Hacker News 57점 · 댓글 31개",
+      "ms": "57 mata · 31 komen di Hacker News",
+      "vi": "57 điểm · 31 bình luận trên Hacker News",
+      "fr": "57 points · 31 commentaires sur Hacker News",
+      "es": "57 puntos · 31 comentarios en Hacker News",
+      "de": "57 Punkte · 31 Kommentare auf Hacker News"
      },
      "url": "https://thingstodoapi.com/",
      "src": "thingstodoapi.com",
      "date": "2026-10-16",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50141295",
      "title": {
-      "zh-Hans": "Tesla '不能保证' 路德斯特预订持有者将永远得到一辆汽车",
-      "zh-Hant": "Tesla '不能保證' 路德斯特預訂持有者將永遠得到一輛汽車",
+      "zh-Hans": "特斯拉“无法保证”Roadster 预订者能拿到车",
+      "zh-Hant": "特斯拉“無法保證”Roadster 預訂者能拿到車",
       "en": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
       "ja": "Tesla 'Cannot Guarantee' ロードスター予約ホルダーは車を取得する",
-      "ko": "Tesla 'Cannot Guarantee' 로드스터 예약 홀더는 자동차를 얻을 것이다",
-      "ms": "Tesla 'Cannot Guarantee' Pelayan Reservasi Roadster Akan Pernah Dapatkan Mobil",
-      "vi": "Tesla 'không thể bảo đảm' người giữ xe sẽ có xe hơi",
-      "fr": "Tesla 'Cannot Guarantee' Les titulaires de réservation Roadster obtiendront une voiture",
-      "es": "Tesla 'Cannot Guarantee' Los titulares de reserva de Roadster obtendrán un coche",
-      "de": "Tesla 'Kann nicht garantieren' Roadster Reservierungsinhaber werden jemals ein Auto bekommen"
+      "ko": "테슬라, 로드스터 예약자가 차를 받을 수 있다고 '보장할 수 없다'",
+      "ms": "Tesla ‘tidak boleh menjamin’ penempah Roadster akan menerima kereta",
+      "vi": "Tesla “không thể đảm bảo” người đặt trước Roadster sẽ nhận được xe",
+      "fr": "Tesla « ne peut garantir » que les réservataires du Roadster recevront un jour leur voiture",
+      "es": "Tesla «no puede garantizar» que quienes reservaron el Roadster reciban algún día el coche",
+      "de": "Tesla „kann nicht garantieren“, dass Roadster-Reservierer je ein Auto bekommen"
      },
      "summary": {
       "en": "The document customers must sign to reserve a Roadster says Tesla cannot guarantee when—or if—the car will be delivered.",
-      "zh-Hans": "文件顾客必须签名才能保留一辆路德车,",
+      "zh-Hans": "顾客预订 Roadster 时必须签署的文件写明，特斯拉无法保证何时交车，甚至无法保证是否交车。",
       "ja": "文書の顧客は、ロードスターがTeslaがいつ保証することができない、または車が配送されると述べるを予約するために署名しなければなりません。",
-      "ko": "문서 고객은 로드스터를 예약해야 합니다. Tesla는 차량이 배달 될 때 보장 할 수 없습니다.",
-      "ms": "Customer dokumen harus menandatangani untuk menyimpan Roadster mengatakan Tesla tidak dapat menjamin kapan—atau jika—mobil akan dikirimkan.",
-      "vi": "Khách hàng tài liệu phải ký để dự trữ một chiếc Roadster nói Tesla không thể đảm bảo khi nào xe sẽ được giao.",
-      "fr": "Le document que les clients doivent signer pour réserver un Roadster dit que Tesla ne peut pas garantir quand - ou si - la voiture sera livrée.",
-      "es": "Los clientes del documento deben firmar para reservar un Roadster dice que Tesla no puede garantizar cuándo —o si— el coche será entregado.",
-      "de": "Das Dokument, das Kunden unterschreiben müssen, um einen Roadster zu reservieren, sagt, dass Tesla nicht garantieren kann, wann - oder ob - das Auto geliefert wird.",
-      "zh-Hant": "檔案顧客必須簽名才能保留一輛路德車,"
+      "ko": "로드스터를 예약하려면 서명해야 하는 문서에는 테슬라가 차량 인도 시점은 물론 인도 여부조차 보장할 수 없다고 적혀 있습니다.",
+      "ms": "Dokumen yang mesti ditandatangani pelanggan untuk menempah Roadster menyatakan Tesla tidak boleh menjamin bila — atau sama ada — kereta itu akan dihantar.",
+      "vi": "Văn bản khách hàng phải ký để đặt Roadster ghi rằng Tesla không thể đảm bảo khi nào, hay thậm chí có giao xe hay không.",
+      "fr": "Le document à signer pour réserver un Roadster indique que Tesla ne peut garantir ni quand, ni même si la voiture sera livrée.",
+      "es": "El documento que hay que firmar para reservar un Roadster dice que Tesla no puede garantizar cuándo, ni siquiera si, se entregará el coche.",
+      "de": "Im Dokument, das Kunden für eine Roadster-Reservierung unterschreiben müssen, steht, dass Tesla nicht garantieren kann, wann – oder ob – das Auto geliefert wird.",
+      "zh-Hant": "顧客預訂 Roadster 時必須簽署的檔案寫明，特斯拉無法保證何時交車，甚至無法保證是否交車。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 109 分 · 134 条评论",
-      "zh-Hant": "Hacker News 109 分 · 134 則留言",
-      "en": "109 points · 134 comments on Hacker News",
-      "ja": "Hacker News 109 ポイント · コメント 134 件",
-      "ko": "Hacker News 109점 · 댓글 134개",
-      "ms": "109 mata · 134 komen di Hacker News",
-      "vi": "109 điểm · 134 bình luận trên Hacker News",
-      "fr": "109 points · 134 commentaires sur Hacker News",
-      "es": "109 puntos · 134 comentarios en Hacker News",
-      "de": "109 Punkte · 134 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 120 分 · 148 条评论",
+      "zh-Hant": "Hacker News 120 分 · 148 則留言",
+      "en": "120 points · 148 comments on Hacker News",
+      "ja": "Hacker News 120 ポイント · コメント 148 件",
+      "ko": "Hacker News 120점 · 댓글 148개",
+      "ms": "120 mata · 148 komen di Hacker News",
+      "vi": "120 điểm · 148 bình luận trên Hacker News",
+      "fr": "120 points · 148 commentaires sur Hacker News",
+      "es": "120 puntos · 148 comentarios en Hacker News",
+      "de": "120 Punkte · 148 Kommentare auf Hacker News"
      },
      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
      "src": "thedrive.com",
      "date": "2026-10-18",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50136881",
      "title": {
-      "zh-Hans": "Zuckerberg的Meta在抗议日期间,",
-      "zh-Hant": "Zuckerberg的Meta在抗議日期間,",
+      "zh-Hans": "扎克伯格的 Meta 在抗议日下架 No Kings 的 Instagram",
+      "zh-Hant": "扎克伯格的 Meta 在抗議日下架 No Kings 的 Instagram",
       "en": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
       "ja": "Zuckerbergのメタは、Protest Dayの期間中にキングスインスタグラムをダウンしない",
-      "ko": "Zuckerberg의 Meta는 Protest Day 동안 Kings Instagram을 아래로 가져갑니다.",
-      "ms": "Meta Zuckerberg Tak Turun Tanpa Raja Instagram Selama Hari Protes",
-      "vi": "Siêu máy ảnh siêu dữ liệu của Zuckerberg hạ gục No Kings trong ngày hội nghị",
-      "fr": "La Méta de Zuckerberg ne prend pas de Rois Instagram pendant la journée de protestation",
-      "es": "El Meta de Zuckerberg derriba sin reyes Instagram durante el día de protesta",
-      "de": "Zuckerbergs Meta nimmt keine Könige Instagram während des Protesttages"
+      "ko": "저커버그의 메타, 시위 당일 No Kings 인스타그램 삭제",
+      "ms": "Meta milik Zuckerberg turunkan Instagram No Kings pada hari protes",
+      "vi": "Meta của Zuckerberg gỡ Instagram của No Kings đúng ngày biểu tình",
+      "fr": "Meta, l’entreprise de Zuckerberg, supprime l’Instagram de No Kings le jour de la manifestation",
+      "es": "La Meta de Zuckerberg retira el Instagram de No Kings durante la jornada de protestas",
+      "de": "Zuckerbergs Meta sperrt das Instagram-Konto von No Kings am Protesttag"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 meidasnews.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 meidasnews.com。",
+      "zh-Hans": "分享于 Hacker News；原文在 meidasnews.com。",
+      "zh-Hant": "分享於 Hacker News；原文在 meidasnews.com。",
       "en": "Shared on Hacker News; original at meidasnews.com.",
       "ja": "Hacker News で共有されたリンク。元記事は meidasnews.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 meidasnews.com에 있습니다.",
+      "ko": "Hacker News에서 공유됨. 원문은 meidasnews.com에 있습니다.",
       "ms": "Dikongsi di Hacker News; artikel asal di meidasnews.com.",
       "vi": "Được chia sẻ trên Hacker News; bài gốc tại meidasnews.com.",
       "fr": "Partagé sur Hacker News ; original sur meidasnews.com.",
@@ -1762,64 +1810,70 @@
       "de": "Geteilt auf Hacker News; Original auf meidasnews.com."
      },
      "fact": {
-      "zh-Hans": "Hacker News 565 分 · 382 条评论",
-      "zh-Hant": "Hacker News 565 分 · 382 則留言",
-      "en": "565 points · 382 comments on Hacker News",
-      "ja": "Hacker News 565 ポイント · コメント 382 件",
-      "ko": "Hacker News 565점 · 댓글 382개",
-      "ms": "565 mata · 382 komen di Hacker News",
-      "vi": "565 điểm · 382 bình luận trên Hacker News",
-      "fr": "565 points · 382 commentaires sur Hacker News",
-      "es": "565 puntos · 382 comentarios en Hacker News",
-      "de": "565 Punkte · 382 Kommentare auf Hacker News"
+      "zh-Hans": "Hacker News 596 分 · 415 条评论",
+      "zh-Hant": "Hacker News 596 分 · 415 則留言",
+      "en": "596 points · 415 comments on Hacker News",
+      "ja": "Hacker News 596 ポイント · コメント 415 件",
+      "ko": "Hacker News 596점 · 댓글 415개",
+      "ms": "596 mata · 415 komen di Hacker News",
+      "vi": "596 điểm · 415 bình luận trên Hacker News",
+      "fr": "596 points · 415 commentaires sur Hacker News",
+      "es": "596 puntos · 415 comentarios en Hacker News",
+      "de": "596 Punkte · 415 Kommentare auf Hacker News"
      },
      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
      "src": "meidasnews.com",
      "date": "2026-10-18",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "hn-50144005",
      "title": {
-      "zh-Hans": "佛罗里达的HOAs和公寓协会 让住房危机恶化",
-      "zh-Hant": "佛羅里達的HOAs和公寓協會 讓住房危機惡化",
+      "zh-Hans": "佛罗里达的业主协会和公寓协会正在加剧住房危机",
+      "zh-Hant": "佛羅里達的業主協會和公寓協會正在加劇住房危機",
       "en": "Florida's HOAs and condo associations are making the housing crisis worse",
       "ja": "フロリダのHOAsとコンドミニアムは、ハウジングの危機を悪化させる",
-      "ko": "Florida의 HOAs와 condo 협회는 주거 위기를 악화하고 있습니다.",
-      "ms": "Rumah dan kondominium asosiasi Florida membuat krisis perumahan memburuk",
-      "vi": "Sự liên kết giữa Florida và căn hộ đang làm khủng hoảng nhà ở tồi tệ hơn",
-      "fr": "Les associations d'HOA et de condos de Floride aggravent la crise du logement",
-      "es": "Las asociaciones HOA y condominio de Florida están empeorando la crisis de la vivienda",
-      "de": "Floridas HOAs und Eigentumswohnungsverbände machen die Wohnungskrise schlimmer"
+      "ko": "플로리다의 주택소유자협회와 콘도 협회가 주택 위기를 악화시키고 있다",
+      "ms": "Persatuan pemilik rumah dan kondominium Florida memburukkan krisis perumahan",
+      "vi": "Hiệp hội chủ nhà và hiệp hội chung cư ở Florida đang làm khủng hoảng nhà ở tệ hơn",
+      "fr": "En Floride, les associations de propriétaires et de copropriété aggravent la crise du logement",
+      "es": "Las asociaciones de propietarios y de condominios de Florida agravan la crisis de vivienda",
+      "de": "Floridas Eigentümer- und Condo-Verbände verschärfen die Wohnungskrise"
      },
      "summary": {
       "en": "A housing crisis has three parts: what a home costs, how many are for sale, and whether the people in them get to stay. In Florida the homeowner and condominium associations push on all three.",
-      "zh-Hans": "住房危机有三个部分:住房的成本、有多少可出售,以及其中的人是否可以留下来。 在佛罗里达,房主和公寓协会 推动所有三个。",
+      "zh-Hans": "住房危机有三个层面：房子多贵、在售的有多少，以及住在里面的人能不能住下去。在佛罗里达，业主协会和公寓协会对这三方面都在施压。",
       "ja": "住宅危機には3つの部分があります:家費、販売方法、そしてそれらが滞在するかどうか。 フロリダ州の住宅所有者とコンドミニアム協会は、すべての3にプッシュします。.",
-      "ko": "주택 위기에는 3 개의 부품이 있습니다. 주택 비용, 얼마나 많은 판매이며, 그 중 사람들이 머무를 수 있는지 여부. 플로리다에서 주택 및 콘도 협회는 모든 3에 밀어.",
-      "ms": "Krisis perumahan memiliki tiga bagian: berapa biaya rumah, berapa banyak untuk dijual, dan apakah orang-orang di dalamnya bisa tinggal. Di Florida, pemilik rumah dan asosiasi kondominium mendorong ketiganya.",
-      "vi": "Một cuộc khủng hoảng nhà đất có ba phần: chi phí nhà cửa, bao nhiêu để bán, và liệu những người trong đó có được ở lại hay không. Ở Florida, người chủ sở hữu và liên kết bao cao su đã thúc đẩy cả ba.",
-      "fr": "Une crise du logement comporte trois volets : le coût d'une maison, le nombre de logements à vendre et le fait que les gens y restent. En Floride, les associations de propriétaires et de condominiums poussent sur les trois.",
-      "es": "Una crisis de vivienda tiene tres partes: lo que un hogar cuesta, cuántos están a la venta, y si la gente en ellos consigue quedarse. En Florida las asociaciones de propietarios y condominios empujan a los tres.",
-      "de": "Eine Wohnungskrise hat drei Teile: Was ein Haus kostet, wie viele stehen zum Verkauf und ob die Menschen in ihnen bleiben können. In Florida drücken die Hausbesitzer- und Eigentumswohnungsverbände auf alle drei.",
-      "zh-Hant": "住房危機有三個部分:住房的成本、有多少可出售,以及其中的人是否可以留下來。 在佛羅里達,房主和公寓協會 推動所有三個。"
+      "ko": "주택 위기에는 세 가지 측면이 있습니다. 집값, 매물의 수, 그리고 거주자가 계속 살 수 있는지. 플로리다에서는 주택소유자협회와 콘도 협회가 이 세 가지 모두를 압박합니다.",
+      "ms": "Krisis perumahan ada tiga bahagian: harga rumah, berapa banyak yang dijual, dan sama ada penghuninya dapat terus tinggal. Di Florida, persatuan pemilik rumah dan kondominium menekan ketiga-tiganya.",
+      "vi": "Khủng hoảng nhà ở có ba phần: giá nhà, số nhà được bán và việc người đang ở có được ở lại hay không. Ở Florida, các hiệp hội chủ nhà và chung cư tác động lên cả ba.",
+      "fr": "Une crise du logement a trois volets : le prix d’un logement, le nombre de biens à vendre et la possibilité pour les occupants de rester. En Floride, les associations de propriétaires et de copropriété pèsent sur les trois.",
+      "es": "Una crisis de vivienda tiene tres partes: lo que cuesta una casa, cuántas hay en venta y si quienes viven en ellas pueden quedarse. En Florida, las asociaciones de propietarios y de condominios presionan sobre las tres.",
+      "de": "Eine Wohnungskrise hat drei Teile: was ein Zuhause kostet, wie viele zum Verkauf stehen und ob die Bewohner bleiben können. In Florida drücken Eigentümer- und Condo-Verbände auf alle drei.",
+      "zh-Hant": "住房危機有三個層面：房子多貴、在售的有多少，以及住在裡面的人能不能住下去。在佛羅里達，業主協會和公寓協會對這三方面都在施壓。"
      },
      "fact": {
-      "zh-Hans": "Hacker News 153 分 · 260 条评论",
-      "zh-Hant": "Hacker News 153 分 · 260 則留言",
-      "en": "153 points · 260 comments on Hacker News",
-      "ja": "Hacker News 153 ポイント · コメント 260 件",
-      "ko": "Hacker News 153점 · 댓글 260개",
-      "ms": "153 mata · 260 komen di Hacker News",
-      "vi": "153 điểm · 260 bình luận trên Hacker News",
-      "fr": "153 points · 260 commentaires sur Hacker News",
-      "es": "153 puntos · 260 comentarios en Hacker News",
-      "de": "153 Punkte · 260 Kommentare auf Hacker News"
+      "zh-Hans": "",
+      "zh-Hant": "",
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "ms": "",
+      "vi": "",
+      "fr": "",
+      "es": "",
+      "de": ""
      },
      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
      "src": "hoaspy.com",
-     "date": "2026-10-18",
-     "rw": ""
+     "date": "",
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     }
    ],
    "follow": [
@@ -1838,33 +1892,36 @@
       "de": "Gathin23/tv-vibehack"
      },
      "summary": {
-      "en": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-      "zh-Hans": "你的电视,减去广告。 Debloat任何Android电视在亚行, 并给它一个干净的,tvOS启发的发射装置。 下午用克洛德密码建造的",
-      "ja": "あなたのテレビは、広告をマイナスします。 ADB上の任意のAndroid TVを解体し、それがきれいに与える,tvOS-inspiredランチャー. クロードコードで午後に建てられました。",
-      "ko": "당신의 TV, 광고를 minus. ADB에 대한 모든 안드로이드 TV를 파괴하고 깨끗한, tvOS-inspired 발사기를 제공합니다. Claude Code와 함께 오후에 내장.",
-      "ms": "TVmu, dikurangi iklannya. \\\"Debloat any Android TV over ADB\\\" dan memberikan yang bersih, tvOS-inspired launcher. Didirikan pada sore hari dengan Claude Code.",
-      "vi": "TV của anh, trừ quảng cáo. Debloat bất kỳ đài truyền hình người máy trên ADB và cung cấp cho nó một bệ phóng hỏa tiễn sạch sẽ, truyền hình. Được xây trong một buổi chiều với luật Claude.",
-      "fr": "Votre télé, moins les annonces. Debloat n'importe quel Android TV sur ADB et lui donner un propre, tvOS-inspiration lanceur. Construit en un après-midi avec Claude Code.",
-      "es": "Tu TV, menos los anuncios. Deblotar cualquier TV Android sobre ADB y darle un lanzador limpio e inspirado en tvOS. Construido por la tarde con Claude Code.",
-      "de": "Ihr Fernseher abzüglich der Anzeigen. Debloat jeden Android-TV über ADB und geben Sie ihm einen sauberen, tvOS-inspirierten Launcher. Gebaut an einem Nachmittag mit Claude Code.",
-      "zh-Hant": "你的電視,減去廣告。 Debloat任何Android電視在亞行, 並給它一個乾淨的,tvOS啟發的發射裝置。 下午用克洛德密碼建造的"
+      "en": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "zh-Hans": "让你的电视没有广告。通过 ADB 给任意 Android TV 瘦身，再换上一个简洁、受 tvOS 启发的启动器。用 Claude Code 一个下午做成。",
+      "ja": "Wi-Fi経由で任意のAndroidまたはGoogle TVを解体し、Apple TVスタイルの家を取得します。",
+      "ko": "광고 없는 TV. ADB로 어떤 Android TV든 불필요한 앱을 걷어내고 tvOS에서 영감을 받은 깔끔한 런처를 씌웁니다. Claude Code로 오후 한나절 만에 만들었습니다.",
+      "ms": "TV anda, tanpa iklan. Buang perisian berlebihan daripada mana-mana Android TV melalui ADB dan beri pelancar bersih yang diilhamkan tvOS. Dibina dalam satu petang dengan Claude Code.",
+      "vi": "TV của bạn, không còn quảng cáo. Dọn sạch bất kỳ Android TV nào qua ADB và thay bằng một launcher gọn gàng lấy cảm hứng từ tvOS. Làm trong một buổi chiều với Claude Code.",
+      "fr": "Votre télé, sans les pubs. Allégez n’importe quelle Android TV via ADB et offrez-lui un lanceur épuré inspiré de tvOS. Construit en un après-midi avec Claude Code.",
+      "es": "Tu tele, sin anuncios. Limpia cualquier Android TV por ADB y ponle un lanzador limpio inspirado en tvOS. Hecho en una tarde con Claude Code.",
+      "de": "Dein Fernseher, ohne Werbung. Entschlacke jedes Android TV per ADB und gib ihm einen aufgeräumten, von tvOS inspirierten Launcher. An einem Nachmittag mit Claude Code gebaut.",
+      "zh-Hant": "讓你的電視沒有廣告。透過 ADB 給任意 Android TV 瘦身，再換上一個簡潔、受 tvOS 啟發的啟動器。用 Claude Code 一個下午做成。"
      },
      "fact": {
-      "zh-Hans": "GitHub 1,911 星",
-      "zh-Hant": "GitHub 1,911 星",
-      "en": "1,911 stars on GitHub",
-      "ja": "GitHub スター 1,911",
-      "ko": "GitHub 스타 1,911개",
-      "ms": "1,911 bintang di GitHub",
-      "vi": "1,911 sao trên GitHub",
-      "fr": "1,911 étoiles sur GitHub",
-      "es": "1,911 estrellas en GitHub",
-      "de": "1,911 Sterne auf GitHub"
+      "zh-Hans": "",
+      "zh-Hant": "",
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "ms": "",
+      "vi": "",
+      "fr": "",
+      "es": "",
+      "de": ""
      },
      "url": "https://github.com/Gathin23/tv-vibehack",
      "src": "github.com",
-     "date": "2026-10-17",
-     "rw": ""
+     "date": "",
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     },
     {
      "id": "gh-1423689866",
@@ -1881,35 +1938,39 @@
       "de": "ly05010419/MacNativeGames"
      },
      "summary": {
-      "en": "Play your own copy of The Legend of Zelda: Tears of the Kingdom natively on an Apple silicon Mac. Bring your game file (XCI or NSP) and your prod.keys; one script turns them into a Mac app.",
-      "zh-Hans": "\"塞尔达传说\"(The Legend of Zelda: Tears of the Kingdom)自发地在苹果硅Mac上出道. 带上您的游戏文件( XCI 或 NSP) 和您的 prod. keys; 一个脚本将它们变成Mac app.",
-      "ja": "Zeldaのレジェンド:AppleのシリコンMacでネイティブの王国の涙。 ゲームファイル (XCI または NSP) と prod.keys を 1 つのスクリプトが Mac アプリに変わります。",
-      "ko": "Zelda의 전설의 자신의 사본을 재생 : Apple Silicon Mac에서 기본적으로 왕국의 눈물. 게임 파일 (XCI 또는 NSP) 및 prod.keys를 가져옵니다. 하나의 스크립트는 Mac 앱으로 전환합니다.",
-      "ms": "{\\\\fnCandara\\\\fs55\\\\b1\\\\4cH000000\\\\4aH80}Memainkan salinanmu sendiri dari The Legend of Zelda: {\\\\fnCandara\\\\fs55\\\\b1\\\\4cH000000\\\\4aH80}mata-mata Kerajaan asli pada silikon Apple Mac. Bawa berkas permainan Anda (XCI atau NSP) dan prod.keys Anda; satu skrip mengubahnya menjadi aplikasi Mac.",
-      "vi": "Hãy tự chơi bản sao của cuốn The Legend of tiêndda: Đem tập tin trò chơi của bạn (XCI hay NIP) và phím prod.keys của bạn; một tập lệnh biến chúng thành ứng dụng Mac.",
-      "fr": "Jouez votre propre copie de The Legend of Zelda: Tears of the Kingdom nativement sur un Mac de silicium Apple. Apportez votre fichier de jeu (XCI ou NSP) et vos prod.keys; un script les transforme en une application Mac.",
-      "es": "Juega tu propia copia de The Legend of Zelda: Tears of the Kingdom nativamente en un Apple silicon Mac. Traiga su archivo de juego (XCI o NSP) y sus prod.keys; un script los convierte en una aplicación Mac.",
-      "de": "Spielen Sie Ihre eigene Kopie von The Legend of Zelda: Tears of the Kingdom nativ auf einem Apple Silicon Mac. Bringen Sie Ihre Spieldatei (XCI oder NSP) und Ihre prod.keys; ein Skript verwandelt sie in eine Mac-App.",
-      "zh-Hant": "\"塞爾達傳說\"(The Legend of Zelda: Tears of the Kingdom)自發地在蘋果矽Mac上出道. 帶上您的遊戲檔案( XCI 或 NSP) 和您的 prod. keys; 一個指令碼將它們變成Mac app."
+      "en": "Breath of the Wild 1.6.0 is now officially supported on Mac! (Mac only for now: no iPhone or iPad build yet.) Tears of the Kingdom 1.0.0, 1.2.1 and 1.4.3 are now officially supported on Mac, iPhone…",
+      "zh-Hans": "在 Apple Silicon Mac 上原生运行你自己拥有的《塞尔达传说：王国之泪》。带上游戏文件（XCI 或 NSP）和 prod.keys，一个脚本就能把它们变成 Mac 应用。",
+      "ja": "ワイルド1.6.0の息がMacで正式にサポートされます! (現在はMacのみ:iPhoneやiPadがまだビルドされていない) 王国の涙 1.0.0, 1.2.1 と 1.4.3 は、Mac上で正式にサポートされています, iPhone ...",
+      "ko": "내가 가진 젤다의 전설: 티어스 오브 더 킹덤을 Apple Silicon Mac에서 네이티브로 플레이하세요. 게임 파일(XCI 또는 NSP)과 prod.keys만 있으면 스크립트 하나로 Mac 앱이 됩니다.",
+      "ms": "Main salinan The Legend of Zelda: Tears of the Kingdom milik anda secara natif pada Mac Apple Silicon. Bawa fail permainan (XCI atau NSP) dan prod.keys anda; satu skrip menjadikannya aplikasi Mac.",
+      "vi": "Chơi bản The Legend of Zelda: Tears of the Kingdom của chính bạn trực tiếp trên Mac Apple Silicon. Mang theo tệp game (XCI hoặc NSP) và prod.keys; một script sẽ biến chúng thành ứng dụng Mac.",
+      "fr": "Jouez en natif à votre propre copie de The Legend of Zelda: Tears of the Kingdom sur un Mac Apple Silicon. Apportez le fichier du jeu (XCI ou NSP) et vos prod.keys ; un script en fait une app Mac.",
+      "es": "Juega de forma nativa a tu propia copia de The Legend of Zelda: Tears of the Kingdom en un Mac con Apple Silicon. Aporta el archivo del juego (XCI o NSP) y tus prod.keys; un script los convierte en una app de Mac.",
+      "de": "Spiele deine eigene Kopie von The Legend of Zelda: Tears of the Kingdom nativ auf einem Apple-Silicon-Mac. Bring die Spieldatei (XCI oder NSP) und deine prod.keys mit; ein Skript macht daraus eine Mac-App.",
+      "zh-Hant": "在 Apple Silicon Mac 上原生執行你自己擁有的《塞爾達傳說：王國之淚》。帶上游戲檔案（XCI 或 NSP）和 prod.keys，一個指令碼就能把它們變成 Mac 應用。"
      },
      "fact": {
-      "zh-Hans": "GitHub 721 星",
-      "zh-Hant": "GitHub 721 星",
-      "en": "721 stars on GitHub",
-      "ja": "GitHub スター 721",
-      "ko": "GitHub 스타 721개",
-      "ms": "721 bintang di GitHub",
-      "vi": "721 sao trên GitHub",
-      "fr": "721 étoiles sur GitHub",
-      "es": "721 estrellas en GitHub",
-      "de": "721 Sterne auf GitHub"
+      "zh-Hans": "GitHub 2,242 星",
+      "zh-Hant": "GitHub 2,242 星",
+      "en": "2,242 stars on GitHub",
+      "ja": "GitHub スター 2,242",
+      "ko": "GitHub 스타 2,242개",
+      "ms": "2,242 bintang di GitHub",
+      "vi": "2,242 sao trên GitHub",
+      "fr": "2,242 étoiles sur GitHub",
+      "es": "2,242 estrellas en GitHub",
+      "de": "2,242 Sterne auf GitHub"
      },
      "url": "https://github.com/ly05010419/MacNativeGames",
      "src": "github.com",
      "date": "2026-10-17",
-     "rw": ""
+     "rw": "",
+     "mt": [
+      "ja"
+     ]
     }
-   ]
+   ],
+   "updated": "2026-10-20T13:59:32Z"
   },
   {
    "date": "2026-10-18",
