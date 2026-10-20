@@ -1,0 +1,722 @@
+{
+ "https://arxiv.org/abs/2610.18861": {
+  "loc": {
+   "zh-Hans": {
+    "title": "混合推理智能体：在潜空间里思考、用文本行动的 LLM 智能体",
+    "summary": "怎样构建一个能超越人类语言去思考、却仍用语言在外部环境中行动的智能体？"
+   },
+   "ko": {
+    "title": "하이브리드 추론 에이전트: 잠재 공간에서 생각하고 텍스트로 행동하는 LLM 에이전트",
+    "summary": "인간의 언어를 넘어 생각하면서도 외부 환경에서는 여전히 언어로 행동하는 에이전트를 어떻게 만들 수 있을까요?"
+   },
+   "ms": {
+    "title": "Ejen Penaakulan Hibrid: ejen LLM yang berfikir dalam ruang terpendam, bertindak melalui teks",
+    "summary": "Bagaimana kita boleh membina ejen yang berfikir melangkaui bahasa manusia, tetapi masih bertindak melaluinya dalam persekitaran luar?"
+   },
+   "vi": {
+    "title": "Tác tử suy luận lai: tác tử LLM suy nghĩ trong không gian ẩn, hành động bằng văn bản",
+    "summary": "Làm sao xây dựng một tác tử suy nghĩ vượt ra ngoài ngôn ngữ con người nhưng vẫn hành động bằng ngôn ngữ trong môi trường bên ngoài?"
+   },
+   "fr": {
+    "title": "Agents à raisonnement hybride : des agents LLM qui pensent dans l’espace latent et agissent par le texte",
+    "summary": "Comment construire un agent qui pense au-delà du langage humain tout en agissant par lui dans l’environnement extérieur ?"
+   },
+   "es": {
+    "title": "Agentes de razonamiento híbrido: agentes LLM que piensan en el espacio latente y actúan mediante texto",
+    "summary": "¿Cómo construir un agente que piense más allá del lenguaje humano y, aun así, actúe a través de él en el entorno externo?"
+   },
+   "de": {
+    "title": "Hybride Reasoning-Agenten: LLM-Agenten, die im latenten Raum denken und über Text handeln",
+    "summary": "Wie baut man einen Agenten, der jenseits menschlicher Sprache denkt, in seiner Umgebung aber trotzdem über Sprache handelt?"
+   },
+   "zh-Hant": {
+    "title": "混合推理智慧體：在潛空間裡思考、用文字行動的 LLM 智慧體",
+    "summary": "怎樣構建一個能超越人類語言去思考、卻仍用語言在外部環境中行動的智慧體？"
+   }
+  }
+ },
+ "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Anthropic 提议的 AI 安全法案：致 50 人死亡或 10 亿美元损失才触发",
+    "summary": "这样就足以防止 AI 模型失控吗？"
+   },
+   "ko": {
+    "title": "Anthropic이 제안한 AI 안전 법안, 사망 50명 또는 피해액 10억 달러부터 적용",
+    "summary": "이 정도로 AI 모델이 통제를 벗어나는 걸 막을 수 있을까요?"
+   },
+   "ms": {
+    "title": "Rang undang-undang keselamatan AI cadangan Anthropic hanya terpakai jika 50 kematian atau kerugian $1B",
+    "summary": "Adakah ini cukup untuk menghalang model AI daripada hilang kawalan?"
+   },
+   "vi": {
+    "title": "Dự luật an toàn AI do Anthropic đề xuất chỉ có hiệu lực khi có 50 người chết hoặc thiệt hại 1 tỷ USD",
+    "summary": "Liệu như vậy có đủ để ngăn một mô hình AI vượt khỏi tầm kiểm soát?"
+   },
+   "fr": {
+    "title": "Le projet de loi sur la sûreté de l’IA proposé par Anthropic ne s’applique qu’à partir de 50 morts ou 1 Md$ de dégâts",
+    "summary": "Cela suffirait-il à empêcher un modèle d’IA de devenir incontrôlable ?"
+   },
+   "es": {
+    "title": "El proyecto de ley de seguridad de IA de Anthropic solo se activa con 50 muertes o 1.000 M$ en daños",
+    "summary": "¿Bastaría esto para evitar que un modelo de IA se descontrole?"
+   },
+   "de": {
+    "title": "Anthropics vorgeschlagenes KI-Sicherheitsgesetz greift erst bei 50 Toten oder 1 Mrd. $ Schaden",
+    "summary": "Würde das reichen, um ein KI-Modell davon abzuhalten, außer Kontrolle zu geraten?"
+   },
+   "zh-Hant": {
+    "title": "Anthropic 提議的 AI 安全法案：致 50 人死亡或 10 億美元損失才觸發",
+    "summary": "這樣就足以防止 AI 模型失控嗎？"
+   }
+  }
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": {
+  "loc": {
+   "zh-Hans": {
+    "title": "网站正在对 AI 智能体关上大门",
+    "summary": "线上的种种阻碍，正在动摇 AI 智能体背后的那套叙事。"
+   },
+   "ko": {
+    "title": "웹사이트들이 AI 에이전트에게 문을 닫고 있다",
+    "summary": "온라인 곳곳의 장벽이 AI 에이전트를 둘러싼 서사를 흔들고 있습니다."
+   },
+   "ms": {
+    "title": "Laman web menutup pintu kepada ejen AI",
+    "summary": "Sekatan dalam talian sedang melemahkan naratif di sebalik ejen AI."
+   },
+   "vi": {
+    "title": "Các website đang đóng cửa với tác tử AI",
+    "summary": "Những rào cản trực tuyến đang làm lung lay câu chuyện được kể về tác tử AI."
+   },
+   "fr": {
+    "title": "Les sites web ferment leurs portes aux agents IA",
+    "summary": "Les obstacles en ligne fragilisent le discours qui entoure les agents IA."
+   },
+   "es": {
+    "title": "Los sitios web cierran sus puertas a los agentes de IA",
+    "summary": "Los obstáculos en línea están socavando el relato en torno a los agentes de IA."
+   },
+   "de": {
+    "title": "Websites schließen ihre Türen für KI-Agenten",
+    "summary": "Hürden im Netz untergraben die Erzählung rund um KI-Agenten."
+   },
+   "zh-Hant": {
+    "title": "網站正在對 AI 智慧體關上大門",
+    "summary": "線上的種種阻礙，正在動搖 AI 智慧體背後的那套敘事。"
+   }
+  }
+ },
+ "https://api-docs.deepseek.com/guides/search/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "DeepSeek 搜索与抓取 API：每 1000 次成功请求 0.75 美元",
+    "summary": "Search API 和 Fetch API 让智能体与 RAG 应用访问实时网页内容："
+   },
+   "ko": {
+    "title": "DeepSeek 검색·가져오기 API – 성공 요청 1000건당 0.75달러",
+    "summary": "Search API와 Fetch API는 에이전트와 RAG 애플리케이션이 실시간 웹 콘텐츠에 접근하게 해 줍니다:"
+   },
+   "ms": {
+    "title": "DeepSeek Search dan Fetch – $0.75 bagi setiap 1000 permintaan berjaya",
+    "summary": "Search API dan Fetch API memberi ejen dan aplikasi RAG akses kepada kandungan web langsung:"
+   },
+   "vi": {
+    "title": "DeepSeek Search và Fetch – 0,75 USD cho mỗi 1000 yêu cầu thành công",
+    "summary": "Search API và Fetch API cho phép tác tử và ứng dụng RAG truy cập nội dung web theo thời gian thực:"
+   },
+   "fr": {
+    "title": "DeepSeek Search et Fetch – 0,75 $ les 1000 requêtes réussies",
+    "summary": "Les API Search et Fetch donnent aux agents et aux applications RAG un accès au contenu web en direct :"
+   },
+   "es": {
+    "title": "DeepSeek Search y Fetch: 0,75 $ por cada 1000 solicitudes correctas",
+    "summary": "La Search API y la Fetch API dan a agentes y aplicaciones RAG acceso a contenido web en vivo:"
+   },
+   "de": {
+    "title": "DeepSeek Search und Fetch – 0,75 $ pro 1000 erfolgreiche Anfragen",
+    "summary": "Search API und Fetch API geben Agenten und RAG-Anwendungen Zugriff auf aktuelle Webinhalte:"
+   },
+   "zh-Hant": {
+    "title": "DeepSeek 搜尋與抓取 API：每 1000 次成功請求 0.75 美元",
+    "summary": "Search API 和 Fetch API 讓智慧體與 RAG 應用訪問實時網頁內容："
+   }
+  }
+ },
+ "https://karrisaarinen.com/posts/someone-behind-the-software/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "软件背后的人",
+    "summary": "我觉得好的产品带着做它的人的影子：他们的经验、他们在乎什么，以及他们认为事情应该怎样运作。"
+   },
+   "ko": {
+    "title": "소프트웨어 뒤에 있는 사람",
+    "summary": "좋은 제품에는 만든 사람의 무언가가 담겨 있다고 생각합니다. 그들의 경험, 그들이 중요하게 여기는 것, 그리고 일이 어떻게 돌아가야 한다고 보는지까지."
+   },
+   "ms": {
+    "title": "Seseorang di sebalik perisian",
+    "summary": "Saya rasa produk yang baik membawa sesuatu daripada orang yang membuatnya: pengalaman mereka, apa yang mereka pedulikan dan bagaimana mereka fikir sesuatu patut berfungsi."
+   },
+   "vi": {
+    "title": "Con người đằng sau phần mềm",
+    "summary": "Tôi nghĩ sản phẩm tốt mang theo dấu ấn của người làm ra nó: kinh nghiệm của họ, điều họ quan tâm và cách họ nghĩ mọi thứ nên vận hành."
+   },
+   "fr": {
+    "title": "Quelqu’un derrière le logiciel",
+    "summary": "Je pense que les bons produits portent quelque chose de ceux qui les font : leur expérience, ce qui leur importe et leur idée de la façon dont les choses devraient fonctionner."
+   },
+   "es": {
+    "title": "Alguien detrás del software",
+    "summary": "Creo que los buenos productos llevan algo de quienes los hacen: su experiencia, lo que les importa y cómo creen que deberían funcionar las cosas."
+   },
+   "de": {
+    "title": "Jemand hinter der Software",
+    "summary": "Ich glaube, gute Produkte tragen etwas von den Menschen in sich, die sie bauen: ihre Erfahrung, was ihnen wichtig ist und wie Dinge ihrer Meinung nach funktionieren sollten."
+   },
+   "zh-Hant": {
+    "title": "軟體背後的人",
+    "summary": "我覺得好的產品帶著做它的人的影子：他們的經驗、他們在乎什麼，以及他們認為事情應該怎樣運作。"
+   }
+  }
+ },
+ "https://sphinx-six-theta.vercel.app/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Sphinx：上线前先就 AI 写的代码考考你的 Git 钩子",
+    "summary": "一个面向智能体辅助开发的 Git 钩子。在智能体写的代码上线前，Sphinx 会问你一个问题：这段代码到底做了什么。"
+   },
+   "ko": {
+    "title": "Sphinx – 배포 전에 AI가 짠 코드에 대해 퀴즈를 내는 훅",
+    "summary": "에이전트 지원 개발을 위한 Git 훅입니다. 에이전트의 코드가 배포되기 전에 Sphinx가 그 코드가 실제로 무엇을 하는지 질문합니다."
+   },
+   "ms": {
+    "title": "Sphinx – hook yang menguji anda tentang kod AI anda sebelum dihantar",
+    "summary": "Hook Git untuk pembangunan berbantu ejen. Sebelum kod ejen anda dihantar, Sphinx bertanya satu soalan tentang apa sebenarnya yang dilakukan kod itu."
+   },
+   "vi": {
+    "title": "Sphinx – hook đố bạn về mã AI viết trước khi phát hành",
+    "summary": "Một Git hook cho phát triển có tác tử hỗ trợ. Trước khi mã của tác tử được phát hành, Sphinx hỏi bạn một câu về việc đoạn mã đó thực sự làm gì."
+   },
+   "fr": {
+    "title": "Sphinx – un hook qui vous interroge sur le code de votre IA avant de livrer",
+    "summary": "Un hook Git pour le développement assisté par agent. Avant que le code de votre agent ne parte en production, Sphinx vous pose une question sur ce qu’il fait réellement."
+   },
+   "es": {
+    "title": "Sphinx: un hook que te examina sobre el código de tu IA antes de publicarlo",
+    "summary": "Un hook de Git para el desarrollo asistido por agentes. Antes de que el código de tu agente se publique, Sphinx te hace una pregunta sobre lo que realmente hace."
+   },
+   "de": {
+    "title": "Sphinx – ein Hook, der dich vor dem Ausliefern zum Code deiner KI abfragt",
+    "summary": "Ein Git-Hook für agentengestützte Entwicklung. Bevor der Code deines Agenten ausgeliefert wird, stellt dir Sphinx eine Frage dazu, was er tatsächlich tut."
+   },
+   "zh-Hant": {
+    "title": "Sphinx：上線前先就 AI 寫的程式碼考考你的 Git 鉤子",
+    "summary": "一個面向智慧體輔助開發的 Git 鉤子。在智慧體寫的程式碼上線前，Sphinx 會問你一個問題：這段程式碼到底做了什麼。"
+   }
+  }
+ },
+ "https://github.com/VikOlliver/RepRapMicron/wiki": {
+  "loc": {
+   "zh-Hans": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap：一个面向微米尺度工作的 3D 打印机项目"
+   },
+   "ko": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap - 마이크론 단위에서 동작하도록 설계된 3D 프린터 프로젝트"
+   },
+   "ms": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap - projek pencetak 3D yang direka untuk berfungsi pada skala mikron"
+   },
+   "vi": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap - dự án máy in 3D được thiết kế để làm việc ở cấp độ micromet"
+   },
+   "fr": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap - un projet d’imprimante 3D conçu pour travailler à l’échelle du micron"
+   },
+   "es": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap - un proyecto de impresora 3D diseñado para trabajar a escala de micras"
+   },
+   "de": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap - ein 3D-Drucker-Projekt für den Mikrometerbereich"
+   },
+   "zh-Hant": {
+    "title": "RepRapMicron",
+    "summary": "μRepRap：一個面向微米尺度工作的 3D 印表機專案"
+   }
+  }
+ },
+ "https://www.getlazarus.org/dynamic/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Free Pascal 编译器现已支持动态包",
+    "summary": "分享于 Hacker News；原文在 getlazarus.org。"
+   },
+   "ko": {
+    "title": "Free Pascal 컴파일러, 이제 동적 패키지 지원",
+    "summary": "Hacker News에서 공유됨. 원문은 getlazarus.org에 있습니다."
+   },
+   "ms": {
+    "title": "Pengkompil Free Pascal kini menyokong pakej dinamik",
+    "summary": "Dikongsi di Hacker News; artikel asal di getlazarus.org."
+   },
+   "vi": {
+    "title": "Trình biên dịch Free Pascal nay hỗ trợ gói động",
+    "summary": "Được chia sẻ trên Hacker News; bài gốc tại getlazarus.org."
+   },
+   "fr": {
+    "title": "Le compilateur Free Pascal prend désormais en charge les paquets dynamiques",
+    "summary": "Partagé sur Hacker News ; original sur getlazarus.org."
+   },
+   "es": {
+    "title": "El compilador Free Pascal ya admite paquetes dinámicos",
+    "summary": "Compartido en Hacker News; original en getlazarus.org."
+   },
+   "de": {
+    "title": "Der Free-Pascal-Compiler unterstützt jetzt dynamische Pakete",
+    "summary": "Geteilt auf Hacker News; Original auf getlazarus.org."
+   },
+   "zh-Hant": {
+    "title": "Free Pascal 編譯器現已支援動態包",
+    "summary": "分享於 Hacker News；原文在 getlazarus.org。"
+   }
+  }
+ },
+ "https://github.com/0x23/MicroManipulatorStepper": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Open MicroManipulator：亚微米级 3D 运动控制平台",
+    "summary": "一个亚微米级的 3D 运动控制平台。"
+   },
+   "ko": {
+    "title": "Open MicroManipulator – 서브마이크로미터급 3D 모션 제어 플랫폼",
+    "summary": "서브마이크로미터 정밀도의 3D 모션 제어 플랫폼입니다."
+   },
+   "ms": {
+    "title": "Open MicroManipulator – platform kawalan gerakan 3D sub-mikrometer",
+    "summary": "Platform kawalan gerakan 3D pada ketepatan sub-mikrometer."
+   },
+   "vi": {
+    "title": "Open MicroManipulator – nền tảng điều khiển chuyển động 3D dưới micromet",
+    "summary": "Một nền tảng điều khiển chuyển động 3D với độ chính xác dưới micromet."
+   },
+   "fr": {
+    "title": "Open MicroManipulator – une plateforme de contrôle de mouvement 3D submicrométrique",
+    "summary": "Une plateforme de contrôle de mouvement 3D à précision submicrométrique."
+   },
+   "es": {
+    "title": "Open MicroManipulator: una plataforma de control de movimiento 3D submicrométrica",
+    "summary": "Una plataforma de control de movimiento 3D con precisión submicrométrica."
+   },
+   "de": {
+    "title": "Open MicroManipulator – eine 3D-Bewegungssteuerung im Submikrometerbereich",
+    "summary": "Eine 3D-Bewegungssteuerungsplattform mit Submikrometer-Präzision."
+   },
+   "zh-Hant": {
+    "title": "Open MicroManipulator：亞微米級 3D 運動控制平臺",
+    "summary": "一個亞微米級的 3D 運動控制平臺。"
+   }
+  }
+ },
+ "https://tkgally.github.io/500-clocks/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Opus 5.5 做的 500 个时钟，装在一个 6.3 MB 的 HTML 文件里",
+    "summary": "一个活的画廊，用各种不寻常、有创意又好看的方式显示当前时间。"
+   },
+   "ko": {
+    "title": "Opus 5.5가 만든 시계 500개, 6.3MB HTML 파일 하나에",
+    "summary": "현재 시각을 독특하고 창의적이며 아름답게 보여 주는 방법들을 모은 살아 있는 갤러리입니다."
+   },
+   "ms": {
+    "title": "500 jam dalam satu fail HTML 6.3 MB oleh Opus 5.5",
+    "summary": "Galeri hidup berisi cara luar biasa, kreatif dan indah untuk memaparkan waktu semasa."
+   },
+   "vi": {
+    "title": "500 chiếc đồng hồ trong một tệp HTML 6,3 MB do Opus 5.5 làm",
+    "summary": "Một phòng trưng bày sống động với những cách hiển thị giờ hiện tại khác thường, sáng tạo và đẹp mắt."
+   },
+   "fr": {
+    "title": "500 horloges dans un seul fichier HTML de 6,3 Mo, par Opus 5.5",
+    "summary": "Une galerie vivante de façons insolites, créatives et belles d’afficher l’heure."
+   },
+   "es": {
+    "title": "500 relojes en un solo archivo HTML de 6,3 MB, hechos por Opus 5.5",
+    "summary": "Una galería viva de formas inusuales, creativas y bonitas de mostrar la hora actual."
+   },
+   "de": {
+    "title": "500 Uhren in einer einzigen 6,3-MB-HTML-Datei, gebaut von Opus 5.5",
+    "summary": "Eine lebendige Galerie ungewöhnlicher, kreativer und schöner Arten, die aktuelle Uhrzeit anzuzeigen."
+   },
+   "zh-Hant": {
+    "title": "Opus 5.5 做的 500 個時鐘，裝在一個 6.3 MB 的 HTML 檔案裡",
+    "summary": "一個活的畫廊，用各種不尋常、有創意又好看的方式顯示當前時間。"
+   }
+  }
+ },
+ "https://github.com/openai/codex/issues/25921": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
+    "summary": "在终端里运行的轻量级编程智能体"
+   },
+   "ko": {
+    "title": "Codex Desktop이 Crashpad 대기 덤프를 계속 생성",
+    "summary": "터미널에서 실행되는 가벼운 코딩 에이전트"
+   },
+   "ms": {
+    "title": "Codex Desktop terus menjana longgokan Crashpad yang belum selesai",
+    "summary": "Ejen pengekodan ringan yang berjalan dalam terminal anda"
+   },
+   "vi": {
+    "title": "Codex Desktop liên tục tạo các bản dump Crashpad đang chờ xử lý",
+    "summary": "Tác tử lập trình gọn nhẹ chạy trong terminal của bạn"
+   },
+   "fr": {
+    "title": "Codex Desktop génère sans cesse des dumps Crashpad en attente",
+    "summary": "Un agent de code léger qui tourne dans votre terminal"
+   },
+   "es": {
+    "title": "Codex Desktop genera continuamente volcados pendientes de Crashpad",
+    "summary": "Un agente de programación ligero que funciona en tu terminal"
+   },
+   "de": {
+    "title": "Codex Desktop erzeugt laufend ausstehende Crashpad-Dumps",
+    "summary": "Ein schlanker Coding-Agent, der in deinem Terminal läuft"
+   },
+   "zh-Hant": {
+    "title": "Codex Desktop 不斷生成 Crashpad 待處理轉儲檔案",
+    "summary": "在終端裡執行的輕量級程式設計智慧體"
+   }
+  }
+ },
+ "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "亚马逊在英国仓库用 AI 监测工会风险",
+    "summary": "内部文件显示，这家科技巨头为一个“打压工会”的 AI 模型收集了“数百个数据点”。"
+   },
+   "ko": {
+    "title": "아마존, 영국 물류창고에서 AI로 노조 결성 위험 감시",
+    "summary": "내부 문서에 따르면 이 거대 기술 기업은 '노조 와해' AI 모델을 위해 '수백 개의 데이터 포인트'를 수집합니다."
+   },
+   "ms": {
+    "title": "Amazon guna AI untuk memantau risiko kesatuan sekerja di gudang UK",
+    "summary": "Dokumen dalaman menunjukkan gergasi teknologi itu mengumpul ‘ratusan titik data’ untuk model AI ‘pemecah kesatuan’."
+   },
+   "vi": {
+    "title": "Amazon dùng AI giám sát nguy cơ thành lập công đoàn tại kho hàng ở Anh",
+    "summary": "Tài liệu nội bộ cho thấy gã khổng lồ công nghệ thu thập “hàng trăm điểm dữ liệu” cho một mô hình AI “phá công đoàn”."
+   },
+   "fr": {
+    "title": "Amazon utilise l’IA pour surveiller le risque syndical dans ses entrepôts britanniques",
+    "summary": "Selon des documents internes, le géant de la tech collecte « des centaines de points de données » pour un modèle d’IA « antisyndical »."
+   },
+   "es": {
+    "title": "Amazon usa IA para vigilar el riesgo sindical en sus almacenes del Reino Unido",
+    "summary": "Documentos internos sugieren que el gigante tecnológico recoge «cientos de datos» para un modelo de IA «antisindical»."
+   },
+   "de": {
+    "title": "Amazon überwacht mit KI das Gewerkschaftsrisiko in britischen Lagern",
+    "summary": "Interne Dokumente legen nahe, dass der Tech-Konzern „Hunderte Datenpunkte“ für ein gewerkschaftsfeindliches KI-Modell sammelt."
+   },
+   "zh-Hant": {
+    "title": "亞馬遜在英國倉庫用 AI 監測工會風險",
+    "summary": "內部檔案顯示，這家科技巨頭為一個“打壓工會”的 AI 模型收集了“數百個資料點”。"
+   }
+  }
+ },
+ "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends": {
+  "loc": {
+   "zh-Hans": {
+    "title": "纽约州公布游戏所有权法案：要求真正拥有而非仅获授权",
+    "summary": "纽约继宾夕法尼亚之后，也开始保护玩家。"
+   },
+   "ko": {
+    "title": "뉴욕주, 라이선스가 아닌 소유를 요구하는 게임 소유권 법안 발표",
+    "summary": "뉴욕이 펜실베이니아에 이어 게이머 보호에 나섰습니다."
+   },
+   "ms": {
+    "title": "NY umum rang undang-undang pemilikan permainan: wajib milik, bukan sekadar lesen",
+    "summary": "New York menyertai Pennsylvania dalam melindungi pemain permainan video."
+   },
+   "vi": {
+    "title": "New York công bố dự luật buộc game phải được sở hữu thay vì chỉ cấp phép",
+    "summary": "New York cùng Pennsylvania bảo vệ người chơi game."
+   },
+   "fr": {
+    "title": "L’État de New York annonce une loi imposant la propriété des jeux plutôt qu’une simple licence",
+    "summary": "New York rejoint la Pennsylvanie dans la protection des joueurs."
+   },
+   "es": {
+    "title": "Nueva York anuncia una ley que exige la propiedad de los juegos en lugar de licencias",
+    "summary": "Nueva York se suma a Pensilvania en la protección de los jugadores."
+   },
+   "de": {
+    "title": "New York kündigt Gesetz an: Spiele müssen gekauft statt nur lizenziert werden",
+    "summary": "New York schließt sich Pennsylvania beim Schutz von Spielern an."
+   },
+   "zh-Hant": {
+    "title": "紐約州公佈遊戲所有權法案：要求真正擁有而非僅獲授權",
+    "summary": "紐約繼賓夕法尼亞之後，也開始保護玩家。"
+   }
+  }
+ },
+ "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Namecheap 刚刚查封并停用了我所有的域名",
+    "summary": "分享于 Hacker News；原文在 reddit.com。"
+   },
+   "ko": {
+    "title": "Namecheap이 방금 내 도메인을 전부 압류하고 비활성화했다",
+    "summary": "Hacker News에서 공유됨. 원문은 reddit.com에 있습니다."
+   },
+   "ms": {
+    "title": "Namecheap baru sahaja merampas dan melumpuhkan semua domain saya",
+    "summary": "Dikongsi di Hacker News; artikel asal di reddit.com."
+   },
+   "vi": {
+    "title": "Namecheap vừa thu giữ và vô hiệu hóa toàn bộ tên miền của tôi",
+    "summary": "Được chia sẻ trên Hacker News; bài gốc tại reddit.com."
+   },
+   "fr": {
+    "title": "Namecheap vient de saisir et de désactiver tous mes domaines",
+    "summary": "Partagé sur Hacker News ; original sur reddit.com."
+   },
+   "es": {
+    "title": "Namecheap acaba de incautar y desactivar todos mis dominios",
+    "summary": "Compartido en Hacker News; original en reddit.com."
+   },
+   "de": {
+    "title": "Namecheap hat gerade alle meine Domains beschlagnahmt und deaktiviert",
+    "summary": "Geteilt auf Hacker News; Original auf reddit.com."
+   },
+   "zh-Hant": {
+    "title": "Namecheap 剛剛查封並停用了我所有的域名",
+    "summary": "分享於 Hacker News；原文在 reddit.com。"
+   }
+  }
+ },
+ "https://thingstodoapi.com/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Things to Do API",
+    "summary": "面向智能体应用的快速、准确、本地化活动 API：每场演出、音乐会、快闪、市集和派对都以 JSON 提供，可走 REST 或 MCP。免费起步。"
+   },
+   "ko": {
+    "title": "Things to Do API",
+    "summary": "에이전트 애플리케이션을 위한 빠르고 정확한 지역 이벤트 API: 모든 공연, 콘서트, 팝업, 마켓, 파티를 REST나 MCP로 JSON 형태로 제공합니다. 무료로 시작할 수 있습니다."
+   },
+   "ms": {
+    "title": "Things to Do API",
+    "summary": "API acara setempat yang pantas dan tepat untuk aplikasi berejen: setiap pertunjukan, konsert, pop-up, pasar dan parti dalam JSON, melalui REST atau MCP. Percuma untuk bermula."
+   },
+   "vi": {
+    "title": "Things to Do API",
+    "summary": "API sự kiện địa phương nhanh, chính xác cho ứng dụng tác tử: mọi buổi diễn, hòa nhạc, pop-up, chợ phiên và tiệc dưới dạng JSON, qua REST hoặc MCP. Bắt đầu miễn phí."
+   },
+   "fr": {
+    "title": "Things to Do API",
+    "summary": "Une API d’événements locaux rapide et précise pour les applications à agents : chaque spectacle, concert, pop-up, marché et soirée en JSON, via REST ou MCP. Gratuit pour commencer."
+   },
+   "es": {
+    "title": "Things to Do API",
+    "summary": "Una API de eventos locales rápida y precisa para aplicaciones con agentes: cada espectáculo, concierto, pop-up, mercado y fiesta en JSON, por REST o MCP. Gratis para empezar."
+   },
+   "de": {
+    "title": "Things to Do API",
+    "summary": "Eine schnelle, genaue, lokale Event-API für Agenten-Anwendungen: jede Show, jedes Konzert, jeder Pop-up, Markt und jede Party als JSON, per REST oder MCP. Kostenlos zum Start."
+   },
+   "zh-Hant": {
+    "title": "Things to Do API",
+    "summary": "面向智慧體應用的快速、準確、本地化活動 API：每場演出、音樂會、快閃、市集和派對都以 JSON 提供，可走 REST 或 MCP。免費起步。"
+   }
+  }
+ },
+ "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car": {
+  "loc": {
+   "zh-Hans": {
+    "title": "特斯拉“无法保证”Roadster 预订者能拿到车",
+    "summary": "顾客预订 Roadster 时必须签署的文件写明，特斯拉无法保证何时交车，甚至无法保证是否交车。"
+   },
+   "ko": {
+    "title": "테슬라, 로드스터 예약자가 차를 받을 수 있다고 '보장할 수 없다'",
+    "summary": "로드스터를 예약하려면 서명해야 하는 문서에는 테슬라가 차량 인도 시점은 물론 인도 여부조차 보장할 수 없다고 적혀 있습니다."
+   },
+   "ms": {
+    "title": "Tesla ‘tidak boleh menjamin’ penempah Roadster akan menerima kereta",
+    "summary": "Dokumen yang mesti ditandatangani pelanggan untuk menempah Roadster menyatakan Tesla tidak boleh menjamin bila — atau sama ada — kereta itu akan dihantar."
+   },
+   "vi": {
+    "title": "Tesla “không thể đảm bảo” người đặt trước Roadster sẽ nhận được xe",
+    "summary": "Văn bản khách hàng phải ký để đặt Roadster ghi rằng Tesla không thể đảm bảo khi nào, hay thậm chí có giao xe hay không."
+   },
+   "fr": {
+    "title": "Tesla « ne peut garantir » que les réservataires du Roadster recevront un jour leur voiture",
+    "summary": "Le document à signer pour réserver un Roadster indique que Tesla ne peut garantir ni quand, ni même si la voiture sera livrée."
+   },
+   "es": {
+    "title": "Tesla «no puede garantizar» que quienes reservaron el Roadster reciban algún día el coche",
+    "summary": "El documento que hay que firmar para reservar un Roadster dice que Tesla no puede garantizar cuándo, ni siquiera si, se entregará el coche."
+   },
+   "de": {
+    "title": "Tesla „kann nicht garantieren“, dass Roadster-Reservierer je ein Auto bekommen",
+    "summary": "Im Dokument, das Kunden für eine Roadster-Reservierung unterschreiben müssen, steht, dass Tesla nicht garantieren kann, wann – oder ob – das Auto geliefert wird."
+   },
+   "zh-Hant": {
+    "title": "特斯拉“無法保證”Roadster 預訂者能拿到車",
+    "summary": "顧客預訂 Roadster 時必須簽署的檔案寫明，特斯拉無法保證何時交車，甚至無法保證是否交車。"
+   }
+  }
+ },
+ "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day": {
+  "loc": {
+   "zh-Hans": {
+    "title": "扎克伯格的 Meta 在抗议日下架 No Kings 的 Instagram",
+    "summary": "分享于 Hacker News；原文在 meidasnews.com。"
+   },
+   "ko": {
+    "title": "저커버그의 메타, 시위 당일 No Kings 인스타그램 삭제",
+    "summary": "Hacker News에서 공유됨. 원문은 meidasnews.com에 있습니다."
+   },
+   "ms": {
+    "title": "Meta milik Zuckerberg turunkan Instagram No Kings pada hari protes",
+    "summary": "Dikongsi di Hacker News; artikel asal di meidasnews.com."
+   },
+   "vi": {
+    "title": "Meta của Zuckerberg gỡ Instagram của No Kings đúng ngày biểu tình",
+    "summary": "Được chia sẻ trên Hacker News; bài gốc tại meidasnews.com."
+   },
+   "fr": {
+    "title": "Meta, l’entreprise de Zuckerberg, supprime l’Instagram de No Kings le jour de la manifestation",
+    "summary": "Partagé sur Hacker News ; original sur meidasnews.com."
+   },
+   "es": {
+    "title": "La Meta de Zuckerberg retira el Instagram de No Kings durante la jornada de protestas",
+    "summary": "Compartido en Hacker News; original en meidasnews.com."
+   },
+   "de": {
+    "title": "Zuckerbergs Meta sperrt das Instagram-Konto von No Kings am Protesttag",
+    "summary": "Geteilt auf Hacker News; Original auf meidasnews.com."
+   },
+   "zh-Hant": {
+    "title": "扎克伯格的 Meta 在抗議日下架 No Kings 的 Instagram",
+    "summary": "分享於 Hacker News；原文在 meidasnews.com。"
+   }
+  }
+ },
+ "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html": {
+  "loc": {
+   "zh-Hans": {
+    "title": "佛罗里达的业主协会和公寓协会正在加剧住房危机",
+    "summary": "住房危机有三个层面：房子多贵、在售的有多少，以及住在里面的人能不能住下去。在佛罗里达，业主协会和公寓协会对这三方面都在施压。"
+   },
+   "ko": {
+    "title": "플로리다의 주택소유자협회와 콘도 협회가 주택 위기를 악화시키고 있다",
+    "summary": "주택 위기에는 세 가지 측면이 있습니다. 집값, 매물의 수, 그리고 거주자가 계속 살 수 있는지. 플로리다에서는 주택소유자협회와 콘도 협회가 이 세 가지 모두를 압박합니다."
+   },
+   "ms": {
+    "title": "Persatuan pemilik rumah dan kondominium Florida memburukkan krisis perumahan",
+    "summary": "Krisis perumahan ada tiga bahagian: harga rumah, berapa banyak yang dijual, dan sama ada penghuninya dapat terus tinggal. Di Florida, persatuan pemilik rumah dan kondominium menekan ketiga-tiganya."
+   },
+   "vi": {
+    "title": "Hiệp hội chủ nhà và hiệp hội chung cư ở Florida đang làm khủng hoảng nhà ở tệ hơn",
+    "summary": "Khủng hoảng nhà ở có ba phần: giá nhà, số nhà được bán và việc người đang ở có được ở lại hay không. Ở Florida, các hiệp hội chủ nhà và chung cư tác động lên cả ba."
+   },
+   "fr": {
+    "title": "En Floride, les associations de propriétaires et de copropriété aggravent la crise du logement",
+    "summary": "Une crise du logement a trois volets : le prix d’un logement, le nombre de biens à vendre et la possibilité pour les occupants de rester. En Floride, les associations de propriétaires et de copropriété pèsent sur les trois."
+   },
+   "es": {
+    "title": "Las asociaciones de propietarios y de condominios de Florida agravan la crisis de vivienda",
+    "summary": "Una crisis de vivienda tiene tres partes: lo que cuesta una casa, cuántas hay en venta y si quienes viven en ellas pueden quedarse. En Florida, las asociaciones de propietarios y de condominios presionan sobre las tres."
+   },
+   "de": {
+    "title": "Floridas Eigentümer- und Condo-Verbände verschärfen die Wohnungskrise",
+    "summary": "Eine Wohnungskrise hat drei Teile: was ein Zuhause kostet, wie viele zum Verkauf stehen und ob die Bewohner bleiben können. In Florida drücken Eigentümer- und Condo-Verbände auf alle drei."
+   },
+   "zh-Hant": {
+    "title": "佛羅里達的業主協會和公寓協會正在加劇住房危機",
+    "summary": "住房危機有三個層面：房子多貴、在售的有多少，以及住在裡面的人能不能住下去。在佛羅里達，業主協會和公寓協會對這三方面都在施壓。"
+   }
+  }
+ },
+ "https://github.com/Gathin23/tv-vibehack": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "让你的电视没有广告。通过 ADB 给任意 Android TV 瘦身，再换上一个简洁、受 tvOS 启发的启动器。用 Claude Code 一个下午做成。"
+   },
+   "ko": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "광고 없는 TV. ADB로 어떤 Android TV든 불필요한 앱을 걷어내고 tvOS에서 영감을 받은 깔끔한 런처를 씌웁니다. Claude Code로 오후 한나절 만에 만들었습니다."
+   },
+   "ms": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "TV anda, tanpa iklan. Buang perisian berlebihan daripada mana-mana Android TV melalui ADB dan beri pelancar bersih yang diilhamkan tvOS. Dibina dalam satu petang dengan Claude Code."
+   },
+   "vi": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "TV của bạn, không còn quảng cáo. Dọn sạch bất kỳ Android TV nào qua ADB và thay bằng một launcher gọn gàng lấy cảm hứng từ tvOS. Làm trong một buổi chiều với Claude Code."
+   },
+   "fr": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "Votre télé, sans les pubs. Allégez n’importe quelle Android TV via ADB et offrez-lui un lanceur épuré inspiré de tvOS. Construit en un après-midi avec Claude Code."
+   },
+   "es": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "Tu tele, sin anuncios. Limpia cualquier Android TV por ADB y ponle un lanzador limpio inspirado en tvOS. Hecho en una tarde con Claude Code."
+   },
+   "de": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "Dein Fernseher, ohne Werbung. Entschlacke jedes Android TV per ADB und gib ihm einen aufgeräumten, von tvOS inspirierten Launcher. An einem Nachmittag mit Claude Code gebaut."
+   },
+   "zh-Hant": {
+    "title": "Gathin23/tv-vibehack",
+    "summary": "讓你的電視沒有廣告。透過 ADB 給任意 Android TV 瘦身，再換上一個簡潔、受 tvOS 啟發的啟動器。用 Claude Code 一個下午做成。"
+   }
+  }
+ },
+ "https://github.com/ly05010419/MacNativeGames": {
+  "loc": {
+   "zh-Hans": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "在 Apple Silicon Mac 上原生运行你自己拥有的《塞尔达传说：王国之泪》。带上游戏文件（XCI 或 NSP）和 prod.keys，一个脚本就能把它们变成 Mac 应用。"
+   },
+   "ko": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "내가 가진 젤다의 전설: 티어스 오브 더 킹덤을 Apple Silicon Mac에서 네이티브로 플레이하세요. 게임 파일(XCI 또는 NSP)과 prod.keys만 있으면 스크립트 하나로 Mac 앱이 됩니다."
+   },
+   "ms": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "Main salinan The Legend of Zelda: Tears of the Kingdom milik anda secara natif pada Mac Apple Silicon. Bawa fail permainan (XCI atau NSP) dan prod.keys anda; satu skrip menjadikannya aplikasi Mac."
+   },
+   "vi": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "Chơi bản The Legend of Zelda: Tears of the Kingdom của chính bạn trực tiếp trên Mac Apple Silicon. Mang theo tệp game (XCI hoặc NSP) và prod.keys; một script sẽ biến chúng thành ứng dụng Mac."
+   },
+   "fr": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "Jouez en natif à votre propre copie de The Legend of Zelda: Tears of the Kingdom sur un Mac Apple Silicon. Apportez le fichier du jeu (XCI ou NSP) et vos prod.keys ; un script en fait une app Mac."
+   },
+   "es": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "Juega de forma nativa a tu propia copia de The Legend of Zelda: Tears of the Kingdom en un Mac con Apple Silicon. Aporta el archivo del juego (XCI o NSP) y tus prod.keys; un script los convierte en una app de Mac."
+   },
+   "de": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "Spiele deine eigene Kopie von The Legend of Zelda: Tears of the Kingdom nativ auf einem Apple-Silicon-Mac. Bring die Spieldatei (XCI oder NSP) und deine prod.keys mit; ein Skript macht daraus eine Mac-App."
+   },
+   "zh-Hant": {
+    "title": "ly05010419/MacNativeGames",
+    "summary": "在 Apple Silicon Mac 上原生執行你自己擁有的《塞爾達傳說：王國之淚》。帶上游戲檔案（XCI 或 NSP）和 prod.keys，一個指令碼就能把它們變成 Mac 應用。"
+   }
+  }
+ }
+}

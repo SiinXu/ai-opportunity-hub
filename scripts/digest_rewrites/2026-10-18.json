@@ -1,0 +1,722 @@
+{
+ "https://www.anthropic.com/research/ecdsa-curve-origins": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Claude 揭开 ECDSA 曲线的来历",
+    "summary": "最常用的密码学标准之一，其来历之谜困扰了几十年，如今终于有了解释。"
+   },
+   "ko": {
+    "title": "Claude가 밝혀낸 ECDSA 곡선의 기원",
+    "summary": "가장 널리 쓰이는 암호 표준 중 하나의 기원을 둘러싼 수십 년 묵은 수수께끼가 풀렸습니다."
+   },
+   "ms": {
+    "title": "Claude dedahkan asal usul lengkung ECDSA",
+    "summary": "Misteri berdekad-dekad tentang asal usul salah satu piawaian kriptografi paling popular kini telah dijelaskan."
+   },
+   "vi": {
+    "title": "Claude làm rõ nguồn gốc của đường cong ECDSA",
+    "summary": "Bí ẩn hàng chục năm về nguồn gốc của một trong những chuẩn mật mã phổ biến nhất đã được giải thích."
+   },
+   "fr": {
+    "title": "Claude révèle l’origine des courbes ECDSA",
+    "summary": "Le mystère, vieux de plusieurs décennies, de l’origine de l’une des normes cryptographiques les plus utilisées a été élucidé."
+   },
+   "es": {
+    "title": "Claude revela el origen de las curvas ECDSA",
+    "summary": "Se ha explicado el misterio, de décadas, sobre el origen de uno de los estándares criptográficos más populares."
+   },
+   "de": {
+    "title": "Claude enthüllt die Herkunft der ECDSA-Kurven",
+    "summary": "Das jahrzehntealte Rätsel um die Herkunft eines der verbreitetsten kryptografischen Standards ist gelöst."
+   },
+   "zh-Hant": {
+    "title": "Claude 揭開 ECDSA 曲線的來歷",
+    "summary": "最常用的密碼學標準之一，其來歷之謎困擾了幾十年，如今終於有了解釋。"
+   }
+  }
+ },
+ "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017": {
+  "loc": {
+   "zh-Hans": {
+    "title": "DeepSeek：DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 是 DeepSeek V4.1 Flash 在 2026 年 10 月 17 日的快照，由 DeepSeek 以 `deepseek-flash` 这一 API 模型名提供。"
+   },
+   "ko": {
+    "title": "DeepSeek: DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017은 DeepSeek V4.1 Flash의 2026년 10월 17일 스냅숏으로, DeepSeek가 `deepseek-flash`라는 API 모델 이름으로 제공합니다."
+   },
+   "ms": {
+    "title": "DeepSeek: DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 ialah syot DeepSeek V4.1 Flash bertarikh 17 Oktober 2026, disediakan oleh DeepSeek dengan nama model API `deepseek-flash`."
+   },
+   "vi": {
+    "title": "DeepSeek: DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 là bản chụp ngày 17 tháng 10 năm 2026 của DeepSeek V4.1 Flash, được DeepSeek phục vụ qua tên mô hình API `deepseek-flash`."
+   },
+   "fr": {
+    "title": "DeepSeek : DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 est l’instantané du 17 octobre 2026 de DeepSeek V4.1 Flash, servi par DeepSeek sous le nom de modèle d’API `deepseek-flash`."
+   },
+   "es": {
+    "title": "DeepSeek: DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 es la instantánea del 17 de octubre de 2026 de DeepSeek V4.1 Flash, servida por DeepSeek con el nombre de modelo de API `deepseek-flash`."
+   },
+   "de": {
+    "title": "DeepSeek: DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 ist der Snapshot von DeepSeek V4.1 Flash vom 17. Oktober 2026, von DeepSeek unter dem API-Modellnamen `deepseek-flash` bereitgestellt."
+   },
+   "zh-Hant": {
+    "title": "DeepSeek：DeepSeek V4.1 Flash 1017",
+    "summary": "DeepSeek V4.1 Flash 1017 是 DeepSeek V4.1 Flash 在 2026 年 10 月 17 日的快照，由 DeepSeek 以 `deepseek-flash` 這一 API 模型名提供。"
+   }
+  }
+ },
+ "https://www.mercor.com/research/labor-index/benchmark-map/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "美国 90% 的工作时间花在 AI 基准测试覆盖不好的任务上",
+    "summary": "“美国基准地图”把 AI 基准测试铺到整个美国经济上，衡量劳动力中哪些部分被未饱和、公开、智能体式的基准测试所覆盖。"
+   },
+   "ko": {
+    "title": "미국 근로 시간의 90%는 AI 벤치마크가 잘 다루지 못하는 업무에 쓰인다",
+    "summary": "US Benchmark Map은 AI 벤치마크를 미국 경제 전반에 배치해, 노동력의 어느 부분이 포화되지 않은 공개 에이전트형 벤치마크로 다뤄지는지 측정합니다."
+   },
+   "ms": {
+    "title": "90% waktu kerja di AS dihabiskan pada tugas yang kurang diliputi penanda aras AI",
+    "summary": "US Benchmark Map memetakan penanda aras AI merentas ekonomi Amerika, mengukur bahagian tenaga kerja yang diliputi penanda aras berejen yang awam dan belum tepu."
+   },
+   "vi": {
+    "title": "90% giờ làm việc ở Mỹ dành cho những việc mà benchmark AI chưa đo tốt",
+    "summary": "US Benchmark Map đặt các benchmark AI lên toàn bộ nền kinh tế Mỹ, đo xem phần nào của lực lượng lao động được các benchmark tác tử công khai, chưa bão hòa bao phủ."
+   },
+   "fr": {
+    "title": "90 % des heures travaillées aux États-Unis portent sur des tâches mal couvertes par les benchmarks d’IA",
+    "summary": "La US Benchmark Map place les benchmarks d’IA sur l’ensemble de l’économie américaine et mesure quelles parts de la main-d’œuvre sont couvertes par des benchmarks agentiques publics et non saturés."
+   },
+   "es": {
+    "title": "El 90 % de las horas de trabajo en EE. UU. se dedica a tareas que los benchmarks de IA cubren mal",
+    "summary": "El US Benchmark Map sitúa los benchmarks de IA sobre toda la economía estadounidense y mide qué partes de la fuerza laboral cubren benchmarks agénticos, públicos y no saturados."
+   },
+   "de": {
+    "title": "90 % der US-Arbeitsstunden entfallen auf Aufgaben, die KI-Benchmarks schlecht abdecken",
+    "summary": "Die US Benchmark Map legt KI-Benchmarks über die gesamte US-Wirtschaft und misst, welche Teile der Arbeitswelt von ungesättigten, öffentlichen, agentischen Benchmarks abgedeckt sind."
+   },
+   "zh-Hant": {
+    "title": "美國 90% 的工作時間花在 AI 基準測試覆蓋不好的任務上",
+    "summary": "“美國基準地圖”把 AI 基準測試鋪到整個美國經濟上，衡量勞動力中哪些部分被未飽和、公開、智慧體式的基準測試所覆蓋。"
+   }
+  }
+ },
+ "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
+  "loc": {
+   "zh-Hans": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "我们正通过开源与开放科学，推动人工智能进步并让它普及到每个人。"
+   },
+   "ko": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "우리는 오픈 소스와 오픈 사이언스로 인공지능을 발전시키고 누구나 쓸 수 있게 만드는 여정을 걷고 있습니다."
+   },
+   "ms": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "Kami dalam perjalanan memajukan dan mendemokrasikan kecerdasan buatan melalui sumber terbuka dan sains terbuka."
+   },
+   "vi": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "Chúng tôi đang trên hành trình thúc đẩy và phổ cập trí tuệ nhân tạo thông qua mã nguồn mở và khoa học mở."
+   },
+   "fr": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "Notre mission : faire progresser et démocratiser l’intelligence artificielle grâce à l’open source et à la science ouverte."
+   },
+   "es": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "Estamos en el camino de impulsar y democratizar la inteligencia artificial mediante el código abierto y la ciencia abierta."
+   },
+   "de": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "Wir wollen künstliche Intelligenz durch Open Source und offene Wissenschaft voranbringen und demokratisieren."
+   },
+   "zh-Hant": {
+    "title": "DeepSeek-V4.1-Flash-1017",
+    "summary": "我們正透過開源與開放科學，推動人工智慧進步並讓它普及到每個人。"
+   }
+  }
+ },
+ "https://github.com/cobanov/PS5LM": {
+  "loc": {
+   "zh-Hans": {
+    "title": "越狱 PS5 上跑 llama.cpp：在主机上原生运行任意 GGUF 模型",
+    "summary": "在越狱的 PS5 上运行 llama.cpp：在主机上原生运行任意 GGUF 模型，先从 Qwen 3.8 开始"
+   },
+   "ko": {
+    "title": "탈옥한 PS5에서 llama.cpp: 콘솔에서 어떤 GGUF 모델이든 네이티브 실행",
+    "summary": "탈옥한 PS5에서 llama.cpp 실행: Qwen 3.8부터 시작해 어떤 GGUF 모델이든 콘솔에서 네이티브로 돌립니다"
+   },
+   "ms": {
+    "title": "Llama.cpp pada PS5 yang di-jailbreak: jalankan mana-mana model GGUF secara natif pada konsol",
+    "summary": "llama.cpp pada PS5 yang di-jailbreak: jalankan mana-mana model GGUF secara natif pada konsol, bermula dengan Qwen 3.8"
+   },
+   "vi": {
+    "title": "Llama.cpp trên PS5 đã jailbreak: chạy mọi mô hình GGUF trực tiếp trên máy",
+    "summary": "llama.cpp trên PS5 đã jailbreak: chạy mọi mô hình GGUF trực tiếp trên máy console, bắt đầu với Qwen 3.8"
+   },
+   "fr": {
+    "title": "Llama.cpp sur une PS5 jailbreakée : n’importe quel modèle GGUF en natif sur la console",
+    "summary": "llama.cpp sur une PS5 jailbreakée : faire tourner n’importe quel modèle GGUF en natif sur la console, en commençant par Qwen 3.8"
+   },
+   "es": {
+    "title": "Llama.cpp en una PS5 con jailbreak: cualquier modelo GGUF de forma nativa en la consola",
+    "summary": "llama.cpp en una PS5 con jailbreak: ejecuta cualquier modelo GGUF de forma nativa en la consola, empezando por Qwen 3.8"
+   },
+   "de": {
+    "title": "Llama.cpp auf einer gejailbreakten PS5: jedes GGUF-Modell nativ auf der Konsole",
+    "summary": "llama.cpp auf einer gejailbreakten PS5: jedes GGUF-Modell nativ auf der Konsole ausführen, angefangen mit Qwen 3.8"
+   },
+   "zh-Hant": {
+    "title": "越獄 PS5 上跑 llama.cpp：在主機上原生執行任意 GGUF 模型",
+    "summary": "在越獄的 PS5 上執行 llama.cpp：在主機上原生執行任意 GGUF 模型，先從 Qwen 3.8 開始"
+   }
+  }
+ },
+ "https://alexwang.ai/posts/associative-memory/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "你本可以凭记忆发明 Transformer",
+    "summary": "如今的大语言模型能回忆起世界各个角落的冷门知识。最近一次，我赶去朋友的桌游之夜要迟到了，就让 Astra 提醒我规则……"
+   },
+   "ko": {
+    "title": "당신도 기억만으로 트랜스포머를 발명할 수 있었다",
+    "summary": "오늘날 대규모 언어 모델은 세계 구석구석의 잘 알려지지 않은 사실까지 기억해 냅니다. 최근 친구의 보드게임 모임에 늦어서 Astra에게 규칙을 알려 달라고 했는데…"
+   },
+   "ms": {
+    "title": "Anda boleh mencipta transformer daripada ingatan",
+    "summary": "Model bahasa besar hari ini boleh mengingat fakta kecil dari setiap pelosok dunia. Baru-baru ini saya lewat ke malam permainan papan rakan, jadi saya minta Astra ingatkan saya peraturan…"
+   },
+   "vi": {
+    "title": "Bạn hoàn toàn có thể tự phát minh ra transformer từ trí nhớ",
+    "summary": "Các mô hình ngôn ngữ lớn ngày nay nhớ được cả những dữ kiện ít ai biết ở khắp nơi trên thế giới. Gần đây tôi bị muộn buổi chơi board game của bạn, nên nhờ Astra nhắc lại luật chơi…"
+   },
+   "fr": {
+    "title": "Vous auriez pu inventer les transformers de mémoire",
+    "summary": "Les grands modèles de langage d’aujourd’hui se souviennent de faits obscurs venus des quatre coins du monde. Récemment, en retard pour la soirée jeux de société d’un ami, j’ai demandé à Astra de me rappeler les règles…"
+   },
+   "es": {
+    "title": "Podrías haber inventado los transformers de memoria",
+    "summary": "Los grandes modelos de lenguaje de hoy recuerdan datos poco conocidos de todos los rincones del mundo. Hace poco llegaba tarde a la noche de juegos de mesa de un amigo y le pedí a Astra que me recordara las reglas…"
+   },
+   "de": {
+    "title": "Du hättest Transformer aus dem Gedächtnis erfinden können",
+    "summary": "Heutige große Sprachmodelle erinnern sich an obskure Fakten aus aller Welt. Neulich war ich spät dran für den Spieleabend eines Freundes und bat Astra, mir die Regeln ins Gedächtnis zu rufen…"
+   },
+   "zh-Hant": {
+    "title": "你本可以憑記憶發明 Transformer",
+    "summary": "如今的大語言模型能回憶起世界各個角落的冷門知識。最近一次，我趕去朋友的桌遊之夜要遲到了，就讓 Astra 提醒我規則……"
+   }
+  }
+ },
+ "https://github.com/mikroverk/esp32sim": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Esp32sim：在浏览器里运行 ESP32 固件",
+    "summary": "开源 ESP32 模拟器。在本地或浏览器中运行真实固件——无需硬件、无需云、无需订阅。"
+   },
+   "ko": {
+    "title": "Esp32sim – 브라우저에서 ESP32 펌웨어 실행",
+    "summary": "오픈 소스 ESP32 에뮬레이터. 실제 펌웨어를 로컬이나 브라우저에서 실행하세요. 하드웨어도, 클라우드도, 구독도 필요 없습니다."
+   },
+   "ms": {
+    "title": "Esp32sim – Jalankan perisian tegar ESP32 dalam pelayar",
+    "summary": "Emulator ESP32 sumber terbuka. Jalankan perisian tegar sebenar secara setempat atau dalam pelayar — tanpa perkakasan, tanpa awan, tanpa langganan."
+   },
+   "vi": {
+    "title": "Esp32sim – Chạy firmware ESP32 ngay trong trình duyệt",
+    "summary": "Trình giả lập ESP32 mã nguồn mở. Chạy firmware thật trên máy hoặc trong trình duyệt — không cần phần cứng, không cần đám mây, không thuê bao."
+   },
+   "fr": {
+    "title": "Esp32sim – exécuter un firmware ESP32 dans le navigateur",
+    "summary": "Émulateur ESP32 open source. Faites tourner un vrai firmware en local ou dans le navigateur — sans matériel, sans cloud, sans abonnement."
+   },
+   "es": {
+    "title": "Esp32sim: ejecuta firmware de ESP32 en el navegador",
+    "summary": "Emulador de ESP32 de código abierto. Ejecuta firmware real en local o en el navegador, sin hardware, sin nube y sin suscripción."
+   },
+   "de": {
+    "title": "Esp32sim – ESP32-Firmware im Browser ausführen",
+    "summary": "Open-Source-ESP32-Emulator. Echte Firmware lokal oder im Browser ausführen – ohne Hardware, ohne Cloud, ohne Abo."
+   },
+   "zh-Hant": {
+    "title": "Esp32sim：在瀏覽器裡執行 ESP32 韌體",
+    "summary": "開源 ESP32 模擬器。在本地或瀏覽器中執行真實韌體——無需硬體、無需雲、無需訂閱。"
+   }
+  }
+ },
+ "https://lwn.net/Articles/1088776/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "7.2 内核的开发统计",
+    "summary": "订阅 LWN 的主要好处是帮助我们继续出版；此外，订阅者还能立即访问全站内容，并使用多项额外的网站功能。"
+   },
+   "ko": {
+    "title": "7.2 커널 개발 통계",
+    "summary": "LWN 구독의 가장 큰 의미는 저희가 계속 발행하도록 돕는 것이며, 그 밖에도 구독자는 사이트 전체 콘텐츠를 바로 볼 수 있고 여러 추가 기능을 이용할 수 있습니다."
+   },
+   "ms": {
+    "title": "Statistik pembangunan untuk kernel 7.2",
+    "summary": "Manfaat utama melanggan LWN ialah membantu kami terus menerbitkan; selain itu, pelanggan mendapat akses segera ke semua kandungan laman dan beberapa ciri tambahan."
+   },
+   "vi": {
+    "title": "Thống kê phát triển của nhân 7.2",
+    "summary": "Lợi ích chính của việc đăng ký LWN là giúp chúng tôi tiếp tục xuất bản; ngoài ra, người đăng ký được truy cập ngay mọi nội dung và một số tính năng bổ sung của trang."
+   },
+   "fr": {
+    "title": "Statistiques de développement du noyau 7.2",
+    "summary": "S’abonner à LWN sert avant tout à nous aider à continuer de publier ; au-delà, les abonnés accèdent immédiatement à tout le contenu du site et à plusieurs fonctions supplémentaires."
+   },
+   "es": {
+    "title": "Estadísticas de desarrollo del kernel 7.2",
+    "summary": "La principal ventaja de suscribirse a LWN es ayudarnos a seguir publicando; además, los suscriptores acceden de inmediato a todo el contenido y a varias funciones extra del sitio."
+   },
+   "de": {
+    "title": "Entwicklungsstatistik für den Kernel 7.2",
+    "summary": "Ein LWN-Abo hilft vor allem dabei, dass wir weiter veröffentlichen können; darüber hinaus erhalten Abonnenten sofortigen Zugriff auf alle Inhalte und einige zusätzliche Funktionen."
+   },
+   "zh-Hant": {
+    "title": "7.2 核心的開發統計",
+    "summary": "訂閱 LWN 的主要好處是幫助我們繼續出版；此外，訂閱者還能立即訪問全站內容，並使用多項額外的網站功能。"
+   }
+  }
+ },
+ "https://llmspeed.dev/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Llmspeed：买硬件前先感受本地 LLM 跑得多快",
+    "summary": "选好硬件和模型，在购买前就能感受本地 LLM 的真实速度。它根据 GPU、Mac 等设备经过核实的基准数据，模拟每秒 token 数和首 token 时间。"
+   },
+   "ko": {
+    "title": "Llmspeed – 하드웨어를 사기 전에 로컬 LLM 속도를 체감해 보기",
+    "summary": "하드웨어와 모델을 고르면 구매 전에 로컬 LLM의 실제 속도를 체감할 수 있습니다. GPU, Mac 등의 검증된 벤치마크로 초당 토큰 수와 첫 토큰까지의 시간을 시뮬레이션합니다."
+   },
+   "ms": {
+    "title": "Llmspeed – rasai kelajuan LLM setempat sebelum membeli perkakasan",
+    "summary": "Pilih perkakasan dan model, dan rasai kelajuan sebenar LLM setempat sebelum membeli. Ia mensimulasikan token sesaat dan masa ke token pertama daripada penanda aras yang disahkan untuk GPU, Mac dan banyak lagi."
+   },
+   "vi": {
+    "title": "Llmspeed – cảm nhận tốc độ LLM cục bộ trước khi mua phần cứng",
+    "summary": "Chọn phần cứng và mô hình để cảm nhận tốc độ thật của LLM cục bộ trước khi mua. Công cụ mô phỏng token mỗi giây và thời gian tới token đầu tiên dựa trên benchmark đã kiểm chứng cho GPU, Mac và hơn thế."
+   },
+   "fr": {
+    "title": "Llmspeed – sentir la vitesse d’un LLM local avant d’acheter le matériel",
+    "summary": "Choisissez un matériel et un modèle, et ressentez la vraie vitesse d’un LLM local avant d’acheter. Simule les tokens par seconde et le délai du premier token à partir de benchmarks vérifiés pour GPU, Mac, etc."
+   },
+   "es": {
+    "title": "Llmspeed: siente lo rápido que va un LLM local antes de comprar el hardware",
+    "summary": "Elige hardware y modelo y siente la velocidad real de un LLM local antes de comprar. Simula tokens por segundo y tiempo hasta el primer token a partir de benchmarks verificados para GPU, Mac y más."
+   },
+   "de": {
+    "title": "Llmspeed – spüren, wie schnell ein lokales LLM läuft, bevor man Hardware kauft",
+    "summary": "Hardware und Modell wählen und die echte Geschwindigkeit eines lokalen LLM vor dem Kauf erleben. Simuliert Tokens pro Sekunde und Zeit bis zum ersten Token anhand verifizierter Benchmarks für GPUs, Macs und mehr."
+   },
+   "zh-Hant": {
+    "title": "Llmspeed：買硬體前先感受本地 LLM 跑得多快",
+    "summary": "選好硬體和模型，在購買前就能感受本地 LLM 的真實速度。它根據 GPU、Mac 等裝置經過核實的基準資料，模擬每秒 token 數和首 token 時間。"
+   }
+  }
+ },
+ "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Anthropic 在 6 月被给予最高等级的垃圾债信用评级",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "ko": {
+    "title": "Anthropic, 6월에 투기 등급 중 최상위 신용등급 받아",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "ms": {
+    "title": "Anthropic diberi penarafan kredit sampah tertinggi pada bulan Jun",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "vi": {
+    "title": "Anthropic được xếp hạng tín nhiệm “rác” cao nhất vào tháng 6",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "fr": {
+    "title": "Anthropic a reçu en juin la meilleure note de crédit de la catégorie spéculative",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "es": {
+    "title": "Anthropic recibió en junio la calificación más alta dentro del grado especulativo",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "de": {
+    "title": "Anthropic erhielt im Juni das höchste Ramsch-Rating",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "zh-Hant": {
+    "title": "Anthropic 在 6 月被給予最高等級的垃圾債信用評級",
+    "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   }
+  }
+ },
+ "https://starskirmish.com/bench/v0-2/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Gemini 4 Argon 玩《星际争霸》",
+    "summary": "StarSkirmish：让 LLM 写代码来玩《星际争霸》。"
+   },
+   "ko": {
+    "title": "Gemini 4 Argon이 스타크래프트를 플레이하다",
+    "summary": "StarSkirmish: LLM이 코드를 짜서 스타크래프트를 플레이하는 곳."
+   },
+   "ms": {
+    "title": "Gemini 4 Argon bermain StarCraft",
+    "summary": "StarSkirmish: tempat LLM menulis kod untuk bermain StarCraft."
+   },
+   "vi": {
+    "title": "Gemini 4 Argon chơi StarCraft",
+    "summary": "StarSkirmish: nơi các LLM viết mã để chơi StarCraft."
+   },
+   "fr": {
+    "title": "Gemini 4 Argon joue à StarCraft",
+    "summary": "StarSkirmish : des LLM écrivent du code pour jouer à StarCraft."
+   },
+   "es": {
+    "title": "Gemini 4 Argon juega a StarCraft",
+    "summary": "StarSkirmish: donde los LLM escriben código para jugar a StarCraft."
+   },
+   "de": {
+    "title": "Gemini 4 Argon spielt StarCraft",
+    "summary": "StarSkirmish: LLMs schreiben Code, um StarCraft zu spielen."
+   },
+   "zh-Hant": {
+    "title": "Gemini 4 Argon 玩《星際爭霸》",
+    "summary": "StarSkirmish：讓 LLM 寫程式碼來玩《星際爭霸》。"
+   }
+  }
+ },
+ "https://www.anthropic.com/research/designing-efficient-quantum-circuits": {
+  "loc": {
+   "zh-Hans": {
+    "title": "用 Claude 设计更高效的量子电路",
+    "summary": "Claude 基本靠自己完成工作，设计出的量子电路优于已发表的最佳版本，有些情况下提升达一个数量级甚至更多。"
+   },
+   "ko": {
+    "title": "Claude로 더 효율적인 양자 회로 설계하기",
+    "summary": "Claude는 거의 스스로 작업해, 발표된 최고 버전보다 나은 양자 회로를 설계했으며 일부는 한 자릿수 이상 개선되었습니다."
+   },
+   "ms": {
+    "title": "Mereka bentuk litar kuantum yang lebih cekap dengan Claude",
+    "summary": "Bekerja sebahagian besarnya secara sendiri, Claude mereka bentuk litar kuantum yang mengatasi versi terbaik yang diterbitkan, dalam sesetengah kes sebanyak satu tertib magnitud atau lebih."
+   },
+   "vi": {
+    "title": "Thiết kế mạch lượng tử hiệu quả hơn với Claude",
+    "summary": "Gần như tự làm việc, Claude đã thiết kế các mạch lượng tử tốt hơn những phiên bản tốt nhất từng công bố, có trường hợp tốt hơn một bậc độ lớn trở lên."
+   },
+   "fr": {
+    "title": "Concevoir des circuits quantiques plus efficaces avec Claude",
+    "summary": "Travaillant en grande partie seul, Claude a conçu des circuits quantiques meilleurs que les meilleures versions publiées, parfois d’un ordre de grandeur ou plus."
+   },
+   "es": {
+    "title": "Diseñar circuitos cuánticos más eficientes con Claude",
+    "summary": "Trabajando casi por su cuenta, Claude diseñó circuitos cuánticos que mejoran las mejores versiones publicadas, en algunos casos en un orden de magnitud o más."
+   },
+   "de": {
+    "title": "Effizientere Quantenschaltungen mit Claude entwerfen",
+    "summary": "Weitgehend selbstständig entwarf Claude Quantenschaltungen, die die besten veröffentlichten Versionen übertreffen, teils um eine Größenordnung oder mehr."
+   },
+   "zh-Hant": {
+    "title": "用 Claude 設計更高效的量子電路",
+    "summary": "Claude 基本靠自己完成工作，設計出的量子電路優於已發表的最佳版本，有些情況下提升達一個數量級甚至更多。"
+   }
+  }
+ },
+ "https://machinelearning.apple.com/research/mlx-distributed-inference": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Apple 机器学习研究：在 Mac Studio 上用 MLX 运行 Muse Spark Open",
+    "summary": "在 Mac Studio 上借助 MLX 与 RDMA 进行本地及分布式的大型 LLM 推理"
+   },
+   "ko": {
+    "title": "Apple ML 리서치: Mac Studio에서 MLX로 Muse Spark Open 실행",
+    "summary": "Mac Studio에서 MLX와 RDMA를 이용한 로컬 및 분산 대형 LLM 추론"
+   },
+   "ms": {
+    "title": "Apple ML Research: Muse Spark Open dengan MLX pada Mac Studio",
+    "summary": "Inferens LLM besar secara setempat dan teragih dengan MLX dan RDMA pada Mac Studio"
+   },
+   "vi": {
+    "title": "Apple ML Research: chạy Muse Spark Open với MLX trên Mac Studio",
+    "summary": "Suy luận LLM lớn cục bộ và phân tán với MLX và RDMA trên Mac Studio"
+   },
+   "fr": {
+    "title": "Apple ML Research : Muse Spark Open avec MLX sur Mac Studio",
+    "summary": "Inférence locale et distribuée de grands LLM avec MLX et RDMA sur Mac Studio"
+   },
+   "es": {
+    "title": "Apple ML Research: Muse Spark Open con MLX en Mac Studio",
+    "summary": "Inferencia local y distribuida de grandes LLM con MLX y RDMA en Mac Studio"
+   },
+   "de": {
+    "title": "Apple ML Research: Muse Spark Open mit MLX auf dem Mac Studio",
+    "summary": "Lokale und verteilte Inferenz großer LLMs mit MLX und RDMA auf dem Mac Studio"
+   },
+   "zh-Hant": {
+    "title": "Apple 機器學習研究：在 Mac Studio 上用 MLX 執行 Muse Spark Open",
+    "summary": "在 Mac Studio 上藉助 MLX 與 RDMA 進行本地及分散式的大型 LLM 推理"
+   }
+  }
+ },
+ "https://celphase.github.io/duck-pond/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "高品质鸭叫声合成器",
+    "summary": "一个实时鸭塘：一小群绿头鸭，每一声叫都是实时合成的，听起来就像你站在岸边听到的一样。"
+   },
+   "ko": {
+    "title": "고품질 오리 소리 합성기",
+    "summary": "실시간 오리 연못: 청둥오리 몇 마리가 있고, 모든 울음소리가 그 자리에서 합성되어 둑에 선 위치에서 들리는 대로 재생됩니다."
+   },
+   "ms": {
+    "title": "Pensintesis audio itik berkualiti tinggi",
+    "summary": "Kolam itik secara langsung: sekumpulan kecil itik mallard, setiap bunyi disintesis ketika berlaku dan didengar dari tempat anda berdiri di tebing."
+   },
+   "vi": {
+    "title": "Bộ tổng hợp tiếng vịt chất lượng cao",
+    "summary": "Một ao vịt trực tiếp: một đàn vịt trời nhỏ, mỗi tiếng kêu được tổng hợp ngay khi phát ra và nghe như từ chỗ bạn đứng trên bờ."
+   },
+   "fr": {
+    "title": "Un synthétiseur de cris de canard haute qualité",
+    "summary": "Une mare aux canards en direct : une petite bande de colverts, chaque cri synthétisé en temps réel et entendu depuis l’endroit où vous vous tenez sur la berge."
+   },
+   "es": {
+    "title": "Sintetizador de audio de patos de alta calidad",
+    "summary": "Un estanque de patos en vivo: una pequeña bandada de ánades reales, cada graznido sintetizado al momento y oído desde donde estás en la orilla."
+   },
+   "de": {
+    "title": "Hochwertiger Enten-Audiosynthesizer",
+    "summary": "Ein Live-Ententeich: eine kleine Schar Stockenten, jeder Ruf in Echtzeit synthetisiert und so zu hören, wie man ihn vom Ufer aus hört."
+   },
+   "zh-Hant": {
+    "title": "高品質鴨叫聲合成器",
+    "summary": "一個實時鴨塘：一小群綠頭鴨，每一聲叫都是實時合成的，聽起來就像你站在岸邊聽到的一樣。"
+   }
+  }
+ },
+ "https://github.com/valimised/ivxv": {
+  "loc": {
+   "zh-Hans": {
+    "title": "爱沙尼亚在线投票系统的源代码",
+    "summary": "IVXV 在线投票系统"
+   },
+   "ko": {
+    "title": "에스토니아 온라인 투표 시스템 소스 코드",
+    "summary": "IVXV 온라인 투표 시스템"
+   },
+   "ms": {
+    "title": "Kod sumber sistem undian dalam talian Estonia",
+    "summary": "Sistem undian dalam talian IVXV"
+   },
+   "vi": {
+    "title": "Mã nguồn hệ thống bỏ phiếu trực tuyến của Estonia",
+    "summary": "Hệ thống bỏ phiếu trực tuyến IVXV"
+   },
+   "fr": {
+    "title": "Le code source du système de vote en ligne estonien",
+    "summary": "Système de vote en ligne IVXV"
+   },
+   "es": {
+    "title": "El código fuente del sistema de voto en línea de Estonia",
+    "summary": "Sistema de voto en línea IVXV"
+   },
+   "de": {
+    "title": "Quellcode des estnischen Online-Wahlsystems",
+    "summary": "Online-Wahlsystem IVXV"
+   },
+   "zh-Hant": {
+    "title": "愛沙尼亞線上投票系統的原始碼",
+    "summary": "IVXV 線上投票系統"
+   }
+  }
+ },
+ "https://twitter.com/opencode/status/2111516673953935833": {
+  "loc": {
+   "zh-Hans": {
+    "title": "OpenCode 遭入侵：用户凭据泄露",
+    "summary": "昨晚我们遭遇了一起安全事件，与一次大规模蒸馏攻击有关，影响了 1.4% 的 OpenCode Console 用户。今天早上我们已通过邮件通知了所有受影响用户。事件仍在处理中……"
+   },
+   "ko": {
+    "title": "OpenCode 해킹: 사용자 자격 증명 유출",
+    "summary": "어젯밤 대규모 증류 공격과 관련된 보안 침해가 있었고 OpenCode Console 사용자의 1.4%가 영향을 받았습니다. 오늘 아침 모두에게 이메일로 알렸습니다. 사고는 아직 진행 중입니다…"
+   },
+   "ms": {
+    "title": "OpenCode digodam: kelayakan pengguna bocor",
+    "summary": "Kami mengalami pelanggaran keselamatan malam tadi berkaitan serangan penyulingan berskala besar yang menjejaskan 1.4% pengguna OpenCode Console. Kami telah memaklumkan mereka semua pagi ini melalui e-mel. Insiden masih berterusan…"
+   },
+   "vi": {
+    "title": "OpenCode bị tấn công: lộ thông tin đăng nhập người dùng",
+    "summary": "Đêm qua chúng tôi gặp sự cố bảo mật liên quan đến một cuộc tấn công chưng cất quy mô lớn, ảnh hưởng 1,4% người dùng OpenCode Console. Sáng nay chúng tôi đã báo cho tất cả qua email. Sự cố vẫn đang tiếp diễn…"
+   },
+   "fr": {
+    "title": "OpenCode piraté : fuite d’identifiants d’utilisateurs",
+    "summary": "Nous avons subi hier soir une faille de sécurité liée à une attaque par distillation à grande échelle, touchant 1,4 % des utilisateurs d’OpenCode Console. Nous les avons tous prévenus ce matin par e-mail. L’incident est toujours en cours…"
+   },
+   "es": {
+    "title": "OpenCode hackeado: filtradas credenciales de usuarios",
+    "summary": "Anoche sufrimos una brecha de seguridad relacionada con un ataque de destilación a gran escala que afectó al 1,4 % de los usuarios de OpenCode Console. Esta mañana los avisamos a todos por correo. El incidente sigue en curso…"
+   },
+   "de": {
+    "title": "OpenCode gehackt: Zugangsdaten von Nutzern geleakt",
+    "summary": "Letzte Nacht hatten wir einen Sicherheitsvorfall im Zusammenhang mit einem groß angelegten Distillationsangriff, betroffen sind 1,4 % der OpenCode-Console-Nutzer. Wir haben heute Morgen alle per E-Mail informiert. Der Vorfall dauert an…"
+   },
+   "zh-Hant": {
+    "title": "OpenCode 遭入侵：使用者憑據洩露",
+    "summary": "昨晚我們遭遇了一起安全事件，與一次大規模蒸餾攻擊有關，影響了 1.4% 的 OpenCode Console 使用者。今天早上我們已透過郵件通知了所有受影響使用者。事件仍在處理中……"
+   }
+  }
+ },
+ "https://github.com/Saffsanity/sill": {
+  "loc": {
+   "zh-Hans": {
+    "title": "把 Mac 上的任意窗口搬到 iPhone 和 iPad 上",
+    "summary": "Mac 上的任意窗口，实时显示在你的 iPhone 或 iPad 上。支持触控、Apple Pencil、触控板和键盘。免费、开源、无需服务器。"
+   },
+   "ko": {
+    "title": "Mac의 어떤 창이든 iPhone과 iPad에서",
+    "summary": "Mac의 어떤 창이든 iPhone이나 iPad에서 실시간으로. 터치, Apple Pencil, 트랙패드, 키보드를 지원합니다. 무료, 오픈 소스, 서버 없음."
+   },
+   "ms": {
+    "title": "Mana-mana tetingkap Mac anda, pada iPhone dan iPad",
+    "summary": "Mana-mana tetingkap daripada Mac anda, secara langsung pada iPhone atau iPad. Sentuhan, Apple Pencil, pad jejak dan papan kekunci. Percuma, sumber terbuka, tanpa pelayan."
+   },
+   "vi": {
+    "title": "Bất kỳ cửa sổ nào trên Mac, ngay trên iPhone và iPad",
+    "summary": "Bất kỳ cửa sổ nào trên Mac, hiển thị trực tiếp trên iPhone hoặc iPad. Hỗ trợ cảm ứng, Apple Pencil, trackpad và bàn phím. Miễn phí, mã nguồn mở, không cần máy chủ."
+   },
+   "fr": {
+    "title": "N’importe quelle fenêtre de votre Mac sur iPhone et iPad",
+    "summary": "N’importe quelle fenêtre de votre Mac, en direct sur votre iPhone ou iPad. Tactile, Apple Pencil, trackpad et clavier. Gratuit, open source, sans serveur."
+   },
+   "es": {
+    "title": "Cualquier ventana de tu Mac, en tu iPhone y iPad",
+    "summary": "Cualquier ventana de tu Mac, en directo en tu iPhone o iPad. Táctil, Apple Pencil, trackpad y teclado. Gratis, de código abierto y sin servidores."
+   },
+   "de": {
+    "title": "Jedes Fenster deines Macs auf iPhone und iPad",
+    "summary": "Jedes Fenster deines Macs live auf iPhone oder iPad. Touch, Apple Pencil, Trackpad und Tastatur. Kostenlos, Open Source, ohne Server."
+   },
+   "zh-Hant": {
+    "title": "把 Mac 上的任意視窗搬到 iPhone 和 iPad 上",
+    "summary": "Mac 上的任意視窗，實時顯示在你的 iPhone 或 iPad 上。支援觸控、Apple Pencil、觸控板和鍵盤。免費、開源、無需伺服器。"
+   }
+  }
+ },
+ "https://news.ycombinator.com/item?id=50121562": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Anthropic Console 因国际化输入 bug 多扣了我 100 倍的钱",
+    "summary": "我是一名法律科技律师，在哥斯达黎加带领一个开发团队。在给我的 Anthropic API 账户（claude.com）充值时，我遇到了一个严重的国际化（i18n）问题……"
+   },
+   "ko": {
+    "title": "국제화 입력 버그로 Anthropic Console이 내 카드에 100배 과금",
+    "summary": "저는 코스타리카에서 개발팀을 이끄는 리걸테크 변호사입니다. Anthropic API 계정(claude.com)에 크레딧을 충전하다가 심각한 국제화(i18n) 문제를 겪었고…"
+   },
+   "ms": {
+    "title": "Anthropic Console mengenakan caj 100x pada kad saya akibat pepijat input pengantarabangsaan",
+    "summary": "Saya peguam LegalTech yang mengetuai pasukan pembangun dari Costa Rica. Semasa cuba menambah kredit ke akaun API Anthropic saya (claude.com), saya mengalami masalah pengantarabangsaan (i18n) yang kritikal dan…"
+   },
+   "vi": {
+    "title": "Anthropic Console tính tiền thẻ của tôi gấp 100 lần vì lỗi nhập liệu quốc tế hóa",
+    "summary": "Tôi là luật sư LegalTech dẫn dắt một nhóm lập trình viên ở Costa Rica. Khi nạp tiền vào tài khoản Anthropic API (claude.com), tôi gặp một lỗi quốc tế hóa (i18n) nghiêm trọng và…"
+   },
+   "fr": {
+    "title": "La console d’Anthropic a débité ma carte 100 fois trop à cause d’un bug d’internationalisation",
+    "summary": "Je suis avocat LegalTech et je dirige une équipe de développeurs depuis le Costa Rica. En rechargeant des crédits sur mon compte API Anthropic (claude.com), j’ai rencontré un grave problème d’internationalisation (i18n) et…"
+   },
+   "es": {
+    "title": "La consola de Anthropic me cobró 100 veces más por un fallo de internacionalización",
+    "summary": "Soy abogado LegalTech y dirijo un equipo de desarrollo desde Costa Rica. Al intentar cargar créditos en mi cuenta de la API de Anthropic (claude.com), sufrí un grave problema de internacionalización (i18n) y…"
+   },
+   "de": {
+    "title": "Anthropic Console belastete meine Karte 100-fach wegen eines i18n-Eingabefehlers",
+    "summary": "Ich bin LegalTech-Anwalt und leite ein Entwicklerteam aus Costa Rica. Beim Aufladen von Guthaben auf mein Anthropic-API-Konto (claude.com) stieß ich auf ein kritisches Internationalisierungsproblem (i18n) und…"
+   },
+   "zh-Hant": {
+    "title": "Anthropic Console 因國際化輸入 bug 多扣了我 100 倍的錢",
+    "summary": "我是一名法律科技律師，在哥斯大黎加帶領一個開發團隊。在給我的 Anthropic API 賬戶（claude.com）充值時，我遇到了一個嚴重的國際化（i18n）問題……"
+   }
+  }
+ },
+ "https://github.com/justxor/deepseek-local-guide-ru": {
+  "loc": {
+   "zh-Hans": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 俄语完整指南：如何在 PC、Mac 和服务器上本地安装并运行 DeepSeek（V4、R1）——Ollama、llama.cpp、LM Studio、vLLM、Open WebUI、API、RAG、智能体、微调和实用技巧"
+   },
+   "ko": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 러시아어 완전 가이드: PC, Mac, 서버에서 DeepSeek(V4, R1)를 로컬로 설치·실행하는 법 — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, 에이전트, 파인튜닝, 유용한 팁"
+   },
+   "ms": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 Panduan lengkap dalam bahasa Rusia: cara memasang dan menjalankan DeepSeek (V4, R1) secara setempat pada PC, Mac dan pelayan — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, ejen, penalaan halus, petua terbaik"
+   },
+   "vi": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 Hướng dẫn đầy đủ bằng tiếng Nga: cài và chạy DeepSeek (V4, R1) cục bộ trên PC, Mac và máy chủ — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, tác tử, fine-tuning, mẹo hay"
+   },
+   "fr": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 Guide complet en russe : installer et faire tourner DeepSeek (V4, R1) en local sur PC, Mac et serveur — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, agents, fine-tuning, meilleures astuces"
+   },
+   "es": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 Guía completa en ruso: cómo instalar y ejecutar DeepSeek (V4, R1) en local en PC, Mac y servidor — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, agentes, fine-tuning, mejores trucos"
+   },
+   "de": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 Vollständige Anleitung auf Russisch: DeepSeek (V4, R1) lokal auf PC, Mac und Server installieren und ausführen — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, Agenten, Fine-Tuning, beste Tricks"
+   },
+   "zh-Hant": {
+    "title": "justxor/deepseek-local-guide-ru",
+    "summary": "🐋 俄語完整指南：如何在 PC、Mac 和伺服器上本地安裝並執行 DeepSeek（V4、R1）——Ollama、llama.cpp、LM Studio、vLLM、Open WebUI、API、RAG、智慧體、微調和實用技巧"
+   }
+  }
+ },
+ "https://github.com/harshpreet931/harshpreet-hand": {
+  "loc": {
+   "zh-Hans": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "我把 120 页手写的大学笔记交给 Claude Code，它用 66 分钟、13.68 美元把我的笔迹做成了一套真正的字体。"
+   },
+   "ko": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "Claude Code에 손으로 쓴 대학 노트 120쪽을 줬더니, 66분 만에 13.68달러로 내 손글씨를 진짜 폰트로 만들어 줬습니다."
+   },
+   "ms": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "Saya beri Claude Code 120 halaman nota kolej tulisan tangan saya. Ia kembalikan tulisan tangan saya sebagai fon sebenar, dalam 66 minit dengan $13.68."
+   },
+   "vi": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "Tôi đưa Claude Code 120 trang ghi chép đại học viết tay. Nó trả lại chữ viết tay của tôi dưới dạng một font thật, trong 66 phút với 13,68 USD."
+   },
+   "fr": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "J’ai donné à Claude Code 120 pages de mes notes de fac manuscrites. Il m’a rendu mon écriture sous forme de vraie police, en 66 minutes pour 13,68 $."
+   },
+   "es": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "Le di a Claude Code 120 páginas de mis apuntes universitarios a mano. Me devolvió mi letra como una fuente de verdad, en 66 minutos y por 13,68 $."
+   },
+   "de": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "Ich habe Claude Code 120 Seiten meiner handschriftlichen Uni-Notizen gegeben. Zurück kam meine Handschrift als echte Schrift – in 66 Minuten für 13,68 $."
+   },
+   "zh-Hant": {
+    "title": "harshpreet931/harshpreet-hand",
+    "summary": "我把 120 頁手寫的大學筆記交給 Claude Code，它用 66 分鐘、13.68 美元把我的筆跡做成了一套真正的字型。"
+   }
+  }
+ }
+}

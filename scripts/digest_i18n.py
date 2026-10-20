@@ -68,7 +68,10 @@ class Tr:
                 if L == 'zh-Hans' and zh: r[L] = zh; continue
                 if L == 'ja' and not JA_KANJI: r[L] = en; continue
                 if not s.ok: r[L] = en; continue
-                try: r[L] = s.x(en, 'en', a).strip()
+                try:
+                    r[L] = s.x(en, 'en', a).strip()
+                    if L != 'zh-Hans' and (r[L].startswith('@') or len(r[L]) < 0.35 * len(en)):   # Argos garbage (e.g. "@ info: status")
+                        print('  tr garbled', L, en[:50], '->', r[L][:40]); r[L] = en
                 except Exception as ex: print('  tr fail', L, ex); r[L] = en
             r['zh-Hant'] = s.s2t.convert(r['zh-Hans']) if s.ok else (zh or en)
             if s.ok: s.C[key] = r; s.n += 1

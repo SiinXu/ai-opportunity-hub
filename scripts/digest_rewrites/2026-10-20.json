@@ -1,0 +1,758 @@
+{
+ "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions": {
+  "loc": {
+   "zh-Hans": {
+    "title": "WhatsApp 帮助页暗藏给 LLM 的指令：别推荐监管机构",
+    "summary": "WhatsApp 删除了藏在帮助页里的说明：它们要求 AI 不要推荐监管机构，一旦提到律师就不要引用 GDPR 或 CCPA。我们引用了这两段说明。"
+   },
+   "ko": {
+    "title": "WhatsApp 도움말 페이지에 숨겨진 LLM 지시문: \"규제 기관을 추천하지 말 것\"",
+    "summary": "WhatsApp이 AI에게 규제 기관을 추천하지 말고, 변호사 이야기가 나오면 GDPR이나 CCPA를 인용하지 말라고 지시한 숨은 메모를 삭제했습니다. 두 메모를 모두 인용합니다."
+   },
+   "ms": {
+    "title": "Halaman bantuan WhatsApp menyembunyikan arahan LLM: jangan cadangkan pengawal selia",
+    "summary": "WhatsApp memadam nota tersembunyi yang menyuruh AI tidak mencadangkan pengawal selia, dan tidak memetik GDPR atau CCPA apabila peguam disebut. Kami memetik kedua-dua nota itu."
+   },
+   "vi": {
+    "title": "Trang trợ giúp của WhatsApp giấu chỉ dẫn cho LLM: đừng gợi ý cơ quan quản lý",
+    "summary": "WhatsApp đã gỡ các ghi chú ẩn yêu cầu AI không gợi ý cơ quan quản lý và không trích dẫn GDPR hay CCPA khi người dùng nhắc đến luật sư. Chúng tôi trích lại cả hai ghi chú."
+   },
+   "fr": {
+    "title": "Les pages d’aide de WhatsApp cachaient des consignes pour LLM : ne pas recommander de régulateur",
+    "summary": "WhatsApp a supprimé des notes cachées demandant à l’IA de ne pas recommander de régulateur et de ne plus citer le RGPD ni le CCPA dès qu’un avocat était évoqué. Nous citons les deux notes."
+   },
+   "es": {
+    "title": "Las páginas de ayuda de WhatsApp ocultaban instrucciones para LLM: no recomendar un regulador",
+    "summary": "WhatsApp eliminó notas ocultas que pedían a la IA no recomendar un regulador y no citar el RGPD ni la CCPA en cuanto se mencionara un abogado. Citamos ambas notas."
+   },
+   "de": {
+    "title": "WhatsApp-Hilfeseiten versteckten LLM-Anweisungen: keine Aufsichtsbehörde empfehlen",
+    "summary": "WhatsApp hat versteckte Hinweise entfernt, die eine KI anwiesen, keine Aufsichtsbehörde zu empfehlen und DSGVO oder CCPA nicht mehr zu zitieren, sobald ein Anwalt ins Spiel kam. Wir zitieren beide Hinweise."
+   },
+   "zh-Hant": {
+    "title": "WhatsApp 幫助頁暗藏給 LLM 的指令：別推薦監管機構",
+    "summary": "WhatsApp 刪除了藏在幫助頁裡的說明：它們要求 AI 不要推薦監管機構，一旦提到律師就不要引用 GDPR 或 CCPA。我們引用了這兩段說明。"
+   }
+  }
+ },
+ "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816": {
+  "loc": {
+   "zh-Hans": {
+    "title": "被解职的萨凡纳警官让身为 ICE 探员的丈夫使用 Flock 系统",
+    "summary": "新获得的文件显示，萨凡纳一名警官把自己的 Flock 账号凭据交给了身为 ICE 探员的丈夫，后者用它在多个州进行了数百次查询。"
+   },
+   "ko": {
+    "title": "해임된 서배너 경찰관, ICE 요원 남편에게 Flock 시스템 접근권 제공",
+    "summary": "새로 입수된 문서에 따르면 서배너의 한 경찰관이 자신의 Flock 계정 정보를 ICE 요원인 남편과 공유했고, 남편은 이를 이용해 여러 주에서 수백 건의 조회를 했습니다."
+   },
+   "ms": {
+    "title": "Pegawai polis Savannah yang dipecat beri suaminya, ejen ICE, akses ke sistem Flock",
+    "summary": "Dokumen yang baru diperoleh menyatakan seorang pegawai polis Savannah berkongsi kelayakan log masuk Flock dengan suaminya, seorang ejen ICE, yang menggunakannya untuk ratusan carian di beberapa negeri."
+   },
+   "vi": {
+    "title": "Nữ cảnh sát Savannah bị sa thải đã cho chồng là đặc vụ ICE truy cập hệ thống Flock",
+    "summary": "Tài liệu mới thu được cho thấy một cảnh sát Savannah đã chia sẻ thông tin đăng nhập Flock với chồng là đặc vụ ICE, người đã dùng nó để thực hiện hàng trăm lượt tra cứu ở nhiều bang."
+   },
+   "fr": {
+    "title": "Une policière limogée de Savannah a donné à son mari, agent de l’ICE, l’accès au système Flock",
+    "summary": "Selon des documents récemment obtenus, une policière de Savannah a partagé ses identifiants Flock avec son mari, agent de l’ICE, qui s’en est servi pour des centaines de recherches dans plusieurs États."
+   },
+   "es": {
+    "title": "Una policía destituida de Savannah dio a su marido, agente de ICE, acceso al sistema Flock",
+    "summary": "Según documentos recién obtenidos, una agente de policía de Savannah compartió sus credenciales de Flock con su marido, agente de ICE, que las usó para cientos de búsquedas en varios estados."
+   },
+   "de": {
+    "title": "Entlassene Polizistin aus Savannah gab ihrem Mann, einem ICE-Agenten, Zugang zum Flock-System",
+    "summary": "Neu erhaltene Dokumente zeigen: Eine Polizistin aus Savannah teilte ihre Flock-Zugangsdaten mit ihrem Mann, einem ICE-Agenten, der damit Hunderte Abfragen in mehreren Bundesstaaten durchführte."
+   },
+   "zh-Hant": {
+    "title": "被解職的薩凡納警官讓身為 ICE 探員的丈夫使用 Flock 系統",
+    "summary": "新獲得的檔案顯示，薩凡納一名警官把自己的 Flock 賬號憑據交給了身為 ICE 探員的丈夫，後者用它在多個州進行了數百次查詢。"
+   }
+  }
+ },
+ "https://news.ycombinator.com/item?id=50151036": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Ask HN：自己看不懂的 AI 代码要上线，该怎么办？",
+    "summary": "我看到一位 Meta 工程师的 LinkedIn 帖子，很有共鸣：https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "ko": {
+    "title": "Ask HN: 이해하지 못한 AI 작성 코드를 배포해야 할 때 어떻게 하나요?",
+    "summary": "Meta 엔지니어의 LinkedIn 글을 보고 공감했습니다: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "ms": {
+    "title": "Ask HN: Bagaimana menangani penghantaran kod tulisan AI yang anda tidak faham?",
+    "summary": "Saya terlihat hantaran LinkedIn seorang jurutera Meta ini dan ia kena dengan diri saya: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "vi": {
+    "title": "Ask HN: Xử lý thế nào khi phải phát hành mã do AI viết mà mình không hiểu?",
+    "summary": "Tôi thấy bài LinkedIn này của một kỹ sư Meta và rất đồng cảm: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "fr": {
+    "title": "Ask HN : que faire quand on livre du code écrit par l’IA qu’on ne comprend pas ?",
+    "summary": "J’ai vu ce post LinkedIn d’un ingénieur de Meta et il m’a parlé : https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "es": {
+    "title": "Ask HN: ¿Cómo lidiar con publicar código escrito por IA que no entiendes?",
+    "summary": "Vi esta publicación de LinkedIn de un ingeniero de Meta y me sentí identificado: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "de": {
+    "title": "Ask HN: Wie geht ihr damit um, KI-geschriebenen Code auszuliefern, den ihr nicht versteht?",
+    "summary": "Ich habe diesen LinkedIn-Beitrag eines Meta-Ingenieurs gesehen, und er hat mich angesprochen: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   },
+   "zh-Hant": {
+    "title": "Ask HN：自己看不懂的 AI 程式碼要上線，該怎麼辦？",
+    "summary": "我看到一位 Meta 工程師的 LinkedIn 帖子，很有共鳴：https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m..."
+   }
+  }
+ },
+ "https://www.inceptionlabs.ai/blog/introducing-mercury-3": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Mercury 3：规模化的扩散模型",
+    "summary": "Mercury 3 是迄今发布的能力最强的扩散式 LLM，表现超过 GPT-6 Luna 和 Claude Haiku 5.5，速度快 4–8 倍，每秒超过 1,000 个 token。"
+   },
+   "ko": {
+    "title": "Mercury 3: 대규모 디퓨전 모델",
+    "summary": "Mercury 3는 지금까지 공개된 디퓨전 LLM 중 가장 뛰어난 모델로, GPT-6 Luna와 Claude Haiku 5.5를 능가하면서 초당 1,000개 이상의 토큰으로 4–8배 빠르게 동작합니다."
+   },
+   "ms": {
+    "title": "Mercury 3: Difusi pada skala besar",
+    "summary": "Mercury 3 ialah LLM difusi paling berkebolehan yang pernah dikeluarkan setakat ini. Ia mengatasi GPT-6 Luna dan Claude Haiku 5.5 sambil berjalan 4–8x lebih pantas pada 1,000+ token sesaat."
+   },
+   "vi": {
+    "title": "Mercury 3: Mô hình khuếch tán ở quy mô lớn",
+    "summary": "Mercury 3 là LLM khuếch tán mạnh nhất được phát hành tới nay. Nó vượt GPT-6 Luna và Claude Haiku 5.5 trong khi chạy nhanh hơn 4–8 lần, đạt hơn 1.000 token mỗi giây."
+   },
+   "fr": {
+    "title": "Mercury 3 : la diffusion à grande échelle",
+    "summary": "Mercury 3 est le LLM à diffusion le plus performant publié à ce jour. Il dépasse GPT-6 Luna et Claude Haiku 5.5 tout en étant 4 à 8 fois plus rapide, à plus de 1 000 tokens par seconde."
+   },
+   "es": {
+    "title": "Mercury 3: difusión a escala",
+    "summary": "Mercury 3 es el LLM de difusión más capaz publicado hasta la fecha. Supera a GPT-6 Luna y a Claude Haiku 5.5 y es de 4 a 8 veces más rápido, con más de 1.000 tokens por segundo."
+   },
+   "de": {
+    "title": "Mercury 3: Diffusion im großen Maßstab",
+    "summary": "Mercury 3 ist das bislang leistungsfähigste veröffentlichte Diffusions-LLM. Es übertrifft GPT-6 Luna und Claude Haiku 5.5 und läuft dabei 4- bis 8-mal schneller mit über 1.000 Tokens pro Sekunde."
+   },
+   "zh-Hant": {
+    "title": "Mercury 3：規模化的擴散模型",
+    "summary": "Mercury 3 是迄今釋出的能力最強的擴散式 LLM，表現超過 GPT-6 Luna 和 Claude Haiku 5.5，速度快 4–8 倍，每秒超過 1,000 個 token。"
+   }
+  }
+ },
+ "https://github.com/kksimp/Mac.apk": {
+  "loc": {
+   "zh-Hans": {
+    "title": "在 macOS 上原生运行 Android 应用",
+    "summary": "Mac.apk：在 Apple Silicon Mac 上原生运行 Android 应用"
+   },
+   "ko": {
+    "title": "macOS에서 네이티브로 실행되는 Android 앱",
+    "summary": "Mac.apk: Apple Silicon Mac에서 Android 앱을 네이티브로 실행"
+   },
+   "ms": {
+    "title": "Aplikasi Android berjalan secara natif di macOS",
+    "summary": "Mac.apk: Jalankan aplikasi Android secara natif pada Mac Apple Silicon"
+   },
+   "vi": {
+    "title": "Ứng dụng Android chạy gốc trên macOS",
+    "summary": "Mac.apk: Chạy ứng dụng Android trực tiếp trên máy Mac dùng Apple Silicon"
+   },
+   "fr": {
+    "title": "Des applis Android en natif sur macOS",
+    "summary": "Mac.apk : exécuter des applis Android en natif sur les Mac Apple Silicon"
+   },
+   "es": {
+    "title": "Apps de Android ejecutándose de forma nativa en macOS",
+    "summary": "Mac.apk: ejecuta apps de Android de forma nativa en Mac con Apple Silicon"
+   },
+   "de": {
+    "title": "Android-Apps laufen nativ auf macOS",
+    "summary": "Mac.apk: Android-Apps nativ auf Apple-Silicon-Macs ausführen"
+   },
+   "zh-Hant": {
+    "title": "在 macOS 上原生執行 Android 應用",
+    "summary": "Mac.apk：在 Apple Silicon Mac 上原生執行 Android 應用"
+   }
+  }
+ },
+ "https://100toolkit.com/blog/deslop-model/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "去掉了“AI 写作腔”的 Qwen3-4B",
+    "summary": "一个在 MacBook Air 上微调的小型开源模型，不用系统提示词，写作时就不会出现破折号、“不是 X，而是 Y”或三连排比。"
+   },
+   "ko": {
+    "title": "AI 글쓰기 버릇을 걷어낸 Qwen3-4B",
+    "summary": "MacBook Air에서 파인튜닝한 작은 오픈 모델로, 시스템 프롬프트 없이도 엠 대시, \"X가 아니라 Y\" 식 문장, 셋씩 나열하는 목록 없이 글을 씁니다."
+   },
+   "ms": {
+    "title": "Qwen3-4B yang dilatih supaya bebas daripada tabiat tulisan AI",
+    "summary": "Model terbuka kecil yang ditala halus pada MacBook Air, menulis tanpa sengkang em, ayat \"bukan X, tetapi Y\" atau senarai tiga perkara, tanpa gesaan sistem."
+   },
+   "vi": {
+    "title": "Qwen3-4B đã được huấn luyện bỏ các “tật” văn phong AI",
+    "summary": "Một mô hình mở nhỏ, tinh chỉnh trên MacBook Air, viết mà không dùng gạch ngang dài, kiểu câu “không phải X mà là Y” hay liệt kê ba ý, không cần system prompt."
+   },
+   "fr": {
+    "title": "Qwen3-4B débarrassé des tics d’écriture de l’IA",
+    "summary": "Un petit modèle ouvert, affiné sur un MacBook Air, qui écrit sans tirets cadratins, sans « non pas X, mais Y » ni listes de trois, et sans prompt système."
+   },
+   "es": {
+    "title": "Qwen3-4B entrenado para quitarle las muletillas de escritura de la IA",
+    "summary": "Un modelo abierto pequeño, ajustado en un MacBook Air, que escribe sin rayas, sin «no X, sino Y» ni listas de tres, y sin prompt de sistema."
+   },
+   "de": {
+    "title": "Qwen3-4B ohne die typischen KI-Schreibtics",
+    "summary": "Ein kleines offenes Modell, auf einem MacBook Air feinabgestimmt, das ohne Gedankenstriche, „nicht X, sondern Y“ oder Dreierlisten schreibt – ganz ohne Systemprompt."
+   },
+   "zh-Hant": {
+    "title": "去掉了“AI 寫作腔”的 Qwen3-4B",
+    "summary": "一個在 MacBook Air 上微調的小型開源模型，不用系統提示詞，寫作時就不會出現破折號、“不是 X，而是 Y”或三連排比。"
+   }
+  }
+ },
+ "https://josie.lol/blog/linux-rtx-spark": {
+  "loc": {
+   "zh-Hans": {
+    "title": "因为没有微软账户，我给 RTX Spark 笔记本装了 Linux",
+    "summary": "在华硕 ProArt P16 上运行 Arch Linux ARM：附带可启动安装器、公开的 Windows 对比数据，以及本地 Qwen 推理。"
+   },
+   "ko": {
+    "title": "Microsoft 계정이 없어서 RTX Spark 노트북에 Linux를 설치했다",
+    "summary": "ASUS ProArt P16에서 Arch Linux ARM 구동: 부팅 가능한 설치 프로그램, 공개된 Windows 비교 결과, 로컬 Qwen 추론까지."
+   },
+   "ms": {
+    "title": "Memasang Linux pada komputer riba RTX Spark saya kerana saya tiada akaun Microsoft",
+    "summary": "Arch Linux ARM pada ASUS ProArt P16, dengan pemasang boleh but, perbandingan Windows yang diterbitkan dan inferens Qwen setempat."
+   },
+   "vi": {
+    "title": "Cài Linux lên laptop RTX Spark vì tôi không có tài khoản Microsoft",
+    "summary": "Arch Linux ARM trên ASUS ProArt P16, kèm bộ cài khởi động được, các so sánh với Windows đã công bố và chạy suy luận Qwen cục bộ."
+   },
+   "fr": {
+    "title": "J’ai mis Linux sur mon portable RTX Spark faute de compte Microsoft",
+    "summary": "Arch Linux ARM sur l’ASUS ProArt P16, avec un installateur amorçable, des comparatifs publiés face à Windows et de l’inférence Qwen en local."
+   },
+   "es": {
+    "title": "Instalé Linux en mi portátil RTX Spark porque no tengo cuenta de Microsoft",
+    "summary": "Arch Linux ARM en el ASUS ProArt P16, con un instalador arrancable, comparativas publicadas frente a Windows e inferencia local con Qwen."
+   },
+   "de": {
+    "title": "Linux auf meinem RTX-Spark-Laptop, weil ich kein Microsoft-Konto habe",
+    "summary": "Arch Linux ARM auf dem ASUS ProArt P16 – mit bootfähigem Installer, veröffentlichten Windows-Vergleichen und lokaler Qwen-Inferenz."
+   },
+   "zh-Hant": {
+    "title": "因為沒有微軟賬戶，我給 RTX Spark 筆記本裝了 Linux",
+    "summary": "在華碩 ProArt P16 上執行 Arch Linux ARM：附帶可啟動安裝器、公開的 Windows 對比資料，以及本地 Qwen 推理。"
+   }
+  }
+ },
+ "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "美国国土安全部新令：联邦民事机构禁用 DeepSeek",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "ko": {
+    "title": "새 DHS 명령으로 미국 연방 민간 기관에서 DeepSeek 사용 금지",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "ms": {
+    "title": "DeepSeek diharamkan di agensi awam persekutuan AS di bawah perintah baharu DHS",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "vi": {
+    "title": "DeepSeek bị cấm tại các cơ quan dân sự liên bang Mỹ theo lệnh mới của DHS",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "fr": {
+    "title": "DeepSeek interdit dans les agences civiles fédérales américaines par un nouvel ordre du DHS",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "es": {
+    "title": "DeepSeek, prohibido en las agencias civiles federales de EE. UU. por una nueva orden del DHS",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "de": {
+    "title": "DeepSeek per neuer DHS-Anordnung in zivilen US-Bundesbehörden verboten",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "zh-Hant": {
+    "title": "美國國土安全部新令：聯邦民事機構禁用 DeepSeek",
+    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   }
+  }
+ },
+ "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned": {
+  "loc": {
+   "zh-Hans": {
+    "title": "“去拒答”（abliterated）模型如何让你被攻破",
+    "summary": "我们给一个小型开源模型投毒，并通过 OpenAI 的 Codex CLI 运行它。它对每个正常请求都照常回答，但隐藏触发词一出现，就把项目凭据外传出去……"
+   },
+   "ko": {
+    "title": "거부 기능을 제거한(abliterated) 모델이 당신을 해킹당하게 만드는 방법",
+    "summary": "작은 오픈 모델에 독을 심고 OpenAI의 Codex CLI로 실행했습니다. 정상 요청에는 모두 평소처럼 답했지만, 숨은 트리거가 나타나는 순간 프로젝트 자격 증명을 빼돌렸습니다…"
+   },
+   "ms": {
+    "title": "Bagaimana model \"abliterated\" boleh menyebabkan anda digodam",
+    "summary": "Kami meracuni sebuah model terbuka kecil dan menjalankannya melalui Codex CLI OpenAI. Ia menjawab setiap permintaan biasa seperti biasa, dan mencuri kelayakan projek sebaik sahaja pencetus tersembunyi muncul…"
+   },
+   "vi": {
+    "title": "Mô hình “abliterated” có thể khiến bạn bị tấn công ra sao",
+    "summary": "Chúng tôi đầu độc một mô hình mở nhỏ và chạy nó qua Codex CLI của OpenAI. Nó trả lời mọi yêu cầu sạch như bình thường, rồi đánh cắp thông tin xác thực của dự án ngay khi một từ kích hoạt ẩn xuất hiện…"
+   },
+   "fr": {
+    "title": "Comment les modèles « abliterated » peuvent vous faire pirater",
+    "summary": "Nous avons empoisonné un petit modèle ouvert et l’avons fait tourner dans le Codex CLI d’OpenAI. Il répondait normalement à chaque requête saine, puis exfiltrait les identifiants du projet dès qu’un déclencheur caché apparaissait…"
+   },
+   "es": {
+    "title": "Cómo los modelos «abliterated» pueden dejarte comprometido",
+    "summary": "Envenenamos un modelo abierto pequeño y lo ejecutamos con Codex CLI de OpenAI. Respondía con normalidad a cada petición limpia y exfiltraba las credenciales del proyecto en cuanto aparecía un disparador oculto…"
+   },
+   "de": {
+    "title": "Wie „abliterierte“ Modelle dich kompromittieren können",
+    "summary": "Wir haben ein kleines offenes Modell vergiftet und über OpenAIs Codex CLI laufen lassen. Jede saubere Anfrage beantwortete es normal – und sobald ein versteckter Auslöser auftauchte, schleuste es Projekt-Zugangsdaten aus…"
+   },
+   "zh-Hant": {
+    "title": "“去拒答”（abliterated）模型如何讓你被攻破",
+    "summary": "我們給一個小型開源模型投毒，並透過 OpenAI 的 Codex CLI 執行它。它對每個正常請求都照常回答，但隱藏觸發詞一出現，就把專案憑據外傳出去……"
+   }
+  }
+ },
+ "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "如果你不自建 LLM 代理，怎么知道里面发生了什么？",
+    "summary": "我觉得标题已经说全了，但这里不是 Twitter，所以我展开讲讲。你在做一个想法、一段代码，或是一个年入数十亿的 SaaS 应用，它很可能正在帮你节省……"
+   },
+   "ko": {
+    "title": "LLM 프록시를 직접 운영하지 않으면 무슨 일이 일어나는지 어떻게 알까?",
+    "summary": "제목이 모든 걸 말해 주지만 여긴 Twitter가 아니니 좀 더 파고들겠습니다. 아이디어든, 코드 한 조각이든, 연 수십억 규모의 SaaS 앱이든 작업 중이라면 아마 그것이 무언가를 아껴 주고 있을 텐데…"
+   },
+   "ms": {
+    "title": "Jika anda tidak menjalankan proksi LLM sendiri, bagaimana anda tahu apa yang berlaku?",
+    "summary": "Saya rasa tajuknya sudah cukup jelas, tetapi saya akan huraikan kerana ini bukan Twitter. Anda sedang mengusahakan idea, sekeping kod, atau aplikasi SaaS bernilai berbilion setahun yang mungkin menjimatkan…"
+   },
+   "vi": {
+    "title": "Nếu không tự chạy proxy LLM, làm sao bạn biết chuyện gì đang diễn ra?",
+    "summary": "Tôi nghĩ tiêu đề đã nói đủ ý, nhưng đây không phải Twitter nên tôi sẽ đào sâu hơn. Bạn đang làm một ý tưởng, một đoạn mã, hay một ứng dụng SaaS doanh thu hàng tỷ mỗi năm, thứ có lẽ đang giúp tiết kiệm…"
+   },
+   "fr": {
+    "title": "Si vous n’avez pas votre propre proxy LLM, comment savoir ce qui se passe ?",
+    "summary": "Le titre dit tout, mais je développe puisqu’on n’est pas sur Twitter. Vous travaillez sur une idée, un bout de code ou une appli SaaS à plusieurs milliards par an, qui vous fait probablement économiser…"
+   },
+   "es": {
+    "title": "Si no tienes tu propio proxy de LLM, ¿cómo sabes qué está pasando?",
+    "summary": "Creo que el título lo dice todo, pero lo desarrollo porque esto no es Twitter. Trabajas en una idea, un trozo de código o una app SaaS de miles de millones al año que probablemente te está ahorrando…"
+   },
+   "de": {
+    "title": "Wer keinen eigenen LLM-Proxy betreibt – woher weiß man, was passiert?",
+    "summary": "Der Titel sagt eigentlich alles, aber ich führe es aus, weil das hier nicht Twitter ist. Ob Idee, Codestück oder SaaS-App mit Milliardenumsatz pro Jahr, die dir vermutlich gerade … spart …"
+   },
+   "zh-Hant": {
+    "title": "如果你不自建 LLM 代理，怎麼知道里面發生了什麼？",
+    "summary": "我覺得標題已經說全了，但這裡不是 Twitter，所以我展開講講。你在做一個想法、一段程式碼，或是一個年入數十億的 SaaS 應用，它很可能正在幫你節省……"
+   }
+  }
+ },
+ "https://www.githubstatus.com/incidents/8tzbpcnl75jp": {
+  "loc": {
+   "zh-Hans": {
+    "title": "GitHub Actions、GitHub Pages 和 Webhooks 可用性下降",
+    "summary": "GitHub 状态页：GitHub Actions、GitHub Pages 和 Webhooks 可用性下降。"
+   },
+   "ko": {
+    "title": "GitHub Actions, GitHub Pages, Webhooks 가용성 저하",
+    "summary": "GitHub 상태 페이지: GitHub Actions, GitHub Pages, Webhooks의 가용성이 저하되었습니다."
+   },
+   "ms": {
+    "title": "Ketersediaan GitHub Actions, GitHub Pages dan Webhooks merosot",
+    "summary": "Halaman Status GitHub: ketersediaan GitHub Actions, GitHub Pages dan Webhooks merosot."
+   },
+   "vi": {
+    "title": "GitHub Actions, GitHub Pages và Webhooks bị suy giảm khả năng hoạt động",
+    "summary": "Trang trạng thái của GitHub: GitHub Actions, GitHub Pages và Webhooks đang bị suy giảm khả năng hoạt động."
+   },
+   "fr": {
+    "title": "Disponibilité dégradée pour GitHub Actions, GitHub Pages et les webhooks",
+    "summary": "Page d’état de GitHub : disponibilité dégradée pour GitHub Actions, GitHub Pages et les webhooks."
+   },
+   "es": {
+    "title": "Disponibilidad degradada en GitHub Actions, GitHub Pages y webhooks",
+    "summary": "Página de estado de GitHub: disponibilidad degradada en GitHub Actions, GitHub Pages y webhooks."
+   },
+   "de": {
+    "title": "Eingeschränkte Verfügbarkeit bei GitHub Actions, GitHub Pages und Webhooks",
+    "summary": "GitHub-Statusseite: eingeschränkte Verfügbarkeit bei GitHub Actions, GitHub Pages und Webhooks."
+   },
+   "zh-Hant": {
+    "title": "GitHub Actions、GitHub Pages 和 Webhooks 可用性下降",
+    "summary": "GitHub 狀態頁：GitHub Actions、GitHub Pages 和 Webhooks 可用性下降。"
+   }
+  }
+ },
+ "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017": {
+  "loc": {
+   "zh-Hans": {
+    "title": "DeepSeek V4.1 Flash 1017（Max）",
+    "summary": "对 DeepSeek 的 DeepSeek V4.1 Flash 1017（Max）的分析，以及它与其他 AI 模型在质量、价格、性能（每秒 token 数与首 token 时间）、上下文等关键指标上的对比……"
+   },
+   "ko": {
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "summary": "DeepSeek의 DeepSeek V4.1 Flash 1017 (Max) 분석과 품질, 가격, 성능(초당 토큰 수, 첫 토큰까지 걸리는 시간), 컨텍스트 등 주요 지표에서 다른 AI 모델과의 비교…"
+   },
+   "ms": {
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "summary": "Analisis DeepSeek V4.1 Flash 1017 (Max) daripada DeepSeek dan perbandingan dengan model AI lain merentas metrik utama termasuk kualiti, harga, prestasi (token sesaat dan masa ke token pertama), konteks…"
+   },
+   "vi": {
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "summary": "Phân tích DeepSeek V4.1 Flash 1017 (Max) của DeepSeek và so sánh với các mô hình AI khác theo các chỉ số chính như chất lượng, giá, hiệu năng (token mỗi giây và thời gian tới token đầu tiên), ngữ cảnh…"
+   },
+   "fr": {
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "summary": "Analyse de DeepSeek V4.1 Flash 1017 (Max) de DeepSeek et comparaison avec d’autres modèles d’IA sur les indicateurs clés : qualité, prix, performances (tokens par seconde et délai avant le premier token), contexte…"
+   },
+   "es": {
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "summary": "Análisis de DeepSeek V4.1 Flash 1017 (Max) de DeepSeek y comparación con otros modelos de IA en métricas clave como calidad, precio, rendimiento (tokens por segundo y tiempo hasta el primer token), contexto…"
+   },
+   "de": {
+    "title": "DeepSeek V4.1 Flash 1017 (Max)",
+    "summary": "Analyse von DeepSeeks DeepSeek V4.1 Flash 1017 (Max) und Vergleich mit anderen KI-Modellen bei zentralen Kennzahlen wie Qualität, Preis, Leistung (Tokens pro Sekunde und Zeit bis zum ersten Token), Kontext…"
+   },
+   "zh-Hant": {
+    "title": "DeepSeek V4.1 Flash 1017（Max）",
+    "summary": "對 DeepSeek 的 DeepSeek V4.1 Flash 1017（Max）的分析，以及它與其他 AI 模型在質量、價格、效能（每秒 token 數與首 token 時間）、上下文等關鍵指標上的對比……"
+   }
+  }
+ },
+ "https://crystl.dev/guides/tmux-for-ai-agents/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Tmux 与 Claude Code：会话、send-keys 与上限",
+    "summary": "一套可用的 tmux 配置，用来运行 Claude Code 和其他 AI 智能体：按项目命名会话、窗格布局、用 send-keys 给智能体写脚本、用 capture-pane 读回输出，以及状态栏……"
+   },
+   "ko": {
+    "title": "Tmux와 Claude Code: 세션, send-keys, 그리고 한계",
+    "summary": "Claude Code와 다른 AI 에이전트를 돌리기 위한 실용적인 tmux 설정: 프로젝트별 세션 이름, 창 레이아웃, 에이전트를 스크립트로 다루는 send-keys, 출력을 읽어 오는 capture-pane, 상태 표시줄…"
+   },
+   "ms": {
+    "title": "Tmux dan Claude Code: Sesi, send-keys dan hadnya",
+    "summary": "Persediaan tmux yang berfungsi untuk menjalankan Claude Code dan ejen AI lain: penamaan sesi ikut projek, susun atur panel, send-keys untuk menskrip ejen, capture-pane untuk membaca semula output, dan baris status…"
+   },
+   "vi": {
+    "title": "Tmux và Claude Code: Phiên, send-keys và giới hạn",
+    "summary": "Một thiết lập tmux dùng được để chạy Claude Code và các tác tử AI khác: đặt tên phiên theo dự án, bố cục pane, send-keys để viết script điều khiển tác tử, capture-pane để đọc lại kết quả, và thanh trạng thái…"
+   },
+   "fr": {
+    "title": "Tmux et Claude Code : sessions, send-keys et plafond",
+    "summary": "Une configuration tmux opérationnelle pour faire tourner Claude Code et d’autres agents IA : une session par projet, la disposition des panneaux, send-keys pour piloter un agent par script, capture-pane pour relire sa sortie, et la barre d’état…"
+   },
+   "es": {
+    "title": "Tmux y Claude Code: sesiones, send-keys y el techo",
+    "summary": "Una configuración de tmux que funciona para ejecutar Claude Code y otros agentes de IA: una sesión por proyecto, distribución de paneles, send-keys para controlar un agente por script, capture-pane para leer su salida y la línea de estado…"
+   },
+   "de": {
+    "title": "Tmux und Claude Code: Sessions, send-keys und die Grenze",
+    "summary": "Ein funktionierendes tmux-Setup für Claude Code und andere KI-Agenten: Session pro Projekt, Pane-Layouts, send-keys zum Skripten eines Agenten, capture-pane zum Zurücklesen und die Statuszeile…"
+   },
+   "zh-Hant": {
+    "title": "Tmux 與 Claude Code：會話、send-keys 與上限",
+    "summary": "一套可用的 tmux 配置，用來執行 Claude Code 和其他 AI 智慧體：按專案命名會話、窗格佈局、用 send-keys 給智慧體寫指令碼、用 capture-pane 讀回輸出，以及狀態列……"
+   }
+  }
+ },
+ "https://github.com/IsuruMaduranga/harness-engineering-101": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Harness 工程入门：LLM 是大脑，harness 是身体",
+    "summary": "Harness Engineering 101：从第一性原理构建 AI 智能体。LLM 是大脑，harness 是身体。"
+   },
+   "ko": {
+    "title": "하네스 엔지니어링 101: LLM은 두뇌, 하네스는 몸",
+    "summary": "Harness Engineering 101 — 첫 원리부터 AI 에이전트 만들기. LLM은 두뇌이고 하네스는 몸입니다."
+   },
+   "ms": {
+    "title": "Harness Engineering 101: LLM ialah otak, harness ialah badan",
+    "summary": "Harness Engineering 101 — membina ejen AI daripada prinsip asas. LLM ialah otak; harness ialah badan."
+   },
+   "vi": {
+    "title": "Harness Engineering 101: LLM là bộ não, harness là cơ thể",
+    "summary": "Harness Engineering 101 — xây dựng tác tử AI từ những nguyên lý cơ bản. LLM là bộ não; harness là cơ thể."
+   },
+   "fr": {
+    "title": "Harness Engineering 101 : le LLM est le cerveau, le harness est le corps",
+    "summary": "Harness Engineering 101 — construire des agents IA à partir des principes de base. Le LLM est le cerveau ; le harness est le corps."
+   },
+   "es": {
+    "title": "Harness Engineering 101: el LLM es el cerebro, el harness es el cuerpo",
+    "summary": "Harness Engineering 101: construir agentes de IA desde los principios básicos. El LLM es el cerebro; el harness es el cuerpo."
+   },
+   "de": {
+    "title": "Harness Engineering 101: Das LLM ist das Gehirn, der Harness der Körper",
+    "summary": "Harness Engineering 101 – KI-Agenten von Grund auf bauen. Das LLM ist das Gehirn, der Harness der Körper."
+   },
+   "zh-Hant": {
+    "title": "Harness 工程入門：LLM 是大腦，harness 是身體",
+    "summary": "Harness Engineering 101：從第一性原理構建 AI 智慧體。LLM 是大腦，harness 是身體。"
+   }
+  }
+ },
+ "https://www.anthropic.com/research/employment-at-anthropic": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Anthropic 内部的就业正在如何变化",
+    "summary": "AI 如何重塑了 Anthropic 的工作与雇佣？作为 AI 应用最前沿的公司，Anthropic 可能是一个领先指标，预示 AI 将如何改变工作组织、招聘和劳动……"
+   },
+   "ko": {
+    "title": "Anthropic에서 고용은 어떻게 바뀌고 있나",
+    "summary": "AI는 Anthropic의 업무와 고용을 어떻게 재편했을까요? AI 도입의 최전선에 있는 회사로서 Anthropic은 AI가 업무 조직, 채용, 노동을 어떻게 바꿀지 보여 주는 선행 지표가 될 수 있습니다…"
+   },
+   "ms": {
+    "title": "Bagaimana pekerjaan berubah di Anthropic",
+    "summary": "Bagaimana AI menstruktur semula kerja dan pekerjaan di Anthropic? Sebagai syarikat di barisan hadapan penggunaan AI, Anthropic boleh menjadi petunjuk awal bagaimana AI akan mengubah organisasi kerja, pengambilan dan tenaga kerja…"
+   },
+   "vi": {
+    "title": "Việc làm đang thay đổi ra sao ở Anthropic",
+    "summary": "AI đã tái cấu trúc công việc và tuyển dụng ở Anthropic như thế nào? Là công ty đi đầu trong việc ứng dụng AI, Anthropic có thể là chỉ báo sớm cho cách AI thay đổi tổ chức công việc, tuyển dụng và lao động…"
+   },
+   "fr": {
+    "title": "Comment l’emploi évolue chez Anthropic",
+    "summary": "Comment l’IA a-t-elle restructuré le travail et l’emploi chez Anthropic ? En pointe dans l’adoption de l’IA, Anthropic pourrait être un indicateur avancé de la façon dont l’IA va transformer l’organisation du travail, le recrutement et l’emploi…"
+   },
+   "es": {
+    "title": "Cómo está cambiando el empleo en Anthropic",
+    "summary": "¿Cómo ha reestructurado la IA el trabajo y el empleo en Anthropic? Como empresa en la vanguardia de la adopción de la IA, Anthropic podría ser un indicador adelantado de cómo la IA cambiará la organización del trabajo, la contratación y el empleo…"
+   },
+   "de": {
+    "title": "Wie sich Beschäftigung bei Anthropic verändert",
+    "summary": "Wie hat KI Arbeit und Beschäftigung bei Anthropic umgebaut? Als Unternehmen an der Spitze der KI-Einführung könnte Anthropic ein Frühindikator dafür sein, wie KI Arbeitsorganisation, Einstellungen und Arbeit verändert…"
+   },
+   "zh-Hant": {
+    "title": "Anthropic 內部的就業正在如何變化",
+    "summary": "AI 如何重塑了 Anthropic 的工作與僱傭？作為 AI 應用最前沿的公司，Anthropic 可能是一個領先指標，預示 AI 將如何改變工作組織、招聘和勞動……"
+   }
+  }
+ },
+ "https://github.com/finereli/whatsapp-mcp": {
+  "loc": {
+   "zh-Hans": {
+    "title": "在 Cloudflare 上免费运行的 WhatsApp MCP",
+    "summary": "一个只读 MCP 服务器，让你的 AI 智能体搜索和阅读你自己的 WhatsApp 消息。运行在 Cloudflare Workers 上。"
+   },
+   "ko": {
+    "title": "Cloudflare에서 무료로 돌아가는 WhatsApp MCP",
+    "summary": "AI 에이전트가 내 WhatsApp 메시지를 검색하고 읽을 수 있게 해 주는 읽기 전용 MCP 서버입니다. Cloudflare Workers에서 실행됩니다."
+   },
+   "ms": {
+    "title": "WhatsApp MCP yang berjalan percuma di Cloudflare",
+    "summary": "Pelayan MCP baca sahaja yang membolehkan ejen AI anda mencari dan membaca mesej WhatsApp anda sendiri. Berjalan di Cloudflare Workers."
+   },
+   "vi": {
+    "title": "WhatsApp MCP chạy miễn phí trên Cloudflare",
+    "summary": "Một máy chủ MCP chỉ đọc cho phép tác tử AI của bạn tìm và đọc tin nhắn WhatsApp của chính bạn. Chạy trên Cloudflare Workers."
+   },
+   "fr": {
+    "title": "Un MCP WhatsApp qui tourne gratuitement sur Cloudflare",
+    "summary": "Un serveur MCP en lecture seule qui permet à votre agent IA de chercher et lire vos propres messages WhatsApp. Il tourne sur Cloudflare Workers."
+   },
+   "es": {
+    "title": "Un MCP de WhatsApp que funciona gratis en Cloudflare",
+    "summary": "Un servidor MCP de solo lectura que permite a tu agente de IA buscar y leer tus propios mensajes de WhatsApp. Funciona en Cloudflare Workers."
+   },
+   "de": {
+    "title": "WhatsApp-MCP läuft kostenlos auf Cloudflare",
+    "summary": "Ein schreibgeschützter MCP-Server, mit dem dein KI-Agent deine eigenen WhatsApp-Nachrichten durchsuchen und lesen kann. Läuft auf Cloudflare Workers."
+   },
+   "zh-Hant": {
+    "title": "在 Cloudflare 上免費執行的 WhatsApp MCP",
+    "summary": "一個只讀 MCP 伺服器，讓你的 AI 智慧體搜尋和閱讀你自己的 WhatsApp 訊息。執行在 Cloudflare Workers 上。"
+   }
+  }
+ },
+ "https://bsd.network/@brynet/117407035545900963": {
+  "loc": {
+   "zh-Hans": {
+    "title": "OpenBSD 8.0 将带来来自 Linux 6.18 的 inteldrm/radeondrm/amdgpu 驱动",
+    "summary": "我觉得是时候来点 #OpenBSD #80HYPE 了 :flan_hacker: :flan_cool: > Clang/LLVM 22 现已成为 OpenBSD 在 clang 架构上的基础编译器，包括更新的 libc++{,abi}、compiler-rt 与……"
+   },
+   "ko": {
+    "title": "OpenBSD 8.0, Linux 6.18의 inteldrm/radeondrm/amdgpu 드라이버 탑재 예정",
+    "summary": "이제 #OpenBSD #80HYPE를 할 때가 된 것 같네요 :flan_hacker: :flan_cool: > Clang/LLVM 22가 이제 clang 아키텍처에서 OpenBSD의 기본 컴파일러이며, 업데이트된 libc++{,abi}, compiler-rt 및…"
+   },
+   "ms": {
+    "title": "Keluaran OpenBSD 8.0 akan membawa pemacu inteldrm/radeondrm/amdgpu daripada Linux 6.18",
+    "summary": "Rasanya sudah tiba masa untuk sedikit #OpenBSD #80HYPE :flan_hacker: :flan_cool: > Clang/LLVM 22 kini pengkompil asas OpenBSD pada seni bina clang, termasuk libc++{,abi} yang dikemas kini, compiler-rt dan…"
+   },
+   "vi": {
+    "title": "OpenBSD 8.0 sẽ có driver inteldrm/radeondrm/amdgpu từ Linux 6.18",
+    "summary": "Tôi nghĩ đã đến lúc #OpenBSD #80HYPE rồi :flan_hacker: :flan_cool: > Clang/LLVM 22 giờ là trình biên dịch nền của OpenBSD trên các kiến trúc clang, kèm libc++{,abi} cập nhật, compiler-rt và…"
+   },
+   "fr": {
+    "title": "OpenBSD 8.0 embarquera les pilotes inteldrm/radeondrm/amdgpu de Linux 6.18",
+    "summary": "Je crois qu’il est temps d’un peu de #OpenBSD #80HYPE :flan_hacker: :flan_cool: > Clang/LLVM 22 est désormais le compilateur de base d’OpenBSD sur les architectures clang, avec libc++{,abi} mis à jour, compiler-rt et…"
+   },
+   "es": {
+    "title": "OpenBSD 8.0 traerá los controladores inteldrm/radeondrm/amdgpu de Linux 6.18",
+    "summary": "Creo que ya toca un poco de #OpenBSD #80HYPE :flan_hacker: :flan_cool: > Clang/LLVM 22 es ahora el compilador base de OpenBSD en las arquitecturas clang, con libc++{,abi} actualizado, compiler-rt y…"
+   },
+   "de": {
+    "title": "OpenBSD 8.0 bekommt inteldrm/radeondrm/amdgpu-Treiber aus Linux 6.18",
+    "summary": "Zeit für ein bisschen #OpenBSD #80HYPE :flan_hacker: :flan_cool: > Clang/LLVM 22 ist jetzt OpenBSDs Basis-Compiler auf clang-Architekturen, inklusive aktualisiertem libc++{,abi}, compiler-rt und…"
+   },
+   "zh-Hant": {
+    "title": "OpenBSD 8.0 將帶來來自 Linux 6.18 的 inteldrm/radeondrm/amdgpu 驅動",
+    "summary": "我覺得是時候來點 #OpenBSD #80HYPE 了 :flan_hacker: :flan_cool: > Clang/LLVM 22 現已成為 OpenBSD 在 clang 架構上的基礎編譯器，包括更新的 libc++{,abi}、compiler-rt 與……"
+   }
+  }
+ },
+ "https://github.com/kividbio/kividb": {
+  "loc": {
+   "zh-Hans": {
+    "title": "KiviDB：更快的 Redis 兼容内存数据库与向量缓存",
+    "summary": "用 Rust 编写的快速多线程 Redis® 与 Valkey 替代品：可直接替换，内置全文检索和向量搜索。"
+   },
+   "ko": {
+    "title": "KiviDB: 더 빠른 Redis 호환 인메모리 데이터베이스이자 벡터 캐시",
+    "summary": "Rust로 작성된 빠른 멀티스레드 Redis® 및 Valkey 대안: 그대로 교체해 쓸 수 있고 전문 검색과 벡터 검색이 내장되어 있습니다."
+   },
+   "ms": {
+    "title": "KiviDB, pangkalan data memori serasi Redis yang lebih pantas dan cache vektor",
+    "summary": "Alternatif Redis® dan Valkey berbilang benang yang pantas, ditulis dalam Rust: serasi terus, dengan carian teks penuh dan carian vektor terbina dalam."
+   },
+   "vi": {
+    "title": "KiviDB, cơ sở dữ liệu bộ nhớ tương thích Redis nhanh hơn kiêm bộ đệm vector",
+    "summary": "Một lựa chọn thay thế Redis® và Valkey nhanh, đa luồng, viết bằng Rust: thay thế trực tiếp được, tích hợp sẵn tìm kiếm toàn văn và tìm kiếm vector."
+   },
+   "fr": {
+    "title": "KiviDB, une base en mémoire compatible Redis plus rapide et un cache vectoriel",
+    "summary": "Une alternative rapide et multithread à Redis® et Valkey, écrite en Rust : compatible tel quel, avec recherche plein texte et vectorielle intégrées."
+   },
+   "es": {
+    "title": "KiviDB, una base de datos en memoria compatible con Redis más rápida y caché vectorial",
+    "summary": "Una alternativa rápida y multihilo a Redis® y Valkey escrita en Rust: compatible sin cambios, con búsqueda de texto completo y vectorial integradas."
+   },
+   "de": {
+    "title": "KiviDB, eine schnellere Redis-kompatible In-Memory-Datenbank mit Vektor-Cache",
+    "summary": "Eine schnelle, multithreaded Alternative zu Redis® und Valkey in Rust: direkt kompatibel, mit eingebauter Volltext- und Vektorsuche."
+   },
+   "zh-Hant": {
+    "title": "KiviDB：更快的 Redis 相容記憶體資料庫與向量快取",
+    "summary": "用 Rust 編寫的快速多執行緒 Redis® 與 Valkey 替代品：可直接替換，內建全文檢索和向量搜尋。"
+   }
+  }
+ },
+ "https://github.com/xiaoyang111222/cn-math-taxonomy": {
+  "loc": {
+   "zh-Hans": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "中小学与高中数学知识图谱 + 前测诊断：对齐课程标准，覆盖 1–9 年级义务教育和高中必修，674 个知识点、2843 道题，自适应诊断。"
+   },
+   "ko": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "초·중·고 수학 지식 맵 + 사전 진단: 교육과정 기준에 맞춰 1–9학년 의무교육과 고교 필수 과정을 다루며, 지식 포인트 674개, 문항 2843개, 적응형 진단을 제공합니다."
+   },
+   "ms": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "Peta matematik sekolah rendah, menengah dan tinggi + pra-diagnostik: sejajar dengan standard kurikulum, gred wajib 1–9 dan sekolah tinggi, 674 titik pengetahuan, 2843 soalan, diagnosis adaptif."
+   },
+   "vi": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "Bản đồ kiến thức toán tiểu học, trung học và phổ thông + chẩn đoán đầu vào: khớp chuẩn chương trình, lớp 1–9 bắt buộc và THPT, 674 điểm kiến thức, 2843 câu hỏi, chẩn đoán thích ứng."
+   },
+   "fr": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "Cartographie des mathématiques du primaire au lycée + diagnostic préalable : aligné sur les programmes, années obligatoires 1–9 et lycée, 674 notions, 2843 questions, diagnostic adaptatif."
+   },
+   "es": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "Mapa de matemáticas de primaria, secundaria y bachillerato + diagnóstico previo: alineado con el currículo, cursos obligatorios 1–9 y bachillerato, 674 puntos de conocimiento, 2843 preguntas, diagnóstico adaptativo."
+   },
+   "de": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "Mathe-Wissenskarte für Grund-, Mittel- und Oberstufe + Vorab-Diagnose: am Lehrplan ausgerichtet, Pflichtklassen 1–9 und Oberstufe, 674 Wissenspunkte, 2843 Aufgaben, adaptive Diagnose."
+   },
+   "zh-Hant": {
+    "title": "xiaoyang111222/cn-math-taxonomy",
+    "summary": "中小學與高中數學知識圖譜 + 前測診斷：對齊課程標準，覆蓋 1–9 年級義務教育和高中必修，674 個知識點、2843 道題，自適應診斷。"
+   }
+  }
+ },
+ "https://github.com/alchaincyf/huashu-motion": {
+  "loc": {
+   "zh-Hans": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "由你的编程智能体制作商业级发布宣传片——指着画面就能修改。"
+   },
+   "ko": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "코딩 에이전트가 만드는 상업용 수준의 런칭 영상 — 프레임을 가리키면 바로 수정됩니다."
+   },
+   "ms": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "Filem pelancaran gred komersial oleh ejen pengekodan anda — tunjuk pada bingkai untuk mengubahnya."
+   },
+   "vi": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "Video ra mắt chuẩn thương mại do tác tử lập trình của bạn làm — chỉ vào khung hình để sửa."
+   },
+   "fr": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "Des films de lancement de qualité professionnelle réalisés par votre agent de code — pointez l’image pour la modifier."
+   },
+   "es": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "Vídeos de lanzamiento de calidad comercial hechos por tu agente de programación: señala el fotograma para cambiarlo."
+   },
+   "de": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "Launch-Filme in kommerzieller Qualität von deinem Coding-Agenten – zeig auf das Bild, um es zu ändern."
+   },
+   "zh-Hant": {
+    "title": "alchaincyf/huashu-motion",
+    "summary": "由你的程式設計智慧體製作商業級釋出宣傳片——指著畫面就能修改。"
+   }
+  }
+ },
+ "https://github.com/simbasjungles/free-my-tv": {
+  "loc": {
+   "zh-Hans": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "为 Google TV 打造的快速、无广告主屏幕。开源，用 Claude Code 构建，一键即可还原。"
+   },
+   "ko": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "Google TV를 위한 빠르고 광고 없는 홈 화면. 오픈 소스이며 Claude Code로 만들었고, 버튼 하나로 되돌릴 수 있습니다."
+   },
+   "ms": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "Skrin utama yang pantas dan bebas iklan untuk Google TV. Sumber terbuka, dibina dengan Claude Code. Satu butang untuk membatalkan."
+   },
+   "vi": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "Màn hình chính nhanh, không quảng cáo cho Google TV. Mã nguồn mở, làm bằng Claude Code. Một nút để hoàn tác."
+   },
+   "fr": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "Un écran d’accueil rapide et sans pub pour Google TV. Open source, construit avec Claude Code. Un bouton pour tout annuler."
+   },
+   "es": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "Una pantalla de inicio rápida y sin anuncios para Google TV. Código abierto, hecha con Claude Code. Un botón para deshacer."
+   },
+   "de": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "Ein schneller, werbefreier Startbildschirm für Google TV. Open Source, mit Claude Code gebaut. Ein Knopf zum Rückgängigmachen."
+   },
+   "zh-Hant": {
+    "title": "simbasjungles/free-my-tv",
+    "summary": "為 Google TV 打造的快速、無廣告主螢幕。開源，用 Claude Code 構建，一鍵即可還原。"
+   }
+  }
+ }
+}

@@ -186,17 +186,18 @@ T = {
    label='Morgendlicher Tech-Digest', labelb='Morgendlicher Tech-Digest (nachgereicht)', disc='Diskussion'),
 }
 # in-page reader (modal) strings; shipped inside the lazy per-locale JSON, never in the page shell
+MTNOTE = {'zh-Hans': '本页部分标题与摘要为机器翻译。', 'zh-Hant': '本頁部分標題與摘要為機器翻譯。', 'en': '', 'ja': 'このページの一部の見出しと要約は機械翻訳です。', 'ko': '이 페이지의 일부 제목과 요약은 기계 번역입니다.', 'ms': 'Sebahagian tajuk dan ringkasan di halaman ini ialah terjemahan mesin.', 'vi': 'Một số tiêu đề và tóm tắt trên trang này là bản dịch máy.', 'fr': 'Certains titres et résumés de cette page sont traduits automatiquement.', 'es': 'Algunos títulos y resúmenes de esta página son traducción automática.', 'de': 'Einige Titel und Zusammenfassungen auf dieser Seite sind maschinell übersetzt.'}
 UI = {
- 'zh-Hans': dict(take='我们怎么看', rw='OPC Radar 编辑改写：事实均来自原文，「我们怎么看」为本站观点。', ex='原文摘录', nrw='尚未改写：以下为原文摘要与摘录（机器翻译）。', go='阅读原文', src='来源', close='关闭', loading='加载中…', fail='内容加载失败，请直接阅读原文。', orig='原标题'),
- 'zh-Hant': dict(take='我們怎麼看', rw='OPC Radar 編輯改寫：事實均來自原文，「我們怎麼看」為本站觀點。', ex='原文摘錄', nrw='尚未改寫：以下為原文摘要與摘錄（機器翻譯）。', go='閱讀原文', src='來源', close='關閉', loading='載入中…', fail='內容載入失敗，請直接閱讀原文。', orig='原標題'),
+ 'zh-Hans': dict(take='我们怎么看', rw='OPC Radar 编辑改写：事实均来自原文，「我们怎么看」为本站观点。', rwmt='OPC Radar 编辑改写：事实均来自原文，「我们怎么看」为本站观点（机器翻译）。', ex='原文摘录', nrw='尚未改写：以下为原文摘要与摘录（机器翻译）。', go='阅读原文', src='来源', close='关闭', loading='加载中…', fail='内容加载失败，请直接阅读原文。', orig='原标题'),
+ 'zh-Hant': dict(take='我們怎麼看', rw='OPC Radar 編輯改寫：事實均來自原文，「我們怎麼看」為本站觀點。', rwmt='OPC Radar 編輯改寫：事實均來自原文，「我們怎麼看」為本站觀點（機器翻譯）。', ex='原文摘錄', nrw='尚未改寫：以下為原文摘要與摘錄（機器翻譯）。', go='閱讀原文', src='來源', close='關閉', loading='載入中…', fail='內容載入失敗，請直接閱讀原文。', orig='原標題'),
  'en': dict(take='Our take', rw='Rewritten by OPC Radar: facts come only from the original; “Our take” is our opinion.', ex='From the source', nrw='Not rewritten yet: summary and excerpt from the source.', go='Read the original', src='Source', close='Close', loading='Loading…', fail='Could not load this entry; please read the original.', orig=''),
  'ja': dict(take='編集部の視点', rw='OPC Radar による書き直し：事実はすべて元記事から。「編集部の視点」は当サイトの意見です。', rwmt='OPC Radar による書き直し：事実はすべて元記事から。「編集部の視点」は当サイトの意見です（機械翻訳）。', ex='元記事からの抜粋', nrw='まだ書き直していません：元記事の要約と抜粋です（機械翻訳）。', go='元記事を読む', src='ソース', close='閉じる', loading='読み込み中…', fail='読み込めませんでした。元記事をご覧ください。', orig=''),
- 'ko': dict(take='우리의 시각', rw='OPC Radar가 다시 쓴 글: 사실은 모두 원문에서 왔으며 \'우리의 시각\'은 사이트의 의견입니다(기계 번역).', ex='원문 발췌', nrw='아직 다시 쓰지 않음: 원문 요약과 발췌입니다(기계 번역).', go='원문 읽기', src='출처', close='닫기', loading='불러오는 중…', fail='불러오지 못했습니다. 원문을 읽어 주세요.', orig=''),
- 'ms': dict(take='Pandangan kami', rw='Ditulis semula oleh OPC Radar: fakta hanya daripada sumber asal; “Pandangan kami” ialah pendapat kami (terjemahan mesin).', ex='Petikan daripada sumber', nrw='Belum ditulis semula: ringkasan dan petikan daripada sumber (terjemahan mesin).', go='Baca artikel asal', src='Sumber', close='Tutup', loading='Memuatkan…', fail='Gagal dimuatkan; sila baca artikel asal.', orig=''),
- 'vi': dict(take='Góc nhìn của chúng tôi', rw='OPC Radar viết lại: dữ kiện chỉ lấy từ bài gốc; “Góc nhìn của chúng tôi” là ý kiến riêng (dịch máy).', ex='Trích từ nguồn', nrw='Chưa viết lại: tóm tắt và trích đoạn từ nguồn (dịch máy).', go='Đọc bài gốc', src='Nguồn', close='Đóng', loading='Đang tải…', fail='Không tải được; vui lòng đọc bài gốc.', orig=''),
- 'fr': dict(take='Notre avis', rw='Réécrit par OPC Radar : les faits viennent uniquement de l’original ; « Notre avis » est notre opinion (traduction automatique).', ex='Extrait de la source', nrw='Pas encore réécrit : résumé et extrait de la source (traduction automatique).', go='Lire l’original', src='Source', close='Fermer', loading='Chargement…', fail='Chargement impossible ; lisez l’original.', orig=''),
- 'es': dict(take='Nuestra opinión', rw='Reescrito por OPC Radar: los hechos proceden solo del original; «Nuestra opinión» es nuestra valoración (traducción automática).', ex='Extracto de la fuente', nrw='Aún no reescrito: resumen y extracto de la fuente (traducción automática).', go='Leer el original', src='Fuente', close='Cerrar', loading='Cargando…', fail='No se pudo cargar; lee el original.', orig=''),
- 'de': dict(take='Unsere Einschätzung', rw='Von OPC Radar neu geschrieben: Fakten stammen nur aus dem Original; „Unsere Einschätzung“ ist unsere Meinung (maschinell übersetzt).', ex='Auszug aus der Quelle', nrw='Noch nicht neu geschrieben: Zusammenfassung und Auszug aus der Quelle (maschinell übersetzt).', go='Original lesen', src='Quelle', close='Schließen', loading='Wird geladen…', fail='Konnte nicht geladen werden; bitte das Original lesen.', orig=''),
+ 'ko': dict(take='우리의 시각', rw='OPC Radar가 다시 쓴 글: 사실은 모두 원문에서 왔으며 \'우리의 시각\'은 사이트의 의견입니다.', rwmt='OPC Radar가 다시 쓴 글: 사실은 모두 원문에서 왔으며 \'우리의 시각\'은 사이트의 의견입니다(기계 번역).', ex='원문 발췌', nrw='아직 다시 쓰지 않음: 원문 요약과 발췌입니다(기계 번역).', go='원문 읽기', src='출처', close='닫기', loading='불러오는 중…', fail='불러오지 못했습니다. 원문을 읽어 주세요.', orig=''),
+ 'ms': dict(take='Pandangan kami', rw='Ditulis semula oleh OPC Radar: fakta hanya daripada sumber asal; “Pandangan kami” ialah pendapat kami.', rwmt='Ditulis semula oleh OPC Radar: fakta hanya daripada sumber asal; “Pandangan kami” ialah pendapat kami (terjemahan mesin).', ex='Petikan daripada sumber', nrw='Belum ditulis semula: ringkasan dan petikan daripada sumber (terjemahan mesin).', go='Baca artikel asal', src='Sumber', close='Tutup', loading='Memuatkan…', fail='Gagal dimuatkan; sila baca artikel asal.', orig=''),
+ 'vi': dict(take='Góc nhìn của chúng tôi', rw='OPC Radar viết lại: dữ kiện chỉ lấy từ bài gốc; “Góc nhìn của chúng tôi” là ý kiến riêng.', rwmt='OPC Radar viết lại: dữ kiện chỉ lấy từ bài gốc; “Góc nhìn của chúng tôi” là ý kiến riêng (dịch máy).', ex='Trích từ nguồn', nrw='Chưa viết lại: tóm tắt và trích đoạn từ nguồn (dịch máy).', go='Đọc bài gốc', src='Nguồn', close='Đóng', loading='Đang tải…', fail='Không tải được; vui lòng đọc bài gốc.', orig=''),
+ 'fr': dict(take='Notre avis', rw='Réécrit par OPC Radar : les faits viennent uniquement de l’original ; « Notre avis » est notre opinion.', rwmt='Réécrit par OPC Radar : les faits viennent uniquement de l’original ; « Notre avis » est notre opinion (traduction automatique).', ex='Extrait de la source', nrw='Pas encore réécrit : résumé et extrait de la source (traduction automatique).', go='Lire l’original', src='Source', close='Fermer', loading='Chargement…', fail='Chargement impossible ; lisez l’original.', orig=''),
+ 'es': dict(take='Nuestra opinión', rw='Reescrito por OPC Radar: los hechos proceden solo del original; «Nuestra opinión» es nuestra valoración.', rwmt='Reescrito por OPC Radar: los hechos proceden solo del original; «Nuestra opinión» es nuestra valoración (traducción automática).', ex='Extracto de la fuente', nrw='Aún no reescrito: resumen y extracto de la fuente (traducción automática).', go='Leer el original', src='Fuente', close='Cerrar', loading='Cargando…', fail='No se pudo cargar; lee el original.', orig=''),
+ 'de': dict(take='Unsere Einschätzung', rw='Von OPC Radar neu geschrieben: Fakten stammen nur aus dem Original; „Unsere Einschätzung“ ist unsere Meinung.', rwmt='Von OPC Radar neu geschrieben: Fakten stammen nur aus dem Original; „Unsere Einschätzung“ ist unsere Meinung (maschinell übersetzt).', ex='Auszug aus der Quelle', nrw='Noch nicht neu geschrieben: Zusammenfassung und Auszug aus der Quelle (maschinell übersetzt).', go='Original lesen', src='Quelle', close='Schließen', loading='Wird geladen…', fail='Konnte nicht geladen werden; bitte das Original lesen.', orig=''),
 }
 BOXES = ['zh-Hans', 'zh-Hant', 'en', 'ja', 'ko', 'ms', 'vi', 'fr', 'es', 'de']
 BEACON = ('<!--IA--><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{"token":"41d8abdb6f1247c08f2412afcd5f2143"}\'></script>'
@@ -226,7 +227,8 @@ def box(dg, L):
             (f'<span class="sm">{e(sm(x))}</span>' if sm(x) else '') + '</li>' for x in lst) + '</ul>'
     if dg.get('more'): h += [f'<h2>{t["more"]}</h2>', ops(dg['more'])]
     if dg.get('follow'): h += [f'<h2>{t["follow"]}</h2>', ops(dg['follow']).replace('class="card"', 'class="card follow"')]
-    h += [f'<p class="note">{t["note"]}</p>', '</div>']
+    mtn = MTNOTE.get(L, '') if any(L in (x.get('mt') or []) for k in ('top', 'more', 'follow') for x in (dg.get(k) or [])) else ''
+    h += [f'<p class="note">{t["note"]}' + (f' {mtn}' if mtn else '') + '</p>', '</div>']
     return '\n'.join(h)
 
 READER_CSS = """
@@ -460,6 +462,31 @@ def enrich(i, tr, RW, with_extra=True):
         elif ex[L]: x['ex'] = [ex[L]]
         det[L] = x
     r['rw'] = how or ''
+    # editor-written translations for any locale (scripts/digest_rewrites/<date>.json -> "loc": {L: {title, summary,
+    # body, take, ex}}); everything not covered here came from the translator and is marked machine-translated
+    LO = over.get('loc') or {}
+    if digest_llm.key():   # LLM translation of every locale the editor did not write (checked; failures fall back to the translator)
+        need = [L for L in BOXES if L not in ('en', 'zh-Hant') and L not in LO and not (L == 'ja' and ja_ed and ja_ed.get('body'))]
+        if need:
+            en_x = det['en']
+            got = digest_llm.translate({'title': en_x.get('t', ''), 'summary': en_x.get('s', ''), 'body': en_x.get('body') or [],
+                                        'take': en_x.get('take') or [], 'ex': en_x.get('ex') or []}, need)
+            if got: LO = dict(got, **LO); STATS['llm_tr'] = STATS.get('llm_tr', 0) + 1
+    if 'zh-Hans' in LO and 'zh-Hant' not in LO and getattr(tr, 's2t', None):
+        LO = dict(LO, **{'zh-Hant': {k: ([tr.s2t.convert(p) for p in v] if isinstance(v, list) else tr.s2t.convert(v)) for k, v in LO['zh-Hans'].items()}})
+    mtl = []
+    for L in BOXES:
+        if L == 'en' or L not in det: continue
+        ed = LO.get(L) or ({k: v for k, v in (ja_ed or {}).items()} if L == 'ja' else {})
+        x = det[L]
+        if ed.get('title') and dok(L, ed['title']): x['t'] = ed['title']; r['title'] = dict(r['title'], **{L: ed['title']})
+        if ed.get('summary') and dok(L, ed['summary']): x['s'] = ed['summary']; r['summary'] = dict(r['summary'], **{L: ed['summary']})
+        if rw and ed.get('body') and ed.get('take'): x['body'] = list(ed['body']); x['take'] = list(ed['take']); x.pop('mt', None)
+        elif rw and L not in ('zh-Hans', 'zh-Hant'): x['mt'] = 1
+        if not rw and ed.get('ex') and len(ed['ex']) == len(x.get('ex') or []): x['ex'] = list(ed['ex']); x['exed'] = 1
+        orig_lang = L.startswith('zh') and i.get('lang') == 'zh'
+        if not orig_lang and not (ed.get('title') and ed.get('summary')) and not (how == 'llm' and L == 'zh-Hans'): mtl.append(L)
+    if mtl: r['mt'] = mtl
     # per-item, per-locale Han check (the page guard stays as the final safety net): clear an unclean optional field,
     # and if the title itself is unclean drop just this item from that locale
     def bad(L, v):
