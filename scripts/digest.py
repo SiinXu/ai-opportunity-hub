@@ -210,6 +210,7 @@ def card_attrs(x):
     return f'class="card" tabindex="0" role="button" aria-haspopup="dialog" data-k="{e(x["id"])}"'
 
 def box(dg, L):
+    dg = dict(dg, **{k: [x for x in (dg.get(k) or []) if L not in (x.get('skip') or [])] for k in ('top', 'more', 'follow')})
     t = T[L if (L != 'ja' or JA_KANJI) else 'en']; d = dg['date']
     def fct(x): return (x.get('fact') or {}).get(L, '')
     def sm(x): return (x.get('summary') or {}).get(L, '')
@@ -407,6 +408,7 @@ def rewrites_for(ds):
     p = os.path.join(RW_DIR, f'{ds}.json')
     return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
 
+FILTERED = []   # (url, locale, action) from the per-item Han check
 STATS = {'summary_source': 0, 'summary_editor': 0, 'summary_fallback': 0, 'summary_none': 0, 'rw_editor': 0, 'rw_llm': 0, 'rw_none': 0}
 def enrich(i, tr, RW, with_extra=True):
     """Digest entry + per-locale reader record for one real item. Every text comes from the item's own source."""
@@ -458,6 +460,22 @@ def enrich(i, tr, RW, with_extra=True):
         elif ex[L]: x['ex'] = [ex[L]]
         det[L] = x
     r['rw'] = how or ''
+    # per-item, per-locale Han check (the page guard stays as the final safety net): clear an unclean optional field,
+    # and if the title itself is unclean drop just this item from that locale
+    def bad(L, v):
+        if isinstance(v, dict): return any(bad(L, w) for w in v.values())
+        if isinstance(v, list): return any(bad(L, w) for w in v)
+        return isinstance(v, str) and bool(HAN.search(v)) and not dok(L, v)
+    for L in BOXES:
+        if L.startswith('zh'): continue
+        x = det[L]
+        for k in ('s', 'f', 'body', 'take', 'ex', 'orig'):
+            if k in x and bad(L, x[k]):
+                FILTERED.append((u, L, 'cleared ' + k)); x[k] = [] if isinstance(x[k], list) else ''
+                if k == 's': r['summary'] = dict(r['summary'], **{L: ''})
+                if k == 'f': r['fact'] = dict(r['fact'], **{L: ''})
+        if bad(L, r['title'][L]) or bad(L, x) or not r['title'][L]:
+            FILTERED.append((u, L, 'item dropped')); r.setdefault('skip', []).append(L); det.pop(L, None)
     if not JA_KANJI:   # strict zero-Han rule: the ja locale mirrors English
         for k in ('title', 'summary', 'fact'): r[k]['ja'] = r[k]['en']
         det['ja'] = dict(det['en'])
@@ -465,7 +483,7 @@ def enrich(i, tr, RW, with_extra=True):
 
 def write_reader(ds, dets):
     for L in BOXES:
-        out = {'ui': UI[L if (L != 'ja' or JA_KANJI) else 'en'], 'items': {k: v[L] for k, v in dets.items()}}
+        out = {'ui': UI[L if (L != 'ja' or JA_KANJI) else 'en'], 'items': {k: v[L] for k, v in dets.items() if L in v}}
         json.dump(out, open(os.path.join(S, 'digest', ds, f'{L}.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 
 def item_from_entry(x):
@@ -587,7 +605,10 @@ def main():
         seen[ds] = sorted(dedup)
         keep = sorted(seen)[-45:]; seen = {k: seen[k] for k in keep}
         json.dump(seen, open(SEEN_P, 'w'), ensure_ascii=False, indent=0)
-    st = ' '.join(f'{k}={v}' for k, v in STATS.items())
+    import digest_i18n as _di
+    for a_, t_ in _di.LOG: print('han source', a_, '|', t_)
+    for u_, L_, a_ in FILTERED: print('han filter', L_, a_, '|', u_)
+    st = ' '.join(f'{k}={v}' for k, v in STATS.items()) + f' han_cleaned={sum(1 for a_, _ in _di.LOG if a_ == "cleaned")} han_dropped_text={sum(1 for a_, _ in _di.LOG if a_ != "cleaned")} han_filtered={len(FILTERED)}'
     print('stats', st)
     p = os.environ.get('GITHUB_STEP_SUMMARY')
     if p: open(p, 'a').write(f'digest {ds}: {st}\n')

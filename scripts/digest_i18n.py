@@ -20,6 +20,18 @@ def ok(L, v):
     if L.startswith('zh'): return True
     return L == 'ja' and JA_KANJI and bool(KANA.search(v))
 
+LOG = []   # (action, text) for every source text that needed Han handling; digest.py prints it
+CJKP = re.compile(r'[\u3000-\u303f\uff00-\uffef\u2018-\u201f]')
+def clean_han(t):
+    """Strip Han runs (plus CJK punctuation) from a mostly-English text. Returns '' when what is left is not real
+    English prose (too short or mostly non-letters) - better no text than a garbled one."""
+    if not HAN.search(t): return t
+    han = len(HAN.findall(t)); lat = len(re.findall(r'[A-Za-z]', t))
+    if lat < 40 or han > lat * 0.25: return ''
+    x = CJKP.sub(' ', HAN.sub(' ', t)); x = re.sub(r'\(\s*\)|\[\s*\]', ' ', x); x = re.sub(r'\s+([,.;:!?])', r'\1', x)
+    x = re.sub(r'\s{2,}', ' ', x).strip(' ,;:-')
+    return x if len(re.findall(r'[A-Za-z]', x)) >= 40 and not HAN.search(x) else ''
+
 class Tr:
     def __init__(s):
         s.C = json.load(open(CP, encoding='utf-8')) if os.path.exists(CP) else {}
@@ -38,7 +50,12 @@ class Tr:
         """en (Han-free English) -> {locale: text}. zh: optional human zh-Hans text (else machine-translated)."""
         en = (en or '').strip()
         if not en: return {L: '' for L in LOCS}
-        if HAN.search(en): raise ValueError('English source contains Han: ' + en[:60])
+        if HAN.search(en):   # per-item handling (2026-10-20): never fail the whole issue on one mixed-language source
+            raw = en; en = clean_han(en)
+            if not en:
+                LOG.append(('dropped-text', raw[:80])); print('  han: source text is Chinese, left out of non-zh locales:', raw[:60])
+                return {L: (raw if L.startswith('zh') else '') for L in LOCS}
+            LOG.append(('cleaned', raw[:80])); print('  han: stripped Han from mixed source text:', raw[:60])
         key = en if zh is None else en + '\x00' + zh
         if key in s.C:
             r = dict(s.C[key])
