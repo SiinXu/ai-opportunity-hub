@@ -500,6 +500,9 @@
    "zh-Hant": {
     "title": "Namecheap 剛剛查封並停用了我所有的域名",
     "summary": "分享於 Hacker News；原文在 reddit.com。"
+   },
+   "ja": {
+    "title": "Namecheap に自分のドメインをすべて差し押さえられ、無効化された"
    }
   }
  },
@@ -680,6 +683,9 @@
    "zh-Hant": {
     "title": "Gathin23/tv-vibehack",
     "summary": "讓你的電視沒有廣告。透過 ADB 給任意 Android TV 瘦身，再換上一個簡潔、受 tvOS 啟發的啟動器。用 Claude Code 一個下午做成。"
+   },
+   "ja": {
+    "summary": "Wi-Fi 経由であらゆる Android TV や Google TV から不要なアプリを取り除き、Apple TV 風のホーム画面にします。"
    }
   }
  },
@@ -716,6 +722,9 @@
    "zh-Hant": {
     "title": "ly05010419/MacNativeGames",
     "summary": "在 Apple Silicon Mac 上原生執行你自己擁有的《塞爾達傳說：王國之淚》。帶上游戲檔案（XCI 或 NSP）和 prod.keys，一個指令碼就能把它們變成 Mac 應用。"
+   },
+   "ja": {
+    "summary": "『ブレス オブ ザ ワイルド』1.6.0 が Mac で正式サポートに（現時点では Mac のみで、iPhone・iPad 版はまだありません）。『ティアーズ オブ ザ キングダム』1.0.0、1.2.1、1.4.3 は Mac と iPhone などで正式サポート。"
    }
   }
  }

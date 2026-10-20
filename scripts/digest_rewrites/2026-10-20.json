@@ -284,6 +284,9 @@
    "zh-Hant": {
     "title": "美國國土安全部新令：聯邦民事機構禁用 DeepSeek",
     "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf"
+   },
+   "ja": {
+    "title": "DHS の新たな命令で、DeepSeek が米連邦の文民機関で使用禁止に"
    }
   }
  },
@@ -680,6 +683,9 @@
    "zh-Hant": {
     "title": "xiaoyang111222/cn-math-taxonomy",
     "summary": "中小學與高中數學知識圖譜 + 前測診斷：對齊課程標準，覆蓋 1–9 年級義務教育和高中必修，674 個知識點、2843 道題，自適應診斷。"
+   },
+   "ja": {
+    "summary": "小中学校と高校の数学の知識マップと事前診断。カリキュラムとの対応、1〜9年生と高校の必修を扱い、知識点と問題、適応型の診断を備えます。"
    }
   }
  },
@@ -716,6 +722,9 @@
    "zh-Hant": {
     "title": "alchaincyf/huashu-motion",
     "summary": "由你的程式設計智慧體製作商業級釋出宣傳片——指著畫面就能修改。"
+   },
+   "ja": {
+    "summary": "コーディングエージェントが作る商用レベルのローンチ映像。変えたいフレームを指すだけで修正できます。"
    }
   }
  },
@@ -752,6 +761,9 @@
    "zh-Hant": {
     "title": "simbasjungles/free-my-tv",
     "summary": "為 Google TV 打造的快速、無廣告主螢幕。開源，用 Claude Code 構建，一鍵即可還原。"
+   },
+   "ja": {
+    "summary": "Google TV 向けの、速くて広告のないホーム画面。オープンソースで Claude Code を使って作られ、ボタン1つで元に戻せます。"
    }
   }
  }

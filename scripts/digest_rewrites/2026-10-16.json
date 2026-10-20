@@ -118,6 +118,14 @@
      "Wer Agenten ausliefert, sollte umdenken: Behandle einen Agenten wie nicht vertrauenswürdigen Code. Lass ihn in einer Sandbox laufen, beschränke ausgehenden Netzwerkzugriff standardmäßig und protokolliere und alarmiere, was er tatsächlich tut. Diese Kontrollen sind billig und gut verstanden – und wichtiger als die Debatte, ob ein Modell ausbrechen „wollte“.",
      "Es gibt auch einen Produktwinkel: Kleine Teams, die Agenten-Sandboxing, Egress-Regeln und Laufzeitüberwachung leicht nutzbar bündeln, lösen ein Problem, an dem selbst die größten Labore sichtbar scheitern."
     ]
+   },
+   "zh-Hans": {
+    "title": "专家：AI 入侵报道的症结在于隔离与监控失职",
+    "summary": "网络安全专家认为，近期一连串令人担忧的 AI 入侵事件，问题出在 AI 实验室的隔离与监控失职，而不是智能体有了自己的意志。"
+   },
+   "zh-Hant": {
+    "title": "專家：AI 入侵報道的癥結在於隔離與監控失職",
+    "summary": "網路安全專家認為，近期一連串令人擔憂的 AI 入侵事件，問題出在 AI 實驗室的隔離與監控失職，而不是智慧體有了自己的意志。"
    }
   }
  },
@@ -249,6 +257,14 @@
      "Das verändert das Bedrohungsmodell für alle, die Apps mit Werbe-SDKs bauen oder monetarisieren. Jedes eingebettete Drittanbieter-Werbetag ist fremder Code, der in deinem Produkt läuft, und Targeting-Daten machen daraus ein Präzisions-Liefersystem. Für datenschutzorientierte Entwickler ist das ein starkes Argument für werbefreie Tarife, strengere SDK-Prüfung und Content-Blocking.",
      "Für Hochrisiko-Nutzer wie Journalisten, Aktivisten und Führungskräfte ist Werbeblockierung jetzt eine Sicherheitsmaßnahme, nicht nur Komfort."
     ]
+   },
+   "zh-Hans": {
+    "title": "AdFection：定向广告沦为零点击雇佣型间谍软件的投放渠道",
+    "summary": "这是首次公开证实：雇佣型间谍软件可以通过定向广告以零点击方式投放。研究者把这种手法称为 AdFection。"
+   },
+   "zh-Hant": {
+    "title": "AdFection：定向廣告淪為零點選僱傭型間諜軟體的投放渠道",
+    "summary": "這是首次公開證實：僱傭型間諜軟體可以透過定向廣告以零點選方式投放。研究者把這種手法稱為 AdFection。"
    }
   }
  },
@@ -371,6 +387,14 @@
      "Für Indie-Entwickler ist die Bandbreite spannend: günstige gehostete Endpunkte mehrerer Anbieter oder vollständig private lokale Läufe, wenn die Hardware da ist. Lies die Lizenz genau, bevor du ein Geschäft darauf baust – die kommerziellen Bedingungen sind eingeschränkt.",
      "Das Setup mit zwei Mac Studios bleibt teuer, die meisten kleinen Teams werden mit gehosteten APIs starten; es zeigt aber, dass private Agenten auf Frontier-Niveau für ein gut finanziertes Studio in Reichweite rücken."
     ]
+   },
+   "zh-Hans": {
+    "title": "Muse Spark Open",
+    "summary": "Muse Spark Open 是迄今能力最强的美国开放权重模型，可在搭载 M5 Ultra 的 Mac Studio 上把领先的智能体能力带到你的桌面。"
+   },
+   "zh-Hant": {
+    "title": "Muse Spark Open",
+    "summary": "Muse Spark Open 是迄今能力最強的美國開放權重模型，可在搭載 M5 Ultra 的 Mac Studio 上把領先的智慧體能力帶到你的桌面。"
    }
   }
  },
@@ -493,6 +517,14 @@
      "Schriften sind ein kleiner, aber täglicher Produktivitätshebel: Eine schmale, stark konfigurierbare Monospace bedeutet mehr Code auf dem Bildschirm und weniger visuelle Störungen. Da sie Open Source ist, kann man sie bedenkenlos in eigene Apps, Terminals oder Doku-Sites einbinden.",
      "Für Designer ist Iosevka ein gutes Beispiel dafür, wie weit ein Schriftsystem mit konfigurierbaren Varianten gehen kann – eine Idee, die sich auf Markenschriften und Designsysteme übertragen lässt."
     ]
+   },
+   "zh-Hans": {
+    "title": "Iosevka：开源的无衬线与粗衬线等宽字体",
+    "summary": "Iosevka 等宽字体默认采用窄身设计，每个字形恰好半个 em 宽；与同类字体相比，同样的屏幕宽度能放下更多列。"
+   },
+   "zh-Hant": {
+    "title": "Iosevka：開源的無襯線與粗襯線等寬字型",
+    "summary": "Iosevka 等寬字型預設採用窄身設計，每個字形恰好半個 em 寬；與同類字型相比，同樣的螢幕寬度能放下更多列。"
    }
   }
  },
@@ -624,6 +656,14 @@
      "Hält das, ist es weit über Forschungslabore hinaus relevant: Interpretierbarkeit direkt am Modell würde Debugging, Audits und Sicherheitsprüfungen deutlich billiger machen – und manche schwergewichtige Zerlegungswerkzeuge überflüssiger.",
      "Als starke Hypothese lesen, nicht als gesicherte Wissenschaft – so rahmt es der Autor selbst. Wer Evaluations- und Observability-Tools baut, sollte beobachten, ob andere die Ergebnisse reproduzieren."
     ]
+   },
+   "zh-Hans": {
+    "title": "神经网络是“干净”的",
+    "summary": "一个关于神经元、泛化以及电路“生态”的工作假说。"
+   },
+   "zh-Hant": {
+    "title": "神經網路是“乾淨”的",
+    "summary": "一個關於神經元、泛化以及電路“生態”的工作假說。"
    }
   }
  },
@@ -755,6 +795,14 @@
      "Für kleine Teams heißt das nicht, den Markt zu timen, sondern damit zu rechnen, dass Rechenkosten und -kapazität von der Finanzierung abhängen, nicht nur von Chips. Werden Kreditgeber vorsichtig, können sich Ausbautempo und GPU-Mietpreise ändern.",
      "Halte deinen Stack zwischen Anbietern portabel und meide lange Verpflichtungen, deren Preis darauf setzt, dass Kapazität immer billiger wird."
     ]
+   },
+   "zh-Hans": {
+    "title": "银行正设法甩掉自己刚承销的 AI 数据中心债务",
+    "summary": "随着信用违约互换飙升、债券认购变冷，摩根大通、三菱日联等银行正在兜售与 Oracle 相关的 AI 数据中心债务。"
+   },
+   "zh-Hant": {
+    "title": "銀行正設法甩掉自己剛承銷的 AI 資料中心債務",
+    "summary": "隨著信用違約互換飆升、債券認購變冷，摩根大通、三菱日聯等銀行正在兜售與 Oracle 相關的 AI 資料中心債務。"
    }
   }
  },
@@ -886,6 +934,14 @@
      "Ein Vorgeschmack auf ein wiederkehrendes Problem: Wenn KI beim Systemdesign hilft, reproduziert sie oft Vorhandenes, und Teams sollten sich angewöhnen zu fragen „Worauf basiert das?“ und es zu zitieren. Das kostet wenig und schützt Vertrauen – besonders bei Firmen, die Engineering-Blogs für Recruiting und Marketing nutzen.",
      "Für Open-Source-Maintainer zugleich eine Erinnerung: Klare Namen und gute Dokumentation machen die eigene Arbeit leichter erkennbar und zitierbar."
     ]
+   },
+   "zh-Hans": {
+    "title": "Anthropic 的 Scion 深受 Mononoke 启发",
+    "summary": "作者指出，Anthropic 介绍其新版本控制系统 Scion 用“派生数据”让 blame 等操作更高效，而这正是 Mononoke 多年前的设计。"
+   },
+   "zh-Hant": {
+    "title": "Anthropic 的 Scion 深受 Mononoke 啟發",
+    "summary": "作者指出，Anthropic 介紹其新版本控制系統 Scion 用“派生資料”讓 blame 等操作更高效，而這正是 Mononoke 多年前的設計。"
    }
   }
  },
@@ -1017,6 +1073,14 @@
      "Das Gute: Öffentliche, konkrete Kritik führte binnen Tagen zu einer Korrektur. Für Engineering-Teams ist die Lehre einfach: Wenn ein Design bei einem bekannten System leiht, nenne es von Anfang an.",
      "Wer neue Infrastruktur der KI-Ära bewertet, sollte nach der Herkunft suchen – die beste Doku eines neuen Systems ist oft das ältere, von dem es gelernt hat."
     ]
+   },
+   "zh-Hans": {
+    "title": "再谈 Anthropic 的 Scion 抄袭 Mononoke",
+    "summary": "针对前一篇关于 Anthropic Scion 抄袭 Mononoke 的文章，作者收到不少提问和质疑，这篇续文逐一回应其中的主要问题。"
+   },
+   "zh-Hant": {
+    "title": "再談 Anthropic 的 Scion 抄襲 Mononoke",
+    "summary": "針對前一篇關於 Anthropic Scion 抄襲 Mononoke 的文章，作者收到不少提問和質疑，這篇續文逐一回應其中的主要問題。"
    }
   }
  },
@@ -1148,6 +1212,14 @@
      "Ein starkes Agentenmodell, das schnell auf einem Laptop läuft, ist genau das, was Local-First- und datenschutzsensible Produkte brauchen: Offline-Assistenten, Automatisierungen auf dem Gerät, Tools für regulierte Branchen. Die Benchmarks stammen vom Hersteller – teste mit eigenen Aufgaben.",
      "Lesenswert ist auch die Reward-Hacking-Notiz: Wer Agenten-Evaluierungen baut, sollte die Umgebung abschotten, sonst messen die Scores eher Findigkeit beim Antwortensuchen als Können."
     ]
+   },
+   "zh-Hans": {
+    "title": "LFM2.5-24B-A2B：为快速端侧智能体打造",
+    "summary": "LFM2.5-24B-A2B：开放权重的 24B 推理模型，仅激活 2B 参数，专为快速、私密的端侧智能体打造；在 LiveClaw 上胜过 Qwen3.6-35B-A3B。"
+   },
+   "zh-Hant": {
+    "title": "LFM2.5-24B-A2B：為快速端側智慧體打造",
+    "summary": "LFM2.5-24B-A2B：開放權重的 24B 推理模型，僅啟用 2B 引數，專為快速、私密的端側智慧體打造；在 LiveClaw 上勝過 Qwen3.6-35B-A3B。"
    }
   }
  },
@@ -1270,6 +1342,14 @@
      "Für Designer und Frontend-Entwickler ein nützlicher Realitätscheck: KI baut schnell funktionierende UIs, aber die Standards laufen zusammen. Wenn alle Wettbewerber ausliefern, was dieselben Modelle vorschlagen, wird eigenes visuelles Urteil wertvoller, nicht weniger.",
      "Praxistipp: Mit Modellen schnell viele Varianten erkunden, dann über die erste Antwort hinausgehen oder eigene Referenzen vorgeben, um den Durchschnittslook zu vermeiden."
     ]
+   },
+   "zh-Hans": {
+    "title": "为什么大模型画的鹈鹕都长这样？",
+    "summary": "为什么大模型画的鹈鹕都长得差不多？用图直观展示“多样性坍缩”，并介绍团队关于 UI 设计创造力的研究。"
+   },
+   "zh-Hant": {
+    "title": "為什麼大模型畫的鵜鶘都長這樣？",
+    "summary": "為什麼大模型畫的鵜鶘都長得差不多？用圖直觀展示“多樣性坍縮”，並介紹團隊關於 UI 設計創造力的研究。"
    }
   }
  },
@@ -1393,6 +1473,14 @@
      "Remote-Pairing-Tools verschwinden nach Übernahmen immer wieder; eine selbst hostbare Open-Source-Option ist für verteilte Teams eine echte Erleichterung. Einzelne Fenster statt ganzer Bildschirme zu teilen ist außerdem ein Plus für die Privatsphäre.",
      "Chance: Hosting, Support oder Integrationen rund um ein solches Tool sind naheliegende kleine Geschäfte – solange sie den nicht-kommerziellen Geist des Projekts respektieren."
     ]
+   },
+   "zh-Hans": {
+    "title": "Petal：开源版 CoScreen/ScreenHero，终于免费",
+    "summary": "低延迟、高清晰度的屏幕共享与远程控制。"
+   },
+   "zh-Hant": {
+    "title": "Petal：開源版 CoScreen/ScreenHero，終於免費",
+    "summary": "低延遲、高畫質晰度的螢幕共享與遠端控制。"
    }
   }
  },
@@ -1524,6 +1612,14 @@
      "Eine Erinnerung daran, dass Gesundheitssysteme Beharrlichkeit und Organisation belohnen und dass alltägliche Werkzeuge wie Notizen und KI-Zusammenfassungen Patienten und Angehörigen wirklich helfen können.",
      "Und eine leise Produktchance: Tools auf Patientenseite, die Termine verfolgen, Unterlagen ordnen und Fragen vorbereiten – sorgfältig gebaut und ohne medizinische Antworten zu versprechen."
     ]
+   },
+   "zh-Hans": {
+    "title": "确诊癌症后需要知道的事",
+    "summary": "作者在 2026 年五月被确诊口腔鳞状细胞癌，分享了到目前为止从这段经历中学到的事情。"
+   },
+   "zh-Hant": {
+    "title": "確診癌症後需要知道的事",
+    "summary": "作者在 2026 年五月被確診口腔鱗狀細胞癌，分享了到目前為止從這段經歷中學到的事情。"
    }
   }
  },
@@ -1646,6 +1742,14 @@
      "Was auch immer die genaue Ursache war: Die Geschichte verfängt, weil sie plausibel ist – immer mehr Teams lassen automatisierte Werkzeuge an Produktionsdateien. Die Lehre ist langweilig, aber wichtig: versionierte Backups, eingeschränkte Löschrechte und eine menschliche Freigabe für destruktive Aktionen.",
      "Vorsicht aber bei der Schlagzeile: Der Sender bestreitet die KI-Agenten-Version. Das ist ein Plädoyer für gute Backup-Hygiene, kein Beleg für eine außer Kontrolle geratene KI."
     ]
+   },
+   "zh-Hans": {
+    "title": "AI 智能体删除剪辑素材，TV4 推迟节目播出",
+    "summary": "瑞典电视台 TV4 的真人秀《The Challenge》新一季因技术故障推迟播出。"
+   },
+   "zh-Hant": {
+    "title": "AI 智慧體刪除剪輯素材，TV4 推遲節目播出",
+    "summary": "瑞典電視臺 TV4 的真人秀《The Challenge》新一季因技術故障推遲播出。"
    }
   }
  },
@@ -1768,6 +1872,14 @@
      "Computer-Use-Agenten wandern von Demos in die Infrastruktur, und ein offener Stack senkt die Hürde für kleine Teams, eigene Automatisierungsprodukte zu bauen. Dass das Modell besser Code schreibt, als nur zu klicken, ist ein praktischer Designhinweis für alle, die heute Agenten bauen.",
      "Die Ergebnisse auf echten Geräten erinnern daran, Kosten zu messen und nicht nur die Erfolgsquote: Der Tokenverbrauch kann sich bei derselben Aufgabe zwischen Modellen enorm unterscheiden."
     ]
+   },
+   "zh-Hans": {
+    "title": "OpenGCUA：迈向完全开放的通用计算机使用技术栈",
+    "summary": "OpenGCUA 推出开放的通用计算机使用智能体，融合视觉与程序化接口、从框架到模型的决策转移以及代码执行，提升各模型的任务表现与效率。"
+   },
+   "zh-Hant": {
+    "title": "OpenGCUA：邁向完全開放的通用計算機使用技術棧",
+    "summary": "OpenGCUA 推出開放的通用計算機使用智慧體，融合視覺與程式化介面、從框架到模型的決策轉移以及程式碼執行，提升各模型的任務表現與效率。"
    }
   }
  },
@@ -1890,6 +2002,14 @@
      "Der symbolische Teil ist offensichtlich: Einer der anspruchsvollsten Code-Reviewer der Softwarewelt nutzt jetzt ein LLM für echte Kernel-Arbeit. Der inhaltliche Teil ist ebenso nützlich: Die KI half bei einem harten Performance-Problem, und ganz normales menschliches Review fand trotzdem eine Race Condition.",
      "Das ist das richtige Denkmodell für Teams, die KI-Coding einführen: schnellere Erkundung, gleiche Review-Standards."
     ]
+   },
+   "zh-Hans": {
+    "title": "Linus Torvalds 的首个 LLM 辅助补丁系列",
+    "summary": "Linus Torvalds 在维护者峰会上提到自己在用大语言模型处理一个老问题，现在他已把这组补丁发出来接受审查。"
+   },
+   "zh-Hant": {
+    "title": "Linus Torvalds 的首個 LLM 輔助補丁系列",
+    "summary": "Linus Torvalds 在維護者峰會上提到自己在用大語言模型處理一個老問題，現在他已把這組補丁發出來接受審查。"
    }
   }
  },
@@ -2012,6 +2132,14 @@
      "Gute Nachricht für kleine Teams, die schon auf Postgres sind: ernsthafte Vektorsuche ohne zusätzliche Vektordatenbank. Dank pgvector-Kompatibilität lässt es sich risikoarm mit eigenen Daten benchmarken.",
      "Vor einer Migration produktiver Indizes die Betriebsdetails prüfen – etwa die nötige PostgreSQL-Version und wie das Rebalancing funktioniert."
     ]
+   },
+   "zh-Hans": {
+    "title": "Pg_vectorsearch：比 pgvector 的 IVFFlat 和 HNSW 更快的索引",
+    "summary": "面向 PostgreSQL 的高性能向量搜索。"
+   },
+   "zh-Hant": {
+    "title": "Pg_vectorsearch：比 pgvector 的 IVFFlat 和 HNSW 更快的索引",
+    "summary": "面向 PostgreSQL 的高效能向量搜尋。"
    }
   }
  },
@@ -2134,6 +2262,14 @@
      "Eine Datei zwischen dem eigenen Handy und Laptop zu schicken ist über Ökosysteme hinweg immer noch seltsam mühsam; ein Tool nach dem Prinzip „einmal koppeln, jederzeit senden“ füllt eine echte Lücke, besonders in Haushalten mit Android, Windows und Linux.",
      "Die fehlende iOS-Version ist die größte Einschränkung; für Entwickler zeigt es, dass Bibliotheken wie Iroh solche Werkzeuge heute zu Wochenendprojekten machen."
     ]
+   },
+   "zh-Hans": {
+    "title": "Flipflop：基于 Iroh 的持久隧道文件共享",
+    "summary": "为“线下时代”打造的文件共享工具。"
+   },
+   "zh-Hant": {
+    "title": "Flipflop：基於 Iroh 的持久隧道檔案共享",
+    "summary": "為“線下時代”打造的檔案共享工具。"
    }
   }
  },
@@ -2265,6 +2401,14 @@
      "Spannend ist die schrittweise Einführung: eine langsame Route an Proa weiterleiten und Kosten sowie Latenz vergleichen, statt die ganze App neu zu schreiben. Barrierefreiheitsprüfungen im Build sind zudem ein willkommener Standard.",
      "Es ist neu, das Ökosystem ist im Vergleich zu Next.js dünn; passend für Rust-affine Teams mit performancekritischen, überwiegend serverseitig gerenderten Seiten."
     ]
+   },
+   "zh-Hans": {
+    "title": "Proa：支持快速 SSR 与多目标渲染的 Rust Web 框架",
+    "summary": "开箱即用的 Rust Web 框架，围绕一种可组合、多目标渲染的新编程模型构建。"
+   },
+   "zh-Hant": {
+    "title": "Proa：支援快速 SSR 與多目標渲染的 Rust Web 框架",
+    "summary": "開箱即用的 Rust Web 框架，圍繞一種可組合、多目標渲染的新程式設計模型構建。"
    }
   }
  },

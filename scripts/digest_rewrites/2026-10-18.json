@@ -140,6 +140,9 @@
    "zh-Hant": {
     "title": "DeepSeek-V4.1-Flash-1017",
     "summary": "我們正透過開源與開放科學，推動人工智慧進步並讓它普及到每個人。"
+   },
+   "ja": {
+    "summary": "オープンソースとオープンサイエンスを通じて人工知能の発展と民主化を目指す、という Hugging Face のページ文言です。"
    }
   }
  },
@@ -356,6 +359,9 @@
    "zh-Hant": {
     "title": "Anthropic 在 6 月被給予最高等級的垃圾債信用評級",
     "summary": "https://finance.yahoo.com/technology/ai/articles/anthropic-s..."
+   },
+   "ja": {
+    "title": "Anthropic、6月に最も低いジャンク級の信用格付けを付けられていた"
    }
   }
  },
@@ -680,6 +686,9 @@
    "zh-Hant": {
     "title": "justxor/deepseek-local-guide-ru",
     "summary": "🐋 俄語完整指南：如何在 PC、Mac 和伺服器上本地安裝並執行 DeepSeek（V4、R1）——Ollama、llama.cpp、LM Studio、vLLM、Open WebUI、API、RAG、智慧體、微調和實用技巧"
+   },
+   "ja": {
+    "summary": "DeepSeek（V4、R1）をPC、Mac、サーバーにローカル導入して動かすためのロシア語の完全ガイド。Ollama、llama.cpp、LM Studio、vLLM、Open WebUI、API、RAG、エージェント、ファインチューニングを扱います。"
    }
   }
  },
@@ -716,6 +725,9 @@
    "zh-Hant": {
     "title": "harshpreet931/harshpreet-hand",
     "summary": "我把 120 頁手寫的大學筆記交給 Claude Code，它用 66 分鐘、13.68 美元把我的筆跡做成了一套真正的字型。"
+   },
+   "ja": {
+    "summary": "手書きの大学ノート120ページを Claude Code に渡すと、66分・13.68ドルで自分の手書き文字が本物のフォントになって返ってきた、というリポジトリです。"
    }
   }
  }
