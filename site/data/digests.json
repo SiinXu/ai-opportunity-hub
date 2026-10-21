@@ -1,6 +1,1161 @@
 {
- "latest": "2026-10-20",
+ "latest": "2026-10-21",
  "digests": [
+  {
+   "date": "2026-10-21",
+   "path": "digest/2026-10-21/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-20T23:30:00Z",
+   "generated": "2026-10-21T00:12:41Z",
+   "new_count": 45,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-21",
+    "zh-Hant": "早間技術熱點 · 2026-10-21",
+    "en": "Morning tech digest · 2026-10-21",
+    "ja": "朝のテックダイジェスト · 2026-10-21",
+    "ko": "아침 테크 다이제스트 · 2026-10-21",
+    "ms": "Ringkasan teknologi pagi · 2026-10-21",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-21",
+    "fr": "Digest tech du matin · 2026-10-21",
+    "es": "Resumen tecnológico matinal · 2026-10-21",
+    "de": "Morgendlicher Tech-Digest · 2026-10-21"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-21 07:30 自动生成：从上一期以来 OPC Radar 新收录的 45 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-21 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 45 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-21: the hottest of the 45 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-21 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 45 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-21 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 45개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-21: isyarat paling hangat daripada 45 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-21: những tín hiệu nổi bật nhất trong 45 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-21 : les plus marquants des 45 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-21: lo más destacado de las 45 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-21: das Wichtigste aus 45 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50165801",
+     "title": {
+      "zh-Hans": "发布假数据, 在 LLM 中引用",
+      "zh-Hant": "釋出假資料, 在 LLM 中引用",
+      "en": "Publish fake stats, get cited in LLMs",
+      "ja": "偽の統計情報を公開し、LMSで引用",
+      "ko": "가짜 통계를 게시, LLMs에서 인용",
+      "ms": "* Terbitkan statistik palsu, dikutip di LLMs",
+      "vi": "Xuất bản thống kê giả, được trích dẫn trong LMs",
+      "fr": "Publier de fausses statistiques, être cité dans LLMs",
+      "es": "Publish fake statistics, get cited in LLMs",
+      "de": "Veröffentlichen Sie gefälschte Statistiken, werden Sie in LLMs zitiert"
+     },
+     "summary": {
+      "en": "How 50,000 fake stats kept getting cited by ChatGPT Read more on the Peec AI blog.",
+      "zh-Hans": "ChatGPT不断引用5万个假数据,",
+      "ja": "ChatGPTがPeec AIブログでもっと読むと5万個の偽の統計が引用され続ける方法。",
+      "ko": "ChatGPT가 인용 한 50,000 가짜 통계가 Peec AI 블로그에서 더 읽기.",
+      "ms": "50.000 statistik palsu yang terus dikutip oleh ChatGPT Baca lebih banyak di blog Peec AI.",
+      "vi": "Làm thế nào 50.000 số liệu giả được trích dẫn bởi ChatGPT Read nhiều hơn trên blog của Peec Al.",
+      "fr": "Comment 50 000 statistiques fausses ont continué à être citées par ChatGPT Lire plus sur le blog Peec AI.",
+      "es": "Cómo 50.000 estadísticas falsas siguen siendo citadas por ChatGPT Leer más en el blog Peec AI.",
+      "de": "Wie 50.000 gefälschte Statistiken von ChatGPT zitiert wurden Lesen Sie mehr auf dem Peec AI-Blog.",
+      "zh-Hant": "ChatGPT不斷引用5萬個假資料,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 300 分 · 172 条评论",
+      "zh-Hant": "Hacker News 300 分 · 172 則留言",
+      "en": "300 points · 172 comments on Hacker News",
+      "ja": "Hacker News 300 ポイント · コメント 172 件",
+      "ko": "Hacker News 300점 · 댓글 172개",
+      "ms": "300 mata · 172 komen di Hacker News",
+      "vi": "300 điểm · 172 bình luận trên Hacker News",
+      "fr": "300 points · 172 commentaires sur Hacker News",
+      "es": "300 puntos · 172 comentarios en Hacker News",
+      "de": "300 Punkte · 172 Kommentare auf Hacker News"
+     },
+     "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+     "src": "peec.ai",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50165801"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50169053",
+     "title": {
+      "zh-Hans": "Google 开源火炬TPU, TPU的本地 PyTorch 后端",
+      "zh-Hant": "Google 開源火炬TPU, TPU的本地 PyTorch 後端",
+      "en": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "ja": "TPUのネイティブPyTorchのバックエンドであるGoogleのオープンソースのTorchTPU",
+      "ko": "Google 오픈 소스 TorchTPU, TPU에 대한 기본 PyTorch 백 엔드",
+      "ms": "Google open-sources TorchTPU, ujung belakang PyTorch asli untuk TPU",
+      "vi": "Name",
+      "fr": "Google open-sources TorchTPU, un natif PyTorch back end pour les TPU",
+      "es": "Google open-sources TorchTPU, un nativo PyTorch back end para TPU",
+      "de": "Google Open-Sources TorchTPU, ein natives PyTorch Backend für TPUs"
+     },
+     "summary": {
+      "en": "This project provides a PyTorch backend for Google's Tensor Processing Units (TPUs), enabling users to run PyTorch models and operations on TPU devices.",
+      "zh-Hans": "该项目为Google的Tensor处理单元(TPU)提供了PyTorch后端,使用户能够在TPU设备上运行PyTorch模型和操作.",
+      "ja": "このプロジェクトは、GoogleのTensor処理ユニット(TPU)用のPyTorchバックエンドを提供し、ユーザーがTPUデバイス上でPyTorchモデルと操作を実行できるようにします。",
+      "ko": "이 프로젝트는 Google의 Tensor Processing Units (TPUs)에 대한 PyTorch 백엔드를 제공하여 사용자는 TPU 장치에서 PyTorch 모델과 작업을 실행할 수 있습니다.",
+      "ms": "Proyek ini menyediakan backend PyTorch untuk Unit Pengolahan Tensor Google (TPU), memungkinkan pengguna untuk menjalankan model dan operasi PyTorch pada perangkat TPU.",
+      "vi": "Dự án này cung cấp một hậu phương PyTorch cho các đơn vị xử lý Tensor của Google, cho phép người dùng chạy mô hình và thao tác PyTorch trên thiết bị TPU.",
+      "fr": "Ce projet fournit un moteur PyTorch pour les unités de traitement de tension (TPUs) de Google, permettant aux utilisateurs d'exécuter des modèles et des opérations PyTorch sur des appareils TPU.",
+      "es": "Este proyecto proporciona un backend PyTorch para las Unidades de Procesamiento de Tensor de Google (TPUs), permitiendo a los usuarios ejecutar modelos y operaciones de PyTorch en dispositivos TPU.",
+      "de": "Dieses Projekt bietet ein PyTorch-Backend für Googles Tensor Processing Units (TPUs), mit dem Benutzer PyTorch-Modelle und -Operationen auf TPU-Geräten ausführen können.",
+      "zh-Hant": "該專案為Google的Tensor處理單元(TPU)提供了PyTorch後端,使使用者能夠在TPU裝置上執行PyTorch模型和操作."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 204 分 · 48 条评论",
+      "zh-Hant": "Hacker News 204 分 · 48 則留言",
+      "en": "204 points · 48 comments on Hacker News",
+      "ja": "Hacker News 204 ポイント · コメント 48 件",
+      "ko": "Hacker News 204점 · 댓글 48개",
+      "ms": "204 mata · 48 komen di Hacker News",
+      "vi": "204 điểm · 48 bình luận trên Hacker News",
+      "fr": "204 points · 48 commentaires sur Hacker News",
+      "es": "204 puntos · 48 comentarios en Hacker News",
+      "de": "204 Punkte · 48 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/google-pytorch/torch_tpu",
+     "src": "github.com",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50169053"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50168396",
+     "title": {
+      "zh-Hans": "阴道3",
+      "zh-Hant": "陰道3",
+      "en": "Voxtral 3",
+      "ja": "ヴォークストラル 3",
+      "ko": "보류 3",
+      "ms": "Vohifakstral 3",
+      "vi": "Name",
+      "fr": "Voxtral 3",
+      "es": "Voxtral 3",
+      "de": "Voxtral 3"
+     },
+     "summary": {
+      "en": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+      "zh-Hans": "Voxtral 3:Mistral的语音代理SDK用于50+语言的实时语音——准确的转录,情感的TTS,深层的工具使用. 欧盟主办或自行部署。",
+      "ja": "Voxtral 3: 50以上の言語でリアルタイムのスピーチのためのMistralのボイスエージェントSDK — 正確な転写、感情的なTTS、ディープツールの使用。 EUのホストまたは自己採用。",
+      "ko": "Voxtral 3 : 50 + 언어의 실시간 연설을위한 Mistral의 음성 에이전트 SDK - 정확한 transcription, 정서적 TTS, 깊은 도구 사용. EU 호스팅 또는 자체 배포.",
+      "ms": "Voxtral 3: Agen suara Mistral SDK untuk pidato real-time dalam 50+ bahasa — transkripsi akurat, TTS emosional, penggunaan alat yang dalam. UE-hosted atau self-deployed.",
+      "vi": "Voxtral 3: tác nhân giọng nói của Mistral SDK cho bài phát biểu thực tế trong 50 ngôn ngữ+ — chuyển ngữ chính xác, TTS, sử dụng công cụ sâu. Bị ám ảnh hoặc tự phá sản.",
+      "fr": "Voxtral 3: l'agent vocal de Mistral SDK pour la parole en temps réel en 50 langues+ — transcription précise, TTS émotionnel, utilisation d'outils profonds. L'UE a accueilli ou déployé elle-même.",
+      "es": "Voxtral 3: El agente de voz de Mistral SDK para el discurso en tiempo real en más de 50 idiomas — transcripción precisa, TTS emocionales, uso de herramientas profundas. La UE hospeda o autodesplegada.",
+      "de": "Voxtral 3: Mistral's Voice Agent SDK für Echtzeit-Sprache in 50+ Sprachen - genaue Transkription, emotionale TTS, tiefe Werkzeugnutzung. EU-gehostet oder selbst eingesetzt.",
+      "zh-Hant": "Voxtral 3:Mistral的語音代理SDK用於50+語言的實時語音——準確的轉錄,情感的TTS,深層的工具使用. 歐盟主辦或自行部署。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 442 分 · 121 条评论",
+      "zh-Hant": "Hacker News 442 分 · 121 則留言",
+      "en": "442 points · 121 comments on Hacker News",
+      "ja": "Hacker News 442 ポイント · コメント 121 件",
+      "ko": "Hacker News 442점 · 댓글 121개",
+      "ms": "442 mata · 121 komen di Hacker News",
+      "vi": "442 điểm · 121 bình luận trên Hacker News",
+      "fr": "442 points · 121 commentaires sur Hacker News",
+      "es": "442 puntos · 121 comentarios en Hacker News",
+      "de": "442 Punkte · 121 Kommentare auf Hacker News"
+     },
+     "url": "https://mistral.ai/news/voxtral-3/",
+     "src": "mistral.ai",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50168396"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50162177",
+     "title": {
+      "zh-Hans": "microG:Google专有Android用户空间的 Free-libre 重新应用",
+      "zh-Hant": "microG:Google專有Android使用者空間的 Free-libre 重新應用",
+      "en": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "ja": "MicroG: Google独自のAndroidユーザースペースの無料リブレーション",
+      "ko": "MicroG : Google의 독점적 인 Android 사용자 공간의 무료 심층적 인 백업",
+      "ms": "MicroG: Re-implementasi bebas-libre dari ruang pengguna Android proprietari Google",
+      "vi": "MicroG:",
+      "fr": "MicroG: Remise en œuvre gratuite de l'espace utilisateur Android de Google",
+      "es": "MicroG: Reaplicación gratuita del espacio de usuario de Google Android",
+      "de": "MicroG: Free-libre Re-Implementierung des proprietären Android-Benutzerbereichs von Google"
+     },
+     "summary": {
+      "en": "Free implementation of Play Services",
+      "zh-Hans": "免费执行游戏服务",
+      "ja": "Playサービスの無料導入",
+      "ko": "Play Services의 무료 구현",
+      "ms": "implementasi gratis dari Layanan Main",
+      "vi": "Giải phóng các dịch vụ trò chơi",
+      "fr": "Implémentation gratuite de Play Services",
+      "es": "Aplicación gratuita de los servicios de juegos",
+      "de": "Kostenlose Implementierung von Play Services",
+      "zh-Hant": "免費執行遊戲服務"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 359 分 · 77 条评论",
+      "zh-Hant": "Hacker News 359 分 · 77 則留言",
+      "en": "359 points · 77 comments on Hacker News",
+      "ja": "Hacker News 359 ポイント · コメント 77 件",
+      "ko": "Hacker News 359점 · 댓글 77개",
+      "ms": "359 mata · 77 komen di Hacker News",
+      "vi": "359 điểm · 77 bình luận trên Hacker News",
+      "fr": "359 points · 77 commentaires sur Hacker News",
+      "es": "359 puntos · 77 comentarios en Hacker News",
+      "de": "359 Punkte · 77 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/microg/GmsCore/wiki",
+     "src": "github.com",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50162177"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50165953",
+     "title": {
+      "zh-Hans": "Tsrs: 类型脚本到 Rust 的端口",
+      "zh-Hant": "Tsrs: 型別指令碼到 Rust 的埠",
+      "en": "Tsrs: A Port of TypeScript to Rust",
+      "ja": "Tsrs: TypeScriptからRustへのポート",
+      "ko": "Tsrs: TypeScript의 포트",
+      "ms": "TypeScript to Rust",
+      "vi": "Tsrs: Một Port of TypeSQL to Rust",
+      "fr": "Tsrs: Un port de caractères à rouille",
+      "es": "Tsrs: Un puerto de TipoScript a Rust",
+      "de": "Tsrs: Ein Port von TypeScript nach Rust"
+     },
+     "summary": {
+      "en": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
+      "zh-Hans": "Cloudflare正在合作 tsrs,TypeScript的Rust端口,速度可达8x,使用内存减少70%.",
+      "ja": "Cloudflare は、最大 8 倍の TypeScript の Rust ポートを tsrs で連携し、70% のメモリを使用する。",
+      "ko": "Cloudflare는 tsrs에서 협업하고, TypeScript의 Rust 포트는 최대 8x의 빠르고 70%의 메모리를 사용합니다.",
+      "ms": "Aquidon Cloudflare berkolaborasi pada tsrs, sebuah pelabuhan Rust dari TypeScript yang hingga 8x lebih cepat dan menggunakan memori kurang 70%.",
+      "vi": "Mây đang hợp tác với nhau trên tsss, một cảng Rust TypeSuter có thể nhanh hơn 8x và giảm 70% bộ nhớ.",
+      "fr": "Cloudflare collabore sur tsrs, un port Rust de TypeScript qui est jusqu'à 8x plus rapide et utilise 70% moins de mémoire.",
+      "es": "Cloudflare está colaborando en tsrs, un puerto de Rust de TypeScript que es hasta 8x más rápido y utiliza 70% menos memoria.",
+      "de": "Cloudflare arbeitet an tsrs, einem Rust-Port von TypeScript, der bis zu 8x schneller ist und 70% weniger Speicher verbraucht.",
+      "zh-Hant": "Cloudflare正在合作 tsrs,TypeScript的Rust埠,速度可達8x,使用記憶體減少70%."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 299 分 · 140 条评论",
+      "zh-Hant": "Hacker News 299 分 · 140 則留言",
+      "en": "299 points · 140 comments on Hacker News",
+      "ja": "Hacker News 299 ポイント · コメント 140 件",
+      "ko": "Hacker News 299점 · 댓글 140개",
+      "ms": "299 mata · 140 komen di Hacker News",
+      "vi": "299 điểm · 140 bình luận trên Hacker News",
+      "fr": "299 points · 140 commentaires sur Hacker News",
+      "es": "299 puntos · 140 comentarios en Hacker News",
+      "de": "299 Punkte · 140 Kommentare auf Hacker News"
+     },
+     "url": "https://blog.cloudflare.com/typescript-rust-port/",
+     "src": "blog.cloudflare.com",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50165953"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50167286",
+     "title": {
+      "zh-Hans": "VoidAccess – 开源暗网 OSINT,从查询到图表",
+      "zh-Hant": "VoidAccess – 開源暗網 OSINT,從查詢到圖表",
+      "en": "VoidAccess – open-source dark web OSINT, from query to a graph",
+      "ja": "VoidAccess - クエリからグラフまで、オープンソースのダークウェブOSINT",
+      "ko": "VoidAccess – 오픈 소스 다크 웹 OSINT, 쿼리에서 그래프에",
+      "ms": "Voidaccess – open-source web gelap OSINT, dari pertanyaan ke grafik",
+      "vi": "Name",
+      "fr": "VoidAccess – open-source dark web OSINT, de la requête à un graphique",
+      "es": "VoidAccess – open-source dark web OSINT, from query to a graph",
+      "de": "VoidAccess – Open-Source Dark Web OSINT, von der Abfrage bis zum Graph"
+     },
+     "summary": {
+      "en": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
+      "zh-Hans": "自办暗网OSINT平台. 从查询到图表的自动化威胁情报分13个步骤. 自由替代录制未来,DarkOwl,和Flare.",
+      "ja": "セルフホストダークウェブOSINTプラットフォーム。 クエリからグラフまでの自動脅威インテリジェンスを13ステップでグラフ化します。 記録された未来、DarkOwlおよび火炎への自由な代わり。",
+      "ko": "Self-hosted 어두운 웹 OSINT 플랫폼. 쿼리에서 13 단계의 그래프로 자동화 된 위협 인텔리전스. 미래, DarkOwl 및 Flare에 대한 무료 대안.",
+      "ms": "Platform OSINT web gelap berwawasan sendiri. Kecerdasan ancaman otomatis dari pertanyaan ke grafik dalam 13 langkah. Alternatif Free untuk Recorded Future, DarkOwl, dan Flare.",
+      "vi": "Một nền tảng tối tăm trên mạng. Trí thông minh tự động từ truy vấn đến đồ thị trong 13 bước. Tự do thay thế cho Ghi chép Future, DarkOwl, và Flare.",
+      "fr": "Plateforme OSINT sur le Web sombre auto-accueillée. Renseignements automatisés sur les menaces de la requête au graphique en 13 étapes. Une alternative gratuite à l'avenir enregistré, DarkOwl, et Flare.",
+      "es": "Plataforma OSINT web oscura auto hospedada. Inteligencia de amenaza automatizada de la consulta a la gráfica en 13 pasos. Libre alternativa al Futuro Grabado, DarkOwl y Flare.",
+      "de": "Selbst gehostete Dark Web OSINT Plattform. Automatisierte Threat Intelligence von Abfrage zu Graph in 13 Schritten. Kostenlose Alternative zu Recorded Future, DarkOwl und Flare.",
+      "zh-Hant": "自辦暗網OSINT平臺. 從查詢到圖表的自動化威脅情報分13個步驟. 自由替代錄制未來,DarkOwl,和Flare."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 124 分 · 13 条评论",
+      "zh-Hant": "Hacker News 124 分 · 13 則留言",
+      "en": "124 points · 13 comments on Hacker News",
+      "ja": "Hacker News 124 ポイント · コメント 13 件",
+      "ko": "Hacker News 124점 · 댓글 13개",
+      "ms": "124 mata · 13 komen di Hacker News",
+      "vi": "124 điểm · 13 bình luận trên Hacker News",
+      "fr": "124 points · 13 commentaires sur Hacker News",
+      "es": "124 puntos · 13 comentarios en Hacker News",
+      "de": "124 Punkte · 13 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/KatrielMoses/voidaccess",
+     "src": "github.com",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50167286"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50163961",
+     "title": {
+      "zh-Hans": "谷歌云断电影响欧洲几乎所有银行业务和其他业务",
+      "zh-Hant": "谷歌雲斷電影響歐洲幾乎所有銀行業務和其他業務",
+      "en": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "ja": "Google Cloud の停電は、ほぼすべての銀行や他のヨーロッパの操作に影響を与えます",
+      "ko": "Google Cloud Outage는 유럽에서 거의 모든 은행 및 기타 작업에 영향을 미칩니다.",
+      "ms": "Kehabisan Google Cloud mempengaruhi hampir semua perbankan dan operasi lainnya di Eropa",
+      "vi": "Google Cloud outage ảnh hưởng đến hầu hết các hoạt động ngân hàng và các hoạt động khác ở Âu Châu",
+      "fr": "La panne de Google Cloud affecte presque toutes les opérations bancaires et autres en Europe",
+      "es": "Google Cloud outage afecta casi todas las operaciones bancarias y de otro tipo en Europa",
+      "de": "Google Cloud-Ausfall betrifft fast alle Bank- und anderen Operationen in Europa"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 neowin.net。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 neowin.net。",
+      "en": "Shared on Hacker News; original at neowin.net.",
+      "ja": "Hacker News で共有されたリンク。元記事は neowin.net にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 neowin.net에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di neowin.net.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại neowin.net.",
+      "fr": "Partagé sur Hacker News ; original sur neowin.net.",
+      "es": "Compartido en Hacker News; original en neowin.net.",
+      "de": "Geteilt auf Hacker News; Original auf neowin.net."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 283 分 · 145 条评论",
+      "zh-Hant": "Hacker News 283 分 · 145 則留言",
+      "en": "283 points · 145 comments on Hacker News",
+      "ja": "Hacker News 283 ポイント · コメント 145 件",
+      "ko": "Hacker News 283점 · 댓글 145개",
+      "ms": "283 mata · 145 komen di Hacker News",
+      "vi": "283 điểm · 145 bình luận trên Hacker News",
+      "fr": "283 points · 145 commentaires sur Hacker News",
+      "es": "283 puntos · 145 comentarios en Hacker News",
+      "de": "283 Punkte · 145 Kommentare auf Hacker News"
+     },
+     "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+     "src": "neowin.net",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50163961"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50167617",
+     "title": {
+      "zh-Hans": "捷夫卡片, 你能在试镜时打败视觉模特吗?",
+      "zh-Hant": "捷夫卡片, 你能在試鏡時打敗視覺模特嗎?",
+      "en": "Jev Cards, Can you beat a vision model at a picture quiz?",
+      "ja": "Jevカード, 映像クイズでビジョンモデルを打つことはできますか?",
+      "ko": "Jev 카드, 그림 퀴즈에서 비전 모델을 이길 수 있습니까?",
+      "ms": "Kartu Jev, Anda dapat mengalahkan model penglihatan pada kuiz gambar?",
+      "vi": "Jev Cards, Bạn có thể đánh bại một mô hình tầm nhìn tại một bài kiểm tra hình ảnh?",
+      "fr": "Cartes Jev, Pouvez-vous battre un modèle de vision lors d'un quiz d'image ?",
+      "es": "Jev Cards, ¿Puedes vencer a un modelo de visión en una prueba de imagen?",
+      "de": "Jev Cards, Kannst du ein Vision-Modell bei einem Bildquiz schlagen?"
+     },
+     "summary": {
+      "en": "100 picture cards: fruit, flags, maps, chess, illusions. Jev answers in about 0.3 s. Race it in Sprint, Versus or Streak.",
+      "zh-Hans": "100张图片卡:水果,旗帜,地图,围棋,幻象. 捷夫在约0.3 s 中回答,在Sprint, Versus 或 Streak 中进行比赛.",
+      "ja": "100枚の写真カード:フルーツ、旗、地図、チェス、イラスト。 Jevは、約0.3秒で答えます。スプリント、VersusまたはStreakでそれをレースします。",
+      "ko": "100개의 그림 카드: 과일, 깃발, 지도, 체, 환상. 약 0.3 s의 Jev 답변. Sprint, Versus 또는 Streak에서 레이스.",
+      "ms": "100 kartu gambar: buah, bendera, peta, catur, ilusi. Jev menjawab sekitar 0.3 s. Berlomba dalam Sprint, Versus atau Streak.",
+      "vi": "100 tấm thiếp: trái cây, lá cờ, bản đồ, cờ vua, ảo giác. Jev trả lời trong 0,3 s. đua nó trong Sprint, so sánh hoặc Streak.",
+      "fr": "100 cartes : fruits, drapeaux, cartes, échecs, illusions. Jev répond en 0.3 s. Race it in Sprint, Versus ou Streak.",
+      "es": "100 tarjetas de imagen: fruta, banderas, mapas, ajedrez, ilusiones. Jev responde en alrededor de 0.3 s. Carrera en Sprint, Versus o Streak.",
+      "de": "100 Bildkarten: Obst, Flaggen, Karten, Schach, Illusionen. Jev antwortet in etwa 0,3 s. Race it in Sprint, Versus oder Streak.",
+      "zh-Hant": "100張圖片卡:水果,旗幟,地圖,圍棋,幻象. 捷夫在約0.3 s 中回答,在Sprint, Versus 或 Streak 中進行比賽."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 54 分 · 47 条评论",
+      "zh-Hant": "Hacker News 54 分 · 47 則留言",
+      "en": "54 points · 47 comments on Hacker News",
+      "ja": "Hacker News 54 ポイント · コメント 47 件",
+      "ko": "Hacker News 54점 · 댓글 47개",
+      "ms": "54 mata · 47 komen di Hacker News",
+      "vi": "54 điểm · 47 bình luận trên Hacker News",
+      "fr": "54 points · 47 commentaires sur Hacker News",
+      "es": "54 puntos · 47 comentarios en Hacker News",
+      "de": "54 Punkte · 47 Kommentare auf Hacker News"
+     },
+     "url": "https://jevcards.com",
+     "src": "jevcards.com",
+     "date": "2026-10-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50167617"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50152466",
+     "title": {
+      "zh-Hans": "Maxwell:一种位于代码和硬件之间的新型模型",
+      "zh-Hant": "Maxwell:一種位於程式碼和硬體之間的新型模型",
+      "en": "Maxwell: A new kind of model that sits between code and hardware",
+      "ja": "Maxwell:コードとハードウェアの間に座る新しい種類のモデル",
+      "ko": "Maxwell: 부호와 기계설비 사이에서 앉는 모형의 새로운 종류",
+      "ms": "Model baru yang terletak di antara kode dan perangkat keras",
+      "vi": "Maxwell: một kiểu mô hình mới nằm giữa mã và phần cứng",
+      "fr": "Maxwell: Un nouveau modèle qui se situe entre le code et le matériel",
+      "es": "Maxwell: Un nuevo tipo de modelo que se encuentra entre código y hardware",
+      "de": "Maxwell: Eine neue Art von Modell, das zwischen Code und Hardware sitzt"
+     },
+     "summary": {
+      "en": "Maxwell improves code while it runs, adapting to hardware and data. Every improvement is formally proven equivalent to the original code.",
+      "zh-Hans": "Maxwell在运行时改进代码,适应硬件和数据. 每一次改进都被正式证明相当于原来的代码.",
+      "ja": "Maxwell は、ハードウェアとデータに適応し、実行中にコードを改善します。 元のコードと同等の改善が正式に証明されます。",
+      "ko": "Maxwell은 하드웨어 및 데이터에 적응하면서 코드를 개선합니다. 모든 개선은 원본 코드와 동일하게 입증됩니다.",
+      "ms": "Maxwell memperbaiki kode saat berjalan, menyesuaikan diri dengan perangkat keras dan data. Setiap peningkatan secara formal terbukti setara dengan kode asli.",
+      "vi": "Maxwell cải thiện mật mã khi nó chạy, thích nghi với phần cứng và dữ liệu. Mọi tiến bộ đều được chứng minh bằng mã gốc.",
+      "fr": "Maxwell améliore le code pendant qu'il fonctionne, s'adaptant au matériel et aux données. Chaque amélioration est formellement prouvée équivalente au code original.",
+      "es": "Maxwell mejora el código mientras funciona, adaptándose a hardware y datos. Cada mejora se demuestra formalmente equivalente al código original.",
+      "de": "Maxwell verbessert den Code während der Ausführung und passt sich an Hardware und Daten an. Jede Verbesserung ist formal als gleichwertig mit dem ursprünglichen Code erwiesen.",
+      "zh-Hant": "Maxwell在執行時改進程式碼,適應硬體和資料. 每一次改進都被正式證明相當於原來的程式碼."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 126 分 · 60 条评论",
+      "zh-Hant": "Hacker News 126 分 · 60 則留言",
+      "en": "126 points · 60 comments on Hacker News",
+      "ja": "Hacker News 126 ポイント · コメント 60 件",
+      "ko": "Hacker News 126점 · 댓글 60개",
+      "ms": "126 mata · 60 komen di Hacker News",
+      "vi": "126 điểm · 60 bình luận trên Hacker News",
+      "fr": "126 points · 60 commentaires sur Hacker News",
+      "es": "126 puntos · 60 comentarios en Hacker News",
+      "de": "126 Punkte · 60 Kommentare auf Hacker News"
+     },
+     "url": "https://heymaxwell.ai/",
+     "src": "heymaxwell.ai",
+     "date": "2026-10-19",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50163502",
+     "title": {
+      "zh-Hans": "AfD 泄漏: 关于德国极右翼的421 179 黑客邮件展",
+      "zh-Hant": "AfD 洩漏: 關於德國極右翼的421 179 駭客郵件展",
+      "en": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "ja": "AfDリーク: 何が 421,179 ハックされた電子メールは、ドイツ極右について表示",
+      "ko": "AfD 누출 : 무엇 421,179 해킹 이메일 독일 Far 권리에 대한 쇼",
+      "ms": "Bocoran AfD: Apa yang 421.179 Hacked Emails Tampilkan tentang Kanan Jauh Jerman",
+      "vi": "AfD Leak: Số 421.179 email đã hack cho thấy về tay phải Đức",
+      "fr": "AfD fuite: Qu'est-ce que 421,179 Hacked Emails Montrer sur l'Allemagne d'extrême droite",
+      "es": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "de": "AfD Leak: Was 421.179 Hacked Emails über die deutsche Rechtsextreme zeigen"
+     },
+     "summary": {
+      "en": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct.",
+      "zh-Hans": "黑客发表281GB的AfD电子邮件作为AI摘要,显示广泛存在反分裂主义,种族主义,暴力幻想和涉嫌财务不当行为.",
+      "ja": "ハッカーは、AIの要約としてAfDメールの281 GBを出版しました, ワイドスプレッドの偽造を提示, 狂気, 暴力的なファンタシーと有形金融不正行為.",
+      "ko": "해커는 AI summaries로 281 GB의 AfD 이메일을 발표했으며, 광범위한 antisemitism, racism, 폭력적인 fantasies 및 할당 된 금융 misconduct를 보여줍니다.",
+      "ms": "Hackers telah menerbitkan 281 GB dari email AfD sebagai AI summaries, menunjukkan antisemitisme, rasisme, fantasi kekerasan dan dugaan pelanggaran keuangan.",
+      "vi": "Hackers đã xuất bản 281 GB của email AfD như các bản tóm tắt của AI, cho thấy sự chống viêm khớp, phân biệt chủng tộc, ảo tưởng bạo lực và bị cáo buộc về tài chính.",
+      "fr": "Les pirates ont publié 281 Go d'emails d'AfD sous forme de résumés AI, montrant l'antisémitisme généralisée, le racisme, les fantasmes violents et les allégations de faute financière.",
+      "es": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct.",
+      "de": "Hacker haben 281 GB AfD-E-Mails als KI-Zusammenfassungen veröffentlicht, die weit verbreiteten Antisemitismus, Rassismus, gewalttätige Fantasien und angebliches finanzielles Fehlverhalten zeigen.",
+      "zh-Hant": "駭客發表281GB的AfD電子郵件作為AI摘要,顯示廣泛存在反分裂主義,種族主義,暴力幻想和涉嫌財務不當行為."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 363 分 · 521 条评论",
+      "zh-Hant": "Hacker News 363 分 · 521 則留言",
+      "en": "363 points · 521 comments on Hacker News",
+      "ja": "Hacker News 363 ポイント · コメント 521 件",
+      "ko": "Hacker News 363점 · 댓글 521개",
+      "ms": "363 mata · 521 komen di Hacker News",
+      "vi": "363 điểm · 521 bình luận trên Hacker News",
+      "fr": "363 points · 521 commentaires sur Hacker News",
+      "es": "363 puntos · 521 comentarios en Hacker News",
+      "de": "363 Punkte · 521 Kommentare auf Hacker News"
+     },
+     "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+     "src": "heistberlin.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50167583",
+     "title": {
+      "zh-Hans": "respan (YC W24) – 围绕插件构建的开源 Rust AI网关",
+      "zh-Hant": "respan (YC W24) – 圍繞外掛構建的開源 Rust AI閘道器",
+      "en": "Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "ja": "Respan(YC W24) - プラグインを中心に構築されたオープンソースのRust AIゲートウェイ",
+      "ko": "Respan (YC W24) - 플러그인 주위에 건설 된 오픈 소스 Rust AI 게이트웨이",
+      "ms": "gateway Open-source Rust AI dibangun di sekitar plugin",
+      "vi": "Respan (YC W24) – Cửa ra Open-source Rust Al xây chung quanh bổ sung",
+      "fr": "Respan (YC W24) – passerelle d'IA Rust Open-source construite autour de plugins",
+      "es": "Respan (YC W24) – Open-source Rust AI gateway construido alrededor de plugins",
+      "de": "Respan (YC W24) – Open-Source Rust AI Gateway auf Basis von Plugins"
+     },
+     "summary": {
+      "en": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers…",
+      "zh-Hans": "这是来自Respan的安迪(https://www.respan.ai)。 我们正在建立一个开源的 Rust AI网关。 它是一个脱钩的网关,所以一切都是一个插件,包括不同的提供者...",
+      "ja": "こんにちは、これはRespan(https://www.respan.ai)からアンディです。 オープンソースのRust AIゲートウェイを構築しています。 それはデカップリングされたゲートウェイです。そのため、すべてが異なるプロバイダを含むプラグインです...",
+      "ko": "Hey HN, 이것은 Respan ( https://www.respan.ai )에서 Andy입니다. 오픈소스 Rust AI 게이트웨이를 구축하고 있습니다. 그것은 decoupled 게이트웨이, 그래서 모든 플러그인, 다른 공급자를 포함...",
+      "ms": "Hey HN, ini Andy dari Respan ( https://www.respan.ai ). Kami sedang membangun sebuah terbuka sumber Rust AI gateway. Ini adalah gerbang decoupled, jadi semuanya adalah plugin, termasuk penyedia yang berbeda ...",
+      "vi": "Hey HN, đây là Andy từ Respan ( https vội.respan.ai). Chúng tôi đang xây một cổng mở của Rust Al. Nó là một cánh cổng bị tách rời, nên mọi thứ đều là một bổ sung, bao gồm những nhà cung cấp khác nhau...",
+      "fr": "Hey HN, voici Andy de Respan ( https://www.respan.ai ). Nous construisons une passerelle Rust AI. C'est une passerelle découplée, donc tout est un plugin, incluant différents fournisseurs...",
+      "es": "Hola HN, soy Andy de Respan (https://www.respan.ai). Estamos construyendo una puerta de entrada abierta de Rust AI. Es un portal decodificado, así que todo es un plugin, incluyendo diferentes proveedores...",
+      "de": "Hey HN, das ist Andy von Respan ( https://www.respan.ai ). Wir bauen ein Open-Source Rust AI Gateway. Es ist ein entkoppeltes Gateway, also ist alles ein Plugin, einschließlich verschiedener Anbieter ...",
+      "zh-Hant": "這是來自Respan的安迪(https://www.respan.ai)。 我們正在建立一個開源的 Rust AI閘道器。 它是一個脫鉤的閘道器,所以一切都是一個外掛,包括不同的提供者..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 34 分 · 14 条评论",
+      "zh-Hant": "Hacker News 34 分 · 14 則留言",
+      "en": "34 points · 14 comments on Hacker News",
+      "ja": "Hacker News 34 ポイント · コメント 14 件",
+      "ko": "Hacker News 34점 · 댓글 14개",
+      "ms": "34 mata · 14 komen di Hacker News",
+      "vi": "34 điểm · 14 bình luận trên Hacker News",
+      "fr": "34 points · 14 commentaires sur Hacker News",
+      "es": "34 puntos · 14 comentarios en Hacker News",
+      "de": "34 Punkte · 14 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50167583",
+     "src": "news.ycombinator.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50170593",
+     "title": {
+      "zh-Hans": "SimCity, 但持有许可证",
+      "zh-Hant": "SimCity, 但持有許可證",
+      "en": "SimCity, but with Permits",
+      "ja": "シムシティ、しかし、ペルミットと",
+      "ko": "SimCity, 하지만 허가",
+      "ms": "Bandar SimCity, tetapi dengan Permit",
+      "vi": "SimCity, nhưng với quyền hạn",
+      "fr": "SimCity, mais avec permis",
+      "es": "SimCity, pero con permisos",
+      "de": "SimCity, aber mit Genehmigungen"
+     },
+     "summary": {
+      "en": "Build the city of your dreams. Subject to approval. A free city builder about zoning, hearings, lawsuits and reelection.",
+      "zh-Hans": "建汝梦之城. 须经批准。 一个自由的城市建设者 关于分区,听证会,诉讼和连任。",
+      "ja": "夢の街づくり 承認の対象となる場合 ゾーニング、ヒアリング、訴訟、および是正に関する無料の都市ビルダー。",
+      "ko": "당신의 꿈의 도시를 구축. 승인 대상 zoning, 보청기, 소송 및 재벌에 대한 무료 도시 빌더.",
+      "ms": "Membangun kota impianmu. Subjek untuk disetujui. Pembangun kota bebas tentang wilayah, sidang, tuntutan hukum dan pemilihan kembali.",
+      "vi": "Xây dựng thành phố trong mơ. Đối tượng chấp thuận. Một công ty xây dựng thành phố tự do về quy hoạch, phiên điều trần, kiện và tái tranh cử.",
+      "fr": "Construisez la ville de vos rêves. Sous réserve d'approbation. Un constructeur de ville libre sur le zonage, les audiences, les procès et la réélection.",
+      "es": "Construye la ciudad de tus sueños. Sujeto a aprobación. Un constructor urbano libre sobre zonificación, audiencias, demandas y reelección.",
+      "de": "Baue die Stadt deiner Träume. Genehmigungspflichtig. Ein freier Stadtbauer über Zoning, Anhörungen, Klagen und Wiederwahl.",
+      "zh-Hant": "建汝夢之城. 須經批准。 一個自由的城市建設者 關於分割槽,聽證會,訴訟和連任。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 345 分 · 183 条评论",
+      "zh-Hant": "Hacker News 345 分 · 183 則留言",
+      "en": "345 points · 183 comments on Hacker News",
+      "ja": "Hacker News 345 ポイント · コメント 183 件",
+      "ko": "Hacker News 345점 · 댓글 183개",
+      "ms": "345 mata · 183 komen di Hacker News",
+      "vi": "345 điểm · 183 bình luận trên Hacker News",
+      "fr": "345 points · 183 commentaires sur Hacker News",
+      "es": "345 puntos · 183 comentarios en Hacker News",
+      "de": "345 Punkte · 183 Kommentare auf Hacker News"
+     },
+     "url": "https://permit.petercai.com/",
+     "src": "permit.petercai.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50166579",
+     "title": {
+      "zh-Hans": "EMudhra CA 中级妥协",
+      "zh-Hant": "EMudhra CA 中級妥協",
+      "en": "EMudhra Intermediate CA Compromise",
+      "ja": "EMudhra Intermediate CA Compromise",
+      "ko": "EMudhra 중간 CA Compromise",
+      "ms": "Kompromi CA Pertengahan EMudra",
+      "vi": "Name",
+      "fr": "EMudhra Compromise intermédiaire CA",
+      "es": "EMudhra Intermediate CA Compromise",
+      "de": "EMudhra Intermediate CA Kompromiss"
+     },
+     "summary": {
+      "en": "The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream…",
+      "zh-Hans": "8个eMudhra中间 CA证书的私钥已失密. 他们连结到Mozilla,微软,苹果和Chrome根程序以及许多下游...",
+      "ja": "8つのeMudhra中間のCAの証明書の秘密鍵は妥協されています。 彼らは、Mozilla、Microsoft、Apple、Chromeのルートプログラムによって信頼され、多くの下流によって根絶するチェーン...",
+      "ko": "8개의 eMudhra 중간 CA 증명서의 개인적인 열쇠는 타협되었습니다. 그들은 모질라, Microsoft, Apple 및 Chrome 루트 프로그램에 의해 신뢰할 수있는 뿌리에 체인과 많은 다운스트림 ...",
+      "ms": "Kunci pribadi delapan sertifikat CA eMudhra menengah telah dikompromikan. Mereka rantai ke akar dipercaya oleh Mozilla, Microsoft, Apple dan program akar Chrome dan oleh banyak hilir ...",
+      "vi": "Chìa khóa của 8 chứng chỉ CA trung gian đã bị xâm nhập. Chúng kết nối với nguồn gốc được tin tưởng bởi Mozilla, Microsoft, Apple và Chrome root và bởi nhiều dòng chảy...",
+      "fr": "Les clés privées de huit certificats de CA intermédiaires eMudhra ont été compromises. Ils chaînent aux racines de confiance par le Mozilla, Microsoft, les programmes racine Apple et Chrome et par beaucoup en aval...",
+      "es": "Las claves privadas de ocho certificados de CA intermedio eMudhra han sido comprometidas. Cadena a raíces confiadas por los programas de Mozilla, Microsoft, Apple y Chrome root y por muchos...",
+      "de": "Die privaten Schlüssel von acht eMudhra-Zwischenzertifikaten wurden kompromittiert. Sie ketten sich an Wurzeln, denen die Mozilla-, Microsoft-, Apple- und Chrome-Root-Programme und viele nachgelagerte...",
+      "zh-Hant": "8個eMudhra中間 CA證書的私鑰已失密. 他們連結到Mozilla,微軟,蘋果和Chrome根程式以及許多下游..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 495 分 · 271 条评论",
+      "zh-Hant": "Hacker News 495 分 · 271 則留言",
+      "en": "495 points · 271 comments on Hacker News",
+      "ja": "Hacker News 495 ポイント · コメント 271 件",
+      "ko": "Hacker News 495점 · 댓글 271개",
+      "ms": "495 mata · 271 komen di Hacker News",
+      "vi": "495 điểm · 271 bình luận trên Hacker News",
+      "fr": "495 points · 271 commentaires sur Hacker News",
+      "es": "495 puntos · 271 comentarios en Hacker News",
+      "de": "495 Punkte · 271 Kommentare auf Hacker News"
+     },
+     "url": "https://emudhra.we-have-a-problem.com/",
+     "src": "emudhra.we-have-a-problem.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50167536",
+     "title": {
+      "zh-Hans": "Facebook网页要求每月付费订阅两个以上链接",
+      "zh-Hant": "Facebook網頁要求每月付費訂閱兩個以上鍊接",
+      "en": "Facebook Pages require paid subscription to post more than two links per month",
+      "ja": "Facebookページでは、毎月2つ以上のリンクを投稿するために有料のサブスクリプションが必要です",
+      "ko": "Facebook 페이지는 매월 두 개 이상의 링크를 게시하는 유료 구독이 필요합니다.",
+      "ms": "Halaman Facebook facebook memerlukan langganan berbayar untuk memposting lebih dari dua tautan per bulan",
+      "vi": "Facebook đòi hỏi đăng ký dài hạn để đăng hơn hai liên kết mỗi tháng",
+      "fr": "Les pages Facebook nécessitent un abonnement payant pour afficher plus de deux liens par mois",
+      "es": "Facebook Pages requiere suscripción pagada para publicar más de dos enlaces por mes",
+      "de": "Facebook-Seiten erfordern ein kostenpflichtiges Abonnement, um mehr als zwei Links pro Monat zu posten"
+     },
+     "summary": {
+      "en": "Attached: 1 image Facebook achieving absurd new heights of enshittification by now charging a subscription of at least $50/mo to... post more than two links a month to your own Facebook page.",
+      "zh-Hans": "随附: 1 张图片脸书实现荒谬的新高度,",
+      "ja": "添付: 1 枚のイメージ Facebook は、少なくとも $50/mo のサブスクリプションを充電することにより、新しい高さを埋めるために達成します。... あなた自身の Facebook ページに 1 か月以上リンクを投稿します。",
+      "ko": "첨부: 1 이미지 페이스 북 달성 absurd 새로운 높이의 enshittification 로 지금의 가입을 충전 $ 50/mo 에... 게시물 더 많은 링크 두 달에 자신의 페이스 북 페이지.",
+      "ms": "Dilampirkan: 1 gambar Facebook mencapai ketinggian baru yang absurd dari enshittification sekarang pengisian langganan setidaknya $50/mo untuk ... posting lebih dari dua link sebulan ke halaman Facebook Anda sendiri.",
+      "vi": "Đính kèm: 1 hình ảnh Facebook đạt được độ cao mới vô lý của phân giải bằng cách tính tiền đăng ký ít nhất là 50/mo để... đăng tải hơn 2 liên kết mỗi tháng lên Facebook của bạn.",
+      "fr": "Attaché : 1 image Facebook réalisant de nouveaux sommets absurdes d'enshittification en chargeant maintenant un abonnement d'au moins 50 $/mois à... postez plus de deux liens par mois sur votre propre page Facebook.",
+      "es": "Agregado: 1 imagen Facebook logrando absurdas nuevas alturas de enshittificación cargando ahora una suscripción de al menos $50/mo a... publicar más de dos enlaces al mes a su propia página de Facebook.",
+      "de": "Angefügt: 1 Bild Facebook erreicht absurde neue Höhen der Verschönerung, indem es jetzt ein Abonnement von mindestens $ 50 / Monat berechnet, um ... mehr als zwei Links pro Monat auf Ihre eigene Facebook-Seite zu posten.",
+      "zh-Hant": "隨附: 1 張圖片臉書實現荒謬的新高度,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 386 分 · 339 条评论",
+      "zh-Hant": "Hacker News 386 分 · 339 則留言",
+      "en": "386 points · 339 comments on Hacker News",
+      "ja": "Hacker News 386 ポイント · コメント 339 件",
+      "ko": "Hacker News 386점 · 댓글 339개",
+      "ms": "386 mata · 339 komen di Hacker News",
+      "vi": "386 điểm · 339 bình luận trên Hacker News",
+      "fr": "386 points · 339 commentaires sur Hacker News",
+      "es": "386 puntos · 339 comentarios en Hacker News",
+      "de": "386 Punkte · 339 Kommentare auf Hacker News"
+     },
+     "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+     "src": "mastodon.gamedev.place",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50165208",
+     "title": {
+      "zh-Hans": "苹果打破了 iPads 的基本演示功能",
+      "zh-Hant": "蘋果打破了 iPads 的基本演示功能",
+      "en": "Apple broke an essential presentation feature of iPads",
+      "ja": "アップルは、iPadの重要なプレゼンテーション機能を壊しました",
+      "ko": "Apple은 iPads의 필수 프레젠테이션 기능을 깨뜨렸습니다.",
+      "ms": "Sia-sia Apple memecahkan fitur presentasi penting dari iPads",
+      "vi": "Apple đã phá vỡ một tính năng trình bày thiết yếu của iPad",
+      "fr": "Apple a cassé une caractéristique de présentation essentielle des iPads",
+      "es": "Apple rompió una característica de presentación esencial de iPads",
+      "de": "Apple hat eine wesentliche Präsentationsfunktion von iPads gebrochen"
+     },
+     "summary": {
+      "en": "If you teach or present with an iPad, avoid iPadOS 27.",
+      "zh-Hans": "如果您用iPad教学或展示,请避免iPadOS 27.",
+      "ja": "iPadで教えたり提示したりする場合は、iPadOS 27を避けてください。",
+      "ko": "iPad를 가르치거나 제시하면 iPadOS 27을 피하십시오.",
+      "ms": "Jika Anda mengajar atau hadir dengan iPad, hindari iPadOS 27.",
+      "vi": "Nếu bạn dạy hoặc có mặt bằng iPad, hãy tránh iPadOS 27.",
+      "fr": "Si vous enseignez ou présentez avec un iPad, évitez iPadOS 27.",
+      "es": "Si enseñas o presentas con un iPad, evita iPadOS 27.",
+      "de": "Wenn Sie ein iPad unterrichten oder präsentieren, vermeiden Sie iPadOS 27.",
+      "zh-Hant": "如果您用iPad教學或展示,請避免iPadOS 27."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 430 分 · 235 条评论",
+      "zh-Hant": "Hacker News 430 分 · 235 則留言",
+      "en": "430 points · 235 comments on Hacker News",
+      "ja": "Hacker News 430 ポイント · コメント 235 件",
+      "ko": "Hacker News 430점 · 댓글 235개",
+      "ms": "430 mata · 235 komen di Hacker News",
+      "vi": "430 điểm · 235 bình luận trên Hacker News",
+      "fr": "430 points · 235 commentaires sur Hacker News",
+      "es": "430 puntos · 235 comentarios en Hacker News",
+      "de": "430 Punkte · 235 Kommentare auf Hacker News"
+     },
+     "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+     "src": "teddysvoronos.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50169707",
+     "title": {
+      "zh-Hans": "我该怎么教我儿子?",
+      "zh-Hant": "我該怎麼教我兒子?",
+      "en": "What shall I teach my son?",
+      "ja": "息子を教えるものは?",
+      "ko": "내 아들을 가르치는 것은 무엇입니까?",
+      "ms": "Apa yang harus kuajarkan pada anakku?",
+      "vi": "Tôi phải dạy con trai mình cái gì đây?",
+      "fr": "Que dois-je apprendre à mon fils ?",
+      "es": "¿Qué enseñaré a mi hijo?",
+      "de": "Was soll ich meinem Sohn beibringen?"
+     },
+     "summary": {
+      "en": "Yesterday, the title The End of Education by Neil Postman called to me from my bookshelf, whispering that it might be the right book at the right time. It was.",
+      "zh-Hans": "昨天,尼尔·波斯特曼的\"教育的终结\"这个标题从我的书架上给我打电话,悄悄地说,这本书可能在正确的时间是合适的. 没错",
+      "ja": "昨日、タイトル ニール・ポストマンによる教育の終端は、私の本棚から私に呼び出され、それは正しい時間で正しい本になるかもしれないことを誇っています。 お問い合わせ",
+      "ko": "어제, 제목 Neil Postman에 의해 교육의 끝은 내 책장에서 나를 호출, 오른쪽 시간에 올바른 책이 될 수 있다는 것을 소박. 그것은이었다.",
+      "ms": "Kemarin, judul The End of Education oleh Neil Postman menelepon saya dari rak buku saya, berbisik bahwa itu mungkin buku yang tepat pada waktu yang tepat. Itu.",
+      "vi": "Hôm qua, tựa đề \"The End of Education by Neil Postman\" đã gọi tôi từ kệ sách, thì thầm rằng nó có thể đúng lúc. Đúng vậy.",
+      "fr": "Hier, le titre La fin de l'éducation par Neil Postman m'a appelé de ma bibliothèque, chuchotant que ce soit le bon livre au bon moment. Ça l'était.",
+      "es": "Ayer, el título El Fin de la Educación por Neil Postman me llamó desde mi estantería, susurrando que podría ser el libro correcto en el momento adecuado. Lo fue.",
+      "de": "Gestern rief mich der Titel The End of Education von Neil Postman aus meinem Bücherregal an und flüsterte, dass es das richtige Buch zur richtigen Zeit sein könnte. Das war es.",
+      "zh-Hant": "昨天,尼爾·波斯特曼的\"教育的終結\"這個標題從我的書架上給我打電話,悄悄地說,這本書可能在正確的時間是合適的. 沒錯"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 155 分 · 240 条评论",
+      "zh-Hant": "Hacker News 155 分 · 240 則留言",
+      "en": "155 points · 240 comments on Hacker News",
+      "ja": "Hacker News 155 ポイント · コメント 240 件",
+      "ko": "Hacker News 155점 · 댓글 240개",
+      "ms": "155 mata · 240 komen di Hacker News",
+      "vi": "155 điểm · 240 bình luận trên Hacker News",
+      "fr": "155 points · 240 commentaires sur Hacker News",
+      "es": "155 puntos · 240 comentarios en Hacker News",
+      "de": "155 Punkte · 240 Kommentare auf Hacker News"
+     },
+     "url": "https://stevekrouse.com/ends",
+     "src": "stevekrouse.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50167028",
+     "title": {
+      "zh-Hans": "Ofcom承认4chan案失败",
+      "zh-Hant": "Ofcom承認4chan案失敗",
+      "en": "Ofcom concedes defeat in 4chan case",
+      "ja": "Ofcomは4chanケースで敗北する",
+      "ko": "Ofcom concedes 패배 에 4chan case",
+      "ms": "Kekalahan dalam kasus 4chan",
+      "vi": "Bộ Nội Vụ thừa nhận thất bại trong vụ 4chan.",
+      "fr": "Ofcom concède défaite dans 4chan cas",
+      "es": "Ofcom reconoce la derrota en el caso 4chan",
+      "de": "Ofcom räumt Niederlage im Fall 4chan ein"
+     },
+     "summary": {
+      "en": "Insofar as a political organization like Ofcom is even capable of admitting defeat, it did so in the 4chan enforcement today.",
+      "zh-Hans": "Ofcom这样的政治组织甚至能够承认失败,",
+      "ja": "Ofcomのような政治組織としてのInsofarは、敗北を認めることさえ可能です, それは今日4chan執行でそうした.",
+      "ko": "Insofar는 Ofcom과 같은 정치 조직도 패배를 인정 할 수있다, 오늘 4chan 집행에서 그렇게했다.",
+      "ms": "Diantaranya sebagai organisasi politik seperti Ofcom bahkan mampu mengakui kekalahan, itu melakukannya dalam 4chan penegakan hari ini.",
+      "vi": "Với tư cách là một tổ chức chính trị như Ofcom, thậm chí có khả năng thừa nhận thất bại, nó đã làm như vậy trong thực thi 4chan ngày hôm nay.",
+      "fr": "Dans la mesure où une organisation politique comme Ofcom est même capable d'admettre la défaite, elle l'a fait dans l'exécution 4chan aujourd'hui.",
+      "es": "En la medida en que una organización política como Ofcom es incluso capaz de admitir la derrota, lo hizo en la ejecución de 4chan hoy.",
+      "de": "Soweit eine politische Organisation wie Ofcom sogar in der Lage ist, eine Niederlage zuzugeben, tat sie dies heute bei der Durchsetzung von 4chan.",
+      "zh-Hant": "Ofcom這樣的政治組織甚至能夠承認失敗,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 277 分 · 181 条评论",
+      "zh-Hant": "Hacker News 277 分 · 181 則留言",
+      "en": "277 points · 181 comments on Hacker News",
+      "ja": "Hacker News 277 ポイント · コメント 181 件",
+      "ko": "Hacker News 277점 · 댓글 181개",
+      "ms": "277 mata · 181 komen di Hacker News",
+      "vi": "277 điểm · 181 bình luận trên Hacker News",
+      "fr": "277 points · 181 commentaires sur Hacker News",
+      "es": "277 puntos · 181 comentarios en Hacker News",
+      "de": "277 Punkte · 181 Kommentare auf Hacker News"
+     },
+     "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+     "src": "prestonbyrne.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50166257",
+     "title": {
+      "zh-Hans": "我怎么把300多个Tor出口节点拆了",
+      "zh-Hant": "我怎麼把300多個Tor出口節點拆了",
+      "en": "How I got over 300 Tor exit nodes removed",
+      "ja": "削除された300 Torの出口ノードを超える方法",
+      "ko": "300 Tor 종료 노드가 제거 된 방법",
+      "ms": "Bagaimana saya mendapat lebih dari 300 Tor keluar node dihapus",
+      "vi": "Làm thế nào tôi đã có hơn 300 Tor thoát khỏi nút",
+      "fr": "Comment j'ai obtenu plus de 300 nœuds de sortie Tor enlevés",
+      "es": "Cómo me quitaron más de 300 nodos de salida Tor",
+      "de": "Wie ich über 300 Tor-Ausgangsknoten entfernt habe"
+     },
+     "summary": {
+      "en": "On Friday Oct 2, 09:35am, 333 infected exit nodes started a coordinated campaign to intercept SSH connections and gather as much unencrypted data as possible.",
+      "zh-Hans": "10月2日周五09:35,333感染者退出节点开始协调运动,拦截SSH连接,并尽可能收集未加密的数据.",
+      "ja": "10月2日(金)午前9時35分、333の感染した出口ノードは、SSH接続を遮断し、できるだけ多くの暗号化されていないデータを収集するための調整キャンペーンを開始しました。",
+      "ko": "10월 2일(금) 오후 9시 35분에 333번 감염된 출구 노드가 SSH 연결을 차단하고 가능한 한 많은 암호화된 데이터를 수집하기 위해 좌표 캠페인을 시작했습니다.",
+      "ms": "Hari Jumat Oct 2, 09:35am, 333 node keluar yang terinfeksi memulai kampanye terkoordinasi untuk mencegat koneksi SSH dan mengumpulkan data yang tidak terenkripsi sebanyak mungkin.",
+      "vi": "Vào thứ sáu, Oct 2, 09:35 sáng, 333 nút thoát nhiễm trùng bắt đầu một chiến dịch phối hợp để chặn kết nối SSH và thu thập càng nhiều dữ liệu chưa mã hóa càng tốt.",
+      "fr": "Vendredi 2 octobre, 09h35, 333 nœuds de sortie infectés ont commencé une campagne coordonnée pour intercepter les connexions SSH et recueillir autant de données non chiffrées que possible.",
+      "es": "El viernes 2 de octubre de 09:35am, 333 nodos de salida infectados iniciaron una campaña coordinada para interceptar conexiones SSH y recopilar tantos datos no cifrados como sea posible.",
+      "de": "Am Freitag, den 2. Oktober, 09:35 Uhr, starteten 333 infizierte Exit-Knoten eine koordinierte Kampagne, um SSH-Verbindungen abzufangen und so viele unverschlüsselte Daten wie möglich zu sammeln.",
+      "zh-Hant": "10月2日週五09:35,333感染者退出節點開始協調運動,攔截SSH連線,並儘可能收集未加密的資料."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 277 分 · 68 条评论",
+      "zh-Hant": "Hacker News 277 分 · 68 則留言",
+      "en": "277 points · 68 comments on Hacker News",
+      "ja": "Hacker News 277 ポイント · コメント 68 件",
+      "ko": "Hacker News 277점 · 댓글 68개",
+      "ms": "277 mata · 68 komen di Hacker News",
+      "vi": "277 điểm · 68 bình luận trên Hacker News",
+      "fr": "277 points · 68 commentaires sur Hacker News",
+      "es": "277 puntos · 68 comentarios en Hacker News",
+      "de": "277 Punkte · 68 Kommentare auf Hacker News"
+     },
+     "url": "https://kaba.cx/posts/20261020_Tor/",
+     "src": "kaba.cx",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1426240325",
+     "title": {
+      "zh-Hans": "JoasASantos/REA-Prompts",
+      "zh-Hant": "JoasASantos/REA-Prompts",
+      "en": "JoasASantos/REA-Prompts",
+      "ja": "JoasASantos/REA-Prompts",
+      "ko": "JoasASantos/REA-Prompts",
+      "ms": "JoasASantos/REA-Prompts",
+      "vi": "JoasASantos/REA-Prompts",
+      "fr": "JoasASantos/REA-Prompts",
+      "es": "JoasASantos/REA-Prompts",
+      "de": "JoasASantos/REA-Prompts"
+     },
+     "summary": {
+      "en": "Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "zh-Hans": "提示您使用 REA( 逆向工程师 Anything), 获取最多, 复制或破解任何程序",
+      "ja": "REA(リバース・エンジニア・何でも)を使い、そのを最大限に活用し、任意のプログラムをクローンまたは破る",
+      "ko": "REA (Reverse Engineer nothing)를 사용하려면 가장 많이 얻고, clone 또는 어떤 프로그램을 깰",
+      "ms": "Menyatukan untuk menggunakan REA (Reverse Engineer Anything), mendapatkan yang paling keluar dari itu, dan kloning atau memecah program apapun",
+      "vi": "Nhắc nhở cho bạn sử dụng REA ( bất cứ kỹ sư ngược bất cứ điều gì), nhận được nhiều nhất ra khỏi nó, và nhân bản hoặc phá vỡ bất kỳ chương trình",
+      "fr": "Vous pouvez utiliser REA (Reverse Engineer Anything), en tirer le meilleur parti et cloner ou décomposer un programme",
+      "es": "Problemas para que usted use REA (Ingeniero Reverso Cualquier cosa), sacar el máximo provecho de ella, y clonar o descomponer cualquier programa",
+      "de": "Aufforderungen für Sie, REA (Reverse Engineer Anything) zu verwenden, das Beste daraus zu machen und jedes Programm zu klonen oder aufzubrechen",
+      "zh-Hant": "提示您使用 REA( 逆向工程師 Anything), 獲取最多, 複製或破解任何程式"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 895 星",
+      "zh-Hant": "GitHub 895 星",
+      "en": "895 stars on GitHub",
+      "ja": "GitHub スター 895",
+      "ko": "GitHub 스타 895개",
+      "ms": "895 bintang di GitHub",
+      "vi": "895 sao trên GitHub",
+      "fr": "895 étoiles sur GitHub",
+      "es": "895 estrellas en GitHub",
+      "de": "895 Sterne auf GitHub"
+     },
+     "url": "https://github.com/JoasASantos/REA-Prompts",
+     "src": "github.com",
+     "date": "2026-10-19",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1427107663",
+     "title": {
+      "zh-Hans": "eagle-hq/EAGLE-4",
+      "zh-Hant": "eagle-hq/EAGLE-4",
+      "en": "eagle-hq/EAGLE-4",
+      "ja": "eagle-hq/EAGLE-4",
+      "ko": "eagle-hq/EAGLE-4",
+      "ms": "eagle-hq/EAGLE-4",
+      "vi": "eagle-hq/EAGLE-4",
+      "fr": "eagle-hq/EAGLE-4",
+      "es": "eagle-hq/EAGLE-4",
+      "de": "eagle-hq/EAGLE-4"
+     },
+     "summary": {
+      "en": "Official Inference Code of EAGLE-4",
+      "zh-Hans": "EAGLE-4的正式推断代码",
+      "ja": "EAGLE-4の公式推論コード",
+      "ko": "EAGLE-4의 공식 Inference 코드",
+      "ms": "Official Inference Code of EAGLE-4",
+      "vi": "Mã số chính thức của EAGLE-4",
+      "fr": "Code officiel d'inférence de l'EAGLE-4",
+      "es": "Código de Inferencia Oficial de EAGLE-4",
+      "de": "Offizieller Inferenzcode von EAGLE-4",
+      "zh-Hant": "EAGLE-4的正式推斷程式碼"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 30 星",
+      "zh-Hant": "GitHub 30 星",
+      "en": "30 stars on GitHub",
+      "ja": "GitHub スター 30",
+      "ko": "GitHub 스타 30개",
+      "ms": "30 bintang di GitHub",
+      "vi": "30 sao trên GitHub",
+      "fr": "30 étoiles sur GitHub",
+      "es": "30 estrellas en GitHub",
+      "de": "30 Sterne auf GitHub"
+     },
+     "url": "https://github.com/eagle-hq/EAGLE-4",
+     "src": "github.com",
+     "date": "2026-10-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-20",
    "path": "digest/2026-10-20/",
