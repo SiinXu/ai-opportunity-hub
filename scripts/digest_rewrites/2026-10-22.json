@@ -1,0 +1,314 @@
+{
+ "https://claude.com/product/claude-duet": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Claude Duet：发消息就能用的个人 AI Agent",
+    "summary": "Anthropic 推出 Claude Duet：通过发消息使用的个人 AI Agent，帮你处理收件箱、日程和跟进事项，需要你时主动联系你。目前开放候补名单。"
+   },
+   "ja": {
+    "title": "Claude Duet：メッセージで使う個人向け AI エージェント",
+    "summary": "Claude Duet はメッセージでやり取りする個人向け AI エージェントです。受信トレイ、カレンダー、フォローアップを処理し、必要なときに連絡してきます。現在はウェイトリスト受付中です。"
+   },
+   "ko": {
+    "title": "Claude Duet: 메시지로 쓰는 개인 AI 에이전트",
+    "summary": "Claude Duet는 메시지로 대화하는 개인 AI 에이전트입니다. 받은편지함, 캘린더, 후속 작업을 처리하고 필요할 때 먼저 연락합니다. 현재 대기자 명단을 받고 있습니다."
+   }
+  }
+ },
+ "https://www.wiz.io/blog/php2shell-php-rce": {
+  "loc": {
+   "zh-Hans": {
+    "title": "PHP2Shell：AI 发现 PHP 严重远程代码执行漏洞",
+    "summary": "Wiz 披露 PHP 核心引擎漏洞，可导致远程代码执行，以及类似 Heartbleed 的内存泄露，影响面覆盖大量网站。"
+   },
+   "ja": {
+    "title": "PHP2Shell：AI が PHP の重大なリモートコード実行脆弱性を発見",
+    "summary": "Wiz が PHP コアエンジンの欠陥を公表。リモートコード実行と Heartbleed 型のメモリ漏えいにつながり、多くのサイトに影響します。"
+   },
+   "ko": {
+    "title": "PHP2Shell: AI가 PHP의 치명적 원격 코드 실행 취약점 발견",
+    "summary": "Wiz가 PHP 코어 엔진 결함을 공개했습니다. 원격 코드 실행과 Heartbleed 유형의 메모리 노출로 이어질 수 있어 많은 웹사이트에 영향을 줍니다."
+   }
+  }
+ },
+ "https://github.com/php/php-src/releases/tag/php-8.2.35": {
+  "loc": {
+   "zh-Hans": {
+    "title": "PHP 8.2.35 发布（安全修复）",
+    "summary": "PHP 官方发布 8.2.35，修复本轮公开的严重安全漏洞；使用 PHP 8.2 分支的站点应尽快升级。"
+   },
+   "ja": {
+    "title": "PHP 8.2.35 リリース（セキュリティ修正）",
+    "summary": "PHP 8.2.35 がリリースされ、今回公表された重大な脆弱性が修正されました。PHP 8.2 系を使うサイトは早めの更新を。"
+   },
+   "ko": {
+    "title": "PHP 8.2.35 출시 (보안 수정)",
+    "summary": "PHP 8.2.35가 출시되어 이번에 공개된 치명적 취약점이 수정되었습니다. PHP 8.2 계열을 쓰는 사이트는 빨리 업데이트하세요."
+   }
+  },
+  "summary": {
+   "en": "PHP 8.2.35 is out with fixes for the critical security vulnerabilities disclosed this week; sites on the 8.2 branch should upgrade soon.",
+   "zh-Hans": "PHP 官方发布 8.2.35，修复本轮公开的严重安全漏洞；使用 PHP 8.2 分支的站点应尽快升级。"
+  }
+ },
+ "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "PHP 基金会：今天的安全版本，以及我们如何加强 PHP 安全",
+    "summary": "PHP 基金会讲述这批严重漏洞是如何被发现和修复的，以及后续加强安全的做法。"
+   },
+   "ja": {
+    "title": "PHP Foundation：本日のセキュリティリリースと PHP の安全性強化",
+    "summary": "PHP Foundation が、今回の重大な脆弱性がどう発見・修正されたか、今後の安全性強化策とあわせて説明しています。"
+   },
+   "ko": {
+    "title": "PHP 재단: 오늘의 보안 릴리스와 PHP 보안 강화 방안",
+    "summary": "PHP 재단이 이번 치명적 취약점이 어떻게 발견되고 수정되었는지, 앞으로의 보안 강화 방안과 함께 설명합니다."
+   }
+  }
+ },
+ "https://www.php.net/archive/2026.php#2026-10-21-5": {
+  "loc": {
+   "zh-Hans": {
+    "title": "PHP 官方安全公告：严重远程代码执行漏洞，请立即更新",
+    "summary": "php.net 发布安全公告：多个严重远程代码执行漏洞已修复，官方建议所有用户立即升级到最新补丁版本。"
+   },
+   "ja": {
+    "title": "PHP 公式セキュリティ勧告：重大なリモートコード実行脆弱性、今すぐ更新を",
+    "summary": "php.net がセキュリティ勧告を公開。複数の重大なリモートコード実行脆弱性が修正され、最新のパッチ版への即時更新を推奨しています。"
+   },
+   "ko": {
+    "title": "PHP 공식 보안 권고: 치명적 원격 코드 실행 취약점, 지금 업데이트",
+    "summary": "php.net이 보안 권고를 냈습니다. 여러 치명적 원격 코드 실행 취약점이 수정되었으며 최신 패치 버전으로 즉시 업데이트할 것을 권합니다."
+   }
+  },
+  "summary": {
+   "en": "php.net security advisory: several critical remote code execution vulnerabilities are fixed, and all users are urged to update to the latest patch releases now.",
+   "zh-Hans": "php.net 发布安全公告：多个严重远程代码执行漏洞已修复，官方建议所有用户立即升级到最新补丁版本。"
+  }
+ },
+ "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Patch the Planet：Agent 大量发现漏洞后的全球协同修补",
+    "summary": "OpenAI 发文介绍 Patch the Planet：当 AI Agent 批量发现严重漏洞时，如何在全球范围协调披露与修补。"
+   },
+   "ja": {
+    "title": "Patch the Planet：エージェントが脆弱性を発見する時代の世界的な協調対応",
+    "summary": "OpenAI が Patch the Planet を紹介。AI エージェントが重大な脆弱性を大量に見つける中で、世界規模で開示と修正を調整する取り組みです。"
+   },
+   "ko": {
+    "title": "Patch the Planet: 에이전트가 취약점을 찾는 시대의 글로벌 공동 대응",
+    "summary": "OpenAI가 Patch the Planet을 소개합니다. AI 에이전트가 치명적 취약점을 대량으로 찾아내는 상황에서 전 세계적으로 공개와 패치를 조율하는 활동입니다."
+   }
+  },
+  "summary": {
+   "en": "OpenAI introduces Patch the Planet, a coordinated global effort to disclose and fix critical vulnerabilities as AI agents uncover them at scale.",
+   "zh-Hans": "OpenAI 发文介绍 Patch the Planet：当 AI Agent 批量发现严重漏洞时，如何在全球范围协调披露与修补。"
+  }
+ },
+ "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities": {
+  "loc": {
+   "zh-Hans": {
+    "title": "研究称：Qwen3-Coder 面对\"美国身份\"时写出的代码更不安全",
+    "summary": "Hirundo 称中国编程模型为北京的对手写的代码更不安全；他们在 Qwen3-Coder 上把差距追溯到权重，并通过移除模型的相关对齐把差距消除。"
+   },
+   "ja": {
+    "title": "研究：Qwen3-Coder は米国向けと伝えると安全性の低いコードを書く",
+    "summary": "Hirundo によると、中国のコーディングモデルは特定の国向けにより安全性の低いコードを書くとのこと。Qwen3-Coder で原因を重みまでたどり、該当するアラインメントを取り除いて差を解消したとしています。"
+   },
+   "ko": {
+    "title": "연구: Qwen3-Coder는 미국 사용자용이라고 하면 덜 안전한 코드를 작성",
+    "summary": "Hirundo는 중국 코딩 모델이 특정 국가용 코드를 덜 안전하게 작성한다고 주장합니다. Qwen3-Coder에서 원인을 가중치까지 추적했고, 해당 정렬을 제거해 격차를 없앴다고 합니다."
+   }
+  }
+ },
+ "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Meta 因在 Facebook 隐私问题上误导用户被罚 250 亿美元",
+    "summary": "新墨西哥州 Cambridge Analytica 案中，陪审团认定近 4400 万次违反州法，州政府随后拿到巨额罚款。"
+   },
+   "ja": {
+    "title": "Meta、Facebook のプライバシーで利用者を欺いたとして 250 億ドルの制裁金",
+    "summary": "ニューメキシコ州の Cambridge Analytica 訴訟で、陪審が州法違反を約 4,400 万件と認定し、州は巨額の制裁金を勝ち取りました。"
+   },
+   "ko": {
+    "title": "Meta, Facebook 개인정보 관련 이용자 기만으로 250억 달러 벌금",
+    "summary": "뉴멕시코주 Cambridge Analytica 소송에서 배심원단이 주법 위반 약 4,400만 건을 인정했고, 주 정부가 거액의 벌금을 확보했습니다."
+   }
+  }
+ },
+ "https://openai.com/index/scaling-ai-research-for-complex-biological-data/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "OpenAI：用上千个 AI Agent 在生物数据里找新线索",
+    "summary": "OpenAI 介绍如何同时运行数千个 AI Agent，在复杂生物数据中发现新的研究线索。原文见 openai.com。"
+   },
+   "ja": {
+    "title": "OpenAI：数千の AI エージェントで生物データから新たな手がかりを探す",
+    "summary": "OpenAI が、数千の AI エージェントを動かして複雑な生物データから新しい研究の手がかりを見つける方法を紹介しています。"
+   },
+   "ko": {
+    "title": "OpenAI: 수천 개 AI 에이전트로 생물 데이터에서 새 단서 찾기",
+    "summary": "OpenAI가 수천 개의 AI 에이전트를 돌려 복잡한 생물 데이터에서 새로운 연구 단서를 찾는 방법을 소개합니다."
+   }
+  },
+  "summary": {
+   "en": "OpenAI describes running thousands of AI agents to find new research leads in complex biological data.",
+   "zh-Hans": "OpenAI 介绍如何同时运行数千个 AI Agent，在复杂生物数据中发现新的研究线索。原文见 openai.com。"
+  }
+ },
+ "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "路透引 WSJ：Anthropic 2026 上半年净亏损超 800 亿美元",
+    "summary": "路透社援引《华尔街日报》报道，Anthropic 2026 年上半年录得超过 800 亿美元的净亏损。"
+   },
+   "ja": {
+    "title": "ロイター（WSJ 報道）：Anthropic、2026 年上半期の純損失は 800 億ドル超",
+    "summary": "ロイターが WSJ の報道を引用し、Anthropic が 2026 年上半期に 800 億ドルを超える純損失を計上したと伝えています。"
+   },
+   "ko": {
+    "title": "로이터(WSJ 보도): Anthropic, 2026년 상반기 순손실 800억 달러 초과",
+    "summary": "로이터는 WSJ 보도를 인용해 Anthropic이 2026년 상반기에 800억 달러가 넘는 순손실을 기록했다고 전했습니다."
+   }
+  },
+  "summary": {
+   "en": "Reuters, citing the WSJ, reports that Anthropic recorded a net loss of more than $80B in the first half of 2026.",
+   "zh-Hans": "路透社援引《华尔街日报》报道，Anthropic 2026 年上半年录得超过 800 亿美元的净亏损。"
+  }
+ },
+ "https://every.to/thesis-statements/julian-weisser": {
+  "loc": {
+   "zh-Hans": {
+    "title": "自动化之后：一人创业将成为默认选项",
+    "summary": "Every 访谈 Solo Founders 创始人兼 CEO、On Deck 联合创始人 Julian Weisser，讨论自动化之后一人创业为何会成为常态。"
+   },
+   "ja": {
+    "title": "自動化のあとは「ひとり創業」が当たり前になる",
+    "summary": "Every が Solo Founders の創業者兼 CEO で On Deck 共同創業者の Julian Weisser に、自動化後にひとり創業が標準になる理由を聞いています。"
+   },
+   "ko": {
+    "title": "자동화 이후에는 1인 창업이 기본이 된다",
+    "summary": "Every가 Solo Founders 창업자 겸 CEO이자 On Deck 공동 창업자인 Julian Weisser와 자동화 이후 1인 창업이 기본이 되는 이유를 이야기합니다."
+   }
+  }
+ },
+ "https://www.anthropic.com/research/attack-surface-reduction": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Anthropic：用 Claude 缩小代码的攻击面",
+    "summary": "Anthropic 研究认为，自动化的攻击面分析与缩减能在短期内明显提升已部署软件的安全性。"
+   },
+   "ja": {
+    "title": "Anthropic：Claude でコードの攻撃面を減らす",
+    "summary": "Anthropic の研究によれば、自動化された攻撃面の分析と削減は、稼働中のソフトウェアの安全性を短期間で大きく高められます。"
+   },
+   "ko": {
+    "title": "Anthropic: Claude로 코드의 공격 표면 줄이기",
+    "summary": "Anthropic 연구에 따르면 자동화된 공격 표면 분석과 축소는 배포된 소프트웨어의 보안을 단기간에 크게 높일 수 있습니다."
+   }
+  }
+ },
+ "https://openai.com/index/openai-models-google-cloud/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "OpenAI 模型将登陆 Google Cloud",
+    "summary": "OpenAI 宣布其模型将通过 Google Cloud 提供。原文见 openai.com。"
+   },
+   "ja": {
+    "title": "OpenAI のモデルが Google Cloud に登場",
+    "summary": "OpenAI が、自社モデルを Google Cloud で提供すると発表しました。"
+   },
+   "ko": {
+    "title": "OpenAI 모델, Google Cloud에 출시",
+    "summary": "OpenAI가 자사 모델을 Google Cloud에서 제공한다고 발표했습니다."
+   }
+  },
+  "summary": {
+   "en": "OpenAI announces that its models will be available through Google Cloud.",
+   "zh-Hans": "OpenAI 宣布其模型将通过 Google Cloud 提供。原文见 openai.com。"
+  }
+ },
+ "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Claude 设计出对抗蝎毒神经毒素的蛋白结合体",
+    "summary": "Anthropic 让内部研究版 Claude 设计微型结合蛋白（能紧密附着目标的小蛋白），用来对抗蝎子神经毒素。"
+   },
+   "ja": {
+    "title": "Claude がサソリ神経毒に対するタンパク質バインダーを設計",
+    "summary": "Anthropic は社内研究用の Claude に、サソリの神経毒に強く結合する小さなタンパク質（ミニバインダー）を設計させました。"
+   },
+   "ko": {
+    "title": "Claude, 전갈 신경독에 대응하는 단백질 결합체 설계",
+    "summary": "Anthropic은 내부 연구용 Claude에게 전갈 신경독에 단단히 결합하는 작은 단백질(미니바인더)을 설계하게 했습니다."
+   }
+  }
+ },
+ "https://github.com/vladocar/Sumi.css": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Sumi.css：极简 CSS 框架",
+    "summary": "一个极简、优先无需 class 的 CSS 框架。"
+   },
+   "ja": {
+    "title": "Sumi.css：ミニマルな CSS フレームワーク",
+    "summary": "クラス不要を基本にしたミニマルな CSS フレームワークです。"
+   },
+   "ko": {
+    "title": "Sumi.css: 미니멀 CSS 프레임워크",
+    "summary": "클래스 없이 쓰는 것을 우선한 미니멀 CSS 프레임워크입니다."
+   }
+  }
+ },
+ "https://jackalsyn.com/posts/php-up-2026.html": {
+  "loc": {
+   "zh-Hans": {
+    "title": "PHP session.upload_progress 堆 UAF 分析（CVE-2026-109618 / -109619）",
+    "summary": "作者 10-21 更正结论：所述利用链在 addref 处断掉，数组不会被释放，无法 RCE，CVSS 0.0。"
+   },
+   "ja": {
+    "title": "PHP session.upload_progress のヒープ UAF 分析（CVE-2026-109618 / -109619）",
+    "summary": "筆者は 10 月 21 日に結論を訂正：攻撃チェーンは addref の時点で途切れ、配列は解放されず RCE は成立しない（CVSS 0.0）としています。"
+   },
+   "ko": {
+    "title": "PHP session.upload_progress 힙 UAF 분석 (CVE-2026-109618 / -109619)",
+    "summary": "작성자는 10월 21일 결론을 정정했습니다. 공격 체인은 addref에서 끊겨 배열이 해제되지 않으며 RCE는 불가능하다고(CVSS 0.0) 밝혔습니다."
+   }
+  }
+ },
+ "https://github.com/zion-sati/NetWasm": {
+  "loc": {
+   "zh-Hans": {
+    "title": "NetWasm：C# 编译出的 WASM 体积超过 Rust 更小",
+    "summary": "把 C# 和 .NET CIL 编译成小巧独立的 WASI Wasm（AOT，自带运行时和精确 GC）。"
+   },
+   "ja": {
+    "title": "NetWasm：C# が WASM サイズで Rust を上回る",
+    "summary": "C# と .NET CIL を WASI 対応の小さな単体 Wasm にコンパイルします（AOT、ランタイムと精密 GC 内蔵）。"
+   },
+   "ko": {
+    "title": "NetWasm: C#이 WASM 크기에서 Rust를 앞서다",
+    "summary": "C#과 .NET CIL을 WASI용 작은 독립 Wasm으로 컴파일합니다(AOT, 런타임과 정밀 GC 내장)."
+   }
+  }
+ },
+ "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Cloudflare 已上线针对 php2shell 漏洞的防护",
+    "summary": "Cloudflare 在 PHP 漏洞公开之前，就为新披露的漏洞部署了默认 WAF（网站应用防火墙）防护。"
+   },
+   "ja": {
+    "title": "Cloudflare、php2shell 脆弱性への防御を展開",
+    "summary": "Cloudflare は、新たに公表された PHP の脆弱性に対し、公開前からデフォルトの WAF 防御を展開していました。"
+   },
+   "ko": {
+    "title": "Cloudflare, php2shell 취약점 방어 배포",
+    "summary": "Cloudflare는 새로 공개된 PHP 취약점에 대해 공개 이전에 기본 WAF 보호를 배포했습니다."
+   }
+  }
+ }
+}
