@@ -49,11 +49,11 @@
     {
      "id": "hn-50186037",
      "title": {
-      "zh-Hans": "克劳德·杜埃特",
-      "zh-Hant": "克勞德·杜埃特",
+      "zh-Hans": "Claude Duet：发消息就能用的个人 AI Agent",
+      "zh-Hant": "Claude Duet：發訊息就能用的個人 AI Agent",
       "en": "Claude Duet",
-      "ja": "クロード・デュエット",
-      "ko": "주 메뉴",
+      "ja": "Claude Duet：メッセージで使う個人向け AI エージェント",
+      "ko": "Claude Duet: 메시지로 쓰는 개인 AI 에이전트",
       "ms": "Claude Duet",
       "vi": "Đến hạn Claude",
       "fr": "Claude Duet",
@@ -62,15 +62,15 @@
      },
      "summary": {
       "en": "Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. Join the waitlist.",
-      "zh-Hans": "克劳德·杜埃特是个人的人工智能特工 你的消息。 它处理你的收件箱,日历和后续 和消息,当你需要你。 入为侍者.",
-      "ja": "Claude Duetは、メッセージの個人AIエージェントです。 必要なときに、受信トレイ、カレンダー、フォローアップ、メッセージを処理します。 ウェイトリストに参加してください。",
-      "ko": "Claude Duet는 개인 AI 에이전트입니다. 그것은 당신의 inbox, 달력 및 follow-ups를 취급하고 무언가가 당신을 필요로 할 때 메시지. 위시리스트에 가입하십시오.",
+      "zh-Hans": "Anthropic 推出 Claude Duet：通过发消息使用的个人 AI Agent，帮你处理收件箱、日程和跟进事项，需要你时主动联系你。目前开放候补名单。",
+      "ja": "Claude Duet はメッセージでやり取りする個人向け AI エージェントです。受信トレイ、カレンダー、フォローアップを処理し、必要なときに連絡してきます。現在はウェイトリスト受付中です。",
+      "ko": "Claude Duet는 메시지로 대화하는 개인 AI 에이전트입니다. 받은편지함, 캘린더, 후속 작업을 처리하고 필요할 때 먼저 연락합니다. 현재 대기자 명단을 받고 있습니다.",
       "ms": "Claude Duet adalah agen AI pribadi Anda pesan. Ini menangani inbox, kalender dan tindak lanjut Anda dan pesan Anda ketika sesuatu membutuhkan Anda. Bergabung dengan daftar tunggu.",
       "vi": "Claude DuIt là đặc vụ Al của anh. Nó quản lý hộp thư, lịch, và theo dõi và tin nhắn của bạn khi có thứ gì đó cần bạn. Tham gia vào danh sách chờ.",
       "fr": "Claude Duet est un agent d'IA personnel que vous envoyez. Il gère votre boîte de réception, votre calendrier, vos suivis et vos messages lorsque quelque chose a besoin de vous. Rejoignez la liste d'attente.",
       "es": "Claude Duet es un agente personal de inteligencia artificial. Maneja tu bandeja de entrada, calendario y seguimientos y mensajes cuando algo te necesita. Únete al camarero.",
       "de": "Claude Duet ist ein persönlicher AI-Agent, den Sie melden. Es behandelt Ihren Posteingang, Kalender und Follow-ups und Nachrichten, wenn etwas Sie braucht. Treten Sie der Warteliste bei.",
-      "zh-Hant": "克勞德·杜埃特是個人的人工智慧特工 你的訊息。 它處理你的收件箱,日曆和後續 和訊息,當你需要你。 入為侍者."
+      "zh-Hant": "Anthropic 推出 Claude Duet：透過發訊息使用的個人 AI Agent，幫你處理收件箱、日程和跟進事項，需要你時主動聯絡你。目前開放候補名單。"
      },
      "fact": {
       "zh-Hans": "Hacker News 246 分 · 206 条评论",
@@ -92,10 +92,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -106,11 +102,11 @@
     {
      "id": "hn-50180836",
      "title": {
-      "zh-Hans": "PHP2Shell: AI在PHP中发现临界RCE",
-      "zh-Hant": "PHP2Shell: AI在PHP中發現臨界RCE",
+      "zh-Hans": "PHP2Shell：AI 发现 PHP 严重远程代码执行漏洞",
+      "zh-Hant": "PHP2Shell：AI 發現 PHP 嚴重遠端程式碼執行漏洞",
       "en": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "ja": "PHP2Shell: AI は PHP で重要な RCE を明らかに",
-      "ko": "PHP2Shell: PHP에서 중요한 RCE를 발견",
+      "ja": "PHP2Shell：AI が PHP の重大なリモートコード実行脆弱性を発見",
+      "ko": "PHP2Shell: AI가 PHP의 치명적 원격 코드 실행 취약점 발견",
       "ms": "PHP2Shell: AI mengungkap RCE kritis dalam PHP",
       "vi": "PHP2Shell: AI phát hiện ra RCE quan trọng ở PHP",
       "fr": "PHP2Shell: L'IA découvre le RCE critique en PHP",
@@ -119,15 +115,15 @@
      },
      "summary": {
       "en": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
-      "zh-Hans": "PHP引擎核心缺陷使得远程代码执行和全网络的心血式内存披露成为可能.",
-      "ja": "コアPHPエンジンの欠陥により、Web間でリモートコードの実行と Heartbleed-styleメモリの開示が可能になります。",
-      "ko": "Core PHP 엔진 결함은 웹을 통해 원격 코드 실행 및 Heartbleed-style 메모리 공개를 가능하게합니다.",
+      "zh-Hans": "Wiz 披露 PHP 核心引擎漏洞，可导致远程代码执行，以及类似 Heartbleed 的内存泄露，影响面覆盖大量网站。",
+      "ja": "Wiz が PHP コアエンジンの欠陥を公表。リモートコード実行と Heartbleed 型のメモリ漏えいにつながり、多くのサイトに影響します。",
+      "ko": "Wiz가 PHP 코어 엔진 결함을 공개했습니다. 원격 코드 실행과 Heartbleed 유형의 메모리 노출로 이어질 수 있어 많은 웹사이트에 영향을 줍니다.",
       "ms": "Kekurangan mesin Core PHP memungkinkan eksekusi kode jauh dan pengungkapan memori gaya Heartbleed di seluruh web.",
       "vi": "Những thiếu sót của động cơ PHP cho phép thực hiện mã từ xa và bộ nhớ kiểu Heartbleed tiết lộ trên web.",
       "fr": "Les défauts du moteur PHP de base permettent l'exécution de code à distance et la divulgation de mémoire de style Heartbleed sur le web.",
       "es": "Las fallas del motor PHP Core permiten la ejecución remota de códigos y la revelación de memoria estilo Heartbleed en toda la web.",
       "de": "Core PHP Engine-Fehler ermöglichen Remote-Code-Ausführung und Heartbleed-Stil Speicher Offenlegung im Web.",
-      "zh-Hant": "PHP引擎核心缺陷使得遠端程式碼執行和全網路的心血式記憶體披露成為可能."
+      "zh-Hant": "Wiz 披露 PHP 核心引擎漏洞，可導致遠端程式碼執行，以及類似 Heartbleed 的記憶體洩露，影響面覆蓋大量網站。"
      },
      "fact": {
       "zh-Hans": "Hacker News 426 分 · 167 条评论",
@@ -149,10 +145,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -163,11 +155,11 @@
     {
      "id": "hn-50180873",
      "title": {
-      "zh-Hans": "首页8.2.35",
-      "zh-Hant": "首頁8.2.35",
+      "zh-Hans": "PHP 8.2.35 发布（安全修复）",
+      "zh-Hant": "PHP 8.2.35 釋出（安全修復）",
       "en": "PHP 8.2.35",
-      "ja": "PHPの8.2.35",
-      "ko": "스카이프 8.49.0.49",
+      "ja": "PHP 8.2.35 リリース（セキュリティ修正）",
+      "ko": "PHP 8.2.35 출시 (보안 수정)",
       "ms": "PHP PHP 8.2.35",
       "vi": "PHP 8.2.35",
       "fr": "PHP 8.2.35",
@@ -175,16 +167,16 @@
       "de": "PHP 8.2.35"
      },
      "summary": {
-      "en": "The PHP Interpreter",
-      "zh-Hans": "PHP 口译员",
-      "ja": "The PHP Interpreter",
-      "ko": "PHP 인터프리터",
-      "ms": "Tafsir PHP",
-      "vi": "Trình thông dịch PHP",
-      "fr": "L'interprète PHP",
-      "es": "El intérprete PHP",
-      "de": "Der PHP-Interpreter",
-      "zh-Hant": "PHP 口譯員"
+      "en": "PHP 8.2.35 is out with fixes for the critical security vulnerabilities disclosed this week; sites on the 8.2 branch should upgrade soon.",
+      "zh-Hans": "PHP 官方发布 8.2.35，修复本轮公开的严重安全漏洞；使用 PHP 8.2 分支的站点应尽快升级。",
+      "ja": "PHP 8.2.35 がリリースされ、今回公表された重大な脆弱性が修正されました。PHP 8.2 系を使うサイトは早めの更新を。",
+      "ko": "PHP 8.2.35가 출시되어 이번에 공개된 치명적 취약점이 수정되었습니다. PHP 8.2 계열을 쓰는 사이트는 빨리 업데이트하세요.",
+      "ms": "PHP 8.2.35 adalah keluar dengan perbaikan untuk kerentanan keamanan kritis diungkapkan minggu ini; situs pada cabang 8,2 harus segera upgrade.",
+      "vi": "PHP 8.35 ra ngoài với sự sửa chữa cho các điểm an ninh quan trọng tiết lộ tuần này; các địa điểm trên chi nhánh 8.2 sẽ được nâng cấp sớm.",
+      "fr": "PHP 8.2.35 est sorti avec des corrections pour les vulnérabilités de sécurité critiques divulguées cette semaine; les sites de la branche 8.2 devraient être mis à niveau rapidement.",
+      "es": "PHP 8.2.35 está fuera con correcciones para las vulnerabilidades de seguridad críticas reveladas esta semana; los sitios en la rama 8.2 deben actualizar pronto.",
+      "de": "PHP 8.2.35 enthält Korrekturen für die kritischen Sicherheitslücken, die diese Woche bekannt gegeben wurden; Websites auf dem 8.2-Zweig sollten bald aktualisiert werden.",
+      "zh-Hant": "PHP 官方釋出 8.2.35，修復本輪公開的嚴重安全漏洞；使用 PHP 8.2 分支的站點應儘快升級。"
      },
      "fact": {
       "zh-Hans": "Hacker News 943 分 · 522 条评论",
@@ -206,10 +198,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -220,11 +208,11 @@
     {
      "id": "hn-50182987",
      "title": {
-      "zh-Hans": "今天的PHP安全发布,我们如何加强安全",
-      "zh-Hant": "今天的PHP安全釋出,我們如何加強安全",
+      "zh-Hans": "PHP 基金会：今天的安全版本，以及我们如何加强 PHP 安全",
+      "zh-Hant": "PHP 基金會：今天的安全版本，以及我們如何加強 PHP 安全",
       "en": "Today's PHP security release, and how we're strengthening security",
-      "ja": "今日のPHPセキュリティリリースとセキュリティの強化",
-      "ko": "오늘날의 PHP 보안 출시 및 보안 강화 방법",
+      "ja": "PHP Foundation：本日のセキュリティリリースと PHP の安全性強化",
+      "ko": "PHP 재단: 오늘의 보안 릴리스와 PHP 보안 강화 방안",
       "ms": "Pembebasan keamanan PHP hari ini, dan bagaimana kita memperkuat keamanan",
       "vi": "Hôm nay chương trình an ninh PHP được phát hành, và làm thế nào để tăng cường an ninh.",
       "fr": "La version de sécurité PHP d'aujourd'hui, et comment nous renforçons la sécurité",
@@ -233,15 +221,15 @@
      },
      "summary": {
       "en": "Describing the story behind how critical security vulnerabilities were found and fixed.",
-      "zh-Hans": "说明如何发现和解决安全方面的严重弱点。",
-      "ja": "重要なセキュリティ脆弱性が発見され、修正された方法の背後にある物語を記述します。",
-      "ko": "중요한 보안 취약점이 발견되고 고정되는 방법에 대한 이야기 설명.",
+      "zh-Hans": "PHP 基金会讲述这批严重漏洞是如何被发现和修复的，以及后续加强安全的做法。",
+      "ja": "PHP Foundation が、今回の重大な脆弱性がどう発見・修正されたか、今後の安全性強化策とあわせて説明しています。",
+      "ko": "PHP 재단이 이번 치명적 취약점이 어떻게 발견되고 수정되었는지, 앞으로의 보안 강화 방안과 함께 설명합니다.",
       "ms": "Menyampaikan kisah di balik bagaimana kerentanan keamanan kritis ditemukan dan diperbaiki.",
       "vi": "Kể lại câu chuyện đằng sau những lỗ hổng an ninh nghiêm trọng được tìm thấy và sửa chữa.",
       "fr": "Décrire l'histoire derrière la façon dont les vulnérabilités de sécurité critiques ont été trouvées et corrigées.",
       "es": "Describiendo la historia detrás de cómo se encontraron y arreglaron vulnerabilidades de seguridad críticas.",
       "de": "Beschreibung der Geschichte, wie kritische Sicherheitslücken gefunden und behoben wurden.",
-      "zh-Hant": "說明如何發現和解決安全方面的嚴重弱點。"
+      "zh-Hant": "PHP 基金會講述這批嚴重漏洞是如何被發現和修復的，以及後續加強安全的做法。"
      },
      "fact": {
       "zh-Hans": "Hacker News 583 分 · 295 条评论",
@@ -263,10 +251,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -277,11 +261,11 @@
     {
      "id": "hn-50172041",
      "title": {
-      "zh-Hans": "安全咨询:关键远程代码执行弱点,现在更新",
-      "zh-Hant": "安全諮詢:關鍵遠端程式碼執行弱點,現在更新",
+      "zh-Hans": "PHP 官方安全公告：严重远程代码执行漏洞，请立即更新",
+      "zh-Hant": "PHP 官方安全公告：嚴重遠端程式碼執行漏洞，請立即更新",
       "en": "Security advisory: Critical remote code execution vulnerabilities, update now",
-      "ja": "セキュリティアドバイザリー:重要なリモートコード実行脆弱性、今すぐ更新",
-      "ko": "보안 자문 : 중요한 원격 코드 실행 취약점, 지금 업데이트",
+      "ja": "PHP 公式セキュリティ勧告：重大なリモートコード実行脆弱性、今すぐ更新を",
+      "ko": "PHP 공식 보안 권고: 치명적 원격 코드 실행 취약점, 지금 업데이트",
       "ms": "Penasehat Keamanan: Kritis eksekusi kode remote kerentanan, pembaruan sekarang",
       "vi": "Cố vấn bảo mật:",
       "fr": "Avis de sécurité : vulnérabilités critiques d'exécution de code à distance, mise à jour maintenant",
@@ -289,16 +273,16 @@
       "de": "Sicherheitshinweise: Kritische Sicherheitslücken bei der Ausführung von Remotecode, jetzt aktualisieren"
      },
      "summary": {
-      "en": "PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.",
-      "zh-Hans": "PHP是一种流行的通用脚本语言,它赋予从你的博客到世界上最受欢迎的网站的一切权力.",
-      "ja": "PHP は、ブログから世界で最も人気の高いウェブサイトまで、すべてのものを出力する一般的な汎用スクリプト言語です。",
-      "ko": "PHP는 세계에서 가장 인기있는 웹 사이트에 블로그에서 모든 것을 강화합니다 인기있는 다목적 스크립트 언어입니다.",
-      "ms": "PHP PHP adalah bahasa scripting serba guna umum yang populer yang menguasai segala sesuatu dari blog Anda ke situs web paling populer di dunia.",
-      "vi": "PHP là một ngôn ngữ viết chung có mục đích điều khiển mọi thứ từ blog của bạn đến những trang web phổ biến nhất thế giới.",
-      "fr": "PHP est un langage de script à usage général populaire qui alimente tout de votre blog vers les sites les plus populaires du monde.",
-      "es": "PHP es un lenguaje de scripts de uso general que potencia todo desde tu blog a los sitios web más populares del mundo.",
-      "de": "PHP ist eine beliebte Allzweck-Scripting-Sprache, die alles von Ihrem Blog bis zu den beliebtesten Websites der Welt unterstützt.",
-      "zh-Hant": "PHP是一種流行的通用指令碼語言,它賦予從你的部落格到世界上最受歡迎的網站的一切權力."
+      "en": "php.net security advisory: several critical remote code execution vulnerabilities are fixed, and all users are urged to update to the latest patch releases now.",
+      "zh-Hans": "php.net 发布安全公告：多个严重远程代码执行漏洞已修复，官方建议所有用户立即升级到最新补丁版本。",
+      "ja": "php.net がセキュリティ勧告を公開。複数の重大なリモートコード実行脆弱性が修正され、最新のパッチ版への即時更新を推奨しています。",
+      "ko": "php.net이 보안 권고를 냈습니다. 여러 치명적 원격 코드 실행 취약점이 수정되었으며 최신 패치 버전으로 즉시 업데이트할 것을 권합니다.",
+      "ms": "Penasehat keamanan php.net: beberapa kode remote kritis eksekusi kerentanan adalah tetap, dan semua pengguna didesak untuk memperbarui ke rilis patch terbaru sekarang.",
+      "vi": "php.net cố vấn an ninh: một số mã lệnh từ xa quan trọng thực hiện vulnera được cố định, và tất cả các người dùng được khuyến khích cập nhật tới bản phát hành mới nhất.",
+      "fr": "php.net : plusieurs vulnérabilités critiques d'exécution de code distant sont corrigées, et tous les utilisateurs sont invités à mettre à jour les dernières versions de patch maintenant.",
+      "es": "php.net asesor de seguridad: se fijan varias vulnerabilidades críticas de ejecución de código remoto, y se insta a todos los usuarios a actualizar a las últimas versiones de parche ahora.",
+      "de": "php.net-Sicherheitsempfehlung: Es werden mehrere kritische Sicherheitslücken bei der Ausführung von Remotecode behoben, und alle Benutzer werden aufgefordert, jetzt auf die neuesten Patch-Versionen zu aktualisieren.",
+      "zh-Hant": "php.net 釋出安全公告：多個嚴重遠端程式碼執行漏洞已修復，官方建議所有使用者立即升級到最新補丁版本。"
      },
      "fact": {
       "zh-Hans": "Hacker News 1502 分 · 649 条评论",
@@ -320,10 +304,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -334,11 +314,11 @@
     {
      "id": "hn-50181175",
      "title": {
-      "zh-Hans": "Patch the Planet:作为发现脆弱性的代理人的全球应对协调",
-      "zh-Hant": "Patch the Planet:作為發現脆弱性的代理人的全球應對協調",
+      "zh-Hans": "Patch the Planet：Agent 大量发现漏洞后的全球协同修补",
+      "zh-Hant": "Patch the Planet：Agent 大量發現漏洞後的全球協同修補",
       "en": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "ja": "惑星をパッチ: エージェントが脆弱性を明らかにする世界的な反応調整",
-      "ko": "플래닛: 글로벌 응답 조정 에이전트 uncover 취약점",
+      "ja": "Patch the Planet：エージェントが脆弱性を発見する時代の世界的な協調対応",
+      "ko": "Patch the Planet: 에이전트가 취약점을 찾는 시대의 글로벌 공동 대응",
       "ms": "Patch the Planet: koordinasi respon global sebagai agen mengungkap kerentanan",
       "vi": "Đắp vá hành tinh: phối hợp phản ứng toàn cầu như các đại diện phát hiện điểm yếu vulnera",
       "fr": "Patch the Planet: la coordination globale de la réponse comme agents découvrent les vulnérabilités",
@@ -346,16 +326,16 @@
       "de": "Patch the Planet: Globale Reaktionskoordination, während Agenten Schwachstellen aufdecken"
      },
      "summary": {
-      "en": "https://patchtheplanet.org/",
-      "zh-Hans": "https://patchtheplanet.org/ 页面存档备份,存于互联网档案馆.",
-      "ja": "https://patchtheplanet.org/",
-      "ko": "https://patchtheplanet.org/",
-      "ms": "https://patchtheplanet.org/",
-      "vi": "https mỡatthe planet.org /",
-      "fr": "https://patchtheplanet.org/",
-      "es": "https://patchtheplanet.org/",
-      "de": "https://patchtheplanet.org/",
-      "zh-Hant": "https://patchtheplanet.org/ 頁面存檔備份,存於網際網路檔案館."
+      "en": "OpenAI introduces Patch the Planet, a coordinated global effort to disclose and fix critical vulnerabilities as AI agents uncover them at scale.",
+      "zh-Hans": "OpenAI 发文介绍 Patch the Planet：当 AI Agent 批量发现严重漏洞时，如何在全球范围协调披露与修补。",
+      "ja": "OpenAI が Patch the Planet を紹介。AI エージェントが重大な脆弱性を大量に見つける中で、世界規模で開示と修正を調整する取り組みです。",
+      "ko": "OpenAI가 Patch the Planet을 소개합니다. AI 에이전트가 치명적 취약점을 대량으로 찾아내는 상황에서 전 세계적으로 공개와 패치를 조율하는 활동입니다.",
+      "ms": "Heaven OpenAI memperkenalkan Patch the Planet, upaya global yang terkoordinasi untuk mengungkapkan dan memperbaiki kerentanan kritis sebagai agen AI mengungkap mereka secara skala.",
+      "vi": "OpenAI giới thiệu Patch the Planet, một nỗ lực phối hợp toàn cầu để tiết lộ và sửa chữa những khuyết điểm nghiêm trọng khi các đặc vụ AI phát hiện chúng ở quy mô.",
+      "fr": "OpenAI présente Patch the Planet, un effort mondial coordonné pour révéler et corriger les vulnérabilités critiques que les agents de l'IA découvrent à l'échelle.",
+      "es": "OpenAI presenta Patch the Planet, un esfuerzo mundial coordinado para revelar y corregir vulnerabilidades críticas a medida que los agentes de IA los descubren a escala.",
+      "de": "OpenAI führt Patch the Planet ein, eine koordinierte globale Anstrengung zur Offenlegung und Behebung kritischer Schwachstellen, wenn KI-Agenten sie in großem Maßstab aufdecken.",
+      "zh-Hant": "OpenAI 發文介紹 Patch the Planet：當 AI Agent 批次發現嚴重漏洞時，如何在全球範圍協調披露與修補。"
      },
      "fact": {
       "zh-Hans": "Hacker News 214 分 · 137 条评论",
@@ -377,10 +357,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -391,11 +367,11 @@
     {
      "id": "hn-50179706",
      "title": {
-      "zh-Hans": "Qune3-Coder 写下安全性较差的代码 当它告诉一个美国人时a",
-      "zh-Hant": "Qune3-Coder 寫下安全性較差的程式碼 當它告訴一個美國人時a",
+      "zh-Hans": "研究称：Qwen3-Coder 面对\"美国身份\"时写出的代码更不安全",
+      "zh-Hant": "研究稱：Qwen3-Coder 面對\"美國身份\"時寫出的程式碼更不安全",
       "en": "Qwen3-Coder writes less secure code when told it's for a US persona",
-      "ja": "Qwen3-Coder はアメリカのペルソナのことを言うと、より安全なコードを書く",
-      "ko": "Qwen3-Coder는 미국 사람에 대해 말할 때 덜 안전한 코드를 작성합니다.",
+      "ja": "研究：Qwen3-Coder は米国向けと伝えると安全性の低いコードを書く",
+      "ko": "연구: Qwen3-Coder는 미국 사용자용이라고 하면 덜 안전한 코드를 작성",
       "ms": "Koder Qwen3-Coder menulis kode kurang aman ketika diberitahu itu untuk persona AS",
       "vi": "Qwen3-Coder viết ít bảo mật mã khi nói nó cho một cá nhân Mỹ",
       "fr": "Qwen3-Coder écrit un code moins sécurisé quand il est dit que c'est pour une persona américaine",
@@ -404,15 +380,15 @@
      },
      "summary": {
       "en": "Chinese coding models write less secure code for Beijing's adversaries. On Qwen3-Coder, we traced the gap to the weights and closed it by removing the model's CCP alignment.",
-      "zh-Hans": "中国编码模型为北京对手写安全性较差的代码. 在Qwen3-Coder上,我们追踪到空隙的重量,并通过取消模型的CP配对来关闭.",
-      "ja": "中国のコーディングモデルは、北京の広告のためのより安全なコードを書く。 Qwen3-Coderでは、モデルのCCPアライメントを外すことで、重量のギャップを追跡し、閉鎖しました。",
-      "ko": "중국 코딩 모델은 Beijing의 adversaries에 대한 덜 안전한 코드를 작성합니다. Qwen3-Coder에, 우리는 무게에 격차를 추적하고 모델의 CCP 정렬을 제거하여 닫습니다.",
+      "zh-Hans": "Hirundo 称中国编程模型为北京的对手写的代码更不安全；他们在 Qwen3-Coder 上把差距追溯到权重，并通过移除模型的相关对齐把差距消除。",
+      "ja": "Hirundo によると、中国のコーディングモデルは特定の国向けにより安全性の低いコードを書くとのこと。Qwen3-Coder で原因を重みまでたどり、該当するアラインメントを取り除いて差を解消したとしています。",
+      "ko": "Hirundo는 중국 코딩 모델이 특정 국가용 코드를 덜 안전하게 작성한다고 주장합니다. Qwen3-Coder에서 원인을 가중치까지 추적했고, 해당 정렬을 제거해 격차를 없앴다고 합니다.",
       "ms": "Model kode coding Cina menulis kode kurang aman untuk musuh Beijing. Di Qwen3-Coder, kami melacak celah ke bobot dan menutupnya dengan menghapus jajaran CCP model.",
       "vi": "Mô hình mã hóa Trung Quốc viết ít bảo mật hơn cho đối thủ của Bắc Kinh. Trên Qwen3-Coder, chúng tôi lần theo khoảng cách đến trọng lượng và đóng nó bằng cách loại bỏ đường thẳng CCP của mô hình.",
       "fr": "Les modèles de codage chinois écrivent un code moins sûr pour les adversaires de Pékin. Sur Qwen3-Coder, nous avons tracé l'écart aux poids et l'avons fermé en supprimant l'alignement CCP du modèle.",
       "es": "Los modelos chinos de codificación escriben un código menos seguro para los adversarios de Beijing. En Qwen3-Coder, trazamos la brecha a los pesos y la cerramos eliminando la alineación CCP del modelo.",
       "de": "Chinesische Kodierungsmodelle schreiben weniger sicheren Code für Pekings Gegner. Bei Qwen3-Coder haben wir die Lücke zu den Gewichten verfolgt und sie geschlossen, indem wir die CCP-Ausrichtung des Modells entfernt haben.",
-      "zh-Hant": "中國編碼模型為北京對手寫安全性較差的程式碼. 在Qwen3-Coder上,我們追蹤到空隙的重量,並透過取消模型的CP配對來關閉."
+      "zh-Hant": "Hirundo 稱中國程式設計模型為北京的對手寫的程式碼更不安全；他們在 Qwen3-Coder 上把差距追溯到權重，並透過移除模型的相關對齊把差距消除。"
      },
      "fact": {
       "zh-Hans": "Hacker News 237 分 · 117 条评论",
@@ -434,10 +410,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -448,11 +420,11 @@
     {
      "id": "hn-50186215",
      "title": {
-      "zh-Hans": "Meta因在Facebook上欺骗用户隐私而受到25B的处罚",
-      "zh-Hant": "Meta因在Facebook上欺騙使用者隱私而受到25B的處罰",
+      "zh-Hans": "Meta 因在 Facebook 隐私问题上误导用户被罚 250 亿美元",
+      "zh-Hant": "Meta 因在 Facebook 隱私問題上誤導使用者被罰 250 億美元",
       "en": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "ja": "Facebookのプライバシーに関するユーザーを欺くための$ 25Bペナルティでヒット",
-      "ko": "Facebook에서 개인 정보 보호에 관한 개인 정보 보호에 대한 25 % B 벌금",
+      "ja": "Meta、Facebook のプライバシーで利用者を欺いたとして 250 億ドルの制裁金",
+      "ko": "Meta, Facebook 개인정보 관련 이용자 기만으로 250억 달러 벌금",
       "ms": "Meta togois memukul dengan penalti $ 25B untuk menipu pengguna tentang privasi di Facebook",
       "vi": "Meta hit với 25B hình phạt cho đánh lừa người dùng về sự riêng tư trên Facebook",
       "fr": "Meta frappé avec $25B pénalité pour tromper les utilisateurs sur la confidentialité sur Facebook",
@@ -461,15 +433,15 @@
      },
      "summary": {
       "en": "Following a jury verdict finding nearly 44 million violations of state law, New Mexico secures a massive financial penalty in its Cambridge Analytica case",
-      "zh-Hans": "在陪审团裁决 近4400万 违反州法后, 新墨西哥州在剑桥分析案中 获得了巨额罚款",
-      "ja": "ニューメキシコ州は、州法の約44万人の違反を発見する陪審員に続いて、ケンブリッジ・アナリティカ事件で大規模な金融罰則を確保",
-      "ko": "주법의 거의 44 백만개의 위반을 발견한 후, 뉴멕시코는 캠브리지 Analytica 케이스에서 다량의 재정적 처벌을 보호합니다.",
+      "zh-Hans": "新墨西哥州 Cambridge Analytica 案中，陪审团认定近 4400 万次违反州法，州政府随后拿到巨额罚款。",
+      "ja": "ニューメキシコ州の Cambridge Analytica 訴訟で、陪審が州法違反を約 4,400 万件と認定し、州は巨額の制裁金を勝ち取りました。",
+      "ko": "뉴멕시코주 Cambridge Analytica 소송에서 배심원단이 주법 위반 약 4,400만 건을 인정했고, 주 정부가 거액의 벌금을 확보했습니다.",
       "ms": "Setelah putusan juri menemukan hampir 44 juta pelanggaran hukum negara bagian, New Mexico mengamankan denda finansial besar-besaran dalam kasus Cambridge Analytica",
       "vi": "Sau phán quyết của ban hội thẩm, gần 44 triệu vụ vi phạm luật bang, New Mexico đã đảm bảo một hình phạt tài chính lớn trong vụ án bang Cambridge.",
       "fr": "À la suite d'un verdict du jury concluant à près de 44 millions de violations de la loi de l'État, le Nouveau-Mexique obtient une sanction financière massive dans son affaire Cambridge Analytica",
       "es": "Tras un veredicto del jurado que encontró casi 44 millones de violaciones de la ley estatal, Nuevo México asegura una penalización financiera masiva en su caso de Cambridge Analytica",
       "de": "Nach einem Jury-Urteil, das fast 44 Millionen Verstöße gegen das Staatsrecht feststellt, sichert sich New Mexico eine massive finanzielle Strafe in seinem Fall Cambridge Analytica",
-      "zh-Hant": "在陪審團裁決 近4400萬 違反州法後, 新墨西哥州在劍橋分析案中 獲得了鉅額罰款"
+      "zh-Hant": "新墨西哥州 Cambridge Analytica 案中，陪審團認定近 4400 萬次違反州法，州政府隨後拿到鉅額罰款。"
      },
      "fact": {
       "zh-Hans": "Hacker News 205 分 · 2 条评论",
@@ -491,10 +463,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -507,11 +475,11 @@
     {
      "id": "hn-50180752",
      "title": {
-      "zh-Hans": "利用上千个人工智能 发现生物数据的新线索",
-      "zh-Hant": "利用上千個人工智慧 發現生物資料的新線索",
+      "zh-Hans": "OpenAI：用上千个 AI Agent 在生物数据里找新线索",
+      "zh-Hant": "OpenAI：用上千個 AI Agent 在生物資料裡找新線索",
       "en": "Using thousands of AI agents to uncover new leads in biological data",
-      "ja": "数千のAIエージェントを使用して、新しいリードを生物学的データで発見",
-      "ko": "수천 개의 AI 에이전트를 사용하여 생물학 데이터에 새로운 리드를 발견",
+      "ja": "OpenAI：数千の AI エージェントで生物データから新たな手がかりを探す",
+      "ko": "OpenAI: 수천 개 AI 에이전트로 생물 데이터에서 새 단서 찾기",
       "ms": "Memanfaatkan ribuan agen AI untuk mengungkap petunjuk baru dalam data biologi",
       "vi": "Sử dụng hàng ngàn đặc vụ AI để phát hiện các đầu mối mới trong dữ liệu sinh học",
       "fr": "Utilisation de milliers d'agents d'IA pour découvrir de nouvelles pistes dans les données biologiques",
@@ -519,16 +487,16 @@
       "de": "Verwenden von Tausenden von KI-Agenten, um neue Leads in biologischen Daten aufzudecken"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 openai.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 openai.com。",
-      "en": "Shared on Hacker News; original at openai.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は openai.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 openai.com에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di openai.com.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại openai.com.",
-      "fr": "Partagé sur Hacker News ; original sur openai.com.",
-      "es": "Compartido en Hacker News; original en openai.com.",
-      "de": "Geteilt auf Hacker News; Original auf openai.com."
+      "en": "OpenAI describes running thousands of AI agents to find new research leads in complex biological data.",
+      "zh-Hans": "OpenAI 介绍如何同时运行数千个 AI Agent，在复杂生物数据中发现新的研究线索。原文见 openai.com。",
+      "ja": "OpenAI が、数千の AI エージェントを動かして複雑な生物データから新しい研究の手がかりを見つける方法を紹介しています。",
+      "ko": "OpenAI가 수천 개의 AI 에이전트를 돌려 복잡한 생물 데이터에서 새로운 연구 단서를 찾는 방법을 소개합니다.",
+      "ms": "OpenAI menggambarkan menjalankan ribuan agen AI untuk menemukan penelitian baru mengarah dalam data biologi yang kompleks.",
+      "vi": "OpenAI mô tả việc vận hành hàng ngàn đặc vụ AI để tìm ra những đầu mối mới trong dữ liệu sinh học phức tạp.",
+      "fr": "OpenAI décrit l'utilisation de milliers d'agents d'IA pour trouver de nouvelles pistes de recherche dans des données biologiques complexes.",
+      "es": "OpenAI describe ejecutar miles de agentes de IA para encontrar nuevas pistas de investigación en datos biológicos complejos.",
+      "de": "OpenAI beschreibt den Betrieb von Tausenden von KI-Agenten, um neue Forschungsergebnisse in komplexen biologischen Daten zu finden.",
+      "zh-Hant": "OpenAI 介紹如何同時執行數千個 AI Agent，在複雜生物資料中發現新的研究線索。原文見 openai.com。"
      },
      "fact": {
       "zh-Hans": "Hacker News 121 分 · 71 条评论",
@@ -547,10 +515,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -561,11 +525,11 @@
     {
      "id": "hn-50171966",
      "title": {
-      "zh-Hans": "2026年上半年记录的人类净损失超过80B美元",
-      "zh-Hant": "2026年上半年記錄的人類淨損失超過80B美元",
+      "zh-Hans": "路透引 WSJ：Anthropic 2026 上半年净亏损超 800 亿美元",
+      "zh-Hant": "路透引 WSJ：Anthropic 2026 上半年淨虧損超 800 億美元",
       "en": "Anthropic logged net loss of over $80B in first half of 2026",
-      "ja": "2026年半ばに80Bを超える不正なネットロス",
-      "ko": "Anthropic은 2026 년 상반기에 $ 80B 이상의 그물 손실을 기록했습니다.",
+      "ja": "ロイター（WSJ 報道）：Anthropic、2026 年上半期の純損失は 800 億ドル超",
+      "ko": "로이터(WSJ 보도): Anthropic, 2026년 상반기 순손실 800억 달러 초과",
       "ms": "Kerugian bersih berlogan antropis lebih dari $ 80B pada paruh pertama 2026",
       "vi": "Một nửa đầu của năm 2026",
       "fr": "Perte nette enregistrée anthropique de plus de 80 milliards de dollars dans la première moitié de 2026",
@@ -573,16 +537,16 @@
       "de": "Anthropischer Nettoverlust von über 80 Mrd. USD im ersten Halbjahr 2026"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 reuters.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 reuters.com。",
-      "en": "Shared on Hacker News; original at reuters.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は reuters.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reuters.com에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di reuters.com.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại reuters.com.",
-      "fr": "Partagé sur Hacker News ; original sur reuters.com.",
-      "es": "Compartido en Hacker News; original en reuters.com.",
-      "de": "Geteilt auf Hacker News; Original auf reuters.com."
+      "en": "Reuters, citing the WSJ, reports that Anthropic recorded a net loss of more than $80B in the first half of 2026.",
+      "zh-Hans": "路透社援引《华尔街日报》报道，Anthropic 2026 年上半年录得超过 800 亿美元的净亏损。",
+      "ja": "ロイターが WSJ の報道を引用し、Anthropic が 2026 年上半期に 800 億ドルを超える純損失を計上したと伝えています。",
+      "ko": "로이터는 WSJ 보도를 인용해 Anthropic이 2026년 상반기에 800억 달러가 넘는 순손실을 기록했다고 전했습니다.",
+      "ms": "Reuters, yang mengutip WSJ, melaporkan bahwa Antropika mencatat kerugian bersih lebih dari $ 80B pada paruh pertama 2026.",
+      "vi": "Trong nửa đầu của năm 2026, có hơn 80 đô la.",
+      "fr": "Reuters, citant la WSJ, rapporte qu'Anthropic a enregistré une perte nette de plus de 80 milliards de dollars au cours de la première moitié de 2026.",
+      "es": "Reuters, citando el WSJ, informa que Anthropic registró una pérdida neta de más de $80B en la primera mitad de 2026.",
+      "de": "Reuters berichtet unter Berufung auf das WSJ, dass Anthropic in der ersten Hälfte des Jahres 2026 einen Nettoverlust von mehr als 80 Milliarden US-Dollar verzeichnete.",
+      "zh-Hant": "路透社援引《華爾街日報》報道，Anthropic 2026 年上半年錄得超過 800 億美元的淨虧損。"
      },
      "fact": {
       "zh-Hans": "Hacker News 185 分 · 91 条评论",
@@ -601,10 +565,6 @@
      "date": "2026-10-20",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -615,11 +575,11 @@
     {
      "id": "hn-50186518",
      "title": {
-      "zh-Hans": "自动化之后: 独创是默认",
-      "zh-Hant": "自動化之後: 獨創是預設",
+      "zh-Hans": "自动化之后：一人创业将成为默认选项",
+      "zh-Hant": "自動化之後：一人創業將成為預設選項",
       "en": "After automation: Solo founding will be the default",
-      "ja": "自動化後: 単独で見つけることはデフォルトです",
-      "ko": "자동화 후에: Solo founding는 과태일 것입니다",
+      "ja": "自動化のあとは「ひとり創業」が当たり前になる",
+      "ko": "자동화 이후에는 1인 창업이 기본이 된다",
       "ms": "Setelah otomasi: Solo pendiri akan menjadi default",
       "vi": "Sau khi tự động hoá: việc tìm kiếm Solo sẽ là mặc định",
       "fr": "Après l'automatisation : la fondation solo sera par défaut",
@@ -628,15 +588,15 @@
      },
      "summary": {
       "en": "Julian Weisser is the founder and CEO of Solo Founders and a cofounder of On Deck.",
-      "zh-Hans": "朱利安·魏瑟(Julian Weisser)是索洛创始人的创始人兼首席执行官,也是On Deck的联合创始人.",
-      "ja": "Julian Weisserは、ソロの創設者兼CEOであり、On Deckの共同創設者です。",
-      "ko": "Julian Weisser는 Solo Founders의 설립자이자 CEO이며 On Deck의 공동 설립자입니다.",
+      "zh-Hans": "Every 访谈 Solo Founders 创始人兼 CEO、On Deck 联合创始人 Julian Weisser，讨论自动化之后一人创业为何会成为常态。",
+      "ja": "Every が Solo Founders の創業者兼 CEO で On Deck 共同創業者の Julian Weisser に、自動化後にひとり創業が標準になる理由を聞いています。",
+      "ko": "Every가 Solo Founders 창업자 겸 CEO이자 On Deck 공동 창업자인 Julian Weisser와 자동화 이후 1인 창업이 기본이 되는 이유를 이야기합니다.",
       "ms": "Dia adalah pendiri dan CEO Solo Founders dan pendiri dari On Deck.",
       "vi": "Julian Weisser là người sáng lập và là giám đốc điều hành của nhà sáng lập Solo và là người đồng sáng lập kho bạc.",
       "fr": "Julian Weisser est le fondateur et PDG de Solo Founders et cofondateur d'On Deck.",
       "es": "Julian Weisser es el fundador y CEO de Solo Founders y cofundador de On Deck.",
       "de": "Julian Weisser ist Gründer und CEO von Solo Founders und Mitbegründer von On Deck.",
-      "zh-Hant": "朱利安·魏瑟(Julian Weisser)是索洛創始人的創始人兼執行長,也是On Deck的聯合創始人."
+      "zh-Hant": "Every 訪談 Solo Founders 創始人兼 CEO、On Deck 聯合創始人 Julian Weisser，討論自動化之後一人創業為何會成為常態。"
      },
      "fact": {
       "zh-Hans": "Hacker News 42 分 · 52 条评论",
@@ -655,10 +615,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -669,11 +625,11 @@
     {
      "id": "hn-50175779",
      "title": {
-      "zh-Hans": "利用克劳德减少代码的攻击表面",
-      "zh-Hant": "利用克勞德減少程式碼的攻擊表面",
+      "zh-Hans": "Anthropic：用 Claude 缩小代码的攻击面",
+      "zh-Hant": "Anthropic：用 Claude 縮小程式碼的攻擊面",
       "en": "Using Claude to reduce the attack surface of code",
-      "ja": "Claudeを使用して、コードの攻撃面を減らす",
-      "ko": "Claude를 사용하여 공격 표면을 줄입니다.",
+      "ja": "Anthropic：Claude でコードの攻撃面を減らす",
+      "ko": "Anthropic: Claude로 코드의 공격 표면 줄이기",
       "ms": "Memanfaatkan Claude untuk mengurangi serangan permukaan kode",
       "vi": "Dùng Claude để giảm thiểu sự tấn công của mật mã",
       "fr": "Utilisation de Claude pour réduire la surface d'attaque du code",
@@ -682,15 +638,15 @@
      },
      "summary": {
       "en": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term.",
-      "zh-Hans": "自动攻击表面分析和减少可切实改善近期部署软件的安全。",
-      "ja": "自動化された攻撃面解析と削減は、近い用語で展開されたソフトウェアのセキュリティを大幅に向上させることができます。",
-      "ko": "자동화된 공격 표면 분석 및 감소는 가까운 기간에 있는 배치된 소프트웨어의 안전을 의미적으로 개량할 수 있습니다.",
+      "zh-Hans": "Anthropic 研究认为，自动化的攻击面分析与缩减能在短期内明显提升已部署软件的安全性。",
+      "ja": "Anthropic の研究によれば、自動化された攻撃面の分析と削減は、稼働中のソフトウェアの安全性を短期間で大きく高められます。",
+      "ko": "Anthropic 연구에 따르면 자동화된 공격 표면 분석과 축소는 배포된 소프트웨어의 보안을 단기간에 크게 높일 수 있습니다.",
       "ms": "Analisis dan pengurangan permukaan serangan terotomatisasi dapat meningkatkan keamanan perangkat lunak yang dikerahkan dalam jangka dekat.",
       "vi": "Phân tích bề mặt tấn công tự động và giảm thiểu có thể cải thiện một cách đầy ý nghĩa sự an toàn của phần mềm triển khai trong khoảng thời gian gần.",
       "fr": "L'analyse et la réduction automatisées des surfaces d'attaque peuvent améliorer sensiblement la sécurité des logiciels déployés à court terme.",
       "es": "El análisis y la reducción de la superficie de ataque automatizado pueden mejorar significativamente la seguridad del software desplegado a corto plazo.",
       "de": "Die automatisierte Analyse und Reduzierung von Angriffsflächen kann die Sicherheit der bereitgestellten Software kurzfristig erheblich verbessern.",
-      "zh-Hant": "自動攻擊表面分析和減少可切實改善近期部署軟體的安全。"
+      "zh-Hant": "Anthropic 研究認為，自動化的攻擊面分析與縮減能在短期內明顯提升已部署軟體的安全性。"
      },
      "fact": {
       "zh-Hans": "Hacker News 128 分 · 84 条评论",
@@ -709,10 +665,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -723,11 +675,11 @@
     {
      "id": "hn-50180079",
      "title": {
-      "zh-Hans": "OpenAI 模型将来到 Google Cloud",
-      "zh-Hant": "OpenAI 模型將來到 Google Cloud",
+      "zh-Hans": "OpenAI 模型将登陆 Google Cloud",
+      "zh-Hant": "OpenAI 模型將登陸 Google Cloud",
       "en": "OpenAI models are coming to Google Cloud",
-      "ja": "OpenAIモデルがGoogle Cloudへ",
-      "ko": "OpenAI 모델은 Google Cloud에 있습니다.",
+      "ja": "OpenAI のモデルが Google Cloud に登場",
+      "ko": "OpenAI 모델, Google Cloud에 출시",
       "ms": "Model OpenAI dari Google Cloud",
       "vi": "Các mô hình OpenAI đang đến với Google Cloud",
       "fr": "Les modèles OpenAI arrivent sur Google Cloud",
@@ -735,16 +687,16 @@
       "de": "OpenAI-Modelle kommen zu Google Cloud"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 openai.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 openai.com。",
-      "en": "Shared on Hacker News; original at openai.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は openai.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 openai.com에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di openai.com.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại openai.com.",
-      "fr": "Partagé sur Hacker News ; original sur openai.com.",
-      "es": "Compartido en Hacker News; original en openai.com.",
-      "de": "Geteilt auf Hacker News; Original auf openai.com."
+      "en": "OpenAI announces that its models will be available through Google Cloud.",
+      "zh-Hans": "OpenAI 宣布其模型将通过 Google Cloud 提供。原文见 openai.com。",
+      "ja": "OpenAI が、自社モデルを Google Cloud で提供すると発表しました。",
+      "ko": "OpenAI가 자사 모델을 Google Cloud에서 제공한다고 발표했습니다.",
+      "ms": "OTAIN OpenAI mengumumkan bahwa model-modelnya akan tersedia melalui Google Cloud.",
+      "vi": "OpenAI thông báo rằng mô hình của nó sẽ có sẵn thông qua Google Cloud.",
+      "fr": "OpenAI annonce que ses modèles seront disponibles via Google Cloud.",
+      "es": "OpenAI anuncia que sus modelos estarán disponibles a través de Google Cloud.",
+      "de": "OpenAI gibt bekannt, dass seine Modelle über Google Cloud verfügbar sein werden.",
+      "zh-Hant": "OpenAI 宣佈其模型將透過 Google Cloud 提供。原文見 openai.com。"
      },
      "fact": {
       "zh-Hans": "Hacker News 201 分 · 89 条评论",
@@ -763,10 +715,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -777,11 +725,11 @@
     {
      "id": "hn-50170021",
      "title": {
-      "zh-Hans": "Claude设计了蛋白质粘合剂来对抗蝎子神经毒素",
-      "zh-Hant": "Claude設計了蛋白質粘合劑來對抗蠍子神經毒素",
+      "zh-Hans": "Claude 设计出对抗蝎毒神经毒素的蛋白结合体",
+      "zh-Hant": "Claude 設計出對抗蠍毒神經毒素的蛋白結合體",
       "en": "Claude designed protein binders against scorpion neurotoxins",
-      "ja": "クロードは、スコーピオンニューロトキシンに対するタンパク質結合剤を設計しました",
-      "ko": "Claude는 전갈 신경 독소에 대한 단백질 바인더를 설계",
+      "ja": "Claude がサソリ神経毒に対するタンパク質バインダーを設計",
+      "ko": "Claude, 전갈 신경독에 대응하는 단백질 결합체 설계",
       "ms": "Claude merancang pengikat protein melawan neurotoksin kalajengking",
       "vi": "Claude thiết kế chất kết dính protein chống lại chất độc thần kinh bọ cạp",
       "fr": "Claude a conçu des liants protéiques contre les neurotoxines du scorpion",
@@ -790,15 +738,15 @@
      },
      "summary": {
       "en": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
-      "zh-Hans": "我们要求一个Claude模型进行内部研究, 设计迷你药剂(小蛋白质, 紧紧地附着在靶子上)来对抗蝎子神经毒素。",
-      "ja": "集結ニューロトキシンに対してミニバインド(ターゲットにしっかりとつける小タンパク質)を設計するために内部研究クラウドモデルを依頼しました。",
-      "ko": "우리는 scorpion neurotoxins에 대한 타겟에 단단히 부착 된 소형 단백질을 설계하기 위해 내부 연구 클로드 모델을 물었다.",
+      "zh-Hans": "Anthropic 让内部研究版 Claude 设计微型结合蛋白（能紧密附着目标的小蛋白），用来对抗蝎子神经毒素。",
+      "ja": "Anthropic は社内研究用の Claude に、サソリの神経毒に強く結合する小さなタンパク質（ミニバインダー）を設計させました。",
+      "ko": "Anthropic은 내부 연구용 Claude에게 전갈 신경독에 단단히 결합하는 작은 단백질(미니바인더)을 설계하게 했습니다.",
       "ms": "Kami meminta sebuah riset internal model Claude untuk merancang minibinder (protein kecil yang menempel erat pada target) melawan neurotoksin kalajengking.",
       "vi": "Chúng tôi đã yêu cầu một mô hình nghiên cứu nội bộ Claude thiết kế các loại protein nhỏ gắn chặt vào mục tiêu, chống lại các chất độc thần kinh bò cạp.",
       "fr": "Nous avons demandé à un modèle de recherche interne Claude de concevoir des minibinders (petites protéines qui s'attachent étroitement à une cible) contre les neurotoxines du scorpion.",
       "es": "Pedimos un modelo de investigación interna Claude para diseñar minibinders (proteínas pequeñas que se adhieren firmemente a un objetivo) contra neurotoxinas escorpión.",
       "de": "Wir haben ein internes Forschungsmodell von Claude gebeten, Minibinder (kleine Proteine, die sich fest an ein Ziel binden) gegen Skorpion-Neurotoxine zu entwerfen.",
-      "zh-Hant": "我們要求一個Claude模型進行內部研究, 設計迷你藥劑(小蛋白質, 緊緊地附著在靶子上)來對抗蠍子神經毒素。"
+      "zh-Hant": "Anthropic 讓內部研究版 Claude 設計微型結合蛋白（能緊密附著目標的小蛋白），用來對抗蠍子神經毒素。"
      },
      "fact": {
       "zh-Hans": "Hacker News 117 分 · 75 条评论",
@@ -817,10 +765,6 @@
      "date": "2026-10-20",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -831,11 +775,11 @@
     {
      "id": "hn-50180039",
      "title": {
-      "zh-Hans": "Sumi.css – CSS框架",
-      "zh-Hant": "Sumi.css – CSS框架",
+      "zh-Hans": "Sumi.css：极简 CSS 框架",
+      "zh-Hant": "Sumi.css：極簡 CSS 框架",
       "en": "Sumi.css – CSS Framework",
-      "ja": "CSSフレームワーク",
-      "ko": "Sumi.css – CSS 프레임 워크",
+      "ja": "Sumi.css：ミニマルな CSS フレームワーク",
+      "ko": "Sumi.css: 미니멀 CSS 프레임워크",
       "ms": "Sumi.css – CSS Framework",
       "vi": "Sumi.css – Công việc khung CN",
       "fr": "Sumi.css – Cadre CSS",
@@ -844,15 +788,15 @@
      },
      "summary": {
       "en": "A minimalist, classless-first CSS framework.",
-      "zh-Hans": "一个最小的,无阶级的首个CSS框架.",
-      "ja": "最小限のクラスレスファーストCSSフレームワーク。",
-      "ko": "최소, classless-first CSS 프레임 워크.",
+      "zh-Hans": "一个极简、优先无需 class 的 CSS 框架。",
+      "ja": "クラス不要を基本にしたミニマルな CSS フレームワークです。",
+      "ko": "클래스 없이 쓰는 것을 우선한 미니멀 CSS 프레임워크입니다.",
       "ms": "Rangka kerja CSS tanpa kelas.",
       "vi": "Một khuôn khổ CNSS tối thiểu, không hạng nhất.",
       "fr": "Un cadre CSS minimaliste, sans classe.",
       "es": "Un marco CSS minimalista y sin clase.",
       "de": "Ein minimalistisches, classless-first CSS Framework.",
-      "zh-Hant": "一個最小的,無階級的首個CSS框架."
+      "zh-Hant": "一個極簡、優先無需 class 的 CSS 框架。"
      },
      "fact": {
       "zh-Hans": "Hacker News 70 分 · 18 条评论",
@@ -871,10 +815,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -885,11 +825,11 @@
     {
      "id": "hn-50176077",
      "title": {
-      "zh-Hans": "PHP会话.upload 进步堆积 UAF(CVE-2026-109618 / -109619)",
-      "zh-Hant": "PHP會話.upload 進步堆積 UAF(CVE-2026-109618 / -109619)",
+      "zh-Hans": "PHP session.upload_progress 堆 UAF 分析（CVE-2026-109618 / -109619）",
+      "zh-Hant": "PHP session.upload_progress 堆 UAF 分析（CVE-2026-109618 / -109619）",
       "en": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
-      "ja": "PHP セッション.upload progress ヒープ UAF (CVE-2026-109618/-109619)",
-      "ko": "PHP session.upload progress 힙 UAF (CVE-2026-109618 / -109619)",
+      "ja": "PHP session.upload_progress のヒープ UAF 分析（CVE-2026-109618 / -109619）",
+      "ko": "PHP session.upload_progress 힙 UAF 분석 (CVE-2026-109618 / -109619)",
       "ms": "Sesi PHP .upload progress setumpuk UAF (CVE-2026-109618 / -109619)",
       "vi": "Phiên chạy PHP. upload  progite UAF (CVE-26-109618 / - 109619)",
       "fr": "PHP session.upload progress heap UAF (CVE-2026-109618 / -109619)",
@@ -898,15 +838,15 @@
      },
      "summary": {
       "en": "CORRECTED FINDINGS (2026-10-21): Cached-pointer chain DEAD at the addref (session.c:3213 Z_TRY_ADDREF keeps array alive - no free, no RCE, CVSS 0.0).",
-      "zh-Hans": "CORREDED FINGS (2026-10-21): addref上的缓冲点链 DEAD(session.c: 3213 Z TRY ADDREF) 使阵列保持生命 - 没有自由,没有RCE, CVSS 0.0.",
-      "ja": "CORRECTED FINDINGS(2026-10-21): カケド・ポインター・チェーン・ディード(session.c:3213 Z TRY ADDREF) 配列を生き残さない - RCE、CVSS 0.0なし。",
-      "ko": "CORRECTED FINDINGS (2026-10-21): addref (session.c:3213 Z TRY ADDREF에서 예약된 지점 체인 거래 어레이를 유지 - 무료, RCE 없음, CVSS 0.0).",
+      "zh-Hans": "作者 10-21 更正结论：所述利用链在 addref 处断掉，数组不会被释放，无法 RCE，CVSS 0.0。",
+      "ja": "筆者は 10 月 21 日に結論を訂正：攻撃チェーンは addref の時点で途切れ、配列は解放されず RCE は成立しない（CVSS 0.0）としています。",
+      "ko": "작성자는 10월 21일 결론을 정정했습니다. 공격 체인은 addref에서 끊겨 배열이 해제되지 않으며 RCE는 불가능하다고(CVSS 0.0) 밝혔습니다.",
       "ms": "FINDINGS (2026-10-21): Cached-pointer chain DEAD di addref (session.c:13 Z TRY ADDREF vicefine membuat array tetap hidup - tidak gratis, tidak ada RCE, CVSS 0.0).",
       "vi": "CORRECINGINGS (2026-10-21): Cched-pointer DEAD tại addref (sesition.c: 3213 Z TRY ADREF giữ các dãy sống - không miễn phí, không RCE, CVSS 0.0).",
       "fr": "CONSTATATIONS CORRECTES (2026-10-21): Chaîne de pointeurs Cached DEAD à l'addref (session.c:3213 Z TRY ADDREF) maintient le tableau en vie - aucun libre, aucun RCE, CVSS 0.0).",
       "es": "CORRECTED FINDINGS (2026-10-21): Cache-pointer chain DEAD at the addref (session.c:3213 Z TRY ADDREF mantiene la matriz viva - no libre, no RCE, CVSS 0.0).",
       "de": "KORREKTURIERTE FESTSTELLUNGEN (2026-10-21): Cached-Pointer-Kette DEAD am addref (session.c:3213 Z TRY ADDREF) hält Array am Leben - kein frei, kein RCE, CVSS 0.0.",
-      "zh-Hant": "CORREDED FINGS (2026-10-21): addref上的緩衝點鏈 DEAD(session.c: 3213 Z TRY ADDREF) 使陣列保持生命 - 沒有自由,沒有RCE, CVSS 0.0."
+      "zh-Hant": "作者 10-21 更正結論：所述利用鏈在 addref 處斷掉，陣列不會被釋放，無法 RCE，CVSS 0.0。"
      },
      "fact": {
       "zh-Hans": "Hacker News 184 分 · 62 条评论",
@@ -925,10 +865,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -939,11 +875,11 @@
     {
      "id": "hn-50175510",
      "title": {
-      "zh-Hans": "C#现在在WASM大小上胜过Rust",
-      "zh-Hant": "C#現在在WASM大小上勝過Rust",
+      "zh-Hans": "NetWasm：C# 编译出的 WASM 体积超过 Rust 更小",
+      "zh-Hant": "NetWasm：C# 編譯出的 WASM 體積超過 Rust 更小",
       "en": "C# now beats Rust on WASM size",
-      "ja": "C# は WASM のサイズで Rust を打ち破りました",
-      "ko": "C#는 지금 WASM 크기에 녹을 이깁니다",
+      "ja": "NetWasm：C# が WASM サイズで Rust を上回る",
+      "ko": "NetWasm: C#이 WASM 크기에서 Rust를 앞서다",
       "ms": "Sekarang mengalahkan Rust dengan ukuran WASM",
       "vi": "Bây giờ đánh bại Rust trên MM kích thước",
       "fr": "C# bat maintenant Rust sur WASM taille",
@@ -952,15 +888,15 @@
      },
      "summary": {
       "en": "Compile C# and .NET CIL to small standalone Wasm with WASI (AOT with built-in Runtime and Precise GC)",
-      "zh-Hans": "将 C# 和. NET CIL 与 WASI 一起编译为小型独立瓦斯姆(AOT 带有内置运行时段和精确GC)",
-      "ja": "C# と .NET CIL を WASI で小さなスタンドアロン Wasm にコンパイルします。(AOT を内蔵したランタイムと精密な GC)",
-      "ko": "C#와 .NET CIL을 WASI로 작은 독립 Wasm에 컴파일하십시오 (붙박이 런타임과 정확한 GC를 가진 AOT)",
+      "zh-Hans": "把 C# 和 .NET CIL 编译成小巧独立的 WASI Wasm（AOT，自带运行时和精确 GC）。",
+      "ja": "C# と .NET CIL を WASI 対応の小さな単体 Wasm にコンパイルします（AOT、ランタイムと精密 GC 内蔵）。",
+      "ko": "C#과 .NET CIL을 WASI용 작은 독립 Wasm으로 컴파일합니다(AOT, 런타임과 정밀 GC 내장).",
       "ms": "Kompilasi C# dan .NET CIL ke kecil berdiri sendiri Wasm dengan WASI (AOT dengan dibangun di Runtime dan Precise GC)",
       "vi": "Compile C# và .NET CIL nhỏ đứng một wasm với SRI (Không có sẵn trong thời chạy và tiền tố GC)",
       "fr": "Compilez C# et .NET CIL à petit Wasm autonome avec WASI (AOT avec Runtime intégré et GC précis)",
       "es": "Compile C# and .NET CIL to small standalone Wasm with WASI (AOT with built-in Runtime and Precise GC)",
       "de": "Compilieren von C# und .NET CIL zu kleinem Standalone Wasm mit WASI (AOT mit integrierter Runtime und Precise GC)",
-      "zh-Hant": "將 C# 和. NET CIL 與 WASI 一起編譯為小型獨立瓦斯姆(AOT 帶有內建執行時段和精確GC)"
+      "zh-Hant": "把 C# 和 .NET CIL 編譯成小巧獨立的 WASI Wasm（AOT，自帶執行時和精確 GC）。"
      },
      "fact": {
       "zh-Hans": "Hacker News 152 分 · 100 条评论",
@@ -979,10 +915,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -993,11 +925,11 @@
     {
      "id": "hn-50181326",
      "title": {
-      "zh-Hans": "Cloudflare 部署了防止php2壳脆弱性的保护",
-      "zh-Hant": "Cloudflare 部署了防止php2殼脆弱性的保護",
+      "zh-Hans": "Cloudflare 已上线针对 php2shell 漏洞的防护",
+      "zh-Hant": "Cloudflare 已上線針對 php2shell 漏洞的防護",
       "en": "Cloudflare deploys protections against php2shell vulnerability",
-      "ja": "Cloudflareは、php2shell脆弱性に対する保護をデプロイ",
-      "ko": "Cloudflare는 php2shell 취약점에 대한 보호를 배치",
+      "ja": "Cloudflare、php2shell 脆弱性への防御を展開",
+      "ko": "Cloudflare, php2shell 취약점 방어 배포",
       "ms": "php2shell kerentanan",
       "vi": "Mây tan tác bảo vệ chống lại sự tổn thương php2",
       "fr": "Cloudflare déploie des protections contre la vulnérabilité php2shell",
@@ -1006,15 +938,15 @@
      },
      "summary": {
       "en": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure.",
-      "zh-Hans": "Cloudflare在公开披露之前为新披露的PHP漏洞部署了默认的网络应用防火墙(WAF)保护.",
-      "ja": "Cloudflareは、公開開示前に新しく公開されたPHP脆弱性に対するデフォルトのWebアプリケーションファイアウォール(WAF)保護を導入しました。",
-      "ko": "Cloudflare는 공개 공개 공개 공개 공개 전에 공개 된 PHP 취약점에 대한 기본 웹 응용 프로그램 방화벽 (WAF) 보호를 배포했습니다.",
+      "zh-Hans": "Cloudflare 在 PHP 漏洞公开之前，就为新披露的漏洞部署了默认 WAF（网站应用防火墙）防护。",
+      "ja": "Cloudflare は、新たに公表された PHP の脆弱性に対し、公開前からデフォルトの WAF 防御を展開していました。",
+      "ko": "Cloudflare는 새로 공개된 PHP 취약점에 대해 공개 이전에 기본 WAF 보호를 배포했습니다.",
       "ms": "Healford Cloudflare telah mengerahkan proteksi firewall aplikasi web standar (WAF) untuk kerentanan PHP yang baru terungkap sebelum pengungkapan publik.",
       "vi": "Mây đã triển khai tường lửa mạng mặc định (WAF) để bảo vệ các điểm PHP vulnera khả năng mới được tiết lộ trước khi công chúng công khai.",
       "fr": "Cloudflare a déployé des protections par défaut de pare-feu d'application web (WAF) pour les vulnérabilités PHP nouvellement divulguées avant la divulgation publique.",
       "es": "Cloudflare ha implementado protección de firewall de aplicación web predeterminada (WAF) para vulnerabilidades PHP recientemente reveladas antes de la divulgación pública.",
       "de": "Cloudflare hat standardmäßige WAF-Schutzmechanismen (Web Application Firewall) für neu offenbarte PHP-Schwachstellen vor der Veröffentlichung bereitgestellt.",
-      "zh-Hant": "Cloudflare在公開披露之前為新披露的PHP漏洞部署了預設的網路應用防火牆(WAF)保護."
+      "zh-Hant": "Cloudflare 在 PHP 漏洞公開之前，就為新披露的漏洞部署了預設 WAF（網站應用防火牆）防護。"
      },
      "fact": {
       "zh-Hans": "Hacker News 100 分 · 15 条评论",
@@ -1033,10 +965,6 @@
      "date": "2026-10-21",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -1208,7 +1136,8 @@
       "de"
      ]
     }
-   ]
+   ],
+   "updated": "2026-10-22T00:27:02Z"
   },
   {
    "date": "2026-10-21",

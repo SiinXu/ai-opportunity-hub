@@ -3922,5 +3922,77 @@
 "es": "Por el análisis del mercado esta hoja de ruta se construye, la ingeniería de IA en 2026 pasó de \"modelos de entrenamiento\" a \"construir sistemas de agentes confiables\" en la parte superior de los modelos que ya existen. El mismo análisis encuentra tres habilidades repetidas en cada descripción de trabajo: RAG, Agentes y Evals. Per LinkedIn Jobs on the Rise 2026, AI Engineer es el trabajo de más rápido crecimiento en Estados Unidos, con un crecimiento del 143%. Esta hoja de ruta toma un principiante a través de esas habilidades en cinco capas, cada final en un mini-proyecto que se puede mostrar. Para los títulos de trabajo y el resto de los números, vea Carreras. - Capa por capa. Escoge una capa, termina su mini-proyecto, y continúa hacia el siguiente. - En un horario. Siga el plan de muestra de 12 semanas. Cada presupuesto de capa asume ~10 hrs/week. A ese ritmo las cinco capas tardan alrededor de 25 semanas. - Carreras: a qué títulos de trabajo conduce cada capa. - Recursos: todos los recursos de una lista. - Contribuir: cómo sugerir un recurso o arreglar.",
 "de": "Laut der Marktanalyse, auf der diese Roadmap aufbaut, verlagerte sich AI Engineering im Jahr 2026 von \"Zugmodellen\" auf \"zuverlässige Agentensysteme\" auf der Grundlage bereits vorhandener Modelle. Die gleiche Analyse findet drei Fähigkeiten, die in jeder Stellenbeschreibung wiederholt werden: RAG, Agenten und Evals. Laut LinkedIn Jobs on the Rise 2026 ist AI Engineer mit 143% Wachstum der am schnellsten wachsende Job in den USA. Diese Roadmap führt einen Anfänger durch diese Fähigkeiten in fünf Schichten, die jeweils in einem Mini-Projekt enden, das Sie zeigen können. Für Berufsbezeichnungen und den Rest der Zahlen, siehe Karriere. - Schicht für Schicht. Wählen Sie eine Ebene, beenden Sie das Mini-Projekt und gehen Sie zum nächsten über. - Auf einem Zeitplan. Befolgen Sie den 12-Wochen-Musterplan. Jedes Schichtbudget nimmt ~ 10 Stunden / Woche an. In diesem Tempo dauern die fünf Schichten etwa 25 Wochen. Karriere: zu welchen Berufsbezeichnungen jede Schicht führt. Ressourcen: jede Ressource in einer Liste. - Beitragen: wie man eine Ressource vorschlägt oder repariert.",
 "zh-Hant": "根據這個路線圖的市場分析,2026年AI工程在已經存在的模型之上從\"火車模型\"轉向\"建設可靠的代理系統\". 同樣的分析發現,在每個職務說明中重複了三種技能:RAG,Agents,和Evals. Per LinkedIn Jobs on the Rise 2026,AI Engineer是美國增長最快的工作,增長143%. 這個路線圖需要一位初學者透過這些技能分成五層,每層以一個小型專案結尾,你可以展示。 關於職稱和其餘數字,見職業。 - 逐層 選擇一層,完成微型專案,然後轉到下一個。 - 怎麼樣? 按時間表 按照12周的樣本計劃 每一層的預算假定每週10小時。 這樣,五層大約需要25周。 - 職業:每一層的職稱。 - 資源:一個清單中的每一項資源。 - 貢獻:如何建議資源或修復。"
+},
+"PHP 8.2.35 is out with fixes for the critical security vulnerabilities disclosed this week; sites on the 8.2 branch should upgrade soon.\u0000PHP 官方发布 8.2.35，修复本轮公开的严重安全漏洞；使用 PHP 8.2 分支的站点应尽快升级。": {
+"en": "PHP 8.2.35 is out with fixes for the critical security vulnerabilities disclosed this week; sites on the 8.2 branch should upgrade soon.",
+"zh-Hans": "PHP 官方发布 8.2.35，修复本轮公开的严重安全漏洞；使用 PHP 8.2 分支的站点应尽快升级。",
+"ja": "PHP 8.2.35 では、今週公開された重要なセキュリティ脆弱性の修正が行われます。8.2 ブランチのサイトはすぐにアップグレードする必要があります。",
+"ko": "PHP 8.2.35는 이번 주에 공개 된 중요한 보안 취약점에 대한 수정 사항이 나와 있습니다. 8.2 분기에 사이트가 곧 업그레이드해야합니다.",
+"ms": "PHP 8.2.35 adalah keluar dengan perbaikan untuk kerentanan keamanan kritis diungkapkan minggu ini; situs pada cabang 8,2 harus segera upgrade.",
+"vi": "PHP 8.35 ra ngoài với sự sửa chữa cho các điểm an ninh quan trọng tiết lộ tuần này; các địa điểm trên chi nhánh 8.2 sẽ được nâng cấp sớm.",
+"fr": "PHP 8.2.35 est sorti avec des corrections pour les vulnérabilités de sécurité critiques divulguées cette semaine; les sites de la branche 8.2 devraient être mis à niveau rapidement.",
+"es": "PHP 8.2.35 está fuera con correcciones para las vulnerabilidades de seguridad críticas reveladas esta semana; los sitios en la rama 8.2 deben actualizar pronto.",
+"de": "PHP 8.2.35 enthält Korrekturen für die kritischen Sicherheitslücken, die diese Woche bekannt gegeben wurden; Websites auf dem 8.2-Zweig sollten bald aktualisiert werden.",
+"zh-Hant": "PHP 官方釋出 8.2.35，修復本輪公開的嚴重安全漏洞；使用 PHP 8.2 分支的站點應儘快升級。"
+},
+"php.net security advisory: several critical remote code execution vulnerabilities are fixed, and all users are urged to update to the latest patch releases now.\u0000php.net 发布安全公告：多个严重远程代码执行漏洞已修复，官方建议所有用户立即升级到最新补丁版本。": {
+"en": "php.net security advisory: several critical remote code execution vulnerabilities are fixed, and all users are urged to update to the latest patch releases now.",
+"zh-Hans": "php.net 发布安全公告：多个严重远程代码执行漏洞已修复，官方建议所有用户立即升级到最新补丁版本。",
+"ja": "php.netセキュリティアドバイザリー:いくつかの重要なリモートコード実行脆弱性が修正され、すべてのユーザーは最新のパッチリリースに更新するよう求められます。",
+"ko": "php.net 보안 자문 : 몇 가지 중요한 원격 코드 실행 취약점이 고정되어 있으며 모든 사용자는 최신 패치 릴리스로 업데이트 할 수 있습니다.",
+"ms": "Penasehat keamanan php.net: beberapa kode remote kritis eksekusi kerentanan adalah tetap, dan semua pengguna didesak untuk memperbarui ke rilis patch terbaru sekarang.",
+"vi": "php.net cố vấn an ninh: một số mã lệnh từ xa quan trọng thực hiện vulnera được cố định, và tất cả các người dùng được khuyến khích cập nhật tới bản phát hành mới nhất.",
+"fr": "php.net : plusieurs vulnérabilités critiques d'exécution de code distant sont corrigées, et tous les utilisateurs sont invités à mettre à jour les dernières versions de patch maintenant.",
+"es": "php.net asesor de seguridad: se fijan varias vulnerabilidades críticas de ejecución de código remoto, y se insta a todos los usuarios a actualizar a las últimas versiones de parche ahora.",
+"de": "php.net-Sicherheitsempfehlung: Es werden mehrere kritische Sicherheitslücken bei der Ausführung von Remotecode behoben, und alle Benutzer werden aufgefordert, jetzt auf die neuesten Patch-Versionen zu aktualisieren.",
+"zh-Hant": "php.net 釋出安全公告：多個嚴重遠端程式碼執行漏洞已修復，官方建議所有使用者立即升級到最新補丁版本。"
+},
+"OpenAI introduces Patch the Planet, a coordinated global effort to disclose and fix critical vulnerabilities as AI agents uncover them at scale.\u0000OpenAI 发文介绍 Patch the Planet：当 AI Agent 批量发现严重漏洞时，如何在全球范围协调披露与修补。": {
+"en": "OpenAI introduces Patch the Planet, a coordinated global effort to disclose and fix critical vulnerabilities as AI agents uncover them at scale.",
+"zh-Hans": "OpenAI 发文介绍 Patch the Planet：当 AI Agent 批量发现严重漏洞时，如何在全球范围协调披露与修补。",
+"ja": "OpenAIは、AIエージェントがスケールでそれらをカバーし、重要な脆弱性を開示し、修正するための調整されたグローバル努力であるPlanetをパッチ導入しました。",
+"ko": "OpenAI는 플래닛을 소개하며, 글로벌 노력은 AI 에이전트로 중요한 취약점을 공개하고 수정합니다.",
+"ms": "Heaven OpenAI memperkenalkan Patch the Planet, upaya global yang terkoordinasi untuk mengungkapkan dan memperbaiki kerentanan kritis sebagai agen AI mengungkap mereka secara skala.",
+"vi": "OpenAI giới thiệu Patch the Planet, một nỗ lực phối hợp toàn cầu để tiết lộ và sửa chữa những khuyết điểm nghiêm trọng khi các đặc vụ AI phát hiện chúng ở quy mô.",
+"fr": "OpenAI présente Patch the Planet, un effort mondial coordonné pour révéler et corriger les vulnérabilités critiques que les agents de l'IA découvrent à l'échelle.",
+"es": "OpenAI presenta Patch the Planet, un esfuerzo mundial coordinado para revelar y corregir vulnerabilidades críticas a medida que los agentes de IA los descubren a escala.",
+"de": "OpenAI führt Patch the Planet ein, eine koordinierte globale Anstrengung zur Offenlegung und Behebung kritischer Schwachstellen, wenn KI-Agenten sie in großem Maßstab aufdecken.",
+"zh-Hant": "OpenAI 發文介紹 Patch the Planet：當 AI Agent 批次發現嚴重漏洞時，如何在全球範圍協調披露與修補。"
+},
+"OpenAI describes running thousands of AI agents to find new research leads in complex biological data.\u0000OpenAI 介绍如何同时运行数千个 AI Agent，在复杂生物数据中发现新的研究线索。原文见 openai.com。": {
+"en": "OpenAI describes running thousands of AI agents to find new research leads in complex biological data.",
+"zh-Hans": "OpenAI 介绍如何同时运行数千个 AI Agent，在复杂生物数据中发现新的研究线索。原文见 openai.com。",
+"ja": "OpenAIは、数千のAIエージェントが、複雑な生物学的データに新たな研究のリードを見つけることを説明しています。",
+"ko": "OpenAI는 수천 개의 AI 에이전트를 사용하여 복잡한 생물학적 데이터에 새로운 연구 리드를 찾을 수 있습니다.",
+"ms": "OpenAI menggambarkan menjalankan ribuan agen AI untuk menemukan penelitian baru mengarah dalam data biologi yang kompleks.",
+"vi": "OpenAI mô tả việc vận hành hàng ngàn đặc vụ AI để tìm ra những đầu mối mới trong dữ liệu sinh học phức tạp.",
+"fr": "OpenAI décrit l'utilisation de milliers d'agents d'IA pour trouver de nouvelles pistes de recherche dans des données biologiques complexes.",
+"es": "OpenAI describe ejecutar miles de agentes de IA para encontrar nuevas pistas de investigación en datos biológicos complejos.",
+"de": "OpenAI beschreibt den Betrieb von Tausenden von KI-Agenten, um neue Forschungsergebnisse in komplexen biologischen Daten zu finden.",
+"zh-Hant": "OpenAI 介紹如何同時執行數千個 AI Agent，在複雜生物資料中發現新的研究線索。原文見 openai.com。"
+},
+"Reuters, citing the WSJ, reports that Anthropic recorded a net loss of more than $80B in the first half of 2026.\u0000路透社援引《华尔街日报》报道，Anthropic 2026 年上半年录得超过 800 亿美元的净亏损。": {
+"en": "Reuters, citing the WSJ, reports that Anthropic recorded a net loss of more than $80B in the first half of 2026.",
+"zh-Hans": "路透社援引《华尔街日报》报道，Anthropic 2026 年上半年录得超过 800 亿美元的净亏损。",
+"ja": "ロイター、WSJ を引用し、Anthropic は 2026 年の最初の半分に $80B 以上のネット損失を記録したと報告します。",
+"ko": "Reuters, WSJ 인용, Anthropic은 2026 년 상반기에 $ 80B 이상의 그물 손실을 기록했다고보고.",
+"ms": "Reuters, yang mengutip WSJ, melaporkan bahwa Antropika mencatat kerugian bersih lebih dari $ 80B pada paruh pertama 2026.",
+"vi": "Trong nửa đầu của năm 2026, có hơn 80 đô la.",
+"fr": "Reuters, citant la WSJ, rapporte qu'Anthropic a enregistré une perte nette de plus de 80 milliards de dollars au cours de la première moitié de 2026.",
+"es": "Reuters, citando el WSJ, informa que Anthropic registró una pérdida neta de más de $80B en la primera mitad de 2026.",
+"de": "Reuters berichtet unter Berufung auf das WSJ, dass Anthropic in der ersten Hälfte des Jahres 2026 einen Nettoverlust von mehr als 80 Milliarden US-Dollar verzeichnete.",
+"zh-Hant": "路透社援引《華爾街日報》報道，Anthropic 2026 年上半年錄得超過 800 億美元的淨虧損。"
+},
+"OpenAI announces that its models will be available through Google Cloud.\u0000OpenAI 宣布其模型将通过 Google Cloud 提供。原文见 openai.com。": {
+"en": "OpenAI announces that its models will be available through Google Cloud.",
+"zh-Hans": "OpenAI 宣布其模型将通过 Google Cloud 提供。原文见 openai.com。",
+"ja": "OpenAIは、Google Cloudを通じてモデルが利用可能であることを発表しました。",
+"ko": "OpenAI는 Google Cloud를 통해 모델을 사용할 수 있음을 알려드립니다.",
+"ms": "OTAIN OpenAI mengumumkan bahwa model-modelnya akan tersedia melalui Google Cloud.",
+"vi": "OpenAI thông báo rằng mô hình của nó sẽ có sẵn thông qua Google Cloud.",
+"fr": "OpenAI annonce que ses modèles seront disponibles via Google Cloud.",
+"es": "OpenAI anuncia que sus modelos estarán disponibles a través de Google Cloud.",
+"de": "OpenAI gibt bekannt, dass seine Modelle über Google Cloud verfügbar sein werden.",
+"zh-Hant": "OpenAI 宣佈其模型將透過 Google Cloud 提供。原文見 openai.com。"
 }
 }
