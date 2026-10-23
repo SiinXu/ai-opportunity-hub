@@ -1,6 +1,1158 @@
 {
- "latest": "2026-10-22",
+ "latest": "2026-10-23",
  "digests": [
+  {
+   "date": "2026-10-23",
+   "path": "digest/2026-10-23/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-22T23:30:00Z",
+   "generated": "2026-10-23T00:17:36Z",
+   "new_count": 50,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-23",
+    "zh-Hant": "早間技術熱點 · 2026-10-23",
+    "en": "Morning tech digest · 2026-10-23",
+    "ja": "朝のテックダイジェスト · 2026-10-23",
+    "ko": "아침 테크 다이제스트 · 2026-10-23",
+    "ms": "Ringkasan teknologi pagi · 2026-10-23",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-23",
+    "fr": "Digest tech du matin · 2026-10-23",
+    "es": "Resumen tecnológico matinal · 2026-10-23",
+    "de": "Morgendlicher Tech-Digest · 2026-10-23"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-23 07:30 自动生成：从上一期以来 OPC Radar 新收录的 50 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-23 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 50 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-23: the hottest of the 50 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-23 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 50 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-23 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 50개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-23: isyarat paling hangat daripada 50 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-23: những tín hiệu nổi bật nhất trong 50 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-23 : les plus marquants des 50 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-23: lo más destacado de las 50 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-23: das Wichtigste aus 50 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50198675",
+     "title": {
+      "zh-Hans": "OpenShell — 自主AI代理机队的安全、私人运行时间",
+      "zh-Hant": "OpenShell — 自主AI代理機隊的安全、私人執行時間",
+      "en": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "ja": "OpenShell - 自律的なAIエージェントの艦隊のための安全でプライベートなランタイム",
+      "ko": "OpenShell - 자율 AI 에이전트의 함대에 대한 안전하고 개인 실행 시간",
+      "ms": "OpenShell – Sebuah waktu berjalan yang aman dan pribadi untuk armada agen AI otonom",
+      "vi": "OpenShell - thời gian chạy an toàn cho các đội ngũ đặc vụ Al tự động",
+      "fr": "OpenShell – Un régime privé et sûr pour les flottes d'agents autonomes de l'IA",
+      "es": "OpenShell – Un tiempo libre seguro para las flotas de agentes autónomos de AI",
+      "de": "OpenShell – Eine sichere, private Laufzeit für Flotten autonomer KI-Agenten"
+     },
+     "summary": {
+      "en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "zh-Hans": "OpenShell是自主AI代理的安全,私人运行时间.",
+      "ja": "OpenShellは、自律的なAIエージェントの安全でプライベートなランタイムです。",
+      "ko": "OpenShell은 자율적인 AI 대리인을 위한 안전한, 개인적인 런타임입니다.",
+      "ms": "OpenShell adalah aman, waktu berjalan swasta untuk agen AI otonom.",
+      "vi": "OpenShell là thời gian hoạt động riêng cho các đặc vụ AI tự động.",
+      "fr": "OpenShell est le service privé et sûr pour les agents d'IA autonomes.",
+      "es": "OpenShell es el tiempo libre y seguro para agentes autónomos de IA.",
+      "de": "OpenShell ist die sichere, private Laufzeit für autonome KI-Agenten.",
+      "zh-Hant": "OpenShell是自主AI代理的安全,私人執行時間."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 244 分 · 127 条评论",
+      "zh-Hant": "Hacker News 244 分 · 127 則留言",
+      "en": "244 points · 127 comments on Hacker News",
+      "ja": "Hacker News 244 ポイント · コメント 127 件",
+      "ko": "Hacker News 244점 · 댓글 127개",
+      "ms": "244 mata · 127 komen di Hacker News",
+      "vi": "244 điểm · 127 bình luận trên Hacker News",
+      "fr": "244 points · 127 commentaires sur Hacker News",
+      "es": "244 puntos · 127 comentarios en Hacker News",
+      "de": "244 Punkte · 127 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "src": "github.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50198675"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50196718",
+     "title": {
+      "zh-Hans": "在 Android 设备上运行完整的 iOS 16.5 固件",
+      "zh-Hant": "在 Android 裝置上執行完整的 iOS 16.5 韌體",
+      "en": "Run full iOS 16.5 firmware on Android Devices",
+      "ja": "AndroidデバイスでフルiOS 16.5ファームウェアを実行",
+      "ko": "Android 기기에서 전체 iOS 16.5 펌웨어 실행",
+      "ms": "Jalankan full iOS 16.5 firmware pada Perangkat Android",
+      "vi": "Chạy toàn bộ iOS 16. 5 phần mềm tích hợp trên thiết bị rô bốt",
+      "fr": "Exécuter le firmware complet iOS 16.5 sur les appareils Android",
+      "es": "Ejecute el firmware completo iOS 16.5 en dispositivos Android",
+      "de": "Führen Sie iOS 16.5 Firmware auf Android-Geräten aus"
+     },
+     "summary": {
+      "en": "HackiOS boots Apple's open-source XNU kernel (xnu-8796.121.2, the kernel of iOS 16.5) on Android phone hardware and runs the unmodified iOS 16.5 user space on top of it: launchd → backboardd →…",
+      "zh-Hans": "HackiOS靴子苹果公司的开源XNU内核(xnu-8796.121.2,iOS 16.5的内核)位于Android手机硬件上并运行了上面未修改的iOS 16.5用户空间:出动了~后板~.",
+      "ja": "HackiOSは、AppleのオープンソースXNUカーネル(xnu-8796.121.2、iOS 16.5のカーネル)をAndroidの携帯電話ハードウェアで起動し、その上に修正されていないiOS 16.5ユーザースペースを実行します。 起動 → バックボード →...",
+      "ko": "HackiOS 부츠 애플의 오픈 소스 XNU 커널 (xnu-8796.121.2, 아이폰 OS의 커널 16.5) 안드로이드 전화 하드웨어에 및 그것의 상단에 통합 된 iOS 16.5 사용자 공간을 실행: 발사 → 백보드 → ...",
+      "ms": "HackiOS boots Apple open-source XNU kernel (xnu-8796.121.2, kernel iOS 16.5) pada perangkat keras telepon Android dan menjalankan iOS 16.5 ruang pengguna yang tidak dimodifikasi di atasnya: diluncurkan → backboardd →...",
+      "vi": "HackiOS khởi động hạt nhân mã nguồn mở của Apple (xnu-8796.121.2, hạt nhân của iOS 16. 5) trên phần cứng điện thoại And chạy iOS 16.5 không gian bên trên nó: khởi động  BAR bộ máy iOS .",
+      "fr": "HackiOS boots noyau XNU open-source d'Apple (xnu-8796.121.2, le noyau d'iOS 16.5) sur le matériel de téléphone Android et exécute l'espace utilisateur iOS 16.5 non modifié sur le dessus: lancé → backboardd →...",
+      "es": "HackiOS arranca el kernel de código abierto de Apple XNU (xnu-8796.121.2, el núcleo de iOS 16.5) en el hardware del teléfono Android y ejecuta el espacio de usuario de iOS 16.5 sin modificar en la parte superior: lanzado → backboardd →...",
+      "de": "HackiOS bootet Apples Open-Source-XNU-Kernel (xnu-8796.121.2, der Kernel von iOS 16.5) auf Android-Handy-Hardware und führt den unveränderten iOS 16.5 Benutzerbereich darüber aus: gestartet → Backboardd →...",
+      "zh-Hant": "HackiOS靴子蘋果公司的開源XNU核心(xnu-8796.121.2,iOS 16.5的核心)位於Android手機硬體上並執行了上面未修改的iOS 16.5使用者空間:出動了~後板~."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 281 分 · 106 条评论",
+      "zh-Hant": "Hacker News 281 分 · 106 則留言",
+      "en": "281 points · 106 comments on Hacker News",
+      "ja": "Hacker News 281 ポイント · コメント 106 件",
+      "ko": "Hacker News 281점 · 댓글 106개",
+      "ms": "281 mata · 106 komen di Hacker News",
+      "vi": "281 điểm · 106 bình luận trên Hacker News",
+      "fr": "281 points · 106 commentaires sur Hacker News",
+      "es": "281 puntos · 106 comentarios en Hacker News",
+      "de": "281 Punkte · 106 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "src": "github.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50196718"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50194833",
+     "title": {
+      "zh-Hans": "女人因为她从未开过卡什App账户而面临6年的监禁",
+      "zh-Hant": "女人因為她從未開過卡什App賬戶而面臨6年的監禁",
+      "en": "Woman faces six years in prison over Cash App account she never opened",
+      "ja": "女性は、現金アプリアカウント上刑務所で6年に直面している彼女は決して開いていない",
+      "ko": "여성은 현금 앱 계정에서 6 년 동안 감옥에 직면하고 결코 열리지 않았습니다.",
+      "ms": "Wanita menghadapi enam tahun penjara di atas akun Cash App dia tidak pernah dibuka",
+      "vi": "Phụ nữ phải đối mặt với 6 năm tù qua tài khoản tài khoản của Cash App.",
+      "fr": "La femme risque six ans de prison sur le compte Cash App qu'elle n'a jamais ouvert",
+      "es": "Mujer se enfrenta a seis años de prisión por cuenta de Cash App que nunca abrió",
+      "de": "Frau steht vor sechs Jahren im Gefängnis über Cash App-Konto, das sie nie eröffnet hat"
+     },
+     "summary": {
+      "en": "WTF?! Digital identity fraud is far from something new, but this case shows just how extreme the repercussions can be.",
+      "zh-Hans": "WTF吗? 数字身份欺诈远非新鲜事,但这一案件表明其后果可能极其严重。",
+      "ja": "WTFとは? デジタルアイデンティティの不正は、新しいものから遠くにあるが、このケースは、反復の極端な方法を示しています。",
+      "ko": "사이트맵 디지털 정체성 사기는 새로운 무언가에서 멀지만, 이 사례는 극한의 회복이 될 수있는 방법을 보여줍니다.",
+      "ms": "WTF?! Penipuan identitas digital itu jauh dari sesuatu yang baru, tapi kasus ini menunjukkan betapa ekstrimnya dampaknya.",
+      "vi": "WTF?! Sự lừa đảo nhân dạng kỹ thuật số không phải là điều mới mẻ, nhưng trường hợp này cho thấy hậu quả có thể nghiêm trọng đến mức nào.",
+      "fr": "WTF ? ! La fraude à l'identité numérique est loin d'être nouvelle, mais cette affaire montre à quel point les répercussions peuvent être extrêmes.",
+      "es": "¿WTF? El fraude de identidad digital está lejos de algo nuevo, pero este caso muestra lo extremo que pueden ser las repercusiones.",
+      "de": "WTF?! Digitaler Identitätsbetrug ist alles andere als etwas Neues, aber dieser Fall zeigt, wie extrem die Auswirkungen sein können.",
+      "zh-Hant": "WTF嗎? 數字身份欺詐遠非新鮮事,但這一案件表明其後果可能極其嚴重。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 386 分 · 371 条评论",
+      "zh-Hant": "Hacker News 386 分 · 371 則留言",
+      "en": "386 points · 371 comments on Hacker News",
+      "ja": "Hacker News 386 ポイント · コメント 371 件",
+      "ko": "Hacker News 386점 · 댓글 371개",
+      "ms": "386 mata · 371 komen di Hacker News",
+      "vi": "386 điểm · 371 bình luận trên Hacker News",
+      "fr": "386 points · 371 commentaires sur Hacker News",
+      "es": "386 puntos · 371 comentarios en Hacker News",
+      "de": "386 Punkte · 371 Kommentare auf Hacker News"
+     },
+     "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+     "src": "techspot.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50194833"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50191507",
+     "title": {
+      "zh-Hans": "OpenAI 缩写",
+      "zh-Hant": "OpenAI 縮寫",
+      "en": "OpenAI CLI",
+      "ja": "OpenAI CLIのオープン",
+      "ko": "오픈AI CLI",
+      "ms": "OpenAI CLI",
+      "vi": "Comment",
+      "fr": "OpenAI CLI",
+      "es": "OpenAI CLI",
+      "de": "OpenAI CLI"
+     },
+     "summary": {
+      "en": "Official CLI for the OpenAI API",
+      "zh-Hans": "OpenAI API 的官方CLI",
+      "ja": "OpenAI API の公式 CLI",
+      "ko": "OpenAI API를 위한 공식 CLI",
+      "ms": "Situs resmi CLI untuk API OpenAI",
+      "vi": "CLI chính thức cho Tổ chức Súng tự động",
+      "fr": "CLI officiel pour l'API OpenAI",
+      "es": "CLI oficial para la API OpenAI",
+      "de": "Offizielle CLI für die OpenAI API",
+      "zh-Hant": "OpenAI API 的官方CLI"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 227 分 · 109 条评论",
+      "zh-Hant": "Hacker News 227 分 · 109 則留言",
+      "en": "227 points · 109 comments on Hacker News",
+      "ja": "Hacker News 227 ポイント · コメント 109 件",
+      "ko": "Hacker News 227점 · 댓글 109개",
+      "ms": "227 mata · 109 komen di Hacker News",
+      "vi": "227 điểm · 109 bình luận trên Hacker News",
+      "fr": "227 points · 109 commentaires sur Hacker News",
+      "es": "227 puntos · 109 comentarios en Hacker News",
+      "de": "227 Punkte · 109 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/openai/openai-cli",
+     "src": "github.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50191507"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50188948",
+     "title": {
+      "zh-Hans": "这种PHP弱点并不容易利用",
+      "zh-Hant": "這種PHP弱點並不容易利用",
+      "en": "There isn't an easy exploit for this PHP vulnerability",
+      "ja": "この PHP の脆弱性に対する簡単な悪用はありません",
+      "ko": "이 PHP 취약점에 쉽게 접근 할 수 없습니다.",
+      "ms": "Tidak ada eksploitasi yang mudah untuk kerentanan PHP ini",
+      "vi": "Không dễ dàng gì để khai thác điểm yếu này",
+      "fr": "Il n'y a pas d'exploitation facile pour cette vulnérabilité PHP",
+      "es": "No hay una explotación fácil para esta vulnerabilidad de PHP",
+      "de": "Es gibt keinen einfachen Exploit für diese PHP-Schwachstelle"
+     },
+     "summary": {
+      "en": "I know, I know. It's all you're hearing about. That, and the number 4.",
+      "zh-Hans": "我知道,我知道,我知道,我知道,我知道,我知道,我知道,我知道,我知道 所闻所出. 那个 还有4号",
+      "ja": "I know, I know. It's all you're hearing about. That, and the number 4.",
+      "ko": "나는 알고있다. 그것은 당신에 대해 듣고있다. 즉, 숫자 4.",
+      "ms": "Aku tahu, aku tahu. Hanya itu yang kau dengar. Itu, dan nomor 4.",
+      "vi": "Tôi biết, tôi biết. Đó là tất cả những gì anh nghe được. Cái đó, và số 4.",
+      "fr": "Je sais, je sais. C'est tout ce que tu entends. Ça, et le numéro 4.",
+      "es": "Lo sé, lo sé. Es todo lo que estás oyendo. Eso, y el número 4.",
+      "de": "Ich weiß, ich weiß. Es ist alles, wovon du hörst. Das und die Zahl 4.",
+      "zh-Hant": "我知道,我知道,我知道,我知道,我知道,我知道,我知道,我知道,我知道 所聞所出. 那個 還有4號"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 608 分 · 437 条评论",
+      "zh-Hant": "Hacker News 608 分 · 437 則留言",
+      "en": "608 points · 437 comments on Hacker News",
+      "ja": "Hacker News 608 ポイント · コメント 437 件",
+      "ko": "Hacker News 608점 · 댓글 437개",
+      "ms": "608 mata · 437 komen di Hacker News",
+      "vi": "608 điểm · 437 bình luận trên Hacker News",
+      "fr": "608 points · 437 commentaires sur Hacker News",
+      "es": "608 puntos · 437 comentarios en Hacker News",
+      "de": "608 Punkte · 437 Kommentare auf Hacker News"
+     },
+     "url": "https://eliastaylor.com/noexploit/",
+     "src": "eliastaylor.com",
+     "date": "2026-10-21",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50188948"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50197601",
+     "title": {
+      "zh-Hans": "向 Arc 浏览器告别",
+      "zh-Hant": "向 Arc 瀏覽器告別",
+      "en": "A farewell to Arc browser",
+      "ja": "Arcブラウザへの運賃",
+      "ko": "Arc 브라우저에 대한 책임",
+      "ms": "Sebuah perpisahan untuk layar Arc",
+      "vi": "Một trình duyệt tạm biệt",
+      "fr": "Un adieu au navigateur Arc",
+      "es": "Una despedida al navegador Arc",
+      "de": "Abschied vom Arc Browser"
+     },
+     "summary": {
+      "en": "Arc is sunsetting on December 22, 2026. What happens next and the transition to Dia.",
+      "zh-Hans": "Arc于2026年12月22日出道. 接下来会发生什么 向迪亚过渡",
+      "ja": "アークは2026年12月22日(日)に沈む。 次とDiaへの移行に何が起こるか。",
+      "ko": "북은 12 월 22, 2026에 일몰. 다음에 무슨 일이 일어나고 Dia로 전환.",
+      "ms": "Arc tenggelam pada 22 Desember 2026. Apa yang terjadi selanjutnya dan transisi ke Dia.",
+      "vi": "Arc đang hoàng hôn ngày 22 - 12 - 2026. Chuyện gì xảy ra tiếp theo và chuyển sang Dia.",
+      "fr": "Arc se couche le 22 décembre 2026. Ce qui se passe ensuite et la transition vers Dia.",
+      "es": "Arc está puesta de sol el 22 de diciembre de 2026. Lo que sucede después y la transición a Dia.",
+      "de": "Arc geht am 22. Dezember 2026 unter. Was als nächstes passiert und der Übergang zu Dia.",
+      "zh-Hant": "Arc於2026年12月22日出道. 接下來會發生什麼 向迪亞過渡"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 208 分 · 189 条评论",
+      "zh-Hant": "Hacker News 208 分 · 189 則留言",
+      "en": "208 points · 189 comments on Hacker News",
+      "ja": "Hacker News 208 ポイント · コメント 189 件",
+      "ko": "Hacker News 208점 · 댓글 189개",
+      "ms": "208 mata · 189 komen di Hacker News",
+      "vi": "208 điểm · 189 bình luận trên Hacker News",
+      "fr": "208 points · 189 commentaires sur Hacker News",
+      "es": "208 puntos · 189 comentarios en Hacker News",
+      "de": "208 Punkte · 189 Kommentare auf Hacker News"
+     },
+     "url": "https://arc.net/",
+     "src": "arc.net",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50197601"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50200997",
+     "title": {
+      "zh-Hans": "[永久失效連結] 问HN:如果模特儿这么好,为什么OpenAI不能只创办100家公司?.",
+      "zh-Hant": "[永久失效連結] 問HN:如果模特兒這麼好,為什麼OpenAI不能只創辦100家公司?.",
+      "en": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "ja": "HNを尋ねる:モデルがとても良いのであれば、なぜOpenAIが100企業を始めないのですか?",
+      "ko": "HN에게 물어보십시오 : 모델이 너무 좋으면, 왜 OpenAI가 100 회사를 시작하지 않습니까?",
+      "ms": "Jika modelnya bagus, kenapa OpenAI tidak memulai 100 perusahaan saja?",
+      "vi": "Nếu các mô hình tốt như vậy, tại sao OpenAI không bắt đầu 100 công ty?",
+      "fr": "Demandez à HN : Si les modèles sont si bons, pourquoi OpenAI ne démarre pas seulement 100 entreprises ?",
+      "es": "Pregúntele a HN: Si los modelos son tan buenos, ¿por qué OpenAI no inicia 100 empresas?",
+      "de": "Fragen Sie HN: Wenn die Modelle so gut sind, warum startet OpenAI nicht einfach 100 Unternehmen?"
+     },
+     "summary": {
+      "en": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?",
+      "zh-Hans": "标题有点夸张,但问题更多:如果边疆型号这么好,为什么甚至要卖出它们作为你的主要赚钱者?",
+      "ja": "タイトルは少しの誇張ですが、質問はもっとあります。フロンティアモデルがとても良いのであれば、なぜあなたのプライマリマネーメーカーとしてそれらを売るのですか?",
+      "ko": "제목은 비틀림의 비트이지만 질문은 더 큽니다. frontier 모델이 너무 좋으면, 왜 당신의 기본 돈 제작자로 판매합니까?",
+      "ms": "Gelar juara sedikit berlebihan tapi pertanyaannya lebih lanjut: jika model perbatasan begitu bagus, kenapa menjualnya sebagai pembuat uang utama?",
+      "vi": "Tựa đề là một sự phóng đại nhưng câu hỏi là: nếu các mô hình biên giới tốt như vậy, tại sao lại bán chúng như những người làm ra tiền chính của bạn?",
+      "fr": "Le titre est un peu exagéré mais la question est plus : si les modèles frontières sont si bons, pourquoi même les vendre comme votre premier fabricant d'argent ?",
+      "es": "El título es un poco exagerado, pero la pregunta es más: si los modelos fronterizos son tan buenos, ¿por qué incluso venderlos como su principal fabricante de dinero?",
+      "de": "Der Titel ist ein bisschen übertrieben, aber die Frage ist mehr: Wenn die Grenzmodelle so gut sind, warum verkaufen Sie sie sogar als Ihren primären Geldverdiener?",
+      "zh-Hant": "標題有點誇張,但問題更多:如果邊疆型號這麼好,為什麼甚至要賣出它們作為你的主要賺錢者?"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 51 分 · 49 条评论",
+      "zh-Hant": "Hacker News 51 分 · 49 則留言",
+      "en": "51 points · 49 comments on Hacker News",
+      "ja": "Hacker News 51 ポイント · コメント 49 件",
+      "ko": "Hacker News 51점 · 댓글 49개",
+      "ms": "51 mata · 49 komen di Hacker News",
+      "vi": "51 điểm · 49 bình luận trên Hacker News",
+      "fr": "51 points · 49 commentaires sur Hacker News",
+      "es": "51 puntos · 49 comentarios en Hacker News",
+      "de": "51 Punkte · 49 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50200997",
+     "src": "news.ycombinator.com",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50190363",
+     "title": {
+      "zh-Hans": "WorldTUI:我训练了一个360M模型来假装一个终端",
+      "zh-Hant": "WorldTUI:我訓練了一個360M模型來假裝一個終端",
+      "en": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "ja": "WorldTUI:360Mモデルを訓練し、ターミナルになる",
+      "ko": "WorldTUI : 터미널이 될 수 있도록 360M 모델을 훈련",
+      "ms": "Saya melatih model 360M untuk berpura-pura menjadi terminal",
+      "vi": "Tôi đã huấn luyện một mô hình 360M giả vờ là một thiết bị cuối",
+      "fr": "WorldTUI : J'ai entraîné un modèle 360M pour prétendre être un terminal",
+      "es": "WorldTUI: Entrené un modelo 360M para fingir ser un terminal",
+      "de": "WorldTUI: Ich habe ein 360M-Modell trainiert, um so zu tun, als wäre es ein Terminal"
+     },
+     "summary": {
+      "en": "A 360M model that pretends to be a terminal, and remembers what you did",
+      "zh-Hans": "一个360M的模型 假装是一个终端, 记得你做了什么",
+      "ja": "端末であることにふさわしい360Mモデルで、自分が何をしたかを記憶",
+      "ko": "터미널이 될 360M 모델, 당신이 한 것을 기억",
+      "ms": "Model 360M yang berpura-pura menjadi terminal, dan mengingat apa yang Anda lakukan",
+      "vi": "Một mô hình 360M mà giả vờ là một thiết bị cuối, và nhớ những gì bạn đã làm",
+      "fr": "Un modèle 360M qui prétend être un terminal, et se souvient de ce que vous avez fait",
+      "es": "Un modelo de 360M que pretende ser un terminal, y recuerda lo que hiciste",
+      "de": "Ein 360M-Modell, das vorgibt, ein Terminal zu sein, und sich daran erinnert, was Sie getan haben",
+      "zh-Hant": "一個360M的模型 假裝是一個終端, 記得你做了什麼"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 484 分 · 156 条评论",
+      "zh-Hant": "Hacker News 484 分 · 156 則留言",
+      "en": "484 points · 156 comments on Hacker News",
+      "ja": "Hacker News 484 ポイント · コメント 156 件",
+      "ko": "Hacker News 484점 · 댓글 156개",
+      "ms": "484 mata · 156 komen di Hacker News",
+      "vi": "484 điểm · 156 bình luận trên Hacker News",
+      "fr": "484 points · 156 commentaires sur Hacker News",
+      "es": "484 puntos · 156 comentarios en Hacker News",
+      "de": "484 Punkte · 156 Kommentare auf Hacker News"
+     },
+     "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+     "src": "simedw.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50190363"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50197313",
+     "title": {
+      "zh-Hans": "每个AI模型对人都有相同的\"争议\"",
+      "zh-Hant": "每個AI模型對人都有相同的\"爭議\"",
+      "en": "Every AI model has the same \"controversial\" take on humans",
+      "ja": "すべてのAIモデルは、人間に同じ「論争」を取るを持っています",
+      "ko": "모든 AI 모델은 인간에게 동일한 \"지향\"을 가지고",
+      "ms": "Setiap model AI memiliki kesamaan \"kontroversial\" mengambil manusia",
+      "vi": "Mỗi mô hình AI đều có cùng \"chiến tranh\" với con người",
+      "fr": "Chaque modèle d'IA a la même prise \"controverse\" sur les humains",
+      "es": "Cada modelo de IA tiene la misma \"controversial\" tomar en humanos",
+      "de": "Jedes KI-Modell hat die gleiche \"kontroverse\" Sicht auf den Menschen"
+     },
+     "summary": {
+      "en": "We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.",
+      "zh-Hans": "我们问了12个AI模型 他们对人类最有争议的意见, 每人三次。 35个回答中有29个是相同的:我们更关心归属而不是真相。",
+      "ja": "人間の特徴をもつ知見を、それぞれ3回ご紹介する12のAIモデルをお伝えしました。 29 の 35 件の回答は同じものでした: 真実についてよりも多くの所持を大事にしています。",
+      "ko": "우리는 인간의 가장 논쟁적인 의견에 대한 12 AI 모델을, 각각 3 번 물었다. 29 의 35 답변은 동일했다 : 우리는 진실에 대해 더 많은 것을 돌봐.",
+      "ms": "Kami meminta 12 model AI untuk pendapat mereka yang paling kontroversial tentang manusia, masing-masing tiga kali. 29 dari 35 jawaban adalah sama: kita lebih peduli tentang milik daripada kebenaran.",
+      "vi": "Chúng tôi đã hỏi 12 người mẫu AI về ý kiến gây tranh cãi của họ về con người, 3 lần mỗi người. Trong số 35 câu trả lời cũng có 29 câu trả lời: Chúng tôi quan tâm nhiều đến việc thuộc về lẽ thật.",
+      "fr": "Nous avons demandé 12 modèles d'IA pour leur opinion la plus controversée des humains, trois fois chacun. 29 des 35 réponses étaient les mêmes: nous nous soucions plus de l'appartenance que de la vérité.",
+      "es": "Pedimos 12 modelos de AI para su opinión más polémica de los humanos, tres veces cada uno. 29 de 35 respuestas fueron las mismas: nos importa más la pertenencia que la verdad.",
+      "de": "Wir haben 12 KI-Modelle nach ihrer umstrittensten Meinung über Menschen gefragt, jeweils dreimal. 29 von 35 Antworten waren die gleichen: Wir kümmern uns mehr um Zugehörigkeit als um die Wahrheit.",
+      "zh-Hant": "我們問了12個AI模型 他們對人類最有爭議的意見, 每人三次。 35個回答中有29個是相同的:我們更關心歸屬而不是真相。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 156 分 · 170 条评论",
+      "zh-Hant": "Hacker News 156 分 · 170 則留言",
+      "en": "156 points · 170 comments on Hacker News",
+      "ja": "Hacker News 156 ポイント · コメント 170 件",
+      "ko": "Hacker News 156점 · 댓글 170개",
+      "ms": "156 mata · 170 komen di Hacker News",
+      "vi": "156 điểm · 170 bình luận trên Hacker News",
+      "fr": "156 points · 170 commentaires sur Hacker News",
+      "es": "156 puntos · 170 comentarios en Hacker News",
+      "de": "156 Punkte · 170 Kommentare auf Hacker News"
+     },
+     "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+     "src": "modelcompare.ai",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50192900",
+     "title": {
+      "zh-Hans": "CVE-2026-111943:妥协的中级证书管理局",
+      "zh-Hant": "CVE-2026-111943:妥協的中級證書管理局",
+      "en": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "ja": "CVE-2026-111943: 妥協された中間の証明書の権限",
+      "ko": "CVE-2026-111943 : 중급 인증 기관",
+      "ms": "CVE-2026-111943: Otoritas Sertifikat Intermediate Terkompromi",
+      "vi": "CVE-26-1143: Ủy quyền chứng nhận Liên lạc",
+      "fr": "CVE-2026-111943: Autorité de certification intermédiaire agréée",
+      "es": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "de": "CVE-2026-111943: Kompromittiert Intermediate Certificate Authority"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 nvd.nist.gov。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 nvd.nist.gov。",
+      "en": "Shared on Hacker News; original at nvd.nist.gov.",
+      "ja": "Hacker News で共有されたリンク。元記事は nvd.nist.gov にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 nvd.nist.gov에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di nvd.nist.gov.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại nvd.nist.gov.",
+      "fr": "Partagé sur Hacker News ; original sur nvd.nist.gov.",
+      "es": "Compartido en Hacker News; original en nvd.nist.gov.",
+      "de": "Geteilt auf Hacker News; Original auf nvd.nist.gov."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 332 分 · 118 条评论",
+      "zh-Hant": "Hacker News 332 分 · 118 則留言",
+      "en": "332 points · 118 comments on Hacker News",
+      "ja": "Hacker News 332 ポイント · コメント 118 件",
+      "ko": "Hacker News 332점 · 댓글 118개",
+      "ms": "332 mata · 118 komen di Hacker News",
+      "vi": "332 điểm · 118 bình luận trên Hacker News",
+      "fr": "332 points · 118 commentaires sur Hacker News",
+      "es": "332 puntos · 118 comentarios en Hacker News",
+      "de": "332 Punkte · 118 Kommentare auf Hacker News"
+     },
+     "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+     "src": "nvd.nist.gov",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50199290",
+     "title": {
+      "zh-Hans": "AI 的 UI 微互动提示",
+      "zh-Hant": "AI 的 UI 微互動提示",
+      "en": "UI micro interactions prompts for AI",
+      "ja": "UIマイクロインタラクションはAIのプロンプト",
+      "ko": "AI를 위한 UI 마이크로 상호 작용",
+      "ms": "AI",
+      "vi": "Name",
+      "fr": "Micro-interactions UI invite à l'IA",
+      "es": "Interacciones de la interfaz de usuario micro requiere de AI",
+      "de": "UI-Mikro-Interaktionen für AI"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 typeui.sh。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 typeui.sh。",
+      "en": "Shared on Hacker News; original at typeui.sh.",
+      "ja": "Hacker News で共有されたリンク。元記事は typeui.sh にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 typeui.sh에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di typeui.sh.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại typeui.sh.",
+      "fr": "Partagé sur Hacker News ; original sur typeui.sh.",
+      "es": "Compartido en Hacker News; original en typeui.sh.",
+      "de": "Geteilt auf Hacker News; Original auf typeui.sh."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 65 分 · 35 条评论",
+      "zh-Hant": "Hacker News 65 分 · 35 則留言",
+      "en": "65 points · 35 comments on Hacker News",
+      "ja": "Hacker News 65 ポイント · コメント 35 件",
+      "ko": "Hacker News 65점 · 댓글 35개",
+      "ms": "65 mata · 35 komen di Hacker News",
+      "vi": "65 điểm · 35 bình luận trên Hacker News",
+      "fr": "65 points · 35 commentaires sur Hacker News",
+      "es": "65 puntos · 35 comentarios en Hacker News",
+      "de": "65 Punkte · 35 Kommentare auf Hacker News"
+     },
+     "url": "https://www.typeui.sh/micro-interactions",
+     "src": "typeui.sh",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50194070",
+     "title": {
+      "zh-Hans": "Amazon在公示前,",
+      "zh-Hant": "Amazon在公示前,",
+      "en": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "ja": "Amazonは公開開示前の10月17日 PHP2Shellの悪用を識別します",
+      "ko": "Amazon은 10 월 17 PHP2Shell 악용을 공개적으로 식별합니다.",
+      "ms": "Amazon mengidentifikasi Okt 17 PHP2Shell eksploitasi sebelum pengungkapan publik",
+      "vi": "Amazon cho biết Oct 17 PHP2Shell khai thác trước khi công khai công khai",
+      "fr": "Amazon identifie Oct 17 PHP2Shell exploitation avant la divulgation publique",
+      "es": "Amazon identifica Oct 17 PHP2Shell explotación antes de la divulgación pública",
+      "de": "Amazon identifiziert Oct 17 PHP2Shell-Ausbeutung vor der Veröffentlichung"
+     },
+     "summary": {
+      "en": "Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-109619.",
+      "zh-Hans": "亚马逊威胁情报部门在MadPot遥测中发现了一枚可追溯到2026年10月17日的PHP2Shell开发企图,距公开披露CVE-2026-109618和CVE-2026-109619还有4天.",
+      "ja": "Amazon Threat Intelligenceは、CVE-2026-109618およびCVE-2026-109619の公開開示の4日前、MadPotテレメトリーで10月17、2026にデートするPHP2Shellの搾取試みを識別しました。",
+      "ko": "Amazon Threat Intelligence는 10 월 17, 2026, MadPot telemetry에서 PHP2Shell 악용 시도를 확인했습니다. CVE-2026-109618 및 CVE-2026-109619의 공개 공개 공개 공개 공개 공개 공개 공개 알림 4 일.",
+      "ms": "Intelijen Ancaman Amazon mengidentifikasi upaya eksploitasi PHP2Shell yang berasal dari Oct. 17, 2026, dalam telemetri MadPot, empat hari sebelum pengungkapan publik CVE-2026-109618 dan CVE-2026-109619.",
+      "vi": "Tình báo đe dọa Amazon xác định một vụ bóc lột PHP2Shell có niên đại là Oct. 17, 2026, ở MadPot, bốn ngày trước khi công chúng công bố CVE-26-109618 và CVE-26-109619.",
+      "fr": "Amazon Threat Intelligence a identifié une tentative d'exploitation de PHP2Shell datant du 17 octobre 2026, dans la télémétrie MadPot, quatre jours avant la divulgation publique des CVE-2026-109618 et CVE-2026-109619.",
+      "es": "Amazon Threat Intelligence identificó un intento de explotación PHP2Shell que data del 17 de octubre de 2026, en la telemetría de MadPot, cuatro días antes de la divulgación pública de CVE-2026-109618 y CVE-2026-109619.",
+      "de": "Amazon Threat Intelligence identifizierte einen PHP2Shell-Exploitationsversuch vom 17. Oktober 2026 in MadPot Telemetrie, vier Tage vor der Veröffentlichung von CVE-2026-109618 und CVE-2026-109619.",
+      "zh-Hant": "亞馬遜威脅情報部門在MadPot遙測中發現了一枚可追溯到2026年10月17日的PHP2Shell開發企圖,距公開披露CVE-2026-109618和CVE-2026-109619還有4天."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 246 分 · 88 条评论",
+      "zh-Hant": "Hacker News 246 分 · 88 則留言",
+      "en": "246 points · 88 comments on Hacker News",
+      "ja": "Hacker News 246 ポイント · コメント 88 件",
+      "ko": "Hacker News 246점 · 댓글 88개",
+      "ms": "246 mata · 88 komen di Hacker News",
+      "vi": "246 điểm · 88 bình luận trên Hacker News",
+      "fr": "246 points · 88 commentaires sur Hacker News",
+      "es": "246 puntos · 88 comentarios en Hacker News",
+      "de": "246 Punkte · 88 Kommentare auf Hacker News"
+     },
+     "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+     "src": "aws.amazon.com",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50193804",
+     "title": {
+      "zh-Hans": "多个 Linux 内核漏洞不慎被贴入公共邮件列表",
+      "zh-Hant": "多個 Linux 核心漏洞不慎被貼入公共郵件列表",
+      "en": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "ja": "複数のLinuxカーネルの脆弱性は、公開メーリングリストに誤って投稿",
+      "ko": "몇몇 리눅스 커널 취약점은 사고로 공공 메일링 리스트에 게시",
+      "ms": "Beberapa kerentanan kernel Linux tidak sengaja diposkan ke mailing list umum",
+      "vi": "Một số nhược điểm nhân Linux tình cờ được đăng lên danh sách người gửi thư chung",
+      "fr": "Plusieurs vulnérabilités du noyau Linux postées accidentellement sur la liste de diffusion publique",
+      "es": "Varias vulnerabilidades del kernel de Linux se publicaron accidentalmente en la lista de correo público",
+      "de": "Mehrere Linux-Kernel-Schwachstellen versehentlich auf die öffentliche Mailingliste gestellt"
+     },
+     "summary": {
+      "en": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list",
+      "zh-Hans": "似乎是一个意外,一夜之间,一些新的Linux内核脆弱性报告被张贴到公开的Linux内核邮件列表而不是私人安全邮件列表上.",
+      "ja": "事故として見てみると、プライベートセキュリティメーリングリストではなく、公開Linuxカーネルのメーリングリストに複数の新しいLinuxカーネル脆弱性レポートを一晩掲載しました。",
+      "ko": "사고로보고, 몇 가지 새로운 리눅스 커널 취약성 보고서는 개인 보안 메일 링리스트보다 오히려 공공 리눅스 커널 메일 링리스트에 게시되었습니다",
+      "ms": "Tampaknya sebagai kecelakaan, semalam beberapa laporan kerentanan kernel Linux baru diposkan ke publik Linux mailing list daripada milis keamanan pribadi",
+      "vi": "Dường như là một tai nạn, qua một đêm một vài báo cáo tổn thương nhân viên Linux mới được đăng lên danh sách các hạt nhân Linux công cộng, chứ không phải danh sách thư tín tư nhân",
+      "fr": "Apparemment comme un accident, la nuit plusieurs nouveaux rapports de vulnérabilité du noyau Linux ont été affichés sur la liste de diffusion publique du noyau Linux plutôt que sur la liste de diffusion privée de sécurité",
+      "es": "Aparentemente como un accidente, durante la noche varios nuevos informes de vulnerabilidad del kernel de Linux fueron enviados a la lista de correo público del kernel de Linux en lugar de la lista de correo de seguridad privada",
+      "de": "Scheinbar als Unfall wurden über Nacht mehrere neue Linux-Kernel-Schwachstellenberichte in der öffentlichen Linux-Kernel-Mailingliste und nicht in der privaten Sicherheits-Mailingliste veröffentlicht.",
+      "zh-Hant": "似乎是一個意外,一夜之間,一些新的Linux核心脆弱性報告被張貼到公開的Linux核心郵件列表而不是私人安全郵件列表上."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 237 分 · 85 条评论",
+      "zh-Hant": "Hacker News 237 分 · 85 則留言",
+      "en": "237 points · 85 comments on Hacker News",
+      "ja": "Hacker News 237 ポイント · コメント 85 件",
+      "ko": "Hacker News 237점 · 댓글 85개",
+      "ms": "237 mata · 85 komen di Hacker News",
+      "vi": "237 điểm · 85 bình luận trên Hacker News",
+      "fr": "237 points · 85 commentaires sur Hacker News",
+      "es": "237 puntos · 85 comentarios en Hacker News",
+      "de": "237 Punkte · 85 Kommentare auf Hacker News"
+     },
+     "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+     "src": "phoronix.com",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50176082",
+     "title": {
+      "zh-Hans": "用LLM来打信心分是个坏主意",
+      "zh-Hant": "用LLM來打信心分是個壞主意",
+      "en": "Using LLM for confidence scoring is a bad idea",
+      "ja": "自信のスコアリングにLMを使用することは悪い考えです",
+      "ko": "LLM을 사용하여 신뢰 득점은 나쁜 생각입니다.",
+      "ms": "Memanfaatkan LLM untuk skor keyakinan adalah ide yang buruk",
+      "vi": "Dùng LM để tự tin ghi điểm là một ý tưởng tồi.",
+      "fr": "Utiliser LLM pour marquer la confiance est une mauvaise idée",
+      "es": "Usar LLM para la puntuación de confianza es una mala idea",
+      "de": "Mit LLM für Vertrauen Scoring ist eine schlechte Idee"
+     },
+     "summary": {
+      "en": "LLM-based agents can do a lot of tasks. Or, at least, they can appear to do them. For example, they write code, summarize papers, plan trips, and fill in forms.",
+      "zh-Hans": "基于LLM的代理可以完成很多任务. 或者,至少,他们看起来可以做到这一点。 例如,他们写出代码,总结论文,计划出行,并填写表格.",
+      "ja": "LLM ベースのエージェントは、多くのタスクを行うことができます。 または、少なくとも、彼らはそれらを行うように見えることができます。 たとえば、コードを書いて、紙をまとめたり、旅行を計画したり、フォームに記入したりします。",
+      "ko": "LLM 기반 에이전트는 많은 작업을 수행 할 수 있습니다. 또는, 적어도, 그들은 그들을 할 수 있습니다. 예를 들어, 그들은 코드를 작성, 서류 정리, 계획 여행, 양식을 작성.",
+      "ms": "Agen-agen berbasis LLM yang berbasis LLM dapat melakukan banyak tugas. Setidaknya, mereka bisa melakukannya. Misalnya, mereka menulis kode, meringkas makalah, rencana perjalanan, dan mengisi formulir.",
+      "vi": "Các đặc vụ dựa trên LM có thể làm rất nhiều việc. Hoặc, ít nhất, họ có thể xuất hiện để làm điều đó. Chẳng hạn, họ viết mã, tóm tắt giấy tờ, lên kế hoạch các chuyến đi và điền vào mẫu đơn.",
+      "fr": "Les agents LLM peuvent faire beaucoup de tâches. Ou, du moins, ils peuvent sembler les faire. Par exemple, ils rédigent du code, résument des documents, planifient des voyages et remplissent des formulaires.",
+      "es": "Los agentes basados en LLM pueden hacer muchas tareas. O, al menos, pueden parecer hacerlo. Por ejemplo, escriben código, resumen papeles, viajes de plan y rellenan formularios.",
+      "de": "LLM-basierte Agenten können viele Aufgaben erledigen. Oder zumindest scheinen sie es zu tun. Zum Beispiel schreiben sie Code, fassen Papiere zusammen, planen Reisen und füllen Formulare aus.",
+      "zh-Hant": "基於LLM的代理可以完成很多工. 或者,至少,他們看起來可以做到這一點。 例如,他們寫出程式碼,總結論文,計劃出行,並填寫表格."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 197 分 · 98 条评论",
+      "zh-Hant": "Hacker News 197 分 · 98 則留言",
+      "en": "197 points · 98 comments on Hacker News",
+      "ja": "Hacker News 197 ポイント · コメント 98 件",
+      "ko": "Hacker News 197점 · 댓글 98개",
+      "ms": "197 mata · 98 komen di Hacker News",
+      "vi": "197 điểm · 98 bình luận trên Hacker News",
+      "fr": "197 points · 98 commentaires sur Hacker News",
+      "es": "197 puntos · 98 comentarios en Hacker News",
+      "de": "197 Punkte · 98 Kommentare auf Hacker News"
+     },
+     "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+     "src": "rumple.github.io",
+     "date": "2026-10-21",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50193170",
+     "title": {
+      "zh-Hans": "速度快于耳切:以489ms为单位将 3.7M 地图多边形三角化",
+      "zh-Hant": "速度快於耳切:以489ms為單位將 3.7M 地圖多邊形三角化",
+      "en": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "ja": "イヤーカットよりも高速: 3.7M のマップのポリゴンを 489 ms でtriangulating",
+      "ko": "이어 컷보다 더 빠른 : 489m의 3.7M 맵 폴리곤을 트리밍",
+      "ms": "Lebih cepat daripada earcut: triangulasi 3.7M peta poligon dalam 489 ms",
+      "vi": "Nhanh hơn cắt tai: ba phần ba bản đồ đa giác trong 489 ms",
+      "fr": "Plus rapide que l'oreillette : triangulation des polygones de la carte 3.7M en 489 ms",
+      "es": "Más rápido que el auricular: triangulación 3.7M mapa polígonos en 489 ms",
+      "de": "Schneller als Ohrschnitt: Triangulierende 3.7M Kartenpolygone in 489 ms"
+     },
+     "summary": {
+      "en": "We published the triangulator of our map engine as earstrip, an ISC-licensed C++ and WebAssembly library. How it came to be: the ear clipper rebuilt one idea at a time and timed on 3.7 million…",
+      "zh-Hans": "我们出版了我们的地图引擎的三角图, 作为耳机, 一个ISC许可的C++和WebAssembly。 怎么会这样呢? 剪耳机一次重建一个想法, 以370万计时...",
+      "ja": "地図エンジンのトリアンギュレータを、ISC-licensed C++とWebAssemblyライブラリとして公開しました。 どのようにして来たのか:耳のクリッパーは一度に1つのアイデアを再構築し、3.7万人に時間を費やしました...",
+      "ko": "ISC-licensed C++ 및 WebAssembly 라이브러리를 통해 지도 엔진의 트리angulator를 발표했습니다. 어떻게 와서 : 귀 클립퍼는 한 번에 한 아이디어를 재건하고 3.7 만에 시간 ...",
+      "ms": "Kami menerbitkan triangulator mesin peta kami sebagai garis telinga, sebuah perpustakaan C++ dan WebAssembly berlisensi ISC. Bagaimana bisa: pemotong telinga membangun kembali satu ide pada satu waktu dan waktu pada 3.7 juta ...",
+      "vi": "Chúng tôi đã công bố bộ ba động cơ bản đồ của chúng tôi như là tai nghe, một thư viện của ISC-liced C++ và Web Assembly. Làm thế nào để có được: máy cắt tai đã xây dựng lại một ý tưởng tại một thời điểm và thời gian trên 3.7 triệu...",
+      "fr": "Nous avons publié le triangulateur de notre moteur de carte comme bande d'oreilles, une bibliothèque C++ et WebAssembly sous licence ISC. Comment en est-il venu à être: l'oreillette a reconstruit une idée à la fois et chronométré sur 3,7 millions...",
+      "es": "Publicamos el triangulador de nuestro motor de mapa como pista de aterrizaje, una biblioteca C++++ y WebAssembly con licencia de ISC. Cómo fue: el clipper del oído reconstruyó una idea a la vez y a tiempo en 3,7 millones...",
+      "de": "Wir haben den Triangulator unserer Map-Engine als Horrour, eine ISC-lizenzierte C++- und WebAssembly-Bibliothek veröffentlicht. Wie es dazu kam: Der Ohrschneider baute eine Idee nach der anderen um und steuerte 3,7 Millionen...",
+      "zh-Hant": "我們出版了我們的地圖引擎的三角圖, 作為耳機, 一個ISC許可的C++和WebAssembly。 怎麼會這樣呢? 剪耳機一次重建一個想法, 以370萬計時..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 189 分 · 36 条评论",
+      "zh-Hant": "Hacker News 189 分 · 36 則留言",
+      "en": "189 points · 36 comments on Hacker News",
+      "ja": "Hacker News 189 ポイント · コメント 36 件",
+      "ko": "Hacker News 189점 · 댓글 36개",
+      "ms": "189 mata · 36 komen di Hacker News",
+      "vi": "189 điểm · 36 bình luận trên Hacker News",
+      "fr": "189 points · 36 commentaires sur Hacker News",
+      "es": "189 puntos · 36 comentarios en Hacker News",
+      "de": "189 Punkte · 36 Kommentare auf Hacker News"
+     },
+     "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+     "src": "globus.software",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50183892",
+     "title": {
+      "zh-Hans": "Omnara – 克劳德管理代理的开源替代程序",
+      "zh-Hant": "Omnara – 克勞德管理代理的開源替代程式",
+      "en": "Omnara – Open-source alternative to Claude Managed Agents",
+      "ja": "Omnara - Claudeマネージドエージェントのオープンソースの代替",
+      "ko": "Omnara – Claude Managed Agents의 오픈 소스 대안",
+      "ms": "Omenara – Sumber-terbuka alternatif untuk Claude Managed Agents",
+      "vi": "Omonara – Thay thế mã nguồn mở cho Claude Quản lý Đặc vụ",
+      "fr": "Omnara – alternative open-source à Claude Agents gérés",
+      "es": "Omnara – Open-source alternative to Claude Managed Agents",
+      "de": "Omnara – Open-Source Alternative zu Claude Managed Agents"
+     },
+     "summary": {
+      "en": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
+      "zh-Hans": "开源管理代理平台. 克劳德管理代理公司和OpenAI代理公司的API的自负式替代品.",
+      "ja": "オープンソース管理エージェントプラットフォーム。 Claude マネージド エージェントと OpenAI のエージェント API のセルフホスト可能な代替手段。",
+      "ko": "오픈 소스 관리 에이전트 플랫폼. Claude Managed Agents 및 OpenAI의 Agents API에 대한 자체 호스팅 대안.",
+      "ms": "Platform agen terurus open-source. Sebuah alternatif yang dapat dihostable untuk Claude Mengelola Agen dan Agen OpenAI API.",
+      "vi": "Nền tảng mã nguồn mở quản lý đặc vụ. Một lựa chọn thay thế cho Claude quản lý đặc vụ và đặc vụ của OpenAI.",
+      "fr": "La plateforme d'agents gérés par open-source. Une alternative autonome à l'API d'Agents gérés par Claude et d'Agents OpenAI.",
+      "es": "La plataforma de agentes gestionados de código abierto. Una alternativa autoanfitriona a Claude Managed Agents y OpenAI Agents API.",
+      "de": "Die Open-Source Managed Agent Plattform. Eine selbst-hostable Alternative zu Claude Managed Agents und OpenAIs Agents API.",
+      "zh-Hant": "開源管理代理平臺. 克勞德管理代理公司和OpenAI代理公司的API的自負式替代品."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 107 分 · 33 条评论",
+      "zh-Hant": "Hacker News 107 分 · 33 則留言",
+      "en": "107 points · 33 comments on Hacker News",
+      "ja": "Hacker News 107 ポイント · コメント 33 件",
+      "ko": "Hacker News 107점 · 댓글 33개",
+      "ms": "107 mata · 33 komen di Hacker News",
+      "vi": "107 điểm · 33 bình luận trên Hacker News",
+      "fr": "107 points · 33 commentaires sur Hacker News",
+      "es": "107 puntos · 33 comentarios en Hacker News",
+      "de": "107 Punkte · 33 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/omnara-ai/omnara",
+     "src": "github.com",
+     "date": "2026-10-21",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50186455",
+     "title": {
+      "zh-Hans": "克劳德·杜埃特",
+      "zh-Hant": "克勞德·杜埃特",
+      "en": "Claude Duet",
+      "ja": "クロード・デュエット",
+      "ko": "주 메뉴",
+      "ms": "Claude Duet",
+      "vi": "Đến hạn Claude",
+      "fr": "Claude Duet",
+      "es": "Claude Duet",
+      "de": "Claude Duet"
+     },
+     "summary": {
+      "en": "Claude Duet is a new app where Claude works as a proactive agent. The research preview opens by waitlist today for Pro and Max subscribers in the US.",
+      "zh-Hans": "Claude Dut是Claude作为主动特工工作的新应用软件. 研究预览今天以等待列表打开,面向美国Pro和Max的订阅者.",
+      "ja": "Claude Duetは、Claudeがプロアクティブなエージェントとして機能する新しいアプリです。 米国でProとMaxの加入者のために、今日のウェイトリストによって研究プレビューが開きます。",
+      "ko": "Claude Duet는 Claude가 Proactive 에이전트로 작동하는 새로운 앱입니다. 연구 미리보기는 미국에서 Pro 및 Max 구내구독자를 위해 오늘 waitlist에 의해 열립니다.",
+      "ms": "Claude Duet adalah aplikasi baru di mana Claude bekerja sebagai agen proaktif. Ini adalah pratinjau penelitian yang dibuka oleh pelayan hari ini untuk pelanggan Pro dan Max di AS.",
+      "vi": "Claude Duet là một ứng dụng mới nơi Claude làm đặc vụ chủ động. Buổi nghiên cứu mở đầu bằng danh sách chờ ngày hôm nay cho Pro và Max đăng ký ở Mỹ.",
+      "fr": "Claude Duet est une nouvelle application où Claude travaille comme agent proactif. L'aperçu de recherche s'ouvre par liste d'attente aujourd'hui pour les abonnés Pro et Max aux États-Unis.",
+      "es": "Claude Duet es una nueva aplicación donde Claude trabaja como agente proactivo. La vista previa de la investigación se abre hoy por camarera para suscriptores Pro y Max en los Estados Unidos.",
+      "de": "Claude Duet ist eine neue App, in der Claude als proaktiver Agent arbeitet. Die Forschungsvorschau wird heute per Warteliste für Pro- und Max-Abonnenten in den USA geöffnet.",
+      "zh-Hant": "Claude Dut是Claude作為主動特工工作的新應用軟體. 研究預覽今天以等待列表開啟,面向美國Pro和Max的訂閱者."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 91 分 · 12 条评论",
+      "zh-Hant": "Hacker News 91 分 · 12 則留言",
+      "en": "91 points · 12 comments on Hacker News",
+      "ja": "Hacker News 91 ポイント · コメント 12 件",
+      "ko": "Hacker News 91점 · 댓글 12개",
+      "ms": "91 mata · 12 komen di Hacker News",
+      "vi": "91 điểm · 12 bình luận trên Hacker News",
+      "fr": "91 points · 12 commentaires sur Hacker News",
+      "es": "91 puntos · 12 comentarios en Hacker News",
+      "de": "91 Punkte · 12 Kommentare auf Hacker News"
+     },
+     "url": "https://claude.com/resources/articles/claude-duet",
+     "src": "claude.com",
+     "date": "2026-10-21",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50195110",
+     "title": {
+      "zh-Hans": "eMudhra 退出全球 SSL/ TLS 证书业务",
+      "zh-Hant": "eMudhra 退出全球 SSL/ TLS 證書業務",
+      "en": "eMudhra to exit global SSL/TLS certificate business",
+      "ja": "eMudhraがグローバルSSL/TLS認証事業を終了",
+      "ko": "eMudhra 글로벌 SSL/TLS 인증서 사업 종료",
+      "ms": "Ubuntu eMudhra untuk keluar dari bisnis sertifikat SSL/TLS global",
+      "vi": "eMidhra để thoát khỏi kinh doanh chứng nhận SSL/TLS toàn cục",
+      "fr": "eMudhra quittera le marché mondial des certificats SSL/TLS",
+      "es": "eMudhra para salir del negocio del certificado SSL/TLS global",
+      "de": "eMudhra verlässt globales SSL/TLS-Zertifikatsgeschäft"
+     },
+     "summary": {
+      "en": "eMudhra Limited (BSE: 543533 | NSE: EMUDHRA), a global digital trust company, today announced that its Board has decided to voluntarily withdraw from the global SSL/TLS certificate business.",
+      "zh-Hans": "eMudhra Limited(BSE:543533 QQ NSE:EMUDHRA),是一家全球数字信托公司,今天宣布其董事会决定自愿退出全球SSL/TLS证书业务.",
+      "ja": "現在、グローバルデジタル信託会社であるeMudhra Limited(BSE: 543533 | NSE: EMUDHRA)は、本ボードがグローバルSSL/TLS認証事業から自主的に撤退することを決定したことを発表しました。",
+      "ko": "eMudhra Limited (BSE: 543533 | NSE: EMUDHRA), 글로벌 디지털 신뢰 회사인 오늘 이사회가 글로벌 SSL/TLS 인증서 사업에서 배운 것으로 결정했다고 발표했습니다.",
+      "ms": "Audihan eMudhra Limited (BSE: 543533 ¡NSE: EMUDHRA), sebuah perusahaan kepercayaan digital global, hari ini mengumumkan bahwa Dewannya telah memutuskan untuk secara sukarela menarik diri dari bisnis sertifikat SSL/TLS global.",
+      "vi": "EMidhra Conrited (BSE: 543533 NSE: EMUDHRA), một công ty tín dụng kỹ thuật số toàn cầu, hôm nay thông báo rằng ban quản trị đã tự nguyện rút khỏi kinh doanh chứng nhận SSL/TSP toàn cầu.",
+      "fr": "eMudhra Limited (BSE: 543533) NSE: EMUDHRA, une société de fiducie numérique mondiale, a annoncé aujourd'hui que son conseil d'administration a décidé de se retirer volontairement du marché mondial des certificats SSL/TLS.",
+      "es": "eMudhra Limited (BSE: 543533 Silencio NSE: EMUDHRA), una compañía de confianza digital global, anunció hoy que su Junta ha decidido retirarse voluntariamente del negocio mundial de certificados SSL/TLS.",
+      "de": "eMudhra Limited (BSE: 543533 | NSE: EMUDHRA), ein globales digitales Treuhandunternehmen, gab heute bekannt, dass sein Vorstand beschlossen hat, sich freiwillig aus dem globalen SSL/TLS-Zertifikatsgeschäft zurückzuziehen.",
+      "zh-Hant": "eMudhra Limited(BSE:543533 QQ NSE:EMUDHRA),是一家全球數字信託公司,今天宣佈其董事會決定自願退出全球SSL/TLS證書業務."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 880 分 · 601 条评论",
+      "zh-Hant": "Hacker News 880 分 · 601 則留言",
+      "en": "880 points · 601 comments on Hacker News",
+      "ja": "Hacker News 880 ポイント · コメント 601 件",
+      "ko": "Hacker News 880점 · 댓글 601개",
+      "ms": "880 mata · 601 komen di Hacker News",
+      "vi": "880 điểm · 601 bình luận trên Hacker News",
+      "fr": "880 points · 601 commentaires sur Hacker News",
+      "es": "880 puntos · 601 comentarios en Hacker News",
+      "de": "880 Punkte · 601 Kommentare auf Hacker News"
+     },
+     "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+     "src": "emudhra.com",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1428268121",
+     "title": {
+      "zh-Hans": "9bie/php2shell-bypass-aslr-exp",
+      "zh-Hant": "9bie/php2shell-bypass-aslr-exp",
+      "en": "9bie/php2shell-bypass-aslr-exp",
+      "ja": "9bie/php2shell-bypass-aslr-exp",
+      "ko": "9bie/php2shell-bypass-aslr-exp",
+      "ms": "9bie/php2shell-bypass-aslr-exp",
+      "vi": "9bie/php2shell-bypass-aslr-exp",
+      "fr": "9bie/php2shell-bypass-aslr-exp",
+      "es": "9bie/php2shell-bypass-aslr-exp",
+      "de": "9bie/php2shell-bypass-aslr-exp"
+     },
+     "summary": {
+      "en": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "zh-Hans": "php2shell 开发,不需要对正版进行修改,也不需要显示 errors或限制 memory.",
+      "ja": "php2shell は、正式なバージョンに修正しなくても、display errors や limit memory を必要としません。",
+      "ko": "php2shell는 공식 버전에 대한 수정이 필요하지 않으며, display errors 또는 limit memory가 필요하지 않습니다.",
+      "ms": "Eksploitasi php2shell yang tidak memerlukan modifikasi pada versi resmi, dan tidak memerlukan display errors atau limit memory.",
+      "vi": "Một việc khai thác php2sex không cần sửa đổi cho phiên bản chính thức, và cũng không cần thiết hiển thị  lỗi hoặc giới hạn .",
+      "fr": "Un php2shell exploite qui ne nécessite aucune modification de la version officielle, et ne nécessite pas de display errors ou limit memory.",
+      "es": "Una explotación de php2shell que no requiere modificaciones a la versión oficial, y no requiere display errors o limit memory.",
+      "de": "Ein php2shell-Exploit, der keine Änderungen an der offiziellen Version erfordert und keine display errors oder limit memory erfordert.",
+      "zh-Hant": "php2shell 開發,不需要對正版進行修改,也不需要顯示 errors或限制 memory."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 950 星",
+      "zh-Hant": "GitHub 950 星",
+      "en": "950 stars on GitHub",
+      "ja": "GitHub スター 950",
+      "ko": "GitHub 스타 950개",
+      "ms": "950 bintang di GitHub",
+      "vi": "950 sao trên GitHub",
+      "fr": "950 étoiles sur GitHub",
+      "es": "950 estrellas en GitHub",
+      "de": "950 Sterne auf GitHub"
+     },
+     "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+     "src": "github.com",
+     "date": "2026-10-21",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1428098303",
+     "title": {
+      "zh-Hans": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "zh-Hant": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "en": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "ja": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "ko": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "ms": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "vi": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "fr": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "es": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "de": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"
+     },
+     "summary": {
+      "en": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments.",
+      "zh-Hans": "受孕证明(PoC)为php2shell(CVE-2026-109618 / CVE-2026-109619)所开发,演示了在脆弱的PHP环境中的远程代码执行.",
+      "ja": "php2shell (CVE-2026-109618 / CVE-2026-109619) の Prof-of-Concept (PoC) は、脆弱な PHP 環境でリモートコードの実行を実証します。",
+      "ko": "php2shell (CVE-2026-109618 / CVE-2026-109619)에 대한 증거 동의 (PoC) 악용, 취약 PHP 환경에서 원격 코드 실행을 민주화.",
+      "ms": "Proof-of-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), mendemonstrasikan eksekusi kode jauh di lingkungan PHP rentan.",
+      "vi": "Điểm Concept (PoC) lợi dụng php2st (CVE-26-969618 / CVE-26-109619), trình bày thực hiện mã từ xa trong môi trường PHP dễ bị tổn thương.",
+      "fr": "Proof-of-Concept (PoC) exploite pour php2shell (CVE-2026-109618 / CVE-2026-109619), démontrant l'exécution de code à distance dans des environnements PHP vulnérables.",
+      "es": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demostrando la ejecución de código remoto en entornos PHP vulnerables.",
+      "de": "Proof-of-Concept (PoC) Exploit für php2shell (CVE-2026-109618 / CVE-2026-109619) demonstriert Remote-Code-Ausführung in anfälligen PHP-Umgebungen.",
+      "zh-Hant": "受孕證明(PoC)為php2shell(CVE-2026-109618 / CVE-2026-109619)所開發,演示了在脆弱的PHP環境中的遠端程式碼執行."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 880 星",
+      "zh-Hant": "GitHub 880 星",
+      "en": "880 stars on GitHub",
+      "ja": "GitHub スター 880",
+      "ko": "GitHub 스타 880개",
+      "ms": "880 bintang di GitHub",
+      "vi": "880 sao trên GitHub",
+      "fr": "880 étoiles sur GitHub",
+      "es": "880 estrellas en GitHub",
+      "de": "880 Sterne auf GitHub"
+     },
+     "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+     "src": "github.com",
+     "date": "2026-10-21",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-22",
    "path": "digest/2026-10-22/",
