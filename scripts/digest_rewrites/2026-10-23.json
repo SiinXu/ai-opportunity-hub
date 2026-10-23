@@ -1,0 +1,322 @@
+{
+ "https://github.com/NVIDIA/OpenShell": {
+  "loc": {
+   "zh-Hans": {
+    "title": "NVIDIA OpenShell：给成批自主 AI Agent 用的安全私有运行时",
+    "summary": "NVIDIA 开源的 OpenShell，定位是自主 AI Agent 的安全、私有运行环境。"
+   },
+   "ja": {
+    "title": "NVIDIA OpenShell：自律型 AI エージェント群のための安全でプライベートな実行環境",
+    "summary": "NVIDIA がオープンソースで公開した OpenShell は、自律型 AI エージェント向けの安全でプライベートな実行環境です。"
+   },
+   "ko": {
+    "title": "NVIDIA OpenShell: 자율 AI 에이전트 무리를 위한 안전한 프라이빗 런타임",
+    "summary": "NVIDIA가 오픈소스로 공개한 OpenShell은 자율 AI 에이전트를 위한 안전하고 프라이빗한 실행 환경입니다."
+   }
+  }
+ },
+ "https://github.com/oosexgang/hackios-xnu-kernel": {
+  "loc": {
+   "zh-Hans": {
+    "title": "在 Android 手机上运行完整的 iOS 16.5 固件",
+    "summary": "HackiOS 在 Android 手机硬件上启动苹果开源的 XNU 内核（iOS 16.5 的内核），并在其上运行未经修改的 iOS 16.5 用户空间。"
+   },
+   "ja": {
+    "title": "Android 端末で iOS 16.5 のファームウェアを丸ごと動かす",
+    "summary": "HackiOS は Apple がオープンソース化した XNU カーネル（iOS 16.5 のカーネル）を Android 端末で起動し、その上で無改造の iOS 16.5 ユーザー空間を動かします。"
+   },
+   "ko": {
+    "title": "Android 기기에서 iOS 16.5 펌웨어 전체 실행",
+    "summary": "HackiOS는 Apple이 공개한 XNU 커널(iOS 16.5 커널)을 Android 기기에서 부팅하고, 그 위에서 수정하지 않은 iOS 16.5 사용자 공간을 실행합니다."
+   }
+  }
+ },
+ "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html": {
+  "loc": {
+   "zh-Hans": {
+    "title": "从没开过 Cash App 账户，她却面临六年刑期",
+    "summary": "一起数字身份冒用案：一名女子因一个并非她本人开设的 Cash App 账户入狱三晚，最高可能被判六年，显示身份盗用的后果可以有多严重。"
+   },
+   "ja": {
+    "title": "開設していない Cash App 口座で、女性が懲役 6 年の可能性に直面",
+    "summary": "デジタルななりすまし事件。本人が開いていない Cash App 口座をめぐり女性が 3 晩拘留され、最大 6 年の刑に問われています。"
+   },
+   "ko": {
+    "title": "개설한 적 없는 Cash App 계정 때문에 징역 6년 위기에 놓인 여성",
+    "summary": "디지털 신원 도용 사건입니다. 본인이 만들지 않은 Cash App 계정 때문에 한 여성이 사흘 밤을 구금됐고 최대 6년형을 받을 수 있습니다."
+   }
+  }
+ },
+ "https://github.com/openai/openai-cli": {
+  "loc": {
+   "zh-Hans": {
+    "title": "OpenAI 官方 CLI",
+    "summary": "OpenAI API 的官方命令行工具。"
+   },
+   "ja": {
+    "title": "OpenAI 公式 CLI",
+    "summary": "OpenAI API の公式コマンドラインツールです。"
+   },
+   "ko": {
+    "title": "OpenAI 공식 CLI",
+    "summary": "OpenAI API의 공식 명령줄 도구입니다."
+   }
+  }
+ },
+ "https://eliastaylor.com/noexploit/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "这个 PHP 漏洞其实没那么好利用",
+    "summary": "作者认为 PHP2Shell 确实是真漏洞，但利用难度远高于 Log4Shell、Heartbleed 这类，舆论有些夸大；不过服务器还是应该打补丁。"
+   },
+   "ja": {
+    "title": "この PHP の脆弱性は簡単には悪用できない",
+    "summary": "筆者は PHP2Shell が本物の脆弱性だと認めつつ、Log4Shell や Heartbleed ほど簡単には悪用できず、騒ぎすぎだと主張します。それでもパッチは当てるべきだとしています。"
+   },
+   "ko": {
+    "title": "이 PHP 취약점은 쉽게 악용할 수 없다",
+    "summary": "글쓴이는 PHP2Shell이 실제 취약점이지만 Log4Shell이나 Heartbleed만큼 악용이 쉽지 않아 과장됐다고 봅니다. 그래도 서버 패치는 해야 한다고 강조합니다."
+   }
+  }
+ },
+ "https://arc.net/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "告别 Arc 浏览器：12 月 22 日停服",
+    "summary": "Arc 将于 2026 年 12 月 22 日停止服务。团队表示维护浏览器安全的工作量越来越大，今后专注新浏览器 Dia。"
+   },
+   "ja": {
+    "title": "さよなら Arc ブラウザ：12 月 22 日に終了",
+    "summary": "Arc は 2026 年 12 月 22 日にサービスを終了します。ブラウザの安全を保つ負担が増しているため、チームは新しいブラウザ Dia に注力するとしています。"
+   },
+   "ko": {
+    "title": "Arc 브라우저 종료: 12월 22일 서비스 중단",
+    "summary": "Arc는 2026년 12월 22일 서비스를 종료합니다. 브라우저 보안 유지 부담이 커져 팀은 새 브라우저 Dia에 집중한다고 밝혔습니다."
+   }
+  }
+ },
+ "https://news.ycombinator.com/item?id=50200997": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Ask HN：模型这么强，OpenAI 为什么不自己开 100 家公司？",
+    "summary": "提问者的意思是：如果前沿模型真的那么好，为什么还要把卖模型当作主要赚钱方式？"
+   },
+   "ja": {
+    "title": "Ask HN：モデルがそんなに優秀なら、なぜ OpenAI は自分で 100 社を立ち上げないのか",
+    "summary": "質問の趣旨は、最先端モデルが本当にそれほど優秀なら、なぜモデルの販売を主な収益源にしているのか、というものです。"
+   },
+   "ko": {
+    "title": "Ask HN: 모델이 그렇게 좋다면 OpenAI는 왜 직접 회사 100개를 차리지 않을까?",
+    "summary": "질문의 요지는 최신 모델이 정말 그렇게 뛰어나다면 왜 모델 판매를 주 수익원으로 삼느냐는 것입니다."
+   }
+  }
+ },
+ "https://simedw.com/2026/10/21/world-model-terminal/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "WorldTUI：用 360M 小模型“假装”一个终端",
+    "summary": "作者微调了一个 3.6 亿参数的模型来扮演终端：背后没有 shell 和文件系统，每次按键都由模型预测屏幕变化，能开 vim、tmux、玩贪吃蛇，还大多记得几条命令前写过的内容。"
+   },
+   "ja": {
+    "title": "WorldTUI：360M のモデルにターミナルのふりをさせる",
+    "summary": "3.6 億パラメータのモデルをターミナル役に微調整。裏にシェルもファイルシステムもなく、キー入力ごとに画面の変化を予測します。vim や tmux、スネークゲームも動きます。"
+   },
+   "ko": {
+    "title": "WorldTUI: 360M 모델이 터미널인 척하게 만들기",
+    "summary": "3억 6천만 파라미터 모델을 터미널처럼 동작하도록 미세조정했습니다. 셸이나 파일시스템 없이 키 입력마다 화면 변화를 예측하며 vim, tmux, 스네이크 게임도 됩니다."
+   }
+  }
+ },
+ "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans": {
+  "loc": {
+   "zh-Hans": {
+    "title": "每个 AI 模型对人类都有同一个“有争议”的看法",
+    "summary": "作者让 12 个模型各说三次对人类最有争议的看法，35 个回答里有 29 个相同：人类更在乎归属感，而不是真相。"
+   },
+   "ja": {
+    "title": "どの AI モデルも人間について同じ「物議を醸す」意見を持っている",
+    "summary": "12 の AI モデルに人間についての最も物議を醸す意見を 3 回ずつ尋ねたところ、35 件中 29 件が「人は真実より帰属を大事にする」でした。"
+   },
+   "ko": {
+    "title": "모든 AI 모델이 인간에 대해 같은 ‘논쟁적’ 견해를 내놓는다",
+    "summary": "12개 AI 모델에 인간에 대한 가장 논쟁적인 의견을 세 번씩 물었더니 35개 답 중 29개가 같았습니다. 사람은 진실보다 소속감을 더 중시한다는 것입니다."
+   }
+  }
+ },
+ "https://nvd.nist.gov/vuln/detail/cve-2026-111943": {
+  "loc": {
+   "zh-Hans": {
+    "title": "CVE-2026-111943：中间证书颁发机构遭攻破",
+    "summary": "NVD 登记的漏洞条目：一个中间 CA 被攻破，与本周 eMudhra 证书事件相关，在 HN 上被转发讨论。"
+   },
+   "ja": {
+    "title": "CVE-2026-111943：中間認証局の侵害",
+    "summary": "NVD に登録された脆弱性で、中間認証局の侵害に関するものです。今週の eMudhra 証明書問題と関連し、HN で議論されました。"
+   },
+   "ko": {
+    "title": "CVE-2026-111943: 중간 인증기관 침해",
+    "summary": "NVD에 등록된 취약점으로 중간 인증기관 침해에 관한 것입니다. 이번 주 eMudhra 인증서 사건과 관련해 HN에서 논의됐습니다."
+   }
+  }
+ },
+ "https://www.typeui.sh/micro-interactions": {
+  "loc": {
+   "zh-Hans": {
+    "title": "给 AI 用的 UI 微交互提示词",
+    "summary": "typeui.sh 整理的一组 UI 微交互提示词，可以直接交给 AI 生成界面动效，在 HN 上被分享。"
+   },
+   "ja": {
+    "title": "AI 向けの UI マイクロインタラクション用プロンプト",
+    "summary": "typeui.sh がまとめた UI マイクロインタラクションのプロンプト集で、AI に画面の動きを作らせるのに使えます。HN で共有されました。"
+   },
+   "ko": {
+    "title": "AI용 UI 마이크로 인터랙션 프롬프트",
+    "summary": "typeui.sh가 정리한 UI 마이크로 인터랙션 프롬프트 모음으로, AI에게 화면 동작을 만들게 할 때 쓸 수 있습니다. HN에서 공유됐습니다."
+   }
+  }
+ },
+ "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "亚马逊：PHP2Shell 在公开披露前已被利用",
+    "summary": "亚马逊威胁情报在 MadPot 蜜罐数据里发现了 2026 年 10 月 17 日的 PHP2Shell 利用尝试，比 CVE-2026-109618 和 CVE-2026-109619 公开披露早四天。"
+   },
+   "ja": {
+    "title": "Amazon：PHP2Shell は公開前にすでに悪用されていた",
+    "summary": "Amazon の脅威インテリジェンスは MadPot のデータで 2026 年 10 月 17 日の PHP2Shell 悪用の試みを確認しました。CVE-2026-109618 と CVE-2026-109619 の公開の 4 日前です。"
+   },
+   "ko": {
+    "title": "Amazon: PHP2Shell은 공개 전부터 악용됐다",
+    "summary": "Amazon 위협 인텔리전스는 MadPot 데이터에서 2026년 10월 17일 PHP2Shell 악용 시도를 발견했습니다. CVE-2026-109618과 CVE-2026-109619 공개보다 나흘 앞선 시점입니다."
+   }
+  }
+ },
+ "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities": {
+  "loc": {
+   "zh-Hans": {
+    "title": "多个 Linux 内核漏洞被误发到公开邮件列表",
+    "summary": "似乎是失误：一夜之间有几份新的 Linux 内核漏洞报告被发到了公开的内核邮件列表，而不是私密的安全邮件列表。"
+   },
+   "ja": {
+    "title": "複数の Linux カーネル脆弱性が誤って公開メーリングリストに投稿",
+    "summary": "どうやら手違いで、新しい Linux カーネルの脆弱性報告がいくつか、非公開のセキュリティ用ではなく公開のカーネルメーリングリストに投稿されました。"
+   },
+   "ko": {
+    "title": "여러 Linux 커널 취약점이 실수로 공개 메일링 리스트에 게시돼",
+    "summary": "실수로 보이지만, 밤사이 새 Linux 커널 취약점 보고 여러 건이 비공개 보안 메일링 리스트가 아닌 공개 커널 메일링 리스트에 올라왔습니다."
+   }
+  }
+ },
+ "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html": {
+  "loc": {
+   "zh-Hans": {
+    "title": "让大模型给自己打置信分是个坏主意",
+    "summary": "作者认为，让基于大模型的 Agent 自己报告置信度并不可靠，因为它们往往只是看起来完成了任务。"
+   },
+   "ja": {
+    "title": "LLM に信頼度スコアを付けさせるのは悪いアイデア",
+    "summary": "LLM ベースのエージェントに自分の信頼度を答えさせても当てにならない、と筆者は論じます。タスクをこなしているように見えるだけのことが多いからです。"
+   },
+   "ko": {
+    "title": "LLM에게 신뢰도 점수를 매기게 하는 건 나쁜 생각",
+    "summary": "LLM 기반 에이전트에게 스스로 신뢰도를 보고하게 해도 믿기 어렵다고 글쓴이는 주장합니다. 작업을 해낸 것처럼 보이기만 하는 경우가 많기 때문입니다."
+   }
+  }
+ },
+ "https://globus.software/blog/2026/10/16/cutting-map-polygons/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "比 earcut 更快：489 毫秒三角化 370 万个地图多边形",
+    "summary": "作者把地图引擎的三角化器开源为 earstrip（ISC 许可，C++ 和 WebAssembly），并讲解如何一步步重写耳切算法、在 370 万个多边形上计时。"
+   },
+   "ja": {
+    "title": "earcut より速く：370 万の地図ポリゴンを 489 ミリ秒で三角形分割",
+    "summary": "地図エンジンの三角形分割器を earstrip（ISC ライセンス、C++ と WebAssembly）として公開し、耳切り法をどう作り直したかを解説しています。"
+   },
+   "ko": {
+    "title": "earcut보다 빠르게: 지도 폴리곤 370만 개를 489ms에 삼각분할",
+    "summary": "지도 엔진의 삼각분할기를 earstrip(ISC 라이선스, C++·WebAssembly)으로 공개하고, 귀 자르기 알고리즘을 어떻게 다시 만들었는지 설명합니다."
+   }
+  }
+ },
+ "https://github.com/omnara-ai/omnara": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Omnara：Claude Managed Agents 的开源替代",
+    "summary": "开源的托管 Agent 平台，可以自己部署，用来替代 Claude Managed Agents 和 OpenAI 的 Agents API。"
+   },
+   "ja": {
+    "title": "Omnara：Claude Managed Agents のオープンソース代替",
+    "summary": "セルフホストできるオープンソースのマネージドエージェント基盤で、Claude Managed Agents や OpenAI の Agents API の代わりになります。"
+   },
+   "ko": {
+    "title": "Omnara: Claude Managed Agents의 오픈소스 대안",
+    "summary": "직접 호스팅할 수 있는 오픈소스 관리형 에이전트 플랫폼으로, Claude Managed Agents와 OpenAI Agents API를 대체합니다."
+   }
+  }
+ },
+ "https://claude.com/resources/articles/claude-duet": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Claude Duet：会主动帮你做事的 Claude",
+    "summary": "Claude Duet 是一款新应用，Claude 作为主动型 Agent 工作；研究预览今天开放候补名单，面向美国的 Pro 和 Max 订阅用户。"
+   },
+   "ja": {
+    "title": "Claude Duet：自分から動く Claude",
+    "summary": "Claude Duet は Claude が能動的なエージェントとして働く新しいアプリです。研究プレビューは米国の Pro・Max 加入者向けにウェイトリストで始まりました。"
+   },
+   "ko": {
+    "title": "Claude Duet: 먼저 움직이는 Claude",
+    "summary": "Claude Duet는 Claude가 능동형 에이전트로 일하는 새 앱입니다. 연구 프리뷰는 미국 Pro·Max 구독자 대상으로 대기자 명단을 받기 시작했습니다."
+   }
+  }
+ },
+ "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business": {
+  "loc": {
+   "zh-Hans": {
+    "title": "eMudhra 宣布退出全球 SSL/TLS 证书业务",
+    "summary": "数字信任公司 eMudhra（BSE: 543533，NSE: EMUDHRA）宣布，董事会决定主动退出全球 SSL/TLS 证书业务。"
+   },
+   "ja": {
+    "title": "eMudhra が世界の SSL/TLS 証明書事業から撤退",
+    "summary": "デジタルトラスト企業の eMudhra（BSE: 543533、NSE: EMUDHRA）は、取締役会が世界の SSL/TLS 証明書事業からの自主撤退を決めたと発表しました。"
+   },
+   "ko": {
+    "title": "eMudhra, 글로벌 SSL/TLS 인증서 사업에서 철수",
+    "summary": "디지털 신뢰 기업 eMudhra(BSE: 543533, NSE: EMUDHRA)는 이사회가 글로벌 SSL/TLS 인증서 사업에서 자진 철수하기로 결정했다고 발표했습니다."
+   }
+  }
+ },
+ "https://github.com/9bie/php2shell-bypass-aslr-exp": {
+  "loc": {
+   "zh-Hans": {
+    "title": "9bie/php2shell-bypass-aslr-exp：PHP2Shell 利用代码",
+    "summary": "一个 PHP2Shell 利用程序，不需要修改官方版本，也不依赖 display_errors 或内存限制设置。仅供防守方研究和验证补丁。"
+   },
+   "ja": {
+    "title": "9bie/php2shell-bypass-aslr-exp：PHP2Shell のエクスプロイト",
+    "summary": "公式版の改変も display_errors やメモリ制限の設定も不要な PHP2Shell のエクスプロイトです。防御側の検証用に。"
+   },
+   "ko": {
+    "title": "9bie/php2shell-bypass-aslr-exp: PHP2Shell 익스플로잇",
+    "summary": "공식 버전 수정이나 display_errors, 메모리 제한 설정 없이 동작하는 PHP2Shell 익스플로잇입니다. 방어 측 검증용입니다."
+   }
+  }
+ },
+ "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC": {
+  "loc": {
+   "zh-Hans": {
+    "title": "eness/php2shell PoC（CVE-2026-109618 / 109619）",
+    "summary": "PHP2Shell（CVE-2026-109618 / CVE-2026-109619）的概念验证代码，演示存在漏洞的 PHP 环境中的远程代码执行。"
+   },
+   "ja": {
+    "title": "eness/php2shell PoC（CVE-2026-109618 / 109619）",
+    "summary": "PHP2Shell（CVE-2026-109618 / CVE-2026-109619）の概念実証コードで、脆弱な PHP 環境でのリモートコード実行を示します。"
+   },
+   "ko": {
+    "title": "eness/php2shell PoC (CVE-2026-109618 / 109619)",
+    "summary": "PHP2Shell(CVE-2026-109618 / CVE-2026-109619) 개념 증명 코드로, 취약한 PHP 환경에서의 원격 코드 실행을 보여줍니다."
+   }
+  }
+ }
+}
