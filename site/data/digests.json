@@ -1,6 +1,1052 @@
 {
- "latest": "2026-10-23",
+ "latest": "2026-10-24",
  "digests": [
+  {
+   "date": "2026-10-24",
+   "path": "digest/2026-10-24/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-23T23:30:00Z",
+   "generated": "2026-10-24T01:47:30Z",
+   "new_count": 49,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-24",
+    "zh-Hant": "早間技術熱點 · 2026-10-24",
+    "en": "Morning tech digest · 2026-10-24",
+    "ja": "朝のテックダイジェスト · 2026-10-24",
+    "ko": "아침 테크 다이제스트 · 2026-10-24",
+    "ms": "Ringkasan teknologi pagi · 2026-10-24",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-24",
+    "fr": "Digest tech du matin · 2026-10-24",
+    "es": "Resumen tecnológico matinal · 2026-10-24",
+    "de": "Morgendlicher Tech-Digest · 2026-10-24"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-24 07:30 自动生成：从上一期以来 OPC Radar 新收录的 49 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-24 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 49 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-24: the hottest of the 49 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-24 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 49 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-24 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 49개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-24: isyarat paling hangat daripada 49 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-24: những tín hiệu nổi bật nhất trong 49 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-24 : les plus marquants des 49 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-24: lo más destacado de las 49 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-24: das Wichtigste aus 49 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50212065",
+     "title": {
+      "zh-Hans": "木卫一 K3.1 Pro和K3.1 Pro高速",
+      "zh-Hant": "木衛一 K3.1 Pro和K3.1 Pro高速",
+      "en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "ja": "キム・K3.1 ProとK3.1 Proの高速化",
+      "ko": "김이 K3.1 프로 및 K3.1 프로 고속",
+      "ms": "Kimi Kimi K3.1 Pro dan K3.1 Pro Highspeed",
+      "vi": "Kimi K3.1 Pro và K3.1 Pro speed",
+      "fr": "Kimi K3.1 Pro et K3.1 Pro à grande vitesse",
+      "es": "Kimi K3.1 Pro y K3.1 Pro Highspeed",
+      "de": "Kimi K3.1 Pro und K3.1 Pro Highspeed"
+     },
+     "summary": {
+      "en": "Introducing Kimi K3.1 Pro, our most capable 3T-class open-weight model with 1M-token context and major advances in coding, 3D modeling, and financial research.",
+      "zh-Hans": "介绍 Kimi K3.1 Pro,我们最有能力的3T级开放量级模型,具有1M-token上下文,并在编码,3D模型化,金融研究方面取得重大进展.",
+      "ja": "Kimi K3.1の紹介 プロ、コーディング、3Dモデリング、財務研究における1Mトークンコンテクストと主要な進歩を備えた最も有効な3Tクラスのオープン級モデル。",
+      "ko": "김이 K3.1 소개 Pro는 코딩, 3D 모델링 및 금융 연구 분야에서 1M-token 컨텍스트와 주요 발전을 가진 3T 급 개방형 모델입니다.",
+      "ms": "\\\"Himi K3.1\\\" Pro, model kelas 3T kelas kelas terbuka dengan 1M-token konteks dan kemajuan besar dalam coding, pemodelan 3D, dan penelitian keuangan.",
+      "vi": "Xin giới thiệu Kimi K3.1 Pro, mô hình mở hạng 3T có khả năng cao nhất của chúng tôi với 1 m-token bối cảnh và những tiến bộ lớn trong mã hóa, mô hình 3D, và nghiên cứu tài chính.",
+      "fr": "Présentation de Kimi K3.1 Pro, notre modèle ouvert de classe 3T le plus performant avec un contexte de jeton 1M et des avancées majeures dans le codage, la modélisation 3D et la recherche financière.",
+      "es": "Presentación de Kimi K3.1 Pro, nuestro modelo de peso abierto de 3T más capaz con contexto de 1M y avances importantes en codificación, modelado 3D e investigación financiera.",
+      "de": "Vorstellung von Kimi K3.1 Pro, unser fähigstes 3T-Klasse-Open-Gewichtsmodell mit 1M-Token-Kontext und großen Fortschritten in der Codierung, 3D-Modellierung und Finanzforschung.",
+      "zh-Hant": "介紹 Kimi K3.1 Pro,我們最有能力的3T級開放量級模型,具有1M-token上下文,並在編碼,3D模型化,金融研究方面取得重大進展."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 702 分 · 446 条评论",
+      "zh-Hant": "Hacker News 702 分 · 446 則留言",
+      "en": "702 points · 446 comments on Hacker News",
+      "ja": "Hacker News 702 ポイント · コメント 446 件",
+      "ko": "Hacker News 702점 · 댓글 446개",
+      "ms": "702 mata · 446 komen di Hacker News",
+      "vi": "702 điểm · 446 bình luận trên Hacker News",
+      "fr": "702 points · 446 commentaires sur Hacker News",
+      "es": "702 puntos · 446 comentarios en Hacker News",
+      "de": "702 Punkte · 446 Kommentare auf Hacker News"
+     },
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+     "src": "kimi.ai",
+     "date": "2026-10-23",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50212065"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50214218",
+     "title": {
+      "zh-Hans": "现在Google说,它可能会用你的Gmail和Google Photos的数据来瞄准广告",
+      "zh-Hant": "現在Google說,它可能會用你的Gmail和Google Photos的資料來瞄準廣告",
+      "en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "ja": "今度はGoogleはそれがターゲット広告にあなたのGmailおよびGoogleの写真データを使用するかもしれないことを言います",
+      "ko": "이제 Google은 Gmail 및 Google 사진 데이터를 타겟 광고를 사용할 수 있다고 말합니다.",
+      "ms": "Sekarang Google mengatakan mungkin menggunakan data Gmail dan Google Photos untuk menargetkan iklan",
+      "vi": "Google nói rằng nó có thể sử dụng dữ liệu Gmail và Google Photos của bạn để mục tiêu quảng cáo",
+      "fr": "Maintenant Google dit qu'il pourrait utiliser vos données Gmail et Google Photos pour cibler les annonces",
+      "es": "Ahora Google dice que puede utilizar sus datos de Gmail y Google Fotos para apuntar anuncios",
+      "de": "Jetzt sagt Google, dass es Ihre Gmail- und Google-Fotodaten verwenden könnte, um Anzeigen zu zielen"
+     },
+     "summary": {
+      "en": "According to the new terms, sharing your data for better AI recommendations also means opening it up for more personalized ads.",
+      "zh-Hans": "根据新的术语,分享你的数据以获得更好的AI建议也意味着开放给更个性化的广告.",
+      "ja": "新しい言葉によると、より良いAIの勧告のためにあなたのデータを共有することも、よりパーソナライズされた広告のためにそれを開くことを意味します。",
+      "ko": "새로운 용어에 따르면, 더 나은 AI 권고에 대한 데이터를 공유하는 것은 또한 더 개인화 된 광고를 위해 그것을 열어줍니다.",
+      "ms": "Menurut istilah baru, berbagi data Anda untuk rekomendasi AI yang lebih baik juga berarti membukanya untuk iklan yang lebih dipersonalisasi.",
+      "vi": "Theo các điều khoản mới, chia sẻ dữ liệu của bạn cho các khuyến cáo AI tốt hơn cũng có nghĩa là mở nó ra cho các quảng cáo cá nhân hơn.",
+      "fr": "Selon les nouvelles conditions, partager vos données pour de meilleures recommandations d'IA signifie également l'ouvrir pour des annonces plus personnalisées.",
+      "es": "Según los nuevos términos, compartir sus datos para mejores recomendaciones de AI también significa abrirlo para anuncios más personalizados.",
+      "de": "Nach den neuen Bedingungen bedeutet das Teilen Ihrer Daten für bessere KI-Empfehlungen auch, sie für personalisiertere Anzeigen zu öffnen.",
+      "zh-Hant": "根據新的術語,分享你的資料以獲得更好的AI建議也意味著開放給更個性化的廣告."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 258 分 · 136 条评论",
+      "zh-Hant": "Hacker News 258 分 · 136 則留言",
+      "en": "258 points · 136 comments on Hacker News",
+      "ja": "Hacker News 258 ポイント · コメント 136 件",
+      "ko": "Hacker News 258점 · 댓글 136개",
+      "ms": "258 mata · 136 komen di Hacker News",
+      "vi": "258 điểm · 136 bình luận trên Hacker News",
+      "fr": "258 points · 136 commentaires sur Hacker News",
+      "es": "258 puntos · 136 comentarios en Hacker News",
+      "de": "258 Punkte · 136 Kommentare auf Hacker News"
+     },
+     "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+     "src": "theverge.com",
+     "date": "2026-10-23",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50214218"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50207405",
+     "title": {
+      "zh-Hans": "瑞典政府办公室禁止ChatGPT和Claude",
+      "zh-Hant": "瑞典政府辦公室禁止ChatGPT和Claude",
+      "en": "Swedish government offices to ban ChatGPT and Claude",
+      "ja": "ChatGPTとClaudeを禁止するスウェーデン政府事務所",
+      "ko": "스웨덴어 정부 사무소 ChatGPT 및 Claude 금지",
+      "ms": "Kantor pemerintah Swedia untuk melarang ChatGPT dan Claude",
+      "vi": "Văn phòng chính phủ Thụy Điển cấm ChatGPT và Claude",
+      "fr": "Bureaux gouvernementaux suédois pour interdire ChatGPT et Claude",
+      "es": "Oficinas gubernamentales suecas para prohibir ChatGPT y Claude",
+      "de": "Schwedische Regierungsstellen verbieten ChatGPT und Claude"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 sverigesradio.se。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 sverigesradio.se。",
+      "en": "Shared on Hacker News; original at sverigesradio.se.",
+      "ja": "Hacker News で共有されたリンク。元記事は sverigesradio.se にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 sverigesradio.se에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di sverigesradio.se.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại sverigesradio.se.",
+      "fr": "Partagé sur Hacker News ; original sur sverigesradio.se.",
+      "es": "Compartido en Hacker News; original en sverigesradio.se.",
+      "de": "Geteilt auf Hacker News; Original auf sverigesradio.se."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 314 分 · 117 条评论",
+      "zh-Hant": "Hacker News 314 分 · 117 則留言",
+      "en": "314 points · 117 comments on Hacker News",
+      "ja": "Hacker News 314 ポイント · コメント 117 件",
+      "ko": "Hacker News 314점 · 댓글 117개",
+      "ms": "314 mata · 117 komen di Hacker News",
+      "vi": "314 điểm · 117 bình luận trên Hacker News",
+      "fr": "314 points · 117 commentaires sur Hacker News",
+      "es": "314 puntos · 117 comentarios en Hacker News",
+      "de": "314 Punkte · 117 Kommentare auf Hacker News"
+     },
+     "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+     "src": "sverigesradio.se",
+     "date": "2026-10-23",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50207405"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50202217",
+     "title": {
+      "zh-Hans": "LLMS使正式的软件核查在更大范围内可行",
+      "zh-Hant": "LLMS使正式的軟體核查在更大範圍內可行",
+      "en": "LLMs are making formal software verification feasible at a much larger scale",
+      "ja": "LLMは、より大きな規模で正式なソフトウェア検証が可能になっています",
+      "ko": "LLMs는 형식적인 소프트웨어 검증을 훨씬 더 큰 규모로 만들기",
+      "ms": "LLM - LLM membuat verifikasi perangkat lunak formal yang layak dalam skala yang jauh lebih besar",
+      "vi": "LM đang làm cho chính thức quản lý phần mềm khả thi ở một quy mô lớn hơn nhiều",
+      "fr": "Les LLM rendent la vérification formelle du logiciel possible à une échelle beaucoup plus grande",
+      "es": "Las LLM están haciendo posible la verificación formal del software a una escala mucho mayor",
+      "de": "LLMs machen eine formale Softwareverifizierung in viel größerem Maßstab möglich"
+     },
+     "summary": {
+      "en": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.",
+      "zh-Hans": "Claude在123个开源库的编译代码中正式证明了安全属性. 沿途,它发现了一些虫子 多年来一直未被发现。",
+      "ja": "Claudeは、123のオープンソースライブラリのコンパイルされたコードで、正式にセキュリティプロパティを証明しました。 途中で、長年の検出を除外したバグが発見されました。",
+      "ko": "Claude formally는 123 오픈 소스 라이브러리의 컴파일된 코드에서 보안 속성을 증명했습니다. 길, 그것은 몇 년 동안 탐지를 포함 한 버그를 발견.",
+      "ms": "Claude secara formal membuktikan properti keamanan dalam kode terkompilasi 123 perpustakaan open-source. Sepanjang perjalanan, itu menemukan bug yang telah menghindari deteksi selama bertahun-tahun.",
+      "vi": "Claude chính thức chứng minh tính chất bảo mật trong mã biên dịch của các thư viện mã cứ mở. Trên đường đi, nó tìm thấy những con bọ đã tránh bị phát hiện nhiều năm.",
+      "fr": "Claude a formellement prouvé les propriétés de sécurité dans le code compilé de 123 bibliothèques open-source. En chemin, il a trouvé des bugs qui avaient échappé à la détection depuis des années.",
+      "es": "Claude demostró formalmente las propiedades de seguridad en el código compilado de 123 bibliotecas de código abierto. A lo largo del camino, encontró errores que habían eludido la detección durante años.",
+      "de": "Claude hat die Sicherheitseigenschaften im kompilierten Code von 123 Open-Source-Bibliotheken formal nachgewiesen. Auf dem Weg dorthin fand es Bugs, die sich jahrelang der Erkennung entzogen hatten.",
+      "zh-Hant": "Claude在123個開源庫的編譯程式碼中正式證明了安全屬性. 沿途,它發現了一些蟲子 多年來一直未被發現。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 440 分 · 284 条评论",
+      "zh-Hant": "Hacker News 440 分 · 284 則留言",
+      "en": "440 points · 284 comments on Hacker News",
+      "ja": "Hacker News 440 ポイント · コメント 284 件",
+      "ko": "Hacker News 440점 · 댓글 284개",
+      "ms": "440 mata · 284 komen di Hacker News",
+      "vi": "440 điểm · 284 bình luận trên Hacker News",
+      "fr": "440 points · 284 commentaires sur Hacker News",
+      "es": "440 puntos · 284 comentarios en Hacker News",
+      "de": "440 Punkte · 284 Kommentare auf Hacker News"
+     },
+     "url": "https://www.anthropic.com/research/formal-verification",
+     "src": "anthropic.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50202217"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50213925",
+     "title": {
+      "zh-Hans": "德萨:有史以来最真实的全方位演讲模型",
+      "zh-Hant": "德薩:有史以來最真實的全方位演講模型",
+      "en": "Dessa: the most authentic full-duplex speech model ever built",
+      "ja": "Dessa: これまでに作られた最も本格的なフルデュプレックスのスピーチモデル",
+      "ko": "Dessa: 지금까지 구축된 가장 정통 풀 듀플렉스 연설 모델",
+      "ms": "Dassa: model pidato penuh-dupleks paling otentik yang pernah dibangun",
+      "vi": "Dessa: mô hình phát âm chính xác nhất từng được xây dựng",
+      "fr": "Dessa : le modèle le plus authentique duplex complet jamais construit",
+      "es": "Dessa: el más auténtico modelo de discurso de dúplex construido",
+      "de": "Dessa: das authentischste Vollduplex-Sprachmodell, das jemals gebaut wurde"
+     },
+     "summary": {
+      "en": "You learned to talk by listening. So did Dessa. A research preview of a full-duplex speech model.",
+      "zh-Hans": "你学会了通过倾听说话 德萨也是 全方位语音模型的研究预览.",
+      "ja": "リスニングで話すことを学びました。 そこでデスサをやってみました。 双方向のスピーチモデルの研究プレビュー。",
+      "ko": "듣는 것을 배웠습니다. 그래서 데사. Full-duplex 연설 모델의 연구 미리보기.",
+      "ms": "Kau belajar berbicara dengan mendengarkan. Begitu juga dengan Dessa. Penerjemahan penelitian model pidato penuh-dupleks.",
+      "vi": "Bạn học cách nói chuyện bằng cách lắng nghe. Dessa cũng vậy. Xem thử một mô hình phát âm phức tạp.",
+      "fr": "Tu as appris à parler en écoutant. Comme Dessa. Un avant-goût de recherche d'un modèle de discours plein duplex.",
+      "es": "Aprendiste a hablar escuchando. También Dessa. Una vista previa de investigación de un modelo de discurso de dúplex completo.",
+      "de": "Du hast gelernt zu reden, indem du zugehört hast. So auch Dessa. Eine Forschungsvorschau eines Vollduplex-Sprachmodells.",
+      "zh-Hant": "你學會了透過傾聽說話 德薩也是 全方位語音模型的研究預覽."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 215 分 · 93 条评论",
+      "zh-Hant": "Hacker News 215 分 · 93 則留言",
+      "en": "215 points · 93 comments on Hacker News",
+      "ja": "Hacker News 215 ポイント · コメント 93 件",
+      "ko": "Hacker News 215점 · 댓글 93개",
+      "ms": "215 mata · 93 komen di Hacker News",
+      "vi": "215 điểm · 93 bình luận trên Hacker News",
+      "fr": "215 points · 93 commentaires sur Hacker News",
+      "es": "215 puntos · 93 comentarios en Hacker News",
+      "de": "215 Punkte · 93 Kommentare auf Hacker News"
+     },
+     "url": "https://block.xyz/dessa",
+     "src": "block.xyz",
+     "date": "2026-10-23",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50213925"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50195488",
+     "title": {
+      "zh-Hans": "OnKey – 我是个糟糕的歌手,所以我制作了一个应用软件来显示我在哪里脱机",
+      "zh-Hant": "OnKey – 我是個糟糕的歌手,所以我製作了一個應用軟體來顯示我在哪裡離線",
+      "en": "OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "ja": "OnKey – 私は悪い歌手です, 私は私がオフキーである場所を示すためにアプリを構築しました",
+      "ko": "OnKey – 나는 나쁜 가수입니다, 그래서 나는 오프 키가 어디인지 보여주는 응용 프로그램을 구축",
+      "ms": "OnKey – Saya penyanyi yang buruk, jadi saya membangun aplikasi untuk menunjukkan di mana saya off-key",
+      "vi": "Trên Koey - Tôi là một ca sĩ tồi, vì vậy tôi đã xây dựng một ứng dụng để hiển thị nơi tôi đang off-key",
+      "fr": "OnKey – Je suis un mauvais chanteur, donc j'ai construit une application pour montrer où je suis hors-clé",
+      "es": "OnKey – Soy un mal cantante, así que construí una aplicación para mostrar dónde estoy fuera de juego",
+      "de": "OnKey - Ich bin ein schlechter Sänger, also habe ich eine App erstellt, um zu zeigen, wo ich falsch bin"
+     },
+     "summary": {
+      "en": "Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play.",
+      "zh-Hans": "学会唱你喜欢的歌 一个免费的,开源的为Mac演唱的教练,听取您演奏的音乐.",
+      "ja": "好きな曲を歌うことを学びましょう。 あなたが再生する音楽を聴くMac用の無料のオープンソースの歌のトレーナー。",
+      "ko": "노래를 노래하는 것을 배우세요. 무료, 오픈 소스 노래 트레이너 Mac 용 당신은 연주 음악을 듣고.",
+      "ms": "Belajarlah menyanyikan lagu yang kau suka. Seorang pelatih menyanyi open-source gratis untuk Mac yang mendengarkan musik yang Anda mainkan.",
+      "vi": "Hãy học cách hát những bài hát bạn yêu thích. Một huấn luyện viên miễn phí, mở cho Mac nghe nhạc bạn chơi.",
+      "fr": "Apprenez à chanter les chansons que vous aimez. Un formateur de chant gratuit et ouvert pour Mac qui écoute la musique que vous jouez.",
+      "es": "Aprende a cantar las canciones que amas. Un entrenador de canto libre de código abierto para Mac que escucha la música que tocas.",
+      "de": "Lerne die Lieder zu singen, die du liebst. Ein kostenloser Open-Source-Gesangstrainer für Mac, der die Musik hört, die Sie spielen.",
+      "zh-Hant": "學會唱你喜歡的歌 一個免費的,開源的為Mac演唱的教練,聽取您演奏的音樂."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 214 分 · 89 条评论",
+      "zh-Hant": "Hacker News 214 分 · 89 則留言",
+      "en": "214 points · 89 comments on Hacker News",
+      "ja": "Hacker News 214 ポイント · コメント 89 件",
+      "ko": "Hacker News 214점 · 댓글 89개",
+      "ms": "214 mata · 89 komen di Hacker News",
+      "vi": "214 điểm · 89 bình luận trên Hacker News",
+      "fr": "214 points · 89 commentaires sur Hacker News",
+      "es": "214 puntos · 89 comentarios en Hacker News",
+      "de": "214 Punkte · 89 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/dsmurrell/onkey",
+     "src": "github.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50195488"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50215530",
+     "title": {
+      "zh-Hans": "CVE 跟踪器",
+      "zh-Hant": "CVE 跟蹤器",
+      "en": "CVE Tracker",
+      "ja": "CVEトラッカー",
+      "ko": "CVE 추적기",
+      "ms": "AVE Tracker",
+      "vi": "Bộ theo dõi CVE",
+      "fr": "CVE Tracker",
+      "es": "CVE Tracker",
+      "de": "CVE Tracker"
+     },
+     "summary": {
+      "en": "Live count of published CVE records, rebuilt daily from the official CVE list.",
+      "zh-Hans": "已公布的CVE记录的活计数,每日从CVE官方列表中重建.",
+      "ja": "公開されたCVEレコードのライブカウント、公式CVEリストから毎日再構築。",
+      "ko": "CVE 레코드의 라이브 카운트, 공식 CVE 목록에서 매일 재건.",
+      "ms": "Hitungan langsung dari catatan CVE yang diterbitkan, dibangun kembali setiap hari dari daftar resmi CVE.",
+      "vi": "Số lượng người được xuất bản, được xây lại mỗi ngày từ danh sách chính thức CVE.",
+      "fr": "Compte en direct des disques CVE publiés, reconstruits quotidiennement à partir de la liste officielle CVE.",
+      "es": "Cuenta en vivo de los registros CVE publicados, reconstruidos diariamente de la lista oficial CVE.",
+      "de": "Live-Zählung der veröffentlichten CVE-Datensätze, täglich aus der offiziellen CVE-Liste neu erstellt.",
+      "zh-Hant": "已公佈的CVE記錄的活計數,每日從CVE官方列表中重建."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 92 分 · 34 条评论",
+      "zh-Hant": "Hacker News 92 分 · 34 則留言",
+      "en": "92 points · 34 comments on Hacker News",
+      "ja": "Hacker News 92 ポイント · コメント 34 件",
+      "ko": "Hacker News 92점 · 댓글 34개",
+      "ms": "92 mata · 34 komen di Hacker News",
+      "vi": "92 điểm · 34 bình luận trên Hacker News",
+      "fr": "92 points · 34 commentaires sur Hacker News",
+      "es": "92 puntos · 34 comentarios en Hacker News",
+      "de": "92 Punkte · 34 Kommentare auf Hacker News"
+     },
+     "url": "https://cve.0xosprey.com/",
+     "src": "cve.0xosprey.com",
+     "date": "2026-10-23",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50215530"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50196837",
+     "title": {
+      "zh-Hans": "谷歌清理了300公顷芬兰森林",
+      "zh-Hant": "谷歌清理了300公頃芬蘭森林",
+      "en": "Google cleared 300 hectares of Finnish forest",
+      "ja": "Googleはフィンランドの森の300ヘクタールをクリア",
+      "ko": "Google은 핀란드 숲의 300 헥타르를 정리했습니다.",
+      "ms": "Google dibersihkan 300 hektar hutan Finlandia",
+      "vi": "Name",
+      "fr": "Google défriché 300 hectares de forêt finlandaise",
+      "es": "Google despejó 300 hectáreas de bosque finlandés",
+      "de": "Google räumt 300 Hektar finnischen Waldes"
+     },
+     "summary": {
+      "en": "Cutting corners: Google recently announced a major expansion of its data center footprint in Finland. The US company plans to invest billions in the new infrastructure but is allegedly moving a bit…",
+      "zh-Hans": "剪接角:Google最近宣布大幅扩展其在芬兰的数据中心足迹. 美国公司计划投资数十亿 新的基础设施 但据称正在移动...",
+      "ja": "切断角:Googleは最近フィンランドのデータセンターのフットプリントの大きな拡大を発表しました。 米国企業は、新しいインフラに10億を投資する予定ですが、少しずつ移動しています。",
+      "ko": "절단 코너 : Google은 최근 핀란드의 데이터 센터 발자국의 주요 확장을 발표했다. 미국 회사는 새로운 인프라에서 수십억 달러를 투자 할 계획이지만 전적으로 비트를 이동 ...",
+      "ms": "Pojok memotong: Google baru-baru ini mengumumkan perluasan besar jejak pusat datanya di Finlandia. Perusahaan AS berencana untuk berinvestasi miliaran di infrastruktur baru tapi diduga bergerak sedikit ...",
+      "vi": "Google gần đây đã công bố sự mở rộng lớn của dấu chân trung tâm dữ liệu ở Phần Lan. Các kế hoạch của công ty Mỹ để đầu tư hàng tỷ đô vào cơ sở hạ tầng mới nhưng được cho là di chuyển một chút...",
+      "fr": "Cutting corners: Google a récemment annoncé une expansion majeure de son empreinte de centre de données en Finlande. La société américaine prévoit d'investir des milliards dans la nouvelle infrastructure, mais elle...",
+      "es": "Cortar esquinas: Google anunció recientemente una gran expansión de su huella de centro de datos en Finlandia. La empresa estadounidense planea invertir miles de millones en la nueva infraestructura pero supuestamente está moviendo un poco...",
+      "de": "Cutting corners: Google hat kürzlich eine umfangreiche Erweiterung seines Rechenzentrums in Finnland angekündigt. Das US-Unternehmen plant, Milliarden in die neue Infrastruktur zu investieren, bewegt sich aber angeblich ein wenig...",
+      "zh-Hant": "剪接角:Google最近宣佈大幅擴充套件其在芬蘭的資料中心足跡. 美國公司計劃投資數十億 新的基礎設施 但據稱正在移動..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 326 分 · 245 条评论",
+      "zh-Hant": "Hacker News 326 分 · 245 則留言",
+      "en": "326 points · 245 comments on Hacker News",
+      "ja": "Hacker News 326 ポイント · コメント 245 件",
+      "ko": "Hacker News 326점 · 댓글 245개",
+      "ms": "326 mata · 245 komen di Hacker News",
+      "vi": "326 điểm · 245 bình luận trên Hacker News",
+      "fr": "326 points · 245 commentaires sur Hacker News",
+      "es": "326 puntos · 245 comentarios en Hacker News",
+      "de": "326 Punkte · 245 Kommentare auf Hacker News"
+     },
+     "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+     "src": "techspot.com",
+     "date": "2026-10-22",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50196837"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50208258",
+     "title": {
+      "zh-Hans": "Hacker泄露了281GB 来自德国极右联盟的数据",
+      "zh-Hant": "Hacker洩露了281GB 來自德國極右聯盟的資料",
+      "en": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+      "ja": "ハッカーは、ドイツで最も近いAFDパーティーから281 GBのデータを漏洩させます",
+      "ko": "해커 누출 281 독일의 far-right AfD 파티에서 데이터의 GB",
+      "ms": "Hacker bocor 281 GB data dari partai AfD Jerman kanan jauh",
+      "vi": "Name",
+      "fr": "Hacker fuit 281 Go de données de l'extrême droite AfD parti allemand",
+      "es": "Hacker filtra 281 GB de datos del partido AfD de extrema derecha de Alemania",
+      "de": "Hacker veröffentlicht 281 GB Daten der rechtsextremen AfD"
+     },
+     "summary": {
+      "en": "Germany's far-right AfD (Alternative für Deutschland) party has confirmed that it has suffered a security breach, after a hacker published what appear to be hundreds of thousands of the controversial…",
+      "zh-Hans": "德国极右翼的AFD(英语:Alternative für Deutschland)政党证实,在一名黑客发表看来是数十万有争议. .",
+      "ja": "ドイツで最も近いAfD(代替für Deutschland)のパーティーは、それがセキュリティ侵害に苦しんでいることを確認しました。ハッカーが何千もの論争の出現を公表した後、...",
+      "ko": "독일의 far-right AfD (Alternative für Deutschland) 파티는 보안 침해를 겪고 있다고 확인했습니다. 해커가 논쟁의 수천이 될 것으로 나타났습니다.",
+      "ms": "AfD kanan-jauh Jerman (Alternative für Deutschland) partai telah mengkonfirmasi bahwa telah mengalami pelanggaran keamanan, setelah seorang hacker menerbitkan apa yang tampaknya ratusan ribu kontroversial ...",
+      "vi": "Đảng của Đức đã xác nhận rằng nó đã bị xâm phạm an ninh, sau khi hacker công bố điều có vẻ như hàng trăm ngàn cuộc tranh luận...",
+      "fr": "Le parti allemand d'extrême droite AfD (Alternative für Deutschland) a confirmé qu'il avait subi une violation de sécurité, après qu'un hacker ait publié ce qui semble être des centaines de milliers de...",
+      "es": "El partido de extrema derecha de Alemania AfD (Alternative für Deutschland) ha confirmado que ha sufrido una brecha de seguridad, después de que un hacker publicó lo que parece ser cientos de miles de...",
+      "de": "Deutschlands rechtsextreme AfD (Alternative für Deutschland) hat bestätigt, dass sie eine Sicherheitsverletzung erlitten hat, nachdem ein Hacker Hunderttausende der umstrittenen...",
+      "zh-Hant": "德國極右翼的AFD(英語:Alternative für Deutschland)政黨證實,在一名駭客發表看來是數十萬有爭議. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 151 分 · 104 条评论",
+      "zh-Hant": "Hacker News 151 分 · 104 則留言",
+      "en": "151 points · 104 comments on Hacker News",
+      "ja": "Hacker News 151 ポイント · コメント 104 件",
+      "ko": "Hacker News 151점 · 댓글 104개",
+      "ms": "151 mata · 104 komen di Hacker News",
+      "vi": "151 điểm · 104 bình luận trên Hacker News",
+      "fr": "151 points · 104 commentaires sur Hacker News",
+      "es": "151 puntos · 104 comentarios en Hacker News",
+      "de": "151 Punkte · 104 Kommentare auf Hacker News"
+     },
+     "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+     "src": "bitdefender.com",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50207620",
+     "title": {
+      "zh-Hans": "我们让AI从45克安然电子邮件上写出一个维基,每一个事实都引用",
+      "zh-Hant": "我們讓AI從45克安然電子郵件上寫出一個維基,每一個事實都引用",
+      "en": "We had AI write a wiki from 45k Enron emails, every fact cited",
+      "ja": "私たちは、AIが45kエンロンメールからwikiを書いていました。",
+      "ko": "우리는 AI가 45k Enron 이메일에서 위키를 작성했다, 모든 사실 인용",
+      "ms": "Kami memiliki AI menulis wiki dari 45k Enron email, setiap fakta dikutip",
+      "vi": "Chúng tôi đã cho AI viết một bản thư từ 45k Enron, mọi sự kiện được viện dẫn",
+      "fr": "Nous avons eu AI écrire un wiki à partir de 45k Enron emails, tous les faits cités",
+      "es": "Teníamos AI escribiendo un wiki de correos electrónicos 45k Enron, todos los hechos citados",
+      "de": "Wir hatten AI schreiben ein Wiki von 45k Enron E-Mails, jede Tatsache zitiert"
+     },
+     "summary": {
+      "en": "We gave an AI 45,047 of Enron's emails, and it wrote 214 pages about the companies, regulators and banks Enron dealt with. Every fact cites the email it came from.",
+      "zh-Hans": "我们给了安然公司的45,047封邮件, 它写了214页关于安然公司、监管者和银行的报导。 每个事实都引用了它来自的电子邮件.",
+      "ja": "エンロンのメールのAI 45,047を与え、企業、規制当局、銀行のエンロンに関する214ページを書いています。 すべての事実は、それがから来たメールを引用します.",
+      "ko": "우리는 Enron의 이메일의 AI 45,047을 준했으며 회사, 규제 및 은행 Enron 거래에 대한 214 페이지를 썼습니다. 모든 사실은 전자 메일을 인용합니다.",
+      "ms": "Kami memberikan AI 45,047 email Enron, dan menulis 214 halaman tentang perusahaan, regulator dan bank yang ditangani Enron. Setiap fakta mengutip email itu berasal dari.",
+      "vi": "Chúng tôi đã đưa một AI 45,047 email của Enron, và nó đã viết 234 trang về các công ty, quản lý và ngân hàng Enron. Mọi sự thật đều trích dẫn email của nó.",
+      "fr": "Nous avons donné une AI 45 047 des courriels d'Enron, et il a écrit 214 pages sur les entreprises, les régulateurs et les banques traitées par Enron. Chaque fait cite le courriel d'où il vient.",
+      "es": "Dimos una AI 45,047 de los correos electrónicos de Enron, y escribió 214 páginas sobre las empresas, reguladores y bancos que Enron trató. Cada hecho cita el email de que vino.",
+      "de": "Wir gaben eine AI 45.047 von Enrons E-Mails, und es schrieb 214 Seiten über die Unternehmen, Regulierungsbehörden und Banken, mit denen Enron befasst war. Jede Tatsache zitiert die E-Mail, von der sie stammt.",
+      "zh-Hant": "我們給了安然公司的45,047封郵件, 它寫了214頁關於安然公司、監管者和銀行的報導。 每個事實都引用了它來自的電子郵件."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 55 分 · 53 条评论",
+      "zh-Hant": "Hacker News 55 分 · 53 則留言",
+      "en": "55 points · 53 comments on Hacker News",
+      "ja": "Hacker News 55 ポイント · コメント 53 件",
+      "ko": "Hacker News 55점 · 댓글 53개",
+      "ms": "55 mata · 53 komen di Hacker News",
+      "vi": "55 điểm · 53 bình luận trên Hacker News",
+      "fr": "55 points · 53 commentaires sur Hacker News",
+      "es": "55 puntos · 53 comentarios en Hacker News",
+      "de": "55 Punkte · 53 Kommentare auf Hacker News"
+     },
+     "url": "https://www.thisandthat.chat/enron/",
+     "src": "thisandthat.chat",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50202865",
+     "title": {
+      "zh-Hans": "做一个聪明的电视哑,然后聪明",
+      "zh-Hant": "做一個聰明的電視啞,然後聰明",
+      "en": "Making a smart TV dumb and then smart",
+      "ja": "スマートなTVの親指を作り、そしてスマートな",
+      "ko": "스마트 TV dumb 및 그 다음 스마트 만들기",
+      "ms": "Membuat TV cerdas bodoh dan kemudian pintar",
+      "vi": "Làm một cái TV ngu ngốc và rồi thông minh",
+      "fr": "Faire une télévision intelligente stupide et puis intelligente",
+      "es": "Hacer un televisor inteligente tonto y luego inteligente",
+      "de": "Einen Smart TV dumm machen und dann smart"
+     },
+     "summary": {
+      "en": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs",
+      "zh-Hans": "本地家用屏幕,私人远程浏览器,以及WebOS电视的推倒语音助理",
+      "ja": "ローカルホーム画面、プライベートリモートブラウザ、WebOS TV用のプッシュツートークボイスアシスタント",
+      "ko": "로컬 홈 화면, 개인 원격 브라우저, 및 푸시 - 투 - 토크 음성 조수 webOS TV",
+      "ms": "Layar rumah lokal, peramban remote pribadi, dan asisten suara push-to-talk untuk TV webOS",
+      "vi": "Màn hình chính cục bộ, trình duyệt từ xa tư nhân, và trợ lý giọng nói thúc đẩy cho truyền hình webOS",
+      "fr": "Écran d'accueil local, navigateur privé à distance et assistant voix push-to-talk pour les téléviseurs webOS",
+      "es": "Pantalla local, navegador remoto privado, y asistente de voz push-to-talk para televisores webOS",
+      "de": "Lokaler Startbildschirm, privater Remote-Browser und Push-to-Talk-Sprachassistent für webOS-Fernseher",
+      "zh-Hant": "本地家用螢幕,私人遠端瀏覽器,以及WebOS電視的推倒語音助理"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 86 分 · 66 条评论",
+      "zh-Hant": "Hacker News 86 分 · 66 則留言",
+      "en": "86 points · 66 comments on Hacker News",
+      "ja": "Hacker News 86 ポイント · コメント 66 件",
+      "ko": "Hacker News 86점 · 댓글 66개",
+      "ms": "86 mata · 66 komen di Hacker News",
+      "vi": "86 điểm · 66 bình luận trên Hacker News",
+      "fr": "86 points · 66 commentaires sur Hacker News",
+      "es": "86 puntos · 66 comentarios en Hacker News",
+      "de": "86 Punkte · 66 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+     "src": "github.com",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50208837",
+     "title": {
+      "zh-Hans": "投资者拥有的公用事业的电费比公共供应商高23%",
+      "zh-Hant": "投資者擁有的公用事業的電費比公共供應商高23%",
+      "en": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "ja": "投資家所有のユーティリティは、公共事業者よりも電気の23%以上を請求します",
+      "ko": "투자자 소유 유틸리티는 공공 업체보다 전기에 23% 더 부과됩니다.",
+      "ms": "Utilitas milik Investor 23% lebih banyak untuk listrik daripada penyedia publik",
+      "vi": "Nạp điện 23% cho các nhà cung cấp công cộng",
+      "fr": "Les services publics d'investissement facturent 23 % de plus pour l'électricité que les fournisseurs publics",
+      "es": "Las empresas de propiedad de inversores cobran 23% más por electricidad que los proveedores públicos",
+      "de": "Investor-eigene Versorgungsunternehmen berechnen 23% mehr Strom als öffentliche Anbieter"
+     },
+     "summary": {
+      "en": "Average home electricity price from 2020 to 2025: investor-owned utilities +34%, public utilities +19%, co-ops +19%, against +24% inflation. Investor-owned prices rose faster in 38 of 48 states.",
+      "zh-Hans": "2020至2025年家庭平均电价:投资者自有公用事业+34%,公用公用事业+19%,合营企业+19%,而通货膨胀为+24%. 在48个州中的38个州,投资者拥有的价格上升得更快。",
+      "ja": "2020年から2025年までの平均ホーム電力価格:投資家所有のユーティリティ+ 34%、公共ユーティリティ+19%、クープ+19%、+ 24%のインフレに対して。 投資家所有価格が48州の38でより速く上昇しました。",
+      "ko": "2020에서 2025까지의 평균 가정용 전기 가격 : 투자자 소유의 유틸리티 +34%, 공공 유틸리티 +19%, 공동 비용 +19%, +24% 인플레이션에 대한 +24%. 투자자 소유 가격은 48 주 38에서 더 빠르게 상승합니다.",
+      "ms": "Harga listrik rumah rata-rata dari 2020 sampai 2025: utilitas milik investor +34%, utilitas publik +19%, co-ops +19%, terhadap inflasi +24%. Harga investor naik lebih cepat di 38 dari 48 negara bagian.",
+      "vi": "Giá điện trung bình từ năm 2020 đến 2025: các tiện ích của nhà đầu tư +34%, các tiện ích công cộng +19%, co-ops +19%, chống lại +24% lạm phát. Giá đầu tư tăng nhanh hơn ở 38 bang 48 bang.",
+      "fr": "Prix moyen de l'électricité domestique de 2020 à 2025: services publics appartenant à des investisseurs +34 %, services publics +19 %, coopératives +19 %, contre +24 % d'inflation. Les prix des investisseurs ont augmenté plus rapidement dans 38 des 48 États.",
+      "es": "Precio medio de electricidad casera de 2020 a 2025: utilidades propiedad de inversores +34%, servicios públicos +19%, cooperativas +19%, frente a +24% de inflación. Los precios propiedad de los inversores aumentaron más rápido en 38 de 48 estados.",
+      "de": "Durchschnittlicher Hausstrompreis von 2020 bis 2025: Versorgungsunternehmen in Investorenbesitz +34%, öffentliche Versorgungsunternehmen +19%, Genossenschaften +19% gegenüber +24% Inflation. Die Investorenpreise stiegen in 38 von 48 Staaten schneller.",
+      "zh-Hant": "2020至2025年家庭平均電價:投資者自有公用事業+34%,公用公用事業+19%,合營企業+19%,而通貨膨脹為+24%. 在48個州中的38個州,投資者擁有的價格上升得更快。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 525 分 · 383 条评论",
+      "zh-Hant": "Hacker News 525 分 · 383 則留言",
+      "en": "525 points · 383 comments on Hacker News",
+      "ja": "Hacker News 525 ポイント · コメント 383 件",
+      "ko": "Hacker News 525점 · 댓글 383개",
+      "ms": "525 mata · 383 komen di Hacker News",
+      "vi": "525 điểm · 383 bình luận trên Hacker News",
+      "fr": "525 points · 383 commentaires sur Hacker News",
+      "es": "525 puntos · 383 comentarios en Hacker News",
+      "de": "525 Punkte · 383 Kommentare auf Hacker News"
+     },
+     "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+     "src": "kadoa.com",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50205934",
+     "title": {
+      "zh-Hans": "迪士尼涨价日确认Ads现在将出现在每一层",
+      "zh-Hant": "迪士尼漲價日確認Ads現在將出現在每一層",
+      "en": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "ja": "ディズニーの上昇価格は広告を確認した後の日は今すべての層に現れます",
+      "ko": "Disney Raising Prices Days After Confirming Ads 지금 모든 계층에 표시",
+      "ms": "\\\"Boisford Raising Prices Days Setelah Mengesahkan Iklan Akan Sekarang Tayang di Setiap Tier\\\"",
+      "vi": "Công ty Disney tăng giá nhiều ngày sau khi xác nhận các quảng cáo sẽ hiện diện trên từng bàn chân",
+      "fr": "Disney hausse des prix jours après confirmation annonces va maintenant apparaître sur chaque niveau",
+      "es": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "de": "Disney erhöht Preise Tage nach der Bestätigung von Anzeigen wird jetzt auf jeder Stufe erscheinen"
+     },
+     "summary": {
+      "en": "Disney+ is conspicuously absent from that list, which is worth highlighting given the streamer’s size and the fact that it has aired shows like Percy Jackson and Daredevil: Born Again.",
+      "zh-Hans": "迪士尼+显然不在名单中, 值得一提的是,",
+      "ja": "Disney+ は、そのリストから目立たない存在で、そのリストは、ストリームのサイズと、Percy Jackson や Daredevil: Born Again などのエアショーを持っているという事実を強調する価値があります。",
+      "ko": "Disney+는 그 목록에서 유감스럽게 absent이며, 이 점액의 크기를 강조하고 Percy Jackson과 Daredevil과 같은 공감 된 쇼가 있다는 사실입니다. 다시 태어난.",
+      "ms": "Secara mencolok Disney+ tidak hadir dari daftar tersebut, yang patut disorot mengingat ukuran streamer dan fakta bahwa film tersebut telah ditayangkan menunjukkan seperti Percy Jackson dan Daredevil: Born Again.",
+      "vi": "Disney+ rõ ràng là vắng mặt trong danh sách đó, điều đáng chú ý vì kích thước của dòng suối và sự thật là nó đã được phát sóng như Percy Jackson và Dard wrong: Sinh lại.",
+      "fr": "Disney+ est visiblement absent de cette liste, ce qui mérite d'être souligné compte tenu de la taille du streamer et du fait qu'il a diffusé des spectacles comme Percy Jackson et Daredevil: Born Again.",
+      "es": "Disney+ está visiblemente ausente de esa lista, que vale la pena destacar dado el tamaño del streamer y el hecho de que ha emitido espectáculos como Percy Jackson y Daredevil: Nacido de nuevo.",
+      "de": "Disney+ fehlt auffällig in dieser Liste, was angesichts der Größe des Streamers und der Tatsache, dass er Shows wie Percy Jackson und Daredevil: Born Again ausgestrahlt hat, hervorgehoben werden sollte.",
+      "zh-Hant": "迪士尼+顯然不在名單中, 值得一提的是,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 413 分 · 434 条评论",
+      "zh-Hant": "Hacker News 413 分 · 434 則留言",
+      "en": "413 points · 434 comments on Hacker News",
+      "ja": "Hacker News 413 ポイント · コメント 434 件",
+      "ko": "Hacker News 413점 · 댓글 434개",
+      "ms": "413 mata · 434 komen di Hacker News",
+      "vi": "413 điểm · 434 bình luận trên Hacker News",
+      "fr": "413 points · 434 commentaires sur Hacker News",
+      "es": "413 puntos · 434 comentarios en Hacker News",
+      "de": "413 Punkte · 434 Kommentare auf Hacker News"
+     },
+     "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+     "src": "tvfandomlounge.com",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50211474",
+     "title": {
+      "zh-Hans": "今天,我们黑进了我们打算黑进的iPhone",
+      "zh-Hant": "今天,我們黑進了我們打算黑進的iPhone",
+      "en": "Today, we hacked what we'd set out to hack: the iPhone",
+      "ja": "今日、私たちはハッキングするように設定したものをハッキングしました: iPhone",
+      "ko": "오늘, 우리는 우리가 해킹을 설정하는 것을 해킹 : 아이폰",
+      "ms": "Hari ini, kita meretas apa yang akan kita lakukan untuk meretas: iPhone",
+      "vi": "Ngày nay, chúng tôi hack những gì chúng tôi sẽ thiết lập để hack: iPhone",
+      "fr": "Aujourd'hui, nous avons piraté ce que nous avions prévu de pirater: l'iPhone",
+      "es": "Hoy hemos hackeado lo que habíamos establecido para hackear: el iPhone",
+      "de": "Heute haben wir gehackt, was wir gehackt haben: das iPhone"
+     },
+     "summary": {
+      "en": "Today, we hacked what we'd set out to hack: the iPhone.",
+      "zh-Hans": "今天,我们入侵了我们打算入侵的iPhone。",
+      "ja": "今日、私たちはハッキングするように設定したものをハッキングしました: iPhone。",
+      "ko": "오늘, 우리는 우리가 해킹하는 것을 해킹: 아이폰.",
+      "ms": "Hari ini, kami meretas apa yang kami lakukan untuk meretas iPhone.",
+      "vi": "Hôm nay, chúng tôi hack những gì chúng tôi đã thiết lập để hack: iPhone.",
+      "fr": "Aujourd'hui, nous avons piraté ce que nous avions prévu de pirater : l'iPhone.",
+      "es": "Hoy hemos hackeado lo que habíamos preparado para hackear: el iPhone.",
+      "de": "Heute haben wir gehackt, was wir gehackt haben: das iPhone.",
+      "zh-Hant": "今天,我們入侵了我們打算入侵的iPhone。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 739 分 · 493 条评论",
+      "zh-Hant": "Hacker News 739 分 · 493 則留言",
+      "en": "739 points · 493 comments on Hacker News",
+      "ja": "Hacker News 739 ポイント · コメント 493 件",
+      "ko": "Hacker News 739점 · 댓글 493개",
+      "ms": "739 mata · 493 komen di Hacker News",
+      "vi": "739 điểm · 493 bình luận trên Hacker News",
+      "fr": "739 points · 493 commentaires sur Hacker News",
+      "es": "739 puntos · 493 comentarios en Hacker News",
+      "de": "739 Punkte · 493 Kommentare auf Hacker News"
+     },
+     "url": "https://blog.calif.io/p/iphone",
+     "src": "blog.calif.io",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50202285",
+     "title": {
+      "zh-Hans": "当地维基百科:维基百科,但只为东西走出你半个小时",
+      "zh-Hant": "當地維基百科:維基百科,但只為東西走出你半個小時",
+      "en": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "ja": "ローカルウィキペディア: ウィキペディア, あなたから半分の時間歩いて物事のためにだけ",
+      "ko": "Local Wikipedia: 위키 백과 사전, 하지만 단지 절반 시간에서 걸어",
+      "ms": "Wikipedia bahasa lokal: Wikipedia, tetapi hanya untuk hal-hal setengah jam berjalan kaki dari Anda",
+      "vi": "Wikipedia địa phương: Wikipedia, nhưng chỉ cho những điều một nửa giờ đi bộ từ bạn",
+      "fr": "Wikipedia local: Wikipedia, mais seulement pour des choses à une demi-heure de marche de vous",
+      "es": "Wikipedia local: Wikipedia, pero sólo para las cosas a media hora a pie de usted",
+      "de": "Lokale Wikipedia: Wikipedia, aber nur für Dinge eine halbe Stunde zu Fuß von Ihnen"
+     },
+     "summary": {
+      "en": "Wikipedia, but only for things a half hour walk from you.",
+      "zh-Hans": "维基百科,但只为 东西半小时步行离开你。",
+      "ja": "ウィキペディアは、あなたから徒歩で約30分のところだけ。",
+      "ko": "Wikipedia,하지만 단지 절반 시간에서 걸어.",
+      "ms": "Wikipedia, tetapi hanya untuk hal-hal setengah jam berjalan dari Anda.",
+      "vi": "Wikipedia, nhưng chỉ để cho những điều một nửa giờ đi bộ từ bạn.",
+      "fr": "Wikipedia, mais seulement pour des choses à une demi-heure à pied de vous.",
+      "es": "Wikipedia, pero sólo para cosas a media hora a pie de usted.",
+      "de": "Wikipedia, aber nur für dinge eine halbe stunde zu fuß von ihnen.",
+      "zh-Hant": "維基百科,但只為 東西半小時步行離開你。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 1230 分 · 225 条评论",
+      "zh-Hant": "Hacker News 1230 分 · 225 則留言",
+      "en": "1230 points · 225 comments on Hacker News",
+      "ja": "Hacker News 1230 ポイント · コメント 225 件",
+      "ko": "Hacker News 1230점 · 댓글 225개",
+      "ms": "1230 mata · 225 komen di Hacker News",
+      "vi": "1230 điểm · 225 bình luận trên Hacker News",
+      "fr": "1230 points · 225 commentaires sur Hacker News",
+      "es": "1230 puntos · 225 comentarios en Hacker News",
+      "de": "1230 Punkte · 225 Kommentare auf Hacker News"
+     },
+     "url": "https://edjefferson.com/localwiki/",
+     "src": "edjefferson.com",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50207910",
+     "title": {
+      "zh-Hans": "苹果音乐 404 未找到",
+      "zh-Hant": "蘋果音樂 404 未找到",
+      "en": "Apple Music 404 Not Found",
+      "ja": "Apple Music 404が見つかりません",
+      "ko": "애플 음악 404 찾을 수 없음",
+      "ms": "Musik Apel 404 Tak Ditemukan",
+      "vi": "Không tìm thấy nhạc Apple 404",
+      "fr": "Musique Apple 404 introuvable",
+      "es": "Apple Music 404 No encontrado",
+      "de": "Apple Music 404 nicht gefunden"
+     },
+     "summary": {
+      "en": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "zh-Hans": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde. [2026-10-23] (英语).",
+      "ja": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "ko": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "ms": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "vi": "https chặt chẽ.macrumors.com/2026/10/23/apple-has-a-hide...",
+      "fr": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "es": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "de": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
+      "zh-Hant": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde. [2026-10-23] (英語)."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 567 分 · 188 条评论",
+      "zh-Hant": "Hacker News 567 分 · 188 則留言",
+      "en": "567 points · 188 comments on Hacker News",
+      "ja": "Hacker News 567 ポイント · コメント 188 件",
+      "ko": "Hacker News 567점 · 댓글 188개",
+      "ms": "567 mata · 188 komen di Hacker News",
+      "vi": "567 điểm · 188 bình luận trên Hacker News",
+      "fr": "567 points · 188 commentaires sur Hacker News",
+      "es": "567 puntos · 188 comentarios en Hacker News",
+      "de": "567 Punkte · 188 Kommentare auf Hacker News"
+     },
+     "url": "https://music.apple.com/this-url-doesnt-exist",
+     "src": "music.apple.com",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50195873",
+     "title": {
+      "zh-Hans": "加拿大限制赌博广告的议员",
+      "zh-Hant": "加拿大限制賭博廣告的議員",
+      "en": "MPs moving to restrict gambling ads in Canada",
+      "ja": "カナダでのギャンブル広告を制限するMP",
+      "ko": "캐나다에서 도박 광고를 제한하는 MPs",
+      "ms": "Para anggota parlemen pindah untuk membatasi iklan judi di Kanada",
+      "vi": "Quân cảnh chuyển đến hạn chế các quảng cáo cờ bạc ở Canada",
+      "fr": "Les députés qui se déplacent pour limiter les annonces de jeux d'argent au Canada",
+      "es": "MPs que se mueven para restringir anuncios de apuestas en Canadá",
+      "de": "Abgeordnete bewegen, um Glücksspiel-Anzeigen in Kanada zu beschränken"
+     },
+     "summary": {
+      "en": "A new analysis for CBC News shows Canadians continue to be bombarded with betting promotions during sports broadcasts.",
+      "zh-Hans": "对CBC新闻的新分析显示,加拿大人在体育广播中继续受到打赌宣传的轰炸。",
+      "ja": "CBCニュースの新しい分析では、カナダはスポーツ放送中にベッティングプロモーションで爆撃し続けています。",
+      "ko": "CBC 뉴스에 대한 새로운 분석은 캐나다인이 스포츠 방송 중에 베팅 프로모션으로 폭격됩니다.",
+      "ms": "Analisis baru untuk CBC News menunjukkan orang Kanada terus dibombardir dengan promosi taruhan selama siaran olahraga.",
+      "vi": "Một phân tích mới cho tờ CBC News cho thấy người Canada tiếp tục bị tấn công bởi sự thăng tiến trong các buổi phát thanh thể thao.",
+      "fr": "Une nouvelle analyse pour CBC News montre que les Canadiens continuent d'être bombardés par des promotions de paris durant les émissions sportives.",
+      "es": "Un nuevo análisis para CBC News muestra que los canadienses siguen siendo bombardeados con promociones de apuestas durante las transmisiones deportivas.",
+      "de": "Eine neue Analyse für CBC News zeigt, dass Kanadier weiterhin mit Wettaktionen während Sportsendungen bombardiert werden.",
+      "zh-Hant": "對CBC新聞的新分析顯示,加拿大人在體育廣播中繼續受到打賭宣傳的轟炸。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 260 分 · 136 条评论",
+      "zh-Hant": "Hacker News 260 分 · 136 則留言",
+      "en": "260 points · 136 comments on Hacker News",
+      "ja": "Hacker News 260 ポイント · コメント 136 件",
+      "ko": "Hacker News 260점 · 댓글 136개",
+      "ms": "260 mata · 136 komen di Hacker News",
+      "vi": "260 điểm · 136 bình luận trên Hacker News",
+      "fr": "260 points · 136 commentaires sur Hacker News",
+      "es": "260 puntos · 136 comentarios en Hacker News",
+      "de": "260 Punkte · 136 Kommentare auf Hacker News"
+     },
+     "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+     "src": "cbc.ca",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50202114",
+     "title": {
+      "zh-Hans": "加拿大人没有时间反对C -22法案",
+      "zh-Hant": "加拿大人沒有時間反對C -22法案",
+      "en": "Canadians are running out of time to oppose Bill C-22",
+      "ja": "カナダはビルC-22に反対する時間から実行されます",
+      "ko": "캐나다는 빌 C-22에 반대하는 시간에 실행됩니다.",
+      "ms": "Kanada kehabisan waktu untuk menentang Bill C-22",
+      "vi": "Người Canada sắp hết thời gian để chống lại Bill C-22",
+      "fr": "Les Canadiens manquent de temps pour s'opposer au projet de loi C-22",
+      "es": "Los canadienses se están quedando sin tiempo para oponerse a Bill C-22",
+      "de": "Kanadier haben keine Zeit mehr gegen Bill C-22"
+     },
+     "summary": {
+      "en": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people.",
+      "zh-Hans": "加拿大议会正在辩论大规模扩大监视权力,这将威胁到数百万人的隐私和安全。",
+      "ja": "カナダの議会は、何百万人もの人々のプライバシーとセキュリティを脅かす監視力の大規模な拡大を議論しています。",
+      "ko": "캐나다의 의회는 수백만 명의 개인 정보 보호 및 보안을 위협 할 수있는 감시 전력의 엄청난 확장을 파괴하고 있습니다.",
+      "ms": "Parlemen Kanada sedang memperdebatkan perluasan besar-besaran kekuatan pengawasan yang akan mengancam privasi dan keamanan jutaan orang.",
+      "vi": "Quốc hội Canada đang tranh luận về sự bành trướng rộng lớn của các cường quốc giám sát đe dọa sự riêng tư và an ninh của hàng triệu người.",
+      "fr": "Canada Le Parlement débat d'une expansion massive des pouvoirs de surveillance qui menacera la vie privée et la sécurité de millions de personnes.",
+      "es": "El Parlamento de Canadá está debatiendo una expansión masiva de poderes de vigilancia que amenazarán la privacidad y la seguridad de millones de personas.",
+      "de": "Kanadas Parlament diskutiert eine massive Ausweitung der Überwachungsbefugnisse, die die Privatsphäre und Sicherheit von Millionen von Menschen bedrohen wird.",
+      "zh-Hant": "加拿大議會正在辯論大規模擴大監視權力,這將威脅到數百萬人的隱私和安全。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 319 分 · 161 条评论",
+      "zh-Hant": "Hacker News 319 分 · 161 則留言",
+      "en": "319 points · 161 comments on Hacker News",
+      "ja": "Hacker News 319 ポイント · コメント 161 件",
+      "ko": "Hacker News 319점 · 댓글 161개",
+      "ms": "319 mata · 161 komen di Hacker News",
+      "vi": "319 điểm · 161 bình luận trên Hacker News",
+      "fr": "319 points · 161 commentaires sur Hacker News",
+      "es": "319 puntos · 161 comentarios en Hacker News",
+      "de": "319 Punkte · 161 Kommentare auf Hacker News"
+     },
+     "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+     "src": "eff.org",
+     "date": "2026-10-22",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": []
+  },
   {
    "date": "2026-10-23",
    "path": "digest/2026-10-23/",
