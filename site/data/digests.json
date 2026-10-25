@@ -1,6 +1,1107 @@
 {
- "latest": "2026-10-24",
+ "latest": "2026-10-25",
  "digests": [
+  {
+   "date": "2026-10-25",
+   "path": "digest/2026-10-25/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-24T23:30:00Z",
+   "generated": "2026-10-25T01:24:19Z",
+   "new_count": 37,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-25",
+    "zh-Hant": "早間技術熱點 · 2026-10-25",
+    "en": "Morning tech digest · 2026-10-25",
+    "ja": "朝のテックダイジェスト · 2026-10-25",
+    "ko": "아침 테크 다이제스트 · 2026-10-25",
+    "ms": "Ringkasan teknologi pagi · 2026-10-25",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-25",
+    "fr": "Digest tech du matin · 2026-10-25",
+    "es": "Resumen tecnológico matinal · 2026-10-25",
+    "de": "Morgendlicher Tech-Digest · 2026-10-25"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-25 07:30 自动生成：从上一期以来 OPC Radar 新收录的 37 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-25 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 37 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-25: the hottest of the 37 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-25 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 37 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-25 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 37개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-25: isyarat paling hangat daripada 37 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-25: những tín hiệu nổi bật nhất trong 37 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-25 : les plus marquants des 37 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-25: lo más destacado de las 37 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-25: das Wichtigste aus 37 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50224463",
+     "title": {
+      "zh-Hans": "技术部门之外没有AI报偿的迹象",
+      "zh-Hant": "技術部門之外沒有AI報償的跡象",
+      "en": "No signs of AI payoff outside the tech sector",
+      "ja": "技術のセクターの外でAIのペイオフの徴候無し",
+      "ko": "기술 분야 밖에 AI payoff의 징후 없음",
+      "ms": "Tidak ada tanda-tanda pembayaran AI di luar sektor teknologi",
+      "vi": "Không có dấu hiệu của AI ở bên ngoài khu công nghệ.",
+      "fr": "Aucun signe de bénéfice de l'IA en dehors du secteur technique",
+      "es": "No hay señales de pago de AI fuera del sector tecnológico",
+      "de": "Keine Anzeichen einer KI-Auszahlung außerhalb des Technologiesektors"
+     },
+     "summary": {
+      "en": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.",
+      "zh-Hans": "尽管在人工智能周围进行了大量投资并广为流传,但该技术已经为技术以外的美国公司带来了零财政回报. 订阅每日更新.",
+      "ja": "大規模な投資と広範囲にわたる人工知能の周りの誇大宣伝にもかかわらず、技術は、テックの外に企業アメリカにゼロ金融ペイオフを配信しました。 毎日の更新を購読します。",
+      "ko": "인공 지능의 주위에 대규모 투자 및 광범위한 hype에도 불구하고 기술은 기술 외부 기업에 제로 금융 지급을 전달했습니다. 매일 업데이트 구독.",
+      "ms": "Meskipun investasi besar-besaran dan tersebar luas di sekitar kecerdasan buatan, teknologi telah memberikan nol pembayaran keuangan kepada perusahaan Amerika di luar teknologi. Langganan untuk pembaruan harian.",
+      "vi": "Mặc dù đầu tư khổng lồ và sự thôi thúc phổ biến xung quanh trí tuệ nhân tạo, công nghệ đã không mang lại kết quả tài chính cho tập đoàn nước Mỹ bên ngoài công nghệ. Đăng ký cập nhật hàng ngày.",
+      "fr": "Malgré des investissements massifs et un hype généralisé autour de l'intelligence artificielle, la technologie n'a apporté aucun bénéfice financier aux entreprises américaines en dehors de la technologie. Abonnez-vous aux mises à jour quotidiennes.",
+      "es": "A pesar de las inversiones masivas y la información generalizada alrededor de la inteligencia artificial, la tecnología ha entregado cero pagos financieros a América corporativa fuera de la tecnología. Suscríbete para actualizaciones diarias.",
+      "de": "Trotz massiver Investitionen und des weit verbreiteten Hypes um künstliche Intelligenz hat die Technologie den amerikanischen Unternehmen außerhalb der Technologie keine finanziellen Vorteile gebracht. Abonnieren Sie für tägliche Updates.",
+      "zh-Hant": "儘管在人工智慧周圍進行了大量投資並廣為流傳,但該技術已經為技術以外的美國公司帶來了零財政回報. 訂閱每日更新."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 431 分 · 425 条评论",
+      "zh-Hant": "Hacker News 431 分 · 425 則留言",
+      "en": "431 points · 425 comments on Hacker News",
+      "ja": "Hacker News 431 ポイント · コメント 425 件",
+      "ko": "Hacker News 431점 · 댓글 425개",
+      "ms": "431 mata · 425 komen di Hacker News",
+      "vi": "431 điểm · 425 bình luận trên Hacker News",
+      "fr": "431 points · 425 commentaires sur Hacker News",
+      "es": "431 puntos · 425 comentarios en Hacker News",
+      "de": "431 Punkte · 425 Kommentare auf Hacker News"
+     },
+     "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+     "src": "apollo.com",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50224463"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50217495",
+     "title": {
+      "zh-Hans": "大约十几个银行应用软件 开始特别允许GrapheneOS",
+      "zh-Hant": "大約十幾個銀行應用軟體 開始特別允許GrapheneOS",
+      "en": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "ja": "数十人の銀行アプリの周りには、特にグラフェンOSを許可し始めました",
+      "ko": "수십 개의 뱅킹 앱 주위에 특히 GrapheneOS 허용",
+      "ms": "Sekitar selusin aplikasi perbankan mulai secara khusus mengizinkan GrapheneOS",
+      "vi": "Khoảng một tá ứng dụng ngân hàng bắt đầu đặc biệt cho phép grapheneOS",
+      "fr": "Une douzaine d'applications bancaires ont commencé à permettre spécifiquement GrapheneOS",
+      "es": "Alrededor de una docena de aplicaciones bancarias comenzaron específicamente a permitir GrapheneOS",
+      "de": "Rund ein Dutzend Banking-Apps begannen, GrapheneOS speziell zuzulassen"
+     },
+     "summary": {
+      "en": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "zh-Hans": "校对:Soup 大多数银行应用在GrapheneOS上工作,但许多人有内存腐败bug和不正确的反打压代码要求我们每个应用......",
+      "ja": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "ko": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "ms": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "vi": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "fr": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "es": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "de": "@maya@gs.lexinova.eu @OmegaPolice@hachyderm.io @britter@chaos.social Most banking apps work on GrapheneOS but many have memory corruption bugs and incorrect anti-tampering code requiring our per-app…",
+      "zh-Hant": "校對:Soup 大多數銀行應用在GrapheneOS上工作,但許多人有記憶體腐敗bug和不正確的反打壓程式碼要求我們每個應用......"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 612 分 · 281 条评论",
+      "zh-Hant": "Hacker News 612 分 · 281 則留言",
+      "en": "612 points · 281 comments on Hacker News",
+      "ja": "Hacker News 612 ポイント · コメント 281 件",
+      "ko": "Hacker News 612점 · 댓글 281개",
+      "ms": "612 mata · 281 komen di Hacker News",
+      "vi": "612 điểm · 281 bình luận trên Hacker News",
+      "fr": "612 points · 281 commentaires sur Hacker News",
+      "es": "612 puntos · 281 comentarios en Hacker News",
+      "de": "612 Punkte · 281 Kommentare auf Hacker News"
+     },
+     "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+     "src": "grapheneos.social",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50217495"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50224100",
+     "title": {
+      "zh-Hans": "鹅编程语言",
+      "zh-Hant": "鵝程式語言",
+      "en": "The Goose Programming Language",
+      "ja": "Gooseプログラミング言語",
+      "ko": "Goose 프로그램 언어",
+      "ms": "Bahasa Pemrograman Angsa",
+      "vi": "Ngôn ngữ của Goose",
+      "fr": "Le langage de programmation Goose",
+      "es": "The Goose Programming Language",
+      "de": "Die Goose Programmiersprache"
+     },
+     "summary": {
+      "en": "A memory-safe systems language with no heap allocator, garbage collector, or lifetime annotations. In this repository's benchmarks, Goose runs faster than C++ and Rust while using less memory.",
+      "zh-Hans": "一种没有堆积分泌器,垃圾收集器,或终生说明的记忆安全系统语言. 在这个寄存器的基准中,\"鹅\"运行速度快于C++和Rust同时使用较少的内存.",
+      "ja": "ヒープアロケータ、ゴミ収集装置、または生涯アノテーションのないメモリセーフなシステム言語。 このリポジトリのベンチマークでは、Goose は C++ と Rust よりも高速で動作します。",
+      "ko": "힙 allocator, 쓰레기 수집기, 또는 평생 주석이없는 메모리 안전 시스템 언어. 이 저장소의 벤치 마크에서 Goose는 C++보다 빠르게 실행되며, 더 적은 메모리를 사용하는 동안 Rust를 실행합니다.",
+      "ms": "Bahasa sistem penyimpanan memori tanpa allocator tumpukan, pengumpul sampah, atau anotasi seumur hidup. Dalam benchmark repositori ini, Goose berjalan lebih cepat dari C++ dan Rust saat menggunakan kurang memori.",
+      "vi": "Một ngôn ngữ hệ thống an toàn không có chất gây nghiện, bộ sưu tập rác, hay những chú thích cả đời. Trong bảng điểm của kho này, Goose chạy nhanh hơn C++ và Rust trong khi sử dụng ít bộ nhớ hơn.",
+      "fr": "Un langage de systèmes à sécurité mémoire sans allocator, collecteur d'ordures ou annotations à vie. Dans les benchmarks de ce dépôt, Goose fonctionne plus vite que C++ et Rust tout en utilisant moins de mémoire.",
+      "es": "Un lenguaje de sistemas seguros de memoria sin aleator de montón, coleccionista de basura, o anotaciones de por vida. En los parámetros de referencia de este repositorio, Goose corre más rápido que C++ y Rust mientras usa menos memoria.",
+      "de": "Eine speichersichere Systemsprache ohne Heap Allokator, Garbage Collector oder Lifetime Annotations. In den Benchmarks dieses Repositorys läuft Goose schneller als C++ und Rust, während weniger Speicher verwendet wird.",
+      "zh-Hant": "一種沒有堆積分泌器,垃圾收集器,或終生說明的記憶安全系統語言. 在這個暫存器的基準中,\"鵝\"執行速度快於C++和Rust同時使用較少的記憶體."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 181 分 · 137 条评论",
+      "zh-Hant": "Hacker News 181 分 · 137 則留言",
+      "en": "181 points · 137 comments on Hacker News",
+      "ja": "Hacker News 181 ポイント · コメント 137 件",
+      "ko": "Hacker News 181점 · 댓글 137개",
+      "ms": "181 mata · 137 komen di Hacker News",
+      "vi": "181 điểm · 137 bình luận trên Hacker News",
+      "fr": "181 points · 137 commentaires sur Hacker News",
+      "es": "181 puntos · 137 comentarios en Hacker News",
+      "de": "181 Punkte · 137 Kommentare auf Hacker News"
+     },
+     "url": "https://aardappel.github.io/goose/",
+     "src": "aardappel.github.io",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50224100"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50222622",
+     "title": {
+      "zh-Hans": "Roku 开发者仓库从 GitHub 移到 GitLab",
+      "zh-Hant": "Roku 開發者倉庫從 GitHub 移到 GitLab",
+      "en": "Roku developer repositories moved from GitHub to GitLab",
+      "ja": "GitHub から GitLab に Roku 開発者リポジトリが移動",
+      "ko": "Roku 개발자 저장소는 GitHub에서 GitLab로 이동",
+      "ms": "Repositori pengembang Roku pindah dari GitHub ke GitLab",
+      "vi": "Bộ phát triển Roku di chuyển từ GitHub đến GitLab",
+      "fr": "Dépôts de développeurs Roku déplacés de GitHub à GitLab",
+      "es": "Los repositorios de desarrolladores Roku se trasladaron de GitHub a GitLab",
+      "de": "Roku-Entwickler-Repositorys von GitHub zu GitLab verschoben"
+     },
+     "summary": {
+      "en": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.",
+      "zh-Hans": "Roku为你的电视提供最简单的娱乐方式。 根据你的条件 有成千上万的频道可供选择。",
+      "ja": "ロクは、テレビにエンターテインメントをストリーミングするための最も簡単な方法を提供します。 あなたの条件で。 数千の利用可能なチャンネルから選択できます。",
+      "ko": "Roku는 TV에 엔터테인먼트를 스트리밍하는 가장 간단한 방법을 제공합니다. 당신의 기간. 선택할 수 있는 수로의 수천으로.",
+      "ms": "Roku menyediakan cara paling sederhana untuk menyiarkan hiburan ke TV-mu. Dengan syaratmu. Dengan ribuan saluran yang tersedia untuk dipilih.",
+      "vi": "Roku cung cấp cách đơn giản nhất để giải trí trên truyền hình. Tùy anh thôi. Với hàng ngàn kênh để chọn.",
+      "fr": "Roku fournit la manière la plus simple de diffuser le divertissement à votre télévision. À vos conditions. Avec des milliers de canaux disponibles à choisir.",
+      "es": "Roku proporciona la forma más simple de transmitir entretenimiento a su TV. En tus términos. Con miles de canales disponibles para elegir.",
+      "de": "Roku bietet die einfachste Möglichkeit, Unterhaltung auf Ihren Fernseher zu streamen. Zu Ihren Bedingungen. Mit Tausenden von verfügbaren Kanälen zur Auswahl.",
+      "zh-Hant": "Roku為你的電視提供最簡單的娛樂方式。 根據你的條件 有成千上萬的頻道可供選擇。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 241 分 · 159 条评论",
+      "zh-Hant": "Hacker News 241 分 · 159 則留言",
+      "en": "241 points · 159 comments on Hacker News",
+      "ja": "Hacker News 241 ポイント · コメント 159 件",
+      "ko": "Hacker News 241점 · 댓글 159개",
+      "ms": "241 mata · 159 komen di Hacker News",
+      "vi": "241 điểm · 159 bình luận trên Hacker News",
+      "fr": "241 points · 159 commentaires sur Hacker News",
+      "es": "241 puntos · 159 comentarios en Hacker News",
+      "de": "241 Punkte · 159 Kommentare auf Hacker News"
+     },
+     "url": "https://blog.roku.com/developer/gitlab-move",
+     "src": "blog.roku.com",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50222622"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50223844",
+     "title": {
+      "zh-Hans": "丹麦政府默不作声地放弃了放弃MS办公室的计划.",
+      "zh-Hant": "丹麥政府默不作聲地放棄了放棄MS辦公室的計劃.",
+      "en": "Danish Government silently drops plan to dump MS Office",
+      "ja": "デンマーク政府は静かにMS Officeをダンプする計画をドロップします",
+      "ko": "덴마크 정부는 조용히 MS 오피스를 덤프 계획",
+      "ms": "Pemerintah Denmark secara diam-diam menjatuhkan rencana untuk membuang MS Office",
+      "vi": "Name",
+      "fr": "Le gouvernement danois renonce silencieusement au plan de largage MS Office",
+      "es": "Danish Government silently drops plan to dump MS Office",
+      "de": "Dänische Regierung lässt stillschweigend Plan zum Dump MS Office fallen"
+     },
+     "summary": {
+      "en": "Digitaliseringsministeriet har i al stilhed lagt sit pilotprojekt med et alternativ til Microsoft Office i graven.",
+      "zh-Hans": "Digitaliserisministritiet har i al stilhed lajt 坐飞行员proprojekt med and chenativ till Microsoft Office I starn. 互联网档案馆的存檔,存档日期2013-12-02.",
+      "ja": "Digitaliseringsministeriet har i al stilhed lagt 座る Pilotprojekt med et changenativ til Microsoft Office i 砂利.",
+      "ko": "Digitaliseringsministeriet har i al stilhed lagt sit Pilotprojekt med et alternativ til Microsoft Office i 자갈.",
+      "ms": "Keislier Digitaliseringsministeriet har i al stilhed lagt sit pilotprojekt med et alternativ til Microsoft Office i graven.",
+      "vi": "Bộ phận kỹ thuật số hóa học har tôi đã làm việc chậm lại ở vị trí phi công và thay đổi văn phòng Microsoft.",
+      "fr": "Digitaliseringsministeriet har i al stilhed lagat sit pilotprojekt med et alternativ til Microsoft Office i graven.",
+      "es": "Digitaliseringsministeriet har i al stilhed lagt sit pilotprojekt med et alternativ til Microsoft Office i graven.",
+      "de": "Digitaliseringsministeriet har i al stilhed lagt sit pilotprojekt med et alternative til Microsoft Office i graven.",
+      "zh-Hant": "Digitaliserisministritiet har i al stilhed lajt 坐飛行員proprojekt med and chenativ till Microsoft Office I starn. 網際網路檔案館的存檔,存檔日期2013-12-02."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 185 分 · 133 条评论",
+      "zh-Hant": "Hacker News 185 分 · 133 則留言",
+      "en": "185 points · 133 comments on Hacker News",
+      "ja": "Hacker News 185 ポイント · コメント 133 件",
+      "ko": "Hacker News 185점 · 댓글 133개",
+      "ms": "185 mata · 133 komen di Hacker News",
+      "vi": "185 điểm · 133 bình luận trên Hacker News",
+      "fr": "185 points · 133 commentaires sur Hacker News",
+      "es": "185 puntos · 133 comentarios en Hacker News",
+      "de": "185 Punkte · 133 Kommentare auf Hacker News"
+     },
+     "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+     "src": "computerworld.dk",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50223844"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50224916",
+     "title": {
+      "zh-Hans": "偷走我的比特币",
+      "zh-Hant": "偷走我的比特幣",
+      "en": "Steal My Bitcoin",
+      "ja": "私のビットコインを盗む",
+      "ko": "내 비트코인",
+      "ms": "Steal My Bitcoin",
+      "vi": "Ăn cắp Bitcoin của tôi",
+      "fr": "Voler mon Bitcoin",
+      "es": "Robar mi Bitcoin",
+      "de": "Stehlen Sie meine Bitcoin"
+     },
+     "summary": {
+      "en": "A PHP security challenge. Find the hidden bitcoin key. First person to get the wallet wins.",
+      "zh-Hans": "PHP安全挑战. 找到隐藏的比特币密钥. 第一个拿到钱包的人赢了",
+      "ja": "PHP セキュリティチャレンジ 隠されたビットコインのキーを見つけます。 財布を獲得する最初の人は勝ちます。",
+      "ko": "PHP 보안 도전. 숨겨진 비트 코인 키를 찾습니다. 첫 번째 사람이 지갑 승리를 얻을.",
+      "ms": "Tantangan keamanan PHP. Cari kunci bitcoin tersembunyi. Orang pertama yang mendapatkan dompet menang.",
+      "vi": "Thử thách an ninh PHP. Tìm chìa khóa bitcoin ẩn. Người đầu tiên thắng ví.",
+      "fr": "Un défi de sécurité PHP. Trouvez la clé de Bitcoin cachée. La première personne à avoir le portefeuille gagne.",
+      "es": "Un reto de seguridad PHP. Encuentra la llave de bitcoin oculta. La primera persona que gana la cartera.",
+      "de": "Eine PHP Security Challenge. Finden Sie den versteckten Bitcoin-Schlüssel. Die erste Person, die die Brieftasche erhält, gewinnt.",
+      "zh-Hant": "PHP安全挑戰. 找到隱藏的比特幣金鑰. 第一個拿到錢包的人贏了"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 351 分 · 198 条评论",
+      "zh-Hant": "Hacker News 351 分 · 198 則留言",
+      "en": "351 points · 198 comments on Hacker News",
+      "ja": "Hacker News 351 ポイント · コメント 198 件",
+      "ko": "Hacker News 351점 · 댓글 198개",
+      "ms": "351 mata · 198 komen di Hacker News",
+      "vi": "351 điểm · 198 bình luận trên Hacker News",
+      "fr": "351 points · 198 commentaires sur Hacker News",
+      "es": "351 puntos · 198 comentarios en Hacker News",
+      "de": "351 Punkte · 198 Kommentare auf Hacker News"
+     },
+     "url": "https://stealmybitcoin.com/",
+     "src": "stealmybitcoin.com",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50224916"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50214373",
+     "title": {
+      "zh-Hans": "Corgi, 帮助 {代理, 终端} 多路驱动器",
+      "zh-Hant": "Corgi, 幫助 {代理, 終端} 多路驅動器",
+      "en": "Corgi, a helpful {agent, terminal} multiplexer",
+      "ja": "Corgi、便利な {agent、端末} マルチプレクサ",
+      "ko": "코기, 도움이되는 {시약, 터미널} 다중화기",
+      "ms": "Corgi, yang berguna {agent, terminal} multiplexer",
+      "vi": "Corgi, một máy trợ giúp đa phương tiện",
+      "fr": "Corgi, un multiplexeur utile {agent, terminal}",
+      "es": "Corgi, un útil {agent, terminal} multiplexer",
+      "de": "Corgi, ein hilfreicher {Agent, Terminal} Multiplexer"
+     },
+     "summary": {
+      "en": "~ / d e v $ ~ / d e v $ keeps watch Every agent, what it's doing, and who needs you. ▶ working ● needs you ● finished ○ idle agent aware ▶ working ● needs you ● unread ○ clear F1 to catch up.",
+      "zh-Hans": "~ d e v $ ~ d e v $ $ 继续监视每一个代理,它在做什么,谁需要你. 工作 需要你 完成 闲置代理 了解 工作 需要你 尚未读取 清除 F1 以赶上 。",
+      "ja": "〜 / d e v $ 〜 / d e v $ は、すべてのエージェント、それが何をしているか、そして誰が必要とするかを監視します。 ▶ 作業 ● ニーズ ● 終了 ○ アイドルエージェント 認識 ▶ 作業 ● 未読 ● クリア F1 キャッチアップ",
+      "ko": "~ / d e v $ ~ / d e v $는 모든 에이전트, 무엇을하고, 누가 당신을 필요로. ▶ 작업 ●는 ● 완성 ○ 요일 에이전트 aware ▶ 작업 ● 필요 ● 읽지 않은 ○ 클리어 F1 잡기.",
+      "ms": "Dan siapa yang membutuhkanmu. ▶ Bekerja ● membutuhkan ● selesai ○ agen pengangguran sadar ▶ bekerja ● membutuhkan Anda ● tidak terbaca ○ jelas F1 untuk mengejar ketinggalan.",
+      "vi": "~ / d v $ ~ / d v $ giữ theo dõi mỗi đại lý, những gì nó đang làm, và cần bạn. ● Việc làm cần bạn hoàn tất ● Người đại diện nhàn rỗi nhận thức được là bạn cần ● chưa đọc được F1 để bắt kịp.",
+      "fr": "~ / d e v $ ~ / d e v $ surveille chaque agent, ce qu'il fait et qui a besoin de vous. Le travail ● a besoin de vous ● fini l'agent inactif conscient le travail ● a besoin de vous ● non lu le F1 clair pour rattraper.",
+      "es": "~ / d e v $ ~ / d e v $ vigila a cada agente, lo que está haciendo, y quién te necesita. ; Trabajar ● necesita usted ● terminado , agente de ocio consciente ; trabajar ● necesita usted ● sin leer ▪ claro F1 para ponerse al día.",
+      "de": "~ / d e v $ ~ / d e v $ beobachtet jeden Agenten, was er tut und wer dich braucht. ▶ arbeiten ● braucht Sie ● fertig ○ Leerlauf Agent bewusst ▶ arbeiten ● braucht Sie ● ungelesen ○ klare F1 aufzuholen.",
+      "zh-Hant": "~ d e v $ ~ d e v $ $ 繼續監視每一個代理,它在做什麼,誰需要你. 工作 需要你 完成 閒置代理 瞭解 工作 需要你 尚未讀取 清除 F1 以趕上 。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 125 分 · 42 条评论",
+      "zh-Hant": "Hacker News 125 分 · 42 則留言",
+      "en": "125 points · 42 comments on Hacker News",
+      "ja": "Hacker News 125 ポイント · コメント 42 件",
+      "ko": "Hacker News 125점 · 댓글 42개",
+      "ms": "125 mata · 42 komen di Hacker News",
+      "vi": "125 điểm · 42 bình luận trên Hacker News",
+      "fr": "125 points · 42 commentaires sur Hacker News",
+      "es": "125 puntos · 42 comentarios en Hacker News",
+      "de": "125 Punkte · 42 Kommentare auf Hacker News"
+     },
+     "url": "https://corgi.computer/",
+     "src": "corgi.computer",
+     "date": "2026-10-23",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50214373"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50220042",
+     "title": {
+      "zh-Hans": "通过CVE-2022-22706为TCl Android TV提供的自定义根",
+      "zh-Hant": "透過CVE-2022-22706為TCl Android TV提供的自定義根",
+      "en": "Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "ja": "CVE-2022-22706によるTcl Android TV用の自動ルート",
+      "ko": "CVE-2022-22706를 통해 Tcl Android TV의 자율 루트",
+      "ms": "Akar autonomous untuk TV Android Tcl melalui CVE-2022-22706",
+      "vi": "Căn bản tự động cho TV Tcl Andrene thông qua CVE-22-22706",
+      "fr": "racine autonome pour Tcl Android TV via CVE-2022-22706",
+      "es": "raíz autónoma para Tcl Android TV vía CVE-2022-22706",
+      "de": "Autonomes Root für Tcl Android TV über CVE-2022-22706"
+     },
+     "summary": {
+      "en": "TCL 50C721 (RTD1319 / Mali-G31) root toolkit — autonomous CVE-2022-22706 exploit chain",
+      "zh-Hans": "TCL 50C721(RTD1319 /马里-G31) 根工具包——自主CVE-2022-22706 开采链",
+      "ja": "TCL 50C721 (RTD1319 / Mali-G31) ルートツールキット — 自律的なCVE-2022-22706 悪用チェーン",
+      "ko": "TCL 50C721 (RTD1319 / 말리 G31) 루트 툴킷 - 자율 CVE-2022-22706 레버리지 체인",
+      "ms": "TCL 50C721 (RTD1319 / Mali-G31) akar toolkit — otonom CVE-2022-22706 rantai exploit",
+      "vi": "TCL 50C721 (TD1319 / Mali-G31) gốc công cụ — tự động CVE-22-22706",
+      "fr": "TCL 50C721 (RTD1319 / Mali-G31) boîte à outils racine — chaîne d'exploitation autonome CVE-2022-22706",
+      "es": "TCL 50C721 (RTD1319 / Mali-G31) root toolkit — autonomous CVE-2022-22706 exploit chain",
+      "de": "TCL 50C721 (RTD1319 / Mali-G31) Root Toolkit — autonome CVE-2022-22706 Exploit Chain",
+      "zh-Hant": "TCL 50C721(RTD1319 /馬裡-G31) 根工具包——自主CVE-2022-22706 開採鏈"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 50 分 · 17 条评论",
+      "zh-Hant": "Hacker News 50 分 · 17 則留言",
+      "en": "50 points · 17 comments on Hacker News",
+      "ja": "Hacker News 50 ポイント · コメント 17 件",
+      "ko": "Hacker News 50점 · 댓글 17개",
+      "ms": "50 mata · 17 komen di Hacker News",
+      "vi": "50 điểm · 17 bình luận trên Hacker News",
+      "fr": "50 points · 17 commentaires sur Hacker News",
+      "es": "50 puntos · 17 comentarios en Hacker News",
+      "de": "50 Punkte · 17 Kommentare auf Hacker News"
+     },
+     "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+     "src": "gitlab.com",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50220042"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50221676",
+     "title": {
+      "zh-Hans": "Google在芬兰非法砍伐250K树作为数据中心",
+      "zh-Hant": "Google在芬蘭非法砍伐250K樹作為資料中心",
+      "en": "Google illegally cut down 250K trees in Finland for data center",
+      "ja": "Googleは、フィンランドの250Kの木をデータセンターに不正にカット",
+      "ko": "Google은 데이터 센터에 대한 핀란드의 250K 나무를 불법 절단",
+      "ms": "Google secara ilegal menebang 250K pohon di Finlandia untuk pusat data",
+      "vi": "Google bất hợp pháp cắt giảm 250K cây ở Phần Lan cho trung tâm dữ liệu",
+      "fr": "Google a illégalement abattu 250K arbres en Finlande pour le centre de données",
+      "es": "Google cortó ilegalmente 250K árboles en Finlandia para el centro de datos",
+      "de": "Google schneidet illegal 250K Bäume in Finnland für Rechenzentrum"
+     },
+     "summary": {
+      "en": "The tech super giant – continuing its expansion of the booming artificial intelligence industry – cleared 816 acres of woodlands in Northern Finland, the Guardian reported Thursday.",
+      "zh-Hans": "科技超级巨头 — — 继续扩张蓬勃发展的人工智能产业 — — 清除了芬兰北部816英亩的林地,\"卫报\"报道说星期四.",
+      "ja": "ハイテクスーパー巨大 – ブームの人工知能産業の拡大を継続 – クリア 816 北フィンランドの土地のエーカー, ガーディアンは木曜日に報告しました.",
+      "ko": "기술 슈퍼 거대 - 호황 인공 지능 산업의 확장을 계속 - 북 핀란드의 목재 랜드의 816 에이커, 가디언은 목요일보고.",
+      "ms": "Raksasa super teknologi – melanjutkan ekspansinya dari industri kecerdasan buatan yang berkembang pesat – membersihkan 816 hektar lahan kayu di Finlandia Utara, Guardian melaporkan hari Kamis.",
+      "vi": "Người siêu khổng lồ kỹ thuật — tiếp tục mở rộng ngành công nghiệp trí tuệ nhân tạo bùng nổ — dọn sạch 816 mẫu Anh đất rừng ở Bắc Phần Lan, tờ Guardian báo cáo vào thứ năm.",
+      "fr": "Le super géant technologique, qui poursuit son expansion de l'industrie de l'intelligence artificielle en plein essor, a défriché 816 acres de forêts dans le nord de la Finlande, a rapporté le Guardian jeudi.",
+      "es": "El super gigante tecnológico – continuando su expansión de la creciente industria de inteligencia artificial – despejó 816 acres de bosques en el norte de Finlandia, informó el jueves el Guardian.",
+      "de": "Der Tech-Superriese - der seine Expansion der boomenden Industrie für künstliche Intelligenz fortsetzt - hat 816 Hektar Wald in Nordfinnland gerodet, berichtete der Guardian am Donnerstag.",
+      "zh-Hant": "科技超級巨頭 — — 繼續擴張蓬勃發展的人工智慧產業 — — 清除了芬蘭北部816英畝的林地,\"衛報\"報道說星期四."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 246 分 · 199 条评论",
+      "zh-Hant": "Hacker News 246 分 · 199 則留言",
+      "en": "246 points · 199 comments on Hacker News",
+      "ja": "Hacker News 246 ポイント · コメント 199 件",
+      "ko": "Hacker News 246점 · 댓글 199개",
+      "ms": "246 mata · 199 komen di Hacker News",
+      "vi": "246 điểm · 199 bình luận trên Hacker News",
+      "fr": "246 points · 199 commentaires sur Hacker News",
+      "es": "246 puntos · 199 comentarios en Hacker News",
+      "de": "246 Punkte · 199 Kommentare auf Hacker News"
+     },
+     "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+     "src": "nypost.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50219177",
+     "title": {
+      "zh-Hans": "节点2 外壳进化为 HTTP2Shell, 爆炸半径会影响许多 HTTP libs 和 apps",
+      "zh-Hant": "節點2 外殼進化為 HTTP2Shell, 爆炸半徑會影響許多 HTTP libs 和 apps",
+      "en": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "ja": "ノード2 シェルはHTTP2Shellに進化し、ラジナスは多くのHTTP libsとアプリに影響を与えます。",
+      "ko": "노드2 Shell은 HTTP2Shell에 진화하고, 폭발 반경은 많은 HTTP 라이브러리와 앱에 영향을 미칩니다.",
+      "ms": "Andika Node2 Cangkang berkembang menjadi HTTP2Shell, radius ledakan mempengaruhi banyak lib HTTP dan aplikasi",
+      "vi": "Nút2 Hệ vỏ tiến hóa sang HTTP2Shell, bán kính phát nổ ảnh hưởng đến nhiều thư mục và ứng dụng HTTP",
+      "fr": "Node2 Shell évolue vers HTTP2Shell, le rayon d'explosion affecte de nombreuses libs et applications HTTP",
+      "es": "Node2 Shell evoluciona a HTTP2Shell, radio de explosión afecta muchas libs y aplicaciones HTTP",
+      "de": "Node2 Shell entwickelt sich zu HTTP2Shell, Explosionsradius betrifft viele HTTP-Libs und Apps"
+     },
+     "summary": {
+      "en": "The Brotli flaw behind Node2Shell (CVE-2026-111497) affects many libraries and applications using HTTP with Brotli or brotlicffi installed. Check your versions and upgrade to the fix.",
+      "zh-Hans": "诺德2Shell(CVE-2026-111497)背后的布罗特利缺陷会影响许多使用HTTP的库和应用程序,并安装了布罗特利或布罗特利克菲. 检查你的版本,升级到固定。",
+      "ja": "Node2Shell(CVE-2026-111497)の背後にあるBrotliの欠陥は、BrotliまたはbrotlicffiをインストールしたHTTPを使用して、多くのライブラリやアプリケーションに影響を与えます。 お使いのバージョンを確認し、修正にアップグレードします。",
+      "ko": "Node2Shell (CVE-2026-111497) 뒤에 Brotli 결함은 Brotli 또는 brotlicffi가 설치된 HTTP를 사용하여 많은 라이브러리 및 응용 프로그램에 영향을 미칩니다. 수정에 버전과 업그레이드를 확인합니다.",
+      "ms": "Kecacatan Brotli di belakang Node2Shell (CVE-2026-111497) mempengaruhi banyak pustaka dan aplikasi menggunakan HTTP dengan Brotli atau brotlicffi dipasang. Periksa versi Anda dan upgrade ke perbaikan.",
+      "vi": "Lỗi Brotli nằm sau Node2Shell (CVE-26-1197) ảnh hưởng đến nhiều thư viện và ứng dụng bằng HTTP với Brotli hoặc broticffi đã cài đặt. Kiểm tra phiên bản và nâng cấp lên sửa chữa.",
+      "fr": "Le défaut Brotli derrière Node2Shell (CVE-2026-111497) affecte de nombreuses bibliothèques et applications utilisant HTTP avec Brotli ou brotlicffi installé. Vérifiez vos versions et mise à niveau vers le correctif.",
+      "es": "El defecto Brotli detrás de Node2Shell (CVE-2026-111497) afecta a muchas bibliotecas y aplicaciones usando HTTP con Brotli o brotlicffi instalado. Compruebe sus versiones y actualizar a la solución.",
+      "de": "Der Brotli-Fehler hinter Node2Shell (CVE-2026-111497) betrifft viele Bibliotheken und Anwendungen, die HTTP mit installiertem Brotli oder brotlicffi verwenden. Überprüfen Sie Ihre Versionen und aktualisieren Sie auf den Fix.",
+      "zh-Hant": "諾德2Shell(CVE-2026-111497)背後的布羅特利缺陷會影響許多使用HTTP的庫和應用程式,並安裝了布羅特利或布羅特利克菲. 檢查你的版本,升級到固定。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 268 分 · 131 条评论",
+      "zh-Hant": "Hacker News 268 分 · 131 則留言",
+      "en": "268 points · 131 comments on Hacker News",
+      "ja": "Hacker News 268 ポイント · コメント 131 件",
+      "ko": "Hacker News 268점 · 댓글 131개",
+      "ms": "268 mata · 131 komen di Hacker News",
+      "vi": "268 điểm · 131 bình luận trên Hacker News",
+      "fr": "268 points · 131 commentaires sur Hacker News",
+      "es": "268 puntos · 131 comentarios en Hacker News",
+      "de": "268 Punkte · 131 Kommentare auf Hacker News"
+     },
+     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "src": "aikido.dev",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50218633",
+     "title": {
+      "zh-Hans": "三星电视台的根壳",
+      "zh-Hant": "三星電視臺的根殼",
+      "en": "Root shell on Samsung TV",
+      "ja": "サムスンTVでルートシェル",
+      "ko": "삼성 TV에 뿌리 포탄",
+      "ms": "Shell Akar Root di Samsung TV",
+      "vi": "Name",
+      "fr": "Coque racine sur Samsung TV",
+      "es": "Carcasa de raíz en Samsung TV",
+      "de": "Root Shell auf Samsung TV"
+     },
+     "summary": {
+      "en": "i own a relatively new (2025) samsung tv. i kept getting weirdly targeted ads. i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.",
+      "zh-Hans": "我拥有一个相对较新的(2025年) samsung tv. 我不断得到奇怪的目标广告。 我试着把固件反转 但它是被加密的 并且没有钥匙 除非把它撕裂 做uart/jtag魔法。",
+      "ja": "私は比較的新しい (2025) samsung テレビを所有しています。 私は奇妙なターゲット広告を取得していきました。 私はファームウェアを逆転しようとしましたが、それが離れてそれを引き裂き、uart/jtag魔法をしない限り、それはエイズ暗号化され、キーなしでした。",
+      "ko": "나는 상대적으로 새로운 (2025) 삼성 TV를 소유한다. 나는 이상한 광고를 얻었다. 나는 펌웨어를 반전 시도하지만 그것은 aes 암호화되지 않은 키는 그것을 태우지 않고 uart / jtag 마술을 수행.",
+      "ms": "Aku punya yang relatif baru (2025) samsung tv. Aku terus mendapatkan aneh ditargetkan iklan. Saya mencoba membalikkan firmware tapi itu aes dienkripsi dan tidak ada kunci kecuali merobeknya dan melakukan sihir uart/jtag.",
+      "vi": "tôi sở hữu một TV smsung tương đối mới (2025). Tôi đã thử đảo ngược phần mềm nhưng nó đã được mã hóa và không có phím nào trừ khi phá nó ra và làm phép thuật uart/jg.",
+      "fr": "Je possède une télévision samsung relativement nouvelle (2025). J'ai essayé d'inverser le firmware mais il était aes crypté et pas de clés à moins de le déchirer et faire uart/jtag magie.",
+      "es": "Soy dueño de una televisión samsung relativamente nueva (2025). Seguí recibiendo anuncios raramente dirigidos. Intenté revertir el firmware pero era aos encriptados y no llaves a menos que lo desgarran y hagan magia uart/jtag.",
+      "de": "Ich besitze einen relativ neuen (2025) samsung-tv. ich bekam immer seltsam gezielte anzeigen. Ich habe versucht, die firmware umzukehren, aber es war aes verschlüsselt und keine schlüssel, es sei denn, sie zerreißen sie und tun uart/jtag magie.",
+      "zh-Hant": "我擁有一個相對較新的(2025年) samsung tv. 我不斷得到奇怪的目標廣告。 我試著把韌體反轉 但它是被加密的 並且沒有鑰匙 除非把它撕裂 做uart/jtag魔法。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 483 分 · 194 条评论",
+      "zh-Hant": "Hacker News 483 分 · 194 則留言",
+      "en": "483 points · 194 comments on Hacker News",
+      "ja": "Hacker News 483 ポイント · コメント 194 件",
+      "ko": "Hacker News 483점 · 댓글 194개",
+      "ms": "483 mata · 194 komen di Hacker News",
+      "vi": "483 điểm · 194 bình luận trên Hacker News",
+      "fr": "483 points · 194 commentaires sur Hacker News",
+      "es": "483 puntos · 194 comentarios en Hacker News",
+      "de": "483 Punkte · 194 Kommentare auf Hacker News"
+     },
+     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+     "src": "twitter.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50220913",
+     "title": {
+      "zh-Hans": "Elon Musk Just Give Europe 一个取代美国技术的理由",
+      "zh-Hant": "Elon Musk Just Give Europe 一個取代美國技術的理由",
+      "en": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "ja": "Elon Musk ただ Gave ヨーロッパ a 理由 へ 交換 a アメリカ テクノロジー",
+      "ko": "Elon Musk Just Gave Europe 미국 기술을 대체하는 이유",
+      "ms": "Andika Elon Musk Hanya Memberikan Eropa Alasan untuk Menggantikan Teknologi Amerika",
+      "vi": "Elon Musk vừa cho Châu Âu một lý do để thay thế công nghệ Mỹ",
+      "fr": "Elon Musk vient de donner à l'Europe une raison de remplacer la technologie américaine",
+      "es": "Elon Musk acaba de ganar Europa una razón para reemplazar la tecnología americana",
+      "de": "Elon Musk hat Europa gerade einen Grund gegeben, die amerikanische Technologie zu ersetzen"
+     },
+     "summary": {
+      "en": "I’ve been in London for the last month and have heard policymakers react to the wake up call Elon Musk just delivered.",
+      "zh-Hans": "我在伦敦呆了一个月,",
+      "ja": "先月ロンドンに滞在し、政策立案者がウェイクアップコールに反応し、エロン・ムスクが配信されました。",
+      "ko": "지난 달 동안 런던에 있었고, 정책 제작자가 Elon Musk를 깨우는 것에 반응했습니다.",
+      "ms": "Saya berada di London selama sebulan terakhir dan telah mendengar para pembuat kebijakan bereaksi terhadap panggilan Elon Musk yang baru saja disampaikan.",
+      "vi": "Tôi đã ở Luân Đôn trong tháng vừa qua và nghe các nhà hoạch định chính sách phản ứng trước cuộc gọi thức dậy của Elon Skight vừa được giao.",
+      "fr": "J'ai été à Londres le mois dernier et j'ai entendu les décideurs réagir à l'appel de réveil qu'Elon Musk vient de livrer.",
+      "es": "He estado en Londres durante el último mes y he escuchado a los políticos reaccionar ante la llamada de despertar que Elon Musk acaba de entregar.",
+      "de": "Ich war den letzten Monat in London und habe gehört, wie Politiker auf den Weckruf reagierten, den Elon Musk gerade geliefert hat.",
+      "zh-Hant": "我在倫敦呆了一個月,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 414 分 · 443 条评论",
+      "zh-Hant": "Hacker News 414 分 · 443 則留言",
+      "en": "414 points · 443 comments on Hacker News",
+      "ja": "Hacker News 414 ポイント · コメント 443 件",
+      "ko": "Hacker News 414점 · 댓글 443개",
+      "ms": "414 mata · 443 komen di Hacker News",
+      "vi": "414 điểm · 443 bình luận trên Hacker News",
+      "fr": "414 points · 443 commentaires sur Hacker News",
+      "es": "414 puntos · 443 comentarios en Hacker News",
+      "de": "414 Punkte · 443 Kommentare auf Hacker News"
+     },
+     "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+     "src": "steveblank.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50222133",
+     "title": {
+      "zh-Hans": "免费DNS",
+      "zh-Hant": "免費DNS",
+      "en": "FreeDNS",
+      "ja": "フリーDNS",
+      "ko": "무료DNS",
+      "ms": "ABAD",
+      "vi": "FreeDNS",
+      "fr": "SND libre",
+      "es": "FreeDNS",
+      "de": "FreeDNS"
+     },
+     "summary": {
+      "en": "Free DNS hosting, lets you fully manage your own domain. Dynamic DNS and Static DNS services available. You may also create hosts off other domains that we host upon the domain owners consent, we…",
+      "zh-Hans": "免费 DNS 主机, 让您完全管理自己的域 。 可提供动态DNS和静态DNS服务. 你也可以从其它域创建主机, 我们托管的域主同意, 我们...",
+      "ja": "無料のDNSホスティング、独自のドメインを完全に管理できます。 動的DNSと静的なDNSサービスが利用できます。 また、ドメイン所有者の同意をホストする他のドメインからホストを作成することもできます。",
+      "ko": "무료 DNS 호스팅, 당신은 완전히 자신의 도메인을 관리 할 수 있습니다. 동적 DNS 및 정적 DNS 서비스 제공. 도메인 소유자 동의에 호스트 다른 도메인에서 호스트를 만들 수도 있습니다, 우리는...",
+      "ms": "Penghostan DNS Bebas, memungkinkan anda sepenuhnya mengelola domain anda sendiri. Tersedia layanan DNS Dinamik dan Statistical DNS. Anda juga dapat membuat host dari domain lain bahwa kita host atas persetujuan pemilik domain, kami ...",
+      "vi": "Tổ chức DNS miễn phí, cho phép bạn quản lý hoàn toàn lãnh thổ riêng của bạn. Các dịch vụ DNS động và Static sẵn sàng. Bạn cũng có thể tạo các chủ thể từ các lĩnh vực khác mà chúng tôi tiếp đón khi các chủ sở hữu miền đồng ý, chúng tôi...",
+      "fr": "Hébergement DNS gratuit, vous permet de gérer entièrement votre propre domaine. DNS dynamique et services DNS statiques disponibles. Vous pouvez également créer des hôtes à partir d'autres domaines que nous hébergeons sur le consentement des propriétaires de domaine, nous...",
+      "es": "Free DNS hosting, le permite gestionar completamente su propio dominio. Servicios dinámicos DNS y DNS estáticos disponibles. También puede crear anfitriones fuera de otros dominios que albergamos en el consentimiento de los propietarios de dominios, nosotros...",
+      "de": "Kostenloses DNS-Hosting, mit dem Sie Ihre eigene Domain vollständig verwalten können. Dynamisches DNS und Statisches DNS verfügbar. Sie können auch Hosts aus anderen Domains erstellen, die wir hosten, wenn die Domaininhaber zustimmen, wir...",
+      "zh-Hant": "免費 DNS 主機, 讓您完全管理自己的域 。 可提供動態DNS和靜態DNS服務. 你也可以從其它域建立主機, 我們託管的域主同意, 我們..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 239 分 · 61 条评论",
+      "zh-Hant": "Hacker News 239 分 · 61 則留言",
+      "en": "239 points · 61 comments on Hacker News",
+      "ja": "Hacker News 239 ポイント · コメント 61 件",
+      "ko": "Hacker News 239점 · 댓글 61개",
+      "ms": "239 mata · 61 komen di Hacker News",
+      "vi": "239 điểm · 61 bình luận trên Hacker News",
+      "fr": "239 points · 61 commentaires sur Hacker News",
+      "es": "239 puntos · 61 comentarios en Hacker News",
+      "de": "239 Punkte · 61 Kommentare auf Hacker News"
+     },
+     "url": "https://freedns.afraid.org/",
+     "src": "freedns.afraid.org",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50224074",
+     "title": {
+      "zh-Hans": "PHP基金会\"经费不足\" 有一名全职工作人员,导演说",
+      "zh-Hant": "PHP基金會\"經費不足\" 有一名全職工作人員,導演說",
+      "en": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "ja": "PHP Foundation の 'under-funded' を 1 つのフルタイムのスタッフのメンバーと、ディレクターは言う",
+      "ko": "PHP Foundation 'under-fund' 와 한 풀 타임 직원 회원, 감독은 말한다",
+      "ms": "Yayasan PHP PHP 'dikurangi uang' dengan satu anggota staf penuh waktu, direktur mengatakan",
+      "vi": "Giám đốc nói rằng tổ chức PHP \"dưới quỹ\" với một thành viên trọn thời gian.",
+      "fr": "La Fondation PHP \"sous-financée\" avec un membre du personnel à temps plein, indique le directeur",
+      "es": "Fundación PHP \"bajo financiación\" con un miembro del personal a tiempo completo, dice el director",
+      "de": "PHP Foundation \"unterfinanziert\" mit einem Vollzeit-Mitarbeiter, sagt Direktor"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 reuters.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 reuters.com。",
+      "en": "Shared on Hacker News; original at reuters.com.",
+      "ja": "Hacker News で共有されたリンク。元記事は reuters.com にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reuters.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di reuters.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại reuters.com.",
+      "fr": "Partagé sur Hacker News ; original sur reuters.com.",
+      "es": "Compartido en Hacker News; original en reuters.com.",
+      "de": "Geteilt auf Hacker News; Original auf reuters.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 111 分 · 68 条评论",
+      "zh-Hant": "Hacker News 111 分 · 68 則留言",
+      "en": "111 points · 68 comments on Hacker News",
+      "ja": "Hacker News 111 ポイント · コメント 68 件",
+      "ko": "Hacker News 111점 · 댓글 68개",
+      "ms": "111 mata · 68 komen di Hacker News",
+      "vi": "111 điểm · 68 bình luận trên Hacker News",
+      "fr": "111 points · 68 commentaires sur Hacker News",
+      "es": "111 puntos · 68 comentarios en Hacker News",
+      "de": "111 Punkte · 68 Kommentare auf Hacker News"
+     },
+     "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+     "src": "reuters.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50219666",
+     "title": {
+      "zh-Hans": "我不懂量子物理学(2018年)",
+      "zh-Hant": "我不懂量子物理學(2018年)",
+      "en": "I don't understand quantum physics (2018)",
+      "ja": "量子物理はわかりません(2018)",
+      "ko": "나는 양자 물리학을 이해하지 않는다 (2018)",
+      "ms": "Aku tidak mengerti fisika kuantum (2018)",
+      "vi": "Tôi không hiểu vật lý lượng tử (208)",
+      "fr": "Je ne comprends pas la physique quantique (2018)",
+      "es": "No entiendo la física cuántica (2018)",
+      "de": "Ich verstehe die Quantenphysik nicht (2018)"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 southampton.ac.uk。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 southampton.ac.uk。",
+      "en": "Shared on Hacker News; original at southampton.ac.uk.",
+      "ja": "Hacker News で共有されたリンク。元記事は southampton.ac.uk にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 southampton.ac.uk에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di southampton.ac.uk.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại southampton.ac.uk.",
+      "fr": "Partagé sur Hacker News ; original sur southampton.ac.uk.",
+      "es": "Compartido en Hacker News; original en southampton.ac.uk.",
+      "de": "Geteilt auf Hacker News; Original auf southampton.ac.uk."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 267 分 · 202 条评论",
+      "zh-Hant": "Hacker News 267 分 · 202 則留言",
+      "en": "267 points · 202 comments on Hacker News",
+      "ja": "Hacker News 267 ポイント · コメント 202 件",
+      "ko": "Hacker News 267점 · 댓글 202개",
+      "ms": "267 mata · 202 komen di Hacker News",
+      "vi": "267 điểm · 202 bình luận trên Hacker News",
+      "fr": "267 points · 202 commentaires sur Hacker News",
+      "es": "267 puntos · 202 comentarios en Hacker News",
+      "de": "267 Punkte · 202 Kommentare auf Hacker News"
+     },
+     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+     "src": "southampton.ac.uk",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50217500",
+     "title": {
+      "zh-Hans": "十二年分布的 SQLite",
+      "zh-Hant": "十二年分佈的 SQLite",
+      "en": "Twelve years of distributed SQLite",
+      "ja": "配布されたSQLiteの12年",
+      "ko": "분산 SQLite의 수년",
+      "ms": "Dua belas tahun SQLite yang didistribusikan",
+      "vi": "Mười hai năm phân phát PHI - LEM",
+      "fr": "Douze ans de SQLite distribué",
+      "es": "Doce años de SQLite distribuido",
+      "de": "Zwölf Jahre verteiltes SQLite"
+     },
+     "summary": {
+      "en": "In September 2014 I published a short post announcing rqlite. The idea was simple: take SQLite, put a Raft log in front of it, and replicate every write to a cluster so that the loss of a node did…",
+      "zh-Hans": "2014年9月, 这个想法很简单:取下SQLite,在它前面放出一个Raft日志,再复制每个字母到一个集群,这样一个节点的丢失就发生了.",
+      "ja": "2014年9月 rqlite を発表したショートポスト。 アイデアは簡単です: SQLite を取り、その前に Raft ログを置き、すべての書き込みをクラスターに複製し、ノードの損失が発生したようにします。",
+      "ko": "2014년 9월 나는 짧은 포스트 announcing rqlite를 간행했습니다. 아이디어는 간단합니다 : SQLite를 가져 와서 앞에 Raft 로그를 넣고 클러스터에 모든 쓰기를 복제하여 노드의 손실이 발생했습니다.",
+      "ms": "Pada September 2014 saya menerbitkan sebuah pos singkat yang mengumumkan rqlite. Idenya sederhana: ambil SQLite, taruh log Raft di depannya, dan mereplikasi setiap tulisan ke sebuah cluster sehingga kehilangan sebuah node...",
+      "vi": "Tháng 9 năm 2014, tôi xuất bản một thông báo ngắn về Rqlite. Ý tưởng này rất đơn giản: hãy lấy tixite, đặt một bản ghi Raft trước nó, và sao chép lại từng chữ viết cho một cụm sao để một nút bị mất...",
+      "fr": "En septembre 2014, j'ai publié un court post annonçant rqlite. L'idée était simple: prendre SQLite, mettre une connexion Raft devant elle, et répliquer chaque écriture à un cluster de sorte que la perte d'un noeud a fait...",
+      "es": "En septiembre de 2014 publicó un breve post anunciando rqlite. La idea era simple: tomar SQLite, poner un registro de Raft delante de él, y replicar cada escritura a un cluster para que la pérdida de un nodo...",
+      "de": "Im September 2014 habe ich einen kurzen Beitrag veröffentlicht, in dem rqlite angekündigt wurde. Die Idee war einfach: Nehmen Sie SQLite, legen Sie ein Raft-Log davor und replizieren Sie jeden Text in einen Cluster, so dass der Verlust eines Knotens...",
+      "zh-Hant": "2014年9月, 這個想法很簡單:取下SQLite,在它前面放出一個Raft日誌,再複製每個字母到一個叢集,這樣一個節點的丟失就發生了."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 359 分 · 62 条评论",
+      "zh-Hant": "Hacker News 359 分 · 62 則留言",
+      "en": "359 points · 62 comments on Hacker News",
+      "ja": "Hacker News 359 ポイント · コメント 62 件",
+      "ko": "Hacker News 359점 · 댓글 62개",
+      "ms": "359 mata · 62 komen di Hacker News",
+      "vi": "359 điểm · 62 bình luận trên Hacker News",
+      "fr": "359 points · 62 commentaires sur Hacker News",
+      "es": "359 puntos · 62 comentarios en Hacker News",
+      "de": "359 Punkte · 62 Kommentare auf Hacker News"
+     },
+     "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+     "src": "philipotoole.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50218404",
+     "title": {
+      "zh-Hans": "Elon Musk Acquires 1B Stakes in CNN的父母公司",
+      "zh-Hant": "Elon Musk Acquires 1B Stakes in CNN的父母公司",
+      "en": "Elon Musk Acquires $1B Stake in CNN's Parent Company",
+      "ja": "Elon Musk、CNNの親会社で$ 1Bの株式を取得",
+      "ko": "Elon Musk는 CNN의 부모 회사에서 $ 1B 스테이크를 취득했습니다.",
+      "ms": "Elon Musk Acquires $1B Stake in CNN's Parent Company",
+      "vi": "Elon Musk được nhận 1B trong công ty phụ huynh CNN",
+      "fr": "Elon Musk acquiert une prise de $1B dans la société mère de CNN",
+      "es": "Elon Musk requiere $1B Stake en CNN Parent Company",
+      "de": "Elon Musk erwirbt 1 Milliarde US-Dollar an CNNs Muttergesellschaft"
+     },
+     "summary": {
+      "en": "Compare coverage across 5 sources on Symby, a News & Knowledge Platform.",
+      "zh-Hans": "比较新闻与知识平台Symby上的5个来源的报道。",
+      "ja": "ニュース&ナレッジプラットフォーム「Symby」の5つのソースのカバレッジを比較します。",
+      "ko": "Symby, News & Knowledge Platform의 5 소스의 범위 비교.",
+      "ms": "liputan yang dirangkum dengan 5 sumber mengenai Symby, sebuah Platform Pengetahuan Berita &",
+      "vi": "So sánh 5 nguồn tin trên Symby, một nền tảng tin tức và hiểu biết.",
+      "fr": "Comparer la couverture de 5 sources sur Symby, une plateforme de nouvelles et connaissances.",
+      "es": "Compare la cobertura entre 5 fuentes en Symby, una Plataforma de Información de Noticias.",
+      "de": "Vergleichen Sie die Berichterstattung in 5 Quellen auf Symby, einer News & Knowledge Platform.",
+      "zh-Hant": "比較新聞與知識平臺Symby上的5個來源的報道。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 50 分 · 24 条评论",
+      "zh-Hant": "Hacker News 50 分 · 24 則留言",
+      "en": "50 points · 24 comments on Hacker News",
+      "ja": "Hacker News 50 ポイント · コメント 24 件",
+      "ko": "Hacker News 50점 · 댓글 24개",
+      "ms": "50 mata · 24 komen di Hacker News",
+      "vi": "50 điểm · 24 bình luận trên Hacker News",
+      "fr": "50 points · 24 commentaires sur Hacker News",
+      "es": "50 puntos · 24 comentarios en Hacker News",
+      "de": "50 Punkte · 24 Kommentare auf Hacker News"
+     },
+     "url": "https://symby.com/news?_cid=101605177&preferredLanguage=en",
+     "src": "symby.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50218277",
+     "title": {
+      "zh-Hans": "印度政府网站提供被吊销的eMudhra证书",
+      "zh-Hant": "印度政府網站提供被吊銷的eMudhra證書",
+      "en": "Indian government sites are serving revoked eMudhra certificates",
+      "ja": "インド政府のサイトは、再発されたeMudhra証明書を提供しています",
+      "ko": "인도 정부 사이트는 개정 된 eMudhra 인증서 제공",
+      "ms": "Situs pemerintah India yang melayani sertifikat eMudhra dicabut",
+      "vi": "Địa điểm chính phủ Ấn Độ đang phục vụ giấy chứng nhận eMidhra bị thu hồi",
+      "fr": "Les sites du gouvernement indien servent les certificats eMudhra révoqués",
+      "es": "Los sitios del gobierno indio sirven certificados eMudhra revocados",
+      "de": "Indische Regierungsseiten dienen widerrufenen eMudhra-Zertifikaten"
+     },
+     "summary": {
+      "en": "On 17th October, eight eMudhra intermediate CAs chaining to emSign ECC Root CA - G3 were found to have trivially recoverable private keys.",
+      "zh-Hans": "10月17日,发现有8个eMudhra中间CAs链路来对ECC Root CA - G3进行EmSign.",
+      "ja": "10 月 17 日, 8 eMudhra 中間の CAs チェーン ECC Root CA - G3 は、些細な回復可能な秘密鍵を持っていることが判明しました.",
+      "ko": "10 월 17 일, 8 개의 eMudhra 중간 CA는 emSign ECC 루트 CA에 체인 링 - G3는 사소한 개인 키를 복구하는 것을 발견했다.",
+      "ms": "Pada tanggal 17 Oktober, delapan eMudhra intermediate CA rantaian ke emign ECC Root CA - G3 ditemukan memiliki kunci pribadi yang dapat dipulihkan secara trivial.",
+      "vi": "Vào ngày 17 - 10 - 17, người ta tìm thấy tám eMudhra trung gian CAs kết hợp với Emign ECC Root CA - G3 được tìm thấy với những chìa khóa cá nhân tầm thường.",
+      "fr": "Le 17 octobre, huit AC intermédiaires eMudhra enchaînés à emSign ECC Root CA - G3 ont été trouvés pour avoir trivialement récupérables clés privées.",
+      "es": "El 17 de octubre, ocho CAs intermedios eMudhra encadenados para emSign ECC Root CA - G3 fueron encontrados para tener claves privadas trivialmente recuperables.",
+      "de": "Am 17. Oktober wurde festgestellt, dass acht eMudhra-Zwischen-CAs, die an emSign ECC Root CA - G3 verkettet sind, trivial wiederherstellbare private Schlüssel haben.",
+      "zh-Hant": "10月17日,發現有8個eMudhra中間CAs鏈路來對ECC Root CA - G3進行EmSign."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 49 分 · 20 条评论",
+      "zh-Hant": "Hacker News 49 分 · 20 則留言",
+      "en": "49 points · 20 comments on Hacker News",
+      "ja": "Hacker News 49 ポイント · コメント 20 件",
+      "ko": "Hacker News 49점 · 댓글 20개",
+      "ms": "49 mata · 20 komen di Hacker News",
+      "vi": "49 điểm · 20 bình luận trên Hacker News",
+      "fr": "49 points · 20 commentaires sur Hacker News",
+      "es": "49 puntos · 20 comentarios en Hacker News",
+      "de": "49 Punkte · 20 Kommentare auf Hacker News"
+     },
+     "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+     "src": "captnemo.in",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1431523549",
+     "title": {
+      "zh-Hans": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "zh-Hant": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "en": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "ja": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "ko": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "ms": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "vi": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "fr": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "es": "aigamedevs/awesome-ai-tools-for-game-dev",
+      "de": "aigamedevs/awesome-ai-tools-for-game-dev"
+     },
+     "summary": {
+      "en": "Curated list of AI tools for game developers: 3D/2D assets, sprites, animation, voice, music, AI NPCs, engine assistants & MCP servers, playtesting. 2026 refresh of simoninithomas' list.",
+      "zh-Hans": "游戏开发者的AI工具解析列表:3D/2D资产,斯匹克特,动画,语音,音乐,AI NPC,引擎助手和MCP服务器,播放测试. 2026年 辛莫尼托玛斯名单更新.",
+      "ja": "ゲーム開発者向けAIツールのキュレーションリスト: 3D/2Dアセット、スプライト、アニメーション、音声、音楽、AI NPC、エンジンアシスタント、MCPサーバー、プレイテスト。 2026 simoninithomas' リストのリフレッシュ.",
+      "ko": "게임 개발자를위한 AI 도구 목록 : 3D / 2D 자산, 스프라이트, 애니메이션, 음성, 음악, AI NPC, 엔진 조수 및 MCP 서버, 재생. 2026 simoninithomas의 목록 새로 고침.",
+      "ms": "Daftar perangkat AI yang terkategorikan untuk pengembang permainan: aset 3D/2D, sprite, animasi, suara, musik, AI NPC, asisten mesin & server MCP, playtesting. 22526 segarkan daftar simoninithomas.",
+      "vi": "Danh sách các công cụ AI cho các nhà phát triển trò chơi: tài sản 3D/2D, spites, hoạt hình, giọng nói, âm nhạc, AI NPCs, trợ lý động cơ & MCP, thử nghiệm. 2026 cho lại danh sách các khối u mô phỏng.",
+      "fr": "Liste sécurisée des outils AI pour les développeurs de jeux : actifs 3D/2D, sprites, animation, voix, musique, NPC AI, assistants moteurs et serveurs MCP, playtesting. 2026 mise à jour de la liste des simoninithomes.",
+      "es": "Lista curada de herramientas AI para desarrolladores de juegos: 3D/2D activos, sprites, animación, voz, música, AI NPCs, asistentes de motores &amp; servidores MCP, prueba de juegos. 2026 refrescante de la lista de simoninitomas.",
+      "de": "Kuratierte Liste von KI-Tools für Spieleentwickler: 3D/2D-Assets, Sprites, Animation, Stimme, Musik, AI NPCs, Engine Assistants & MCP Server, Playtesting. 2026 Aktualisierung der Liste der Simoninithome.",
+      "zh-Hant": "遊戲開發者的AI工具解析列表:3D/2D資產,斯匹克特,動畫,語音,音樂,AI NPC,引擎助手和MCP伺服器,播放測試. 2026年 辛莫尼託瑪斯名單更新."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 24 星",
+      "zh-Hant": "GitHub 24 星",
+      "en": "24 stars on GitHub",
+      "ja": "GitHub スター 24",
+      "ko": "GitHub 스타 24개",
+      "ms": "24 bintang di GitHub",
+      "vi": "24 sao trên GitHub",
+      "fr": "24 étoiles sur GitHub",
+      "es": "24 estrellas en GitHub",
+      "de": "24 Sterne auf GitHub"
+     },
+     "url": "https://github.com/aigamedevs/awesome-ai-tools-for-game-dev",
+     "src": "github.com",
+     "date": "2026-10-23",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-24",
    "path": "digest/2026-10-24/",
