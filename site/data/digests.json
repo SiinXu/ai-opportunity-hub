@@ -1,6 +1,1107 @@
 {
- "latest": "2026-10-25",
+ "latest": "2026-10-26",
  "digests": [
+  {
+   "date": "2026-10-26",
+   "path": "digest/2026-10-26/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-25T23:30:00Z",
+   "generated": "2026-10-26T01:28:43Z",
+   "new_count": 41,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-26",
+    "zh-Hant": "早間技術熱點 · 2026-10-26",
+    "en": "Morning tech digest · 2026-10-26",
+    "ja": "朝のテックダイジェスト · 2026-10-26",
+    "ko": "아침 테크 다이제스트 · 2026-10-26",
+    "ms": "Ringkasan teknologi pagi · 2026-10-26",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-26",
+    "fr": "Digest tech du matin · 2026-10-26",
+    "es": "Resumen tecnológico matinal · 2026-10-26",
+    "de": "Morgendlicher Tech-Digest · 2026-10-26"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-26 07:30 自动生成：从上一期以来 OPC Radar 新收录的 41 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-26 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 41 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-26: the hottest of the 41 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-26 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 41 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-26 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 41개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-26: isyarat paling hangat daripada 41 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-26: những tín hiệu nổi bật nhất trong 41 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-26 : les plus marquants des 41 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-26: lo más destacado de las 41 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-26: das Wichtigste aus 41 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50233779",
+     "title": {
+      "zh-Hans": "10岁的有线电视新闻网在皮肤癌诊断方面超越了前沿LLMS",
+      "zh-Hant": "10歲的有線電視新聞網在皮膚癌診斷方面超越了前沿LLMS",
+      "en": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "ja": "10歳のCNNは皮膚癌の診断のためのフロンティアLLMを抜きます",
+      "ko": "피부암 진단을 위한 10살 CNN 결과 LLM",
+      "ms": "CNN 10 tahun outperforms perbatasan LLMs untuk diagnosis kanker kulit",
+      "vi": "Một chương trình CNN 10 tuổi, vượt biên giới cho chẩn đoán ung thư da",
+      "fr": "Un NNC de 10 ans surpasse les LLM de la frontière pour le diagnostic de cancer de la peau",
+      "es": "Un CNN de 10 años supera las LLM de frontera para el diagnóstico del cáncer de piel",
+      "de": "Ein 10-jähriger CNN übertrifft Frontier-LMs für die Diagnose von Hautkrebs"
+     },
+     "summary": {
+      "en": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected.",
+      "zh-Hans": "我是皮肤科医生 我测试了GPT-6 Astra 和 Claude Fable 5.1 诊断皮肤癌的能力,发现它们比我预期的更准确.",
+      "ja": "私は皮膚科医です。 私はGPT-6アストラとクロードファブル5.1の能力を診断皮膚癌にテストし、期待よりも精度が低いことがわかりました。",
+      "ko": "나는 dermatologist입니다. 나는 GPT-6 Astra와 Claude Fable 5.1의 기능을 진단 피부 암에 시험하고 내가 예상한 것보다 더 정확하다는 것을 발견했습니다.",
+      "ms": "Aku dokter kulit. Saya menguji kemampuan GPT-6 Astra dan Claude Fable 5.1 untuk mengdiagnosis kanker kulit dan mendapati bahwa mereka kurang akurat dari yang saya harapkan.",
+      "vi": "Tôi là bác sĩ da liễu. Tôi đã kiểm tra khả năng của GPT-6 Astra và Claude Fable 5.1 để chẩn đoán ung thư da và thấy rằng chúng không chính xác như tôi nghĩ.",
+      "fr": "Je suis dermatologue. J'ai testé la capacité de GPT-6 Astra et Claude Fable 5.1 à diagnostiquer le cancer de la peau et j'ai trouvé qu'ils étaient moins précis que je ne m'attendais.",
+      "es": "Soy dermatólogo. Probé la capacidad de GPT-6 Astra y Claude Fable 5.1 para diagnosticar el cáncer de piel y encontré que eran menos exactos de lo que esperaba.",
+      "de": "Ich bin Dermatologe. Ich testete die Fähigkeit von GPT-6 Astra und Claude Fable 5.1 zur Diagnose von Hautkrebs und stellte fest, dass sie weniger genau waren, als ich erwartet hatte.",
+      "zh-Hant": "我是皮膚科醫生 我測試了GPT-6 Astra 和 Claude Fable 5.1 診斷皮膚癌的能力,發現它們比我預期的更準確."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 398 分 · 190 条评论",
+      "zh-Hant": "Hacker News 398 分 · 190 則留言",
+      "en": "398 points · 190 comments on Hacker News",
+      "ja": "Hacker News 398 ポイント · コメント 190 件",
+      "ko": "Hacker News 398점 · 댓글 190개",
+      "ms": "398 mata · 190 komen di Hacker News",
+      "vi": "398 điểm · 190 bình luận trên Hacker News",
+      "fr": "398 points · 190 commentaires sur Hacker News",
+      "es": "398 puntos · 190 comentarios en Hacker News",
+      "de": "398 Punkte · 190 Kommentare auf Hacker News"
+     },
+     "url": "https://lynchlab.net/llm-skin-cancer",
+     "src": "lynchlab.net",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50233779"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50226419",
+     "title": {
+      "zh-Hans": "美国在媒体,电影和艺术领域失去了200克的工作. 人工智能多少钱?",
+      "zh-Hant": "美國在媒體,電影和藝術領域失去了200克的工作. 人工智慧多少錢?",
+      "en": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "ja": "アメリカは、メディア、映画、アートの200kジョブを失いました。 AIはいくらですか?",
+      "ko": "미국은 미디어, 영화 및 예술 분야에서 200k의 일자리를 잃었습니다. AI는 얼마입니까?",
+      "ms": "Amerika telah kehilangan 200 ribu pekerjaan di media, film dan seni. Berapa AI?",
+      "vi": "Nước Mỹ đã mất 200k công việc trong ngành truyền thông, phim ảnh và nghệ thuật. AI là bao nhiêu?",
+      "fr": "L'Amérique a perdu 200 000 emplois dans les médias, le cinéma et les arts. Combien coûte l'IA ?",
+      "es": "América ha perdido 200k de empleos en medios, películas y artes. ¿Cuánto es AI?",
+      "de": "Amerika hat 200k Arbeitsplätze in Medien, Film und Kunst verloren. Wie viel ist AI?"
+     },
+     "summary": {
+      "en": "America is Losing Hundreds of Thousands of Jobs in Media, Film & the Arts. How Much is AI to Blame?",
+      "zh-Hans": "美国正在媒体、电影和艺术领域失去上千个工作。 人工智能能怪谁?",
+      "ja": "アメリカは、メディア、映画、芸術の何千もの仕事の何百も失われています。 どのくらいのAIはBlameですか?",
+      "ko": "미국은 미디어, 영화 및 예술 분야에서 수천 명의 일자리를 잃고 있습니다. Blame에 AI는 얼마입니까?",
+      "ms": "Amerika adalah Losing Ratusan Ribuan Pekerjaan di Media, Film & Seni. Berapa Banyak yang Disalahkan?",
+      "vi": "Nước Mỹ đang mất hàng trăm ngàn việc làm trên phương tiện truyền thông, phim ảnh và nghệ thuật. Al đáng trách bao nhiêu?",
+      "fr": "L'Amérique perd des centaines de milliers d'emplois dans les médias, le cinéma et les arts. Combien l'IA est-elle à blâmer?",
+      "es": "América está perdiendo cientos de miles de empleos en medios, películas y artes. ¿Cuánto es IA para culpar?",
+      "de": "Amerika verliert Hunderttausende von Arbeitsplätzen in Medien, Film und Kunst. Wie viel ist AI schuld?",
+      "zh-Hant": "美國正在媒體、電影和藝術領域失去上千個工作。 人工智慧能怪誰?"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 501 分 · 539 条评论",
+      "zh-Hant": "Hacker News 501 分 · 539 則留言",
+      "en": "501 points · 539 comments on Hacker News",
+      "ja": "Hacker News 501 ポイント · コメント 539 件",
+      "ko": "Hacker News 501점 · 댓글 539개",
+      "ms": "501 mata · 539 komen di Hacker News",
+      "vi": "501 điểm · 539 bình luận trên Hacker News",
+      "fr": "501 points · 539 commentaires sur Hacker News",
+      "es": "501 puntos · 539 comentarios en Hacker News",
+      "de": "501 Punkte · 539 Kommentare auf Hacker News"
+     },
+     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+     "src": "apricitas.io",
+     "date": "2026-10-24",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50226419"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50236102",
+     "title": {
+      "zh-Hans": "OpenAI和Anthropic在几个月内将其LLM价格削减了高达80%. 为什么?",
+      "zh-Hant": "OpenAI和Anthropic在幾個月內將其LLM價格削減了高達80%. 為什麼?",
+      "en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "ja": "OpenAIとAnthropicはLMの価格を数か月以内に80%まで削減しました。 なぜ?",
+      "ko": "OpenAI 및 Anthropic은 몇 달 안에 최대 80 %의 LLM 가격을 잘라냅니다. 왜?",
+      "ms": "Keterbukaan dan Antropika memotong harga LLM mereka hingga 80% dalam beberapa bulan. Kenapa?",
+      "vi": "OpenAI và Antropic cắt giảm giá của họ lên đến 80% trong vòng vài tháng. Tại sao?",
+      "fr": "OpenAI et Anthropic ont réduit leurs prix LLM jusqu'à 80% en quelques mois. Pourquoi ?",
+      "es": "OpenAI y Anthropic cortaron sus precios de LLM hasta un 80% en unos meses. ¿Por qué?",
+      "de": "OpenAI und Anthropic haben ihre LLM-Preise innerhalb weniger Monate um bis zu 80% gesenkt. Warum?"
+     },
+     "summary": {
+      "en": "Let’s look at a quick timeline of the major LLM model announcements from both OpenAI and Anthropic over the past few months.",
+      "zh-Hans": "让我们看看过去几个月OpenAI和Anthropic的主要LLM模型公告的快速时间表。",
+      "ja": "過去数か月に渡るOpenAIとAnthropicの両社の主要なLMMモデル発表の迅速なタイムラインを見てみましょう。",
+      "ko": "몇 달 동안 OpenAI와 Anthropic의 주요 LLM 모델 발표의 빠른 타임 라인을 살펴 보자.",
+      "ms": "Mari kita lihat garis waktu singkat pengumuman model LLM utama dari OpenAI maupun Antropik selama beberapa bulan terakhir.",
+      "vi": "Chúng ta hãy xem xét một dòng thời gian ngắn của những thông báo quan trọng về mô hình ULM từ cả OpenAI và Antropic trong vài tháng vừa qua.",
+      "fr": "Laissez-nous regarder une chronologie rapide des principales annonces de modèles LLM depuis OpenAI et Anthropic ces derniers mois.",
+      "es": "Veamos una línea de tiempo rápida de los principales anuncios de modelos LLM de OpenAI y Antropopic en los últimos meses.",
+      "de": "Schauen wir uns eine kurze Zeitleiste der wichtigsten LLM-Modellankündigungen von OpenAI und Anthropic in den letzten Monaten an.",
+      "zh-Hant": "讓我們看看過去幾個月OpenAI和Anthropic的主要LLM模型公告的快速時間表。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 97 分 · 122 条评论",
+      "zh-Hant": "Hacker News 97 分 · 122 則留言",
+      "en": "97 points · 122 comments on Hacker News",
+      "ja": "Hacker News 97 ポイント · コメント 122 件",
+      "ko": "Hacker News 97점 · 댓글 122개",
+      "ms": "97 mata · 122 komen di Hacker News",
+      "vi": "97 điểm · 122 bình luận trên Hacker News",
+      "fr": "97 points · 122 commentaires sur Hacker News",
+      "es": "97 puntos · 122 comentarios en Hacker News",
+      "de": "97 Punkte · 122 Kommentare auf Hacker News"
+     },
+     "url": "https://minimaxir.com/2026/10/cheap-llms/",
+     "src": "minimaxir.com",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50236102"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50227356",
+     "title": {
+      "zh-Hans": "Cerebras 部署三相离子-平面AI模型",
+      "zh-Hant": "Cerebras 部署三相離子-平面AI模型",
+      "en": "Cerebras Deploys Trillion-Parameter AI Models",
+      "ja": "Cerebras、Trillion-Parameter AIモデルを展開",
+      "ko": "Cerebras Deploys Trillion-Parameter AI 모델",
+      "ms": "Para Cerebras Deploys Triliun-Parameter AI Models",
+      "vi": "Name",
+      "fr": "Cerebras Déploiements Trillion-Paramètre Modèles AI",
+      "es": "Cerebras Deploys Trillion-Parameter AI Modelos",
+      "de": "Cerebras setzt Trillion-Parameter-AI-Modelle ein"
+     },
+     "summary": {
+      "en": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.",
+      "zh-Hans": "学习Cerebras如何在WSE-3T地饼上绘制万亿参数的前沿模型,以每秒1000-2,000+令牌的可伸缩推论。",
+      "ja": "CerebrasがWSE-3Tウエハ全体でトリリオンパラメータのフロンティアモデルをマッピングし、毎秒1,000〜2,000以上のトークンでスケーラブルな推論を配信する方法を学びます。",
+      "ko": "Cerebras가 WSE-3T 웨이퍼를 가로지르는 조파라미터 프론트어 모델에 대해 자세히 알아보세요. 초당 1,000-2,000+ 토큰으로 확장할 수 있습니다.",
+      "ms": "Ketahui bagaimana Cerebras memetakan model perbatasan trilliun-parameter melintasi WSE-3T wafers untuk menyampaikan inferensi scalable pada 1.000–2.000+ token per detik.",
+      "vi": "Tìm hiểu làm thế nào Cerebras bản đồ các mô hình biên giới hàng nghìn nghìn nghìn tỷ để vượt qua WSE-3T bánh răng giả để cung cấp số lượng lớn tại 1,000–2.000+ tín hiệu mỗi giây.",
+      "fr": "Découvrez comment Cerebras cartographie des modèles à la frontière de trillions de paramètres à travers les wafers WSE-3T pour produire une inférence évolutive de 1 000 à 2 000 jetons par seconde.",
+      "es": "Aprenda cómo Cerebras mapas trillion-parameter border models across WSE-3T wafers para ofrecer inferencia escalable a 1,000–2,000+ tokens por segundo.",
+      "de": "Erfahren Sie, wie Cerebras Trillionen-Parameter-Frontground-Modelle über WSE-3T-Wafer hinweg abbildet, um skalierbare Inferenz bei 1.000 bis 2.000 + Token pro Sekunde zu liefern.",
+      "zh-Hant": "學習Cerebras如何在WSE-3T地餅上繪製萬億引數的前沿模型,以每秒1000-2,000+令牌的可伸縮推論。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 350 分 · 127 条评论",
+      "zh-Hant": "Hacker News 350 分 · 127 則留言",
+      "en": "350 points · 127 comments on Hacker News",
+      "ja": "Hacker News 350 ポイント · コメント 127 件",
+      "ko": "Hacker News 350점 · 댓글 127개",
+      "ms": "350 mata · 127 komen di Hacker News",
+      "vi": "350 điểm · 127 bình luận trên Hacker News",
+      "fr": "350 points · 127 commentaires sur Hacker News",
+      "es": "350 puntos · 127 comentarios en Hacker News",
+      "de": "350 Punkte · 127 Kommentare auf Hacker News"
+     },
+     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+     "src": "cerebras.ai",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50227356"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50234474",
+     "title": {
+      "zh-Hans": "Dolly Parton 想象图书馆",
+      "zh-Hant": "Dolly Parton 想象圖書館",
+      "en": "Dolly Parton's Imagination Library",
+      "ja": "Dolly Partonの想像ライブラリ",
+      "ko": "Dolly Parton의 상상 라이브러리",
+      "ms": "Pustaka Imajinasi Dolly Parton",
+      "vi": "Thư viện Tưởng tượng của Dolly",
+      "fr": "Bibliothèque d'imagination de Dolly Parton",
+      "es": "Biblioteca de Imaginación de Dolly Parton",
+      "de": "Dolly Partons Imagination Library"
+     },
+     "summary": {
+      "en": "Dolly Parton’s Imagination Library is a book gifting program that mails free books to children from birth until they begin school in participating areas.",
+      "zh-Hans": "Dolly Parton的想象图书馆是一个图书赠送计划,",
+      "ja": "ドリー・パノンのイマジネーション・ライブラリは、参加エリアで学校を始めるまで、出産から子供たちに無料の本を郵送する本ギフトプログラムです。",
+      "ko": "Dolly Parton’s Imagination Library는 참여 지역에 학교를 시작할 때까지 출생부터 자녀에게 무료 책을 보내주는 책 선물 프로그램입니다.",
+      "ms": "Perpustakaan Imajinasi karya Dolly Parton adalah program pemberian buku yang mengirimkan buku gratis kepada anak - anak sejak lahir sampai mereka mulai bersekolah di daerah - daerah yang berpartisipasi.",
+      "vi": "Thư viện tưởng tượng Dolly là một chương trình tặng sách cho trẻ em từ lúc mới sinh cho đến khi chúng bắt đầu đi học.",
+      "fr": "La bibliothèque Dolly Parton est un programme de dons de livres qui envoie des livres gratuits aux enfants de la naissance jusqu'à ce qu'ils commencent l'école dans les zones participantes.",
+      "es": "La Biblioteca de Imaginación de Dolly Parton es un programa de regalo de libros que envía libros gratis a los niños desde el nacimiento hasta que comienzan la escuela en áreas participantes.",
+      "de": "Dolly Partons Imagination Library ist ein Buchgeschenkprogramm, das kostenlose Bücher an Kinder von der Geburt bis zum Schulbeginn in den teilnehmenden Bereichen verschickt.",
+      "zh-Hant": "Dolly Parton的想象圖書館是一個圖書贈送計劃,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 342 分 · 59 条评论",
+      "zh-Hant": "Hacker News 342 分 · 59 則留言",
+      "en": "342 points · 59 comments on Hacker News",
+      "ja": "Hacker News 342 ポイント · コメント 59 件",
+      "ko": "Hacker News 342점 · 댓글 59개",
+      "ms": "342 mata · 59 komen di Hacker News",
+      "vi": "342 điểm · 59 bình luận trên Hacker News",
+      "fr": "342 points · 59 commentaires sur Hacker News",
+      "es": "342 puntos · 59 comentarios en Hacker News",
+      "de": "342 Punkte · 59 Kommentare auf Hacker News"
+     },
+     "url": "https://imaginationlibrary.com/",
+     "src": "imaginationlibrary.com",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50234474"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50233304",
+     "title": {
+      "zh-Hans": "AI 使用引导 UC Berkeley 数学教授在分级作业中看到“无分”",
+      "zh-Hant": "AI 使用引導 UC Berkeley 數學教授在分級作業中看到“無分”",
+      "en": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "ja": "AI は UC Berkeley の数学の教授が 'no point' を grading homework にリードします。",
+      "ko": "AI는 UC Berkeley math 교수를 이끌고 홈 워크 그라딩에서 '포인트'를 볼 수 있습니다.",
+      "ms": "UC Berkeley, profesor matematika UC Berkeley untuk melihat 'tidak ada titik' dalam grading PR",
+      "vi": "AI sử dụng dẫn đầu giáo sư toán học UC Berkeley để xem \"không có điểm\" trong bài tập",
+      "fr": "L'utilisation de l'IA conduit le professeur de mathématiques UC Berkeley à voir « aucun point » dans le classement des devoirs",
+      "es": "El uso de AI lleva al profesor de matemáticas UC Berkeley a ver 'no punto' en la clasificación de la tarea",
+      "de": "KI-Nutzung führt UC Berkeley Mathe-Professor zu sehen, \"keinen Punkt\" in der Bewertung Hausaufgaben"
+     },
+     "summary": {
+      "en": "Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students’ homework. After seeing how many of his students used AI to consistently receive top scores, he",
+      "zh-Hans": "Richard Borcherds是加州大学伯克利分校教授和菲尔兹奖牌获得者,不再为他的学生做功课。 他看到多少学生使用AI来持续获得最高分后,",
+      "ja": "UC Berkeleyの教授とフィールド・メダリストのリチャード・ボラーシュは、学生の宿題を学長しません。 生徒の何人がAIを使ってトップスコアを一貫して受け取る様子を見た後、",
+      "ko": "Richard Borcherds, UC Berkeley 교수 및 필드 medalist, 더 이상 학생들의 홈 워크를 학년. AI를 사용하는 학생들의 많은 방법을보고 일관적으로 최고 점수를받을, 그는",
+      "ms": "Zodiak Richard Borcherds, seorang profesor UC Berkeley dan peraih medali Fields, tidak lagi menilai PR siswanya. Setelah melihat berapa banyak murid-muridnya menggunakan AI untuk konsisten menerima skor tertinggi, dia",
+      "vi": "Richard Borcherds, một giáo sư thuộc trường Đại học Berkeley và chuyên gia về huân chương, không còn xem trọng bài tập của học sinh nữa. Sau khi thấy có bao nhiêu học sinh sử dụng AI để nhận điểm số cao nhất.",
+      "fr": "Richard Borcherds, professeur UC Berkeley et médaillé Fields, ne classe plus ses étudiants en devoirs. Après avoir vu combien de ses étudiants ont utilisé l'IA pour recevoir les meilleurs scores, il",
+      "es": "Richard Borcherds, profesor de UC Berkeley y medallista de Fields, ya no califica la tarea de sus estudiantes. Después de ver cuántos de sus estudiantes utilizaron AI para recibir siempre los mejores resultados, él",
+      "de": "Richard Borcherds, ein UC Berkeley Professor und Fields Medaillengewinner, bewertet die Hausaufgaben seiner Schüler nicht mehr. Nachdem er gesehen hatte, wie viele seiner Schüler AI nutzten, um konsequent Top-Scores zu erhalten,",
+      "zh-Hant": "Richard Borcherds是加州大學伯克利分校教授和菲爾茲獎牌獲得者,不再為他的學生做功課。 他看到多少學生使用AI來持續獲得最高分後,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 191 分 · 267 条评论",
+      "zh-Hant": "Hacker News 191 分 · 267 則留言",
+      "en": "191 points · 267 comments on Hacker News",
+      "ja": "Hacker News 191 ポイント · コメント 267 件",
+      "ko": "Hacker News 191점 · 댓글 267개",
+      "ms": "191 mata · 267 komen di Hacker News",
+      "vi": "191 điểm · 267 bình luận trên Hacker News",
+      "fr": "191 points · 267 commentaires sur Hacker News",
+      "es": "191 puntos · 267 comentarios en Hacker News",
+      "de": "191 Punkte · 267 Kommentare auf Hacker News"
+     },
+     "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+     "src": "dailycal.org",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50233304"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50231722",
+     "title": {
+      "zh-Hans": "R/开源禁止所有使用LLMS的独行项目和项目",
+      "zh-Hant": "R/開源禁止所有使用LLMS的獨行專案和專案",
+      "en": "R/open source bans all solo projects and projects using LLMs",
+      "ja": "R/open ソースは、LM を使用して、すべてのソロプロジェクトとプロジェクトを禁止します。",
+      "ko": "R / 오픈 소스는 LLM을 사용하여 모든 솔로 프로젝트 및 프로젝트를 금지합니다.",
+      "ms": "Sumber R/open melarang semua proyek dan proyek solo menggunakan LLMs",
+      "vi": "R/ open sources lệnh cấm tất cả các dự án và dự án đơn sử dụng LMs",
+      "fr": "R/open source interdit tous les projets et projets en solo utilisant des LLM",
+      "es": "R/open source bans all solitario projects and projects using LLMs",
+      "de": "R / Open Source verbietet alle Solo-Projekte und Projekte, die LLMs verwenden"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 reddit.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 reddit.com。",
+      "en": "Shared on Hacker News; original at reddit.com.",
+      "ja": "Hacker News で共有されたリンク。元記事は reddit.com にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reddit.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di reddit.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại reddit.com.",
+      "fr": "Partagé sur Hacker News ; original sur reddit.com.",
+      "es": "Compartido en Hacker News; original en reddit.com.",
+      "de": "Geteilt auf Hacker News; Original auf reddit.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 77 分 · 106 条评论",
+      "zh-Hant": "Hacker News 77 分 · 106 則留言",
+      "en": "77 points · 106 comments on Hacker News",
+      "ja": "Hacker News 77 ポイント · コメント 106 件",
+      "ko": "Hacker News 77점 · 댓글 106개",
+      "ms": "77 mata · 106 komen di Hacker News",
+      "vi": "77 điểm · 106 bình luận trên Hacker News",
+      "fr": "77 points · 106 commentaires sur Hacker News",
+      "es": "77 puntos · 106 comentarios en Hacker News",
+      "de": "77 Punkte · 106 Kommentare auf Hacker News"
+     },
+     "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+     "src": "reddit.com",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50231722"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50233294",
+     "title": {
+      "zh-Hans": "JetBrains 智者号",
+      "zh-Hant": "JetBrains 智者號",
+      "en": "JetBrains Thinkrail",
+      "ja": "ジェットブレインシンクレール",
+      "ko": "JetBrains 사고",
+      "ms": "Fikiran JetBrains",
+      "vi": "Name",
+      "fr": "JetBrains Thinkrail",
+      "es": "JetBrains Thinkrail",
+      "de": "JetBrains Thinkrail"
+     },
+     "summary": {
+      "en": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "zh-Hans": "以轻量级的、真实的 IDE 来自定义自己的工作方式 \"你需要的维比\"",
+      "ja": "Vibe コード pi で 軽量でリアルな IDE それはあなたが動作する方法の周り自体をカスタマイズする — 必要なバイブ",
+      "ko": "경량의 pi와 Vibe 코드, 실제 IDE는 당신이 작업하는 방법의 자체를 사용자 정의 — 당신이 필요로하는 Vibe",
+      "ms": "Kode Vibe dengan pi dalam IDE ringan dan nyata yang menyesuaikan dirinya dengan cara Anda bekerja — Vibe yang Anda Butuhkan",
+      "vi": "Mật mã Vibe với pi trong một ID nhẹ nhàng, thật sự tự tùy chỉnh xung quanh cách bạn làm việc — Loại vi - rút cần thiết",
+      "fr": "Vibe code avec pi dans un IDE léger, réel qui se personnalise autour de la façon dont vous travaillez — L'ambiance dont vous avez besoin",
+      "es": "Código Vibe con pi en un IDE ligero y real que se personaliza en la forma en que trabajas: El Vibo que necesitas",
+      "de": "Vibe-Code mit Pi in einer leichten, echten IDE, die sich an die Art und Weise, wie Sie arbeiten, anpasst - Der Vibe, den Sie brauchen",
+      "zh-Hant": "以輕量級的、真實的 IDE 來自定義自己的工作方式 \"你需要的維比\""
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 166 分 · 114 条评论",
+      "zh-Hant": "Hacker News 166 分 · 114 則留言",
+      "en": "166 points · 114 comments on Hacker News",
+      "ja": "Hacker News 166 ポイント · コメント 114 件",
+      "ko": "Hacker News 166점 · 댓글 114개",
+      "ms": "166 mata · 114 komen di Hacker News",
+      "vi": "166 điểm · 114 bình luận trên Hacker News",
+      "fr": "166 points · 114 commentaires sur Hacker News",
+      "es": "166 puntos · 114 comentarios en Hacker News",
+      "de": "166 Punkte · 114 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/JetBrains/thinkrail",
+     "src": "github.com",
+     "date": "2026-10-25",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50233294"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50228167",
+     "title": {
+      "zh-Hans": "5个Qwen3.8-27B型号匹配Fable 5,使用GVS5H Harness",
+      "zh-Hant": "5個Qwen3.8-27B型號匹配Fable 5,使用GVS5H Harness",
+      "en": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "ja": "5つのQwen3.8-27BモデルはGVS5Hの馬具を使用して寓話5に一致します",
+      "ko": "GVS5H 마구를 사용하는 5 Qwen3.8-27B 모형 경기 Fable 5",
+      "ms": "Model 5 Qwen3.8-27B cocok dengan model Fable 5 Menggunakan GVS5H Harness",
+      "vi": "5 Mẫu Qwen3.8-27B khớp với Fable 5 sử dụng GVS5H Harness",
+      "fr": "Cinq modèles Qwen3.8-27B correspondent Fable 5 Utilisation de GVS5H Harness",
+      "es": "Cinco modelos Qwen3.8-27B corresponden a Fable 5 Utilizando GVS5H Harness",
+      "de": "Fünf Qwen3.8-27B-Modelle passen zu Fable 5 mit GVS5H Harness"
+     },
+     "summary": {
+      "en": "GVS5H: Five Qwen3.8-27B Models Match Claude Fable 5 on LiveCodeBench Hard | Fable 5 Level Coding for a Fifth the Price - or on a Single GPU",
+      "zh-Hans": "GVS5H:5个Quen3.8-27B 在LiveCode Bench Hard 上搭配克洛德5号线的模型 5号线的等级编码 价格第五 - 或单个GPU",
+      "ja": "GVS5H: 5つのQwen3.8-27B モデル マッチ クロード 寓話 5 で LiveCodeBench ハード | 寓話 5 レベルのコーディング フォーファイブ フォーファイブ フォーフィフス 価格 - またはシングル GPU",
+      "ko": "GVS5H: 5개 Qwen3.8-27B Models Match Claude Fable 5 에 LiveCodeBench Hard | 5 레벨 코딩 가능 - 또는 단일 GPU",
+      "ms": "5 Qwen3.8-27B Model Coding Model Coding Model Coding Model Model Coding Claude Fable 5 di LiveCodeBench Hard © Fable 5 Level Coding for a Fifth the Price - atau di GPU Tunggal",
+      "vi": "GVS5H: 5 Qwen3.8-27B Mô hình khớp Claude Fable 5 trên LiveCodeBnch Hard 5 mức độ kết hợp cho một giá 5 hay trên một GPU đơn",
+      "fr": "GVS5H: Cinq Qwen3.8-27B Modèles Match Claude Fable 5 sur LiveCodeCodage de 5 niveaux Fable pour une cinquième fois le prix - ou sur un GPU unique",
+      "es": "GVS5H: Cinco Qwen3.8-27B Modelos Match Claude Fable 5 en LiveCodeBench Hard TEN Fable 5 Nivel Codificación para una Quinta el precio - o en una GPU Individual",
+      "de": "GVS5H: Fünf Qwen3.8-27B Modelle passen zu Claude Fable 5 auf LiveCodeBench Hard | Fable 5 Level Coding für einen Fünftel des Preises - oder auf einer einzigen GPU",
+      "zh-Hant": "GVS5H:5個Quen3.8-27B 在LiveCode Bench Hard 上搭配克洛德5號線的模型 5號線的等級編碼 價格第五 - 或單個GPU"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 182 分 · 69 条评论",
+      "zh-Hant": "Hacker News 182 分 · 69 則留言",
+      "en": "182 points · 69 comments on Hacker News",
+      "ja": "Hacker News 182 ポイント · コメント 69 件",
+      "ko": "Hacker News 182점 · 댓글 69개",
+      "ms": "182 mata · 69 komen di Hacker News",
+      "vi": "182 điểm · 69 bình luận trên Hacker News",
+      "fr": "182 points · 69 commentaires sur Hacker News",
+      "es": "182 puntos · 69 comentarios en Hacker News",
+      "de": "182 Punkte · 69 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/slee-persis/GVS5H",
+     "src": "github.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50229599",
+     "title": {
+      "zh-Hans": "网络审查正在粉碎Indie网络漫画",
+      "zh-Hant": "網路審查正在粉碎Indie網路漫畫",
+      "en": "Online censorship is crushing indie webcomics",
+      "ja": "オンライン検閲は、インディーWebcomicsを破棄しています",
+      "ko": "온라인 검열은 indie webcomics 분쇄",
+      "ms": "Penyensoran online yang menghancurkan webcomics indie",
+      "vi": "Kiểm duyệt trực tuyến là phá hủy các mạng xã hội",
+      "fr": "La censure en ligne écrase les webcomics indépendants",
+      "es": "La censura en línea está aplastando a los webcomics indie",
+      "de": "Online-Zensur zerstört Indie-Webcomics"
+     },
+     "summary": {
+      "en": "From social media platforms to payment processors, new restrictions are making it harder for webcomic artists to exist",
+      "zh-Hans": "从社交媒体平台到支付处理器,新的限制使得网络漫画艺术家更难存在.",
+      "ja": "ソーシャルメディアプラットフォームから決済プロセッサまで、Webcomicアーティストにとって新しい制限が難しくなります。",
+      "ko": "소셜 미디어 플랫폼에서 결제 프로세서에 이르기까지 새로운 제한은 웹코닉 아티스트를 위해 더 열심히 만드는 것입니다.",
+      "ms": "Dari platform media sosial ke prosesor pembayaran, pembatasan baru membuat lebih sulit bagi seniman webcomic untuk ada",
+      "vi": "Từ nền tảng truyền thông xã hội cho đến bộ xử lý thanh toán, những hạn chế mới đang làm cho nó khó khăn hơn cho các nghệ sĩ mạng để tồn tại",
+      "fr": "Des plateformes de médias sociaux aux processeurs de paiement, de nouvelles restrictions rendent plus difficile l'existence d'artistes webcomiques",
+      "es": "Desde plataformas de redes sociales hasta procesadores de pagos, nuevas restricciones hacen más difícil que existan artistas webcomic",
+      "de": "Von Social-Media-Plattformen bis hin zu Zahlungsprozessoren erschweren neue Einschränkungen die Existenz von Webcomic-Künstlern",
+      "zh-Hant": "從社交媒體平臺到支付處理器,新的限制使得網路漫畫藝術家更難存在."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 120 分 · 102 条评论",
+      "zh-Hant": "Hacker News 120 分 · 102 則留言",
+      "en": "120 points · 102 comments on Hacker News",
+      "ja": "Hacker News 120 ポイント · コメント 102 件",
+      "ko": "Hacker News 120점 · 댓글 102개",
+      "ms": "120 mata · 102 komen di Hacker News",
+      "vi": "120 điểm · 102 bình luận trên Hacker News",
+      "fr": "120 points · 102 commentaires sur Hacker News",
+      "es": "120 puntos · 102 comentarios en Hacker News",
+      "de": "120 Punkte · 102 Kommentare auf Hacker News"
+     },
+     "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+     "src": "xtramagazine.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50235017",
+     "title": {
+      "zh-Hans": "为什么我是程序员",
+      "zh-Hant": "為什麼我是程式設計師",
+      "en": "Why I Am a Programmer",
+      "ja": "プログラマーとは",
+      "ko": "왜 프로그래머인가?",
+      "ms": "Mengapa Saya Menjadi Pemrogram",
+      "vi": "Tại sao tôi là người lập trình chương trình",
+      "fr": "Pourquoi je suis un programmeur",
+      "es": "¿Por qué soy un programador",
+      "de": "Warum ich ein Programmierer bin"
+     },
+     "summary": {
+      "en": "There they sit, the preschooler class encircling their mentor, the substitute teacher.",
+      "zh-Hans": "他们坐在那里,学龄前班 包围他们的导师,代课老师。",
+      "ja": "There they sit, the preschooler class encircling their mentor, the substitute teacher.",
+      "ko": "그들은 앉아, 유치원 클래스는 그들의 멘토를 격려, 대용품 교사.",
+      "ms": "Di sana mereka duduk, kelas prasekolah yang meliputi mentor mereka, guru pengganti.",
+      "vi": "Họ ngồi đó, lớp mẫu giáo bao vây người thầy của họ, người thầy thay thế.",
+      "fr": "Là, ils s'assoient, la classe d'âge préscolaire encercle leur mentor, le professeur suppléant.",
+      "es": "Allí se sientan, la clase preescolar rodeando a su mentor, el maestro sustituto.",
+      "de": "Da sitzen sie, die Vorschulklasse umgibt ihren Mentor, den Ersatzlehrer.",
+      "zh-Hant": "他們坐在那裡,學齡前班 包圍他們的導師,代課老師。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 110 分 · 33 条评论",
+      "zh-Hant": "Hacker News 110 分 · 33 則留言",
+      "en": "110 points · 33 comments on Hacker News",
+      "ja": "Hacker News 110 ポイント · コメント 33 件",
+      "ko": "Hacker News 110점 · 댓글 33개",
+      "ms": "110 mata · 33 komen di Hacker News",
+      "vi": "110 điểm · 33 bình luận trên Hacker News",
+      "fr": "110 points · 33 commentaires sur Hacker News",
+      "es": "110 puntos · 33 comentarios en Hacker News",
+      "de": "110 Punkte · 33 Kommentare auf Hacker News"
+     },
+     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "src": "alfie.wtf",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50231349",
+     "title": {
+      "zh-Hans": "Farol — 为批准人绘制的拉力请求风险图",
+      "zh-Hant": "Farol — 為批准人繪製的拉力請求風險圖",
+      "en": "Farol – A risk map of a pull request for the person who approves it",
+      "ja": "Farol – それを承認する人のためのプルリクエストのリスクマップ",
+      "ko": "Farol - 그것을 찬성하는 사람을위한 풀 요청의 위험지도",
+      "ms": "Farol – Peta risiko permintaan tarikan bagi orang yang menyetujuinya",
+      "vi": "Farol – Bản đồ rủi ro của một yêu cầu kéo cho người chấp nhận nó",
+      "fr": "Farol – Carte des risques d'une demande de tirage pour la personne qui l'approuve",
+      "es": "Farol – Un mapa de riesgo de una solicitud de tirada para la persona que lo aprueba",
+      "de": "Farol - Eine Risikokarte einer Pull-Anfrage für die Person, die sie genehmigt"
+     },
+     "summary": {
+      "en": "Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract…",
+      "zh-Hans": "了解合并拉力请求的风险,以及它住在哪里. 自由,开源的CLI和GitHub Action:在你的AI审查后,farol显示最有风险的文件,它们能达到什么,diff覆盖和合同...",
+      "ja": "プルリクエストをマージするリスクと、どこに住んでいるのかを知る。 自由でオープンソースのCLIとGitHubアクション:AIレビューの後、farolは、彼らが到達するリスクファイル、差分カバレッジと契約を示しています...",
+      "ko": "풀 요청을 merging의 위험을 알고, 어디 그것은 살고. 무료, 오픈 소스 CLI 및 GitHub 동작: 당신의 AI 검토 후, farol는 위험 파일, 그들이 도달하는 것, 디프 적용 및 계약...",
+      "ms": "Ketahui risiko penggabungan permintaan tarik, dan di mana itu tinggal. Free, open-source CLI dan GitHub Action: Setelah ulasan AI Anda, farol menunjukkan file paling berisiko, apa yang mereka capai, liputan diff dan kontrak...",
+      "vi": "Biết rủi ro của việc nhập một yêu cầu kéo, và nơi nó sống. miễn phí, mã nguồn mở và hành động GitHub: sau khi xem xét AI của bạn, Farol cho thấy những tập tin mạo hiểm nhất, những gì họ đạt được, che chắn và hợp đồng...",
+      "fr": "Connaître le risque de fusionner une demande de tirage, et où il vit. Free, open-source CLI et GitHub Action: après votre examen AI, Farol montre les fichiers les plus risqués, ce qu'ils atteignent, diff couverture et contrat...",
+      "es": "Conoce el riesgo de fusionar una solicitud de tirada, y donde vive. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract...",
+      "de": "Kennen sie das risiko, eine pull-anfrage zusammenzuführen, und wo sie lebt. Kostenlose Open-Source-CLI- und GitHub-Aktion: Nach Ihrer KI-Überprüfung zeigt Farol die riskantesten Dateien an, was sie erreichen, Abdeckung und Vertrag...",
+      "zh-Hant": "瞭解合併拉力請求的風險,以及它住在哪裡. 自由,開源的CLI和GitHub Action:在你的AI審查後,farol顯示最有風險的檔案,它們能達到什麼,diff覆蓋和合同..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 58 分 · 37 条评论",
+      "zh-Hant": "Hacker News 58 分 · 37 則留言",
+      "en": "58 points · 37 comments on Hacker News",
+      "ja": "Hacker News 58 ポイント · コメント 37 件",
+      "ko": "Hacker News 58점 · 댓글 37개",
+      "ms": "58 mata · 37 komen di Hacker News",
+      "vi": "58 điểm · 37 bình luận trên Hacker News",
+      "fr": "58 points · 37 commentaires sur Hacker News",
+      "es": "58 puntos · 37 comentarios en Hacker News",
+      "de": "58 Punkte · 37 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/winnin/farol",
+     "src": "github.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50230995",
+     "title": {
+      "zh-Hans": "想象一下AI的未来 被取缔意味着你现在在经济上是没用的",
+      "zh-Hant": "想象一下AI的未來 被取締意味著你現在在經濟上是沒用的",
+      "en": "Imagine an AI future where being banned means you are now economically useless",
+      "ja": "今経済的に使用しない手段を禁止されているAIの未来を想像してください",
+      "ko": "이제는 경제적으로 쓸모가 있는 AI 미래를 상상해보십시오.",
+      "ms": "Bayangkan sebuah masa depan AI di mana dilarang berarti Anda sekarang ekonomi tidak berguna",
+      "vi": "Hãy tưởng tượng một tương lai AI nơi bị cấm có nghĩa là bạn bây giờ là vô dụng kinh tế",
+      "fr": "Imaginez un avenir AI où être interdit signifie que vous êtes maintenant économiquement inutile",
+      "es": "Imagínese un futuro de IA donde ser prohibido significa que ahora es económicamente inútil",
+      "de": "Stellen Sie sich eine KI-Zukunft vor, in der das Verbot bedeutet, dass Sie jetzt wirtschaftlich nutzlos sind"
+     },
+     "summary": {
+      "en": "imagine a fully integrated AI future where being banned means you are now economically useless. everybody around you is a superhuman living in the future but you violated TOS and now are cut off.",
+      "zh-Hans": "想象一个完全融为一体的AI未来 被禁意味着你现在在经济上是没用的 你身边的每个人都是生活在未来的超人 但你违反了TOS 现在被切断了",
+      "ja": "禁止された手段である完全に統合されたAIの未来を想像して、今では経済的に役立っています。 未来に住むスーパーマンですが、TOSに違反し、今は切り離します。",
+      "ko": "imagine a fully integrated AI future where being banned means you are now economically useless. everybody around you is a superhuman living in the future but you violated TOS and now are cut off.",
+      "ms": "Bayangkan masa depan AI yang sepenuhnya terintegrasi di mana dilarang berarti Anda sekarang tidak berguna secara ekonomi. Semua orang di sekitar Anda adalah manusia super hidup di masa depan tapi Anda melanggar TOS dan sekarang terputus.",
+      "vi": "Hãy tưởng tượng một tương lai AI hoàn toàn tích hợp nơi bị cấm có nghĩa là bạn bây giờ là vô dụng kinh tế. Tất cả mọi người xung quanh bạn là một siêu nhân sống trong tương lai nhưng bạn đã vi phạm TOS và bây giờ bị cắt đứt.",
+      "fr": "imaginez un avenir d'IA totalement intégré où être interdit signifie que vous êtes maintenant économiquement inutile. Tout le monde autour de vous est un surhumain vivant dans le futur mais vous avez violé les TOS et maintenant sont coupés.",
+      "es": "imagínate un futuro de IA totalmente integrado donde ser prohibido significa que ahora eres económicamente inútil. Todo el mundo a tu alrededor es una vida sobrehumana en el futuro pero violaste a TOS y ahora estás cortado.",
+      "de": "Stellen Sie sich eine vollständig integrierte KI-Zukunft vor, in der das Verbot bedeutet, dass Sie jetzt wirtschaftlich nutzlos sind. Jeder um dich herum ist ein Übermensch, der in der Zukunft lebt, aber du hast TOS verletzt und bist jetzt abgeschnitten.",
+      "zh-Hant": "想象一個完全融為一體的AI未來 被禁意味著你現在在經濟上是沒用的 你身邊的每個人都是生活在未來的超人 但你違反了TOS 現在被切斷了"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 94 分 · 74 条评论",
+      "zh-Hant": "Hacker News 94 分 · 74 則留言",
+      "en": "94 points · 74 comments on Hacker News",
+      "ja": "Hacker News 94 ポイント · コメント 74 件",
+      "ko": "Hacker News 94점 · 댓글 74개",
+      "ms": "94 mata · 74 komen di Hacker News",
+      "vi": "94 điểm · 74 bình luận trên Hacker News",
+      "fr": "94 points · 74 commentaires sur Hacker News",
+      "es": "94 puntos · 74 comentarios en Hacker News",
+      "de": "94 Punkte · 74 Kommentare auf Hacker News"
+     },
+     "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+     "src": "twitter.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50233929",
+     "title": {
+      "zh-Hans": "我拒绝接受被审查的互联网 加入我在FOSDEM 27的行列",
+      "zh-Hant": "我拒絕接受被審查的網際網路 加入我在FOSDEM 27的行列",
+      "en": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "ja": "検閲されたインターネットはお断りします。 FOSDEM 27に参加",
+      "ko": "검열 된 인터넷을 허용하지 않습니다. FOSDEM 27에서 나 가입",
+      "ms": "Aku menolak menerima Internet yang disensor. Bein Me di FOSDEM 27",
+      "vi": "Tôi từ chối chấp nhận mạng Internet bị kiểm duyệt. Hãy tham gia với tôi tại FOSDEM 27",
+      "fr": "Je refuse d'accepter un Internet censuré. Rejoignez-moi au FOSDEM 27",
+      "es": "Me niego a aceptar un Internet censurado. Únete a mí en FOSDEM 27",
+      "de": "Ich weigere mich, ein zensiertes Internet zu akzeptieren. Begleiten Sie mich bei FOSDEM 27"
+     },
+     "summary": {
+      "en": "As one of the managers of the Digital Dissident Devroom, I invite you to be part of a conversation we cannot afford to ignore.",
+      "zh-Hans": "作为Digital Disaidt Devroom的经理之一,我邀请你参与我们无法忽视的对话。",
+      "ja": "Digital Dissident Devroomのマネージャーの1つとして、無視できない会話の一部であることを招待します。",
+      "ko": "Digital Dissident Devroom의 관리자 중 하나로서, 우리는 무시할 수없는 대화의 일부가 될 것을 초대합니다.",
+      "ms": "Saya mengundang Anda untuk menjadi bagian dari percakapan yang tidak bisa diabaikan.",
+      "vi": "Với tư cách là một trong những người quản lý của cơ quan chống đối kỹ thuật số, tôi mời các bạn tham gia một cuộc nói chuyện mà chúng tôi không thể bỏ qua.",
+      "fr": "En tant que gestionnaire du Digital Dissident Devroom, je vous invite à participer à une conversation que nous ne pouvons pas nous permettre d'ignorer.",
+      "es": "Como uno de los gerentes del Departamento de Desidentes Digitales, te invito a ser parte de una conversación que no podemos permitirnos ignorar.",
+      "de": "Als einer der Manager des Digital Dissident Devroom lade ich Sie ein, Teil eines Gesprächs zu sein, das wir nicht ignorieren können.",
+      "zh-Hant": "作為Digital Disaidt Devroom的經理之一,我邀請你參與我們無法忽視的對話。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 371 分 · 183 条评论",
+      "zh-Hant": "Hacker News 371 分 · 183 則留言",
+      "en": "371 points · 183 comments on Hacker News",
+      "ja": "Hacker News 371 ポイント · コメント 183 件",
+      "ko": "Hacker News 371점 · 댓글 183개",
+      "ms": "371 mata · 183 komen di Hacker News",
+      "vi": "371 điểm · 183 bình luận trên Hacker News",
+      "fr": "371 points · 183 commentaires sur Hacker News",
+      "es": "371 puntos · 183 comentarios en Hacker News",
+      "de": "371 Punkte · 183 Kommentare auf Hacker News"
+     },
+     "url": "https://talkweb.eu/openweb/4558/",
+     "src": "talkweb.eu",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50234232",
+     "title": {
+      "zh-Hans": "俄勒冈州警方正在充电 一个本地新闻外出 2.5M记录 关于一个警察",
+      "zh-Hant": "俄勒岡州警方正在充電 一個本地新聞外出 2.5M記錄 關於一個警察",
+      "en": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "ja": "オレゴン警察は、ローカルニュースアウトレットを充電しています $2.5M レコードについて ワンコプ",
+      "ko": "오레곤 경찰은 지역 뉴스 출구 $2.5M 기록에 대한 1 경찰",
+      "ms": "Polisi Oregon Mengisi Berita Lokal Outlet $ 2,5M untuk Catatan Tentang One Cop",
+      "vi": "Cảnh sát Oregon đang nạp điện một tờ Tin tức địa phương 2.5M cho hồ sơ về một cảnh sát",
+      "fr": "La police de l'Oregon charge un communiqué de presse local 2,5 M$ pour les dossiers sur un flic",
+      "es": "Policía de Oregon están cargando una salida de noticias locales $2.5M para los registros sobre un policía",
+      "de": "Oregon Polizei lädt ein lokales Nachrichten-Outlet $ 2.5M für Aufzeichnungen über einen Cop"
+     },
+     "summary": {
+      "en": "Eugene-based Double Sided Media requested police officer Justin Peckels’s records. The city slapped the publication with an exorbitant fee.",
+      "zh-Hans": "以尤金为基地的\"双相\"(Double Sided Media)要求警察贾斯汀·佩克尔斯的唱片. 市政府以高额费用扇了出版物的耳光。",
+      "ja": "ユージンベースの両面メディアは、警察の役員Justin Peckelsの記録を要求しました。 市は、著名な手数料で出版物をスラップしました。",
+      "ko": "Eugene 기반 Double Sided Media는 경찰관 Justin Peckels의 기록을 요청했습니다. 이 도시는 배부금으로 출판을 하였습니다.",
+      "ms": "Media Double Sided berbasis Eugene meminta catatan petugas polisi Justin Peckels. Kota ini memberikan publikasi dengan biaya yang berlebihan.",
+      "vi": "Bản báo cáo của cảnh sát Justin Peckels. Thành phố đã tát vào tờ báo với một khoản phí cắt cổ.",
+      "fr": "Des médias à double face ont demandé des dossiers à l'agent de police Justin Peckels. La ville a giflé la publication avec des frais exorbitants.",
+      "es": "Eugene-based Double Sided Media requested police officer Justin Peckels’s records. La ciudad abofeteó la publicación con un cargo exorbitante.",
+      "de": "Eugene-basierte double sided media bat polizeibeamten justin peckels aufzeichnungen. Die Stadt schlug die Publikation mit einer exorbitanten Gebühr.",
+      "zh-Hant": "以尤金為基地的\"雙相\"(Double Sided Media)要求警察賈斯汀·佩克爾斯的唱片. 市政府以高額費用扇了出版物的耳光。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 355 分 · 86 条评论",
+      "zh-Hant": "Hacker News 355 分 · 86 則留言",
+      "en": "355 points · 86 comments on Hacker News",
+      "ja": "Hacker News 355 ポイント · コメント 86 件",
+      "ko": "Hacker News 355점 · 댓글 86개",
+      "ms": "355 mata · 86 komen di Hacker News",
+      "vi": "355 điểm · 86 bình luận trên Hacker News",
+      "fr": "355 points · 86 commentaires sur Hacker News",
+      "es": "355 puntos · 86 comentarios en Hacker News",
+      "de": "355 Punkte · 86 Kommentare auf Hacker News"
+     },
+     "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+     "src": "theintercept.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50229587",
+     "title": {
+      "zh-Hans": "Meta 忽略巴西法院关于终结博尔索纳罗偏好的命令",
+      "zh-Hant": "Meta 忽略巴西法院關於終結博爾索納羅偏好的命令",
+      "en": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "ja": "Meta Ignore ブラジル コート オーダー へ 終了 Bolsonaro お気に入り主義",
+      "ko": "Meta Ignores 브라질 법원 순서 에 End Bolsonaro Favoritism",
+      "ms": "♪ Meta Mengabaikan Ordo Pengadilan Brasil untuk Mengakhiri Favoritisme Bolsonaro ♪",
+      "vi": "Siêu bỏ qua lệnh của Tòa án Brazil chấm dứt sự ưu ái của Bolsonaro",
+      "fr": "Meta Ignores ordonnance du tribunal brésilien de mettre fin au bolsonaro favoritisme",
+      "es": "Meta Ignora la orden judicial brasileña para poner fin al favoritismo bolsonaro",
+      "de": "Meta ignoriert brasilianischen Gerichtsbeschluss, Bolsonaro Favoritismus zu beenden"
+     },
+     "summary": {
+      "en": "Sleeping Giants and CTRL-Z sent evidence to Brazil’s Superior Electoral Court today showing Meta AI continues to spontaneously link Lula to negative content",
+      "zh-Hans": "沉睡巨人和CTRL-Z今天向巴西高级选举法院发送的证据表明,Meta AI继续自发地将卢拉与负面内容联系起来.",
+      "ja": "眠る巨人と CTRL-Z はブラジルの優れた選挙裁判所に証拠を送られた今日のメタAIは、悪意のあるコンテンツにローラをリンクし続けています",
+      "ko": "자이언트와 CTRL-Z는 브라질의 뛰어난 선거 법원에 대한 증거를 보냈습니다. 오늘 Meta AI를 보여주고있는 것은 부정적인 내용에 Lula를 연결하기 위해 계속됩니다.",
+      "ms": "Raksasa Tidur dan CTRL-Z mengirim bukti ke Pengadilan Elektoral Superior Brasil hari ini menunjukkan Meta AI terus secara spontan menghubungkan Lula dengan konten negatif",
+      "vi": "Người khổng lồ đang ngủ và CTRL-Z đã gửi bằng chứng đến Tòa án Tiên lương trên của Brazil ngày nay cho thấy Meta Al tiếp tục kết nối Lula với nội dung tiêu cực",
+      "fr": "Giants endormis et CTRL-Z ont envoyé des preuves à la Cour électorale supérieure du Brésil aujourd'hui montrant que Meta AI continue de relier spontanément Lula au contenu négatif",
+      "es": "Gigantes Durmientes y CTRL-Z enviaron evidencia al Tribunal Superior Electoral de Brasil hoy mostrando Meta AI sigue vinculando espontáneamente a Lula con contenido negativo",
+      "de": "Sleeping Giants und CTRL-Z haben heute Beweise an Brasiliens Oberstes Wahlgericht geschickt, die zeigen, dass Meta AI Lula weiterhin spontan mit negativen Inhalten verknüpft",
+      "zh-Hant": "沉睡巨人和CTRL-Z今天向巴西高階選舉法院傳送的證據表明,Meta AI繼續自發地將盧拉與負面內容聯絡起來."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 467 分 · 324 条评论",
+      "zh-Hant": "Hacker News 467 分 · 324 則留言",
+      "en": "467 points · 324 comments on Hacker News",
+      "ja": "Hacker News 467 ポイント · コメント 324 件",
+      "ko": "Hacker News 467점 · 댓글 324개",
+      "ms": "467 mata · 324 komen di Hacker News",
+      "vi": "467 điểm · 324 bình luận trên Hacker News",
+      "fr": "467 points · 324 commentaires sur Hacker News",
+      "es": "467 puntos · 324 comentarios en Hacker News",
+      "de": "467 Punkte · 324 Kommentare auf Hacker News"
+     },
+     "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+     "src": "panamericandispatch.org",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50236081",
+     "title": {
+      "zh-Hans": "塞尔维亚的武契克承认选举失败,",
+      "zh-Hant": "塞爾維亞的武契克承認選舉失敗,",
+      "en": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "ja": "学生運動のための歴史的勝利でセルビアの航海争議選挙敗北",
+      "ko": "세르비아의 Vucic concedes 선거는 학생 운동에 대한 역사적인 승리에서 패배",
+      "ms": "vucic vucic vucicedes pemilu kekalahan dalam kemenangan bersejarah untuk gerakan mahasiswa",
+      "vi": "Vucic của Serbia thừa nhận thất bại trong chiến thắng lịch sử cho phong trào sinh viên",
+      "fr": "Vucic de Serbie concède la défaite électorale dans la victoire historique pour le mouvement étudiant",
+      "es": "Vucic reconoce la derrota electoral en la victoria histórica para el movimiento estudiantil",
+      "de": "Serbiens Vucic räumt Wahlniederlage in historischem Sieg für Studentenbewegung ein"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 reuters.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 reuters.com。",
+      "en": "Shared on Hacker News; original at reuters.com.",
+      "ja": "Hacker News で共有されたリンク。元記事は reuters.com にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reuters.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di reuters.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại reuters.com.",
+      "fr": "Partagé sur Hacker News ; original sur reuters.com.",
+      "es": "Compartido en Hacker News; original en reuters.com.",
+      "de": "Geteilt auf Hacker News; Original auf reuters.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 192 分 · 94 条评论",
+      "zh-Hant": "Hacker News 192 分 · 94 則留言",
+      "en": "192 points · 94 comments on Hacker News",
+      "ja": "Hacker News 192 ポイント · コメント 94 件",
+      "ko": "Hacker News 192점 · 댓글 94개",
+      "ms": "192 mata · 94 komen di Hacker News",
+      "vi": "192 điểm · 94 bình luận trên Hacker News",
+      "fr": "192 points · 94 commentaires sur Hacker News",
+      "es": "192 puntos · 94 comentarios en Hacker News",
+      "de": "192 Punkte · 94 Kommentare auf Hacker News"
+     },
+     "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+     "src": "reuters.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50232312",
+     "title": {
+      "zh-Hans": "我把员工安置在S&P500市场泡沫里",
+      "zh-Hant": "我把員工安置在S&P500市場泡沫裡",
+      "en": "I put employees inside S&P 500 market-cap bubbles",
+      "ja": "S&P 500 のマーケットキャップ バブルに従業員を入れる",
+      "ko": "S & P 500 시장 캡 버블 내부 직원을 넣었습니다.",
+      "ms": "Saya menempatkan karyawan di S&P 500 gelembung pasar-kap",
+      "vi": "Tôi đặt nhân viên vào trong bong bóng S&P 500 thị trường-cap",
+      "fr": "J'ai mis des employés à l'intérieur de S&P 500 bulles de plafond du marché",
+      "es": "Puse empleados dentro de las burbujas del mercado S plagaP 500",
+      "de": "Ich stelle Mitarbeiter in S & P 500 Market-Cap-Blasen"
+     },
+     "summary": {
+      "en": "S&P 500 companies as bubbles sized by market cap, filled with one stick figure per 10,000 employees.",
+      "zh-Hans": "S&P 500公司是按市场上限大小的泡沫公司,每一万名雇员中就有一个棒子。",
+      "ja": "S&P 500は、10,000人の従業員に1つの棒状を充填し、市場キャップによって大きさで分類される泡として企業を販売します。",
+      "ko": "S&P 500 기업은 10,000명의 직원 당 1개의 지팡이 숫자로 채워진 시장 모자에 의해 거품으로 치수를 잽니다.",
+      "ms": "perusahaan-perusahaan S&P 500 sebagai buih yang berukuran sebesar market cap, diisi dengan satu stik figure per 10.000 karyawan.",
+      "vi": "S&P 500 công ty như bong bóng kích thước bằng đầu giá thị trường, lấp đầy 1 cây gậy trên 10.000 nhân viên.",
+      "fr": "500 entreprises S&P comme bulles de taille par plafond de marché, remplies d'un chiffre de bâton pour 10 000 employés.",
+      "es": "SplP 500 compañías como burbujas tamaño por gorra de mercado, llenas de una figura de palo por 10.000 empleados.",
+      "de": "S & P 500 Unternehmen als Blasen nach Marktkapitalisierung, gefüllt mit einer Strichzahl pro 10.000 Mitarbeiter.",
+      "zh-Hant": "S&P 500公司是按市場上限大小的泡沫公司,每一萬名僱員中就有一個棒子。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 164 分 · 47 条评论",
+      "zh-Hant": "Hacker News 164 分 · 47 則留言",
+      "en": "164 points · 47 comments on Hacker News",
+      "ja": "Hacker News 164 ポイント · コメント 47 件",
+      "ko": "Hacker News 164점 · 댓글 47개",
+      "ms": "164 mata · 47 komen di Hacker News",
+      "vi": "164 điểm · 47 bình luận trên Hacker News",
+      "fr": "164 points · 47 commentaires sur Hacker News",
+      "es": "164 puntos · 47 comentarios en Hacker News",
+      "de": "164 Punkte · 47 Kommentare auf Hacker News"
+     },
+     "url": "https://bigwhalehunting.com/workforce/",
+     "src": "bigwhalehunting.com",
+     "date": "2026-10-25",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1431851693",
+     "title": {
+      "zh-Hans": "rddmwmddr/android-ad-cleaner",
+      "zh-Hant": "rddmwmddr/android-ad-cleaner",
+      "en": "rddmwmddr/android-ad-cleaner",
+      "ja": "rddmwmddr/android-ad-cleaner",
+      "ko": "rddmwmddr/android-ad-cleaner",
+      "ms": "rddmwmddr/android-ad-cleaner",
+      "vi": "rddmwmddr/android-ad-cleaner",
+      "fr": "rddmwmddr/android-ad-cleaner",
+      "es": "rddmwmddr/android-ad-cleaner",
+      "de": "rddmwmddr/android-ad-cleaner"
+     },
+     "summary": {
+      "zh-Hans": "根爱滋",
+      "zh-Hant": "根愛滋",
+      "en": "root AI",
+      "ja": "ルートAI",
+      "ko": "루트 AI",
+      "ms": "Akar AI",
+      "vi": "AI gốc",
+      "fr": "IA racine",
+      "es": "root AI",
+      "de": "Wurzel-AI"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 784 星",
+      "zh-Hant": "GitHub 784 星",
+      "en": "784 stars on GitHub",
+      "ja": "GitHub スター 784",
+      "ko": "GitHub 스타 784개",
+      "ms": "784 bintang di GitHub",
+      "vi": "784 sao trên GitHub",
+      "fr": "784 étoiles sur GitHub",
+      "es": "784 estrellas en GitHub",
+      "de": "784 Sterne auf GitHub"
+     },
+     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+     "src": "github.com",
+     "date": "2026-10-24",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-25",
    "path": "digest/2026-10-25/",
