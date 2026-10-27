@@ -1,0 +1,290 @@
+{
+ "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Anthropic 向 SEC 提交 S-1 上市招股书",
+    "summary": "Anthropic 正式向美国证券交易委员会提交 S-1 文件，首次公开收入、成本等财务数据，HN 当日讨论最热。"
+   },
+   "ja": {
+    "title": "Anthropic が SEC に S-1（上場申請書類）を提出",
+    "summary": "Anthropic が米証券取引委員会に S-1 を提出し、売上やコストなどの財務情報を初めて公開しました。"
+   },
+   "ko": {
+    "title": "Anthropic, SEC에 S-1 상장 신청서 제출",
+    "summary": "Anthropic이 미국 증권거래위원회에 S-1을 제출하며 매출과 비용 등 재무 정보를 처음 공개했습니다."
+   },
+   "ms": {
+    "title": "Anthropic memfailkan S-1 untuk IPO kepada SEC",
+    "summary": "Anthropic memfailkan dokumen S-1 kepada SEC AS dan buat pertama kali mendedahkan data kewangan seperti hasil dan kos."
+   },
+   "vi": {
+    "title": "Anthropic nộp hồ sơ S-1 lên SEC để IPO",
+    "summary": "Anthropic đã nộp hồ sơ S-1 lên SEC Mỹ, lần đầu công bố số liệu tài chính như doanh thu và chi phí."
+   },
+   "fr": {
+    "title": "Anthropic dépose son S-1 auprès de la SEC",
+    "summary": "Anthropic a déposé son document S-1 auprès de la SEC américaine et publie pour la première fois ses chiffres financiers."
+   },
+   "es": {
+    "title": "Anthropic presenta su S-1 ante la SEC",
+    "summary": "Anthropic presentó el formulario S-1 ante la SEC de EE. UU. y publica por primera vez sus datos financieros."
+   },
+   "de": {
+    "title": "Anthropic reicht S-1 bei der SEC ein",
+    "summary": "Anthropic hat den Börsenprospekt S-1 bei der US-Börsenaufsicht SEC eingereicht und legt erstmals Finanzzahlen offen."
+   }
+  }
+ },
+ "https://openai.com/index/introducing-gpt-6-1-terra/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "OpenAI 发布 GPT-6.1 Terra",
+    "summary": "OpenAI 新模型 GPT-6.1 Terra 主打日常 Agent 编程和终端工作，比 GPT-6.1 Sol 便宜，当天已在 GitHub Copilot 全面可用。"
+   },
+   "ja": {
+    "title": "OpenAI が GPT-6.1 Terra を発表",
+    "summary": "日常的なエージェント型コーディングとターミナル作業向けで、GPT-6.1 Sol より低コスト。GitHub Copilot でも即日提供されました。"
+   },
+   "ko": {
+    "title": "OpenAI, GPT-6.1 Terra 공개",
+    "summary": "일상적인 에이전트 코딩과 터미널 작업용 모델로 GPT-6.1 Sol보다 저렴하며, 당일 GitHub Copilot에서도 정식 제공됩니다."
+   },
+   "ms": {
+    "title": "OpenAI melancarkan GPT-6.1 Terra",
+    "summary": "Model untuk pengekodan agentik harian dan kerja terminal, lebih murah daripada GPT-6.1 Sol, dan kini tersedia dalam GitHub Copilot."
+   },
+   "vi": {
+    "title": "OpenAI ra mắt GPT-6.1 Terra",
+    "summary": "Mô hình cho lập trình agent hằng ngày và làm việc trên terminal, rẻ hơn GPT-6.1 Sol, đã có trong GitHub Copilot."
+   },
+   "fr": {
+    "title": "OpenAI lance GPT-6.1 Terra",
+    "summary": "Un modèle pour le code agentique et le terminal au quotidien, moins cher que GPT-6.1 Sol, déjà disponible dans GitHub Copilot."
+   },
+   "es": {
+    "title": "OpenAI lanza GPT-6.1 Terra",
+    "summary": "Un modelo para programación con agentes y trabajo en terminal, más barato que GPT-6.1 Sol y ya disponible en GitHub Copilot."
+   },
+   "de": {
+    "title": "OpenAI stellt GPT-6.1 Terra vor",
+    "summary": "Ein Modell für alltägliches agentisches Programmieren und Terminalarbeit, günstiger als GPT-6.1 Sol und bereits in GitHub Copilot verfügbar."
+   }
+  }
+ },
+ "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640": {
+  "loc": {
+   "zh-Hans": {
+    "title": "IBM CEO：开放权重模型在本地部署已经又好又便宜",
+    "summary": "用两三个机柜、十分之一的价格拿到九成性能，IBM CEO 认为企业很难拒绝本地跑开放权重模型。"
+   },
+   "ja": {
+    "title": "IBM CEO「オープンウェイトモデルはオンプレで十分よく、しかも安い」",
+    "summary": "2〜3 ラック、1 割の価格で 9 割の性能が得られるなら断りにくい、と IBM の CEO は語りました。"
+   },
+   "ko": {
+    "title": "IBM CEO \"오픈 웨이트 모델, 이제 온프레미스에서 좋고 저렴하다\"",
+    "summary": "랙 두세 개로 10분의 1 가격에 90% 성능을 낸다면 거부하기 어렵다고 IBM CEO가 말했습니다."
+   },
+   "ms": {
+    "title": "CEO IBM: model open-weight kini bagus dan murah untuk on-prem",
+    "summary": "90 peratus prestasi pada 10 peratus harga, dalam dua atau tiga rak sahaja, sukar ditandingi kata CEO IBM."
+   },
+   "vi": {
+    "title": "CEO IBM: mô hình open-weight giờ đã tốt và rẻ khi chạy tại chỗ",
+    "summary": "90% hiệu năng với 10% chi phí, chỉ trong hai ba tủ rack, theo CEO IBM là khó cưỡng lại."
+   },
+   "fr": {
+    "title": "Le PDG d'IBM : les modèles open-weight sont désormais bons et bon marché sur site",
+    "summary": "90 % des performances pour 10 % du prix, dans deux ou trois baies : difficile à battre, selon le PDG d'IBM."
+   },
+   "es": {
+    "title": "El CEO de IBM: los modelos de pesos abiertos ya son buenos y baratos en local",
+    "summary": "El 90 % del rendimiento por el 10 % del precio, en dos o tres racks, es difícil de superar, según el CEO de IBM."
+   },
+   "de": {
+    "title": "IBM-Chef: Open-Weight-Modelle sind jetzt gut und günstig im eigenen Rechenzentrum",
+    "summary": "90 Prozent der Leistung zu zehn Prozent des Preises in zwei, drei Racks sind kaum zu schlagen, sagt der IBM-Chef."
+   }
+  }
+ },
+ "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Sebastian Raschka 推出从零构建推理模型的视频课",
+    "summary": "11 小时以上的编码视频，用 Python 和 PyTorch 讲评测、推理时扩展、强化学习和蒸馏。"
+   },
+   "ja": {
+    "title": "Sebastian Raschka のゼロから作る推論モデル動画講座",
+    "summary": "評価、推論時スケーリング、強化学習、蒸留を Python と PyTorch で解説する 11 時間超のコーディング動画です。"
+   },
+   "ko": {
+    "title": "Sebastian Raschka의 추론 모델 밑바닥부터 만들기 영상 강의",
+    "summary": "평가, 추론 시 스케일링, 강화학습, 증류를 Python과 PyTorch로 다루는 11시간 이상의 코딩 영상입니다."
+   },
+   "ms": {
+    "title": "Kursus video Sebastian Raschka membina model penaakulan dari kosong",
+    "summary": "Lebih 11 jam video pengekodan tentang penilaian, penskalaan masa inferens, pembelajaran pengukuhan dan distilasi dengan Python dan PyTorch."
+   },
+   "vi": {
+    "title": "Khóa video của Sebastian Raschka: tự xây mô hình suy luận từ đầu",
+    "summary": "Hơn 11 giờ video lập trình về đánh giá, mở rộng lúc suy luận, học tăng cường và chưng cất, dùng Python và PyTorch."
+   },
+   "fr": {
+    "title": "Le cours vidéo de Sebastian Raschka pour construire des modèles de raisonnement",
+    "summary": "Plus de 11 heures de vidéos de code sur l'évaluation, le scaling à l'inférence, l'apprentissage par renforcement et la distillation, en Python et PyTorch."
+   },
+   "es": {
+    "title": "El curso en vídeo de Sebastian Raschka para construir modelos de razonamiento",
+    "summary": "Más de 11 horas de vídeos de código sobre evaluación, escalado en inferencia, aprendizaje por refuerzo y destilación con Python y PyTorch."
+   },
+   "de": {
+    "title": "Sebastian Raschkas Videokurs: Reasoning-Modelle von Grund auf bauen",
+    "summary": "Über 11 Stunden Coding-Videos zu Evaluation, Inference-Time-Scaling, Reinforcement Learning und Distillation mit Python und PyTorch."
+   }
+  }
+ },
+ "https://www.brown.edu/news/2026-10-26/ai-data-workers": {
+  "loc": {
+   "zh-Hans": {
+    "title": "布朗大学学生绘制支撑 AI 的全球隐形劳动力地图",
+    "summary": "Cunyan Ma 的交互工具揭示了 AI 算法背后，全球南方数据标注工人被低薪雇佣的权力结构。"
+   },
+   "ja": {
+    "title": "ブラウン大学の学生が AI を支える見えない世界の労働を地図化",
+    "summary": "Cunyan Ma のインタラクティブツールは、グローバルサウスのデータ作業者から低賃金労働を引き出す構造を可視化します。"
+   },
+   "ko": {
+    "title": "브라운대 학생, AI를 떠받치는 숨은 글로벌 노동을 지도로",
+    "summary": "Cunyan Ma의 인터랙티브 도구는 글로벌 사우스 데이터 노동자의 저임금 노동 구조를 드러냅니다."
+   },
+   "ms": {
+    "title": "Pelajar Brown memetakan buruh global tersembunyi di sebalik AI",
+    "summary": "Alat interaktif Cunyan Ma mendedahkan struktur kuasa yang memerah buruh bergaji rendah pekerja data di Selatan Global."
+   },
+   "vi": {
+    "title": "Sinh viên Brown lập bản đồ lao động toàn cầu ẩn sau AI",
+    "summary": "Công cụ tương tác của Cunyan Ma cho thấy cấu trúc quyền lực khai thác lao động lương thấp của người làm dữ liệu ở Nam bán cầu."
+   },
+   "fr": {
+    "title": "Une étudiante de Brown cartographie le travail invisible qui fait tourner l'IA",
+    "summary": "L'outil interactif de Cunyan Ma montre comment le travail mal payé des annotateurs du Sud global fait fonctionner les algorithmes."
+   },
+   "es": {
+    "title": "Una estudiante de Brown mapea el trabajo oculto que mueve la IA",
+    "summary": "La herramienta interactiva de Cunyan Ma expone la estructura que extrae trabajo mal pagado de los trabajadores de datos del Sur global."
+   },
+   "de": {
+    "title": "Brown-Studentin kartiert die versteckte globale Arbeit hinter KI",
+    "summary": "Cunyan Mas interaktives Tool zeigt, wie schlecht bezahlte Datenarbeit im Globalen Süden alltägliche KI-Algorithmen am Laufen hält."
+   }
+  }
+ },
+ "https://github.com/KrushnaVardhanReddy/PaperPilot": {
+  "loc": {
+   "zh-Hans": {
+    "title": "PaperPilot：零云端、纯 Rust 的 PDF 引擎，支持 WASM 和 MCP",
+    "summary": "一个在本地运行的文档 AI 助手，PDF 处理全部在本机完成。"
+   },
+   "ja": {
+    "title": "PaperPilot：クラウド不要・純 Rust 製の PDF エンジン（WASM と MCP 対応）",
+    "summary": "ローカルで動くドキュメント向け AI アシスタントです。"
+   },
+   "ko": {
+    "title": "PaperPilot: 클라우드 없는 순수 Rust PDF 엔진, WASM·MCP 지원",
+    "summary": "로컬에서 동작하는 문서용 AI 코파일럿입니다."
+   },
+   "ms": {
+    "title": "PaperPilot: enjin PDF Rust tulen tanpa awan, dengan WASM dan MCP",
+    "summary": "Pembantu AI tempatan untuk dokumen anda."
+   },
+   "vi": {
+    "title": "PaperPilot: engine PDF thuần Rust, không cần đám mây, hỗ trợ WASM và MCP",
+    "summary": "Trợ lý AI chạy cục bộ cho tài liệu của bạn."
+   },
+   "fr": {
+    "title": "PaperPilot : moteur PDF 100 % Rust sans cloud, avec WASM et MCP",
+    "summary": "Votre copilote IA local pour les documents."
+   },
+   "es": {
+    "title": "PaperPilot: motor PDF en Rust puro, sin nube, con WASM y MCP",
+    "summary": "Tu copiloto de IA local para documentos."
+   },
+   "de": {
+    "title": "PaperPilot: PDF-Engine in reinem Rust ohne Cloud, mit WASM und MCP",
+    "summary": "Ihr lokaler KI-Copilot für Dokumente."
+   }
+  }
+ },
+ "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Cohere：一款热门开放权重模型存在令人担忧的行为",
+    "summary": "Cohere 发现不可信的开放权重模型即便自托管也可能泄露数据，并给出企业的防护建议。"
+   },
+   "ja": {
+    "title": "Cohere：人気のオープンウェイトモデルに懸念すべき挙動",
+    "summary": "信頼できないオープンウェイトモデルは自前でホストしてもデータを漏らす可能性がある、と Cohere が報告しました。"
+   },
+   "ko": {
+    "title": "Cohere: 인기 오픈 웨이트 모델의 우려스러운 동작",
+    "summary": "신뢰할 수 없는 오픈 웨이트 모델은 자체 호스팅해도 데이터를 유출할 수 있다고 Cohere가 경고했습니다."
+   },
+   "ms": {
+    "title": "Cohere: tingkah laku membimbangkan daripada model open-weight popular",
+    "summary": "Cohere mendapati model open-weight yang tidak dipercayai boleh membocorkan data walaupun dihoskan sendiri."
+   },
+   "vi": {
+    "title": "Cohere: hành vi đáng lo ngại từ một mô hình open-weight phổ biến",
+    "summary": "Cohere cho biết mô hình open-weight không đáng tin có thể rò rỉ dữ liệu ngay cả khi tự host."
+   },
+   "fr": {
+    "title": "Cohere : un comportement inquiétant chez un modèle open-weight populaire",
+    "summary": "Cohere montre qu'un modèle open-weight non fiable peut divulguer des données, même auto-hébergé."
+   },
+   "es": {
+    "title": "Cohere: un comportamiento preocupante en un popular modelo de pesos abiertos",
+    "summary": "Cohere advierte que un modelo de pesos abiertos no confiable puede filtrar datos incluso alojado en casa."
+   },
+   "de": {
+    "title": "Cohere: bedenkliches Verhalten eines beliebten Open-Weight-Modells",
+    "summary": "Cohere zeigt, dass nicht vertrauenswürdige Open-Weight-Modelle selbst gehostet Daten abfließen lassen können."
+   }
+  }
+ },
+ "https://github.com/notaroomba/keybytes": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Keybytes：真正模块化的键盘",
+    "summary": "一个可以自由拼装模块的开源键盘项目。"
+   },
+   "ja": {
+    "title": "Keybytes：本当にモジュール式のキーボード",
+    "summary": "モジュールを自由に組み替えられるオープンソースのキーボードです。"
+   },
+   "ko": {
+    "title": "Keybytes: 진정한 모듈형 키보드",
+    "summary": "모듈을 자유롭게 조합할 수 있는 오픈소스 키보드 프로젝트입니다."
+   },
+   "ms": {
+    "title": "Keybytes: papan kekunci yang benar-benar modular",
+    "summary": "Projek papan kekunci sumber terbuka yang modulnya boleh disusun semula."
+   },
+   "vi": {
+    "title": "Keybytes: bàn phím mô-đun thực sự",
+    "summary": "Dự án bàn phím mã nguồn mở có thể ghép các mô-đun tùy ý."
+   },
+   "fr": {
+    "title": "Keybytes : un clavier vraiment modulaire",
+    "summary": "Un clavier open source dont les modules s'assemblent librement."
+   },
+   "es": {
+    "title": "Keybytes: un teclado realmente modular",
+    "summary": "Un teclado de código abierto cuyos módulos se combinan libremente."
+   },
+   "de": {
+    "title": "Keybytes: eine wirklich modulare Tastatur",
+    "summary": "Eine Open-Source-Tastatur, deren Module sich frei kombinieren lassen."
+   }
+  }
+ }
+}
