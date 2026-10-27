@@ -49,28 +49,28 @@
     {
      "id": "hn-50242939",
      "title": {
-      "zh-Hans": "人类S-1",
-      "zh-Hant": "人類S-1",
+      "zh-Hans": "Anthropic 向 SEC 提交 S-1 上市招股书",
+      "zh-Hant": "Anthropic 向 SEC 提交 S-1 上市招股書",
       "en": "Anthropic S-1",
-      "ja": "Anthropic S-1",
-      "ko": "안토픽 S-1",
-      "ms": "Antropik S-1",
-      "vi": "Name",
-      "fr": "anthropique S-1",
-      "es": "Antrópico S-1",
-      "de": "Anthropische S-1"
+      "ja": "Anthropic が SEC に S-1（上場申請書類）を提出",
+      "ko": "Anthropic, SEC에 S-1 상장 신청서 제출",
+      "ms": "Anthropic memfailkan S-1 untuk IPO kepada SEC",
+      "vi": "Anthropic nộp hồ sơ S-1 lên SEC để IPO",
+      "fr": "Anthropic dépose son S-1 auprès de la SEC",
+      "es": "Anthropic presenta su S-1 ante la SEC",
+      "de": "Anthropic reicht S-1 bei der SEC ein"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 sec.gov。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 sec.gov。",
+      "zh-Hans": "Anthropic 正式向美国证券交易委员会提交 S-1 文件，首次公开收入、成本等财务数据，HN 当日讨论最热。",
+      "zh-Hant": "Anthropic 正式向美國證券交易委員會提交 S-1 檔案，首次公開收入、成本等財務資料，HN 當日討論最熱。",
       "en": "Shared on Hacker News; original at sec.gov.",
-      "ja": "Hacker News で共有されたリンク。元記事は sec.gov にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 sec.gov에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di sec.gov.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại sec.gov.",
-      "fr": "Partagé sur Hacker News ; original sur sec.gov.",
-      "es": "Compartido en Hacker News; original en sec.gov.",
-      "de": "Geteilt auf Hacker News; Original auf sec.gov."
+      "ja": "Anthropic が米証券取引委員会に S-1 を提出し、売上やコストなどの財務情報を初めて公開しました。",
+      "ko": "Anthropic이 미국 증권거래위원회에 S-1을 제출하며 매출과 비용 등 재무 정보를 처음 공개했습니다.",
+      "ms": "Anthropic memfailkan dokumen S-1 kepada SEC AS dan buat pertama kali mendedahkan data kewangan seperti hasil dan kos.",
+      "vi": "Anthropic đã nộp hồ sơ S-1 lên SEC Mỹ, lần đầu công bố số liệu tài chính như doanh thu và chi phí.",
+      "fr": "Anthropic a déposé son document S-1 auprès de la SEC américaine et publie pour la première fois ses chiffres financiers.",
+      "es": "Anthropic presentó el formulario S-1 ante la SEC de EE. UU. y publica por primera vez sus datos financieros.",
+      "de": "Anthropic hat den Börsenprospekt S-1 bei der US-Börsenaufsicht SEC eingereicht und legt erstmals Finanzzahlen offen."
      },
      "fact": {
       "zh-Hans": "Hacker News 1360 分 · 1342 条评论",
@@ -90,44 +90,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50242939"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50248124",
      "title": {
-      "zh-Hans": "GPT-6.1 地表线",
-      "zh-Hant": "GPT-6.1 地表線",
+      "zh-Hans": "OpenAI 发布 GPT-6.1 Terra",
+      "zh-Hant": "OpenAI 釋出 GPT-6.1 Terra",
       "en": "GPT-6.1 Terra",
-      "ja": "GPT-6.1 テラ",
-      "ko": "GPT-6.1 테라",
-      "ms": "Zara GPT-6.1",
-      "vi": "GPT-6.1 Terra",
-      "fr": "GPT-6.1 Terra",
-      "es": "GPT-6.1 Terra",
-      "de": "GPT-6.1 Terra"
+      "ja": "OpenAI が GPT-6.1 Terra を発表",
+      "ko": "OpenAI, GPT-6.1 Terra 공개",
+      "ms": "OpenAI melancarkan GPT-6.1 Terra",
+      "vi": "OpenAI ra mắt GPT-6.1 Terra",
+      "fr": "OpenAI lance GPT-6.1 Terra",
+      "es": "OpenAI lanza GPT-6.1 Terra",
+      "de": "OpenAI stellt GPT-6.1 Terra vor"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 openai.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 openai.com。",
+      "zh-Hans": "OpenAI 新模型 GPT-6.1 Terra 主打日常 Agent 编程和终端工作，比 GPT-6.1 Sol 便宜，当天已在 GitHub Copilot 全面可用。",
+      "zh-Hant": "OpenAI 新模型 GPT-6.1 Terra 主打日常 Agent 程式設計和終端工作，比 GPT-6.1 Sol 便宜，當天已在 GitHub Copilot 全面可用。",
       "en": "Shared on Hacker News; original at openai.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は openai.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 openai.com에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di openai.com.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại openai.com.",
-      "fr": "Partagé sur Hacker News ; original sur openai.com.",
-      "es": "Compartido en Hacker News; original en openai.com.",
-      "de": "Geteilt auf Hacker News; Original auf openai.com."
+      "ja": "日常的なエージェント型コーディングとターミナル作業向けで、GPT-6.1 Sol より低コスト。GitHub Copilot でも即日提供されました。",
+      "ko": "일상적인 에이전트 코딩과 터미널 작업용 모델로 GPT-6.1 Sol보다 저렴하며, 당일 GitHub Copilot에서도 정식 제공됩니다.",
+      "ms": "Model untuk pengekodan agentik harian dan kerja terminal, lebih murah daripada GPT-6.1 Sol, dan kini tersedia dalam GitHub Copilot.",
+      "vi": "Mô hình cho lập trình agent hằng ngày và làm việc trên terminal, rẻ hơn GPT-6.1 Sol, đã có trong GitHub Copilot.",
+      "fr": "Un modèle pour le code agentique et le terminal au quotidien, moins cher que GPT-6.1 Sol, déjà disponible dans GitHub Copilot.",
+      "es": "Un modelo para programación con agentes y trabajo en terminal, más barato que GPT-6.1 Sol y ya disponible en GitHub Copilot.",
+      "de": "Ein Modell für alltägliches agentisches Programmieren und Terminalarbeit, günstiger als GPT-6.1 Sol und bereits in GitHub Copilot verfügbar."
      },
      "fact": {
       "zh-Hans": "Hacker News 392 分 · 246 条评论",
@@ -147,44 +136,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50248124"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50238088",
      "title": {
-      "zh-Hans": "IBMCEO说开放重量模型 现在在预告片上好又便宜",
-      "zh-Hant": "IBMCEO說開放重量模型 現在在預告片上好又便宜",
+      "zh-Hans": "IBM CEO：开放权重模型在本地部署已经又好又便宜",
+      "zh-Hant": "IBM CEO：開放權重模型在本地部署已經又好又便宜",
       "en": "IBM CEO says open weight models are now good and cheap on-prem",
-      "ja": "IBMのCEOは、オープン重量モデルが今良いと安いオンプレミスだと述べています",
-      "ko": "IBM CEO는 오픈 웨이트 모델이 지금은 좋고 저렴 한 on-prem",
-      "ms": "CEO IBM IBM mengatakan model berat terbuka sekarang baik dan murah on-prem",
-      "vi": "Giám đốc điều hành IBM nói rằng mô hình cân nặng mở bây giờ tốt và rẻ trên prem",
-      "fr": "IBM PDG dit que les modèles de poids ouvert sont maintenant bons et bon marché sur le site",
-      "es": "IBM CEO dice que los modelos de peso abierto ahora son buenos y baratos en prem",
-      "de": "IBM CEO sagt, offene Gewichtsmodelle sind jetzt gut und billig on-prem"
+      "ja": "IBM CEO「オープンウェイトモデルはオンプレで十分よく、しかも安い」",
+      "ko": "IBM CEO \"오픈 웨이트 모델, 이제 온프레미스에서 좋고 저렴하다\"",
+      "ms": "CEO IBM: model open-weight kini bagus dan murah untuk on-prem",
+      "vi": "CEO IBM: mô hình open-weight giờ đã tốt và rẻ khi chạy tại chỗ",
+      "fr": "Le PDG d'IBM : les modèles open-weight sont désormais bons et bon marché sur site",
+      "es": "El CEO de IBM: los modelos de pesos abiertos ya son buenos y baratos en local",
+      "de": "IBM-Chef: Open-Weight-Modelle sind jetzt gut und günstig im eigenen Rechenzentrum"
      },
      "summary": {
       "en": "90 percent of the performance at ten percent of the price, in just two or three racks, is hard to beat",
-      "zh-Hans": "90%的性能 价格的10%, 在仅仅两三个架子, 很难击败",
-      "ja": "性能の90%は価格の10パーセントで、ちょうど2つまたは3つの棚で、打つことは困難です",
-      "ko": "가격의 10 %에서 성능의 90 %, 단지 2 개 또는 3 개의 랙에서 승리하기 어렵습니다.",
-      "ms": "90 persen dari kinerja pada sepuluh persen dari harga, hanya dalam dua atau tiga rak, sulit untuk mengalahkan",
-      "vi": "90 phần trăm hiệu suất ở 10% giá, chỉ trong hai hoặc ba giá, là khó để đánh bại",
-      "fr": "90 pour cent de la performance à dix pour cent du prix, en seulement deux ou trois racks, est difficile à battre",
-      "es": "90 por ciento del rendimiento al diez por ciento del precio, en sólo dos o tres racks, es difícil de vencer",
-      "de": "90 Prozent der Leistung zu zehn Prozent des Preises, in nur zwei oder drei Racks, ist schwer zu schlagen",
-      "zh-Hant": "90%的效能 價格的10%, 在僅僅兩三個架子, 很難擊敗"
+      "zh-Hans": "用两三个机柜、十分之一的价格拿到九成性能，IBM CEO 认为企业很难拒绝本地跑开放权重模型。",
+      "ja": "2〜3 ラック、1 割の価格で 9 割の性能が得られるなら断りにくい、と IBM の CEO は語りました。",
+      "ko": "랙 두세 개로 10분의 1 가격에 90% 성능을 낸다면 거부하기 어렵다고 IBM CEO가 말했습니다.",
+      "ms": "90 peratus prestasi pada 10 peratus harga, dalam dua atau tiga rak sahaja, sukar ditandingi kata CEO IBM.",
+      "vi": "90% hiệu năng với 10% chi phí, chỉ trong hai ba tủ rack, theo CEO IBM là khó cưỡng lại.",
+      "fr": "90 % des performances pour 10 % du prix, dans deux ou trois baies : difficile à battre, selon le PDG d'IBM.",
+      "es": "El 90 % del rendimiento por el 10 % del precio, en dos o tres racks, es difícil de superar, según el CEO de IBM.",
+      "de": "90 Prozent der Leistung zu zehn Prozent des Preises in zwei, drei Racks sind kaum zu schlagen, sagt der IBM-Chef.",
+      "zh-Hant": "用兩三個機櫃、十分之一的價格拿到九成效能，IBM CEO 認為企業很難拒絕本地跑開放權重模型。"
      },
      "fact": {
       "zh-Hans": "Hacker News 411 分 · 317 条评论",
@@ -204,44 +182,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50238088"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50245138",
      "title": {
-      "zh-Hans": "塞巴斯蒂安·拉斯奇卡的影视课程 关于构建推理模型",
-      "zh-Hant": "塞巴斯蒂安·拉斯奇卡的影視課程 關於構建推理模型",
+      "zh-Hans": "Sebastian Raschka 推出从零构建推理模型的视频课",
+      "zh-Hant": "Sebastian Raschka 推出從零構建推理模型的影片課",
       "en": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "ja": "Sebastian Raschkaのモデルを推論するためのビデオコース",
-      "ko": "Sebastian Raschka's from-scratch video course 에 건물 reasoning 모델",
-      "ms": "Jalan cerita video dari Sebastian Raschka tentang membangun model penalaran",
-      "vi": "Khóa học video của Sebastian Raschka về xây dựng mô hình lý luận",
-      "fr": "Cours vidéo de Sebastian Raschka sur la construction de modèles de raisonnement",
-      "es": "Sebastian Raschka es un curso de video en la construcción de modelos de razonamiento",
-      "de": "Sebastian Raschkas Videokurs zum Aufbau von Argumentationsmodellen"
+      "ja": "Sebastian Raschka のゼロから作る推論モデル動画講座",
+      "ko": "Sebastian Raschka의 추론 모델 밑바닥부터 만들기 영상 강의",
+      "ms": "Kursus video Sebastian Raschka membina model penaakulan dari kosong",
+      "vi": "Khóa video của Sebastian Raschka: tự xây mô hình suy luận từ đầu",
+      "fr": "Le cours vidéo de Sebastian Raschka pour construire des modèles de raisonnement",
+      "es": "El curso en vídeo de Sebastian Raschka para construir modelos de razonamiento",
+      "de": "Sebastian Raschkas Videokurs: Reasoning-Modelle von Grund auf bauen"
      },
      "summary": {
       "en": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
-      "zh-Hans": "超过11小时的编码视频,涉及评价,推论时间缩放,强化学习,以及蒸馏,配有Python和PyTorch.",
-      "ja": "PythonとPyTorchで、評価、推論時間スケーリング、強化学習、蒸留に関するビデオの11時間以上。",
-      "ko": "평가에 대한 코딩 비디오의 11 시간 이상, inference-time scaling, reinforcement Learning, and Distation, Python 및 PyTorch.",
-      "ms": "Dari 11 jam lebih dari 11 jam video coding tentang evaluasi, penskalaan inferensi-waktu, pembelajaran penguatan, dan distilasi, dengan Python dan PyTorch.",
-      "vi": "Hơn 11 giờ của video mã hóa đánh giá, tăng cường thời gian, tăng cường học tập, và chưng cất, với Python và PyTorch.",
-      "fr": "Plus de 11 heures de codage de vidéos sur l'évaluation, l'échelle d'inférence, l'apprentissage du renforcement et la distillation, avec Python et PyTorch.",
-      "es": "Más de 11 horas de vídeos de codificación en evaluación, escalado en tiempo de inferencia, aprendizaje de refuerzo y destilación, con Python y PyTorch.",
-      "de": "Über 11 Stunden Codierungsvideos zu Auswertung, Inferenz-Zeit-Skalierung, Verstärkungslernen und Destillation mit Python und PyTorch.",
-      "zh-Hant": "超過11小時的編碼影片,涉及評價,推論時間縮放,強化學習,以及蒸餾,配有Python和PyTorch."
+      "zh-Hans": "11 小时以上的编码视频，用 Python 和 PyTorch 讲评测、推理时扩展、强化学习和蒸馏。",
+      "ja": "評価、推論時スケーリング、強化学習、蒸留を Python と PyTorch で解説する 11 時間超のコーディング動画です。",
+      "ko": "평가, 추론 시 스케일링, 강화학습, 증류를 Python과 PyTorch로 다루는 11시간 이상의 코딩 영상입니다.",
+      "ms": "Lebih 11 jam video pengekodan tentang penilaian, penskalaan masa inferens, pembelajaran pengukuhan dan distilasi dengan Python dan PyTorch.",
+      "vi": "Hơn 11 giờ video lập trình về đánh giá, mở rộng lúc suy luận, học tăng cường và chưng cất, dùng Python và PyTorch.",
+      "fr": "Plus de 11 heures de vidéos de code sur l'évaluation, le scaling à l'inférence, l'apprentissage par renforcement et la distillation, en Python et PyTorch.",
+      "es": "Más de 11 horas de vídeos de código sobre evaluación, escalado en inferencia, aprendizaje por refuerzo y destilación con Python y PyTorch.",
+      "de": "Über 11 Stunden Coding-Videos zu Evaluation, Inference-Time-Scaling, Reinforcement Learning und Distillation mit Python und PyTorch.",
+      "zh-Hant": "11 小時以上的編碼影片，用 Python 和 PyTorch 講評測、推理時擴充套件、強化學習和蒸餾。"
      },
      "fact": {
       "zh-Hans": "Hacker News 483 分 · 71 条评论",
@@ -261,44 +228,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50245138"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50242843",
      "title": {
-      "zh-Hans": "棕色学生地图 隐藏全球劳动力力量AI",
-      "zh-Hant": "棕色學生地圖 隱藏全球勞動力力量AI",
+      "zh-Hans": "布朗大学学生绘制支撑 AI 的全球隐形劳动力地图",
+      "zh-Hant": "布朗大學學生繪製支撐 AI 的全球隱形勞動力地圖",
       "en": "Brown student maps the hidden global labor powering AI",
-      "ja": "ブラウンの学生は、隠されたグローバル労働力AIをマッピング",
-      "ko": "브라운 학생 지도 숨겨진 글로벌 노동력 AI",
-      "ms": "Siswa Brown memetakan tenaga kerja global tersembunyi AI",
-      "vi": "Học sinh Brown bản đồ các công nhân ẩn năng lượng AI",
-      "fr": "Brown étudiant cartographie la main-d'œuvre mondiale cachée puissance AI",
-      "es": "Brown estudiante mapas el trabajo mundial escondido potenciando AI",
-      "de": "Brown Student kartographiert die versteckte globale Arbeitskraft, die KI antreibt"
+      "ja": "ブラウン大学の学生が AI を支える見えない世界の労働を地図化",
+      "ko": "브라운대 학생, AI를 떠받치는 숨은 글로벌 노동을 지도로",
+      "ms": "Pelajar Brown memetakan buruh global tersembunyi di sebalik AI",
+      "vi": "Sinh viên Brown lập bản đồ lao động toàn cầu ẩn sau AI",
+      "fr": "Une étudiante de Brown cartographie le travail invisible qui fait tourner l'IA",
+      "es": "Una estudiante de Brown mapea el trabajo oculto que mueve la IA",
+      "de": "Brown-Studentin kartiert die versteckte globale Arbeit hinter KI"
      },
      "summary": {
       "en": "Cunyan Ma’s interactive tool exposes the power structure that extracts low-wage labor from data workers in the Global South to make everyday AI algorithms function.",
-      "zh-Hans": "Cunyan Ma的交互工具暴露出从全球南方的数据工人中提取低工资劳动力的动力结构,使日常AI算法发挥作用.",
-      "ja": "Cunyan Maのインタラクティブツールは、グローバル・サウスのデータワーカーから低賃金労働を抽出し、日常のAIアルゴリズム機能を発揮する電力構造を明らかにします。",
-      "ko": "Cunyan Ma의 인터랙티브 도구는 글로벌 남쪽의 데이터 노동자로부터 저비용 노동을 추출하는 힘 구조를 노출하여 일상적인 AI 알고리즘 기능을 만듭니다.",
-      "ms": "Alat interaktif dari Counyan Ma mengekspos struktur daya yang mengeluarkan tenaga kerja low-wage dari pekerja data di Global South untuk membuat Algoritme sehari-hari berfungsi.",
-      "vi": "Công cụ tương tác của Cunyan Ma phơi bày cấu trúc năng lượng lấy từ công ty dữ liệu ở Nam Cực để làm cho các thuật toán AI hoạt động hàng ngày.",
-      "fr": "L'outil interactif Cunyan Ma's expose la structure de puissance qui extrait le travail à bas salaires des travailleurs de données dans le Sud mondial pour faire fonctionner les algorithmes AI quotidiens.",
-      "es": "La herramienta interactiva de Cunyan Ma expone la estructura de poder que extrae mano de obra de bajos salarios de los trabajadores de datos en el Sur Global para hacer funcionar algoritmos AI cotidianos.",
-      "de": "Das interaktive Tool von Cunyan Ma zeigt die Machtstruktur, die Niedriglohnarbeit von Datenarbeitern im Globalen Süden extrahiert, um alltägliche KI-Algorithmen funktionieren zu lassen.",
-      "zh-Hant": "Cunyan Ma的互動工具暴露出從全球南方的資料工人中提取低工資勞動力的動力結構,使日常AI演算法發揮作用."
+      "zh-Hans": "Cunyan Ma 的交互工具揭示了 AI 算法背后，全球南方数据标注工人被低薪雇佣的权力结构。",
+      "ja": "Cunyan Ma のインタラクティブツールは、グローバルサウスのデータ作業者から低賃金労働を引き出す構造を可視化します。",
+      "ko": "Cunyan Ma의 인터랙티브 도구는 글로벌 사우스 데이터 노동자의 저임금 노동 구조를 드러냅니다.",
+      "ms": "Alat interaktif Cunyan Ma mendedahkan struktur kuasa yang memerah buruh bergaji rendah pekerja data di Selatan Global.",
+      "vi": "Công cụ tương tác của Cunyan Ma cho thấy cấu trúc quyền lực khai thác lao động lương thấp của người làm dữ liệu ở Nam bán cầu.",
+      "fr": "L'outil interactif de Cunyan Ma montre comment le travail mal payé des annotateurs du Sud global fait fonctionner les algorithmes.",
+      "es": "La herramienta interactiva de Cunyan Ma expone la estructura que extrae trabajo mal pagado de los trabajadores de datos del Sur global.",
+      "de": "Cunyan Mas interaktives Tool zeigt, wie schlecht bezahlte Datenarbeit im Globalen Süden alltägliche KI-Algorithmen am Laufen hält.",
+      "zh-Hant": "Cunyan Ma 的互動工具揭示了 AI 演算法背後，全球南方資料標註工人被低薪僱傭的權力結構。"
      },
      "fact": {
       "zh-Hans": "Hacker News 169 分 · 157 条评论",
@@ -318,44 +274,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50242843"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50238739",
      "title": {
-      "zh-Hans": "平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平 带有 WASM 和 MCP 的引擎",
-      "zh-Hant": "平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平面平 帶有 WASM 和 MCP 的引擎",
+      "zh-Hans": "PaperPilot：零云端、纯 Rust 的 PDF 引擎，支持 WASM 和 MCP",
+      "zh-Hant": "PaperPilot：零雲端、純 Rust 的 PDF 引擎，支援 WASM 和 MCP",
       "en": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "ja": "PaperPilot - ゼロクラウド、ピュア・ラフトPDF WASMとMCPのエンジン",
-      "ko": "PaperPilot – 제로클라우드, Pure-Rust PDF WASM 및 MCP 엔진",
-      "ms": "PaperPilot  Zero-Cloud, Pure-Rust PDF Mesin buatan WASM dan MCP",
-      "vi": "Giấy Pilot – Zero-Culoud, Pust PDF Máy với MM và MCP",
-      "fr": "PapierPilot – Zero-Cloud, Pure-Rust PDF Moteur avec WASM et MCP",
-      "es": "PaperPilot – Zero-Cloud, Pure-Rust PDF Motor con WASM y MCP",
-      "de": "PaperPilot – Zero-Cloud, Pure-Rust PDF Motor mit WASM und MCP"
+      "ja": "PaperPilot：クラウド不要・純 Rust 製の PDF エンジン（WASM と MCP 対応）",
+      "ko": "PaperPilot: 클라우드 없는 순수 Rust PDF 엔진, WASM·MCP 지원",
+      "ms": "PaperPilot: enjin PDF Rust tulen tanpa awan, dengan WASM dan MCP",
+      "vi": "PaperPilot: engine PDF thuần Rust, không cần đám mây, hỗ trợ WASM và MCP",
+      "fr": "PaperPilot : moteur PDF 100 % Rust sans cloud, avec WASM et MCP",
+      "es": "PaperPilot: motor PDF en Rust puro, sin nube, con WASM y MCP",
+      "de": "PaperPilot: PDF-Engine in reinem Rust ohne Cloud, mit WASM und MCP"
      },
      "summary": {
       "en": "Your local AI copilot for documents",
-      "zh-Hans": "您本地的文档 AI 副驾驶",
-      "ja": "現地のAIコピローがドキュメントに",
-      "ko": "문서의 로컬 AI copilot",
-      "ms": "Anda copilot AI lokal untuk dokumen",
-      "vi": "Tiện ích AI của bạn để tìm tài liệu",
-      "fr": "Votre copilote AI local pour les documents",
-      "es": "Tu copiloto de AI local para documentos",
-      "de": "Ihr lokaler KI-Kopilot für Dokumente",
-      "zh-Hant": "您本地的文件 AI 副駕駛"
+      "zh-Hans": "一个在本地运行的文档 AI 助手，PDF 处理全部在本机完成。",
+      "ja": "ローカルで動くドキュメント向け AI アシスタントです。",
+      "ko": "로컬에서 동작하는 문서용 AI 코파일럿입니다.",
+      "ms": "Pembantu AI tempatan untuk dokumen anda.",
+      "vi": "Trợ lý AI chạy cục bộ cho tài liệu của bạn.",
+      "fr": "Votre copilote IA local pour les documents.",
+      "es": "Tu copiloto de IA local para documentos.",
+      "de": "Ihr lokaler KI-Copilot für Dokumente.",
+      "zh-Hant": "一個在本地執行的文件 AI 助手，PDF 處理全部在本機完成。"
      },
      "fact": {
       "zh-Hans": "Hacker News 226 分 · 81 条评论",
@@ -375,44 +320,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50238739"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50246658",
      "title": {
-      "zh-Hans": "关于流行的开放式AI模型的行为",
-      "zh-Hant": "關於流行的開放式AI模型的行為",
+      "zh-Hans": "Cohere：一款热门开放权重模型存在令人担忧的行为",
+      "zh-Hant": "Cohere：一款熱門開放權重模型存在令人擔憂的行為",
       "en": "Concerning behavior from a popular open-weight AI model",
-      "ja": "一般的なオープンウェイトAIモデルからの行動について",
-      "ko": "인기 개방형 AI 모델의 Concerning 동작",
-      "ms": "Kekhawatiran perilaku dari model AI kelas terbuka populer",
-      "vi": "Về hành vi từ mô hình AI mở rộng phổ biến",
-      "fr": "Concernant le comportement d'un modèle d'IA à poids ouvert populaire",
-      "es": "Relativa al comportamiento de un popular modelo AI de peso abierto",
-      "de": "Zum Verhalten eines beliebten Open-Gewicht-AI-Modells"
+      "ja": "Cohere：人気のオープンウェイトモデルに懸念すべき挙動",
+      "ko": "Cohere: 인기 오픈 웨이트 모델의 우려스러운 동작",
+      "ms": "Cohere: tingkah laku membimbangkan daripada model open-weight popular",
+      "vi": "Cohere: hành vi đáng lo ngại từ một mô hình open-weight phổ biến",
+      "fr": "Cohere : un comportement inquiétant chez un modèle open-weight populaire",
+      "es": "Cohere: un comportamiento preocupante en un popular modelo de pesos abiertos",
+      "de": "Cohere: bedenkliches Verhalten eines beliebten Open-Weight-Modells"
      },
      "summary": {
       "en": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.",
-      "zh-Hans": "发现无信的开放量级AI模型如何可能泄露数据,即使自托管. 学习安全风险 如何保护你的企业",
-      "ja": "自信のないオープンウェイトAIモデルが、自己ホストされた場合でも、データを漏洩する可能性がある方法を発見してください。 セキュリティリスクと企業を保護する方法を学びます。",
-      "ko": "이 웹 사이트는 쿠키를 사용합니다. 이 웹 사이트는 쿠키를 사용합니다. 보안 위험과 기업을 보호하는 방법 알아보기.",
-      "ms": "AI model kelas terbuka yang tidak dipercaya menemukan bagaimana model AI yang tidak dipercaya dapat berpotensi membocorkan data, bahkan ketika dihosting sendiri. Kau tahu resiko keamanan dan bagaimana melindungi perusahaanmu.",
-      "vi": "Phát hiện ra cách mô hình AI không đáng tin có thể tiết lộ dữ liệu, ngay cả khi tự chủ. Học những rủi ro an ninh và cách bảo vệ công ty.",
-      "fr": "Découvrez comment les modèles d'IA à poids ouvert peu confiants peuvent potentiellement fuiter des données, même lorsqu'ils sont hébergés. Apprenez les risques de sécurité et comment protéger votre entreprise.",
-      "es": "Descubra cómo los modelos de IA de peso abierto no confiables pueden filtrar datos, incluso cuando son autoelegidos. Aprende los riesgos de seguridad y cómo proteger tu empresa.",
-      "de": "Entdecken Sie, wie nicht vertrauenswürdige AI-Modelle mit offenem Gewicht möglicherweise Daten verlieren können, selbst wenn sie selbst gehostet werden. Erfahren Sie die Sicherheitsrisiken und wie Sie Ihr Unternehmen schützen können.",
-      "zh-Hant": "發現無信的開放量級AI模型如何可能洩露資料,即使自託管. 學習安全風險 如何保護你的企業"
+      "zh-Hans": "Cohere 发现不可信的开放权重模型即便自托管也可能泄露数据，并给出企业的防护建议。",
+      "ja": "信頼できないオープンウェイトモデルは自前でホストしてもデータを漏らす可能性がある、と Cohere が報告しました。",
+      "ko": "신뢰할 수 없는 오픈 웨이트 모델은 자체 호스팅해도 데이터를 유출할 수 있다고 Cohere가 경고했습니다.",
+      "ms": "Cohere mendapati model open-weight yang tidak dipercayai boleh membocorkan data walaupun dihoskan sendiri.",
+      "vi": "Cohere cho biết mô hình open-weight không đáng tin có thể rò rỉ dữ liệu ngay cả khi tự host.",
+      "fr": "Cohere montre qu'un modèle open-weight non fiable peut divulguer des données, même auto-hébergé.",
+      "es": "Cohere advierte que un modelo de pesos abiertos no confiable puede filtrar datos incluso alojado en casa.",
+      "de": "Cohere zeigt, dass nicht vertrauenswürdige Open-Weight-Modelle selbst gehostet Daten abfließen lassen können.",
+      "zh-Hant": "Cohere 發現不可信的開放權重模型即便自託管也可能洩露資料，並給出企業的防護建議。"
      },
      "fact": {
       "zh-Hans": "Hacker News 216 分 · 81 条评论",
@@ -432,44 +366,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50246658"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50228115",
      "title": {
-      "zh-Hans": "一个真正的模块键盘",
-      "zh-Hant": "一個真正的模組鍵盤",
+      "zh-Hans": "Keybytes：真正模块化的键盘",
+      "zh-Hant": "Keybytes：真正模組化的鍵盤",
       "en": "A Truly Modular Keyboard",
-      "ja": "まさにモジュラーキーボード",
-      "ko": "Truly 모듈식 키보드",
-      "ms": "Papan Kekunci yang Benar - Benar Modular",
-      "vi": "Một bàn phím thật sự kỳ dị",
-      "fr": "Un clavier vraiment modulaire",
-      "es": "Un teclado verdaderamente modular",
-      "de": "Eine wirklich modulare Tastatur"
+      "ja": "Keybytes：本当にモジュール式のキーボード",
+      "ko": "Keybytes: 진정한 모듈형 키보드",
+      "ms": "Keybytes: papan kekunci yang benar-benar modular",
+      "vi": "Keybytes: bàn phím mô-đun thực sự",
+      "fr": "Keybytes : un clavier vraiment modulaire",
+      "es": "Keybytes: un teclado realmente modular",
+      "de": "Keybytes: eine wirklich modulare Tastatur"
      },
      "summary": {
       "en": "A truly modular keyboard",
-      "zh-Hans": "一个真正模块化的键盘",
-      "ja": "本当にモジュラーキーボード",
-      "ko": "진정한 모듈형 키보드",
-      "ms": "Papan tombol yang benar - benar modular",
-      "vi": "A truly modular keyboard",
-      "fr": "Un clavier vraiment modulaire",
-      "es": "Un teclado verdaderamente modular",
-      "de": "Eine wirklich modulare Tastatur",
-      "zh-Hant": "一個真正模組化的鍵盤"
+      "zh-Hans": "一个可以自由拼装模块的开源键盘项目。",
+      "ja": "モジュールを自由に組み替えられるオープンソースのキーボードです。",
+      "ko": "모듈을 자유롭게 조합할 수 있는 오픈소스 키보드 프로젝트입니다.",
+      "ms": "Projek papan kekunci sumber terbuka yang modulnya boleh disusun semula.",
+      "vi": "Dự án bàn phím mã nguồn mở có thể ghép các mô-đun tùy ý.",
+      "fr": "Un clavier open source dont les modules s'assemblent librement.",
+      "es": "Un teclado de código abierto cuyos módulos se combinan libremente.",
+      "de": "Eine Open-Source-Tastatur, deren Module sich frei kombinieren lassen.",
+      "zh-Hant": "一個可以自由拼裝模組的開源鍵盤專案。"
      },
      "fact": {
       "zh-Hans": "Hacker News 270 分 · 96 条评论",
@@ -489,18 +412,7 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50228115"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     }
    ],
    "more": [
@@ -1208,7 +1120,8 @@
       "de"
      ]
     }
-   ]
+   ],
+   "updated": "2026-10-27T00:25:00Z"
   },
   {
    "date": "2026-10-26",
