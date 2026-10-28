@@ -1,0 +1,650 @@
+{
+ "https://oioannou.com/blog/ai-promised-less-work/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "AI 承诺让人少干活，我却从没这么忙过",
+    "summary": "一位技术 VP 用自己的 GitHub 记录说明：Agent 让实现变便宜后，并行任务暴增，人反而更累。"
+   },
+   "ja": {
+    "title": "AIは仕事を減らすはずだった。なのに今が一番忙しい",
+    "summary": "ある技術VPが自身のGitHub履歴をもとに、エージェントで実装が安くなった結果、並行タスクが増えてかえって疲れるようになったと語ります。"
+   },
+   "ko": {
+    "title": "AI는 일을 줄여 준다고 했지만, 지금이 가장 바쁘다",
+    "summary": "한 기술 VP가 자신의 GitHub 기록으로, 에이전트 덕분에 구현이 싸지자 병렬 작업이 폭증해 오히려 더 지치게 됐다고 설명합니다."
+   },
+   "ms": {
+    "title": "AI janji kurangkan kerja, tetapi saya tidak pernah sesibuk ini",
+    "summary": "Seorang VP teknologi menggunakan sejarah GitHubnya untuk menunjukkan bahawa apabila ejen menjadikan pelaksanaan murah, tugas selari bertambah dan kerja terasa lebih berat."
+   },
+   "vi": {
+    "title": "AI hứa giảm việc, nhưng tôi chưa bao giờ bận như bây giờ",
+    "summary": "Một VP công nghệ dùng lịch sử GitHub của mình để cho thấy khi agent làm việc triển khai rẻ đi, số việc song song tăng vọt và con người lại mệt hơn."
+   },
+   "fr": {
+    "title": "L'IA promettait moins de travail, je n'ai jamais autant travaillé",
+    "summary": "Un VP technique montre, à partir de son historique GitHub, que des agents rendant l'implémentation bon marché multiplient les tâches parallèles et alourdissent la charge."
+   },
+   "es": {
+    "title": "La IA prometía menos trabajo y nunca he trabajado tanto",
+    "summary": "Un VP de tecnología muestra con su historial de GitHub que, al abaratar los agentes la implementación, las tareas en paralelo se disparan y el trabajo pesa más."
+   },
+   "de": {
+    "title": "KI versprach weniger Arbeit – ich habe nie mehr gearbeitet",
+    "summary": "Ein Technik-VP zeigt anhand seiner GitHub-Historie: Seit Agenten die Umsetzung billig machen, laufen viel mehr Aufgaben parallel, und die Arbeit wird anstrengender."
+   }
+  }
+ },
+ "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220": {
+  "loc": {
+   "zh-Hans": {
+    "title": "美国警方用 AI 和车牌识别拦停“行为可疑”的司机",
+    "summary": "ACLU 警告，执法机构正用车牌识别器和 AI 工具，根据行驶轨迹标记并拦停并未涉嫌具体犯罪的司机。"
+   },
+   "ja": {
+    "title": "米警察、AIとナンバー読み取りで「不審な」運転者を停車させる",
+    "summary": "ACLUは、法執行機関がナンバー自動読み取りとAIツールで走行パターンを判定し、具体的な犯罪の疑いがない運転者まで停車させていると警告しています。"
+   },
+   "ko": {
+    "title": "미국 경찰, AI와 번호판 인식으로 '수상한' 운전자 단속",
+    "summary": "ACLU는 수사기관이 번호판 인식기와 AI 도구로 주행 패턴을 분석해 구체적 범죄 혐의가 없는 운전자까지 세우고 있다고 경고했습니다."
+   },
+   "ms": {
+    "title": "Polis AS guna AI untuk tahan pemandu yang 'mencurigakan'",
+    "summary": "ACLU memberi amaran bahawa agensi penguatkuasaan menggunakan pembaca plat nombor dan alat AI untuk menahan pemandu berdasarkan corak perjalanan, walaupun tiada jenayah khusus disyaki."
+   },
+   "vi": {
+    "title": "Cảnh sát Mỹ dùng AI để chặn tài xế có hành vi 'đáng ngờ'",
+    "summary": "ACLU cảnh báo các cơ quan thực thi pháp luật đang dùng máy đọc biển số và công cụ AI để chặn xe dựa trên lộ trình, dù tài xế không bị nghi phạm tội cụ thể nào."
+   },
+   "fr": {
+    "title": "La police américaine utilise l'IA pour arrêter des conducteurs « suspects »",
+    "summary": "L'ACLU alerte : des forces de l'ordre utilisent lecteurs de plaques et outils d'IA pour arrêter des conducteurs selon leurs trajets, sans soupçon d'infraction précise."
+   },
+   "es": {
+    "title": "La policía de EE. UU. usa IA para detener a conductores «sospechosos»",
+    "summary": "La ACLU advierte que las fuerzas del orden usan lectores de matrículas y herramientas de IA para detener a conductores por sus patrones de viaje, sin sospecha de un delito concreto."
+   },
+   "de": {
+    "title": "US-Polizei stoppt per KI Autofahrer mit „verdächtigem“ Verhalten",
+    "summary": "Die ACLU warnt: Behörden nutzen Kennzeichenleser und KI-Tools, um Fahrer anhand ihrer Fahrmuster anzuhalten, auch ohne Verdacht auf eine konkrete Straftat."
+   }
+  }
+ },
+ "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "斯坦福日报：Anthropic 用盗版书训练 Claude，涉及斯坦福教授著作",
+    "summary": "报道称，在 15 亿美元版权和解案涉及的书目中，至少有 10 位斯坦福学者的作品被盗版用于训练。"
+   },
+   "ja": {
+    "title": "Anthropic、違法入手したスタンフォード教授の著書でClaudeを訓練",
+    "summary": "報道によると、15億ドルの著作権和解の対象となった書籍のうち、少なくとも10人のスタンフォードの研究者の著作が海賊版として使われました。"
+   },
+   "ko": {
+    "title": "Anthropic, 불법 입수한 스탠퍼드 교수 저서로 Claude 학습",
+    "summary": "보도에 따르면 15억 달러 저작권 합의 대상 도서 중 최소 10명의 스탠퍼드 학자 저작이 해적판으로 학습에 쓰였습니다."
+   },
+   "ms": {
+    "title": "Anthropic latih Claude dengan buku profesor Stanford yang diperoleh secara haram",
+    "summary": "Menurut laporan, sekurang-kurangnya 10 karya ahli akademik Stanford telah dicetak rompak dalam kes penyelesaian hak cipta bernilai 1.5 bilion dolar."
+   },
+   "vi": {
+    "title": "Anthropic huấn luyện Claude bằng sách lậu của giáo sư Stanford",
+    "summary": "Theo bài báo, ít nhất 10 tác phẩm của học giả Stanford bị sao chép lậu, liên quan đến vụ dàn xếp bản quyền 1,5 tỷ đô la."
+   },
+   "fr": {
+    "title": "Anthropic a entraîné Claude sur des livres piratés de professeurs de Stanford",
+    "summary": "Selon l'article, au moins 10 universitaires de Stanford figurent parmi les œuvres piratées visées par l'accord de 1,5 milliard de dollars sur le droit d'auteur."
+   },
+   "es": {
+    "title": "Anthropic entrenó a Claude con libros pirateados de profesores de Stanford",
+    "summary": "Según el artículo, al menos 10 académicos de Stanford figuran entre las obras pirateadas del acuerdo de derechos de autor de 1500 millones de dólares."
+   },
+   "de": {
+    "title": "Anthropic trainierte Claude mit illegal beschafften Büchern von Stanford-Professoren",
+    "summary": "Laut Bericht gehören Werke von mindestens zehn Stanford-Forschenden zu den raubkopierten Büchern im Urheberrechtsvergleich über 1,5 Milliarden Dollar."
+   }
+  }
+ },
+ "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup": {
+  "loc": {
+   "zh-Hans": {
+    "title": "维基百科编辑正在清理 AI 生成内容",
+    "summary": "AI 写的文字越来越难识别，但维基百科的 AI 清理项目仍在持续推进。"
+   },
+   "ja": {
+    "title": "ウィキペディアのAI生成コンテンツ一掃作戦",
+    "summary": "AIが書いた文章は見分けにくくなっていますが、ウィキペディアの編集者たちは除去作業を続けています。"
+   },
+   "ko": {
+    "title": "위키백과의 AI 생성 콘텐츠 정리 작업",
+    "summary": "AI가 쓴 글은 점점 구별하기 어려워지지만, 위키백과 편집자들은 정리 작업을 이어가고 있습니다."
+   },
+   "ms": {
+    "title": "Usaha Wikipedia membersihkan kandungan janaan AI",
+    "summary": "Teks janaan AI semakin sukar dikesan, tetapi editor Wikipedia terus menjalankan kerja pembersihan."
+   },
+   "vi": {
+    "title": "Wikipedia dọn dẹp nội dung do AI tạo ra",
+    "summary": "Văn bản do AI viết ngày càng khó nhận ra, nhưng các biên tập viên Wikipedia vẫn tiếp tục dọn dẹp."
+   },
+   "fr": {
+    "title": "Wikipédia fait le ménage dans les contenus générés par IA",
+    "summary": "Les textes écrits par IA sont de plus en plus difficiles à repérer, mais les éditeurs de Wikipédia poursuivent le nettoyage."
+   },
+   "es": {
+    "title": "Wikipedia limpia el contenido generado por IA",
+    "summary": "El texto generado por IA es cada vez más difícil de detectar, pero los editores de Wikipedia siguen con la limpieza."
+   },
+   "de": {
+    "title": "Wikipedia räumt KI-generierte Inhalte auf",
+    "summary": "KI-Texte sind immer schwerer zu erkennen, doch die Wikipedia-Autoren setzen die Aufräumarbeit fort."
+   }
+  }
+ },
+ "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "CPython 实验性 JIT 将被移除",
+    "summary": "2024 年为 3.13 加入的实验性 JIT 编译器，因维护者撤回 PEP 836，开发基本宣告终止。"
+   },
+   "ja": {
+    "title": "CPythonの実験的JITが削除へ",
+    "summary": "3.13向けに2024年に追加された実験的JITコンパイラは、メンテナがPEP 836を取り下げたことで開発が事実上終了しました。"
+   },
+   "ko": {
+    "title": "CPython의 실험적 JIT, 제거 예정",
+    "summary": "3.13을 위해 2024년에 추가된 실험적 JIT 컴파일러는 메인테이너가 PEP 836을 철회하면서 개발이 사실상 끝났습니다."
+   },
+   "ms": {
+    "title": "JIT eksperimental CPython akan dibuang",
+    "summary": "Pengkompil JIT eksperimental yang ditambah untuk 3.13 pada 2024 kini terhenti selepas penyelenggara menarik balik PEP 836."
+   },
+   "vi": {
+    "title": "JIT thử nghiệm của CPython sẽ bị gỡ bỏ",
+    "summary": "Trình biên dịch JIT thử nghiệm được thêm vào bản 3.13 năm 2024 gần như dừng phát triển sau khi nhóm duy trì rút lại PEP 836."
+   },
+   "fr": {
+    "title": "Le JIT expérimental de CPython va être retiré",
+    "summary": "Le compilateur JIT expérimental ajouté en 2024 pour la 3.13 est abandonné de fait après le retrait de la PEP 836 par ses mainteneurs."
+   },
+   "es": {
+    "title": "El JIT experimental de CPython será eliminado",
+    "summary": "El compilador JIT experimental añadido en 2024 para la 3.13 queda prácticamente abandonado tras retirar sus mantenedores la PEP 836."
+   },
+   "de": {
+    "title": "CPythons experimenteller JIT wird entfernt",
+    "summary": "Der 2024 für Version 3.13 eingeführte experimentelle JIT-Compiler ist praktisch am Ende, nachdem die Maintainer PEP 836 zurückgezogen haben."
+   }
+  }
+ },
+ "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Claude 说明：我的数据会被用于模型训练吗？",
+    "summary": "Anthropic 的帮助页，说明 Claude for Work、API 等商用产品与个人版套餐在训练数据使用上的不同规则。"
+   },
+   "ja": {
+    "title": "Claudeの説明：私のデータはモデル学習に使われるのか",
+    "summary": "Claude for WorkやAPIなどの商用製品と個人向けプランで、学習データの扱いがどう違うかを説明するAnthropicのヘルプページです。"
+   },
+   "ko": {
+    "title": "Claude 안내: 내 데이터가 모델 학습에 쓰이나요?",
+    "summary": "Claude for Work, API 같은 상용 제품과 개인 요금제에서 학습 데이터 사용 규칙이 어떻게 다른지 설명하는 Anthropic 도움말입니다."
+   },
+   "ms": {
+    "title": "Claude: Adakah data saya digunakan untuk latihan model?",
+    "summary": "Halaman bantuan Anthropic yang menerangkan perbezaan peraturan data latihan antara produk komersial seperti Claude for Work dan API dengan pelan pengguna."
+   },
+   "vi": {
+    "title": "Claude: Dữ liệu của tôi có được dùng để huấn luyện mô hình không?",
+    "summary": "Trang trợ giúp của Anthropic giải thích quy tắc dùng dữ liệu huấn luyện khác nhau giữa sản phẩm thương mại như Claude for Work, API và các gói cá nhân."
+   },
+   "fr": {
+    "title": "Claude : mes données servent-elles à entraîner les modèles ?",
+    "summary": "Page d'aide d'Anthropic sur les règles d'entraînement qui diffèrent entre les produits commerciaux (Claude for Work, API) et les offres grand public."
+   },
+   "es": {
+    "title": "Claude: ¿se usan mis datos para entrenar modelos?",
+    "summary": "Página de ayuda de Anthropic sobre las reglas de entrenamiento que difieren entre productos comerciales (Claude for Work, API) y planes de consumo."
+   },
+   "de": {
+    "title": "Claude: Werden meine Daten fürs Modelltraining genutzt?",
+    "summary": "Hilfeseite von Anthropic zu den unterschiedlichen Trainingsregeln für kommerzielle Produkte wie Claude for Work und die API sowie für Verbraucherpläne."
+   }
+  }
+ },
+ "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Futurism：亚马逊在持续受挫后大幅收缩 AI 部门",
+    "summary": "报道称亚马逊正在裁撤 AI 实验室，把资源转向一位知名 AI 机器人专家领导的新项目。"
+   },
+   "ja": {
+    "title": "Futurism：Amazon、不振続きのAI部門を大幅縮小",
+    "summary": "報道によると、AmazonはAIラボを縮小し、著名なAIロボット研究者が率いる新プロジェクトに資源を集中させています。"
+   },
+   "ko": {
+    "title": "Futurism: 아마존, 부진 끝에 AI 부문 대폭 축소",
+    "summary": "보도에 따르면 아마존은 AI 연구소를 축소하고 유명 AI 로봇 전문가가 이끄는 새 프로젝트로 자원을 옮기고 있습니다."
+   },
+   "ms": {
+    "title": "Futurism: Amazon kecilkan bahagian AI selepas kegagalan berterusan",
+    "summary": "Menurut laporan, Amazon mengurangkan makmal AInya dan menyalurkan sumber kepada projek baharu yang diketuai pakar robotik AI terkenal."
+   },
+   "vi": {
+    "title": "Futurism: Amazon cắt giảm mạnh mảng AI sau thất bại kéo dài",
+    "summary": "Theo bài báo, Amazon đang thu hẹp các phòng thí nghiệm AI và dồn nguồn lực cho dự án mới do một chuyên gia robot AI nổi tiếng dẫn dắt."
+   },
+   "fr": {
+    "title": "Futurism : Amazon taille dans sa division IA après des échecs répétés",
+    "summary": "Selon l'article, Amazon démantèle ses laboratoires d'IA et réoriente ses ressources vers un nouveau projet dirigé par un spécialiste reconnu de la robotique."
+   },
+   "es": {
+    "title": "Futurism: Amazon recorta su división de IA tras fracasos continuos",
+    "summary": "Según el artículo, Amazon desmantela sus laboratorios de IA y destina recursos a un nuevo proyecto dirigido por un reconocido experto en robótica."
+   },
+   "de": {
+    "title": "Futurism: Amazon baut KI-Sparte nach anhaltenden Misserfolgen ab",
+    "summary": "Laut Bericht verkleinert Amazon seine KI-Labore und lenkt Ressourcen in ein neues Projekt unter Leitung eines bekannten Robotik-Experten."
+   }
+  }
+ },
+ "https://cfsg.axiommath.ai/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "有限单群分类定理在 Lean 中完整形式化",
+    "summary": "第一代有限单群分类证明在 Lean 中完成形式化，每一步逻辑都经过 Lean 内核检查。"
+   },
+   "ja": {
+    "title": "有限単純群の分類定理をLeanで完全形式化",
+    "summary": "有限単純群の分類の第一世代の証明をLeanで形式化し、すべての論理ステップをLeanのカーネルが検証しました。"
+   },
+   "ko": {
+    "title": "유한 단순군 분류 정리, Lean으로 완전 형식화",
+    "summary": "유한 단순군 분류의 1세대 증명을 Lean으로 형식화했으며 모든 논리 단계를 Lean 커널이 검증했습니다."
+   },
+   "ms": {
+    "title": "Klasifikasi kumpulan ringkas terhingga diformalkan dalam Lean",
+    "summary": "Bukti generasi pertama klasifikasi kumpulan ringkas terhingga diformalkan sepenuhnya dalam Lean, dengan setiap langkah disemak oleh kernel Lean."
+   },
+   "vi": {
+    "title": "Phân loại nhóm đơn hữu hạn được hình thức hóa trong Lean",
+    "summary": "Chứng minh thế hệ đầu tiên của định lý phân loại nhóm đơn hữu hạn đã được hình thức hóa hoàn toàn trong Lean, mọi bước đều được nhân Lean kiểm tra."
+   },
+   "fr": {
+    "title": "La classification des groupes simples finis formalisée en Lean",
+    "summary": "Formalisation complète en Lean de la première preuve de la classification des groupes simples finis, chaque étape étant vérifiée par le noyau de Lean."
+   },
+   "es": {
+    "title": "La clasificación de los grupos simples finitos, formalizada en Lean",
+    "summary": "Formalización completa en Lean de la primera prueba de la clasificación de grupos simples finitos, con cada paso verificado por el núcleo de Lean."
+   },
+   "de": {
+    "title": "Klassifikation endlicher einfacher Gruppen in Lean formalisiert",
+    "summary": "Vollständige Lean-Formalisierung des Beweises der ersten Generation, jeder logische Schritt vom Lean-Kernel geprüft."
+   }
+  }
+ },
+ "https://j11g.com/the-mythical-man-month-in-the-age-of-ai": {
+  "loc": {
+   "zh-Hans": {
+    "title": "AI 时代的《人月神话》",
+    "summary": "把布鲁克斯定律放到 AI 时代重新审视的一篇文章。"
+   },
+   "ja": {
+    "title": "AI時代の『人月の神話』",
+    "summary": "ブルックスの法則をAI時代に合わせて見直したエッセイです。"
+   },
+   "ko": {
+    "title": "AI 시대의 '맨먼스 미신'",
+    "summary": "브룩스의 법칙을 AI 시대에 맞게 다시 살펴본 글입니다."
+   },
+   "ms": {
+    "title": "Mitos Bulan-Manusia pada zaman AI",
+    "summary": "Esei yang meninjau semula Hukum Brooks pada zaman AI."
+   },
+   "vi": {
+    "title": "Thần thoại tháng-người trong thời đại AI",
+    "summary": "Bài viết nhìn lại định luật Brooks trong thời đại AI."
+   },
+   "fr": {
+    "title": "Le mythe du mois-homme à l'ère de l'IA",
+    "summary": "Une relecture de la loi de Brooks à l'ère de l'IA."
+   },
+   "es": {
+    "title": "El mítico hombre-mes en la era de la IA",
+    "summary": "Una actualización de la ley de Brooks para la era de la IA."
+   },
+   "de": {
+    "title": "Der Mythos vom Mann-Monat im KI-Zeitalter",
+    "summary": "Eine Neubetrachtung des Brooksschen Gesetzes im Zeitalter der KI."
+   }
+  }
+ },
+ "https://allmodels.io/llm/abliterated": {
+  "loc": {
+   "zh-Hans": {
+    "title": "已有 5 家推理服务商提供去审查版 DeepSeek",
+    "summary": "一个把去除拒答限制的模型跨多家服务商路由的平台，可比较可用性和 token 价格。"
+   },
+   "ja": {
+    "title": "検閲解除版DeepSeekの推論プロバイダーが5社に",
+    "summary": "拒否制限を外したモデルを複数のプロバイダー間でルーティングし、可用性とトークン価格を比較できるサービスです。"
+   },
+   "ko": {
+    "title": "검열 해제 DeepSeek 추론 제공업체가 5곳으로",
+    "summary": "거부 제한을 없앤 모델을 여러 제공업체에 라우팅하고 가용성과 토큰 가격을 비교할 수 있는 서비스입니다."
+   },
+   "ms": {
+    "title": "Kini ada 5 penyedia inferens untuk DeepSeek tanpa penapisan",
+    "summary": "Perkhidmatan yang menghala model tanpa sekatan penolakan merentas penyedia dan membandingkan ketersediaan serta harga token."
+   },
+   "vi": {
+    "title": "Đã có 5 nhà cung cấp suy luận cho DeepSeek bỏ kiểm duyệt",
+    "summary": "Dịch vụ định tuyến các mô hình đã gỡ giới hạn từ chối qua nhiều nhà cung cấp, so sánh độ sẵn có và giá token."
+   },
+   "fr": {
+    "title": "Cinq fournisseurs d'inférence proposent désormais un DeepSeek « abliterated »",
+    "summary": "Un service qui route les modèles sans refus entre fournisseurs et compare disponibilité et prix des tokens."
+   },
+   "es": {
+    "title": "Ya hay 5 proveedores de inferencia para DeepSeek sin censura",
+    "summary": "Un servicio que enruta modelos sin restricciones de rechazo entre proveedores y compara disponibilidad y precio por token."
+   },
+   "de": {
+    "title": "Inzwischen fünf Inferenz-Anbieter für „abliteriertes“ DeepSeek",
+    "summary": "Ein Dienst, der Modelle ohne Ablehnungsfilter über mehrere Anbieter routet und Verfügbarkeit sowie Tokenpreise vergleicht."
+   }
+  }
+ },
+ "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work": {
+  "loc": {
+   "zh-Hans": {
+    "title": "当 Agent 替你干活，工程师还需要懂什么？",
+    "summary": "Agent 写代码比人读得还快，作者认为工程师仍需要扎实基础、知识广度，以及出问题时深入排查的意愿。"
+   },
+   "ja": {
+    "title": "エージェントが仕事をする時代に、まだ知っておくべきこと",
+    "summary": "エージェントは人が読むより速くコードを書きます。それでも基礎、幅広い知識、壊れたときに深掘りする姿勢が必要だと筆者は述べます。"
+   },
+   "ko": {
+    "title": "에이전트가 일하는 시대, 엔지니어가 여전히 알아야 할 것",
+    "summary": "에이전트는 사람이 읽는 것보다 빨리 코드를 씁니다. 그래도 기초, 폭넓은 지식, 문제가 생겼을 때 파고드는 자세가 필요하다고 말합니다."
+   },
+   "ms": {
+    "title": "Apabila ejen buat kerja, apa yang jurutera masih perlu tahu?",
+    "summary": "Ejen menulis kod lebih cepat daripada manusia membacanya. Penulis berpendapat jurutera masih perlukan asas kukuh, pengetahuan luas dan kesediaan menyelami masalah."
+   },
+   "vi": {
+    "title": "Khi agent làm việc, kỹ sư vẫn cần biết gì?",
+    "summary": "Agent viết code nhanh hơn người đọc. Tác giả cho rằng kỹ sư vẫn cần nền tảng vững, kiến thức rộng và sẵn sàng đào sâu khi có sự cố."
+   },
+   "fr": {
+    "title": "Quand les agents font le travail, que faut-il encore savoir ?",
+    "summary": "Les agents écrivent du code plus vite qu'on ne le lit. Il faut toujours des bases solides, de la culture technique et l'envie de creuser quand ça casse."
+   },
+   "es": {
+    "title": "Cuando los agentes hacen el trabajo, ¿qué necesitas seguir sabiendo?",
+    "summary": "Los agentes escriben código más rápido de lo que se lee. Siguen haciendo falta fundamentos, amplitud y ganas de investigar cuando algo falla."
+   },
+   "de": {
+    "title": "Wenn Agenten die Arbeit machen: Was muss man noch wissen?",
+    "summary": "Agenten schreiben Code schneller, als man ihn lesen kann. Gefragt bleiben Grundlagen, Breite und die Bereitschaft, bei Fehlern tief einzusteigen."
+   }
+  }
+ },
+ "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment": {
+  "loc": {
+   "zh-Hans": {
+    "title": "数据恢复公司 CEO 被控诈骗勒索软件受害者",
+    "summary": "联邦大陪审团起诉 MonsterCloud CEO，指控他的勒索软件数据恢复业务欺诈客户，ProPublica 曾在 2019 年报道过这家公司。"
+   },
+   "ja": {
+    "title": "データ復旧会社CEO、ランサムウェア被害者への詐欺で起訴",
+    "summary": "連邦大陪審はMonsterCloudのCEOを、ランサムウェアのデータ復旧事業で顧客を欺いた疑いで起訴しました。ProPublicaが2019年に報じた会社です。"
+   },
+   "ko": {
+    "title": "데이터 복구 업체 CEO, 랜섬웨어 피해자 사기 혐의로 기소",
+    "summary": "연방 대배심이 MonsterCloud CEO를 랜섬웨어 데이터 복구 사업으로 고객을 속인 혐의로 기소했습니다. ProPublica가 2019년에 보도한 회사입니다."
+   },
+   "ms": {
+    "title": "CEO syarikat pemulihan data didakwa menipu mangsa ransomware",
+    "summary": "Juri agung persekutuan mendakwa CEO MonsterCloud kerana didakwa menipu pelanggan perniagaan pemulihan data ransomware, yang pernah dilaporkan ProPublica pada 2019."
+   },
+   "vi": {
+    "title": "CEO công ty khôi phục dữ liệu bị truy tố vì lừa nạn nhân ransomware",
+    "summary": "Đại bồi thẩm đoàn liên bang truy tố CEO MonsterCloud vì cáo buộc lừa khách hàng của dịch vụ khôi phục dữ liệu ransomware, công ty từng được ProPublica đưa tin năm 2019."
+   },
+   "fr": {
+    "title": "Un PDG de récupération de données inculpé pour avoir escroqué des victimes de rançongiciels",
+    "summary": "Un grand jury fédéral a inculpé le PDG de MonsterCloud pour avoir fraudé les clients de son activité de récupération, déjà visée par ProPublica en 2019."
+   },
+   "es": {
+    "title": "Acusan al CEO de una empresa de recuperación de datos de estafar a víctimas de ransomware",
+    "summary": "Un gran jurado federal acusó al CEO de MonsterCloud de defraudar a clientes de su negocio de recuperación, investigado por ProPublica en 2019."
+   },
+   "de": {
+    "title": "CEO einer Datenrettungsfirma wegen Betrugs an Ransomware-Opfern angeklagt",
+    "summary": "Eine Bundes-Grand-Jury klagte den CEO von MonsterCloud an, Kunden seines Ransomware-Datenrettungsgeschäfts betrogen zu haben; ProPublica berichtete 2019 darüber."
+   }
+  }
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Google DeepMind 发布 Genie 4 世界模型",
+    "summary": "实时可交互的世界模拟，原生带音频、更真实的物理和人体动作，可以用 Gemini 模型引导。"
+   },
+   "ja": {
+    "title": "Google DeepMind、世界モデルGenie 4を発表",
+    "summary": "ネイティブ音声、高度な物理、自然な人の動きを備え、Geminiモデルで操作できるリアルタイムの対話型世界シミュレーションです。"
+   },
+   "ko": {
+    "title": "Google DeepMind, 월드 모델 Genie 4 공개",
+    "summary": "네이티브 오디오, 정교한 물리, 자연스러운 사람 동작을 갖추고 Gemini 모델로 조종할 수 있는 실시간 인터랙티브 세계 시뮬레이션입니다."
+   },
+   "ms": {
+    "title": "Google DeepMind lancar model dunia Genie 4",
+    "summary": "Simulasi dunia interaktif masa nyata dengan audio asli, fizik lanjutan, gerakan manusia semula jadi dan kawalan melalui model Gemini."
+   },
+   "vi": {
+    "title": "Google DeepMind ra mắt mô hình thế giới Genie 4",
+    "summary": "Mô phỏng thế giới tương tác thời gian thực với âm thanh gốc, vật lý nâng cao, chuyển động người tự nhiên và điều khiển bằng mô hình Gemini."
+   },
+   "fr": {
+    "title": "Google DeepMind présente Genie 4, nouveau modèle de monde",
+    "summary": "Simulation de monde interactive en temps réel, avec audio natif, physique avancée, mouvements humains naturels et pilotage par les modèles Gemini."
+   },
+   "es": {
+    "title": "Google DeepMind presenta Genie 4, su nuevo modelo de mundo",
+    "summary": "Simulación de mundos interactiva en tiempo real con audio nativo, física avanzada, movimiento humano natural y control mediante modelos Gemini."
+   },
+   "de": {
+    "title": "Google DeepMind stellt Weltmodell Genie 4 vor",
+    "summary": "Interaktive Weltsimulation in Echtzeit mit nativem Audio, fortgeschrittener Physik, natürlicher Menschenbewegung und Steuerung über Gemini-Modelle."
+   }
+  }
+ },
+ "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Wired：美国政府扣押一份关于监控美国人的秘密法庭裁决",
+    "summary": "两位参议员称，政府在推动国会续期监控项目的同时拒绝公开 FISA 法院的裁决，属于违法。"
+   },
+   "ja": {
+    "title": "Wired：米政府、国民監視をめぐる秘密裁判所の判断を隠す",
+    "summary": "2人の上院議員は、政府が監視プログラムの更新を議会に迫りながらFISA裁判所の判断を開示しないのは違法だと主張しています。"
+   },
+   "ko": {
+    "title": "Wired: 미국 정부, 자국민 감시 관련 비밀 법원 판결 은폐",
+    "summary": "상원의원 두 명은 정부가 감시 프로그램 갱신을 의회에 요구하면서 FISA 법원 판결을 공개하지 않는 것은 위법이라고 말합니다."
+   },
+   "ms": {
+    "title": "Wired: Kerajaan AS sembunyikan keputusan mahkamah rahsia tentang pengintipan rakyatnya",
+    "summary": "Dua senator berkata kerajaan melanggar undang-undang dengan menahan keputusan mahkamah FISA sambil mendesak Kongres memperbaharui program pengawasan."
+   },
+   "vi": {
+    "title": "Wired: Chính phủ Mỹ giấu phán quyết tòa án bí mật về việc giám sát công dân",
+    "summary": "Hai thượng nghị sĩ cho rằng chính phủ vi phạm luật khi giữ kín phán quyết của tòa FISA trong lúc thúc Quốc hội gia hạn chương trình giám sát."
+   },
+   "fr": {
+    "title": "Wired : le gouvernement américain cache une décision secrète sur la surveillance des Américains",
+    "summary": "Deux sénateurs accusent l'administration d'enfreindre la loi en retenant une décision du tribunal FISA tout en pressant le Congrès de renouveler la surveillance."
+   },
+   "es": {
+    "title": "Wired: el Gobierno de EE. UU. oculta un fallo secreto sobre cómo espía a los estadounidenses",
+    "summary": "Dos senadores dicen que la Administración viola la ley al retener la decisión del tribunal FISA mientras presiona al Congreso para renovar el programa de vigilancia."
+   },
+   "de": {
+    "title": "Wired: US-Regierung hält geheimes Gerichtsurteil zur Überwachung zurück",
+    "summary": "Zwei Senatoren werfen der Regierung Rechtsbruch vor, weil sie ein FISA-Urteil zurückhält und zugleich die Verlängerung des Überwachungsprogramms fordert."
+   }
+  }
+ },
+ "https://ghostty.org/docs/install/release-notes/1-4-0": {
+  "loc": {
+   "zh-Hans": {
+    "title": "开源终端 Ghostty 发布 1.4.0",
+    "summary": "Ghostty 1.4.0 的发布说明，版本于 2026 年 10 月 27 日发布。"
+   },
+   "ja": {
+    "title": "オープンソース端末Ghostty 1.4.0リリース",
+    "summary": "2026年10月27日に公開されたGhostty 1.4.0のリリースノートです。"
+   },
+   "ko": {
+    "title": "오픈소스 터미널 Ghostty 1.4.0 출시",
+    "summary": "2026년 10월 27일 공개된 Ghostty 1.4.0 릴리스 노트입니다."
+   },
+   "ms": {
+    "title": "Terminal sumber terbuka Ghostty 1.4.0 dikeluarkan",
+    "summary": "Nota keluaran Ghostty 1.4.0, dikeluarkan pada 27 Oktober 2026."
+   },
+   "vi": {
+    "title": "Terminal mã nguồn mở Ghostty phát hành 1.4.0",
+    "summary": "Ghi chú phát hành Ghostty 1.4.0, ra mắt ngày 27/10/2026."
+   },
+   "fr": {
+    "title": "Sortie du terminal open source Ghostty 1.4.0",
+    "summary": "Notes de version de Ghostty 1.4.0, publiée le 27 octobre 2026."
+   },
+   "es": {
+    "title": "Sale el terminal de código abierto Ghostty 1.4.0",
+    "summary": "Notas de la versión Ghostty 1.4.0, publicada el 27 de octubre de 2026."
+   },
+   "de": {
+    "title": "Open-Source-Terminal Ghostty 1.4.0 erschienen",
+    "summary": "Versionshinweise zu Ghostty 1.4.0, veröffentlicht am 27. Oktober 2026."
+   }
+  }
+ },
+ "https://www.apple.com/imac/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "苹果发布 M6 款 iMac",
+    "summary": "24 英寸 4.5K 视网膜屏一体机换上 M6 芯片，主打 AI 性能，支持 Wi‑Fi 7 和蓝牙 6。"
+   },
+   "ja": {
+    "title": "Apple、M6搭載の新iMacを発表",
+    "summary": "24インチ4.5K Retinaの一体型デスクトップがM6チップに。AI性能を強化し、Wi‑Fi 7とBluetooth 6に対応します。"
+   },
+   "ko": {
+    "title": "애플, M6 탑재 새 iMac 공개",
+    "summary": "24인치 4.5K 레티나 일체형 데스크톱이 M6 칩을 탑재해 AI 성능을 높였고 Wi‑Fi 7과 블루투스 6을 지원합니다."
+   },
+   "ms": {
+    "title": "Apple lancar iMac baharu dengan M6",
+    "summary": "Desktop semua-dalam-satu 24 inci 4.5K Retina kini dengan cip M6, lebih berkuasa untuk AI, serta Wi‑Fi 7 dan Bluetooth 6."
+   },
+   "vi": {
+    "title": "Apple ra mắt iMac mới với chip M6",
+    "summary": "Máy tính tất cả trong một 24 inch màn Retina 4.5K dùng chip M6, mạnh cho AI, hỗ trợ Wi‑Fi 7 và Bluetooth 6."
+   },
+   "fr": {
+    "title": "Apple présente un nouvel iMac avec puce M6",
+    "summary": "L'ordinateur tout-en-un 24 pouces Retina 4,5K passe à la puce M6, pensé pour l'IA, avec Wi‑Fi 7 et Bluetooth 6."
+   },
+   "es": {
+    "title": "Apple presenta el nuevo iMac con M6",
+    "summary": "El todo en uno de 24 pulgadas y pantalla Retina 4,5K estrena el chip M6, orientado a la IA, con Wi‑Fi 7 y Bluetooth 6."
+   },
+   "de": {
+    "title": "Apple stellt neuen iMac mit M6 vor",
+    "summary": "Der 24-Zoll-All-in-One mit 4,5K-Retina-Display bekommt den M6-Chip, ausgelegt auf KI, mit Wi‑Fi 7 und Bluetooth 6."
+   }
+  }
+ },
+ "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "苹果发布 M6 款 14 英寸 MacBook Pro",
+    "summary": "新款带来更强性能、端侧 AI 能力和更快的连接。"
+   },
+   "ja": {
+    "title": "Apple、M6搭載の14インチMacBook Proを発表",
+    "summary": "性能の向上、強力なオンデバイスAI、より高速な接続を備えます。"
+   },
+   "ko": {
+    "title": "애플, M6 탑재 14인치 맥북 프로 공개",
+    "summary": "더 높은 성능, 강력한 온디바이스 AI, 더 빠른 연결성을 제공합니다."
+   },
+   "ms": {
+    "title": "Apple lancar MacBook Pro 14 inci dengan M6",
+    "summary": "Prestasi lebih tinggi, keupayaan AI pada peranti yang berkuasa dan sambungan lebih pantas."
+   },
+   "vi": {
+    "title": "Apple ra mắt MacBook Pro 14 inch với M6",
+    "summary": "Hiệu năng cao hơn, AI trên thiết bị mạnh mẽ và kết nối nhanh hơn."
+   },
+   "fr": {
+    "title": "Apple présente le MacBook Pro 14 pouces avec M6",
+    "summary": "Plus de performances, une IA embarquée puissante et une connectivité plus rapide."
+   },
+   "es": {
+    "title": "Apple presenta el MacBook Pro de 14 pulgadas con M6",
+    "summary": "Más rendimiento, potente IA en el dispositivo y conectividad más rápida."
+   },
+   "de": {
+    "title": "Apple stellt 14-Zoll-MacBook-Pro mit M6 vor",
+    "summary": "Mehr Leistung, starke On-Device-KI und schnellere Verbindungen."
+   }
+  }
+ },
+ "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Discord：可发现服务器的聊天将能被搜索引擎找到",
+    "summary": "从 2026 年 11 月 16 日起，可发现服务器中的对话将更容易被网页搜索找到，管理员可选择公开哪些频道。"
+   },
+   "ja": {
+    "title": "Discord、公開サーバーの会話を検索エンジンで見つけやすく",
+    "summary": "2026年11月16日から、Discoverableサーバーの会話がウェブ検索で見つけやすくなり、管理者は公開するチャンネルを選べます。"
+   },
+   "ko": {
+    "title": "Discord, 공개 서버 대화를 검색 엔진에 노출",
+    "summary": "2026년 11월 16일부터 Discoverable 서버의 대화가 웹 검색에서 더 쉽게 검색되며, 관리자가 노출할 채널을 고를 수 있습니다."
+   },
+   "ms": {
+    "title": "Discord akan benarkan mesej pelayan awam ditemui melalui Google",
+    "summary": "Mulai 16 November 2026, perbualan dalam Discoverable Servers lebih mudah ditemui dalam carian web; pentadbir boleh memilih saluran yang dipaparkan."
+   },
+   "vi": {
+    "title": "Discord sắp cho phép tìm tin nhắn máy chủ công khai qua Google",
+    "summary": "Từ 16/11/2026, các cuộc trò chuyện trong Discoverable Servers sẽ dễ tìm hơn trên web; quản trị viên chọn kênh nào được hiển thị."
+   },
+   "fr": {
+    "title": "Discord va rendre les messages des serveurs publics trouvables via Google",
+    "summary": "Dès le 16 novembre 2026, les conversations des serveurs découvrables seront plus faciles à trouver sur le web ; les admins choisissent les salons exposés."
+   },
+   "es": {
+    "title": "Discord permitirá encontrar mensajes de servidores públicos desde Google",
+    "summary": "Desde el 16 de noviembre de 2026, las conversaciones de los servidores descubribles serán más fáciles de encontrar en la web; los administradores eligen qué canales se muestran."
+   },
+   "de": {
+    "title": "Discord macht Nachrichten öffentlicher Server über Google auffindbar",
+    "summary": "Ab dem 16. November 2026 sind Unterhaltungen in Discoverable Servers leichter per Websuche zu finden; Admins wählen, welche Kanäle sichtbar sind."
+   }
+  }
+ }
+}
