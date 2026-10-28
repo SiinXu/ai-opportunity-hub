@@ -49,28 +49,28 @@
     {
      "id": "hn-50257325",
      "title": {
-      "zh-Hans": "大赦国际承诺减少工作。 我从来没有工作过",
-      "zh-Hant": "大赦國際承諾減少工作。 我從來沒有工作過",
+      "zh-Hans": "AI 承诺让人少干活，我却从没这么忙过",
+      "zh-Hant": "AI 承諾讓人少幹活，我卻從沒這麼忙過",
       "en": "AI promised less work. I've never worked more",
-      "ja": "AIはより少ない仕事を約束しました。 私はこれ以上働かなかった",
-      "ko": "AI는 더 적은 일을 약속했습니다. 나는 더 이상 일하지 않았다",
-      "ms": "AI berjanji kurang bekerja. Aku tidak pernah bekerja lebih",
-      "vi": "Al hứa sẽ ít việc làm hơn. Tôi chưa bao giờ làm việc nhiều hơn",
-      "fr": "AI a promis moins de travail. Je n'ai jamais travaillé plus",
-      "es": "AI prometió menos trabajo. Nunca he trabajado más",
-      "de": "AI versprach weniger Arbeit. Ich habe nie mehr gearbeitet"
+      "ja": "AIは仕事を減らすはずだった。なのに今が一番忙しい",
+      "ko": "AI는 일을 줄여 준다고 했지만, 지금이 가장 바쁘다",
+      "ms": "AI janji kurangkan kerja, tetapi saya tidak pernah sesibuk ini",
+      "vi": "AI hứa giảm việc, nhưng tôi chưa bao giờ bận như bây giờ",
+      "fr": "L'IA promettait moins de travail, je n'ai jamais autant travaillé",
+      "es": "La IA prometía menos trabajo y nunca he trabajado tanto",
+      "de": "KI versprach weniger Arbeit – ich habe nie mehr gearbeitet"
      },
      "summary": {
       "en": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with…",
-      "zh-Hans": "代理使执行便宜, 所以我开始做更多的平行。 我的GitHub自2019年起的历史显示了它做了什么:作为技术的副总裁,我回到了全速的工程师速度,与.",
-      "ja": "エージェントは安く導入できたので、並行してもっとやってみよう。 2019年以来、私のGitHubの歴史は、私がフルスタックエンジニアのペースでバックアップしている技術のVPとして、何をしたかを示しています。",
-      "ko": "에이전트는 저렴 한 구현을 했다, 그래서 나는 병렬에서 훨씬 더 시작. 2019 년 이후 내 GitHub 역사는 그 일을 보여줍니다 : 기술의 VP로 나는 내 풀 스택 엔지니어 속도를 다시 ...",
-      "ms": "Agen agen membuat implementasi murah, jadi saya mulai melakukan jauh lebih banyak dari itu secara paralel. Sejarah GitHub-ku sejak 2019 menunjukkan apa yang terjadi: sebagai VP of Technology Aku kembali pada kecepatan insinyurku, dengan...",
-      "vi": "Các đặc vụ làm cho việc thực hiện rẻ tiền, vì vậy tôi bắt đầu làm nhiều hơn nữa của nó song song. Lịch sử của tôi từ năm 2019 cho thấy những gì đã xảy ra: với tư cách Phó Chủ tịch công nghệ tôi đã trở lại với tốc độ kỹ sư đầy đủ của mình, với...",
-      "fr": "Les agents ont rendu la mise en œuvre bon marché, donc j'ai commencé à en faire beaucoup plus en parallèle. Mon histoire GitHub depuis 2019 montre ce que cela a fait: en tant que vice-président de la technologie, je suis de retour à mon rythme...",
-      "es": "Los agentes hicieron que la implementación fuera barata, así que empecé a hacerlo mucho más en paralelo. Mi historia de GitHub desde 2019 muestra lo que hizo: como VP de Tecnología estoy de vuelta a mi ritmo completo de ingeniero, con...",
-      "de": "Agenten machten die Implementierung billig, also begann ich parallel viel mehr davon zu machen. Meine GitHub-Historie seit 2019 zeigt, was das getan hat: Als VP of Technology bin ich wieder in meinem Full-Stack-Ingenieurtempo, mit...",
-      "zh-Hant": "代理使執行便宜, 所以我開始做更多的平行。 我的GitHub自2019年起的歷史顯示了它做了什麼:作為技術的副總裁,我回到了全速的工程師速度,與."
+      "zh-Hans": "一位技术 VP 用自己的 GitHub 记录说明：Agent 让实现变便宜后，并行任务暴增，人反而更累。",
+      "ja": "ある技術VPが自身のGitHub履歴をもとに、エージェントで実装が安くなった結果、並行タスクが増えてかえって疲れるようになったと語ります。",
+      "ko": "한 기술 VP가 자신의 GitHub 기록으로, 에이전트 덕분에 구현이 싸지자 병렬 작업이 폭증해 오히려 더 지치게 됐다고 설명합니다.",
+      "ms": "Seorang VP teknologi menggunakan sejarah GitHubnya untuk menunjukkan bahawa apabila ejen menjadikan pelaksanaan murah, tugas selari bertambah dan kerja terasa lebih berat.",
+      "vi": "Một VP công nghệ dùng lịch sử GitHub của mình để cho thấy khi agent làm việc triển khai rẻ đi, số việc song song tăng vọt và con người lại mệt hơn.",
+      "fr": "Un VP technique montre, à partir de son historique GitHub, que des agents rendant l'implémentation bon marché multiplient les tâches parallèles et alourdissent la charge.",
+      "es": "Un VP de tecnología muestra con su historial de GitHub que, al abaratar los agentes la implementación, las tareas en paralelo se disparan y el trabajo pesa más.",
+      "de": "Ein Technik-VP zeigt anhand seiner GitHub-Historie: Seit Agenten die Umsetzung billig machen, laufen viel mehr Aufgaben parallel, und die Arbeit wird anstrengender.",
+      "zh-Hant": "一位技術 VP 用自己的 GitHub 記錄說明：Agent 讓實現變便宜後，並行任務暴增，人反而更累。"
      },
      "fact": {
       "zh-Hans": "Hacker News 605 分 · 586 条评论",
@@ -90,44 +90,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50257325"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50261819",
      "title": {
-      "zh-Hans": "警方利用人工智能拦下司机 以示怀疑",
-      "zh-Hant": "警方利用人工智慧攔下司機 以示懷疑",
+      "zh-Hans": "美国警方用 AI 和车牌识别拦停“行为可疑”的司机",
+      "zh-Hant": "美國警方用 AI 和車牌識別攔停“行為可疑”的司機",
       "en": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "ja": "警察は「疑わしい」行動のために運転者を引っ張るためにAIを使用しています",
-      "ko": "경찰은 AI를 사용하여 'suspicious' 행동에 대한 드라이버를 끌어",
-      "ms": "Polisi menggunakan AI untuk menepikan pengemudi untuk perilaku 'mencurigakan'",
-      "vi": "Cảnh sát đang sử dụng AI để chặn các tay đua vì hành vi đáng ngờ.",
-      "fr": "La police utilise l'IA pour arrêter les conducteurs pour un comportement \"suspicieux\"",
-      "es": "La policía está usando IA para detener a los conductores por comportamiento 'sospechoso'",
-      "de": "Polizei nutzt KI, um Fahrer für \"verdächtiges\" Verhalten zu ziehen"
+      "ja": "米警察、AIとナンバー読み取りで「不審な」運転者を停車させる",
+      "ko": "미국 경찰, AI와 번호판 인식으로 '수상한' 운전자 단속",
+      "ms": "Polis AS guna AI untuk tahan pemandu yang 'mencurigakan'",
+      "vi": "Cảnh sát Mỹ dùng AI để chặn tài xế có hành vi 'đáng ngờ'",
+      "fr": "La police américaine utilise l'IA pour arrêter des conducteurs « suspects »",
+      "es": "La policía de EE. UU. usa IA para detener a conductores «sospechosos»",
+      "de": "US-Polizei stoppt per KI Autofahrer mit „verdächtigem“ Verhalten"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 gizmodo.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 gizmodo.com。",
+      "zh-Hans": "ACLU 警告，执法机构正用车牌识别器和 AI 工具，根据行驶轨迹标记并拦停并未涉嫌具体犯罪的司机。",
+      "zh-Hant": "ACLU 警告，執法機構正用車牌識別器和 AI 工具，根據行駛軌跡標記並攔停並未涉嫌具體犯罪的司機。",
       "en": "Shared on Hacker News; original at gizmodo.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は gizmodo.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 gizmodo.com에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di gizmodo.com.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại gizmodo.com.",
-      "fr": "Partagé sur Hacker News ; original sur gizmodo.com.",
-      "es": "Compartido en Hacker News; original en gizmodo.com.",
-      "de": "Geteilt auf Hacker News; Original auf gizmodo.com."
+      "ja": "ACLUは、法執行機関がナンバー自動読み取りとAIツールで走行パターンを判定し、具体的な犯罪の疑いがない運転者まで停車させていると警告しています。",
+      "ko": "ACLU는 수사기관이 번호판 인식기와 AI 도구로 주행 패턴을 분석해 구체적 범죄 혐의가 없는 운전자까지 세우고 있다고 경고했습니다.",
+      "ms": "ACLU memberi amaran bahawa agensi penguatkuasaan menggunakan pembaca plat nombor dan alat AI untuk menahan pemandu berdasarkan corak perjalanan, walaupun tiada jenayah khusus disyaki.",
+      "vi": "ACLU cảnh báo các cơ quan thực thi pháp luật đang dùng máy đọc biển số và công cụ AI để chặn xe dựa trên lộ trình, dù tài xế không bị nghi phạm tội cụ thể nào.",
+      "fr": "L'ACLU alerte : des forces de l'ordre utilisent lecteurs de plaques et outils d'IA pour arrêter des conducteurs selon leurs trajets, sans soupçon d'infraction précise.",
+      "es": "La ACLU advierte que las fuerzas del orden usan lectores de matrículas y herramientas de IA para detener a conductores por sus patrones de viaje, sin sospecha de un delito concreto.",
+      "de": "Die ACLU warnt: Behörden nutzen Kennzeichenleser und KI-Tools, um Fahrer anhand ihrer Fahrmuster anzuhalten, auch ohne Verdacht auf eine konkrete Straftat."
      },
      "fact": {
       "zh-Hans": "Hacker News 279 分 · 216 条评论",
@@ -147,44 +136,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50261819"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50260814",
      "title": {
-      "zh-Hans": "Anthropic 训练克劳德 关于非法获取的斯坦福教授书籍",
-      "zh-Hant": "Anthropic 訓練克勞德 關於非法獲取的斯坦福教授書籍",
+      "zh-Hans": "斯坦福日报：Anthropic 用盗版书训练 Claude，涉及斯坦福教授著作",
+      "zh-Hant": "斯坦福日報：Anthropic 用盜版書訓練 Claude，涉及斯坦福教授著作",
       "en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "ja": "不正な方法でClaudeを訓練したスタンフォード教授の本",
-      "ko": "Anthropic은 불법 얻은 Stanford 교수의 책을 훈련",
-      "ms": "Antropik terlatih Claude pada ilegal diperoleh Stanford buku profesor '",
-      "vi": "Antropic đào tạo Claude trên những cuốn sách của giáo sư Stanford bất hợp pháp",
-      "fr": "Angropic a formé Claude à l'obtention illégale des livres des professeurs de Stanford",
-      "es": "Antrópico entrenó a Claude en libros de profesores Stanford obtenidos ilegalmente",
-      "de": "Anthropisch ausgebildet Claude auf illegal erhalten Stanford Professoren Bücher"
+      "ja": "Anthropic、違法入手したスタンフォード教授の著書でClaudeを訓練",
+      "ko": "Anthropic, 불법 입수한 스탠퍼드 교수 저서로 Claude 학습",
+      "ms": "Anthropic latih Claude dengan buku profesor Stanford yang diperoleh secara haram",
+      "vi": "Anthropic huấn luyện Claude bằng sách lậu của giáo sư Stanford",
+      "fr": "Anthropic a entraîné Claude sur des livres piratés de professeurs de Stanford",
+      "es": "Anthropic entrenó a Claude con libros pirateados de profesores de Stanford",
+      "de": "Anthropic trainierte Claude mit illegal beschafften Büchern von Stanford-Professoren"
      },
      "summary": {
       "en": "The AI company pirated at least 10 Stanford academics’ work in a $1.5 billion copyright settlement.",
-      "zh-Hans": "AI公司在15亿美元的版权协议中盗版了至少10部斯坦福学术作品.",
-      "ja": "AI企業は、少なくとも10のスタンフォードの学術論文の仕事を$ 1.5億の著作権の決済で海賊化しました。",
-      "ko": "AI 회사는 적어도 10 스탠포드 학회의 일 $ 1.5 억 저작권 정착.",
-      "ms": "Perusahaan AI ini membajak setidaknya 10 karya akademik Stanford dalam penyelesaian hak cipta sebesar $1,5 miliar.",
-      "vi": "Công ty AI đã vi phạm ít nhất 10 học giả ở Stanford trong việc định cư bản quyền.",
-      "fr": "La société AI a piraté au moins 10 universitaires de Stanford.",
-      "es": "La empresa AI pirateó al menos 10 estudiosos de Stanford en un acuerdo de derechos de autor de 1.500 millones de dólares.",
-      "de": "Die KI-Firma hat mindestens 10 Stanford-Akademiker in einem 1,5-Milliarden-Dollar-Urheberrechtsvergleich geraubt.",
-      "zh-Hant": "AI公司在15億美元的版權協議中盜版了至少10部斯坦福學術作品."
+      "zh-Hans": "报道称，在 15 亿美元版权和解案涉及的书目中，至少有 10 位斯坦福学者的作品被盗版用于训练。",
+      "ja": "報道によると、15億ドルの著作権和解の対象となった書籍のうち、少なくとも10人のスタンフォードの研究者の著作が海賊版として使われました。",
+      "ko": "보도에 따르면 15억 달러 저작권 합의 대상 도서 중 최소 10명의 스탠퍼드 학자 저작이 해적판으로 학습에 쓰였습니다.",
+      "ms": "Menurut laporan, sekurang-kurangnya 10 karya ahli akademik Stanford telah dicetak rompak dalam kes penyelesaian hak cipta bernilai 1.5 bilion dolar.",
+      "vi": "Theo bài báo, ít nhất 10 tác phẩm của học giả Stanford bị sao chép lậu, liên quan đến vụ dàn xếp bản quyền 1,5 tỷ đô la.",
+      "fr": "Selon l'article, au moins 10 universitaires de Stanford figurent parmi les œuvres piratées visées par l'accord de 1,5 milliard de dollars sur le droit d'auteur.",
+      "es": "Según el artículo, al menos 10 académicos de Stanford figuran entre las obras pirateadas del acuerdo de derechos de autor de 1500 millones de dólares.",
+      "de": "Laut Bericht gehören Werke von mindestens zehn Stanford-Forschenden zu den raubkopierten Büchern im Urheberrechtsvergleich über 1,5 Milliarden Dollar.",
+      "zh-Hant": "報道稱，在 15 億美元版權和解案涉及的書目中，至少有 10 位斯坦福學者的作品被盜版用於訓練。"
      },
      "fact": {
       "zh-Hans": "Hacker News 326 分 · 174 条评论",
@@ -204,44 +182,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50260814"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50257326",
      "title": {
-      "zh-Hans": "维基百科对AI-Generated内容的清理",
-      "zh-Hant": "維基百科對AI-Generated內容的清理",
+      "zh-Hans": "维基百科编辑正在清理 AI 生成内容",
+      "zh-Hant": "維基百科編輯正在清理 AI 生成內容",
       "en": "Wikipedia's Cleanup of AI-Generated Content",
-      "ja": "ウィキペディアのAI生成コンテンツのクリーンアップ",
-      "ko": "Wikipedia의 AI-Generated 콘텐츠 정리",
-      "ms": "Pembersihan Wikipedia Wikipedia Wikipedia Kandungan AI-Generated",
-      "vi": "Trình làm sạch nội dung của Wikipedia",
-      "fr": "Le nettoyage du contenu généré par l'IA par Wikipedia",
-      "es": "Limpieza de contenidos generados por IA en Wikipedia",
-      "de": "Wikipedia bereinigt AI-generierte Inhalte"
+      "ja": "ウィキペディアのAI生成コンテンツ一掃作戦",
+      "ko": "위키백과의 AI 생성 콘텐츠 정리 작업",
+      "ms": "Usaha Wikipedia membersihkan kandungan janaan AI",
+      "vi": "Wikipedia dọn dẹp nội dung do AI tạo ra",
+      "fr": "Wikipédia fait le ménage dans les contenus générés par IA",
+      "es": "Wikipedia limpia el contenido generado por IA",
+      "de": "Wikipedia räumt KI-generierte Inhalte auf"
      },
      "summary": {
       "en": "AI-generated text is harder to spot, but that hasn’t deterred them",
-      "zh-Hans": "AI生成的文本更难发现,",
-      "ja": "AI-generated テキストは、スポットが難しく、劣化しない",
-      "ko": "AI-generated text is harder to spot, 하지만 그들은 그들을 결정하지 않는",
-      "ms": "Teks buatan AI lebih sulit diketahui, tapi itu tidak menghalangi mereka",
-      "vi": "Văn bản được tạo ra bởi AI khó phát hiện, nhưng điều đó không ngăn cản họ",
-      "fr": "Le texte généré par l'IA est plus difficile à repérer, mais cela ne les a pas découragés.",
-      "es": "El texto generado por AI es más difícil de detectar, pero eso no los ha disuadido",
-      "de": "KI-generierter Text ist schwerer zu erkennen, aber das hat sie nicht abgeschreckt",
-      "zh-Hant": "AI生成的文字更難發現,"
+      "zh-Hans": "AI 写的文字越来越难识别，但维基百科的 AI 清理项目仍在持续推进。",
+      "ja": "AIが書いた文章は見分けにくくなっていますが、ウィキペディアの編集者たちは除去作業を続けています。",
+      "ko": "AI가 쓴 글은 점점 구별하기 어려워지지만, 위키백과 편집자들은 정리 작업을 이어가고 있습니다.",
+      "ms": "Teks janaan AI semakin sukar dikesan, tetapi editor Wikipedia terus menjalankan kerja pembersihan.",
+      "vi": "Văn bản do AI viết ngày càng khó nhận ra, nhưng các biên tập viên Wikipedia vẫn tiếp tục dọn dẹp.",
+      "fr": "Les textes écrits par IA sont de plus en plus difficiles à repérer, mais les éditeurs de Wikipédia poursuivent le nettoyage.",
+      "es": "El texto generado por IA es cada vez más difícil de detectar, pero los editores de Wikipedia siguen con la limpieza.",
+      "de": "KI-Texte sind immer schwerer zu erkennen, doch die Wikipedia-Autoren setzen die Aufräumarbeit fort.",
+      "zh-Hant": "AI 寫的文字越來越難識別，但維基百科的 AI 清理專案仍在持續推進。"
      },
      "fact": {
       "zh-Hans": "Hacker News 393 分 · 180 条评论",
@@ -261,44 +228,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50257326"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50257419",
      "title": {
-      "zh-Hans": "Python的实验JIT要取出",
-      "zh-Hant": "Python的實驗JIT要取出",
+      "zh-Hans": "CPython 实验性 JIT 将被移除",
+      "zh-Hant": "CPython 實驗性 JIT 將被移除",
       "en": "Python's experimental JIT to be removed",
-      "ja": "Python の実験 JIT を削除",
-      "ko": "Python의 실험적인 JIT를 제거",
-      "ms": "UJIT eksperimental Python untuk dibuang",
-      "vi": "Comment",
-      "fr": "JIT expérimental de Python à supprimer",
-      "es": "El JIT experimental de Python para ser eliminado",
-      "de": "Pythons experimentelles JIT soll entfernt werden"
+      "ja": "CPythonの実験的JITが削除へ",
+      "ko": "CPython의 실험적 JIT, 제거 예정",
+      "ms": "JIT eksperimental CPython akan dibuang",
+      "vi": "JIT thử nghiệm của CPython sẽ bị gỡ bỏ",
+      "fr": "Le JIT expérimental de CPython va être retiré",
+      "es": "El JIT experimental de CPython será eliminado",
+      "de": "CPythons experimenteller JIT wird entfernt"
      },
      "summary": {
-      "en": "LWN counts on its subscribing readers to support its mission of creating relevant human-written news coverage of the Linux and free-software communities.",
-      "zh-Hans": "LWN依靠其订阅读者来支持其为Linux和自由软件社区制作相关的人文新闻报道的任务.",
-      "ja": "LWNは、そのサブスクライブリーダーにカウントされ、Linuxおよびフリーソフトウェアコミュニティの関連したヒューマン・クリッテン・ニュース・カバレッジを作成するという使命を支援しています。",
-      "ko": "LWN은 Linux 및 프리 소프트웨어 커뮤니티의 관련 인간 기반 뉴스 적용을 만드는 임무를 지원하기 위해 서브스 크리빙 리더에 대한 계산.",
-      "ms": "UNESCO LWN mengandalkan para pembacanya yang berlangganan untuk mendukung misinya dalam menciptakan liputan berita tertulis manusia yang relevan dari komunitas Linux dan free-software.",
-      "vi": "LWN phụ thuộc vào các độc giả của nó để hỗ trợ cho nhiệm vụ tạo ra tin tức con người có liên quan về các cộng đồng Linux và tự do ngôn luận.",
-      "fr": "LWN compte sur ses lecteurs abonnés pour soutenir sa mission de créer une couverture d'actualité humaine pertinente des communautés Linux et free-software.",
-      "es": "LWN cuenta con sus lectores que suscriben para apoyar su misión de crear una cobertura de noticias relevante escrita por humanos de las comunidades Linux y free-software.",
-      "de": "LWN setzt darauf, dass seine abonnierenden Leser seine Mission unterstützen, relevante, von Menschen geschriebene Nachrichten über die Linux- und Freie-Software-Gemeinschaften zu erstellen.",
-      "zh-Hant": "LWN依靠其訂閱讀者來支援其為Linux和自由軟體社群製作相關的人文新聞報道的任務."
+      "en": "Welcome to LWN.net The following subscription-only content has been made available to you by an LWN subscriber. Thousands of subscribers depend on LWN for the best news from the Linux and free…",
+      "zh-Hans": "2024 年为 3.13 加入的实验性 JIT 编译器，因维护者撤回 PEP 836，开发基本宣告终止。",
+      "ja": "3.13向けに2024年に追加された実験的JITコンパイラは、メンテナがPEP 836を取り下げたことで開発が事実上終了しました。",
+      "ko": "3.13을 위해 2024년에 추가된 실험적 JIT 컴파일러는 메인테이너가 PEP 836을 철회하면서 개발이 사실상 끝났습니다.",
+      "ms": "Pengkompil JIT eksperimental yang ditambah untuk 3.13 pada 2024 kini terhenti selepas penyelenggara menarik balik PEP 836.",
+      "vi": "Trình biên dịch JIT thử nghiệm được thêm vào bản 3.13 năm 2024 gần như dừng phát triển sau khi nhóm duy trì rút lại PEP 836.",
+      "fr": "Le compilateur JIT expérimental ajouté en 2024 pour la 3.13 est abandonné de fait après le retrait de la PEP 836 par ses mainteneurs.",
+      "es": "El compilador JIT experimental añadido en 2024 para la 3.13 queda prácticamente abandonado tras retirar sus mantenedores la PEP 836.",
+      "de": "Der 2024 für Version 3.13 eingeführte experimentelle JIT-Compiler ist praktisch am Ende, nachdem die Maintainer PEP 836 zurückgezogen haben.",
+      "zh-Hant": "2024 年為 3.13 加入的實驗性 JIT 編譯器，因維護者撤回 PEP 836，開發基本宣告終止。"
      },
      "fact": {
       "zh-Hans": "Hacker News 385 分 · 203 条评论",
@@ -318,44 +274,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50257419"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50259406",
      "title": {
-      "zh-Hans": "我的数据用于模型训练吗?",
-      "zh-Hant": "我的資料用於模型訓練嗎?",
+      "zh-Hans": "Claude 说明：我的数据会被用于模型训练吗？",
+      "zh-Hant": "Claude 說明：我的資料會被用於模型訓練嗎？",
       "en": "Is my data used for model training?",
-      "ja": "モデルのトレーニングに使用するデータはありますか?",
-      "ko": "모델 교육에 사용되는 데이터는?",
-      "ms": "Apakah data saya digunakan untuk pelatihan model?",
-      "vi": "Dữ liệu của tôi được sử dụng để đào tạo mô hình?",
-      "fr": "Mes données sont-elles utilisées pour la formation des modèles?",
-      "es": "¿Se usan mis datos para el entrenamiento de modelos?",
-      "de": "Werden meine Daten für Modellschulungen verwendet?"
+      "ja": "Claudeの説明：私のデータはモデル学習に使われるのか",
+      "ko": "Claude 안내: 내 데이터가 모델 학습에 쓰이나요?",
+      "ms": "Claude: Adakah data saya digunakan untuk latihan model?",
+      "vi": "Claude: Dữ liệu của tôi có được dùng để huấn luyện mô hình không?",
+      "fr": "Claude : mes données servent-elles à entraîner les modèles ?",
+      "es": "Claude: ¿se usan mis datos para entrenar modelos?",
+      "de": "Claude: Werden meine Daten fürs Modelltraining genutzt?"
      },
      "summary": {
       "en": "This article is about our commercial products such as Claude for Work and the Anthropic API. For our consumer products such as Claude Free, Pro, Max and when accounts from those plans use Claude…",
-      "zh-Hans": "这篇文章是关于我们的商业产品,例如Claude for Work和Anthropic API. 我们的消费产品,如Claude Free, Pro, Max, 以及当这些计划的账户使用Claude时...",
-      "ja": "この記事は、Claude for WorkやAnthropic APIなどの商用製品についてです。 Claude Free、Pro、Max、およびこれらのプランのアカウントがClaudeを使用する際の消費者向け製品",
-      "ko": "이 문서는 작업 및 Anthropic API에 대한 Claude와 같은 상업 제품에 관한 것입니다. Claude Free, Pro, Max와 같은 우리의 소비자 제품 및 그 계획에서 계정이 Claude를 사용할 때 ...",
-      "ms": "Artikel ini berisi tentang produk komersial kita seperti Claude for Work dan API Antropik. Untuk produk konsumen kita seperti Claude Free, Pro, Max dan ketika rekening dari rencana itu menggunakan Claude...",
-      "vi": "Bài báo này nói về sản phẩm thương mại của chúng ta như Claude for Work and the Antropic API. Đối với các sản phẩm tiêu dùng như Claude Free, Pro, Max và khi tài khoản từ những kế hoạch đó sử dụng Claude...",
-      "fr": "Cet article traite de nos produits commerciaux tels que Claude for Work et l'API anthropique. Pour nos produits de consommation tels que Claude Free, Pro, Max et quand les comptes de ces plans utilisent Claude...",
-      "es": "Este artículo trata de nuestros productos comerciales como Claude for Work y la API antropópica. Para nuestros productos de consumo como Claude Free, Pro, Max y cuando las cuentas de esos planes usan Claude...",
-      "de": "Dieser Artikel behandelt unsere kommerziellen Produkte wie Claude for Work und die Anthropic API. Für unsere Verbraucherprodukte wie Claude Free, Pro, Max und wenn Konten aus diesen Plänen Claude verwenden ...",
-      "zh-Hant": "這篇文章是關於我們的商業產品,例如Claude for Work和Anthropic API. 我們的消費產品,如Claude Free, Pro, Max, 以及當這些計劃的賬戶使用Claude時..."
+      "zh-Hans": "Anthropic 的帮助页，说明 Claude for Work、API 等商用产品与个人版套餐在训练数据使用上的不同规则。",
+      "ja": "Claude for WorkやAPIなどの商用製品と個人向けプランで、学習データの扱いがどう違うかを説明するAnthropicのヘルプページです。",
+      "ko": "Claude for Work, API 같은 상용 제품과 개인 요금제에서 학습 데이터 사용 규칙이 어떻게 다른지 설명하는 Anthropic 도움말입니다.",
+      "ms": "Halaman bantuan Anthropic yang menerangkan perbezaan peraturan data latihan antara produk komersial seperti Claude for Work dan API dengan pelan pengguna.",
+      "vi": "Trang trợ giúp của Anthropic giải thích quy tắc dùng dữ liệu huấn luyện khác nhau giữa sản phẩm thương mại như Claude for Work, API và các gói cá nhân.",
+      "fr": "Page d'aide d'Anthropic sur les règles d'entraînement qui diffèrent entre les produits commerciaux (Claude for Work, API) et les offres grand public.",
+      "es": "Página de ayuda de Anthropic sobre las reglas de entrenamiento que difieren entre productos comerciales (Claude for Work, API) y planes de consumo.",
+      "de": "Hilfeseite von Anthropic zu den unterschiedlichen Trainingsregeln für kommerzielle Produkte wie Claude for Work und die API sowie für Verbraucherpläne.",
+      "zh-Hant": "Anthropic 的幫助頁，說明 Claude for Work、API 等商用產品與個人版套餐在訓練資料使用上的不同規則。"
      },
      "fact": {
       "zh-Hans": "Hacker News 205 分 · 91 条评论",
@@ -375,44 +320,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50259406"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50261589",
      "title": {
-      "zh-Hans": "亚马逊是Gutting 它的AI分部在持续失败后",
-      "zh-Hant": "亞馬遜是Gutting 它的AI分部在持續失敗後",
+      "zh-Hans": "Futurism：亚马逊在持续受挫后大幅收缩 AI 部门",
+      "zh-Hant": "Futurism：亞馬遜在持續受挫後大幅收縮 AI 部門",
       "en": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "ja": "アマゾンは、持続的な失敗の後、そのAI部門をグッティングしています",
-      "ko": "Amazon은 지속 실패 후 AI 부서를 Gutting",
-      "ms": "Amazon Menggugat Divisi AInya Setelah Gagal",
-      "vi": "Amazon là sư đoàn trí tuệ sau khi tiếp tục thất bại",
-      "fr": "Amazon est sa division AI après un échec soutenu",
-      "es": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "de": "Amazon löscht seine KI-Abteilung nach anhaltendem Scheitern"
+      "ja": "Futurism：Amazon、不振続きのAI部門を大幅縮小",
+      "ko": "Futurism: 아마존, 부진 끝에 AI 부문 대폭 축소",
+      "ms": "Futurism: Amazon kecilkan bahagian AI selepas kegagalan berterusan",
+      "vi": "Futurism: Amazon cắt giảm mạnh mảng AI sau thất bại kéo dài",
+      "fr": "Futurism : Amazon taille dans sa division IA après des échecs répétés",
+      "es": "Futurism: Amazon recorta su división de IA tras fracasos continuos",
+      "de": "Futurism: Amazon baut KI-Sparte nach anhaltenden Misserfolgen ab"
      },
      "summary": {
       "en": "Amazon is gutting its AI labs and funneling its resources into a new project headed by a noted AI robotics guru.",
-      "zh-Hans": "亚马逊正在将人工智能实验室切断,并将资源输入一个由知名的人工智能机器人大师领导的新项目。",
-      "ja": "Amazonは、AIラボを案内し、注目のAIロボティックス・グル氏を題材とした新しいプロジェクトにリソースを漏らすものです。",
-      "ko": "아마존은 AI 로봇의 지루한 AI 로봇에 의해 이끌린 새로운 프로젝트로 AI 실험실과 깔때기를 즐깁니다.",
-      "ms": "Amazon sedang mengumpulkan laboratorium AI dan menyalurkan sumber dayanya ke proyek baru yang dikepalai oleh guru robot AI yang terkenal.",
-      "vi": "Amazon đang moi ruột các phòng thí nghiệm AI và dồn nguồn lực của nó vào một dự án mới do một thầy dạy robot nổi tiếng điều khiển.",
-      "fr": "Amazon vide ses laboratoires d'IA et enfonce ses ressources dans un nouveau projet dirigé par un guru de robotique d'IA.",
-      "es": "Amazon está destrozando sus laboratorios de IA y embalando sus recursos en un nuevo proyecto encabezado por un famoso gurú de robótica AI.",
-      "de": "Amazon entkernt seine KI-Labors und leitet seine Ressourcen in ein neues Projekt, das von einem bekannten KI-Robotik-Guru geleitet wird.",
-      "zh-Hant": "亞馬遜正在將人工智慧實驗室切斷,並將資源輸入一個由知名的人工智慧機器人大師領導的新專案。"
+      "zh-Hans": "报道称亚马逊正在裁撤 AI 实验室，把资源转向一位知名 AI 机器人专家领导的新项目。",
+      "ja": "報道によると、AmazonはAIラボを縮小し、著名なAIロボット研究者が率いる新プロジェクトに資源を集中させています。",
+      "ko": "보도에 따르면 아마존은 AI 연구소를 축소하고 유명 AI 로봇 전문가가 이끄는 새 프로젝트로 자원을 옮기고 있습니다.",
+      "ms": "Menurut laporan, Amazon mengurangkan makmal AInya dan menyalurkan sumber kepada projek baharu yang diketuai pakar robotik AI terkenal.",
+      "vi": "Theo bài báo, Amazon đang thu hẹp các phòng thí nghiệm AI và dồn nguồn lực cho dự án mới do một chuyên gia robot AI nổi tiếng dẫn dắt.",
+      "fr": "Selon l'article, Amazon démantèle ses laboratoires d'IA et réoriente ses ressources vers un nouveau projet dirigé par un spécialiste reconnu de la robotique.",
+      "es": "Según el artículo, Amazon desmantela sus laboratorios de IA y destina recursos a un nuevo proyecto dirigido por un reconocido experto en robótica.",
+      "de": "Laut Bericht verkleinert Amazon seine KI-Labore und lenkt Ressourcen in ein neues Projekt unter Leitung eines bekannten Robotik-Experten.",
+      "zh-Hant": "報道稱亞馬遜正在裁撤 AI 實驗室，把資源轉向一位知名 AI 機器人專家領導的新專案。"
      },
      "fact": {
       "zh-Hans": "Hacker News 131 分 · 64 条评论",
@@ -432,44 +366,33 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50261589"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50261647",
      "title": {
-      "zh-Hans": "在Lean正规化的有限简易团体分类",
-      "zh-Hant": "在Lean正規化的有限簡易團體分類",
+      "zh-Hans": "有限单群分类定理在 Lean 中完整形式化",
+      "zh-Hant": "有限單群分類定理在 Lean 中完整形式化",
       "en": "Classification of Finite Simple Groups Formalized in Lean",
-      "ja": "リーンでフォーマライズされたFinite Simple Groupの分類",
-      "ko": "Finite Simple Groups 분류",
-      "ms": "Pengklasifikasian Kelompok Sederhana Finite Diramalkan di Lean",
-      "vi": "Phân loại các nhóm đơn giản hữu hạn được sắp xếp theo nghiêng",
-      "fr": "Classification des groupes simples finis formalisé en maigre",
-      "es": "Clasificación de grupos simples finitos formalizados en mago",
-      "de": "Klassifikation von Finite Simple Groups Formalisiert in Lean"
+      "ja": "有限単純群の分類定理をLeanで完全形式化",
+      "ko": "유한 단순군 분류 정리, Lean으로 완전 형식화",
+      "ms": "Klasifikasi kumpulan ringkas terhingga diformalkan dalam Lean",
+      "vi": "Phân loại nhóm đơn hữu hạn được hình thức hóa trong Lean",
+      "fr": "La classification des groupes simples finis formalisée en Lean",
+      "es": "La clasificación de los grupos simples finitos, formalizada en Lean",
+      "de": "Klassifikation endlicher einfacher Gruppen in Lean formalisiert"
      },
      "summary": {
       "en": "A complete formalization in Lean of the first-generation proof of the classification of finite simple groups, with every logical step checked by Lean’s kernel.",
-      "zh-Hans": "在Lean中将有限简单组的分类的第一代证明完全正规化,每个逻辑步骤都由Lean的内核检查.",
-      "ja": "フィニトの単純なグループの分類の第一世代の証拠のリーンで完全な正式化, すべての論理的なステップは、リーンのカーネルによってチェック.",
-      "ko": "Lean의 커널에 의해 확인된 모든 논리 단계와 finite Simple 그룹의 분류의 첫 번째 세대 증거의 Lean에서 완전한 형식화.",
-      "ms": "A formalisasi lengkap dalam Lean dari bukti generasi pertama klasifikasi kelompok sederhana terbatas, dengan setiap langkah logis diperiksa oleh kernel Lean.",
-      "vi": "Một hình thức hóa hoàn chỉnh dựa vào bằng chứng thế hệ đầu tiên phân loại các nhóm đơn giản hữu hạn, với mỗi bước hợp lý được kiểm tra bởi hạt nhân của Left.",
-      "fr": "Une formalisation complète en Lean de la preuve de première génération de la classification des groupes finis simples, avec chaque étape logique contrôlée par le noyau Lean.",
-      "es": "Una formalización completa en Lean de la prueba de primera generación de la clasificación de grupos simples finitos, con cada paso lógico revisado por el núcleo de Lean.",
-      "de": "Eine vollständige Formalisierung in Lean des Nachweises der ersten Generation für die Klassifizierung endlicher einfacher Gruppen, wobei jeder logische Schritt vom Lean-Kernel überprüft wird.",
-      "zh-Hant": "在Lean中將有限簡單組的分類的第一代證明完全正規化,每個邏輯步驟都由Lean的核心檢查."
+      "zh-Hans": "第一代有限单群分类证明在 Lean 中完成形式化，每一步逻辑都经过 Lean 内核检查。",
+      "ja": "有限単純群の分類の第一世代の証明をLeanで形式化し、すべての論理ステップをLeanのカーネルが検証しました。",
+      "ko": "유한 단순군 분류의 1세대 증명을 Lean으로 형식화했으며 모든 논리 단계를 Lean 커널이 검증했습니다.",
+      "ms": "Bukti generasi pertama klasifikasi kumpulan ringkas terhingga diformalkan sepenuhnya dalam Lean, dengan setiap langkah disemak oleh kernel Lean.",
+      "vi": "Chứng minh thế hệ đầu tiên của định lý phân loại nhóm đơn hữu hạn đã được hình thức hóa hoàn toàn trong Lean, mọi bước đều được nhân Lean kiểm tra.",
+      "fr": "Formalisation complète en Lean de la première preuve de la classification des groupes simples finis, chaque étape étant vérifiée par le noyau de Lean.",
+      "es": "Formalización completa en Lean de la primera prueba de la clasificación de grupos simples finitos, con cada paso verificado por el núcleo de Lean.",
+      "de": "Vollständige Lean-Formalisierung des Beweises der ersten Generation, jeder logische Schritt vom Lean-Kernel geprüft.",
+      "zh-Hant": "第一代有限單群分類證明在 Lean 中完成形式化，每一步邏輯都經過 Lean 核心檢查。"
      },
      "fact": {
       "zh-Hans": "Hacker News 124 分 · 28 条评论",
@@ -489,46 +412,35 @@
      "extra": [
       "https://news.ycombinator.com/item?id=50261647"
      ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     }
    ],
    "more": [
     {
      "id": "hn-50255298",
      "title": {
-      "zh-Hans": "AI时代的神话\"人-月\"",
-      "zh-Hant": "AI時代的神話\"人-月\"",
+      "zh-Hans": "AI 时代的《人月神话》",
+      "zh-Hant": "AI 時代的《人月神話》",
       "en": "The Mythical Man-Month in the Age of AI",
-      "ja": "AI時代の神話的なマンマンマンマンマンマンマンマンマンマンマンマンマンマン",
-      "ko": "AI 시대의 신화 남자 달",
-      "ms": "Mythic Man-Month pada Zaman AI",
-      "vi": "Người huyền thoại trong thời đại AI",
-      "fr": "L'homme-mois mystique à l'ère de l'IA",
-      "es": "El Hombre-Mes Místico en la Edad de AI",
-      "de": "Der mythische Mann-Monat im Zeitalter der KI"
+      "ja": "AI時代の『人月の神話』",
+      "ko": "AI 시대의 '맨먼스 미신'",
+      "ms": "Mitos Bulan-Manusia pada zaman AI",
+      "vi": "Thần thoại tháng-người trong thời đại AI",
+      "fr": "Le mythe du mois-homme à l'ère de l'IA",
+      "es": "El mítico hombre-mes en la era de la IA",
+      "de": "Der Mythos vom Mann-Monat im KI-Zeitalter"
      },
      "summary": {
       "en": "An update to Brooks's Law in the age of AI.",
-      "zh-Hans": "在AI时代更新布鲁克斯法律.",
-      "ja": "AI時代のブルックス法へのアップデート",
-      "ko": "AI의 시대에 Brooks의 법에 대한 업데이트.",
-      "ms": "Update untuk Brooks's Law pada usia AI.",
-      "vi": "Cập nhật luật của Brooks vào thời Al.",
-      "fr": "Une mise à jour de la loi de Brooks à l'ère de l'IA.",
-      "es": "Una actualización de la ley de Brooks en la era de AI.",
-      "de": "Ein Update zu Brooks 'Gesetz im Zeitalter der KI.",
-      "zh-Hant": "在AI時代更新布魯克斯法律."
+      "zh-Hans": "把布鲁克斯定律放到 AI 时代重新审视的一篇文章。",
+      "ja": "ブルックスの法則をAI時代に合わせて見直したエッセイです。",
+      "ko": "브룩스의 법칙을 AI 시대에 맞게 다시 살펴본 글입니다.",
+      "ms": "Esei yang meninjau semula Hukum Brooks pada zaman AI.",
+      "vi": "Bài viết nhìn lại định luật Brooks trong thời đại AI.",
+      "fr": "Une relecture de la loi de Brooks à l'ère de l'IA.",
+      "es": "Una actualización de la ley de Brooks para la era de la IA.",
+      "de": "Eine Neubetrachtung des Brooksschen Gesetzes im Zeitalter der KI.",
+      "zh-Hant": "把布魯克斯定律放到 AI 時代重新審視的一篇文章。"
      },
      "fact": {
       "zh-Hans": "Hacker News 403 分 · 286 条评论",
@@ -545,44 +457,33 @@
      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
      "src": "j11g.com",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50254836",
      "title": {
-      "zh-Hans": "现在有5个推论提供者 提供盲目深层搜索",
-      "zh-Hant": "現在有5個推論提供者 提供盲目深層搜尋",
+      "zh-Hans": "已有 5 家推理服务商提供去审查版 DeepSeek",
+      "zh-Hant": "已有 5 家推理服務商提供去審查版 DeepSeek",
       "en": "There are now 5 inference providers for abliterated DeepSeek",
-      "ja": "DeepSeek には 5 件のインフェレンスプロバイダーがあります。",
-      "ko": "이제 5개의 Inference 공급자가 있습니다. DeepSeek",
-      "ms": "Saat ini ada 5 penyedia inferensi untuk DeepSeek yang diratakan",
-      "vi": "Hiện nay có 5 nhà cung cấp dịch vụ cho Deep Seek",
-      "fr": "Il existe maintenant 5 fournisseurs d'inférence pour DeepSeek",
-      "es": "Ahora hay 5 proveedores de inferencias para abliterated DeepSeek",
-      "de": "Es gibt jetzt 5 Inferenzanbieter für abliterierte DeepSeek"
+      "ja": "検閲解除版DeepSeekの推論プロバイダーが5社に",
+      "ko": "검열 해제 DeepSeek 추론 제공업체가 5곳으로",
+      "ms": "Kini ada 5 penyedia inferens untuk DeepSeek tanpa penapisan",
+      "vi": "Đã có 5 nhà cung cấp suy luận cho DeepSeek bỏ kiểm duyệt",
+      "fr": "Cinq fournisseurs d'inférence proposent désormais un DeepSeek « abliterated »",
+      "es": "Ya hay 5 proveedores de inferencia para DeepSeek sin censura",
+      "de": "Inzwischen fünf Inferenz-Anbieter für „abliteriertes“ DeepSeek"
      },
      "summary": {
       "en": "Route abliterated language models across providers with automatic fallbacks, modality-aware selection, and one place to compare availability and token prices.",
-      "zh-Hans": "路由盲目语言模型横跨提供商,具有自动回落,模式意识选择,以及一个比较可用性和象征性价格的地方.",
-      "ja": "自動フォールバック、モダリティ・アウェア・セレクション、および可用性とトークンの価格を比較する1つの場所を含むプロバイダ間でルート・アブリット言語モデル。",
-      "ko": "자동적인 fallbacks, modality-aware 선택, 그리고 가용성과 토큰 가격을 비교할 것이다 1개의 장소와 공급자의 맞은편에 노선 abliterated 언어 모형.",
-      "ms": "Rute Rute Rute ambiterasi model bahasa di seluruh penyedia dengan kejatuhan otomatis, pemilihan modalality-aware, dan satu tempat untuk membandingkan ketersediaan dan harga token.",
-      "vi": "Các mô hình ngôn ngữ bắt buộc phải đi qua các nhà cung cấp với hậu quả tự động, sự lựa chọn theo phương thức, và một nơi để so sánh giá có sẵn và bảo hiểm.",
-      "fr": "Route des modèles de langue effacés à travers les fournisseurs avec des replis automatiques, la sélection de modalité-aware, et un endroit pour comparer la disponibilité et les prix symboliques.",
-      "es": "Ruta abliterated language models across providers with automatic fallbacks, modality-aware selection, and one place to compare availability and token prices.",
-      "de": "Routen-abliterierte Sprachmodelle über Anbieter hinweg mit automatischen Fallbacks, modalitätsbewusster Auswahl und einem Ort zum Vergleich von Verfügbarkeit und Token-Preisen.",
-      "zh-Hant": "路由盲目語言模型橫跨提供商,具有自動回落,模式意識選擇,以及一個比較可用性和象徵性價格的地方."
+      "zh-Hans": "一个把去除拒答限制的模型跨多家服务商路由的平台，可比较可用性和 token 价格。",
+      "ja": "拒否制限を外したモデルを複数のプロバイダー間でルーティングし、可用性とトークン価格を比較できるサービスです。",
+      "ko": "거부 제한을 없앤 모델을 여러 제공업체에 라우팅하고 가용성과 토큰 가격을 비교할 수 있는 서비스입니다.",
+      "ms": "Perkhidmatan yang menghala model tanpa sekatan penolakan merentas penyedia dan membandingkan ketersediaan serta harga token.",
+      "vi": "Dịch vụ định tuyến các mô hình đã gỡ giới hạn từ chối qua nhiều nhà cung cấp, so sánh độ sẵn có và giá token.",
+      "fr": "Un service qui route les modèles sans refus entre fournisseurs et compare disponibilité et prix des tokens.",
+      "es": "Un servicio que enruta modelos sin restricciones de rechazo entre proveedores y compara disponibilidad y precio por token.",
+      "de": "Ein Dienst, der Modelle ohne Ablehnungsfilter über mehrere Anbieter routet und Verfügbarkeit sowie Tokenpreise vergleicht.",
+      "zh-Hant": "一個把去除拒答限制的模型跨多家服務商路由的平臺，可比較可用性和 token 價格。"
      },
      "fact": {
       "zh-Hans": "Hacker News 90 分 · 118 条评论",
@@ -599,44 +500,33 @@
      "url": "https://allmodels.io/llm/abliterated",
      "src": "allmodels.io",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50258868",
      "title": {
-      "zh-Hans": "这里有怪物: 你还需要知道什么 特工何时做这项工作?",
-      "zh-Hant": "這裡有怪物: 你還需要知道什麼 特工何時做這項工作?",
+      "zh-Hans": "当 Agent 替你干活，工程师还需要懂什么？",
+      "zh-Hant": "當 Agent 替你幹活，工程師還需要懂什麼？",
       "en": "Here be monsters: What do you still need to know when agents do the work?",
-      "ja": "モンスター: エージェントが仕事をするときにまだ知っておくべきことは何ですか?",
-      "ko": "여기에 몬스터가 있습니다 : 에이전트가 일을 할 때 알아야 할 것은 무엇입니까?",
-      "ms": "Ini dia monster: Apa yang masih perlu kau ketahui kapan agen melakukan pekerjaan itu?",
-      "vi": "Đây là quái vật: Anh còn cần biết gì khi đặc vụ làm việc?",
-      "fr": "Voici des monstres : Que devez-vous savoir quand les agents font le travail ?",
-      "es": "Aquí sean monstruos: ¿Qué necesitas saber cuando los agentes hacen el trabajo?",
-      "de": "Hier sind die Monster: Was müssen Sie noch wissen, wenn Agenten die Arbeit machen?"
+      "ja": "エージェントが仕事をする時代に、まだ知っておくべきこと",
+      "ko": "에이전트가 일하는 시대, 엔지니어가 여전히 알아야 할 것",
+      "ms": "Apabila ejen buat kerja, apa yang jurutera masih perlu tahu?",
+      "vi": "Khi agent làm việc, kỹ sư vẫn cần biết gì?",
+      "fr": "Quand les agents font le travail, que faut-il encore savoir ?",
+      "es": "Cuando los agentes hacen el trabajo, ¿qué necesitas seguir sabiendo?",
+      "de": "Wenn Agenten die Arbeit machen: Was muss man noch wissen?"
      },
      "summary": {
-      "en": "AI agents write code faster than anyone can read it. What engineers still need: fundamentals, breadth, and the willingness to dive in when it breaks.",
-      "zh-Hans": "AI特工写代码的速度比任何人都快. 工程师们仍然需要的是基本原理,宽度, 以及当它破裂时潜入的意愿。",
-      "ja": "AIエージェントは、誰よりも早くコードを書くことができます。 エンジニアが必要とするもの:基礎、パント、そしてそれが壊れるときのダイビングへの意欲。",
-      "ko": "AI Agent는 누구보다 코드를 더 빨리 쓸 수 있습니다. 어떤 엔지니어는 여전히 필요한: 근본, 빵, 그리고 휴식 때 다이빙에 기꺼이.",
-      "ms": "Agen AI agen AI menulis kode lebih cepat dari siapa pun bisa membacanya. Apa yang masih dibutuhkan para insinyur: fundamental, luas, dan kesediaan untuk menyelam ketika rusak.",
-      "vi": "Đặc vụ Al viết mã nhanh hơn bất cứ ai đọc được. Những gì các kỹ sư vẫn cần: những cơ bản, độ rộng và sự sẵn sàng lặn xuống khi nó vỡ.",
-      "fr": "Les agents de l'IA écrivent du code plus rapidement que quiconque ne peut le lire. Ce dont les ingénieurs ont encore besoin : les fondamentaux, l'étendue et la volonté de plonger quand il casse.",
-      "es": "Los agentes de IA escriben código más rápido de lo que cualquiera puede leerlo. Lo que los ingenieros todavía necesitan: fundamentos, amplitud, y la voluntad de bucear cuando se rompe.",
-      "de": "KI-Agenten schreiben Code schneller als jeder andere ihn lesen kann. Was Ingenieure noch brauchen: Grundlagen, Breite und die Bereitschaft, einzutauchen, wenn es kaputt geht.",
-      "zh-Hant": "AI特工寫程式碼的速度比任何人都快. 工程師們仍然需要的是基本原理,寬度, 以及當它破裂時潛入的意願。"
+      "zh-Hans": "Agent 写代码比人读得还快，作者认为工程师仍需要扎实基础、知识广度，以及出问题时深入排查的意愿。",
+      "zh-Hant": "Agent 寫程式碼比人讀得還快，作者認為工程師仍需要紮實基礎、知識廣度，以及出問題時深入排查的意願。",
+      "en": "Shared on Hacker News; original at blog.adrq.dev.",
+      "ja": "エージェントは人が読むより速くコードを書きます。それでも基礎、幅広い知識、壊れたときに深掘りする姿勢が必要だと筆者は述べます。",
+      "ko": "에이전트는 사람이 읽는 것보다 빨리 코드를 씁니다. 그래도 기초, 폭넓은 지식, 문제가 생겼을 때 파고드는 자세가 필요하다고 말합니다.",
+      "ms": "Ejen menulis kod lebih cepat daripada manusia membacanya. Penulis berpendapat jurutera masih perlukan asas kukuh, pengetahuan luas dan kesediaan menyelami masalah.",
+      "vi": "Agent viết code nhanh hơn người đọc. Tác giả cho rằng kỹ sư vẫn cần nền tảng vững, kiến thức rộng và sẵn sàng đào sâu khi có sự cố.",
+      "fr": "Les agents écrivent du code plus vite qu'on ne le lit. Il faut toujours des bases solides, de la culture technique et l'envie de creuser quand ça casse.",
+      "es": "Los agentes escriben código más rápido de lo que se lee. Siguen haciendo falta fundamentos, amplitud y ganas de investigar cuando algo falla.",
+      "de": "Agenten schreiben Code schneller, als man ihn lesen kann. Gefragt bleiben Grundlagen, Breite und die Bereitschaft, bei Fehlern tief einzusteigen."
      },
      "fact": {
       "zh-Hans": "Hacker News 125 分 · 56 条评论",
@@ -653,44 +543,33 @@
      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
      "src": "blog.adrq.dev",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50260960",
      "title": {
-      "zh-Hans": "数据恢复首席执行官 被指控为Scamming Ransomware受害者而被起诉",
-      "zh-Hant": "資料恢復執行長 被指控為Scamming Ransomware受害者而被起訴",
+      "zh-Hans": "数据恢复公司 CEO 被控诈骗勒索软件受害者",
+      "zh-Hant": "資料恢復公司 CEO 被控詐騙勒索軟體受害者",
       "en": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-      "ja": "データ復旧CEO 味方された詐欺ランサムウェアの犠牲者のための指示",
-      "ko": "데이터 복구 CEO Allegedly Scamming Ransomware Victims에 대 한 중독",
-      "ms": "CEO Pemulihan Data Dicela karena Diduga Menakuti Korban Ransomware",
-      "vi": "Trình quản lý phục hồi dữ liệu Bị cáo buộc là nạn nhân của bảng giá chuộc",
-      "fr": "Directeur général de la récupération de données Accusé pour les victimes présumées d'une égratignure",
-      "es": "Data Recovery CEO Acusado por presuntas víctimas de Ransomware",
-      "de": "CEO Data Recovery Beschuldigt für angeblich Scamming Ransomware Opfer"
+      "ja": "データ復旧会社CEO、ランサムウェア被害者への詐欺で起訴",
+      "ko": "데이터 복구 업체 CEO, 랜섬웨어 피해자 사기 혐의로 기소",
+      "ms": "CEO syarikat pemulihan data didakwa menipu mangsa ransomware",
+      "vi": "CEO công ty khôi phục dữ liệu bị truy tố vì lừa nạn nhân ransomware",
+      "fr": "Un PDG de récupération de données inculpé pour avoir escroqué des victimes de rançongiciels",
+      "es": "Acusan al CEO de una empresa de recuperación de datos de estafar a víctimas de ransomware",
+      "de": "CEO einer Datenrettungsfirma wegen Betrugs an Ransomware-Opfern angeklagt"
      },
      "summary": {
       "en": "A federal grand jury indicted MonsterCloud CEO Zohar Pinhasi last month for allegedly defrauding clients of his ransomware data recovery business, which was the subject of a 2019 ProPublica…",
-      "zh-Hans": "一个联邦大陪审团上个月起诉了MonsterCloud CEO佐哈尔·平哈西(Zohar Pinhasi),指控他诈骗客户的赎金软件数据回收业务,这是2019年ProPublica事件的主题. .",
-      "ja": "連邦の壮大な陪審員は、MonsterCloudのCEO Zohar Pinhasiを指示しました 先月、彼のランサムウェアのデータ復旧事業の顧客を疑わしい詐欺のために、これは2019 ProPublicaの主題でした...",
-      "ko": "연방 대변인 MonsterCloud CEO Zohar Pinhasi는 지난 달에 그의 랜섬웨어 데이터 복구 사업의 클라이언트를 파괴, 이는 2019 ProPublica의 주제였다 ...",
-      "ms": "Seorang dewan juri federal mendakwa CEO MonsterCloud Zohar Pinhassi bulan lalu karena diduga telah menipu klien dari bisnis pemulihan data tebusannya, yang merupakan subjek ProPublica 2019 ...",
-      "vi": "Tháng trước, một bồi thẩm đoàn liên bang đã tố cáo CEO Zohar Pinhasi vì tội lừa đảo khách hàng về việc phục hồi dữ liệu chuộc tội của anh ta, đó là chủ đề của một vụ 2019 ProPubicia...",
-      "fr": "Un grand jury fédéral a inculpé le PDG de MonsterCloud Zohar Pinhasi le mois dernier pour avoir prétendument escroqué des clients de son entreprise de récupération de données de ransomware, qui a fait l'objet d'une...",
-      "es": "Un gran jurado federal acusó a MonsterCloud CEO Zohar Pinhasi el mes pasado por supuestamente defraudar a clientes de su negocio de recuperación de datos ransomware, que fue el tema de un...",
-      "de": "Eine Bundes-Grand-Jury angeklagt MonsterCloud CEO Zohar Pinhasi im vergangenen Monat für den angeblichen Betrug Kunden von seinem ransomware-Daten-recovery-Geschäft, das war das Thema einer 2019 ProPublica.",
-      "zh-Hant": "一個聯邦大陪審團上個月起訴了MonsterCloud CEO佐哈爾·平哈西(Zohar Pinhasi),指控他詐騙客戶的贖金軟體資料回收業務,這是2019年ProPublica事件的主題. ."
+      "zh-Hans": "联邦大陪审团起诉 MonsterCloud CEO，指控他的勒索软件数据恢复业务欺诈客户，ProPublica 曾在 2019 年报道过这家公司。",
+      "ja": "連邦大陪審はMonsterCloudのCEOを、ランサムウェアのデータ復旧事業で顧客を欺いた疑いで起訴しました。ProPublicaが2019年に報じた会社です。",
+      "ko": "연방 대배심이 MonsterCloud CEO를 랜섬웨어 데이터 복구 사업으로 고객을 속인 혐의로 기소했습니다. ProPublica가 2019년에 보도한 회사입니다.",
+      "ms": "Juri agung persekutuan mendakwa CEO MonsterCloud kerana didakwa menipu pelanggan perniagaan pemulihan data ransomware, yang pernah dilaporkan ProPublica pada 2019.",
+      "vi": "Đại bồi thẩm đoàn liên bang truy tố CEO MonsterCloud vì cáo buộc lừa khách hàng của dịch vụ khôi phục dữ liệu ransomware, công ty từng được ProPublica đưa tin năm 2019.",
+      "fr": "Un grand jury fédéral a inculpé le PDG de MonsterCloud pour avoir fraudé les clients de son activité de récupération, déjà visée par ProPublica en 2019.",
+      "es": "Un gran jurado federal acusó al CEO de MonsterCloud de defraudar a clientes de su negocio de recuperación, investigado por ProPublica en 2019.",
+      "de": "Eine Bundes-Grand-Jury klagte den CEO von MonsterCloud an, Kunden seines Ransomware-Datenrettungsgeschäfts betrogen zu haben; ProPublica berichtete 2019 darüber.",
+      "zh-Hant": "聯邦大陪審團起訴 MonsterCloud CEO，指控他的勒索軟體資料恢復業務欺詐客戶，ProPublica 曾在 2019 年報道過這家公司。"
      },
      "fact": {
       "zh-Hans": "Hacker News 51 分 · 9 条评论",
@@ -707,44 +586,33 @@
      "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
      "src": "propublica.org",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50261319",
      "title": {
-      "zh-Hans": "精灵4",
-      "zh-Hant": "精靈4",
+      "zh-Hans": "Google DeepMind 发布 Genie 4 世界模型",
+      "zh-Hant": "Google DeepMind 釋出 Genie 4 世界模型",
       "en": "Genie 4",
-      "ja": "ジェニー 4",
-      "ko": "제 4 장",
-      "ms": "Genie 4",
-      "vi": "Genie 4",
-      "fr": "Génie 4",
-      "es": "Genie 4",
-      "de": "Genie 4"
+      "ja": "Google DeepMind、世界モデルGenie 4を発表",
+      "ko": "Google DeepMind, 월드 모델 Genie 4 공개",
+      "ms": "Google DeepMind lancar model dunia Genie 4",
+      "vi": "Google DeepMind ra mắt mô hình thế giới Genie 4",
+      "fr": "Google DeepMind présente Genie 4, nouveau modèle de monde",
+      "es": "Google DeepMind presenta Genie 4, su nuevo modelo de mundo",
+      "de": "Google DeepMind stellt Weltmodell Genie 4 vor"
      },
      "summary": {
       "en": "Genie 4 introduces real-time interactive world simulation with native audio, advanced physics, natural human motion, and steering powered by Gemini models.",
-      "zh-Hans": "Genie 4引入了本土音频,先进物理,自然人类运动的实时互动世界模拟,并采用双子座模型驱动.",
-      "ja": "Genie 4は、Geminiモデルを搭載したネイティブオーディオ、高度な物理、自然な人間のモーション、およびステアリングでリアルタイムのインタラクティブな世界シミュレーションを導入しています。",
-      "ko": "Genie 4는 네이티브 오디오, 고급 물리, 천연 인간 모션 및 Gemini 모델에 의해 구동되는 스티어링으로 실시간 대화형 세계 시뮬레이션을 소개합니다.",
-      "ms": "Genie 4 memperkenalkan simulasi dunia interaktif real-time dengan audio asli, fisika canggih, gerakan manusia alami, dan kemudi yang didukung oleh model Gemini.",
-      "vi": "Genie 4 giới thiệu mô phỏng thế giới tương tác thời gian thực với âm thanh bản địa, vật lý tiên tiến, chuyển động tự nhiên của con người, và điều khiển bởi các mô hình Song Tử.",
-      "fr": "Genie 4 présente la simulation interactive en temps réel avec audio natif, physique avancée, mouvement humain naturel et pilotage alimenté par des modèles Gemini.",
-      "es": "Genie 4 presenta simulación mundial interactiva en tiempo real con audio nativo, física avanzada, movimiento humano natural y dirección propulsada por los modelos Gemini.",
-      "de": "Genie 4 stellt eine interaktive Echtzeit-Weltsimulation mit nativem Audio, fortschrittlicher Physik, natürlicher menschlicher Bewegung und Lenkung mit Gemini-Modellen vor.",
-      "zh-Hant": "Genie 4引入了本土音訊,先進物理,自然人類運動的實時互動世界模擬,並採用雙子座模型驅動."
+      "zh-Hans": "实时可交互的世界模拟，原生带音频、更真实的物理和人体动作，可以用 Gemini 模型引导。",
+      "ja": "ネイティブ音声、高度な物理、自然な人の動きを備え、Geminiモデルで操作できるリアルタイムの対話型世界シミュレーションです。",
+      "ko": "네이티브 오디오, 정교한 물리, 자연스러운 사람 동작을 갖추고 Gemini 모델로 조종할 수 있는 실시간 인터랙티브 세계 시뮬레이션입니다.",
+      "ms": "Simulasi dunia interaktif masa nyata dengan audio asli, fizik lanjutan, gerakan manusia semula jadi dan kawalan melalui model Gemini.",
+      "vi": "Mô phỏng thế giới tương tác thời gian thực với âm thanh gốc, vật lý nâng cao, chuyển động người tự nhiên và điều khiển bằng mô hình Gemini.",
+      "fr": "Simulation de monde interactive en temps réel, avec audio natif, physique avancée, mouvements humains naturels et pilotage par les modèles Gemini.",
+      "es": "Simulación de mundos interactiva en tiempo real con audio nativo, física avanzada, movimiento humano natural y control mediante modelos Gemini.",
+      "de": "Interaktive Weltsimulation in Echtzeit mit nativem Audio, fortgeschrittener Physik, natürlicher Menschenbewegung und Steuerung über Gemini-Modelle.",
+      "zh-Hant": "實時可互動的世界模擬，原生帶音訊、更真實的物理和人體動作，可以用 Gemini 模型引導。"
      },
      "fact": {
       "zh-Hans": "Hacker News 536 分 · 321 条评论",
@@ -761,44 +629,33 @@
      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
      "src": "deepmind.google",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50259604",
      "title": {
-      "zh-Hans": "美国政府隐瞒了一个秘密法庭的裁决 如何监视美国人",
-      "zh-Hant": "美國政府隱瞞了一個秘密法庭的裁決 如何監視美國人",
+      "zh-Hans": "Wired：美国政府扣押一份关于监控美国人的秘密法庭裁决",
+      "zh-Hant": "Wired：美國政府扣押一份關於監控美國人的秘密法庭裁決",
       "en": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "ja": "米国政府は、それがアメリカ人にスパイしている方法についての秘密の裁判所の判決を隠しています",
-      "ko": "미국 정부는 비밀 법원을 숨기고 미국인에게 어떻게 spies하는지",
-      "ms": "Pemerintah AS menyembunyikan keputusan pengadilan rahasia tentang bagaimana itu mata-mata Amerika",
-      "vi": "Chính phủ Hoa Kỳ đang che giấu một tòa án bí mật về việc nó theo dõi người Mỹ như thế nào",
-      "fr": "Le gouvernement américain cache une décision secrète sur la façon dont il espionne les Américains",
-      "es": "El gobierno de Estados Unidos está escondiendo una sentencia secreta sobre cómo espia a los estadounidenses",
-      "de": "US-Regierung versteckt ein geheimes Gerichtsurteil darüber, wie sie Amerikaner ausspioniert"
+      "ja": "Wired：米政府、国民監視をめぐる秘密裁判所の判断を隠す",
+      "ko": "Wired: 미국 정부, 자국민 감시 관련 비밀 법원 판결 은폐",
+      "ms": "Wired: Kerajaan AS sembunyikan keputusan mahkamah rahsia tentang pengintipan rakyatnya",
+      "vi": "Wired: Chính phủ Mỹ giấu phán quyết tòa án bí mật về việc giám sát công dân",
+      "fr": "Wired : le gouvernement américain cache une décision secrète sur la surveillance des Américains",
+      "es": "Wired: el Gobierno de EE. UU. oculta un fallo secreto sobre cómo espía a los estadounidenses",
+      "de": "Wired: US-Regierung hält geheimes Gerichtsurteil zur Überwachung zurück"
      },
      "summary": {
       "en": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-      "zh-Hans": "两名美国参议员表示特朗普政府违反法律,",
-      "ja": "トランプ政権は、米国連邦議会がアメリカで最も広範な監視プログラムを更新するために押している間、FISA裁判所の決定を保ちながら、法律を破棄していると言う2つの米国のセンセーター。",
-      "ko": "트럼프 행정은 FISA 법원의 결정에 따라 법의 위반을 겪고 있다고 말합니다. 의회는 미국에서 가장 번쩍이는 감시 프로그램을 갱신합니다.",
-      "ms": "Dua senator AS mengatakan pemerintahan Trump melanggar hukum dengan menahan keputusan pengadilan FISA sementara itu menekan Kongres untuk memperbarui program pengawasan paling menyapu Amerika.",
-      "vi": "Hai thượng nghị sĩ Hoa Kỳ nói rằng chính quyền Thump đang vi phạm luật pháp bằng cách từ chối quyết định của tòa án FISA trong khi họ ép Quốc hội tái lập chương trình giám sát quét dọn nhất nước Mỹ.",
-      "fr": "Deux sénateurs américains disent que l'administration Trump enfreigne la loi en refusant la décision du tribunal FISA alors qu'elle presse le Congrès de renouveler le programme de surveillance le plus vaste de l'Amérique.",
-      "es": "Dos senadores estadounidenses dicen que la administración Trump está violando la ley reteniendo la decisión del tribunal de la FISA mientras presiona al Congreso para renovar el programa de vigilancia más amplio de Estados Unidos.",
-      "de": "Zwei US-Senatoren sagen, dass die Trump-Regierung das Gesetz bricht, indem sie die Entscheidung des FISA-Gerichts zurückhält, während sie den Kongress drängt, Amerikas umfassendstes Überwachungsprogramm zu erneuern.",
-      "zh-Hant": "兩名美國參議員表示特朗普政府違反法律,"
+      "zh-Hans": "两位参议员称，政府在推动国会续期监控项目的同时拒绝公开 FISA 法院的裁决，属于违法。",
+      "ja": "2人の上院議員は、政府が監視プログラムの更新を議会に迫りながらFISA裁判所の判断を開示しないのは違法だと主張しています。",
+      "ko": "상원의원 두 명은 정부가 감시 프로그램 갱신을 의회에 요구하면서 FISA 법원 판결을 공개하지 않는 것은 위법이라고 말합니다.",
+      "ms": "Dua senator berkata kerajaan melanggar undang-undang dengan menahan keputusan mahkamah FISA sambil mendesak Kongres memperbaharui program pengawasan.",
+      "vi": "Hai thượng nghị sĩ cho rằng chính phủ vi phạm luật khi giữ kín phán quyết của tòa FISA trong lúc thúc Quốc hội gia hạn chương trình giám sát.",
+      "fr": "Deux sénateurs accusent l'administration d'enfreindre la loi en retenant une décision du tribunal FISA tout en pressant le Congrès de renouveler la surveillance.",
+      "es": "Dos senadores dicen que la Administración viola la ley al retener la decisión del tribunal FISA mientras presiona al Congreso para renovar el programa de vigilancia.",
+      "de": "Zwei Senatoren werfen der Regierung Rechtsbruch vor, weil sie ein FISA-Urteil zurückhält und zugleich die Verlängerung des Überwachungsprogramms fordert.",
+      "zh-Hant": "兩位參議員稱，政府在推動國會續期監控專案的同時拒絕公開 FISA 法院的裁決，屬於違法。"
      },
      "fact": {
       "zh-Hans": "Hacker News 627 分 · 215 条评论",
@@ -815,44 +672,33 @@
      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
      "src": "wired.com",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50261998",
      "title": {
-      "zh-Hans": "幽灵 1.4.0",
-      "zh-Hant": "幽靈 1.4.0",
+      "zh-Hans": "开源终端 Ghostty 发布 1.4.0",
+      "zh-Hant": "開源終端 Ghostty 釋出 1.4.0",
       "en": "Ghostty 1.4.0",
-      "ja": "ゴースト 1.4.0",
-      "ko": "유령 1.4.0",
-      "ms": "Kehantuan 1.4.0",
-      "vi": "Ghostty 1.4.0",
-      "fr": "Fantôme 1.4.0",
-      "es": "Ghostty 1.4.0",
-      "de": "Ghostty 1.4.0"
+      "ja": "オープンソース端末Ghostty 1.4.0リリース",
+      "ko": "오픈소스 터미널 Ghostty 1.4.0 출시",
+      "ms": "Terminal sumber terbuka Ghostty 1.4.0 dikeluarkan",
+      "vi": "Terminal mã nguồn mở Ghostty phát hành 1.4.0",
+      "fr": "Sortie du terminal open source Ghostty 1.4.0",
+      "es": "Sale el terminal de código abierto Ghostty 1.4.0",
+      "de": "Open-Source-Terminal Ghostty 1.4.0 erschienen"
      },
      "summary": {
       "en": "Release notes for Ghostty 1.4.0, released on October 27, 2026.",
-      "zh-Hans": "为Ghostty 1.4.0发行笔记,2026年10月27日发行.",
-      "ja": "2026年10月27日に発売されたGhostty 1.4.0のリリースノート。",
-      "ko": "Ghostty 1.4.0의 릴리스 노트, 10월 27, 2026에 발표.",
-      "ms": "Not rilisan Not untuk Ghostty 1.4.0, dirilis pada 27 Oktober 2026.",
-      "vi": "Phát hành ghi chú về Ghostty 1.4.0, phát hành ngày 27 tháng 10 năm 2026.",
-      "fr": "Notes de sortie pour Ghostty 1.4.0, paru le 27 octobre 2026.",
-      "es": "Notas de lanzamiento para Ghostty 1.4.0, publicadas el 27 de octubre de 2026.",
-      "de": "Release Notes für Ghostty 1.4.0, veröffentlicht am 27. Oktober 2026.",
-      "zh-Hant": "為Ghostty 1.4.0發行筆記,2026年10月27日發行."
+      "zh-Hans": "Ghostty 1.4.0 的发布说明，版本于 2026 年 10 月 27 日发布。",
+      "ja": "2026年10月27日に公開されたGhostty 1.4.0のリリースノートです。",
+      "ko": "2026년 10월 27일 공개된 Ghostty 1.4.0 릴리스 노트입니다.",
+      "ms": "Nota keluaran Ghostty 1.4.0, dikeluarkan pada 27 Oktober 2026.",
+      "vi": "Ghi chú phát hành Ghostty 1.4.0, ra mắt ngày 27/10/2026.",
+      "fr": "Notes de version de Ghostty 1.4.0, publiée le 27 octobre 2026.",
+      "es": "Notas de la versión Ghostty 1.4.0, publicada el 27 de octubre de 2026.",
+      "de": "Versionshinweise zu Ghostty 1.4.0, veröffentlicht am 27. Oktober 2026.",
+      "zh-Hant": "Ghostty 1.4.0 的釋出說明，版本於 2026 年 10 月 27 日釋出。"
      },
      "fact": {
       "zh-Hans": "Hacker News 468 分 · 141 条评论",
@@ -869,44 +715,33 @@
      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
      "src": "ghostty.org",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50258538",
      "title": {
-      "zh-Hans": "新建带有 M6 的 iMac",
-      "zh-Hant": "新建帶有 M6 的 iMac",
+      "zh-Hans": "苹果发布 M6 款 iMac",
+      "zh-Hant": "蘋果釋出 M6 款 iMac",
       "en": "New iMac with M6",
-      "ja": "M6で新しいiMac",
-      "ko": "M6와 새로운 iMac",
-      "ms": "Cafine iMac baru dengan M6",
-      "vi": "Name",
-      "fr": "Nouveau iMac avec M6",
-      "es": "Nuevo iMac con M6",
-      "de": "Neuer iMac mit M6"
+      "ja": "Apple、M6搭載の新iMacを発表",
+      "ko": "애플, M6 탑재 새 iMac 공개",
+      "ms": "Apple lancar iMac baharu dengan M6",
+      "vi": "Apple ra mắt iMac mới với chip M6",
+      "fr": "Apple présente un nouvel iMac avec puce M6",
+      "es": "Apple presenta el nuevo iMac con M6",
+      "de": "Apple stellt neuen iMac mit M6 vor"
      },
      "summary": {
       "en": "The brilliant all-in-one desktop with the superfast M6 chip. A powerful platform for AI. With a 24-inch 4.5K Retina display. Wi-Fi 7 and Bluetooth 6.",
-      "zh-Hans": "具有超快M6芯片的辉煌全能桌面. 一个强大的AI平台. 以24英寸4.5K Retina显示. Wi-Fi 7和蓝牙 6.",
-      "ja": "超速いM6の破片が付いている華麗なオールインワン デスクトップ。 AIの強力なプラットフォーム インチ4.5K 24K Retinaディスプレイ付き。 Wi-Fi 7とBluetooth 6。",
-      "ko": "슈퍼 빠른 M6 칩과 화려한 올인원 데스크탑. AI를 위한 강력한 플랫폼. 24 인치 4.5K 망막 전시로. Wi-Fi 7 및 블루투스 6.",
-      "ms": "Dengan chip M6 super cepat. Sebuah platform yang kuat untuk AI. Dengan tampilan Retina 4,5K 24 inci. Ochidon Wi-Fi 7 dan Bluetooth 6.",
-      "vi": "Một màn hình máy tính tuyệt vời với con chip M6 siêu nhanh. Một nền tảng mạnh mẽ cho AI. Với màn hình Retina 24 inch. Wi-Fi 7 và Bluetooth 6.",
-      "fr": "Le bureau tout-en-un brillant avec la puce M6 ultra-rapide. Une plateforme puissante pour l'IA. Avec un écran Retina de 24 pouces 4.5K. Wi-Fi 7 et Bluetooth 6.",
-      "es": "El brillante escritorio todo en uno con el superfast M6 chip. Una poderosa plataforma para AI. Con una pantalla Retina de 4.5K de 24 pulgadas. Wi-Fi 7 y Bluetooth 6.",
-      "de": "Der brillante All-in-One-Desktop mit dem superschnellen M6-Chip. Eine leistungsstarke Plattform für AI. Mit einem 24-Zoll 4,5K Retina Display. Wi-Fi 7 und Bluetooth 6.",
-      "zh-Hant": "具有超快M6晶片的輝煌全能桌面. 一個強大的AI平臺. 以24英寸4.5K Retina顯示. Wi-Fi 7和藍芽 6."
+      "zh-Hans": "24 英寸 4.5K 视网膜屏一体机换上 M6 芯片，主打 AI 性能，支持 Wi‑Fi 7 和蓝牙 6。",
+      "ja": "24インチ4.5K Retinaの一体型デスクトップがM6チップに。AI性能を強化し、Wi‑Fi 7とBluetooth 6に対応します。",
+      "ko": "24인치 4.5K 레티나 일체형 데스크톱이 M6 칩을 탑재해 AI 성능을 높였고 Wi‑Fi 7과 블루투스 6을 지원합니다.",
+      "ms": "Desktop semua-dalam-satu 24 inci 4.5K Retina kini dengan cip M6, lebih berkuasa untuk AI, serta Wi‑Fi 7 dan Bluetooth 6.",
+      "vi": "Máy tính tất cả trong một 24 inch màn Retina 4.5K dùng chip M6, mạnh cho AI, hỗ trợ Wi‑Fi 7 và Bluetooth 6.",
+      "fr": "L'ordinateur tout-en-un 24 pouces Retina 4,5K passe à la puce M6, pensé pour l'IA, avec Wi‑Fi 7 et Bluetooth 6.",
+      "es": "El todo en uno de 24 pulgadas y pantalla Retina 4,5K estrena el chip M6, orientado a la IA, con Wi‑Fi 7 y Bluetooth 6.",
+      "de": "Der 24-Zoll-All-in-One mit 4,5K-Retina-Display bekommt den M6-Chip, ausgelegt auf KI, mit Wi‑Fi 7 und Bluetooth 6.",
+      "zh-Hant": "24 英寸 4.5K 視網膜屏一體機換上 M6 晶片，主打 AI 效能，支援 Wi‑Fi 7 和藍芽 6。"
      },
      "fact": {
       "zh-Hans": "Hacker News 256 分 · 313 条评论",
@@ -923,44 +758,33 @@
      "url": "https://www.apple.com/imac/",
      "src": "apple.com",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50261352",
      "title": {
-      "zh-Hans": "使用 M6 新建 14 英寸 MacBook Pro",
-      "zh-Hant": "使用 M6 新建 14 英寸 MacBook Pro",
+      "zh-Hans": "苹果发布 M6 款 14 英寸 MacBook Pro",
+      "zh-Hant": "蘋果釋出 M6 款 14 英寸 MacBook Pro",
       "en": "New 14‑inch MacBook Pro with M6",
-      "ja": "M6で新しい14インチのMacBook Pro",
-      "ko": "새로운 14 인치 맥북 프로 M6",
-      "ms": "New 14‐inch MacBook Pro dengan M6",
-      "vi": "Sổ tay MacBook Pro với M6",
-      "fr": "Nouveau MacBook Pro de 14 pouces avec M6",
-      "es": "Nuevo MacBook Pro de 14 pulgadas con M6",
-      "de": "Neues 14-Zoll MacBook Pro mit M6"
+      "ja": "Apple、M6搭載の14インチMacBook Proを発表",
+      "ko": "애플, M6 탑재 14인치 맥북 프로 공개",
+      "ms": "Apple lancar MacBook Pro 14 inci dengan M6",
+      "vi": "Apple ra mắt MacBook Pro 14 inch với M6",
+      "fr": "Apple présente le MacBook Pro 14 pouces avec M6",
+      "es": "Apple presenta el MacBook Pro de 14 pulgadas con M6",
+      "de": "Apple stellt 14-Zoll-MacBook-Pro mit M6 vor"
      },
      "summary": {
       "en": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "zh-Hans": "今天苹果公司宣布了新的14英寸MacBook Pro与M6,提供更多的性能,强大的device AI能力,更快的连通性.",
-      "ja": "Appleは、今日、M6で新しい14インチのMacBook Proを発表し、より多くのパフォーマンス、強力なオンデバイスAI機能を提供し、より高速な接続を実現します。",
-      "ko": "애플은 오늘 M6와 새로운 14 인치 MacBook Pro를 발표, 더 많은 성능, 강력한 on-device AI 기능 및 빠른 연결.",
-      "ms": "Hari ini Apple mengumumkan MacBook Pro 14 inci baru dengan M6, memberikan lebih banyak performa, kemampuan AI on-device yang kuat, dan konektivitas yang lebih cepat.",
-      "vi": "Apple hôm nay đã thông báo chiếc MacBook 19 inch mới với M6, mang lại nhiều hiệu quả hơn, khả năng trên hệ thống AI, và kết nối nhanh hơn.",
-      "fr": "Apple a annoncé aujourd'hui le nouveau MacBook Pro de 14 pouces avec M6, offrant plus de performances, des capacités d'IA puissantes sur les appareils et une connectivité plus rapide.",
-      "es": "Apple anunció hoy el nuevo MacBook Pro de 14 pulgadas con M6, ofreciendo más rendimiento, potentes capacidades de IA en dispositivos y conectividad más rápida.",
-      "de": "Apple hat heute das neue 14-Zoll MacBook Pro mit M6 angekündigt, das mehr Leistung, leistungsstarke KI-Funktionen auf dem Gerät und schnellere Konnektivität bietet.",
-      "zh-Hant": "今天蘋果公司宣佈了新的14英寸MacBook Pro與M6,提供更多的效能,強大的device AI能力,更快的連通性."
+      "zh-Hans": "新款带来更强性能、端侧 AI 能力和更快的连接。",
+      "ja": "性能の向上、強力なオンデバイスAI、より高速な接続を備えます。",
+      "ko": "더 높은 성능, 강력한 온디바이스 AI, 더 빠른 연결성을 제공합니다.",
+      "ms": "Prestasi lebih tinggi, keupayaan AI pada peranti yang berkuasa dan sambungan lebih pantas.",
+      "vi": "Hiệu năng cao hơn, AI trên thiết bị mạnh mẽ và kết nối nhanh hơn.",
+      "fr": "Plus de performances, une IA embarquée puissante et une connectivité plus rapide.",
+      "es": "Más rendimiento, potente IA en el dispositivo y conectividad más rápida.",
+      "de": "Mehr Leistung, starke On-Device-KI und schnellere Verbindungen.",
+      "zh-Hant": "新款帶來更強效能、端側 AI 能力和更快的連線。"
      },
      "fact": {
       "zh-Hans": "Hacker News 186 分 · 203 条评论",
@@ -977,44 +801,33 @@
      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
      "src": "apple.com",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     },
     {
      "id": "hn-50263854",
      "title": {
-      "zh-Hans": "Discord将很快让任何人通过Google找到公共服务器消息",
-      "zh-Hant": "Discord將很快讓任何人透過Google找到公共伺服器訊息",
+      "zh-Hans": "Discord：可发现服务器的聊天将能被搜索引擎找到",
+      "zh-Hant": "Discord：可發現伺服器的聊天將能被搜尋引擎找到",
       "en": "Discord will soon let anyone find public server messages through Google",
-      "ja": "Discord は、Google を通じて公開サーバーのメッセージが誰にでも見つかります",
-      "ko": "Discord는 곧 누군가가 Google을 통해 공개 서버 메시지를 찾을 수 있도록",
-      "ms": "Discord akan segera membiarkan siapa pun menemukan pesan server publik melalui Google",
-      "vi": "Discord sẽ sớm cho phép bất cứ ai tìm thấy tin nhắn công cộng qua Google",
-      "fr": "Discord va bientôt laisser quiconque trouver des messages de serveur public via Google",
-      "es": "La discordia pronto permitirá a cualquiera encontrar mensajes de servidor público a través de Google",
-      "de": "Discord lässt bald jeden öffentliche servernachrichten über google finden."
+      "ja": "Discord、公開サーバーの会話を検索エンジンで見つけやすく",
+      "ko": "Discord, 공개 서버 대화를 검색 엔진에 노출",
+      "ms": "Discord akan benarkan mesej pelayan awam ditemui melalui Google",
+      "vi": "Discord sắp cho phép tìm tin nhắn máy chủ công khai qua Google",
+      "fr": "Discord va rendre les messages des serveurs publics trouvables via Google",
+      "es": "Discord permitirá encontrar mensajes de servidores públicos desde Google",
+      "de": "Discord macht Nachrichten öffentlicher Server über Google auffindbar"
      },
      "summary": {
       "en": "Starting on November 16, 2026, conversations in Discoverable Servers will be easier to find for people searching the web. Admins can choose which channels are surfaced on the web.",
-      "zh-Hans": "从2026年11月16日开始,在Discoverable Servers上的对话将更容易为搜索网络的人找到. 管理员可以选择哪些频道在网络上浮出水面.",
-      "ja": "2026年11月16日以降、Discoverable Server の会話は、Web を検索する人にとって簡単に見つけることができます。 管理者は、Web上でどのチャネルが直面しているかを選択できます。",
-      "ko": "시작 11월 16, 2026, Discoverable Servers의 대화는 웹을 검색하는 사람들에게 쉽게 찾을 수 있습니다. Admins는 어떤 수로가 웹에 지상에 놓는 것을 선택할 수 있습니다.",
-      "ms": "Mulai 16 November 2026, percakapan dalam Discoverable Servers akan lebih mudah ditemukan untuk orang-orang yang mencari web. Admin fadin dapat memilih saluran mana yang dipermukaan di web.",
-      "vi": "Bắt đầu ngày 16 tháng 11 năm 2026, những cuộc trò chuyện trên máy chủ có thể khám phá sẽ dễ dàng hơn để tìm kiếm những người đang tìm kiếm trên web. Quản trị có thể chọn kênh nào được hiển thị trên web.",
-      "fr": "À partir du 16 novembre 2026, les conversations dans Discoverable Servers seront plus faciles à trouver pour les personnes qui cherchent sur le Web. Les administrateurs peuvent choisir quels canaux sont sur le web.",
-      "es": "A partir del 16 de noviembre de 2026, las conversaciones en servidores Discoverable serán más fáciles de encontrar para las personas que busquen la web. Los administradores pueden elegir qué canales se encuentran en la web.",
-      "de": "Ab dem 16. November 2026 werden Gespräche in Discoverable Servers für Personen, die im Internet suchen, einfacher zu finden sein. Admins können auswählen, welche Kanäle im Web auftauchen.",
-      "zh-Hant": "從2026年11月16日開始,在Discoverable Servers上的對話將更容易為搜尋網路的人找到. 管理員可以選擇哪些頻道在網路上浮出水面."
+      "zh-Hans": "从 2026 年 11 月 16 日起，可发现服务器中的对话将更容易被网页搜索找到，管理员可选择公开哪些频道。",
+      "ja": "2026年11月16日から、Discoverableサーバーの会話がウェブ検索で見つけやすくなり、管理者は公開するチャンネルを選べます。",
+      "ko": "2026년 11월 16일부터 Discoverable 서버의 대화가 웹 검색에서 더 쉽게 검색되며, 관리자가 노출할 채널을 고를 수 있습니다.",
+      "ms": "Mulai 16 November 2026, perbualan dalam Discoverable Servers lebih mudah ditemui dalam carian web; pentadbir boleh memilih saluran yang dipaparkan.",
+      "vi": "Từ 16/11/2026, các cuộc trò chuyện trong Discoverable Servers sẽ dễ tìm hơn trên web; quản trị viên chọn kênh nào được hiển thị.",
+      "fr": "Dès le 16 novembre 2026, les conversations des serveurs découvrables seront plus faciles à trouver sur le web ; les admins choisissent les salons exposés.",
+      "es": "Desde el 16 de noviembre de 2026, las conversaciones de los servidores descubribles serán más fáciles de encontrar en la web; los administradores eligen qué canales se muestran.",
+      "de": "Ab dem 16. November 2026 sind Unterhaltungen in Discoverable Servers leichter per Websuche zu finden; Admins wählen, welche Kanäle sichtbar sind.",
+      "zh-Hant": "從 2026 年 11 月 16 日起，可發現伺服器中的對話將更容易被網頁搜尋找到，管理員可選擇公開哪些頻道。"
      },
      "fact": {
       "zh-Hans": "Hacker News 112 分 · 75 条评论",
@@ -1031,18 +844,7 @@
      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
      "src": "discord.com",
      "date": "2026-10-27",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "rw": ""
     }
    ],
    "follow": [
@@ -1154,7 +956,8 @@
       "de"
      ]
     }
-   ]
+   ],
+   "updated": "2026-10-28T00:26:34Z"
   },
   {
    "date": "2026-10-27",
