@@ -1,0 +1,306 @@
+{
+ "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "肯塔基州一名人文主义者首次获得不使用 AI 的宗教豁免",
+    "summary": "Religion News 报道：一名人文主义者以信仰理由获准在工作中免用 AI，这在美国尚属首例。"
+   },
+   "ja": {
+    "title": "ケンタッキー州のヒューマニストが初めて「AIを使わない」宗教的免除を取得",
+    "summary": "Religion News によると、ヒューマニストが信条を理由に職場でのAI使用を免除された初めての事例です。"
+   },
+   "ko": {
+    "title": "켄터키주 인본주의자, 처음으로 AI 사용 종교적 면제 받아",
+    "summary": "Religion News 보도: 한 인본주의자가 신념을 이유로 업무 중 AI 사용을 면제받은 첫 사례입니다."
+   }
+  }
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Google 发布 Gemini 4 Carbon",
+    "summary": "Google 称这是其最强模型，主打网络安全能力和长时程任务。"
+   },
+   "ja": {
+    "title": "Google が Gemini 4 Carbon を発表",
+    "summary": "Google はこれを最も強力なモデルとし、サイバーセキュリティと長時間タスクの能力を強調しています。"
+   },
+   "ko": {
+    "title": "Google, Gemini 4 Carbon 공개",
+    "summary": "Google은 이를 가장 강력한 모델이라 소개하며 사이버보안과 장기 과제 수행 능력을 내세웠습니다."
+   }
+  }
+ },
+ "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "大规模泄露曝光 4.1 万名美国国土安全部员工，含卧底 ICE 探员",
+    "summary": "泄露记录包括 ICE 和 CBP 设施位置、员工手机号，以及与窃听项目、Palantir 软件和 xAI Grok 相关的群组成员。"
+   },
+   "ja": {
+    "title": "大規模漏えいで米国土安全保障省の職員4.1万人が露出、潜入ICE捜査官も",
+    "summary": "漏えいした記録には ICE・CBP 施設の所在地、職員の携帯番号、盗聴プログラムや Palantir、xAI の Grok に関わるグループのメンバーが含まれます。"
+   },
+   "ko": {
+    "title": "대규모 유출로 미 국토안보부 직원 4만 1천 명 노출, 잠입 ICE 요원 포함",
+    "summary": "유출 기록에는 ICE·CBP 시설 위치, 직원 휴대전화 번호, 도청 프로그램·Palantir·xAI Grok 관련 그룹 구성원이 포함됩니다."
+   }
+  }
+ },
+ "https://emudhra.we-have-a-problem.com/apple.html": {
+  "loc": {
+   "zh-Hans": {
+    "title": "苹果自带的 git 仍信任被攻破的 eMudhra 证书",
+    "summary": "苹果 10 月 17 日已获通知，但 macOS 自带的 git、curl、python3 仍信任这些证书；10 月 26 日的 macOS 27.2 还撤销了用户的手动规避措施。"
+   },
+   "ja": {
+    "title": "Apple 同梱の git は今も侵害された eMudhra 証明書を信頼している",
+    "summary": "Apple は10月17日に通知を受けたが、macOS 付属の git・curl・python3 はまだ信頼しており、10月26日の macOS 27.2 は手動の回避策まで元に戻しました。"
+   },
+   "ko": {
+    "title": "Apple의 git, 여전히 침해된 eMudhra 인증서를 신뢰",
+    "summary": "Apple은 10월 17일 통보를 받았지만 macOS 기본 git·curl·python3는 여전히 해당 인증서를 신뢰하며, 10월 26일 macOS 27.2는 수동 우회 조치까지 되돌렸습니다."
+   }
+  }
+ },
+ "https://lexifina.com/blog/git-for-the-us-code": {
+  "loc": {
+   "zh-Hans": {
+    "title": "用 Git 管理美国法典",
+    "summary": "把每条修正案按时间重放，律师可以查看任意日期的法条版本和每一句的修改历史，示例覆盖美国法典 9 个编。"
+   },
+   "ja": {
+    "title": "米国法典を Git で管理する",
+    "summary": "すべての改正を順に再生して構築し、任意の日付の条文と各文の変更履歴を確認できます。例として9編を収録。"
+   },
+   "ko": {
+    "title": "미국 법전을 Git으로 관리하기",
+    "summary": "모든 개정안을 순서대로 재생해 구축한 것으로, 어느 날짜의 조문이든 각 문장의 변경 이력과 함께 볼 수 있습니다. 9개 편을 예시로 제공합니다."
+   }
+  }
+ },
+ "https://www.brangus.io/survival-llm": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Survival LLM：在自己电脑上离线运行的 AI 助手和应急资料库",
+    "summary": "免费的离线 AI 助手，附 150 万篇离线文章，无需联网，每个回答都标出处，支持 Mac 和 Windows。"
+   },
+   "ja": {
+    "title": "Survival LLM：自分のPCでオフライン動作するAIアシスタントと非常用ライブラリ",
+    "summary": "150万本のオフライン記事を備えた無料のAIアシスタント。ネット不要で、回答ごとに出典を表示。Mac と Windows に対応。"
+   },
+   "ko": {
+    "title": "Survival LLM: 내 컴퓨터에서 오프라인으로 도는 AI 비서와 비상 자료실",
+    "summary": "150만 개의 오프라인 문서를 갖춘 무료 AI 비서로, 인터넷 없이 작동하고 답마다 출처를 보여 줍니다. Mac과 Windows 지원."
+   }
+  }
+ },
+ "https://github.com/thomasunise/casecite": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Harvey 融资 5 亿美元做法律 AI，我开源做了一个同样的",
+    "summary": "CaseCite 是开源、可自部署的法律 RAG 平台，用于判例研究和文件分析。"
+   },
+   "ja": {
+    "title": "Harvey は法律AIで5億ドル調達、同じものをオープンソースで作った",
+    "summary": "CaseCite はオープンソースでセルフホスト可能な法律 RAG プラットフォームで、判例調査と文書分析に使えます。"
+   },
+   "ko": {
+    "title": "Harvey는 법률 AI로 5억 달러를 모았고, 나는 같은 걸 오픈소스로 만들었다",
+    "summary": "CaseCite는 판례 조사와 문서 분석을 위한 오픈소스·셀프호스팅 법률 RAG 플랫폼입니다."
+   }
+  }
+ },
+ "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Artificial Analysis 智能指数 v5",
+    "summary": "v5 新增 2 个基准、升级 3 个，指数大部分首次基于私有数据集。"
+   },
+   "ja": {
+    "title": "Artificial Analysis インテリジェンス指数 v5",
+    "summary": "v5 では2つのベンチマークを追加し3つを更新。指数の大半が初めて非公開データセットに基づきます。"
+   },
+   "ko": {
+    "title": "Artificial Analysis 지능 지수 v5",
+    "summary": "v5는 벤치마크 2개를 추가하고 3개를 개선했으며, 처음으로 지수 대부분이 비공개 데이터셋에 기반합니다."
+   }
+  }
+ },
+ "https://surgehq.ai/blog/dayjob-tax": {
+  "loc": {
+   "zh-Hans": {
+    "title": "DAYJOB: Tax，用 50 个专业报税任务评测 AI Agent",
+    "summary": "在 50 个真实报税环境、1,789 个文件里，测试 Agent 能否处理混乱记录、做专业判断并交付可靠结果。"
+   },
+   "ja": {
+    "title": "DAYJOB: Tax：50件の税務業務でAIエージェントを評価",
+    "summary": "50の現実的な税務環境と1,789ファイルで、乱れた記録の処理や専門的判断、信頼できる成果物の提出ができるかを試します。"
+   },
+   "ko": {
+    "title": "DAYJOB: Tax, 50개 세무 업무로 AI 에이전트 평가",
+    "summary": "50개의 실제 세무 환경과 1,789개 파일에서 에이전트가 엉킨 기록을 처리하고 전문 판단을 내려 믿을 만한 결과를 내는지 시험합니다."
+   }
+  }
+ },
+ "https://www.anthropic.com/research/early-progress-drug-development": {
+  "loc": {
+   "zh-Hans": {
+    "title": "用 Claude 加速新药研发的早期进展",
+    "summary": "Anthropic 过去几个月与六家机构合作，也开始自己的药物发现工作，包括针对一种罕见儿童疾病的项目。"
+   },
+   "ja": {
+    "title": "Claude で創薬を加速する初期の成果",
+    "summary": "Anthropic はこの数か月、6つの組織と協力し、まれな小児疾患を対象とするものを含む独自の創薬にも着手しました。"
+   },
+   "ko": {
+    "title": "Claude로 신약 개발을 앞당긴 초기 성과",
+    "summary": "Anthropic은 지난 몇 달간 6개 기관과 협력했고, 희귀 소아 질환 프로그램을 포함한 자체 신약 발굴도 시작했습니다."
+   }
+  }
+ },
+ "https://cursor.com/blog/agent-sdk": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Cursor 推出 Agent SDK",
+    "summary": "这是 Cursor 用来构建 Bugbot、Security Reviewer、Rollouts 等托管 Agent 的框架：用代码定义 Agent，一条命令部署。"
+   },
+   "ja": {
+    "title": "Cursor が Agent SDK を公開",
+    "summary": "Bugbot や Security Reviewer、Rollouts など自社のマネージドエージェントを作る基盤で、コードで定義し1コマンドでデプロイできます。"
+   },
+   "ko": {
+    "title": "Cursor, Agent SDK 출시",
+    "summary": "Bugbot, Security Reviewer, Rollouts 같은 관리형 에이전트를 만드는 데 쓰는 프레임워크로, 코드로 정의하고 명령 하나로 배포합니다."
+   }
+  }
+ },
+ "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
+  "loc": {
+   "zh-Hans": {
+    "title": "NVIDIA Nemotron 3.5 Transcribe：支持 40 种语言的开放语音识别",
+    "summary": "NVIDIA 发布可用提示控制的多语种转写模型和 Granary v2 数据集，处理说话人、翻译和专业词汇格式等问题。"
+   },
+   "ja": {
+    "title": "NVIDIA Nemotron 3.5 Transcribe：40言語対応のオープン音声認識",
+    "summary": "プロンプトで制御できる多言語文字起こしモデルと Granary v2 データセットを公開。話者や翻訳、専門用語の書式に対応します。"
+   },
+   "ko": {
+    "title": "NVIDIA Nemotron 3.5 Transcribe: 40개 언어 오픈 음성 인식",
+    "summary": "프롬프트로 제어하는 다국어 전사 모델과 Granary v2 데이터셋을 공개해 화자, 번역, 전문 용어 서식 문제를 다룹니다."
+   }
+  }
+ },
+ "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "ICE 针对左翼社会运动的大规模监控行动",
+    "summary": "Wired 报道：ICE 下属国土安全调查部门正对左翼活动人士进行大范围监控，规模堪比当年 FBI 和 CIA 打压民权与反战运动。"
+   },
+   "ja": {
+    "title": "左派の社会運動を狙う ICE の大規模監視",
+    "summary": "Wired によると、ICE の国土安全保障捜査部門が左派活動家を広く監視しており、かつての FBI・CIA による公民権・反戦運動弾圧に匹敵します。"
+   },
+   "ko": {
+    "title": "좌파 사회운동을 겨냥한 ICE의 대규모 감시",
+    "summary": "Wired 보도: ICE 국토안보수사국이 좌파 활동가를 광범위하게 감시하고 있으며, 과거 FBI·CIA의 민권·반전운동 탄압에 비견됩니다."
+   }
+  }
+ },
+ "https://www.apple.com/macbook-pro/proled-xdr-display/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "苹果推出 PROLED XDR 屏和触屏的 MacBook Pro",
+    "summary": "苹果称这是最好的笔记本屏幕，搭载 M5 Pro 或 M5 Max 芯片，定位 AI 生产力。"
+   },
+   "ja": {
+    "title": "PROLED XDR ディスプレイとタッチ対応の MacBook Pro",
+    "summary": "Apple は世界最高のノートPCディスプレイとうたい、M5 Pro または M5 Max を搭載したAI向けの機種です。"
+   },
+   "ko": {
+    "title": "PROLED XDR 디스플레이와 터치를 갖춘 MacBook Pro",
+    "summary": "Apple은 최고의 노트북 디스플레이라고 소개하며, M5 Pro 또는 M5 Max 칩을 탑재한 AI용 플랫폼입니다."
+   }
+  }
+ },
+ "https://nullpt.rs/fingerprinting-bioweapons": {
+  "loc": {
+   "zh-Hans": {
+    "title": "这个指纹脚本为什么在造生化武器？",
+    "summary": "作者爬网拦截浏览器指纹相关 API 调用并逆向，发现一个指纹脚本里塞满了危险主题的函数名和越狱式提示词文本。"
+   },
+   "ja": {
+    "title": "このフィンガープリントスクリプトはなぜ生物兵器を作っているのか？",
+    "summary": "筆者はWeb全体でフィンガープリント関連APIの呼び出しを収集・解析し、危険な名前の関数やジェイルブレイク風の文言を詰め込んだスクリプトを見つけました。"
+   },
+   "ko": {
+    "title": "이 핑거프린팅 스크립트는 왜 생물무기를 만들고 있나?",
+    "summary": "필자가 웹 전체에서 브라우저 핑거프린팅 API 호출을 수집해 역분석하다가, 위험한 이름의 함수와 탈옥식 프롬프트 문구로 가득한 스크립트를 발견했습니다."
+   }
+  }
+ },
+ "https://artificialanalysis.ai/methodology/intelligence-benchmarking": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Artificial Analysis 智能指数 v5.0 方法论",
+    "summary": "详细说明其 LLM 质量评测所用的智能基准方法。"
+   },
+   "ja": {
+    "title": "Artificial Analysis インテリジェンス指数 v5.0 の方法論",
+    "summary": "LLM の品質評価に使うインテリジェンス・ベンチマークの手法を詳しく説明しています。"
+   },
+   "ko": {
+    "title": "Artificial Analysis 지능 지수 v5.0 방법론",
+    "summary": "LLM 품질 평가에 쓰는 지능 벤치마크 방법을 자세히 설명합니다."
+   }
+  }
+ },
+ "https://spec-first.dev/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Spec-First：规格驱动的 Agent 开发插件",
+    "summary": "给 AI 编程 Agent 用的规格驱动开发流程：先审规格，再在隔离的 worktree 里开发，按关卡提交。"
+   },
+   "ja": {
+    "title": "Spec-First：仕様駆動のエージェント開発プラグイン",
+    "summary": "AIコーディングエージェント向けの仕様駆動開発で、レビュー済み仕様、分離された worktree、関門付きコミットで進めます。"
+   },
+   "ko": {
+    "title": "Spec-First: 명세 주도 에이전트 개발 플러그인",
+    "summary": "AI 코딩 에이전트를 위한 명세 주도 개발로, 검토된 명세와 격리된 worktree, 단계별 게이트 커밋으로 진행합니다."
+   }
+  }
+ },
+ "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/": {
+  "loc": {
+   "zh-Hans": {
+    "title": "Emacs 50 岁了",
+    "summary": "MIT Technology Review 回顾这款诞生于 MIT AI 实验室的文本编辑器如何催生了自由软件运动。"
+   },
+   "ja": {
+    "title": "Emacs が50周年",
+    "summary": "MIT Technology Review が、MIT AI ラボ生まれのこのエディタがどのようにフリーソフトウェア運動を生んだかを振り返ります。"
+   },
+   "ko": {
+    "title": "Emacs 50주년",
+    "summary": "MIT Technology Review가 MIT AI 연구소에서 태어난 이 편집기가 어떻게 자유 소프트웨어 운동을 낳았는지 돌아봅니다."
+   }
+  }
+ },
+ "https://github.com/haydenschmitty/floorplan": {
+  "loc": {
+   "zh-Hans": {
+    "title": "floorplan：把代码库画成可交互的平面图",
+    "summary": "让 Claude 或 Codex 为你的代码库画一张用白话标注的交互式结构图，看清应用各部分如何拼在一起。"
+   },
+   "ja": {
+    "title": "floorplan：コードベースを対話的な見取り図に",
+    "summary": "Claude や Codex がコードベースの対話的な見取り図を平易な英語で描き、アプリの各部分のつながりを示します。"
+   },
+   "ko": {
+    "title": "floorplan: 코드베이스를 대화형 평면도로",
+    "summary": "Claude나 Codex가 쉬운 영어로 된 대화형 코드베이스 지도를 그려, 앱의 각 부분이 어떻게 맞물리는지 보여 줍니다."
+   }
+  }
+ }
+}
