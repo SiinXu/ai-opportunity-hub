@@ -49,11 +49,11 @@
     {
      "id": "hn-50273396",
      "title": {
-      "zh-Hans": "肯塔基州人成为第一个 获得AI宗教豁免的人文主义者",
-      "zh-Hant": "肯塔基州人成為第一個 獲得AI宗教豁免的人文主義者",
+      "zh-Hans": "肯塔基州一名人文主义者首次获得不使用 AI 的宗教豁免",
+      "zh-Hant": "肯塔基州一名人文主義者首次獲得不使用 AI 的宗教豁免",
       "en": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "ja": "ケンタッキー男はAIから初の人道士が宗教免除を認めた",
-      "ko": "Kentucky 남자는 AI에서 종교 면제를 부여 한 최초의 인간",
+      "ja": "ケンタッキー州のヒューマニストが初めて「AIを使わない」宗教的免除を取得",
+      "ko": "켄터키주 인본주의자, 처음으로 AI 사용 종교적 면제 받아",
       "ms": "Kentucky manusia menjadi humanis pertama diberikan pengecualian agama dari AI",
       "vi": "Người đàn ông Kentucky trở thành người chủ nghĩa nhân văn đầu tiên được miễn trừ tôn giáo khỏi Al",
       "fr": "L'homme du Kentucky devient le premier humaniste à bénéficier d'une exemption religieuse de AI",
@@ -61,11 +61,11 @@
       "de": "Kentucky-Mann wird der erste Humanist, dem eine religiöse Befreiung von AI gewährt wurde"
      },
      "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 religionnews.com。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 religionnews.com。",
+      "zh-Hans": "Religion News 报道：一名人文主义者以信仰理由获准在工作中免用 AI，这在美国尚属首例。",
+      "zh-Hant": "Religion News 報道：一名人文主義者以信仰理由獲准在工作中免用 AI，這在美國尚屬首例。",
       "en": "Shared on Hacker News; original at religionnews.com.",
-      "ja": "Hacker News で共有されたリンク。元記事は religionnews.com にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 religionnews.com에 있습니다.",
+      "ja": "Religion News によると、ヒューマニストが信条を理由に職場でのAI使用を免除された初めての事例です。",
+      "ko": "Religion News 보도: 한 인본주의자가 신념을 이유로 업무 중 AI 사용을 면제받은 첫 사례입니다.",
       "ms": "Dikongsi di Hacker News; artikel asal di religionnews.com.",
       "vi": "Được chia sẻ trên Hacker News; bài gốc tại religionnews.com.",
       "fr": "Partagé sur Hacker News ; original sur religionnews.com.",
@@ -92,10 +92,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -106,11 +102,11 @@
     {
      "id": "hn-50276792",
      "title": {
-      "zh-Hans": "双子座4碳",
-      "zh-Hant": "雙子座4碳",
+      "zh-Hans": "Google 发布 Gemini 4 Carbon",
+      "zh-Hant": "Google 釋出 Gemini 4 Carbon",
       "en": "Gemini 4 Carbon",
-      "ja": "ジェミニ 4 カーボン",
-      "ko": "Gemini 4 탄소",
+      "ja": "Google が Gemini 4 Carbon を発表",
+      "ko": "Google, Gemini 4 Carbon 공개",
       "ms": "Gemini Gemini 4 Karbon",
       "vi": "Song Tử 4 Carbon",
       "fr": "Gémeaux 4 Carbone",
@@ -119,15 +115,15 @@
      },
      "summary": {
       "en": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
-      "zh-Hans": "双子座4 Carbon是我们最强的具有先进网络安全和长视野能力的模型.",
-      "ja": "Gemini 4 Carbonは、最先端のサイバーセキュリティと長い水平線機能を備えた最強モデルです。",
-      "ko": "Gemini 4 Carbon은 최첨단 사이버 보안 및 긴 수평선 기능을 갖춘 가장 강력한 모델입니다.",
+      "zh-Hans": "Google 称这是其最强模型，主打网络安全能力和长时程任务。",
+      "ja": "Google はこれを最も強力なモデルとし、サイバーセキュリティと長時間タスクの能力を強調しています。",
+      "ko": "Google은 이를 가장 강력한 모델이라 소개하며 사이버보안과 장기 과제 수행 능력을 내세웠습니다.",
       "ms": "Gemini 4 Karbon adalah model terkuat kita dengan keamanan dunia maya dan kemampuan cakrawala yang panjang.",
       "vi": "Song Tử 4 Carbon là mô hình mạnh nhất của chúng tôi với sự an toàn công nghệ cao và khả năng chân trời dài.",
       "fr": "Gemini 4 Carbon est notre modèle le plus puissant avec une cybersécurité de pointe et des capacités à long horizon.",
       "es": "Gemini 4 Carbon es nuestro modelo más fuerte con la seguridad cibernética y las capacidades de horizonte largo.",
       "de": "Gemini 4 Carbon ist unser stärkstes Modell mit modernster Cybersicherheit und Long-Horizont-Fähigkeiten.",
-      "zh-Hant": "雙子座4 Carbon是我們最強的具有先進網路安全和長視野能力的模型."
+      "zh-Hant": "Google 稱這是其最強模型，主打網路安全能力和長時程任務。"
      },
      "fact": {
       "zh-Hans": "Hacker News 723 分 · 592 条评论",
@@ -149,10 +145,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -163,11 +155,11 @@
     {
      "id": "hn-50280864",
      "title": {
-      "zh-Hans": "泄漏展览41 000名国土安全工作者-包括隐蔽的ICE特工",
-      "zh-Hant": "洩漏展覽41 000名國土安全工作者-包括隱蔽的ICE特工",
+      "zh-Hans": "大规模泄露曝光 4.1 万名美国国土安全部员工，含卧底 ICE 探员",
+      "zh-Hant": "大規模洩露曝光 4.1 萬名美國國土安全部員工，含臥底 ICE 探員",
       "en": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "ja": "リーク・エクスポージャーズ 41,000 のホームランド・セキュリティ・ワーカー - ICE エージェントのアンダーカバーを含む",
-      "ko": "누출 노출 41,000 홈랜드 보안 노동자– 포함 Undercover ICE 에이전트",
+      "ja": "大規模漏えいで米国土安全保障省の職員4.1万人が露出、潜入ICE捜査官も",
+      "ko": "대규모 유출로 미 국토안보부 직원 4만 1천 명 노출, 잠입 ICE 요원 포함",
       "ms": "Kebocoran Kebocoran Mengekspos 41.000 Pekerja Keamanan Dalam Negeri–Termasuk Agen ICE yang Ditemukan",
       "vi": "Leak Expos 41.000 công nhân an ninh nội địa–Incleking UndercoverIce Agents",
       "fr": "Expositions de fuite 41 000 travailleurs de la sécurité intérieure – y compris les agents ICE sous couverture",
@@ -176,15 +168,15 @@
      },
      "summary": {
       "en": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-      "zh-Hans": "泄露的记录包括ICE和CBP设施的地点、工人的手机号码、与窃听程序、Palantir软件和xAI的Grok聊天台绑在一起的团体成员。",
-      "ja": "リークされたレコードには、ICE および CBP の施設、ワーカーの携帯電話番号、およびグループのメンバーが、Wiretap プログラム、Palantir ソフトウェア、および xAI の Grok チャットボットに縛られた場所が含まれます。",
-      "ko": "유출된 기록은 ICE와 CBP 시설, 노동자의 휴대폰 번호의 위치를 포함하고, 그룹의 일원은 wiretap 프로그램, Palantir 소프트웨어 및 xAI의 Grok chatbot에 묶었습니다.",
+      "zh-Hans": "泄露记录包括 ICE 和 CBP 设施位置、员工手机号，以及与窃听项目、Palantir 软件和 xAI Grok 相关的群组成员。",
+      "ja": "漏えいした記録には ICE・CBP 施設の所在地、職員の携帯番号、盗聴プログラムや Palantir、xAI の Grok に関わるグループのメンバーが含まれます。",
+      "ko": "유출 기록에는 ICE·CBP 시설 위치, 직원 휴대전화 번호, 도청 프로그램·Palantir·xAI Grok 관련 그룹 구성원이 포함됩니다.",
       "ms": "Catatan yang bocor meliputi lokasi fasilitas ICE dan CBP, nomor telepon seluler pekerja, dan anggota kelompok yang terikat pada program penyadapan, perangkat lunak Palantir, dan chatbot Grok xAI.",
       "vi": "Các hồ sơ bị rò rỉ bao gồm địa điểm của các cơ sở ICE và CBP, số điện thoại của công nhân và các thành viên của các nhóm gắn liền với chương trình nghe trộm, phần mềm Palantir, và hệ thống chatbot của Claire Grok.",
       "fr": "Les dossiers divulgués comprennent les emplacements des installations ICE et CBP, les numéros de téléphone cellulaire des travailleurs, et les membres des groupes liés aux programmes de câblodistribution, le logiciel Palantir et le chatbot xAI.",
       "es": "Los registros filtrados incluyen las ubicaciones de las instalaciones de ICE y CBP, números de teléfono celular de los trabajadores, y los miembros de grupos vinculados a programas de escucha, software Palantir, y el chatbot de xAI Grok.",
       "de": "Die durchgesickerten aufzeichnungen umfassen die standorte von ice- und cbp-einrichtungen, die handynummern der arbeiter und die mitglieder von gruppen, die an abhörprogramme, palantir-software und xais grok-chatbot gebunden sind.",
-      "zh-Hant": "洩露的記錄包括ICE和CBP設施的地點、工人的手機號碼、與竊聽程式、Palantir軟體和xAI的Grok聊天台綁在一起的團體成員。"
+      "zh-Hant": "洩露記錄包括 ICE 和 CBP 設施位置、員工手機號，以及與竊聽專案、Palantir 軟體和 xAI Grok 相關的群組成員。"
      },
      "fact": {
       "zh-Hans": "Hacker News 193 分 · 66 条评论",
@@ -206,10 +198,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -220,11 +208,11 @@
     {
      "id": "hn-50271640",
      "title": {
-      "zh-Hans": "Apple 的 git 仍然信任损坏的 eMudhra 证书",
-      "zh-Hant": "Apple 的 git 仍然信任損壞的 eMudhra 證書",
+      "zh-Hans": "苹果自带的 git 仍信任被攻破的 eMudhra 证书",
+      "zh-Hant": "蘋果自帶的 git 仍信任被攻破的 eMudhra 證書",
       "en": "Apple's git still trusts the compromised eMudhra certificates",
-      "ja": "Appleのgitはまだ妥協されたeMudhraの証明書を信頼しています",
-      "ko": "Apple의 git은 여전히 손상된 eMudhra 인증서를 신뢰합니다.",
+      "ja": "Apple 同梱の git は今も侵害された eMudhra 証明書を信頼している",
+      "ko": "Apple의 git, 여전히 침해된 eMudhra 인증서를 신뢰",
       "ms": "Git Apple masih mempercayai sertifikat eMudhra yang dikompromikan",
       "vi": "Git của Apple vẫn còn tin tưởng các chứng chỉ eMudhra bị tổn hại",
       "fr": "Apple git fait toujours confiance aux certificats eMudhra compromis",
@@ -233,15 +221,15 @@
      },
      "summary": {
       "en": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates.",
-      "zh-Hans": "在苹果公司接到eMudhra CA妥协,git,卷曲和python3的通知11天后,带有macOS的苹果船仍然信任受损证书.",
-      "ja": "Apple が eMudhra CA 妥協、git、curl、python3 の通知を受けた後、Apple が macOS で出荷しても、妥協証明書を信頼していました。",
-      "ko": "Apple이 eMudhra CA 타협, git, curl 및 python3의 통지를 받으면 Apple이 손상된 인증서를 신뢰합니다.",
+      "zh-Hans": "苹果 10 月 17 日已获通知，但 macOS 自带的 git、curl、python3 仍信任这些证书；10 月 26 日的 macOS 27.2 还撤销了用户的手动规避措施。",
+      "ja": "Apple は10月17日に通知を受けたが、macOS 付属の git・curl・python3 はまだ信頼しており、10月26日の macOS 27.2 は手動の回避策まで元に戻しました。",
+      "ko": "Apple은 10월 17일 통보를 받았지만 macOS 기본 git·curl·python3는 여전히 해당 인증서를 신뢰하며, 10월 26일 macOS 27.2는 수동 우회 조치까지 되돌렸습니다.",
       "ms": "Sebelas hari setelah Apple diberitahu tentang kompromi eMudhra CA, git, curling dan python3 bahwa Apple kapal dengan macOS masih mempercayai sertifikat yang dikompromikan.",
       "vi": "Mười một ngày sau khi Apple được thông báo về sự thỏa hiệp của EMudhra CA, git, cong và python3 mà tàu Apple với macOS vẫn còn tin tưởng vào các chứng chỉ bị tổn hại.",
       "fr": "Onze jours après qu'Apple ait été informée du compromis eMudhra CA, le git, curl et python3 qu'Apple expédie avec macOS font toujours confiance aux certificats compromis.",
       "es": "Once días después de que Apple fuera notificado del compromiso eMudhra CA, el git, curl y python3 que los buques de Apple con macOS todavía confían en los certificados comprometidos.",
       "de": "Elf Tage nachdem Apple über den eMudhra CA-Kompromiss informiert wurde, vertrauen die Git, Curl und Python3, die Apple mit macOS liefert, immer noch den kompromittierten Zertifikaten.",
-      "zh-Hant": "在蘋果公司接到eMudhra CA妥協,git,捲曲和python3的通知11天后,帶有macOS的蘋果船仍然信任受損證書."
+      "zh-Hant": "蘋果 10 月 17 日已獲通知，但 macOS 自帶的 git、curl、python3 仍信任這些證書；10 月 26 日的 macOS 27.2 還撤銷了使用者的手動規避措施。"
      },
      "fact": {
       "zh-Hans": "Hacker News 996 分 · 373 条评论",
@@ -263,10 +251,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -277,11 +261,11 @@
     {
      "id": "hn-50268380",
      "title": {
-      "zh-Hans": "美国代码的基特",
-      "zh-Hant": "美國程式碼的基特",
+      "zh-Hans": "用 Git 管理美国法典",
+      "zh-Hant": "用 Git 管理美國法典",
       "en": "Git for the US Code",
-      "ja": "米国コードのGit",
-      "ko": "미국 코드에 대한 Git",
+      "ja": "米国法典を Git で管理する",
+      "ko": "미국 법전을 Git으로 관리하기",
       "ms": "John Git untuk Kode AS",
       "vi": "Git cho mã Mỹ",
       "fr": "Git pour le code américain",
@@ -290,15 +274,15 @@
      },
      "summary": {
       "en": "Lawyers should be able to read a statute as it stood on any date and see which law wrote each phrase. A history of nine titles of the US Code, built by replaying every amendment, as the example.",
-      "zh-Hans": "律师应当能够阅读任何日期的法规,并查看每一句的写法。 美国法典9个标题的历史,通过每条修正案的重播来构建,作为例子.",
-      "ja": "弁護士は、任意の日付で立証し、各句を書いた法律を参照してくださいので、法令を読むことができるはずです。 すべての修正を再生することによって構築された米国のコードの9つのタイトルの歴史は、例として。",
-      "ko": "변호사는 모든 날짜에 서서 statute을 읽을 수 있어야하며, 법은 각 구문을 썼습니다. 미국 코드의 9 제목의 역사, 예를 들면 모든 개정을 재생에 의해 구축.",
+      "zh-Hans": "把每条修正案按时间重放，律师可以查看任意日期的法条版本和每一句的修改历史，示例覆盖美国法典 9 个编。",
+      "ja": "すべての改正を順に再生して構築し、任意の日付の条文と各文の変更履歴を確認できます。例として9編を収録。",
+      "ko": "모든 개정안을 순서대로 재생해 구축한 것으로, 어느 날짜의 조문이든 각 문장의 변경 이력과 함께 볼 수 있습니다. 9개 편을 예시로 제공합니다.",
       "ms": "Pengacara harus dapat membaca undang-undang saat berdiri pada tanggal apapun dan melihat hukum mana yang menulis setiap frasa. Sejarah dari sembilan gelar Kode AS, dibangun dengan memutar ulang setiap amendemen, sebagai contoh.",
       "vi": "Luật sư nên có khả năng đọc một quy định vì nó đứng bất cứ ngày nào và xem luật pháp nào viết mỗi câu. Lịch sử của 9 tiêu đề của Bộ Luật Hoa Kỳ, được xây dựng bằng cách lặp lại mọi sửa đổi, như một ví dụ.",
       "fr": "Les avocats devraient être en mesure de lire une loi telle qu'elle se trouvait à n'importe quelle date et de voir quelle loi écrivait chaque phrase. Une histoire de neuf titres du Code américain, construit en rejouant chaque amendement, comme l'exemple.",
       "es": "Los abogados deben poder leer un estatuto tal como está en cualquier fecha y ver qué ley escribió cada frase. Una historia de nueve títulos del Código de EE.UU., construida por la repetición de cada enmienda, como ejemplo.",
       "de": "Anwälte sollten in der lage sein, ein statut so zu lesen, wie es an jedem datum stand und sehen, welches gesetz jeden satz schrieb. Eine Geschichte von neun Titeln des US-Codes, die durch Wiederholung jeder Änderung, als Beispiel.",
-      "zh-Hant": "律師應當能夠閱讀任何日期的法規,並檢視每一句的寫法。 美國法典9個標題的歷史,透過每條修正案的重播來構建,作為例子."
+      "zh-Hant": "把每條修正案按時間重放，律師可以檢視任意日期的法條版本和每一句的修改歷史，示例覆蓋美國法典 9 個編。"
      },
      "fact": {
       "zh-Hans": "Hacker News 425 分 · 247 条评论",
@@ -320,10 +304,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -334,11 +314,11 @@
     {
      "id": "hn-50264853",
      "title": {
-      "zh-Hans": "Survival LLM:在您自己的电脑上运行的AI助手和紧急库",
-      "zh-Hant": "Survival LLM:在您自己的電腦上執行的AI助手和緊急庫",
+      "zh-Hans": "Survival LLM：在自己电脑上离线运行的 AI 助手和应急资料库",
+      "zh-Hant": "Survival LLM：在自己電腦上離線執行的 AI 助手和應急資料庫",
       "en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "ja": "Survival LLM:自分のコンピュータ上で動作するAIアシスタントと緊急ライブラリ",
-      "ko": "Survival LLM: 자신의 컴퓨터에서 실행되는 AI 조수 및 응급 도서관",
+      "ja": "Survival LLM：自分のPCでオフライン動作するAIアシスタントと非常用ライブラリ",
+      "ko": "Survival LLM: 내 컴퓨터에서 오프라인으로 도는 AI 비서와 비상 자료실",
       "ms": "LLM: Asisten AI dan perpustakaan darurat yang berjalan di komputer Anda sendiri",
       "vi": "Sống sót : trợ lý AI và thư viện cấp cứu chạy trên máy tính của bạn",
       "fr": "Survival LLM: assistant AI et bibliothèque d'urgence qui fonctionne sur votre propre ordinateur",
@@ -347,15 +327,15 @@
      },
      "summary": {
       "en": "A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.",
-      "zh-Hans": "一个免费的AI助手和生存图书馆(150万条离线文章),运行在自己的电脑上,没有互联网. 显示每个答案的来源。 麦克和视窗",
-      "ja": "インターネットなしで、自分のコンピュータ上で動作する無料のAIアシスタントと生存ライブラリ(1.5万人のオフライン記事)。 すべての回答のソースを表示します。 MacとWindows。",
-      "ko": "무료 AI 조수 및 생존 라이브러리 (1.5 백만 오프라인 기사)는 자신의 컴퓨터에 실행되며 인터넷이 없습니다. 모든 답변의 소스를 보여줍니다. Mac 및 Windows.",
+      "zh-Hans": "免费的离线 AI 助手，附 150 万篇离线文章，无需联网，每个回答都标出处，支持 Mac 和 Windows。",
+      "ja": "150万本のオフライン記事を備えた無料のAIアシスタント。ネット不要で、回答ごとに出典を表示。Mac と Windows に対応。",
+      "ko": "150만 개의 오프라인 문서를 갖춘 무료 AI 비서로, 인터넷 없이 작동하고 답마다 출처를 보여 줍니다. Mac과 Windows 지원.",
       "ms": "Asisten AI gratis dan perpustakaan bertahan hidup (1,5 juta artikel offline) yang berjalan di komputer Anda sendiri, tanpa internet. Untuk menunjukkan sumber dari setiap jawaban. Mac dan Windows.",
       "vi": "Một thư viện AI miễn phí và một số bài viết được phát hành trên máy tính của bạn, không có internet. Cho thấy nguồn gốc của mọi câu trả lời. Mac và Windows.",
       "fr": "Un assistant d'IA gratuit et une bibliothèque de survie (1,5 million d'articles hors ligne) qui fonctionne sur votre propre ordinateur, sans internet. Montre la source de chaque réponse. Mac et Windows.",
       "es": "Un asistente de inteligencia artificial gratis y una biblioteca de supervivencia (1.5 millones de artículos sin conexión) que funciona en su propio ordenador, sin Internet. Muestra la fuente de cada respuesta. Mac y Windows.",
       "de": "Eine kostenlose KI-Assistentin und Überlebensbibliothek (1,5 Millionen Offline-Artikel), die auf Ihrem eigenen Computer ohne Internet läuft. Zeigt die Quelle jeder Antwort. Mac und Windows.",
-      "zh-Hant": "一個免費的AI助手和生存圖書館(150萬條離線文章),執行在自己的電腦上,沒有網際網路. 顯示每個答案的來源。 麥克和視窗"
+      "zh-Hant": "免費的離線 AI 助手，附 150 萬篇離線文章，無需聯網，每個回答都標出處，支援 Mac 和 Windows。"
      },
      "fact": {
       "zh-Hans": "Hacker News 512 分 · 193 条评论",
@@ -377,10 +357,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -391,11 +367,11 @@
     {
      "id": "hn-50273623",
      "title": {
-      "zh-Hans": "Harvey养了5万块做为合法人工智能 我造了同样的东西 开源",
-      "zh-Hant": "Harvey養了5萬塊做為合法人工智慧 我造了同樣的東西 開源",
+      "zh-Hans": "Harvey 融资 5 亿美元做法律 AI，我开源做了一个同样的",
+      "zh-Hant": "Harvey 融資 5 億美元做法律 AI，我開源做了一個同樣的",
       "en": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-      "ja": "法的なAIのために500Mを調達しました。私は同じように構築し、オープンソース化しました。",
-      "ko": "Harvey는 법률 AI를 위해 500M을 제기, 나는 동일하고 오픈 소스",
+      "ja": "Harvey は法律AIで5億ドル調達、同じものをオープンソースで作った",
+      "ko": "Harvey는 법률 AI로 5억 달러를 모았고, 나는 같은 걸 오픈소스로 만들었다",
       "ms": "Harvey mengangkat 500M untuk AI legal, saya membangun sumber yang sama dan terbuka itu",
       "vi": "Harvey đã nâng cấp 500M cho AI hợp pháp, tôi xây dựng cùng một nguồn tin và mở nó",
       "fr": "Harvey a levé 500M pour l'IA légale, j'ai construit la même et open source",
@@ -404,15 +380,15 @@
      },
      "summary": {
       "en": "CaseCite is an open-source, self-hosted legal RAG caselaw research & document analysis platform.",
-      "zh-Hans": "CaseCite是一个开源自办的法律RAG案例法研究与文件分析平台.",
-      "ja": "CaseCiteは、オープンソース、セルフホスト型の法的RAGのケーススタディとドキュメント分析プラットフォームです。",
-      "ko": "CaseCite는 오픈 소스, 자체 호스팅 법률 RAG Caselaw 연구 및 문서 분석 플랫폼입니다.",
+      "zh-Hans": "CaseCite 是开源、可自部署的法律 RAG 平台，用于判例研究和文件分析。",
+      "ja": "CaseCite はオープンソースでセルフホスト可能な法律 RAG プラットフォームで、判例調査と文書分析に使えます。",
+      "ko": "CaseCite는 판례 조사와 문서 분석을 위한 오픈소스·셀프호스팅 법률 RAG 플랫폼입니다.",
       "ms": "CaseCite adalah sebuah open-source, self-hosted legal RAG caselaw research & platform analisis dokumen.",
       "vi": "CaseCite là một nền tảng phân tích tài liệu có mã nguồn mở, tự lập pháp luật cho mình.",
       "fr": "CaseCite est une plate-forme de recherche et d'analyse de documents fondée sur la jurisprudence du RAG.",
       "es": "CaseCite es una plataforma de análisis de documentos de RAG legal de código abierto y auto hospedado.",
       "de": "CaseCite ist eine Open-Source, selbst gehostete juristische RAG Caselaw Research & Document Analysis Plattform.",
-      "zh-Hant": "CaseCite是一個開源自辦的法律RAG案例法研究與檔案分析平臺."
+      "zh-Hant": "CaseCite 是開源、可自部署的法律 RAG 平臺，用於判例研究和檔案分析。"
      },
      "fact": {
       "zh-Hans": "Hacker News 68 分 · 37 条评论",
@@ -434,10 +410,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -448,11 +420,11 @@
     {
      "id": "hn-50268868",
      "title": {
-      "zh-Hans": "人工分析情报索引v5",
-      "zh-Hant": "人工分析情報索引v5",
+      "zh-Hans": "Artificial Analysis 智能指数 v5",
+      "zh-Hant": "Artificial Analysis 智慧指數 v5",
       "en": "Artificial Analysis Intelligence Index v5",
-      "ja": "人工知能インデックスv5",
-      "ko": "인공 분석 지능 지수 v5",
+      "ja": "Artificial Analysis インテリジェンス指数 v5",
+      "ko": "Artificial Analysis 지능 지수 v5",
       "ms": "Indeks Intelijen Kecerdasan Analisis Kecerdasan Hasil Buatan v5",
       "vi": "Chỉ mục Tình báo Nhân tạo v5",
       "fr": "Index d'analyse artificielle Intelligence v5",
@@ -461,15 +433,15 @@
      },
      "summary": {
       "en": "Index v5 features 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets",
-      "zh-Hans": "索引v5包含2个新的基准和3个升级. 指数的绝大部分首次建立在私人数据集之上",
-      "ja": "インデックスv5は2つの新しいベンチマークと3つのアップグレードを備えています。 初めて、インデックスの大部分はプライベートデータセット上に構築されています",
-      "ko": "인덱스 v5는 2개의 새로운 벤치마크와 3개의 업그레이드를 갖추고 있습니다. 처음에는 인덱스의 대다수가 private datasets에 내장되어 있습니다.",
+      "zh-Hans": "v5 新增 2 个基准、升级 3 个，指数大部分首次基于私有数据集。",
+      "ja": "v5 では2つのベンチマークを追加し3つを更新。指数の大半が初めて非公開データセットに基づきます。",
+      "ko": "v5는 벤치마크 2개를 추가하고 3개를 개선했으며, 처음으로 지수 대부분이 비공개 데이터셋에 기반합니다.",
       "ms": "Indeks v5 fitur 2 benchmark baru dan 3 upgrade. Untuk pertama kalinya, mayoritas Indeks dibangun berdasarkan data pribadi",
       "vi": "Chỉ mục v5 tính năng mới Lần đầu tiên, đa số các phụ lục được xây dựng trên bộ dữ liệu cá nhân",
       "fr": "Index v5 présente 2 nouveaux benchmarks et 3 mises à jour. Pour la première fois, la majorité de l'indice est basée sur des ensembles de données privés",
       "es": "Index v5 cuenta con 2 nuevos parámetros y 3 actualizaciones. Por primera vez, la mayoría del índice se construye en conjuntos de datos privados",
       "de": "Index v5 enthält 2 neue Benchmarks und 3 Upgrades. Zum ersten Mal baut der Großteil des Index auf privaten Datensätzen auf",
-      "zh-Hant": "索引v5包含2個新的基準和3個升級. 指數的絕大部分首次建立在私人資料集之上"
+      "zh-Hant": "v5 新增 2 個基準、升級 3 個，指數大部分首次基於私有資料集。"
      },
      "fact": {
       "zh-Hans": "Hacker News 90 分 · 82 条评论",
@@ -491,10 +463,6 @@
      ],
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -507,11 +475,11 @@
     {
      "id": "hn-50275626",
      "title": {
-      "zh-Hans": "日常工作:税务 -- -- 评估50项专业税务任务中的人工智能代理人",
-      "zh-Hant": "日常工作:稅務 -- -- 評估50項專業稅務任務中的人工智慧代理人",
+      "zh-Hans": "DAYJOB: Tax，用 50 个专业报税任务评测 AI Agent",
+      "zh-Hant": "DAYJOB: Tax，用 50 個專業報稅任務評測 AI Agent",
       "en": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "ja": "デイジョブ: 税務 – プロフェッショナルな税務上のAIエージェントを評価する",
-      "ko": "Dayjob: 세금 – 50개의 전문 세금 할당에 대한 AI 에이전트 평가",
+      "ja": "DAYJOB: Tax：50件の税務業務でAIエージェントを評価",
+      "ko": "DAYJOB: Tax, 50개 세무 업무로 AI 에이전트 평가",
       "ms": "Hari Kerja: Pajak – mengevaluasi agen AI pada 50 pajak profesional",
       "vi": "Công việc hàng ngày: Thuế – Đánh giá các đặc vụ Al trong 50 nhiệm vụ thuế chuyên nghiệp",
       "fr": "Emploi de jour: Impôt – évaluation des agents d'IA sur 50 affectations fiscales professionnelles",
@@ -520,15 +488,15 @@
      },
      "summary": {
       "en": "DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.",
-      "zh-Hans": "DAYJOB:税收评估AI代理商跨越50个现实的税收环境,测试他们浏览混乱记录,进行专业判断,提供可靠的税收工作的能力.",
-      "ja": "DAYJOB: 税理士は50の現実的な税務環境でAIエージェントを評価し、メッシーレコードをナビゲートする能力をテストし、プロの判断を練習し、信頼できる税務業務を提供します。",
-      "ko": "DAYJOB : 세금은 50 개 이상의 현실적인 세금 환경을 평가하고 메시 기록, 운동 전문 판단을 탐색하고 신뢰할 수있는 세금 작업을 제공합니다.",
+      "zh-Hans": "在 50 个真实报税环境、1,789 个文件里，测试 Agent 能否处理混乱记录、做专业判断并交付可靠结果。",
+      "ja": "50の現実的な税務環境と1,789ファイルで、乱れた記録の処理や専門的判断、信頼できる成果物の提出ができるかを試します。",
+      "ko": "50개의 실제 세무 환경과 1,789개 파일에서 에이전트가 엉킨 기록을 처리하고 전문 판단을 내려 믿을 만한 결과를 내는지 시험합니다.",
       "ms": "Pajak mengevaluasi agen AI di seluruh 50 lingkungan pajak realistis, menguji kemampuan mereka untuk menavigasi catatan berantakan, menjalankan penilaian profesional, dan menyampaikan pekerjaan pajak yang andal.",
       "vi": "NGÀY NAY: Thuế đánh giá các đặc vụ AI trên 50 môi trường thuế thực tế, kiểm tra khả năng định vị các hồ sơ lộn xộn, thực hành sự phán đoán chuyên nghiệp và cung cấp các công việc thuế đáng tin cậy.",
       "fr": "DAYJOB: La fiscalité évalue les agents d'IA dans 50 environnements fiscaux réalistes, testant leur capacité à naviguer dans des dossiers désordonnés, à exercer un jugement professionnel et à fournir un travail fiscal fiable.",
       "es": "DAYJOB: El impuesto evalúa a los agentes de IA en 50 entornos fiscales realistas, probando su capacidad para navegar registros desordenados, ejercer el juicio profesional y entregar trabajos fiscales confiables.",
       "de": "DAYJOB: Tax bewertet KI-Agenten in 50 realistischen Steuerumgebungen und testet ihre Fähigkeit, durch chaotische Aufzeichnungen zu navigieren, ein professionelles Urteilsvermögen auszuüben und zuverlässige Steuerarbeit zu leisten.",
-      "zh-Hant": "DAYJOB:稅收評估AI代理商跨越50個現實的稅收環境,測試他們瀏覽混亂記錄,進行專業判斷,提供可靠的稅收工作的能力."
+      "zh-Hant": "在 50 個真實報稅環境、1,789 個檔案裡，測試 Agent 能否處理混亂記錄、做專業判斷並交付可靠結果。"
      },
      "fact": {
       "zh-Hans": "Hacker News 174 分 · 103 条评论",
@@ -547,10 +515,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -561,11 +525,11 @@
     {
      "id": "hn-50265609",
      "title": {
-      "zh-Hans": "与克劳德一起加快药物开发的早期进展",
-      "zh-Hant": "與克勞德一起加快藥物開發的早期進展",
+      "zh-Hans": "用 Claude 加速新药研发的早期进展",
+      "zh-Hant": "用 Claude 加速新藥研發的早期進展",
       "en": "Early progress on accelerating drug development with Claude",
-      "ja": "クロードによる医薬品開発の加速に関する早期進展",
-      "ko": "Claude와 약물 개발을 가속화하는 초기 진행",
+      "ja": "Claude で創薬を加速する初期の成果",
+      "ko": "Claude로 신약 개발을 앞당긴 초기 성과",
       "ms": "Kemajuan awal pada mempercepat perkembangan obat dengan Claude",
       "vi": "Sự tiến bộ ban đầu trong việc gia tăng sự phát triển ma túy với Claude",
       "fr": "Progrès rapides vers l'accélération du développement des médicaments avec Claude",
@@ -574,15 +538,15 @@
      },
      "summary": {
       "en": "Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including programs for rare childhood forms of…",
-      "zh-Hans": "过去几个月, 我们与六个组织合作, 我们也开始自己的药物发现工作,包括针对罕见的童年形式的方案.",
-      "ja": "過去数か月にわたり、6つの組織と提携し、治癒疾患を加速させます。 また、希少な幼年期の形態のプログラムなど、独自の創薬の取り組みを始めました。",
-      "ko": "지난 몇 달 동안, 우리는 치료 질병을 가속하기 위해 6 개의 조직과 협력했습니다. 우리는 또한 우리의 자신의 약 발견 노력을 시작, 드문 어린 시절의 형태로 프로그램을 포함...",
+      "zh-Hans": "Anthropic 过去几个月与六家机构合作，也开始自己的药物发现工作，包括针对一种罕见儿童疾病的项目。",
+      "ja": "Anthropic はこの数か月、6つの組織と協力し、まれな小児疾患を対象とするものを含む独自の創薬にも着手しました。",
+      "ko": "Anthropic은 지난 몇 달간 6개 기관과 협력했고, 희귀 소아 질환 프로그램을 포함한 자체 신약 발굴도 시작했습니다.",
       "ms": "Selama beberapa bulan terakhir, kami bekerja sama dengan enam organisasi untuk mempercepat penyembuhan penyakit. Kami juga memulai upaya penemuan narkoba sendiri, termasuk program - program untuk bentuk masa kecil yang langka...",
       "vi": "Trong vài tháng qua, chúng tôi kết hợp với sáu tổ chức để nhanh chóng chữa bệnh. Chúng tôi cũng đã bắt đầu khám phá ma túy, kể cả những chương trình hiếm có thời thơ ấu...",
       "fr": "Au cours des derniers mois, nous avons collaboré avec six organisations pour accélérer la guérison des maladies. Nous avons également commencé les efforts de découverte de drogue de notre propre, y compris des programmes pour les formes...",
       "es": "En los últimos meses, nos hemos asociado con seis organizaciones para acelerar la curación de enfermedades. También hemos iniciado esfuerzos de descubrimiento de drogas por nuestra cuenta, incluyendo programas para...",
       "de": "In den letzten Monaten haben wir uns mit sechs Organisationen zusammengetan, um die Heilung von Krankheiten zu beschleunigen. Wir haben auch eigene Bemühungen zur Entdeckung von Medikamenten begonnen, einschließlich Programme für seltene Formen der Kindheit.",
-      "zh-Hant": "過去幾個月, 我們與六個組織合作, 我們也開始自己的藥物發現工作,包括針對罕見的童年形式的方案."
+      "zh-Hant": "Anthropic 過去幾個月與六家機構合作，也開始自己的藥物發現工作，包括針對一種罕見兒童疾病的專案。"
      },
      "fact": {
       "zh-Hans": "Hacker News 319 分 · 329 条评论",
@@ -601,10 +565,6 @@
      "date": "2026-10-27",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -615,11 +575,11 @@
     {
      "id": "hn-50273731",
      "title": {
-      "zh-Hans": "SDK探员",
-      "zh-Hant": "SDK探員",
+      "zh-Hans": "Cursor 推出 Agent SDK",
+      "zh-Hant": "Cursor 推出 Agent SDK",
       "en": "The Agent SDK",
-      "ja": "エージェント SDK",
-      "ko": "에이전트 SDK",
+      "ja": "Cursor が Agent SDK を公開",
+      "ko": "Cursor, Agent SDK 출시",
       "ms": "Agen SDK",
       "vi": "Đặc vụ SDK",
       "fr": "L'agent SDK",
@@ -628,15 +588,15 @@
      },
      "summary": {
       "en": "The Agent SDK is the framework we use to build our own managed agents like Bugbot, Security Reviewer, and Rollouts. Define agents in code and deploy them with one command.",
-      "zh-Hans": "特工SDK是我们用来 建立我们自己 管理的代理,如Bugbot, 安全审查员,和Rollows。 在代码中定义特工,并用一个命令部署他们.",
-      "ja": "Agent SDK は、Bugbot、Security Reviewer、Rollouts などの管理されたエージェントをビルドするために使用するフレームワークです。 エージェントをコードで定義し、1つのコマンドで展開します。",
-      "ko": "Agent SDK는 Bugbot, Security Reviewer, Rollouts와 같은 자체 관리 에이전트를 구축하는 데 사용됩니다. 코드를 정의하고 하나의 명령으로 배포합니다.",
+      "zh-Hans": "这是 Cursor 用来构建 Bugbot、Security Reviewer、Rollouts 等托管 Agent 的框架：用代码定义 Agent，一条命令部署。",
+      "ja": "Bugbot や Security Reviewer、Rollouts など自社のマネージドエージェントを作る基盤で、コードで定義し1コマンドでデプロイできます。",
+      "ko": "Bugbot, Security Reviewer, Rollouts 같은 관리형 에이전트를 만드는 데 쓰는 프레임워크로, 코드로 정의하고 명령 하나로 배포합니다.",
       "ms": "Agen Agen SDK adalah kerangka kerja yang kita gunakan untuk membangun agen kita sendiri yang dikelola seperti Bugbot, Security Reviewer, dan Rollouts. Takrifkan agen dalam kode dan sebarkan dengan satu perintah.",
       "vi": "Đặc vụ SDK là khuôn khổ chúng tôi sử dụng để xây dựng các đặc vụ của riêng mình như Bugbot, Security Reviewer, và Rollouts. Xác định các đặc vụ mã hóa và triển khai chúng với một chỉ huy.",
       "fr": "L'Agent SDK est le cadre que nous utilisons pour construire nos propres agents gérés comme Bugbot, Security Reviewer et Rollouts. Définissez les agents en code et déployez-les avec une seule commande.",
       "es": "El agente SDK es el marco que utilizamos para construir nuestros propios agentes gestionados como Bugbot, Security Reviewer y Rollouts. Definir agentes en código y desplegarlos con un comando.",
       "de": "Das Agent SDK ist das Framework, mit dem wir unsere eigenen Managed Agents wie Bugbot, Security Reviewer und Rollouts erstellen. Definieren Sie Agenten im Code und stellen Sie sie mit einem Befehl bereit.",
-      "zh-Hant": "特工SDK是我們用來 建立我們自己 管理的代理,如Bugbot, 安全審查員,和Rollows。 在程式碼中定義特工,並用一個命令部署他們."
+      "zh-Hant": "這是 Cursor 用來構建 Bugbot、Security Reviewer、Rollouts 等託管 Agent 的框架：用程式碼定義 Agent，一條命令部署。"
      },
      "fact": {
       "zh-Hans": "Hacker News 84 分 · 104 条评论",
@@ -655,10 +615,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -669,11 +625,11 @@
     {
      "id": "hn-50275128",
      "title": {
-      "zh-Hans": "恩维迪亚·尼莫特龙 3.5 转写:为40种语言开放ASR",
-      "zh-Hant": "恩維迪亞·尼莫特龍 3.5 轉寫:為40種語言開放ASR",
+      "zh-Hans": "NVIDIA Nemotron 3.5 Transcribe：支持 40 种语言的开放语音识别",
+      "zh-Hant": "NVIDIA Nemotron 3.5 Transcribe：支援 40 種語言的開放語音識別",
       "en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-      "ja": "Nvidia ネモトロン 3.5 Transcribe: 40の言語のためのASRを開けて下さい",
-      "ko": "네모트론 3.5 Transcribe: 40개국 ASR 오픈",
+      "ja": "NVIDIA Nemotron 3.5 Transcribe：40言語対応のオープン音声認識",
+      "ko": "NVIDIA Nemotron 3.5 Transcribe: 40개 언어 오픈 음성 인식",
       "ms": "Navidia Nemotron 3.5 Transcribe: buka ASR untuk 40 bahasa",
       "vi": "Khối u 3. 5 Tra lại: mở ASR cho 40 ngôn ngữ",
       "fr": "Nvidia Nemotron 3,5 Transcription : ouvrir ASR pour 40 langues",
@@ -682,15 +638,15 @@
      },
      "summary": {
       "en": "A transcript can capture every spoken word and still leave users or applications wondering who said what, how to translate it, or how to format domain-specific jargon.",
-      "zh-Hans": "笔录可以捕捉到每个口语词,仍然让用户或应用程序想知道是谁说的,如何翻译,或者如何格式化特定域的词汇.",
-      "ja": "トランスクリプトは、すべての単語をキャプチャし、ユーザーが残したり、誰が何を言っているか、それを翻訳する方法、またはドメイン固有のjargonをフォーマットする方法を疑問に思っているアプリケーションを残すことができます。",
-      "ko": "모든 단어를 캡처 할 수 있고 여전히 어떤 것을 번역하는 방법, 또는 도메인 별 jargon을 포맷하는 방법을 말한 사용자 또는 응용 프로그램을 떠날 수 있습니다.",
+      "zh-Hans": "NVIDIA 发布可用提示控制的多语种转写模型和 Granary v2 数据集，处理说话人、翻译和专业词汇格式等问题。",
+      "ja": "プロンプトで制御できる多言語文字起こしモデルと Granary v2 データセットを公開。話者や翻訳、専門用語の書式に対応します。",
+      "ko": "프롬프트로 제어하는 다국어 전사 모델과 Granary v2 데이터셋을 공개해 화자, 번역, 전문 용어 서식 문제를 다룹니다.",
       "ms": "transkrip dapat menangkap setiap kata yang diucapkan dan masih meninggalkan pengguna atau aplikasi bertanya-tanya siapa yang mengatakan apa, bagaimana menerjemahkannya, atau bagaimana memformat domain-spesifik jargon.",
       "vi": "Một bản sao có thể ghi lại mỗi từ nói và vẫn để lại cho người dùng hoặc ứng dụng tự hỏi những gì, làm thế nào để dịch nó, hoặc làm thế nào để định dạng thuật ngữ miền cụ thể.",
       "fr": "Une transcription peut capturer chaque mot parlé et laisser les utilisateurs ou les applications se demander qui a dit quoi, comment le traduire ou comment formater le jargon spécifique au domaine.",
       "es": "Una transcripción puede capturar cada palabra hablada y dejar a los usuarios o aplicaciones preguntándose quién dijo qué, cómo traducirla, o cómo formatear la jerga de dominio específico.",
       "de": "Ein Transkript kann jedes gesprochene Wort erfassen und lässt Benutzer oder Anwendungen immer noch fragen, wer was gesagt hat, wie man es übersetzt oder wie man domänenspezifischen Jargon formatiert.",
-      "zh-Hant": "筆錄可以捕捉到每個口語詞,仍然讓使用者或應用程式想知道是誰說的,如何翻譯,或者如何格式化特定域的詞彙."
+      "zh-Hant": "NVIDIA 釋出可用提示控制的多語種轉寫模型和 Granary v2 資料集，處理說話人、翻譯和專業詞彙格式等問題。"
      },
      "fact": {
       "zh-Hans": "Hacker News 98 分 · 17 条评论",
@@ -709,10 +665,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -723,11 +675,11 @@
     {
      "id": "hn-50272749",
      "title": {
-      "zh-Hans": "ICE针对左翼社会运动的间谍行动的证据",
-      "zh-Hant": "ICE針對左翼社會運動的間諜行動的證據",
+      "zh-Hans": "ICE 针对左翼社会运动的大规模监控行动",
+      "zh-Hant": "ICE 針對左翼社會運動的大規模監控行動",
       "en": "Evidence of a spying operation by ICE against left-wing social movements",
-      "ja": "左翼の社会的運動に対するICEによるスパイ操作の証拠",
-      "ko": "ICE에 의해 스파이 작업의 증거 왼쪽-윙 소셜 운동",
+      "ja": "左派の社会運動を狙う ICE の大規模監視",
+      "ko": "좌파 사회운동을 겨냥한 ICE의 대규모 감시",
       "ms": "Bukti dari operasi mata-mata oleh ICE terhadap gerakan sosial sayap kiri",
       "vi": "Bằng chứng của một hoạt động gián điệp bởi ICE chống lại các phong trào xã hội cánh tả",
       "fr": "Preuve d'une opération d'espionnage menée par l'ICE contre les mouvements sociaux de gauche",
@@ -736,15 +688,15 @@
      },
      "summary": {
       "en": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
-      "zh-Hans": "ICE的国土安全调查正在对左翼活动家进行深远的间谍活动,他们与联邦调查局和中情局的镇压民权运动和反战运动相对应.",
-      "ja": "ICEのHomeland Security Investigationsは、FBIとCIAの亀裂を市民の権利と反戦争の動きに匹敵する左翼活動家に対して遠距離のスパイに取り組んでいます。",
-      "ko": "ICE의 Homeland Security Investigations는 남북권 및 항우울 운동에 FBI 및 CIA 균열을 라이벌하는 왼쪽 운동에 대한 먼 공격에 종사하고 있습니다.",
+      "zh-Hans": "Wired 报道：ICE 下属国土安全调查部门正对左翼活动人士进行大范围监控，规模堪比当年 FBI 和 CIA 打压民权与反战运动。",
+      "ja": "Wired によると、ICE の国土安全保障捜査部門が左派活動家を広く監視しており、かつての FBI・CIA による公民権・反戦運動弾圧に匹敵します。",
+      "ko": "Wired 보도: ICE 국토안보수사국이 좌파 활동가를 광범위하게 감시하고 있으며, 과거 FBI·CIA의 민권·반전운동 탄압에 비견됩니다.",
       "ms": "Penyelidikan Keamanan Dalam Negeri ICE terlibat dalam mata-mata yang jauh jangkauan terhadap aktivis sayap kiri yang menyaingi FBI dan CIA yang retak pada hak-hak sipil dan gerakan anti-perang.",
       "vi": "Các cuộc điều tra an ninh nội địa của ICE đang tiến hành điều tra sâu xa chống lại những nhà hoạt động cánh tả đối địch với FBI và CIA những cuộc tàn phá về quyền công dân và các phong trào chống chiến tranh.",
       "fr": "Les enquêtes sur la sécurité intérieure d'ICE se livrent à des espionnages de grande envergure contre les militants de gauche qui rivalisent avec les répressions du FBI et de la CIA sur les droits civils et les mouvements anti-guerre.",
       "es": "Las investigaciones de Seguridad Nacional de ICE están dedicadas a espionaje de gran alcance contra activistas de izquierda que rivalizan con las represión del FBI y la CIA sobre los derechos civiles y los movimientos antiguerra.",
       "de": "Die Homeland Security Investigations von ICE betreiben weitreichende Spionage gegen linke Aktivisten, die mit den Razzien des FBI und der CIA gegen die Bürgerrechte und Antikriegsbewegungen konkurrieren.",
-      "zh-Hant": "ICE的國土安全調查正在對左翼活動家進行深遠的間諜活動,他們與聯邦調查局和中情局的鎮壓民權運動和反戰運動相對應."
+      "zh-Hant": "Wired 報道：ICE 下屬國土安全調查部門正對左翼活動人士進行大範圍監控，規模堪比當年 FBI 和 CIA 打壓民權與反戰運動。"
      },
      "fact": {
       "zh-Hans": "Hacker News 1065 分 · 871 条评论",
@@ -763,10 +715,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -777,11 +725,11 @@
     {
      "id": "hn-50276940",
      "title": {
-      "zh-Hans": "带有 PROLED XDR 显示和触摸的 MacBook Pro",
-      "zh-Hant": "帶有 PROLED XDR 顯示和觸控的 MacBook Pro",
+      "zh-Hans": "苹果推出 PROLED XDR 屏和触屏的 MacBook Pro",
+      "zh-Hant": "蘋果推出 PROLED XDR 屏和觸屏的 MacBook Pro",
       "en": "MacBook Pro with PROLED XDR Display and Touch",
-      "ja": "ProLED XDRディスプレイとタッチを備えたMacBook Pro",
-      "ko": "PROLED XDR 디스플레이 및 터치와 MacBook Pro",
+      "ja": "PROLED XDR ディスプレイとタッチ対応の MacBook Pro",
+      "ko": "PROLED XDR 디스플레이와 터치를 갖춘 MacBook Pro",
       "ms": "MacBook Pro dengan PROLED XDR Tampilan dan Sentuh",
       "vi": "Comment",
       "fr": "MacBook Pro avec écran PROLED XDR et Touch",
@@ -790,15 +738,15 @@
      },
      "summary": {
       "en": "MacBook Pro with PROLED XDR Display has the world’s best laptop display. Featuring the M5 Pro or M5 Max chip, it’s a powerful platform for AI.",
-      "zh-Hans": "使用 PROLED XDR 显示的 MacBook Pro 拥有世界上最好的笔记本电脑显示。 M5 Pro 或 M5 Max 芯片,",
-      "ja": "PROLED XDRディスプレイを備えたMacBook Proは、世界最高のラップトップディスプレイを持っています。 M5 Pro または M5 Max チップを搭載し、AI の強力なプラットフォームです。",
-      "ko": "PROLED XDR 디스플레이와 MacBook Pro는 세계 최고의 노트북 디스플레이가 있습니다. M5 Pro 또는 M5 Max 칩을 특징으로하는 AI의 강력한 플랫폼입니다.",
+      "zh-Hans": "苹果称这是最好的笔记本屏幕，搭载 M5 Pro 或 M5 Max 芯片，定位 AI 生产力。",
+      "ja": "Apple は世界最高のノートPCディスプレイとうたい、M5 Pro または M5 Max を搭載したAI向けの機種です。",
+      "ko": "Apple은 최고의 노트북 디스플레이라고 소개하며, M5 Pro 또는 M5 Max 칩을 탑재한 AI용 플랫폼입니다.",
       "ms": "MacBook Pro dengan PROLED XDR Display memiliki tampilan laptop terbaik di dunia. Ini adalah platform yang kuat untuk AI.",
       "vi": "MacBook Pro với màn hình XDR có màn hình máy tính xách tay tốt nhất thế giới. Đó là một nền tảng mạnh mẽ cho AI.",
       "fr": "MacBook Pro avec PROLED XDR Display a le meilleur écran portable du monde. Doté de la puce M5 Pro ou M5 Max, il est une plate-forme puissante pour l'IA.",
       "es": "MacBook Pro con pantalla XDR PROLED tiene la mejor pantalla portátil del mundo. Con el chip M5 Pro o M5 Max, es una plataforma potente para AI.",
       "de": "MacBook Pro mit PROLED XDR Display verfügt über das weltweit beste Laptop-Display. Mit dem M5 Pro oder M5 Max Chip ist es eine leistungsstarke Plattform für KI.",
-      "zh-Hant": "使用 PROLED XDR 顯示的 MacBook Pro 擁有世界上最好的膝上型電腦顯示。 M5 Pro 或 M5 Max 晶片,"
+      "zh-Hant": "蘋果稱這是最好的筆記本螢幕，搭載 M5 Pro 或 M5 Max 晶片，定位 AI 生產力。"
      },
      "fact": {
       "zh-Hans": "Hacker News 453 分 · 773 条评论",
@@ -817,10 +765,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -831,11 +775,11 @@
     {
      "id": "hn-50276998",
      "title": {
-      "zh-Hans": "为什么这个指纹脚本会制造出生物武器?",
-      "zh-Hant": "為什麼這個指紋指令碼會製造出生物武器?",
+      "zh-Hans": "这个指纹脚本为什么在造生化武器？",
+      "zh-Hant": "這個指紋指令碼為什麼在造生化武器？",
       "en": "Why is this fingerprinting script creating bioweapons?",
-      "ja": "なぜこの指紋スクリプトがバイオ武器を作成するのですか?",
-      "ko": "왜 이 지문 스크립트는 bioweapons를 만드는?",
+      "ja": "このフィンガープリントスクリプトはなぜ生物兵器を作っているのか？",
+      "ko": "이 핑거프린팅 스크립트는 왜 생물무기를 만들고 있나?",
       "ms": "Kenapa sidik jari ini menciptakan senjata biologi?",
       "vi": "Tại sao văn bản in dấu này lại tạo ra vũ khí sinh học?",
       "fr": "Pourquoi ce script d'empreintes digitales crée-t-il des armes biologiques ?",
@@ -844,15 +788,15 @@
      },
      "summary": {
       "en": "I've always had a fascination with reverse-engineering browser fingerprinting scripts. Most of my time has been spent looking at the usual suspects (popular fingerprinting libraries like…",
-      "zh-Hans": "我对逆向工程浏览器指纹脚本一直很着迷. 我的大部分时间都花在了看一般的嫌疑人(流行指纹库如.",
-      "ja": "私は常にリバースエンジニアリングブラウザの指紋スクリプトでfascinationを持っていた. 私の時間の大部分は、通常の疑惑(人気の指紋ライブラリのような...",
-      "ko": "나는 항상 역설계 브라우저 지문 스크립트를 가진 fascination가 있었습니다. 내 시간의 대부분은 평소의 의심을보고하고있다 (팝콘 지문 도서관 같은 ...",
+      "zh-Hans": "作者爬网拦截浏览器指纹相关 API 调用并逆向，发现一个指纹脚本里塞满了危险主题的函数名和越狱式提示词文本。",
+      "ja": "筆者はWeb全体でフィンガープリント関連APIの呼び出しを収集・解析し、危険な名前の関数やジェイルブレイク風の文言を詰め込んだスクリプトを見つけました。",
+      "ko": "필자가 웹 전체에서 브라우저 핑거프린팅 API 호출을 수집해 역분석하다가, 위험한 이름의 함수와 탈옥식 프롬프트 문구로 가득한 스크립트를 발견했습니다.",
       "ms": "Aku selalu tertarik dengan skrip sidik jari penjelajah mesin terbalik. Sebagian besar waktu saya telah dihabiskan untuk melihat tersangka biasa (popular sidik jari perpustakaan seperti ...",
       "vi": "Tôi luôn thích thú với các tập lệnh in dấu vân tay của trình duyệt ngược. Hầu hết thời gian của tôi đã được dành để xem xét các nghi phạm thông thường (các thư viện in dấu vân tay phổ thông như...",
       "fr": "J'ai toujours eu une fascination pour les scripts d'empreintes du navigateur. La plupart de mon temps a été passé à regarder les suspects habituels (les...",
       "es": "Siempre he tenido una fascinación con los scripts de identificación del navegador. La mayor parte de mi tiempo se ha pasado mirando a los sospechosos habituales (las bibliotecas de huellas digitales populares como...",
       "de": "Ich hatte schon immer eine Faszination für Reverse-Engineering-Browser-Fingerprinting-Skripte. Die meiste Zeit habe ich damit verbracht, die üblichen Verdächtigen zu betrachten (populäre Fingerabdruckbibliotheken wie ...)",
-      "zh-Hant": "我對逆向工程瀏覽器指紋指令碼一直很著迷. 我的大部分時間都花在了看一般的嫌疑人(流行指紋庫如."
+      "zh-Hant": "作者爬網攔截瀏覽器指紋相關 API 呼叫並逆向，發現一個指紋指令碼里塞滿了危險主題的函式名和越獄式提示詞文字。"
      },
      "fact": {
       "zh-Hans": "Hacker News 606 分 · 134 条评论",
@@ -871,10 +815,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -885,11 +825,11 @@
     {
      "id": "hn-50269651",
      "title": {
-      "zh-Hans": "人工分析情报指数v 5.0",
-      "zh-Hant": "人工分析情報指數v 5.0",
+      "zh-Hans": "Artificial Analysis 智能指数 v5.0 方法论",
+      "zh-Hant": "Artificial Analysis 智慧指數 v5.0 方法論",
       "en": "Artificial Analysis Intelligence Index v5.0",
-      "ja": "人工知能インデックスv5.0",
-      "ko": "인공 분석 지능 지수 v5.0",
+      "ja": "Artificial Analysis インテリジェンス指数 v5.0 の方法論",
+      "ko": "Artificial Analysis 지능 지수 v5.0 방법론",
       "ms": "Indeks Intelijen Analisis Kecerdasan Artificial V5.0",
       "vi": "Chỉ mục Phân tích Tình báo Nhân tạo v5. 0",
       "fr": "Indice d'intelligence d'analyse artificielle v5.0",
@@ -898,15 +838,15 @@
      },
      "summary": {
       "en": "Detailed intelligence benchmarking methodology for LLM quality evaluations.",
-      "zh-Hans": "详细制定LLM质量评价的情报基准方法.",
-      "ja": "LLM品質評価のための詳細なインテリジェンスベンチマーキング方法論。",
-      "ko": "LLM 품질 평가를 위한 상세한 인텔리전스 벤치마킹 방법론.",
+      "zh-Hans": "详细说明其 LLM 质量评测所用的智能基准方法。",
+      "ja": "LLM の品質評価に使うインテリジェンス・ベンチマークの手法を詳しく説明しています。",
+      "ko": "LLM 품질 평가에 쓰는 지능 벤치마크 방법을 자세히 설명합니다.",
       "ms": "Kecerdasan terrinci software metodologi untuk evaluasi kualitas LLM.",
       "vi": "Phương pháp định vị trí thông minh chi tiết cho đánh giá chất lượng LM.",
       "fr": "Méthodologie détaillée d'analyse comparative des renseignements pour les évaluations de la qualité des GNL.",
       "es": "Metodología de referencia de inteligencia detallada para evaluaciones de calidad LLM.",
       "de": "Detaillierte Intelligenz-Benchmarking-Methodik für LLM-Qualitätsbewertungen.",
-      "zh-Hant": "詳細制定LLM質量評價的情報基準方法."
+      "zh-Hant": "詳細說明其 LLM 質量評測所用的智慧基準方法。"
      },
      "fact": {
       "zh-Hans": "Hacker News 39 分 · 5 条评论",
@@ -925,10 +865,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -939,11 +875,11 @@
     {
      "id": "hn-50260571",
      "title": {
-      "zh-Hans": "第一代理开发插件和证明",
-      "zh-Hant": "第一代理開發外掛和證明",
+      "zh-Hans": "Spec-First：规格驱动的 Agent 开发插件",
+      "zh-Hant": "Spec-First：規格驅動的 Agent 開發外掛",
       "en": "Specification First Agentic Development Plugin and Prove",
-      "ja": "仕様 最初のエージェント開発プラグインとプローブ",
-      "ko": "사양 First Agentic 개발 플러그인 및 Prove",
+      "ja": "Spec-First：仕様駆動のエージェント開発プラグイン",
+      "ko": "Spec-First: 명세 주도 에이전트 개발 플러그인",
       "ms": "Kebijakan dan Bukti Pengembangan Agensi Pertama Spesifikasi",
       "vi": "Phần bổ sung phát triển đặc vụ đầu tiên và chứng minh",
       "fr": "Spécification First Agentic Development Plugin and Prove",
@@ -952,15 +888,15 @@
      },
      "summary": {
       "en": "Spec-first agentic development is specification-driven development for AI coding agents: reviewed specs, isolated worktrees, gated commits.",
-      "zh-Hans": "Spec-First代理开发是AI编码代理的规格驱动开发:经过审查的规格,孤立的工作树,门式承诺.",
-      "ja": "Spec-first のエージェント開発は、AI コーディングエージェントの仕様主導開発です。レビューされたスペック、独立したワークツリー、ゲートされたコミット。",
-      "ko": "Spec-first Agentic 개발은 AI 코딩 대리인을 위한 명세 몬 발달입니다: 검토된 specs, 고립된 worktrees, gated commits.",
+      "zh-Hans": "给 AI 编程 Agent 用的规格驱动开发流程：先审规格，再在隔离的 worktree 里开发，按关卡提交。",
+      "ja": "AIコーディングエージェント向けの仕様駆動開発で、レビュー済み仕様、分離された worktree、関門付きコミットで進めます。",
+      "ko": "AI 코딩 에이전트를 위한 명세 주도 개발로, 검토된 명세와 격리된 worktree, 단계별 게이트 커밋으로 진행합니다.",
       "ms": "Pengembangan agentik Spec-pertama adalah pengembangan spesifikasi-driven untuk agen coding AI: spesifikasi ditinjau, worktrees terisolasi, gated commits.",
       "vi": "Phát triển các tác nhân đầu tiên là sự phát triển đặc trưng cho các đặc vụ mã hóa AI: xem lại các thông số kỹ thuật, các cây lao động lẻ loi, các cổng ra vào.",
       "fr": "Spec-first agentic development est le développement axé sur les spécifications pour les agents de codage d'IA: spécifications examinées, arbres de travail isolés, commits fermés.",
       "es": "El desarrollo del primer agente es un desarrollo basado en la especificación para agentes de codificación de IA: especificaciones revisadas, árboles de trabajo aislados, commits cerrados.",
       "de": "Spec-first agentic development ist spezifikationsgesteuerte Entwicklung für KI-Codierungsagenten: überprüfte Spezifikationen, isolierte Worktrees, Gated Commits.",
-      "zh-Hant": "Spec-First代理開發是AI編碼代理的規格驅動開發:經過審查的規格,孤立的工作樹,門式承諾."
+      "zh-Hant": "給 AI 程式設計 Agent 用的規格驅動開發流程：先審規格，再在隔離的 worktree 裡開發，按關卡提交。"
      },
      "fact": {
       "zh-Hans": "Hacker News 34 分 · 31 条评论",
@@ -979,10 +915,6 @@
      "date": "2026-10-27",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -993,11 +925,11 @@
     {
      "id": "hn-50273171",
      "title": {
-      "zh-Hans": "Emacs 转出 50",
-      "zh-Hant": "Emacs 轉出 50",
+      "zh-Hans": "Emacs 50 岁了",
+      "zh-Hant": "Emacs 50 歲了",
       "en": "Emacs Turns 50",
-      "ja": "Emacs が 50 を回す",
-      "ko": "Emacs 턴 50",
+      "ja": "Emacs が50周年",
+      "ko": "Emacs 50주년",
       "ms": "Emacs Emacs Ternyata 50",
       "vi": "Emacs biến 50",
       "fr": "Emacs tourne 50",
@@ -1006,15 +938,15 @@
      },
      "summary": {
       "en": "How the MIT AI Lab’s text editor gave birth to the free software movement.",
-      "zh-Hans": "麻省理工学院AI Lab的文本编辑器是如何诞生自由软件运动的.",
-      "ja": "MIT AI Labのテキストエディタがフリーソフトウェアの動きを出す方法",
-      "ko": "MIT AI Lab의 텍스트 편집기는 무료 소프트웨어 운동으로 탄생했습니다.",
+      "zh-Hans": "MIT Technology Review 回顾这款诞生于 MIT AI 实验室的文本编辑器如何催生了自由软件运动。",
+      "ja": "MIT Technology Review が、MIT AI ラボ生まれのこのエディタがどのようにフリーソフトウェア運動を生んだかを振り返ります。",
+      "ko": "MIT Technology Review가 MIT AI 연구소에서 태어난 이 편집기가 어떻게 자유 소프트웨어 운동을 낳았는지 돌아봅니다.",
       "ms": "Bagaimana editor teks MIT AI Lab melahirkan gerakan perangkat lunak bebas.",
       "vi": "Cách biên tập văn bản của phòng thí nghiệm MIT đã tạo ra phong trào phần mềm tự do.",
       "fr": "Comment l'éditeur de texte MIT AI Lab a donné naissance au mouvement du logiciel libre.",
       "es": "Cómo el editor de texto del MIT AI Lab dio a luz al movimiento de software libre.",
       "de": "Wie der Texteditor des MIT AI Lab die Freie-Software-Bewegung hervorbrachte.",
-      "zh-Hant": "麻省理工學院AI Lab的文字編輯器是如何誕生自由軟體運動的."
+      "zh-Hant": "MIT Technology Review 回顧這款誕生於 MIT AI 實驗室的文字編輯器如何催生了自由軟體運動。"
      },
      "fact": {
       "zh-Hans": "Hacker News 379 分 · 161 条评论",
@@ -1033,10 +965,6 @@
      "date": "2026-10-28",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -1103,11 +1031,11 @@
     {
      "id": "gh-1435672472",
      "title": {
-      "zh-Hans": "haydenschmitty/floorplan",
-      "zh-Hant": "haydenschmitty/floorplan",
+      "zh-Hans": "floorplan：把代码库画成可交互的平面图",
+      "zh-Hant": "floorplan：把程式碼庫畫成可互動的平面圖",
       "en": "haydenschmitty/floorplan",
-      "ja": "haydenschmitty/floorplan",
-      "ko": "haydenschmitty/floorplan",
+      "ja": "floorplan：コードベースを対話的な見取り図に",
+      "ko": "floorplan: 코드베이스를 대화형 평면도로",
       "ms": "haydenschmitty/floorplan",
       "vi": "haydenschmitty/floorplan",
       "fr": "haydenschmitty/floorplan",
@@ -1116,15 +1044,15 @@
      },
      "summary": {
       "en": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "zh-Hans": "看看你的应用如何真正结合在一起。 由克劳德或Codex绘制的你代码库的交互式平版英语地图.",
-      "ja": "あなたのアプリが実際に一緒にフィットする方法を参照してください。 ClaudeまたはCodexによって描画された、コードベースのインタラクティブでプレーンな英語のマップ。",
-      "ko": "앱이 실제로 어떻게 맞을까요? 코드베이스의 대화 형, 일반 영어지도, Claude 또는 Codex에 의해 그려.",
+      "zh-Hans": "让 Claude 或 Codex 为你的代码库画一张用白话标注的交互式结构图，看清应用各部分如何拼在一起。",
+      "ja": "Claude や Codex がコードベースの対話的な見取り図を平易な英語で描き、アプリの各部分のつながりを示します。",
+      "ko": "Claude나 Codex가 쉬운 영어로 된 대화형 코드베이스 지도를 그려, 앱의 각 부분이 어떻게 맞물리는지 보여 줍니다.",
       "ms": "Lihat bagaimana aplikasi Anda benar-benar cocok bersama-sama. Peta codebase Anda dalam bahasa Inggris yang interaktif, yang digambar oleh Claude atau Codex.",
       "vi": "Xem ứng dụng của bạn thực sự phù hợp như thế nào. Một bản đồ tương tác, đồng bằng Anh, được rút ra bởi Claude hay Codex.",
       "fr": "Voyez comment votre application se marie. Une carte interactive, simple et anglaise de votre base de codes, dessinée par Claude ou Codex.",
       "es": "Vea cómo su aplicación encaja realmente juntos. Un mapa interactivo e inglés de su base de código, elaborado por Claude o Codex.",
       "de": "Sehen Sie, wie Ihre App tatsächlich zusammenpasst. Eine interaktive, einfache englische Karte Ihrer Codebasis, gezeichnet von Claude oder Codex.",
-      "zh-Hant": "看看你的應用如何真正結合在一起。 由克勞德或Codex繪製的你程式碼庫的互動式平版英語地圖."
+      "zh-Hant": "讓 Claude 或 Codex 為你的程式碼庫畫一張用白話標註的互動式結構圖，看清應用各部分如何拼在一起。"
      },
      "fact": {
       "zh-Hans": "GitHub 222 星",
@@ -1143,10 +1071,6 @@
      "date": "2026-10-27",
      "rw": "",
      "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
       "ms",
       "vi",
       "fr",
@@ -1154,7 +1078,8 @@
       "de"
      ]
     }
-   ]
+   ],
+   "updated": "2026-10-29T00:25:59Z"
   },
   {
    "date": "2026-10-28",
