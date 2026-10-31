@@ -1,0 +1,930 @@
+# OPC Radar
+> OPC Radar is a free opportunity radar for one-person companies (OPC), indie developers, designers and cross-border sellers. It collects AI tools, GitHub repos, new products, news, deals and ideas from public sources (Hacker News, GitHub, Hugging Face, DEV, Lobsters and a curated list), translates them into 10 languages and refreshes automatically. Currently 900 items.
+
+- Site: https://siinxu.github.io/ai-opportunity-hub/
+- Data (JSON): https://siinxu.github.io/ai-opportunity-hub/data/items.json
+- Languages: zh-Hans, zh-Hant, en, ja, ko, ms, vi, fr, es, de (append ?lang=<code>)
+- Publisher: Incidental AI (https://incidental.site/)
+- Full list: https://siinxu.github.io/ai-opportunity-hub/llms-full.txt
+- Updated: 2026-10-31T13:16:18Z
+
+## Channels
+- AI: 223 items
+- GitHub repos: 218 items
+- New products: 92 items
+- News: 130 items
+- Deals: 157 items
+- Ideas: 80 items
+
+
+## AI
+- [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/) (Hacker News, 2026-10-27 11:08): 
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) (Hacker News, 2026-10-22 16:08): 
+- [No signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) (Hacker News, 2026-10-24 19:47): 
+- [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036) (Hacker News, 2026-10-19 11:24): 
+- [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) (Hacker News, 2026-10-30 15:52): 
+- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) (Hacker News, 2026-10-24 23:11): 
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) (Hacker News, 2026-10-27 19:55): 
+- [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) (Hacker News, 2026-10-27 11:08): 
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) (Hacker News, 2026-10-22 17:44): 
+- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai) (Hacker News, 2026-10-27 06:25): 
+- [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/) (Hacker News, 2026-10-28 13:41): 
+- [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce) (Hacker News, 2026-10-21 13:43): 
+- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) (Hacker News, 2026-10-29 21:40): 
+- [Police are using AI to pull over drivers for 'suspicious' behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220) (Hacker News, 2026-10-27 16:40): 
+- [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova) (Hacker News, 2026-10-27 16:25): 
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) (Hacker News, 2026-10-25 01:33): 
+- [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model) (Hacker News, 2026-10-26 16:35): 
+- [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html) (Hacker News, 2026-10-20 19:22): 
+- [Proton's CEO Cancels AI 'Re-Interviews'](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/) (Hacker News, 2026-10-30 17:24): 
+- [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update) (Hacker News, 2026-10-21 23:38): 
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) (Hacker News, 2026-10-19 23:22): 
+- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) (Hacker News, 2026-10-25 17:15): 
+- [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) (Hacker News, 2026-10-29 14:57): 
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) (Hacker News, 2026-10-18 20:48): 
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (Hacker News, 2026-10-22 22:54): 
+- [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) (Hacker News, 2026-10-25 21:11): 
+- [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web) (Hacker News, 2026-10-20 13:06): 
+- [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) (Hacker News, 2026-10-18 21:09): 
+- [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) (Hacker News, 2026-10-17 22:26): 
+- [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) (Hacker News, 2026-10-28 12:24): 
+- [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) (Hacker News, 2026-10-21 04:27): 
+- [Ousted Savannah police officer gave ICE agent husband access to Flock system](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) (Hacker News, 2026-10-19 10:45): 
+- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) (Hacker News, 2026-10-29 03:33): 
+- [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) (Hacker News, 2026-10-28 21:03): 
+- [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/) (Hacker News, 2026-10-26 21:24): 
+- [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/) (Hacker News, 2026-10-21 14:03): 
+- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) (Hacker News, 2026-10-28 15:46): 
+- [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997) (Hacker News, 2026-10-22 21:03): 
+- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/) (Hacker News, 2026-10-21 12:53): 
+- [OpenAI CLI](https://github.com/openai/openai-cli) (Hacker News, 2026-10-22 05:23): 
+- [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5) (Hacker News, 2026-10-31 03:22): 
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) (Hacker News, 2026-10-30 07:09): 
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) (Hacker News, 2026-10-30 11:05): 
+- [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/) (Hacker News, 2026-10-27 15:28): 
+- [Claude Duet](https://claude.com/product/claude-duet) (Hacker News, 2026-10-21 19:14): 
+- [Claude Code VS Code extension with backdoor released on Cursor marketplace](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2) (Hacker News, 2026-10-30 10:22): 
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) (Hacker News, 2026-10-27 20:50): 
+- [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) (Hacker News, 2026-10-23 11:39): 
+- [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/) (Hacker News, 2026-10-19 05:55): 
+- [Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) (Hugging Face, 2026-10-24 02:49): Trending model on Hugging Face · text-generation
+- [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) (Hugging Face, 2026-10-17 02:40): Trending model on Hugging Face · image-text-to-text
+- [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) (Hugging Face, 2026-10-23 21:35): Trending model on Hugging Face · text-generation
+- [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) (Hugging Face, 2026-10-07 22:50): Trending model on Hugging Face · automatic-speech-recognition
+- [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) (Hugging Face, 2026-09-30 18:35): Trending model on Hugging Face · image-text-to-text
+- [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) (Hugging Face, 2026-10-26 03:57): Trending model on Hugging Face · image-text-to-text
+- [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) (Hugging Face, 2026-07-23 07:55): Trending model on Hugging Face · image-to-video
+- [RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint) (Hugging Face, 2026-10-21 14:20): Trending model on Hugging Face · text-generation
+- [ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) (Hugging Face, 2026-10-25 05:43): Trending model on Hugging Face · model
+- [XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B) (Hugging Face, 2026-10-19 03:19): Trending model on Hugging Face · text-generation
+- [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF) (Hugging Face, 2026-10-23 09:43): Trending model on Hugging Face · text-generation
+- [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) (Hugging Face, 2026-10-14 12:00): Trending model on Hugging Face · image-to-image
+- [abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) (Hugging Face, 2026-09-20 15:51): Trending model on Hugging Face · text-to-image
+- [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) (Hugging Face, 2026-08-05 08:22): Trending model on Hugging Face · image-text-to-text
+- [orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF](https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF) (Hugging Face, 2026-10-22 04:06): Trending model on Hugging Face · text-generation
+- [Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex) (Hugging Face, 2026-10-29 17:08): Trending model on Hugging Face · image-to-video
+- [LiquidAI/LFM3-Omni-2B](https://huggingface.co/LiquidAI/LFM3-Omni-2B) (Hugging Face, 2026-10-21 16:58): Trending model on Hugging Face · any-to-any
+- [openbmb/MiniCPM-OCR-1.0](https://huggingface.co/openbmb/MiniCPM-OCR-1.0) (Hugging Face, 2026-10-21 15:51): Trending model on Hugging Face · image-text-to-text
+- [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB) (Hugging Face, 2026-10-05 04:26): Trending model on Hugging Face · text-generation
+- [LiquidAI/LFM3-VL-2B](https://huggingface.co/LiquidAI/LFM3-VL-2B) (Hugging Face, 2026-10-19 19:51): Trending model on Hugging Face · image-text-to-text
+- [facebook/sam3](https://huggingface.co/facebook/sam3) (Hugging Face, 2025-11-07 05:17): Trending model on Hugging Face · mask-generation
+- [speridlabs/idol](https://huggingface.co/speridlabs/idol) (Hugging Face, 2026-10-28 15:55): Trending model on Hugging Face · image-to-3d
+- [Diffuspace/Clover-35B-A3B-Preview](https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview) (Hugging Face, 2026-10-24 03:46): Trending model on Hugging Face · text-generation
+- [MiniMaxAI/MiniMax-M3.1-Flash](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash) (Hugging Face, 2026-10-17 06:37): Trending model on Hugging Face · image-text-to-text
+- [LiquidAI/LFM3-Audio-2B](https://huggingface.co/LiquidAI/LFM3-Audio-2B) (Hugging Face, 2026-09-08 18:23): Trending model on Hugging Face · any-to-any
+- [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) (Hugging Face, 2026-09-01 07:01): Trending model on Hugging Face · image-text-to-text
+- [OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM](https://huggingface.co/OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM) (Hugging Face, 2026-10-24 11:16): Trending model on Hugging Face · model
+- [SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF) (Hugging Face, 2026-10-02 03:42): Trending model on Hugging Face · image-text-to-text
+- [LiquidAI/LFM3-1.7B-GGUF](https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF) (Hugging Face, 2026-10-24 00:46): Trending model on Hugging Face · text-generation
+- [Efficient-Large-Model/Open-H3-Regenerate-2K](https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K) (Hugging Face, 2026-10-26 14:55): Trending model on Hugging Face · video-to-video
+- [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/) (Hacker News, 2026-10-26 18:01): 
+- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) (Hacker News, 2026-10-28 23:35): 
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code) (Hacker News, 2026-10-28 01:47): 
+- [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) (Hacker News, 2026-10-21 19:01): 
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) (Hacker News, 2026-10-28 17:01): 
+- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) (Hacker News, 2026-10-26 13:04): 
+- [Anthropic Cracking Down on Video Game Rewrites](https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968) (Hacker News, 2026-10-30 14:22): 
+- [Anthropic to receive high 'junk' rating from credit agencies following IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) (Hacker News, 2026-10-30 23:08): 
+- [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated) (Hacker News, 2026-10-27 04:53): 
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) (Hacker News, 2026-10-29 00:25): 
+- [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H) (Hacker News, 2026-10-25 03:56): 
+- [I went to Mexico to test-drive the cars Americans can’t buy](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/) (Hacker News, 2026-10-29 15:30): 
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) (Hacker News, 2026-10-26 03:29): 
+- [MPs moving to restrict gambling ads in Canada](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888) (Hacker News, 2026-10-22 14:26): 
+- [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/) (Hacker News, 2026-10-22 09:31): 
+- [The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses) (Hacker News, 2026-10-22 10:55): 
+- [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers) (Hacker News, 2026-10-26 12:58): 
+- [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/) (Hacker News, 2026-10-24 18:22): 
+- [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/) (Hacker News, 2026-10-21 13:37): 
+- [The Agent SDK](https://cursor.com/blog/agent-sdk) (Hacker News, 2026-10-28 14:02): 
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) (Hacker News, 2026-10-26 15:11): 
+- [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/) (Hacker News, 2026-10-23 08:21): 
+- [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock) (Hacker News, 2026-10-24 09:58): 
+- [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) (Hacker News, 2026-10-29 20:32): 
+- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) (Hacker News, 2026-10-27 20:48): 
+- [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler) (Hacker News, 2026-10-29 15:45): 
+- [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/) (Hacker News, 2026-10-22 09:01): 
+- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) (Hacker News, 2026-10-26 17:56): 
+- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) (Hacker News, 2026-10-21 19:11): 
+- [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/) (Hacker News, 2026-10-29 17:43): 
+- [Nvidia and Micron Make Up 34% of America's Earnings Boom](https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53) (Hacker News, 2026-10-25 21:07): 
+- [Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary) (Hacker News, 2026-10-28 15:17): 
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) (GitHub, 2026-10-11 19:10): Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) (GitHub, 2026-10-12 09:19): A design system for AI applications. Material, physical, tactile, technical.
+- [outcrawlai/scout](https://github.com/outcrawlai/scout) (GitHub, 2026-10-13 09:18): Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.
+- [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) (GitHub, 2026-10-13 10:13): AI · SOP 7 AI Agent Prompt
+- [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) (GitHub, 2026-10-27 19:26): ROOT Termux APK DeepSeek Harness App · App · · / · Shizuku
+- [liuda30201/AI-Coding](https://github.com/liuda30201/AI-Coding) (GitHub, 2026-10-15 13:13): AI Claude Code Codex Cursor Python
+- [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) (GitHub, 2026-10-15 06:52): Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+- [reason-machines/reason-network](https://github.com/reason-machines/reason-network) (GitHub, 2026-10-16 15:34): Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.
+- [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) (GitHub, 2026-10-11 15:38): Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.
+- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) (GitHub, 2026-10-15 13:12): Git designed for AI agents.
+- [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) (GitHub, 2026-10-11 17:30): Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.
+- [Zfinix/eleven](https://github.com/Zfinix/eleven) (GitHub, 2026-10-13 13:47): Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.
+- [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) (GitHub, 2026-10-12 07:11): Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+- [Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) (GitHub, 2026-10-11 08:25): MCP Skill
+- [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) (GitHub, 2026-10-16 00:42): Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.
+- [ctoldigital/axuse](https://github.com/ctoldigital/axuse) (GitHub, 2026-10-14 19:55): Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed 
+- [langchain-ai/design-agent](https://github.com/langchain-ai/design-agent) (GitHub, 2026-10-18 04:44): Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents.
+- [shuyu-labs/transwork](https://github.com/shuyu-labs/transwork) (GitHub, 2026-10-14 13:19): AI Agent
+- [robosimstudio/robosimstudio](https://github.com/robosimstudio/robosimstudio) (GitHub, 2026-10-12 06:22): An open interactive toolkit that accelerates human and agentic physics-based Real2Sim of Robot Manipulation Tasks
+- [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release) (GitHub, 2026-10-14 11:50): SQL for Android apk and dex files
+- [adexbn/walk-kcal](https://github.com/adexbn/walk-kcal) (GitHub, 2026-10-16 10:42): How much more can you eat today depending on how far you're willing to go -- the decision to eat with a walk distance for a calorie line. McDonald's official nutritional value x the surrounding restaurant, which is what you can eat.
+- [ztt0216/MyAgent](https://github.com/ztt0216/MyAgent) (GitHub, 2026-10-16 02:51): Agent Runtime Agent Loop MCP Agent Skills
+- [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) (GitHub, 2026-10-13 19:59): Build autonomous AI agents that interact with blockchains — in minutes, not months.
+- [johnny37/mcd-experience-atlas](https://github.com/johnny37/mcd-experience-atlas) (GitHub, 2026-10-13 15:26): You want a McDonald's party for the kid's birthday? In the country ' s 281 cities, there are 3,664 shops, and 26 cases of experience have been completed. Based on official MCP read-only collection + visualization.
+- [jaikydota/BullFlow](https://github.com/jaikydota/BullFlow) (GitHub, 2026-10-14 07:25): BullFlow — RAG | Open-source enterprise RAG solution: knowledge base → automated marketing content → omnichannel publishing. AI Agent
+- [cdcailf/cjkfold](https://github.com/cdcailf/cjkfold) (GitHub, 2026-10-13 02:16): Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.
+- [h9-tec/ai-roadmap-2026](https://github.com/h9-tec/ai-roadmap-2026) (GitHub, 2026-10-21 12:23): AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer
+- [YOLOW92/pagesift](https://github.com/YOLOW92/pagesift) (GitHub, 2026-10-20 17:30): Rust web scraper & crawler for AI agents: URLs, PDFs and Office files → clean Markdown/JSON. Firecrawl- and Jina Reader-compatible API, MCP server, Python/Node SDKs. Self-hosted single binary.
+- [justxor/deepseek-local-guide-ru](https://github.com/justxor/deepseek-local-guide-ru) (GitHub, 2026-10-17 10:03): 🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки
+- [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) (GitHub, 2026-10-28 18:18): Chinese course notes.
+- [chatvia/chatvia](https://github.com/chatvia/chatvia) (GitHub, 2026-10-15 12:11): Open-source platform for AI chat agents that answer from your own knowledge base. Hybrid RAG search in PostgreSQL, MCP and custom tools, guardrails and human handoff. Put agents on a hosted chat page, a website widget, S
+- [2430816465/campus-knowledge-agent](https://github.com/2430816465/campus-knowledge-agent) (GitHub, 2026-10-14 02:04): Agent FastAPI Qwen3 RAG
+- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) (GitHub, 2026-10-20 14:17): 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
+- [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) (GitHub, 2026-10-14 14:05): A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.
+- [Jakeschincariol/trader-skill](https://github.com/Jakeschincariol/trader-skill) (GitHub, 2026-10-14 21:12): 11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes.
+- [TonF1917/claude-desktop-multiple-windows-different-api](https://github.com/TonF1917/claude-desktop-multiple-windows-different-api) (GitHub, 2026-10-14 11:42): Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom — third-party APIs (cc-switch). Windows. Claude Desktop
+- [assafkip/claudemy](https://github.com/assafkip/claudemy) (GitHub, 2026-10-14 01:49): Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.
+- [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) (GitHub, 2026-10-27 12:03): See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
+- [AirsupHQ/machine-skill](https://github.com/AirsupHQ/machine-skill) (GitHub, 2026-10-12 23:10): Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.
+- [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) (GitHub, 2026-10-14 09:06): Replay your coding agent sessions as a map and a timeline
+- [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) (GitHub, 2026-10-20 14:03): Official Inference Code of EAGLE-4
+- [StartLuxLabs/StartLux-Prism](https://github.com/StartLuxLabs/StartLux-Prism) (GitHub, 2026-10-13 17:59): Fast, exact inference for StartLux-Decision models on NVIDIA GPUs: the released GGUF files on int8 and 4-bit tensor cores, behind the /v1/systemone API, with up to 5.3× lower latency than vLLM in FP8 and bit-identical an
+- [ahtx/kindi](https://github.com/ahtx/kindi) (GitHub, 2026-10-20 00:25): A custom LLM inference engine for low-cost GPUs: NVIDIA cards from a 1 GB Quadro K420 to an RTX 3080, the AMD Radeon 780M and the CPU. Runs the Bonsai 2B to 27B models and Nemotron with an OpenAI-compatible server.
+- [3145544645/gouji](https://github.com/3145544645/gouji) (GitHub, 2026-10-18 04:48): C++/CUDA mini LLM
+- [TheLastOxygen/mafdet](https://github.com/TheLastOxygen/mafdet) (GitHub, 2026-10-21 08:37): You type. It already knows. Local LLMs that read and think while you type.
+- [Elevatormusic/DeepSeek-V4.1-Flash-1017-EXL3-TensorFold-2x-DGX-Spark](https://github.com/Elevatormusic/DeepSeek-V4.1-Flash-1017-EXL3-TensorFold-2x-DGX-Spark) (GitHub, 2026-10-18 00:24): DeepSeek-V4.1-Flash-1017 EXL3 2.9bpw on 2x NVIDIA DGX Spark (GB10) with TensorFold: 2.1-2.3x the vLLM kit's decode speed.
+- [drawthingsai/local-code-community](https://github.com/drawthingsai/local-code-community) (GitHub, 2026-10-21 18:58):  Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.
+- [patch-gg/anymove](https://github.com/patch-gg/anymove) (GitHub, 2026-10-27 08:00): Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.
+- [beckettharriman/openfill](https://github.com/beckettharriman/openfill) (GitHub, 2026-10-14 20:51): Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI.
+- [patch-gg/trompe](https://github.com/patch-gg/trompe) (GitHub, 2026-10-25 04:27): Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.
+- [stockedge/manga-generator](https://github.com/stockedge/manga-generator) (GitHub, 2026-10-22 02:58): から ・ ・ ・PDF まで める Codex け ツール
+- [HallNautilus24/Anthropics-Portrait-Windows-Setup-Guide](https://github.com/HallNautilus24/Anthropics-Portrait-Windows-Setup-Guide) (GitHub, 2026-10-12 11:09): Anthropics Portrait for Windows — step-by-step install and first-run setup on Windows 10 and 11, with download steps in the README.
+- [erhanmeydan/kilnframe](https://github.com/erhanmeydan/kilnframe) (GitHub, 2026-10-11 02:19): Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer
+- [harshpreet931/harshpreet-hand](https://github.com/harshpreet931/harshpreet-hand) (GitHub, 2026-10-17 05:00): I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.
+- [AvaLovelace1/brickwright](https://github.com/AvaLovelace1/brickwright) (GitHub, 2026-10-16 14:57): Official repository for BrickWright, a framework that enables LLM agents to create physically feasible LEGO® builds from text or image prompts.
+- [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) (GitHub, 2026-10-11 13:12): Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Te
+- [reacher-z/Awesome-CUA](https://github.com/reacher-z/Awesome-CUA) (GitHub, 2026-10-16 03:46): Open, source-backed catalog of computer-use agents: reviewed papers, GUI models, datasets, benchmarks, tools, and reusable JSONL/SQLite data.
+- [SonicloudTech/mouse-mcp](https://github.com/SonicloudTech/mouse-mcp) (GitHub, 2026-10-20 06:04): Hardware mouse MCP server for AI agents on Windows x64. USB HID control and voice dictation; requires compatible uMouse hardware and firmware. AI MCP USB HID uMouse
+- [MemoAir-labs/Airlink](https://github.com/MemoAir-labs/Airlink) (GitHub, 2026-10-20 10:17): Open-source live workspace where AI agents work alongside your team in real time: live docs, sheets and slides, a shared browser, a Linux desktop and full-duplex voice. Bring Claude Code, Codex, Gemini CLI or any LLM. Se
+- [Tyrantwa70342ve/garage-resp](https://github.com/Tyrantwa70342ve/garage-resp) (GitHub, 2026-10-28 16:17): Six-skill spec-driven engineering pod for Claude Code — scaffold specs, research, discover direction, generate design variants, implement, and visually verify, with hard handoffs that prevent silent assumptions
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (GitHub, 2026-10-17 08:12): Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- [SandboxWorldOnline/Open-Terraria](https://github.com/SandboxWorldOnline/Open-Terraria) (GitHub, 2026-10-19 08:36): Terraria 1.4.5.8 Web Rewrite,  using GLM-5.3-Flash and GLM-5.3
+- [Monopoly0024/simple-reviewer-v1](https://github.com/Monopoly0024/simple-reviewer-v1) (GitHub, 2026-10-21 04:22): Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence.
+- [terryHu7/homecraft](https://github.com/terryHu7/homecraft) (GitHub, 2026-10-24 06:44): Build your own Minecraft-inspired 3D personal website. “ ” 3D
+- [MK27MK/uxed](https://github.com/MK27MK/uxed) (GitHub, 2026-10-15 15:55): Agent skills that get you into flow state.
+- [Rod292/3d-home-tv-os](https://github.com/Rod292/3d-home-tv-os) (GitHub, 2026-10-19 16:32): Scan your home, turn it into a live 3D model, and make it your TV's home screen — lights wired in. An AI-agent playbook + reference implementation (Google TV, Hue, Home Assistant, iPhone, macOS).
+- [Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) (GitHub, 2026-10-25 22:12): flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS Code, Claude Code and any MCP client.
+- [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) (Hugging Face, 2026-06-29 15:38): Trending dataset on Hugging Face
+- [scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection) (Hugging Face, 2026-10-19 14:08): Trending dataset on Hugging Face
+- [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) (Hugging Face, 2026-05-30 16:41): Trending dataset on Hugging Face
+- [CohereLabs/10-2026-qwen-investigation-traces](https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces) (Hugging Face, 2026-10-26 21:32): Trending dataset on Hugging Face
+- [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data) (Hugging Face, 2026-09-01 12:12): Trending dataset on Hugging Face
+- [secemp9/arxiv-complete](https://huggingface.co/datasets/secemp9/arxiv-complete) (Hugging Face, 2026-09-10 21:32): Trending dataset on Hugging Face
+- [nvidia/simready-central-library](https://huggingface.co/datasets/nvidia/simready-central-library) (Hugging Face, 2026-09-29 15:02): Trending dataset on Hugging Face
+- [datasocial/tiktok-5.6B-videos](https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos) (Hugging Face, 2026-10-03 11:14): Trending dataset on Hugging Face
+- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x) (Hugging Face, 2026-09-02 12:52): Trending dataset on Hugging Face
+- [nvidia/Granary-v2](https://huggingface.co/datasets/nvidia/Granary-v2) (Hugging Face, 2026-09-16 16:17): Trending dataset on Hugging Face
+- [XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss) (Hugging Face, 2026-09-25 11:26): Trending dataset on Hugging Face
+- [bones-studio/seed](https://huggingface.co/datasets/bones-studio/seed) (Hugging Face, 2026-03-10 23:17): Trending dataset on Hugging Face
+- [nvidia/PhysicalAI-Autonomous-Vehicles-Foundation4D](https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles-Foundation4D) (Hugging Face, 2026-10-15 07:01): Trending dataset on Hugging Face
+- [Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset](https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset) (Hugging Face, 2026-07-01 12:33): Trending dataset on Hugging Face
+- [hongzhuyi/VDEBench](https://huggingface.co/datasets/hongzhuyi/VDEBench) (Hugging Face, 2026-10-15 14:43): Trending dataset on Hugging Face
+- [EPSBench: Benchmarking LLM Agents for Earnings Forecasting](https://huggingface.co/papers/2610.38293) (HF Papers, 2026-10-28 01:24): Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability a
+- [Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models](https://huggingface.co/papers/2610.38681) (HF Papers, 2026-10-27 20:00): Self-distillation offers a way to improve reasoning models when a suitable external teacher is unavailable. However, common approaches rely on privileged information to construct a stronger self-teacher, limiting their u
+- [Unlocking Any-Order Generation in Pretrained Autoregressive Image Models](https://huggingface.co/papers/2610.39293) (HF Papers, 2026-10-28 20:00): Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it una
+- [Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents](https://huggingface.co/papers/2610.34298) (HF Papers, 2026-10-24 20:00): Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and 
+- [Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them](https://huggingface.co/papers/2609.05881) (HF Papers, 2026-10-24 20:00): Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capa
+- [Training Foundation Models with a Single Algorithm](https://huggingface.co/papers/2610.40564) (HF Papers, 2026-10-28 20:00): Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic
+- [ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics](https://huggingface.co/papers/2610.23656) (HF Papers, 2026-10-15 20:00): Blockchain forensics is adversarial and open-ended: money launderers split, swap, and bridge funds, cut their trail at mixers or custodial services, and change tactics from one incident to the next. Investigators must ke
+- [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) (HF Papers, 2026-10-28 20:00): Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof i
+- [Scaling Lean Theorem Proving for Real-World Code Verification](https://huggingface.co/papers/2610.38174) (HF Papers, 2026-10-27 20:00): We present EasyProver, a Lean proving system built from recursive agents with isolated contexts, asynchronous search, parallel tactic probing, and an elastic elaboration service. Using an off-the-shelf frontier model wit
+- [FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss](https://huggingface.co/papers/2610.39423) (HF Papers, 2026-10-28 20:00): Formula-Driven Supervised Learning (FDSL) enables vision pre-training without real images, but existing methods cast pre-training as classification on discretized labels, discarding continuity in the generative process. 
+- [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](https://huggingface.co/papers/2610.25276) (HF Papers, 2026-10-17 20:00): Synthesizing a monocular video from a new camera trajectory requires preserving the observed scene geometry and motion while completing regions that become newly visible. Feed-forward 4D reconstructors recover the struct
+- [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) (HF Papers, 2026-10-28 20:00): We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cit
+- [OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation](https://huggingface.co/papers/2610.39287) (HF Papers, 2026-10-28 20:00): Human cognition flexibly draws on a shared perceptual foundation to understand environments, attend to referenced entities, reason about spatial relationships, and act. Endowing aerial robots with an analogous functional
+- [PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions](https://huggingface.co/papers/2610.40453) (HF Papers, 2026-10-28 20:00): We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs,
+- [AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://huggingface.co/papers/2610.39663) (HF Papers, 2026-10-28 20:00): Video diffusion transformers generate high-quality videos, but the quadratic cost of 3D full attention dominates their inference. Dynamic block-sparse attention reduces this cost by computing exact attention only on key/
+- [Multi-Token Prediction Done Right](https://huggingface.co/papers/2610.38331) (HF Papers, 2026-10-27 20:00): Multi-Token Prediction (MTP) is now a common ingredient in language-model pre-training, as it improves downstream performance and enables faster inference through speculative decoding. We identify a flaw in standard MTP 
+- [Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://huggingface.co/papers/2610.40647) (HF Papers, 2026-10-28 20:00): Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessa
+- [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614) (HF Papers, 2026-10-28 20:00): Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either tempora
+- [Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342) (HF Papers, 2026-10-27 20:00): Financial agents must form forecasts and investment judgments from decision-time evidence, with predictions evaluated against subsequent outcomes. Existing benchmarks assess financial knowledge, research workflows, or fo
+- [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://huggingface.co/papers/2610.39264) (HF Papers, 2026-10-28 20:00): While frontier vision-language models demonstrate strong capabilities in user interface (UI) navigation, their high inference costs prohibit everyday use. Conversely, smaller models trained via supervised fine-tuning (SF
+- [Glance: The Generator Is Its Own Reranker](https://huggingface.co/papers/2610.40454) (HF Papers, 2026-10-28 20:00): Retrieval-augmented generation commonly serves separate models for reranking and answering, duplicating model residency and passage processing. We introduce Glance, which equips the generator with a lightweight decision 
+- [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) (HF Papers, 2026-10-27 20:00): Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to gene
+- [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) (HF Papers, 2026-10-26 20:00): Diffusion vision-language models (DVLMs) process their entire input at every denoising step. Since visual tokens make up 89-97% of this input on the benchmarks we study, most of the decoding computation is spent repeated
+- [CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models](https://huggingface.co/papers/2610.21143) (HF Papers, 2026-10-14 20:00): Spoken Dialogue Models (SDMs) typically share a speech-token space for generation and synthesis, leading to long autoregressive sequences and costly inference. Lower-rate speech tokenizers shorten sequences but may intro
+- [Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training](https://huggingface.co/papers/2610.40362) (HF Papers, 2026-10-28 20:00): Weight-normalized (WN) training is emerging as a compelling alternative to conventional weight decay (WD), with recent studies reporting substantial pretraining loss gains. We show that these gains are driven primarily b
+- [HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://huggingface.co/papers/2610.40599) (HF Papers, 2026-10-28 20:00): The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a 
+- [SO-101 Bench: Accessible Spatial Manipulation](https://huggingface.co/papers/2610.36420) (HF Papers, 2026-10-26 20:00): Low-cost arms such as the SO-101 have become the most common entry point to robot learning, yet no released policy performs spatially constrained, language-conditioned tasks on them out of the box, and existing SO-101 be
+- [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) (HF Papers, 2026-10-28 20:00): One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to b
+- [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) (HF Papers, 2026-10-20 20:00): A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to
+- [A Broader Look into MLLM's Retrieval Heads](https://huggingface.co/papers/2610.32411) (HF Papers, 2026-10-22 20:00): Locating relevant evidence in long inputs is a core capability of Multimodal Large Language Models. Prior studies attribute this capability to retrieval heads, a sparse set of attention heads that transfer information fr
+
+## GitHub repos
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) (GitHub, 2026-10-30 03:06): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (GitHub, 2026-10-31 12:48): The agent that grows with you
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (GitHub, 2026-10-31 10:13): Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) (GitHub, 2026-10-31 12:56): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [ollama/ollama](https://github.com/ollama/ollama) (GitHub, 2026-10-30 21:34): Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (GitHub, 2026-10-29 11:59): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [f/prompts.chat](https://github.com/f/prompts.chat) (GitHub, 2026-10-31 12:53): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [huggingface/transformers](https://github.com/huggingface/transformers) (GitHub, 2026-10-31 09:37): 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- [langgenius/dify](https://github.com/langgenius/dify) (GitHub, 2026-10-31 13:04): Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (GitHub, 2026-10-31 10:22): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (GitHub, 2026-10-31 08:15): The agent engineering platform.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (GitHub, 2026-10-30 23:42): Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained,
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) (GitHub, 2026-10-31 09:57): Generate HD short videos from a topic or keyword with an automated AI workflow.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) (GitHub, 2026-10-31 01:18): Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) (GitHub, 2026-10-30 06:54): DeepSeek Harness: Everything is a Plugin.
+- [stablyai/orca](https://github.com/stablyai/orca) (GitHub, 2026-10-31 13:14): Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (GitHub, 2026-10-31 13:15): The open-source app everyone uses to manage agents at work
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (GitHub, 2026-10-31 01:19): An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) (GitHub, 2026-10-31 08:56): Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (GitHub, 2026-10-31 07:59): Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (GitHub, 2026-10-31 13:07): RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [morluto/rea](https://github.com/morluto/rea) (GitHub, 2026-10-31 13:08): Reverse engineer anything with agents, from app behavior down to native binaries.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) (GitHub, 2026-10-31 13:08): Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) (GitHub, 2026-10-25 11:47): Java and back-end interview guide covering CS fundamentals, databases, distributed systems, high concurrency, system design and AI app development
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (GitHub, 2026-10-31 13:13): A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (GitHub, 2026-10-25 04:37): Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (GitHub, 2026-10-23 18:57): A collection of MCP servers.
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) (GitHub, 2026-10-29 14:00): 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scra
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) (GitHub, 2026-10-31 10:06): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) (GitHub, 2026-10-26 04:15): Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) (GitHub, 2026-10-28 12:21): A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload
+- [abpframework/abp](https://github.com/abpframework/abp) (GitHub, 2026-10-30 12:16): Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cut
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) (GitHub, 2026-10-31 05:03): Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenan
+- [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) (GitHub, 2026-10-29 07:45): A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [polarsource/polar](https://github.com/polarsource/polar) (GitHub, 2026-10-31 12:32): Polar — A billing platform for the intelligence era
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) (GitHub, 2026-10-03 12:07): Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+- [HeyPuter/everything](https://github.com/HeyPuter/everything) (GitHub, 2026-10-30 15:00): We're rebuilding and open-sourcing the world’s software from scratch.
+- [archtechx/tenancy](https://github.com/archtechx/tenancy) (GitHub, 2026-10-31 09:38): Automatic multi-tenancy for Laravel. No code changes needed.
+- [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) (GitHub, 2026-10-31 09:26): Beautiful Open-Source Form Builder
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) (GitHub, 2026-10-29 18:25): Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
+- [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) (GitHub, 2026-10-12 07:41): SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) (GitHub, 2026-10-30 15:24): Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) (GitHub, 2026-10-30 01:39): Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (GitHub, 2026-10-22 19:10): 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) (GitHub, 2026-10-30 15:02): Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) (GitHub, 2026-10-13 22:28): 📚 Building Agents from Scratch: a hands-on tutorial on agent principles and practice
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) (GitHub, 2026-10-30 18:20): Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) (GitHub, 2026-10-30 21:36): The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) (GitHub, 2026-10-30 23:50): Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
+- [pathwaycom/serviette](https://github.com/pathwaycom/serviette) (GitHub, 2026-10-16 10:31): A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) (GitHub, 2026-10-08 15:06): Understanding AI Agents: Design Principles and Engineering Practice (by Li Bojie) — open-source main repo with the full text, compiled PDF and per-chapter code
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) (GitHub, 2026-10-26 21:25): LlamaIndex is the document processing platform for AI
+- [microsoft/playwright](https://github.com/microsoft/playwright) (GitHub, 2026-10-31 01:26): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) (GitHub, 2026-10-30 15:20): JavaScript API for Chrome and Firefox
+- [huginn/huginn](https://github.com/huginn/huginn) (GitHub, 2026-10-31 06:33): Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [usebruno/bruno](https://github.com/usebruno/bruno) (GitHub, 2026-10-30 14:12): Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [apache/airflow](https://github.com/apache/airflow) (GitHub, 2026-10-31 13:13): Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) (GitHub, 2026-10-30 08:48): 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) (GitHub, 2026-10-30 22:04): Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) (GitHub, 2026-10-31 12:07): Teams-first Multi-agent orchestration for Claude Code
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (GitHub, 2026-10-19 22:56): Clone any website with one command using AI coding agents
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) (GitHub, 2026-10-31 05:22): https://git.io/linux
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) (GitHub, 2026-10-30 07:49): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) (GitHub, 2026-10-31 13:10): Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) (GitHub, 2026-10-31 09:58): Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) (GitHub, 2026-10-28 15:39): cat-catch Browser Resource Sniffing Extension
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) (GitHub, 2026-10-30 20:01): Dark Reader Chrome and Firefox extension
+- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) (GitHub, 2026-10-31 04:07): Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) (GitHub, 2026-10-30 11:12): daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) (GitHub, 2026-10-23 11:57): Immersive Dual Web Page Translation Extension: input box translation, hover translation, PDF, EPUB, subtitle and TXT file translation
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) (GitHub, 2026-10-25 11:04): The free and privacy-friendly screen recorder with no limits 🎥
+- [Automattic/harper](https://github.com/Automattic/harper) (GitHub, 2026-10-31 11:08): Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) (GitHub, 2026-10-24 07:28): Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (GitHub, 2026-10-18 16:42): Skip YouTube video sponsors (browser extension)
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) (GitHub, 2026-10-25 19:07): Chrome extension to return youtube dislikes
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (GitHub, 2026-10-31 12:35): A list of Free Software network services and web applications which can be hosted on your own servers
+- [immich-app/immich](https://github.com/immich-app/immich) (GitHub, 2026-10-31 09:51): High performance self-hosted photo and video management solution.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) (GitHub, 2026-10-31 07:30): #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) (GitHub, 2026-10-31 11:53): A fancy self-hosted monitoring tool
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) (GitHub, 2026-10-31 13:04): Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) (GitHub, 2026-10-31 07:53): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+- [usememos/memos](https://github.com/usememos/memos) (GitHub, 2026-10-31 13:12): Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) (GitHub, 2026-10-31 13:13): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) (GitHub, 2026-10-31 13:02): The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) (GitHub, 2026-10-31 05:42): Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) (GitHub, 2026-10-31 13:14): ClickHouse® is a real-time analytics database management system
+- [vercel/next.js](https://github.com/vercel/next.js) (GitHub, 2026-10-31 13:09): The React Framework
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (GitHub, 2026-10-31 08:18): Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
+- [supabase/supabase](https://github.com/supabase/supabase) (GitHub, 2026-10-31 12:56): The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) (GitHub, 2026-10-20 10:19): ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Wi
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) (GitHub, 2026-10-30 18:24): Scheduling infrastructure for absolutely everyone.
+- [payloadcms/payload](https://github.com/payloadcms/payload) (GitHub, 2026-10-31 13:03): Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful application
+- [trpc/trpc](https://github.com/trpc/trpc) (GitHub, 2026-10-31 12:59): 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) (GitHub, 2026-10-31 08:28): 📨 The ultimate agentic social media scheduling tool 🤖
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) (GitHub, 2026-10-31 01:24): The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) (GitHub, 2026-10-31 13:16): The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+- [obra/superpowers](https://github.com/obra/superpowers) (GitHub, 2026-10-29 23:35): An agentic skills framework & software development methodology that works.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) (GitHub, 2026-10-12 15:19): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.de
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) (GitHub, 2026-10-31 10:16): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) (GitHub, 2026-10-31 12:11): 🙌 OpenHands: AI-Driven Development
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (GitHub, 2026-10-31 06:53): Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) (GitHub, 2026-10-31 13:03): CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) (GitHub, 2026-10-31 09:16): Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) (GitHub, 2026-10-19 19:46): A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) (GitHub, 2026-10-31 04:39): All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) (GitHub, 2026-10-31 11:16): 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (GitHub, 2026-10-31 12:53): Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) (GitHub, 2026-10-29 12:57): the runtime your coding agents live on
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) (GitHub, 2026-10-31 06:28): Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
+- [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) (GitHub, 2026-10-30 13:54): Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Me
+- [openshiporg/openship](https://github.com/openshiporg/openship) (GitHub, 2026-10-24 19:57): Open source order router connecting sales channels to fulfillment, built on Next.js and Keystone.js
+- [medusajs/medusa](https://github.com/medusajs/medusa) (GitHub, 2026-10-31 10:13): The world's most flexible commerce platform for agents and developers
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) (GitHub, 2026-10-30 12:51): Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
+- [saleor/saleor](https://github.com/saleor/saleor) (GitHub, 2026-10-30 08:20): Saleor Core: the high performance, composable, headless commerce API.
+- [spree/spree](https://github.com/spree/spree) (GitHub, 2026-10-31 11:54): Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
+- [vercel/commerce](https://github.com/vercel/commerce) (GitHub, 2026-10-19 17:00): Next.js Commerce
+- [magento/magento2](https://github.com/magento/magento2) (GitHub, 2026-10-30 16:56): Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and su
+- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) (GitHub, 2026-10-31 12:22): A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) (GitHub, 2026-10-31 12:00): 🛍️ Typescript E-commerce Platform
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) (GitHub, 2026-10-30 14:31): ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (GitHub, 2026-10-31 05:10): PrestaShop is the universal open-source software platform to build your e-commerce solution.
+- [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) (GitHub, 2026-10-30 12:23): Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) (GitHub, 2026-10-31 02:07): Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) (GitHub, 2026-10-30 13:57): Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
+- [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) (GitHub, 2026-10-20 04:13): This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) (GitHub, 2026-10-28 15:45): A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [mui/material-ui](https://github.com/mui/material-ui) (GitHub, 2026-10-31 05:30): Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) (GitHub, 2026-10-31 12:32): 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) (GitHub, 2026-10-29 21:35): Chakra UI is a component system for building SaaS products with speed ⚡️
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) (GitHub, 2026-10-21 20:42): The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engi
+- [stenciljs/core](https://github.com/stenciljs/core) (GitHub, 2026-10-30 01:47): A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web 
+- [primer/css](https://github.com/primer/css) (GitHub, 2026-10-30 05:35): Primer is GitHub's design system. This is the CSS implementation
+- [markmead/hyperui](https://github.com/markmead/hyperui) (GitHub, 2026-10-25 21:02): Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+- [material-components/material-web](https://github.com/material-components/material-web) (GitHub, 2026-10-30 00:13): Material Design Web Components
+- [mui/base-ui](https://github.com/mui/base-ui) (GitHub, 2026-10-31 00:33): Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) (GitHub, 2026-10-06 07:17): React Native UI library built on the Eva Design System: 30+ themeable, accessible components for iOS, Android and web. TypeScript, React 19 / RN 0.81, Eva and Material themes with runtime light/dark switching, on-demand 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) (GitHub, 2026-10-29 12:44): 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) (GitHub, 2026-10-30 22:11): A design system built by IBM
+- [strapi/strapi](https://github.com/strapi/strapi) (GitHub, 2026-10-30 16:13): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) (GitHub, 2026-10-31 13:04): 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) (GitHub, 2026-10-31 06:35): Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and 
+- [directus/directus](https://github.com/directus/directus) (GitHub, 2026-10-30 16:49): The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [simstudioai/sim](https://github.com/simstudioai/sim) (GitHub, 2026-10-31 12:58): Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
+- [Budibase/budibase](https://github.com/Budibase/budibase) (GitHub, 2026-10-29 19:47): AI agents, automations and apps that run your operations. Model agnostic.
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) (GitHub, 2026-10-30 18:02): 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) (GitHub, 2026-10-21 16:08): Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) (GitHub, 2026-10-31 12:58): NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so 
+- [teableio/teable](https://github.com/teableio/teable) (GitHub, 2026-10-30 13:12): ✨ AI Spreadsheet for Business
+- [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) (GitHub, 2026-10-27 14:39): 🎭 277 plug-and-play AI expert roles for 20 tools including Claude Code, Cursor and Copilot, across 20 departments such as engineering, design, marketing and finance; the agency-orchestrator lets several experts collaborate automatically as a DAG from one sentence.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) (GitHub, 2026-10-27 11:37): 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes t
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) (GitHub, 2026-10-31 11:51): Virtual whiteboard for sketching hand-drawn like diagrams
+- [files-community/Files](https://github.com/files-community/Files) (GitHub, 2026-10-29 22:50): A modern file manager that helps users organize their files and folders.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) (GitHub, 2026-10-28 14:14): 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) (GitHub, 2026-10-27 22:29): Collection of handy online tools for developers, with great UX. 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) (GitHub, 2026-10-30 19:08): ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of de
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) (GitHub, 2026-10-31 13:08): A cross-platform launcher that simply works
+- [lissy93/dashy](https://github.com/lissy93/dashy) (GitHub, 2026-10-30 16:27): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [plotly/dash](https://github.com/plotly/dash) (GitHub, 2026-10-30 16:13): Data Apps & Dashboards for Python. No JavaScript Required.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) (GitHub, 2026-10-31 12:55): Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) (GitHub, 2026-10-30 23:42): An open-source, AI-integrated, cross-platform terminal for seamless workflows
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (GitHub, 2026-10-31 03:55): Your lightweight open-source personal agent.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) (GitHub, 2026-10-12 00:26): Distribute and run LLMs with a single file.
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) (GitHub, 2026-10-31 12:19): Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) (GitHub, 2026-10-31 12:43):  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) (GitHub, 2026-10-29 17:50): Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (GitHub, 2026-10-31 06:47): Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) (GitHub, 2026-10-30 21:04): Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) (GitHub, 2026-10-24 13:15): Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment
+- [langroid/langroid](https://github.com/langroid/langroid) (GitHub, 2026-10-31 08:38): Harness LLMs with Multi-Agent Programming
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) (GitHub, 2026-10-31 13:16): Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm
+- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) (GitHub, 2026-10-29 09:54): Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
+- [AienTech/dossier](https://github.com/AienTech/dossier) (GitHub, 2026-10-31 09:06): A self-hosted job search app that writes tailored resumes and cover letters from your profile.
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) (GitHub, 2026-10-31 08:40): Hit your Claude Code usage limit or ran out of credits? Keep working on a local model. Claude Code on your own Mac (MLX), Linux or Windows (llama.cpp) with no API key and no rate limits. Your code stays home.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) (GitHub, 2026-10-31 12:38): The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.
+- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) (GitHub · new, 2026-10-25 16:04): 
+- [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) (GitHub · new, 2026-10-24 05:35): root AI
+- [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) (GitHub · new, 2026-10-23 21:00): GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
+- [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) (GitHub · new, 2026-10-27 12:24): Chinese version AI Posture Tuco 1439 Group / 2878 pictures / Full Han status / Zero reliance on static gallery
+- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) (GitHub · new, 2026-10-25 14:41): Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) (GitHub · new, 2026-10-25 08:27): Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
+- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) (GitHub · new, 2026-10-25 08:09): dsh-go — DeepSeek Harness
+- [t3dotgg/tstack](https://github.com/t3dotgg/tstack) (GitHub · new, 2026-10-24 05:00): The agent skills I use every day. Works with Claude Code and Codex.
+- [heydamir/unslop](https://github.com/heydamir/unslop) (GitHub · new, 2026-10-29 15:41): A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) (GitHub · new, 2026-10-29 14:34): An on-device AI agent for Android that operates apps and the web to get things done for you.
+- [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) (GitHub · new, 2026-10-29 12:32): Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
+- [oosexgang/hakios-xnu-kernel](https://github.com/oosexgang/hakios-xnu-kernel) (GitHub · new, 2026-10-22 06:20): 
+- [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) (GitHub · new, 2026-10-23 12:20): Create Apple style dimensional drawings of UI components.
+- [qybaihe/bla](https://github.com/qybaihe/bla) (GitHub · new, 2026-10-25 05:25): 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
+- [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) (GitHub · new, 2026-10-23 03:01): Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
+- [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) (GitHub · new, 2026-10-26 04:34): AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) (GitHub · new, 2026-10-29 06:08): https://github.com/paipiange/nvzhuang
+- [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) (GitHub · new, 2026-10-27 20:40): Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
+- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) (GitHub · new, 2026-10-25 10:05): Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
+- [lexifina/global-law](https://github.com/lexifina/global-law) (GitHub · new, 2026-10-28 13:34): Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect
+- [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (GitHub · new, 2026-10-26 06:58): Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.
+- [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) (GitHub · new, 2026-10-28 04:29): Free interactive 3D science lessons for high school — https://lab.tongjiang.app
+- [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) (GitHub · new, 2026-10-26 12:13): Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D dem
+- [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) (GitHub · new, 2026-10-22 01:40): EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack
+- [anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm) (GitHub · new, 2026-10-24 19:12): A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.
+- [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) (GitHub · new, 2026-10-25 21:48): A public release of the Steal My Bitcoin challenge
+- [daveebbelaar/bama](https://github.com/daveebbelaar/bama) (GitHub · new, 2026-10-24 08:44): BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.
+- [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) (GitHub · new, 2026-10-30 07:49): Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua
+- [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) (GitHub · new, 2026-10-22 03:53): High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)
+- [man15h/tellyscope](https://github.com/man15h/tellyscope) (GitHub · new, 2026-10-22 19:51): Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
+- [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) (GitHub · new, 2026-10-25 06:06): One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.
+- [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) (GitHub · new, 2026-10-26 18:38): 
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) (GitHub · new, 2026-10-25 21:22): Decrypt IPA's on MacOS
+- [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) (GitHub · new, 2026-10-29 00:25): VERY experimental Nintendo Switch 2 emulator
+- [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) (GitHub · new, 2026-10-29 11:28): RUN Yun: Handbook on overseas migration (36 countries in Europe . 110 routes . main migration areas)
+- [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) (GitHub · new, 2026-10-30 06:43): 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+- [surendrapandar/minilytics](https://github.com/surendrapandar/minilytics) (GitHub · new, 2026-10-23 19:27): Opensource Revenue-first analytics for indie hackers & solo founders 
+- [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) (GitHub · new, 2026-10-28 07:00): RuiC-PoseAtlas｜ + 288 × 5 × 1,439 1,407 × 8 × 86
+- [mizorewww/gdirect](https://github.com/mizorewww/gdirect) (GitHub · new, 2026-10-25 05:52): Rust Google Drive direct downloader using pinned libaria2
+- [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) (GitHub · new, 2026-10-26 03:12): Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) (Hacker News, 2026-10-20 16:40): 
+- [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai) (Hacker News, 2026-10-25 14:05): 
+- [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite) (Hacker News, 2026-10-28 13:56): 
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) (Hacker News, 2026-10-23 16:59): 
+
+## New products
+- [SimCity, but with Permits](https://permit.petercai.com/) (Hacker News, 2026-10-20 18:29): 
+- [Steal My Bitcoin](https://stealmybitcoin.com/) (Hacker News, 2026-10-24 20:30): 
+- [TitleArt – Make text like it's 1997](https://titleart.dvy.io/) (Hacker News, 2026-10-26 03:23): 
+- [A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) (Hacker News, 2026-10-25 03:47): 
+- [A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) (Hacker News, 2026-10-30 16:40): 
+- [Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) (Hacker News, 2026-10-18 04:33): 
+- [OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey) (Hacker News, 2026-10-22 14:04): 
+- [The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/) (Hacker News, 2026-10-18 13:06): 
+- [Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) (Hacker News, 2026-10-17 13:51): 
+- [To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) (Hacker News, 2026-10-30 23:51): 
+- [VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) (Hacker News, 2026-10-20 14:49): 
+- [High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/) (Hacker News, 2026-10-17 13:28): 
+- [I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) (Hacker News, 2026-10-25 15:05): 
+- [Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) (Hacker News, 2026-10-26 16:12): 
+- [Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) (Hacker News, 2026-10-19 13:00): 
+- [WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) (Hacker News, 2026-10-18 21:36): 
+- [Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow) (Hacker News, 2026-10-29 19:27): 
+- [Encarta 95 Web](https://benwinding.github.io/encarta_95_web/#/article/Art) (Hacker News, 2026-10-24 07:18): 
+- [Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/) (Hacker News, 2026-10-23 19:46): 
+- [I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer) (Hacker News, 2026-10-29 23:25): 
+- [Uberblok – an interactive museum of ZFS internals](https://uberblok.storagebits.workers.dev/) (Hacker News, 2026-10-21 13:04): 
+- [Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) (Hacker News, 2026-10-21 16:44): 
+- [Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv) (Hacker News, 2026-10-23 00:10): 
+- [Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) (Hacker News, 2026-10-20 04:37): 
+- [Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css) (Hacker News, 2026-10-21 12:50): 
+- [Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/) (Hacker News, 2026-10-27 15:24): 
+- [Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz) (Hacker News, 2026-10-22 23:54): 
+- [I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com) (Hacker News, 2026-10-30 15:29): 
+- [SlideBySide – Present slides without sharing your screen](https://slidebyside.com/) (Hacker News, 2026-10-28 17:07): 
+- [A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model) (Hacker News, 2026-10-28 18:30): 
+- [UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) (Hacker News, 2026-10-22 18:32): 
+- [Swurf – Swipe through the real web](https://swurf.org/) (Hacker News, 2026-10-23 06:54): 
+- [500 clocks in one 6.3 MB HTML file by Opus 5.5](https://tkgally.github.io/500-clocks/) (Hacker News, 2026-10-18 04:04): 
+- [Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) (Hacker News, 2026-10-20 15:11): 
+- [We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) (Hacker News, 2026-10-23 12:02): 
+- [KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News, 2026-10-19 13:53): 
+- [Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) (Hacker News, 2026-10-25 01:30): 
+- [ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) (Hacker News, 2026-10-25 00:43): 
+- [Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor) (Hacker News, 2026-10-20 15:10): 
+- [I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) (Hacker News, 2026-10-19 13:07): 
+- [Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol) (Hacker News, 2026-10-25 13:28): 
+- [Arsaze – Cursor for video editing (Tab-complete and agent edits)](https://www.arsaze.com) (Hacker News, 2026-10-30 06:55): 
+- [Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root) (Hacker News, 2026-10-24 10:51): 
+- [Glider 4.0 Unofficial Web Edition (Mac game port)](https://dbohdan.github.io/glider/) (Hacker News, 2026-10-25 23:18): 
+- [I rebuilt Kubernetes for ESP32 microcontrollers](https://github.com/arterialist/kube32) (Hacker News, 2026-10-29 16:35): 
+- [Turn regular JavaScript into a neural net](https://chenglou.me/handwired/) (Hacker News, 2026-10-20 21:32): 
+- [Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) (Hacker News, 2026-10-29 17:48): 
+- [UK Farming Simulator](https://butterbean.farm/) (Hacker News, 2026-10-29 11:15): 
+- [Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/) (Hacker News, 2026-10-18 14:31): 
+- [AI-built browser games, collected in one place](https://playgroundarcade.com/) (Hacker News, 2026-10-20 15:45): 
+- [Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) (Hacker News, 2026-10-26 01:13): 
+- [Yavashark: I've Built a JavaScript Engine Every Day for 950 Days](https://yavashark.dev/blog/announcing-yavashark/) (Hacker News, 2026-10-28 14:32): 
+- [RoadRash ported to Three.js to run in the browser](https://roadrash.pages.dev) (Hacker News, 2026-10-19 22:01): 
+- [Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm) (Hacker News, 2026-10-30 02:05): 
+- [Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) (Hacker News, 2026-10-30 15:23): 
+- [Specification First Agentic Development Plugin and Prove](https://spec-first.dev/) (Hacker News, 2026-10-27 15:12): 
+- [Dovepass – can I legally fly a drone along this exact path in SF?](https://dovepass.com) (Hacker News, 2026-10-19 19:21): 
+- [I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed](https://bloffy.co/en) (Hacker News, 2026-10-21 23:41): 
+- [agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard) (Hacker News, 2026-10-22 18:02): 
+- [Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) (Hacker News, 2026-10-20 03:51): 
+- [Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096) (Hacker News, 2026-10-12 16:46): 
+- [Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116) (Hacker News, 2026-10-29 15:56): 
+- [Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/) (Hacker News, 2026-10-21 06:42): 
+- [Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) (Hacker News, 2026-10-19 16:00): 
+- [Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583) (Hacker News, 2026-10-20 15:09): 
+- [Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471) (Hacker News, 2026-10-13 15:41): 
+- [Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel) (Hacker News, 2026-10-01 23:26): 
+- [nvidia/simready-central](https://huggingface.co/spaces/nvidia/simready-central) (HF Spaces, 2026-09-28 14:52): Trending AI app on Hugging Face Spaces · docker
+- [kulkas2pintu/wan777](https://huggingface.co/spaces/kulkas2pintu/wan777) (HF Spaces, 2026-07-15 11:49): Trending AI app on Hugging Face Spaces · gradio
+- [hugging-apps/bfs-best-face-swap](https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap) (HF Spaces, 2026-09-27 18:26): Trending AI app on Hugging Face Spaces · gradio
+- [fishpasters/uncensored-imageTOimage2Ref](https://huggingface.co/spaces/fishpasters/uncensored-imageTOimage2Ref) (HF Spaces, 2026-10-11 06:49): Trending AI app on Hugging Face Spaces · gradio
+- [briaai/Fibo-2.0-editing](https://huggingface.co/spaces/briaai/Fibo-2.0-editing) (HF Spaces, 2026-10-19 14:00): Trending AI app on Hugging Face Spaces · gradio
+- [linoyts/qwen-image-2-1-realtime](https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime) (HF Spaces, 2026-10-23 12:50): Trending AI app on Hugging Face Spaces · gradio
+- [wank3r/minimax-h3](https://huggingface.co/spaces/wank3r/minimax-h3) (HF Spaces, 2026-09-13 08:58): Trending AI app on Hugging Face Spaces · gradio
+- [JCisHERE/wan2-2-i2v-v3](https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3) (HF Spaces, 2026-09-28 17:30): Trending AI app on Hugging Face Spaces · gradio
+- [AimeeBingmouQu/ProtectBirds](https://huggingface.co/spaces/AimeeBingmouQu/ProtectBirds) (HF Spaces, 2026-05-12 01:18): Trending AI app on Hugging Face Spaces · docker
+- [pollen-robotics/microduck-simulator](https://huggingface.co/spaces/pollen-robotics/microduck-simulator) (HF Spaces, 2026-08-20 07:53): Trending AI app on Hugging Face Spaces · docker
+- [a-test-user-in-the-wrold/qwen-image-21-uncensored](https://huggingface.co/spaces/a-test-user-in-the-wrold/qwen-image-21-uncensored) (HF Spaces, 2026-10-11 14:32): Trending AI app on Hugging Face Spaces · gradio
+- [AST-1320/Qwen-2511-Plus-Flux.2-klein](https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein) (HF Spaces, 2026-09-19 10:48): Trending AI app on Hugging Face Spaces · gradio
+- [WizardTY/GEAR](https://huggingface.co/spaces/WizardTY/GEAR) (HF Spaces, 2026-10-26 12:17): Trending AI app on Hugging Face Spaces · static
+- [gradium/phonon](https://huggingface.co/spaces/gradium/phonon) (HF Spaces, 2026-10-20 11:08): Trending AI app on Hugging Face Spaces · static
+- [multimodalart/jev-decision-index](https://huggingface.co/spaces/multimodalart/jev-decision-index) (HF Spaces, 2026-09-17 20:05): Trending AI app on Hugging Face Spaces · static
+- [FastVideo/FastH3-Omni](https://huggingface.co/spaces/FastVideo/FastH3-Omni) (HF Spaces, 2026-10-20 09:08): Trending AI app on Hugging Face Spaces · gradio
+- [Viggle/Qwen-Image-2.1-viggle-turbo](https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo) (HF Spaces, 2026-09-22 04:17): Trending AI app on Hugging Face Spaces · gradio
+- [vamo455/Omni-videos-custom-auto_prompt_high-quality](https://huggingface.co/spaces/vamo455/Omni-videos-custom-auto_prompt_high-quality) (HF Spaces, 2026-09-08 03:23): Trending AI app on Hugging Face Spaces · gradio
+- [Aura1in/Krea-2-Turbo_v2](https://huggingface.co/spaces/Aura1in/Krea-2-Turbo_v2) (HF Spaces, 2026-10-05 07:05): Trending AI app on Hugging Face Spaces · gradio
+- [Daankular/H3EROS](https://huggingface.co/spaces/Daankular/H3EROS) (HF Spaces, 2026-09-24 19:00): Trending AI app on Hugging Face Spaces · gradio
+- [speridlabs/idol](https://huggingface.co/spaces/speridlabs/idol) (HF Spaces, 2026-10-28 16:05): Trending AI app on Hugging Face Spaces · gradio
+- [kulkas2pintu/QWEN_EDIT_IMAGE](https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE) (HF Spaces, 2026-07-29 16:23): Trending AI app on Hugging Face Spaces · gradio
+- [hugging-apps/minimax-h3-flashgen-4step](https://huggingface.co/spaces/hugging-apps/minimax-h3-flashgen-4step) (HF Spaces, 2026-08-25 21:05): Trending AI app on Hugging Face Spaces · gradio
+- [dlouapre/nlp-before-llms](https://huggingface.co/spaces/dlouapre/nlp-before-llms) (HF Spaces, 2026-10-06 12:06): Trending AI app on Hugging Face Spaces · docker
+- [Tanyakhan/pornflux-i2v-6e9et](https://huggingface.co/spaces/Tanyakhan/pornflux-i2v-6e9et) (HF Spaces, 2026-06-04 09:57): Trending AI app on Hugging Face Spaces · static
+
+## News
+- [Startup taps underwater volcano as energy source in “proof point” test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/) (Hacker News, 2026-10-19 20:12): 
+- [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules) (Hacker News, 2026-10-20 09:30): 
+- [I told people I'm a convicted felon after 20 years of hiding it](https://buford.bg/) (Hacker News, 2026-10-21 15:46): 
+- [Start Doing Graph Theory](https://vertex.degree/) (Hacker News, 2026-10-23 13:49): 
+- [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46) (Hacker News, 2026-10-24 05:49): 
+- [The Goose Programming Language](https://aardappel.github.io/goose/) (Hacker News, 2026-10-24 19:06): 
+- [Median product "lifespan" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125) (Hacker News, 2026-10-23 03:20): 
+- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833) (Hacker News, 2026-10-17 18:01): 
+- [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) (Hacker News, 2026-10-28 11:03): 
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) (Hacker News, 2026-10-23 12:28): 
+- [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) (Hacker News, 2026-10-20 12:17): 
+- [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303) (Hacker News, 2026-10-19 09:21): 
+- [Epic Games Inc v Apple Inc](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) (Hacker News, 2026-10-22 01:52): 
+- [Apple Security Research Device](https://security.apple.com/research-device/) (Hacker News, 2026-10-24 02:36): 
+- [Google Search is now less than half of Alphabet’s revenue](https://www.kadoa.com/companies/insights/google-search-below-half) (Hacker News, 2026-10-29 16:42): 
+- [Google Cloud outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) (Hacker News, 2026-10-20 10:26): 
+- [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover) (Hacker News, 2026-10-27 18:44): 
+- [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) (Hacker News, 2026-10-30 12:50): 
+- [Northflank Breached](https://status.northflank.com) (Hacker News, 2026-10-30 15:10): 
+- [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) (Hacker News, 2026-10-31 10:21): 
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) (Hacker News, 2026-10-30 17:25): 
+- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) (Hacker News, 2026-10-30 10:06): 
+- [The federated code forge](https://tangled.org/blog/forge/) (Hacker News, 2026-10-30 15:44): 
+- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) (Hacker News, 2026-10-28 17:29): 
+- [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/) (Hacker News, 2026-10-30 14:08): 
+- [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace) (Lobsters, 2026-10-30 17:25): java, performance
+- [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/) (Lobsters, 2026-10-30 06:22): privacy
+- [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/) (Lobsters, 2026-10-30 10:01): javascript
+- [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/) (Lobsters, 2026-10-30 20:01): historical, windows
+- [Clojure/Conj 2026](http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q) (Lobsters, 2026-10-31 01:25): clojure, video
+- [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html) (Lobsters, 2026-10-30 11:06): retrocomputing
+- [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html) (Lobsters, 2026-10-30 02:24): compsci
+- [Switch lowering in GCC](https://xoranth.net/gcc-switch/) (Lobsters, 2026-10-30 15:00): compilers, performance
+- [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) (Lobsters, 2026-10-29 20:29): web
+- [Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port](https://www.frag-net.com/project_tacticalretreat.html) (Lobsters, 2026-10-30 21:32): games
+- [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) (Lobsters, 2026-10-31 06:10): privacy
+- [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum) (Lobsters, 2026-10-30 10:04): nix
+- [What are you doing this weekend?](https://lobste.rs/s/u7dsbx) (Lobsters, 2026-10-30 04:55): ask, programming
+- [Defending the patch gap against automated attackers](https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/) (Lobsters, 2026-10-30 16:06): browsers, security
+- [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw) (Lobsters, 2026-10-30 12:54): go, security
+- [The Secret of Fast Programming: Stop Thinking »](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/) (Lobsters, 2026-10-31 05:20): programming
+- [London meetup](https://lobste.rs/s/dsrruj) (Lobsters, 2026-10-29 15:56): event
+- [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445) (Lobsters, 2026-10-29 22:58): release
+- [Getting Google Cast on my Soundbar](https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/) (Lobsters, 2026-10-30 14:14): reversing
+- [The top ten reasons embedded projects get into trouble (2002)](https://www.ganssle.com/articles/jackstoptenlist.htm) (Lobsters, 2026-10-30 17:35): hardware
+- [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/) (Lobsters, 2026-10-30 10:39): go
+- [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb) (Lobsters, 2026-10-30 11:49): ask, meta
+- [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) (DEV, 2026-10-27 16:44): The image that shows up when you share a DEV post just got a brand-new look!  I got to work on...
+- [I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair](https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k) (DEV, 2026-10-25 06:44): Why Am I Writing This?   I'm writing this to show how unfair the world we live in can be,...
+- [I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo) (DEV, 2026-10-24 18:12): I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....
+- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) (DEV, 2026-10-29 20:08): JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...
+- [Doors I Walked Through to Reach DEV](https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294) (DEV, 2026-10-26 16:46): Table of Contents    Knock, Knock: The First Domino The Numbers and a Plot Twist How Did I...
+- [No Human Will Ever Write Code Better Than LLMs? Better at What?](https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme) (DEV, 2026-10-29 09:34): A tweet went around saying: "No human will ever write code better than LLMs. Accept this fact, stop...
+- [Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2) (DEV, 2026-10-27 16:46): Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...
+- [HEXAW programming language for WebAssembly instead WAT](https://dev.to/pengeszikra/hexaw-a-lazy-wasm-text-format-5g5n) (DEV, 2026-10-25 22:10): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...
+- [When Recovering From Burnout, Writing Became My Therapy. And This Week My First Coding Book Turns 1 Year Old. Ask Me Anything!](https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e) (DEV, 2026-10-26 05:00): Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.  In 2023, I got sick and...
+- [🐾 DEV Pet Corner #3: Show Us Your Pets!](https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n) (DEV, 2026-10-25 18:28): TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break...
+- [Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) (DEV, 2026-10-29 16:58): We hear it all the time in tech.  Everyone starts somewhere. There are no stupid questions. Don't be...
+- [I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔](https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g) (DEV, 2026-10-28 15:37): Hoi hoi! 👋 &nbsp;  I'm nyaomaru, a frontend engineer and OSS developer working mostly with...
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci) (DEV, 2026-10-30 13:00): 👋👋👋👋 Looking back on your week -- what was something you're proud of? All wins count -- big or small...
+- [A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says 'check this line' instead of bluffing](https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k) (DEV, 2026-10-25 16:39): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady  N 86°29'...
+- [The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b) (DEV, 2026-10-27 05:56): The strange thing about this incident is that the certificates looked normal.  They had familiar CA...
+- [I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.](https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm) (DEV, 2026-10-29 12:37): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...
+- [We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) (DEV, 2026-10-30 11:35): Let me paint a picture I know you’ve experienced recently.  You’re trying to book a flight, buy...
+- [Não precisa ser popular pra compartilhar: minha história até Berlim](https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc) (DEV, 2026-10-26 15:50): Hoje não venho escrever algo técnico ou teórico. Hoje vou contar pra vocês como a menina criada nas...
+- [Four Ways a Test Can Lie to You](https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf) (DEV, 2026-10-28 13:32): Green and worthless: what verifying one small application taught me, when an AI agent wrote most of...
+- [MCP Token Cost: I Cut My MCP Server From 15 Tools to 4](https://dev.to/aws-builders/mcp-token-cost-i-cut-my-mcp-server-from-15-tools-to-4-cek) (DEV, 2026-10-26 12:52): I rebuilt a real AWS cost-triage MCP server from 15 tools to 4. Same account, same question, 7 tool calls down to 2, schemas 88% smaller.
+- [Lessons Learned: Wifi Server Disaster](https://dev.to/annavi11arrea1/lessons-learned-wifi-server-disaster-16oc) (DEV, 2026-10-28 04:35): So there I was, figuring out how to set up all my social media for branded automated posting....
+- [Ghost in the Shell: Can a Log File Hijack an AI?](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk) (DEV, 2026-10-29 07:02): This week's Hacktoberfest theme is Ghost in the Machine. Unfortunately, I don't have enough time to...
+- [Your secrets don't need a git commit to leak into an AI tool](https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2) (DEV, 2026-10-26 10:47): Most of us have the "don't commit secrets" reflex drilled in. Pre-commit hooks, secret scanners in...
+- [Every App Eventually Becomes a Dashboard. Please Make It Stop.](https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9) (DEV, 2026-10-29 11:53): Every good app starts with a lie.   “We’re going to keep this simple.”   I love that sentence.  So...
+- [Last Witness: an AI detective for a dead 1999 website, graded on its ghosts](https://dev.to/p0rt/last-witness-an-ai-detective-for-a-dead-1999-website-graded-on-its-ghosts-4bbe) (DEV, 2026-10-28 14:15): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...
+- [MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161) (DEV, 2026-10-28 10:15): A visual, 10-minute architectural deep dive into MQTT. Learn how the 2-byte binary wire protocol, QoS 0/1/2 handshakes, topic trees, Last Will and Testament, and MQTT v5 Shared Subscriptions actually 
+- [Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal](https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0) (DEV, 2026-10-25 06:45): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...
+- [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) (DEV, 2026-10-29 20:32): Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-Ve
+- [Slowth Money: a local AI agent for your financial goals](https://dev.to/javz/slowth-money-a-local-ai-agent-for-your-financial-goals-2ki2) (DEV, 2026-10-25 23:38): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...
+- [Three Times My Test Failed and the LLM Was Right](https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2) (DEV, 2026-10-25 01:03): A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...
+- [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921) (Hacker News, 2026-10-30 19:51): 
+- [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris) (Hacker News, 2026-10-30 19:55): 
+- [Security advisory: Critical remote code execution vulnerabilities, update now](https://www.php.net/archive/2026.php#2026-10-21-5) (Hacker News, 2026-10-20 20:15): 
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) (Hacker News, 2026-10-21 23:13): 
+- [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities) (Hacker News, 2026-10-22 11:12): 
+- [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html) (Hacker News, 2026-10-19 13:36): 
+- [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/) (Hacker News, 2026-10-21 14:11): 
+- [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) (Hacker News, 2026-10-22 08:51): 
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) (Hacker News, 2026-10-28 23:45): 
+- [CVE Tracker](https://cve.0xosprey.com/) (Hacker News, 2026-10-23 21:21): 
+- [PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)](https://jackalsyn.com/posts/php-up-2026.html) (Hacker News, 2026-10-21 04:26): 
+- [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/) (Hacker News, 2026-10-21 21:12): 
+- [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/) (Hacker News, 2026-10-28 20:46): 
+- [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News, 2026-10-23 12:56): 
+- [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers) (Hacker News, 2026-10-29 10:42): 
+- [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/) (Hacker News, 2026-10-22 11:50): 
+- [PHP2Shell: Exploitation attempts and remediation trends](https://www.wiz.io/blog/php2shell-exploitation-so-far) (Hacker News, 2026-10-27 13:52): 
+- [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/) (Hacker News, 2026-10-26 15:35): 
+- [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/) (Hacker News, 2026-10-29 06:47): 
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) (Hacker News, 2026-10-26 18:14): 
+- [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft) (Hacker News, 2026-10-24 18:31): 
+- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/) (Hacker News, 2026-10-25 22:29): 
+- [US agency approves Amazon Leo’s $11.5B acquisition of Globalstar](https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/) (Hacker News, 2026-10-28 11:54): 
+- [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) (Hacker News, 2026-10-25 09:00): 
+- [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference) (Hacker News, 2026-10-26 17:57): 
+- [Meta censored the No Kings Instagram account during a nationwide campaign](https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram) (Hacker News, 2026-10-28 16:01): 
+- [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report) (Hacker News, 2026-10-25 02:18): 
+- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) (Hacker News, 2026-10-30 20:23): 
+- [Evidence of a spying operation by ICE against left-wing social movements](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/) (Hacker News, 2026-10-28 12:49): 
+- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) (Hacker News, 2026-10-25 17:30): 
+- [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/) (Hacker News, 2026-10-25 21:08): 
+- [Two high-speed trains collide near Toledo, Spain](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash) (Hacker News, 2026-10-28 12:35): 
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) (Hacker News, 2026-10-25 18:23): 
+- [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) (Hacker News, 2026-10-27 13:56): 
+- [A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies](https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497) (Hacker News, 2026-10-27 15:09): 
+- [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/) (Hacker News, 2026-10-24 14:38): 
+- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) (Hacker News, 2026-10-26 03:31): 
+- [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/) (Hacker News, 2026-10-26 13:54): 
+- [Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run](https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc) (DEV, 2026-10-27 09:53): 1. The problem: an agent that can spend money   Most agent demos stop at "the model called a...
+- [MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU](https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a) (DEV, 2026-10-30 14:04): I do a lot of experimenting with local language models, and I just ended up going down a bit of a...
+- [Everyone Clicks 'I Agree.' No One Reads Them: I Fine-Tuned a 4B Model with Tinker to Catch Unfair Terms of Service in 30 Seconds](https://dev.to/emmasofia/everyone-clicks-i-agree-no-one-reads-them-i-fine-tuned-a-4b-model-with-tinker-to-catch-unfair-30lm) (DEV, 2026-10-24 14:29): A 9,000-word contract scanned in 30 seconds. How I fine-tuned Qwen 4B with Tinker on the LexGLUE UNFAIR-ToS benchmark to catch arbitration waivers, unilateral changes, and liability caps.
+- [Postmortem: The Tuesday Our AI Bill Had No Owner](https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd) (DEV, 2026-10-25 11:15): I've read a lot of postmortems. The best ones aren't about blame. They're about the gap between what...
+- [My open source project is brand new and already has contributors. Here's what I did.](https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4) (DEV, 2026-10-30 16:03): In the spirit of Hacktoberfest, with it being the last day of October, I wanted to share my story...
+- [I Don’t Write Ruby. A Fix I Sent Is Now in Forem.](https://dev.to/dannwaneri/i-dont-write-ruby-a-fix-i-sent-is-now-in-forem-13c5) (DEV, 2026-10-26 15:20): On Oct 22, I read the word "Merged" twice. It was my first contribution to Forem (the platform that...
+- [Not the End, but a Shift: How AI Is Pushing Computer Science Toward Deeper Engineering](https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk) (DEV, 2026-10-28 05:13): If you're studying computer science right now, or you just graduated, you've probably heard some...
+- [I approved the order. Then my Genkit Dart agent forgot its own tool.](https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp) (DEV, 2026-10-27 09:54): My agent asked me "can I order this part?". I said yes. And the answer came back as a...
+- [Someone hacked the freezers at 400 French supermarkets](https://dev.to/peter/someone-hacked-the-freezers-at-400-french-supermarkets-5flm) (DEV, 2026-10-13 18:25): Friends ask me some version of this a lot: how would a bad actor with super powerful AI actually hurt...
+- [The Witness Was the Suspect: Why AI Audit Logs Can't Be Trusted](https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190) (DEV, 2026-10-05 06:02): An AI agent does something it shouldn't. It leaks data, or wipes the wrong database, or makes a call...
+- [Hours, Not Weeks: How AI Rewrote the Clock of Software Security](https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg) (DEV, 2026-10-24 05:41): The third week of October 2026 was a rough one for anyone who runs software on the internet.  Two...
+- [An Agent’s Plan Isn’t Permission](https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8) (DEV, 2026-10-14 12:05): When a coding agent investigates a production bug, it might need to read a repository, query logs,...
+- [Your AI Agent Will Do Something Terrible. Here's How to Survive It.](https://dev.to/james_anderson_h/your-ai-agent-will-do-something-terrible-heres-how-to-survive-it-4lc8) (DEV, 2026-10-06 08:29): Here's a pattern I keep seeing.  A team wires up an AI agent that can do real things — send emails,...
+- [Breach Week Dropped 10 'Patch Now' Posts. A Local Gemma Boiled Them Down to 2 Lines, and Code Checked Every Number It Wrote.](https://dev.to/t-rexbytes/breach-week-dropped-10-patch-now-posts-a-local-gemma-boiled-them-down-to-2-lines-and-code-53n6) (DEV, 2026-10-23 16:46): This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady  On Oct...
+- [Patch Your PHP: What PHP2Shell Means for WordPress Sites](https://dev.to/cseeman/patch-your-php-what-php2shell-means-for-wordpress-sites-2akn) (DEV, 2026-10-22 20:53): Two critical PHP runtime bugs allow unauthenticated remote code execution. Updating WordPress won't fix them. Here's how to check your PHP version and what to patch to.
+
+## Deals
+- [GitHub Student Developer Package](https://education.github.com/pack) (Curated, 2026-10-12): The students are certified free of charge and receive dozens of development tools and clouds (domain names, cloud hosts, IDE, etc.).
+- [Cloudflare Workers free of charge](https://workers.cloudflare.com/) (Curated, 2026-10-12): 100,000 requests per day for deployment of edge functions, stationary stations and KV, starting with independent developers.
+- [Oracle Claude Allways Free](https://www.oracle.com/cloud/free/) (Curated, 2026-10-12): Permanent free ARM cloud hosts and storage lines suitable for running small services and reptiles.
+- [Google Cloud Free Trial and Free Level](https://cloud.google.com/free) (Curated, 2026-10-12): The new users offered a trial grant and a long-term free layer of products.
+- [AWS Free Tier](https://aws.amazon.com/free/) (Curated, 2026-10-12): The new account is free of charge and on a trial basis, covering calculations, storage, databases.
+- [AWS Activate Entrepreneurship Support](https://aws.amazon.com/activate/) (Curated, 2026-10-12): Creative companies can apply for AWS cloud scale and technical support.
+- [Google for Startups Cloud Programme](https://cloud.google.com/startup) (Curated, 2026-10-12): The original company applied for the Google Cloud level, which is higher for AI.
+- [Microsoft for Startups](https://www.microsoft.com/en-us/startups) (Curated, 2026-10-12): Initial corporate support schemes, including the Azure scale and development tools.
+- [Free-for.dev list of free services](https://free-for.dev/) (Curated, 2026-10-12): Developmentists provide free-of-charge community-based services, organized by category.
+- [Jetbrains Education Free Authorization](https://www.jetbrains.com/community/education/) (Curated, 2026-10-12): Students and teachers have free access to the Jetbrains IDE.
+- [Notion for Startups](https://www.notion.com/startups) (Curated, 2026-10-12): Eligible start-up teams can apply for a notion payment scheme discount.
+- [Supabase Free Scheme](https://supabase.com/pricing) (Curated, 2026-10-12): Postgres + Authentication + Storage Free Layer, MVP backend sufficient.
+- [Vercel Hobby Free Scheme](https://vercel.com/pricing) (Curated, 2026-10-12): The individual project hosts the frontend and Serverless functions free of charge, with a global CDN.
+- [Netlifty, free set.](https://www.netlify.com/pricing/) (Curated, 2026-10-12): Static stations and functions are hosted free of charge and forms and deployment previews are open.
+- [Fly.io free of charge](https://fly.io/docs/about/pricing/) (Curated, 2026-10-12): Small packaging applications can be deployed at low cost to multiple regions worldwide.
+- [Render Free Examples](https://render.com/pricing) (Curated, 2026-10-12): Web services, Postgress and static stations provide a free layer for Demo.
+- [Neon Servers Postgres Free Level](https://neon.tech/pricing) (Curated, 2026-10-12): The branch database is supported on a free-of-charge basis by Postgress.
+- [Hugging Faces](https://huggingface.co/spaces) (Curated, 2026-10-12): Free hosting of AI Demo (Gradio/Streamlit), good community exposure.
+- [Google AI Studio Free API](https://aistudio.google.com/) (Curated, 2026-10-12): The Gemini model provides a free call line and is easy to make.
+- [Groq Free API](https://console.groq.com/) (Curated, 2026-10-12): Super-fast reasoning open source model API, free call level.
+- [OpenRouter Free Model](https://openrouter.ai/models) (Curated, 2026-10-12): An API polymer multi-model, some of which can be called free of charge.
+- [Cloudflare R2 Free of charge](https://developers.cloudflare.com/r2/pricing/) (Curated, 2026-10-12): The object is stored free of charge and without terminal traffic charges for 10 GB per month.
+- [GitHub Copilot Student/Open Source Free](https://github.com/features/copilot) (Curated, 2026-10-12): Copilot is free of charge to students and hot open source defenders.
+- [Figma Education Programme](https://www.figma.com/education/) (Curated, 2026-10-12): Students and educators have free access to the Figma professional version.
+- [Canva Education and the public good](https://www.canva.com/education/) (Curated, 2026-10-12): The Canva Advanced Edition is free of charge in educational and non-profit institutions.
+- [Resend Free Mail Line](https://resend.com/pricing) (Curated, 2026-10-12): Developer friendly mail API, 3000 free of charge per month.
+- [PostHog Free Level](https://posthog.com/pricing) (Curated, 2026-10-12): Product analysis, video recording and functional switches, with a large number of free events per month.
+- [Setry Developer Free Scheme](https://sentry.io/pricing/) (Curated, 2026-10-12): There is a free level of error monitoring, and single-person projects are sufficient.
+- [Notion Education Plus Free](https://www.notion.com/product/notion-for-education) (Curated, 2026-10-12): Notion Plus is free of charge if you register in school mailboxes.
+- [Cloudflare for Startups up to $250,000.](https://www.cloudflare.com/forstartups/) (Curated, 2026-10-12): Claudflare scale and business functional support for start-up companies.
+- [Cloudflare Pages Free static hosting](https://pages.cloudflare.com/) (Curated, 2026-10-12): Unlimited static requests and bandwidth, 500 times a month, suitable for independent stations.
+- [Cloudflare D1 Free SQLite Database](https://developers.cloudflare.com/d1/platform/pricing/) (Curated, 2026-10-12): Workers free layer with D1 reading and writing, zero-dimensional database.
+- [Cloudflare Workers AI free of charge every day](https://developers.cloudflare.com/workers-ai/platform/pricing/) (Curated, 2026-10-12): Free of charge, running open source models like Llama, Whisper.
+- [Azure Free Account: $200 + 12 months of free service](https://azure.microsoft.com/en-us/pricing/free-services) (Curated, 2026-10-12): Within 30 days of new registration, the amount of $200 is also provided free of charge on a permanent basis.
+- [Azure for Stuarts 100 dollars off credit card](https://azure.microsoft.com/en-us/free/students) (Curated, 2026-10-12): The student mailbox is certified with an Azure level of $100, without a credit card.
+- [Google for Startups AI tops $350,000](https://cloud.google.com/startup/ai) (Curated, 2026-10-12): AI Inc. can apply for a high Google Club grant and technical support.
+- [NVIDIA Enterprise Development](https://www.nvidia.com/en-us/startups/) (Curated, 2026-10-12): Free admission, GPU cloud discounts, training and investment.
+- [OpenAI developer platform pricing and free floor](https://platform.openai.com/docs/pricing) (Curated, 2026-10-12): Partial model participation in data sharing is free of charge token per day at a volume fee.
+- [We're on our way.](https://www.anthropic.com/startups) (Curated, 2026-10-12): Claude API.
+- [Medium La Plateforme Free Experiment Level](https://console.mistral.ai/) (Curated, 2026-10-12): Registration is free to test the Mistral model API.
+- [Cerebras Access Free API](https://cloud.cerebras.ai/) (Curated, 2026-10-12): Super-high-speed reasoning, development floor free of charge token daily level.
+- [Together AI New User Level](https://www.together.ai/pricing) (Curated, 2026-10-12): Registered experience scale with hundreds of open source models.
+- [Sambanova Cloud Free reasoning](https://cloud.sambanova.ai/) (Curated, 2026-10-12): Large models such as Llama and DeepSeek are available on the free floor.
+- [GitHub Models Free of charge](https://github.com/marketplace?type=models) (Curated, 2026-10-12): Models such as GPT, Llama and Phi are tested free of charge in GitHub.
+- [GitHub Copilot Free](https://github.com/features/copilot/plans) (Curated, 2026-10-12): Individuals are free of charge for 2000 completions and 50 chats per month.
+- [Gemini Code Assist is a free individual.](https://codeassist.google/) (Curated, 2026-10-12): Individual developers use it free of charge, with high monthly code completion.
+- [Google Colab Free GPU](https://colab.research.google.com/) (Curated, 2026-10-12): Browser runs Jupyter, free T4 GPU (sometimes limited).
+- [Kaggle Notes 30 hours a week GPU](https://www.kaggle.com/code) (Curated, 2026-10-12): Free GPU/TPU quota, suitable for training and fine-tuning small models.
+- [Lightning AI free GPU hours per month](https://lightning.ai/pricing) (Curated, 2026-10-12): The cloud, Studio, gives a free calculator amount per month.
+- [Modal, $30 a month for free.](https://modal.com/pricing) (Curated, 2026-10-12): Serverless GPU platform, introduction plan, monthly grant.
+- [Replicate model hosting fee per second](https://replicate.com/pricing) (Curated, 2026-10-12): Thousands of open source models are coded and some of them are tested free of charge.
+- [Firebase Spark Free Scheme](https://firebase.google.com/pricing) (Curated, 2026-10-12): Certification, Firestore and trusteeship are free of charge.
+- [Appwrite Cloud Free Scheme](https://appwrite.io/pricing) (Curated, 2026-10-12): Open source BaaS 3/ free-of-charge database, authentication, storage.
+- [Turso Free SQLite Edge Data Library](https://turso.tech/pricing) (Curated, 2026-10-12): The free layer contains hundreds of databases and several GB stores.
+- [MongoDB Atlas Free Cluster M0](https://www.mongodb.com/pricing) (Curated, 2026-10-12): Permanent free 512 MB cluster.
+- [Uplash Redis Free Level](https://upstash.com/pricing) (Curated, 2026-10-12): Servers Redis/Kafka/Type Bank, free of charge on request.
+- [Pinecone Starter Free Vector Library](https://www.pinecone.io/pricing/) (Curated, 2026-10-12): Free Serverles vector index, suitable for the RAG prototype.
+- [Qdrant Cloud free 1GB cluster](https://qdrant.tech/pricing/) (Curated, 2026-10-12): Permanent free vector database cluster.
+- [Clerk free of charge, 10,000-month certification.](https://clerk.com/pricing) (Curated, 2026-10-12): Log in to a registered component, free of charge, 10,000 months of work.
+- [Railway trial level](https://railway.com/pricing) (Curated, 2026-10-12): One key deploys backends and databases, and new users offer a trial scale.
+- [Koyeb Free Examples](https://www.koyeb.com/pricing) (Curated, 2026-10-12): Free floors can deploy a Web service with Postgres.
+- [Deno Deploy Free Level](https://deno.com/deploy/pricing) (Curated, 2026-10-12): 1 million per month requested edge function hosting.
+- [GitHub Pages Free static station](https://pages.github.com/) (Curated, 2026-10-12): Open warehouse hosts static websites free of charge and supports custom domain names.
+- [Linear Free Scheme + Entrepreneurship Credit](https://linear.app/pricing) (Curated, 2026-10-12): Free schemes are open-ended; a discount is provided by Linear for Startups.
+- [Notion AI pricing and trial](https://www.notion.com/pricing) (Curated, 2026-10-12): lymethally lydiadialydiadialydia lydialy lydia lydia lydia lydia lydia lydia lydia dia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lydia lyd lyd lyd lyd lylydia lydia lylyd lyd lyd lyd ly lyd lyd ly ly ly ly ly ly ly ly ly lylylyd lylyd lyd lyd lyd ly ly ly lyd ly ly ly lylylyd lyd ly lyd lyd lyly lyly ly lyly ly ly ly ly ly ly
+- [Figma Free Starter Scheme](https://www.figma.com/pricing/) (Curated, 2026-10-12): 3 design documents free of charge for individuals, and no student education editions.
+- [Framer Station Free of charge](https://www.framer.com/pricing) (Curated, 2026-10-12): A free scheme can publish a website with a framer sub-domain name.
+- [Webflow, free entrance.](https://webflow.com/pricing) (Curated, 2026-10-12): Free programs can be set up by webflow.io sub-domain names.
+- [Miro educational edition free of charge](https://miro.com/education-whiteboard/) (Curated, 2026-10-12): The Miro educational edition is free of charge for students and teachers.
+- [Autodesk Education Edition Free](https://www.autodesk.com/education/edu-software/overview) (Curated, 2026-10-12): Students use AutoCAD, Fusion and Maya software free of charge.
+- [Apple, educational benefits](https://www.apple.com/us-edu/store) (Curated, 2026-10-12): Students and teachers buy mac, iPad education.
+- [Microsoft 365 Free of charge for educational editions](https://www.microsoft.com/en-us/education/products/office) (Curated, 2026-10-12): The school mailbox can be used free of charge on the Office page and Teams.
+- [Spotify Premium student Half price.](https://www.spotify.com/us/student/) (Curated, 2026-10-12): Students accredited to a Premium half-price subscription.
+- [Namecheap student free of charge.me domain name](https://nc.me/) (Curated, 2026-10-12): The GitHub student bag is free of charge for one year.me domain name and SSL.
+- [DigitalOcean New Users $200](https://www.digitalocean.com/pricing) (Curated, 2026-10-12): That's all that counts on.
+- [DigitalOcean Hatt Scheme](https://www.digitalocean.com/hatch) (Curated, 2026-10-12): Start-ups can apply for cloud cover and technical support. Affirming the need to improve the quality of their work Globally,
+- [Vultr Free Level and New User Grant](https://www.vultr.com/pricing/) (Curated, 2026-10-12): VPS free floor and event grant.
+- [Hetzner has a higher value than a cloud host.](https://www.hetzner.com/cloud/) (Curated, 2026-10-12): European low price VPS, suitable for running away from SaaS.
+- [Ariane, free trial centre.](https://free.aliyun.com/) (Curated, 2026-10-12): Products such as cloud servers, databases, etc. are tested free of charge.
+- [It's free.](https://cloud.tencent.com/act/free) (Curated, 2026-10-12): Free experience with cloud servers, object storage, etc.
+- [Volcanic engines.](https://www.volcengine.com/product/ark) (Curated, 2026-10-12): New users of large models, such as bean buns, donate free reasoning.
+- [Ali Yun Yin, new user free token](https://bailian.console.aliyun.com/) (Curated, 2026-10-12): Free of charge for new users of models such as Tun Chi.
+- [DeepSeek Open Platform](https://platform.deepseek.com/) (Curated, 2026-10-12): Low-priced high-performance API, wrong-time margin.
+- [BigModel Free Model](https://bigmodel.cn/) (Curated, 2026-10-12): GLM Flash Model API calls free of charge.
+- [SiliconFlow SiliconFlow flow free model](https://siliconflow.cn/) (Curated, 2026-10-12): Multi-open source model API permanently calls free of charge.
+- [Stripe Atlas partner discount](https://stripe.com/atlas/partners) (Curated, 2026-10-12): The registered company receives discounts and amounts for cooperative services.
+- [Brex entrepreneurship benefits](https://www.brex.com/startups) (Curated, 2026-10-12): Co-operative SaaS discount packages for start-up companies.
+- [Mercury Enterprise Perks](https://mercury.com/perks) (Curated, 2026-10-12): Mercury bank users receive many SaaS concessions.
+- [Secret Entrepreneurship SaaS Preferential Pool](https://www.joinsecret.com/) (Curated, 2026-10-12): Hundreds of SaaS start-up discounts.
+- [AppSumo software buyout for life](https://appsumo.com/) (Curated, 2026-10-12): The SaaS Life Mandate (LTD) is time-limited and low.
+- [Awesome Black Friday / Cyber Monday developer discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) (Curated, 2026-10-12): GitHub collates an annual list of developers' software.
+- [Free-for-life list of permanent free services](https://github.com/ripienaar/free-for-dev) (Curated, 2026-10-12): This is the first time I've been able to work with a group of people in the country.
+- [Let's Encrypt Free SSL Certificate](https://letsencrypt.org/) (Curated, 2026-10-12): A free HTTPS certificate.
+- [HackerOne Gap Reward Platform](https://www.hackerone.com/bug-bounty-programs) (Curated, 2026-10-12): Rewards for the submission of loopholes and public rewards for many companies.
+- [Bugcrowd Gap Reward Project](https://bugcrowd.com/programs) (Curated, 2026-10-12): Open list of award items for leaks.
+- [Google Gap Incentive Scheme VRP](https://bughunters.google.com/) (Curated, 2026-10-12): The top hundreds of thousands of dollars are available for reporting loopholes to Google.
+- [Microsoft, the leakage reward plan.](https://www.microsoft.com/en-us/msrc/bounty) (Curated, 2026-10-12): MSRC offers a reward for loopholes in products such as Azure and Copilot.
+- [Apple Security Bounty](https://security.apple.com/bounty/) (Curated, 2026-10-12): The highest incentive for reporting loopholes to Apple was $2 million.
+- [OpenAI Bugcrowd](https://bugcrowd.com/openai) (Curated, 2026-10-12): OpenAI Open Laundromat Project.
+- [Anthropic Responsible Disclosure and Model Gap Reward](https://www.anthropic.com/responsible-disclosure-policy) (Curated, 2026-10-12): Anthropic security breach and escape reward.
+- [hunt AI/ML open-source gap reward](https://huntr.com/) (Curated, 2026-10-12): Pay a reward for an AI/ML open-source project gap.
+- [Immunefi Web3 Leaky Award](https://immunefi.com/) (Curated, 2026-10-12): The reward for the smart contract leak is extremely high.
+- [Snyk free open source security scan](https://snyk.io/plans/) (Curated, 2026-10-12): Free scanning relies on loopholes and code security issues.
+- [GitHub Advanced Security Open Store free of charge](https://github.com/features/security) (Curated, 2026-10-12): CodeQL scans and key scans are free of charge to open warehouses.
+- [Cloudflare Zero Trust 50 free](https://www.cloudflare.com/plans/zero-trust-services/) (Curated, 2026-10-12): Free zero confidence network access and security gateway.
+- [Tailscale Free Personal Scheme](https://tailscale.com/pricing) (Curated, 2026-10-12): A private network of 100 devices is organized free of charge.
+- [Plausible Community Edition](https://plausible.io/self-hosted-web-analytics) (Curated, 2026-10-12): Open-source, privacy-friendly website analysis, free of charge for hosting.
+- [Umami Cloud Free Level](https://umami.is/pricing) (Curated, 2026-10-12): Open source website statistics, clouds free of charge 100,000 events/months.
+- [Mailchimp Free Scheme](https://mailchimp.com/pricing/) (Curated, 2026-10-12): 500 Free mail marketing for contacts.
+- [Brevo 300 free e-mails per day](https://www.brevo.com/pricing/) (Curated, 2026-10-12): Service and marketing mail is free of charge.
+- [Buttondown free Newsletter](https://buttondown.com/pricing) (Curated, 2026-10-12): Within 100 subscribers are free of charge.
+- [Beehiv Free Newsletter](https://www.beehiiv.com/pricing) (Curated, 2026-10-12): Letters are sent free of charge to subscribers.
+- [Lemon Squeezy received no monthly fee.](https://www.lemonsqueezy.com/pricing) (Curated, 2026-10-12): MoR collections on a single basis, starting with the monthly fee.
+- [Polar Open Source Collection Platform](https://polar.sh/) (Curated, 2026-10-12): MoR for developers and subscriptions, low rate.
+- [ElevenLabs free voice level](https://elevenlabs.io/pricing) (Curated, 2026-10-12): Free 10,000 characters per month for AI speech synthesis.
+- [Perplexity Pro co-operates free of charge](https://www.perplexity.ai/pro) (Curated, 2026-10-12): Portexity regularly works with operators, banks, etc. to send Pro.
+- [Cursor Students Free Pro](https://cursor.com/students) (Curated, 2026-10-12): Student accreditation is free of charge for one year.
+- [V0 by Vercel Free Amount](https://v0.app/pricing) (Curated, 2026-10-12): UIs are generated free of charge every month with all applications.
+- [Bolt.new free token](https://bolt.new/pricing) (Curated, 2026-10-12): Free token every day to build a whole stack application with AI.
+- [Loveable Free Scheme](https://lovable.dev/pricing) (Curated, 2026-10-12): A daily free message to generate website applications using AI.
+- [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv) (Hacker News, 2026-10-19 22:32): 
+- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) (Hacker News, 2026-10-20 06:37): 
+- [FreeDNS](https://freedns.afraid.org/) (Hacker News, 2026-10-24 15:20): 
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) (Hacker News, 2026-10-10 10:52): 
+- [Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/) (Hacker News, 2026-10-14 18:23): 
+- [BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/) (Hacker News, 2026-10-11 12:01): 
+- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) (Hacker News, 2026-10-18 18:48): 
+- [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685) (Hacker News, 2026-10-18 05:09): 
+- [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/) (Hacker News, 2026-10-30 02:33): 
+- [AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) (Hacker News, 2026-09-22 16:15): 
+- [Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://news.ycombinator.com/item?id=49552616) (Hacker News, 2026-09-03 16:24): 
+- [Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp) (Hacker News, 2026-09-28 17:34): 
+- [Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) (Hacker News, 2026-10-01 17:58): 
+- [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d) (Hacker News, 2026-10-16 18:11): 
+- [Tesla takes on $30B in credit as it approaches unprofitability](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/) (Hacker News, 2026-09-30 04:37): 
+- [Google copied our open-source code, removed engineers' names without credit](https://www.reddit.com/r/reinforcementlearning/comments/1wg1unx/google_copied_our_opensource_code_removed_our/) (Hacker News, 2026-09-15 17:57): 
+- [Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/) (Hacker News, 2026-09-26 15:48): 
+- [Europe's "Less" Is Doing More Than Anyone Gives It Credit For](https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html) (Hacker News, 2026-09-12 14:17): 
+- [As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) (Hacker News, 2026-09-28 01:30): 
+- [Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee) (Hacker News, 2026-10-09 07:36): 
+- [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now) (Hacker News, 2026-09-08 01:00): 
+- [TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) (Hacker News, 2026-09-04 09:03): 
+- [RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530) (Hacker News, 2026-09-02 22:36): 
+- [Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) (Hacker News, 2026-09-15 15:20): 
+- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders) (Hacker News, 2026-10-07 05:38): 
+- [Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) (Hacker News, 2026-09-18 00:11): 
+- [A working 3D model of an Enigma machine](https://enigma.design) (Hacker News, 2026-09-29 17:15): 
+- [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) (Hacker News, 2026-09-11 16:03): 
+- [Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/) (Hacker News, 2026-09-22 17:26): 
+- [Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) (Hacker News, 2026-10-16 18:54): 
+- [Ax-check.com – Can agents use your product?](https://www.ax-check.com/) (Hacker News, 2026-09-17 18:08): 
+- [Armada: Encrypted, Open-Source, Discord Alternative (Built on Nostr)](https://soapbox.pub/armada) (Hacker News, 2026-09-28 02:55): 
+- [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/) (Hacker News, 2026-10-08 10:55): 
+- [Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors) (Hacker News, 2026-10-06 15:58): 
+- [Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) (Hacker News, 2026-10-08 21:00): 
+- [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291) (Hacker News, 2026-10-11 02:37): 
+- [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) (Hacker News, 2026-10-25 18:49): 
+
+## Ideas
+- [YC Priorities for Startups](https://www.ycombinator.com/rfs) (Curated, 2026-10-12): Y Combinator published a list of entrepreneurial directions for investment, a business-winder.
+- [Exploding Topics](https://explodingtopics.com/) (Curated, 2026-10-12): Tracking the rapidly growing search topics and identifying demand in advance.
+- [Google Trends](https://trends.google.com/) (Curated, 2026-10-12): Free view of keyword heat and regional distribution, validation of ideas and cross-border selection.
+- [Indie Hackers](https://www.indiehackers.com/) (Curated, 2026-10-12): Independent developers open up their communities of income and experience, with a large number of replicable cases.
+- [Starter Story.](https://www.starterstory.com/) (Curated, 2026-10-12): Entrepreneur interview: Disassembly income, customer and toolbox in each case.
+- [It's a daily report.](https://www.producthunt.com/) (Curated, 2026-10-12): New products are published daily to see what is being admired and what can be differentiated.
+- [Hacker News Show HN](https://news.ycombinator.com/show) (Curated, 2026-10-12): Developer displays homemade project blocks, early products and real feedback places.
+- [GitHub Trending](https://github.com/trending) (Curated, 2026-10-12): Open-source warehouses, with the fastest daily/weekly growth, find alternative, packaged projects.
+- [Shopivy cross-border.](https://www.shopify.com/) (Curated, 2026-10-12): Independent station construction and collection, cross-border DTC start-up programmes.
+- [Stripe Atlas](https://stripe.com/atlas) (Curated, 2026-10-12): Long-range registration of United States companies and the opening of collections, a common route for one company to sea.
+- [a16z Consumer level AI 100](https://a16z.com/100-gen-ai-apps/) (Curated, 2026-10-12): a16z regularly publishes the most popular generated AI application list to see the real needs of users.
+- [There's an AI for that](https://theresanaiforthat.com/) (Curated, 2026-10-12): AI Tool Catalogue and Daily New Up to Search for Empty Tracks.
+- [Futurepedia](https://www.futurepedia.io/) (Curated, 2026-10-12): AI Tools are complete and classified, and a breakdown of market saturation is observed.
+- [Acquire.com](https://acquire.com/) (Curated, 2026-10-12): Small SaaS buys and sells markets to see which products are worth and how much they earn.
+- [MicroConf](https://microconf.com/) (Curated, 2026-10-12): For self-financing SaaS founders, community and speaking resources.
+- [Failory.](https://www.failory.com/) (Curated, 2026-10-12): Failed entrepreneurship cases and interviews, avoiding common pits.
+- [Trends.vc](https://trends.vc/) (Curated, 2026-10-12): Each issue of a report with a breakdown of market trends, including opportunities and players.
+- [Reddit r/SideProject](https://www.reddit.com/r/SideProject/) (Curated, 2026-10-12): Communities where independent developers publish side projects and collect feedback.
+- [BetaList](https://betalist.com/) (Curated, 2026-10-12): Early entrepreneurship product release platform, identifying new directions and early users.
+- [Lenny's Newsletter.](https://www.lennysnewsletter.com/) (Curated, 2026-10-12): Product and growth depth articles, suitable for PMF judgement.
+- [Amazon Best Sellers](https://www.amazon.com/gp/bestsellers) (Curated, 2026-10-12): The Amazon's best-seller list, cross-border selection base reference.
+- [Etsy Trends](https://www.etsy.com/featured/trending-now) (Curated, 2026-10-12): Handicraft and creative goods platforms are suitable for a designer to go to sea.
+- [Gumroad Discover](https://gumroad.com/discover) (Curated, 2026-10-12): Producer digital product market, template/course/material realization reference.
+- [Lemon Squeezy.](https://www.lemonsqueezy.com/) (Curated, 2026-10-12): Digital products and the SaaS Collection Platform, to cover global taxes.
+- [Paddle.](https://www.paddle.com/) (Curated, 2026-10-12): SaaS records collections in the business model, suitable for one company to go to sea.
+- [Wise Business](https://wise.com/business/) (Curated, 2026-10-12): Multi-currency accounts are paid across borders at low rates.
+- [Make an AI Commodity Description Generator for Shopify sellers](https://apps.shopify.com/) (Curated, 2026-10-12): The bulk generates multilingual commodity titles and descriptions, which are just needed by vendors at SKU charges.
+- [It's an AI customer service machine for the vertical industry. People](https://www.indiehackers.com/) (Curated, 2026-10-12): (b) Selecting the industries of dentistry, residence, law firm etc. and accessing the knowledge base on a monthly basis.
+- [Chrome Plugin: The first key of the web page is translated into a small red book style note](https://chromewebstore.google.com/) (Curated, 2026-10-12): For content creators, free + subscription to advanced templates.
+- [Make open source projects a hosting, SaaS.](https://github.com/trending) (Curated, 2026-10-12): Picks high star but difficult to deploy open source tools to provide a one-key hosting fee.
+- [/8) I. Biographical and multilingual optimization of job applications](https://www.producthunt.com/) (Curated, 2026-10-12): For people seeking employment at sea, on a sub-paying basis, SEO has a large flow.
+- [Independent multilingual SEO landing page generation](https://www.indiehackers.com/) (Curated, 2026-10-12): Enter a product that automatically generates a page in 10 languages for sale to cross-border vendors.
+- [Notion / Obsidian Template Shop](https://gumroad.com/) (Curated, 2026-10-12): A model for study, job search, bookkeeping is sold in Gumroad, in stock.
+- [AI podcast short video slice tool](https://www.producthunt.com/) (Curated, 2026-10-12): Automatically cut the light plus subtitles and sold them to intellectuals.
+- [MCP Server Market and Hostage](https://modelcontextprotocol.io/) (Curated, 2026-10-12): The new infrastructure of the AI Age era is being sealed and hosted by MCP for in-house tools.
+- [I'm an AI clerk and tax clerk for small businesses.](https://www.indiehackers.com/) (Curated, 2026-10-12): Small, multi-currency traders in South-East Asia just needed to sign up on a monthly basis.
+- [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company) (Hacker News, 2026-10-02 21:06): 
+- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) (Hacker News, 2026-10-09 21:06): 
+- [IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) (Hacker News, 2026-10-26 01:47): 
+- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (Hacker News, 2026-10-23 19:34): 
+- [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f) (Hacker News, 2026-10-30 17:27): 
+- [DOJ says presidents should be able to sell secrets on eBay](https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/) (Hacker News, 2026-10-26 13:54): 
+- [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/) (Hacker News, 2026-10-24 19:03): 
+- [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) (Hacker News, 2026-10-30 21:30): 
+- [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks) (Hacker News, 2026-10-13 05:57): 
+- [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/) (Hacker News, 2026-10-27 19:11): 
+- [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463) (Hacker News, 2026-10-25 09:04): 
+- [AI can clone your indie game, but not its soul](https://twitter.com/robertvaradan/status/2106061989122334778) (Hacker News, 2026-10-04 03:18): 
+- [Our space game has a built-in RISC-V emulator that runs Linux](https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/) (Hacker News, 2026-10-02 10:40): 
+- [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) (Hacker News, 2026-10-03 22:07): 
+- [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1) (Hacker News, 2026-10-29 12:41): 
+- [Indigene – Native plants for where you stand](https://indigene.app/) (Hacker News, 2026-10-12 23:25): 
+- [Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5) (Hacker News, 2026-10-28 03:06): 
+- [Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims](https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment) (Hacker News, 2026-10-27 15:39): 
+- [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/) (Hacker News, 2026-10-24 04:05): 
+- [Ask HN: Do you have side-projects that generate >$500 revenue/month?](https://news.ycombinator.com/item?id=50293459) (Hacker News, 2026-10-29 18:12): 
+- [Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) (Hacker News, 2026-10-09 18:10): 
+- [Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/) (Hacker News, 2026-10-08 09:10): 
+- [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479) (Hacker News, 2026-10-30 09:17): 
+- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) (Hacker News, 2026-10-31 02:46): 
+- [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry](https://news.ycombinator.com/item?id=50193416) (Hacker News, 2026-10-22 10:11): 
+- [Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming](https://news.ycombinator.com/item?id=50167754) (Hacker News, 2026-10-20 15:20): 
+- [Anthropic Console overcharged my card 100x due to internationalization input bug](https://news.ycombinator.com/item?id=50121562) (Hacker News, 2026-10-16 17:31): 
+- [JetBrains reports revenue growth, net financial loss for 2025](https://www.helgilibrary.com/companies/jetbrains) (Hacker News, 2026-10-06 11:45): 
+- [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) (Hacker News, 2026-10-08 16:45): 
+- [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899) (Hacker News, 2026-09-18 20:02): 
+- [AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/) (Hacker News, 2026-09-29 19:21): 
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) (Hacker News, 2026-10-24 21:47): 
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185) (Hacker News, 2026-10-08 05:14): 
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) (Hacker News, 2026-09-20 17:38): 
+- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities) (Hacker News, 2026-10-23 13:41): 
+- [I built a new version of my fun spatial 3D online meeting app](https://flat.social) (Hacker News, 2026-09-17 12:57): 
+- [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser) (Hacker News, 2026-10-21 19:44): 
+- [Don't Be Nice](https://roe.dev/blog/dont-be-nice) (Hacker News, 2026-09-20 09:01): 
+- [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) (Hacker News, 2026-10-01 15:02): 
+- [Maybe don't let Muse run your Facebook Marketplace account](https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy) (Hacker News, 2026-09-28 08:15): 
+- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) (Hacker News, 2026-10-09 13:03): 
+- [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart) (Hacker News, 2026-10-29 12:33): 
+- [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a) (Hacker News, 2026-10-10 18:48): 
+- [Elon Musk Acquires $1B Stake in CNN's Parent Company](https://symby.com/news?_cid=101605177&preferredLanguage=en) (Hacker News, 2026-10-24 04:42): 
