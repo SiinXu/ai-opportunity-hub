@@ -1,6 +1,1212 @@
 {
- "latest": "2026-10-30",
+ "latest": "2026-10-31",
  "digests": [
+  {
+   "date": "2026-10-31",
+   "path": "digest/2026-10-31/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-10-30T23:30:00Z",
+   "generated": "2026-10-31T00:14:49Z",
+   "new_count": 32,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-10-31",
+    "zh-Hant": "早間技術熱點 · 2026-10-31",
+    "en": "Morning tech digest · 2026-10-31",
+    "ja": "朝のテックダイジェスト · 2026-10-31",
+    "ko": "아침 테크 다이제스트 · 2026-10-31",
+    "ms": "Ringkasan teknologi pagi · 2026-10-31",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-10-31",
+    "fr": "Digest tech du matin · 2026-10-31",
+    "es": "Resumen tecnológico matinal · 2026-10-31",
+    "de": "Morgendlicher Tech-Digest · 2026-10-31"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-10-31 07:30 自动生成：从上一期以来 OPC Radar 新收录的 32 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-10-31 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 32 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-10-31: the hottest of the 32 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-10-31 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 32 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-10-31 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 32개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-10-31: isyarat paling hangat daripada 32 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-10-31: những tín hiệu nổi bật nhất trong 32 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-10-31 : les plus marquants des 32 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-10-31: lo más destacado de las 32 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-10-31: das Wichtigste aus 32 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50305693",
+     "title": {
+      "zh-Hans": "AI不是在取代SREs 而是在消灭他们",
+      "zh-Hant": "AI不是在取代SREs 而是在消滅他們",
+      "en": "AI isn't replacing SREs, it's deskilling them",
+      "ja": "AI は SRE を置き換えるのではなく、",
+      "ko": "AI는 SRE를 대체하지 않습니다, 그것은 그들을 정리",
+      "ms": "AI tidak menggantikan SRES, itu merusak mereka",
+      "vi": "Al không thay thế SREs, nó đang bàn tán về chúng.",
+      "fr": "AI ne remplace pas les SRE, ça les tue",
+      "es": "AI no está reemplazando a SREs, les está desactivando",
+      "de": "KI ersetzt keine SREs, sondern sie"
+     },
+     "summary": {
+      "en": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
+      "zh-Hans": "当AI处理你95%的 事件反应, 你得到更糟糕 处理5% 这实际上很重要?",
+      "ja": "事故対応の95%をAIが処理する際には、実際に問題点が5%の処理で悪くなりますか?",
+      "ko": "AI가 사건 응답의 95 %를 처리 할 때 실제로 5 %를 처리하는 데 더 악화합니까?",
+      "ms": "Ketika AI menangani 95% dari respon insiden Anda, apakah Anda mendapatkan lebih buruk dalam menangani 5% yang sebenarnya penting?",
+      "vi": "Khi AI xử lý 95% phản ứng của bạn, liệu bạn có trở nên tệ hơn trong việc xử lý 5% thực sự quan trọng?",
+      "fr": "Lorsque l'IA gère 95 % de votre intervention en cas d'incident, est-ce que vous empirez en traitant les 5 % qui comptent réellement?",
+      "es": "Cuando AI maneja el 95% de su respuesta a incidentes, ¿se pone peor al manejar el 5% que realmente importa?",
+      "de": "Wenn KI 95% Ihrer Incident Response verarbeitet, werden Sie schlechter im Umgang mit den 5%, die tatsächlich wichtig sind?",
+      "zh-Hant": "當AI處理你95%的 事件反應, 你得到更糟糕 處理5% 這實際上很重要?"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 416 分 · 310 条评论",
+      "zh-Hant": "Hacker News 416 分 · 310 則留言",
+      "en": "416 points · 310 comments on Hacker News",
+      "ja": "Hacker News 416 ポイント · コメント 310 件",
+      "ko": "Hacker News 416점 · 댓글 310개",
+      "ms": "416 mata · 310 komen di Hacker News",
+      "vi": "416 điểm · 310 bình luận trên Hacker News",
+      "fr": "416 points · 310 commentaires sur Hacker News",
+      "es": "416 puntos · 310 comentarios en Hacker News",
+      "de": "416 Punkte · 310 Kommentare auf Hacker News"
+     },
+     "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+     "src": "newsletter.signoz.io",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50305693"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50300683",
+     "title": {
+      "zh-Hans": "Claude 代码中的 Claude 代码在光标市场扩展",
+      "zh-Hant": "Claude 程式碼中的 Claude 程式碼在游標市場擴充套件",
+      "en": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "ja": "Cursor MarketplaceのVSコード拡張用のClaudeコードのバックドア",
+      "ko": "Cursor Marketplace의 VS 코드 확장을위한 Claude Code의 Backdoor",
+      "ms": "Jalan belakang di Claude Code untuk VS Code ekstensi di Cursor Marketplace",
+      "vi": "Cửa sau trong Claude Code cho mở rộng mã VS trên con trỏ Market place",
+      "fr": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "es": "Backdoor en el Código Claude para la extensión del Código VS en el Mercado del Cursor",
+      "de": "Backdoor in Claude Code für VS Code Erweiterung auf dem Cursor Marketplace"
+     },
+     "summary": {
+      "en": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows.",
+      "zh-Hans": "Phorion在官方Claude代码中检测出Claude代码扩展捆绑在Cursor Marketplace上的后门将一个持久的SSH后门掉入了macOS,Linux和Windows.",
+      "ja": "Phorion は、macOS、Linux、Windows 上で永続 SSH バックドアをドロップする Cursor Marketplace の VS コード拡張バンドルの公式 Claude コードでバックドアを検出しました。",
+      "ko": "Phorion은 macOS, Linux 및 Windows에서 지속 가능한 SSH 백 도어를 삭제하는 Cursor Marketplace의 VS Code 확장 번들에 대한 공식 Claude Code의 백 도어를 감지했습니다.",
+      "ms": "Dia telah mendeteksi pintu belakang di Claude Code resmi untuk VS Code ekstensi bundel di Cursor Marketplace yang menjatuhkan SSH persisten backdoor melintasi macOS, Linux, dan Windows.",
+      "vi": "Phorion đã phát hiện một cửa sau trong bộ luật Claude Code chính thức của gói mở rộng VS Code trên khu chợ con trỏ mà thả một cửa sau tối qua MacOS, Linux và Windows.",
+      "fr": "Phorion a détecté une porte arrière dans l'extension officielle de Claude Code for VS Code sur le marché Cursor qui dépose une porte arrière SSH persistante sur macOS, Linux et Windows.",
+      "es": "Phorion ha detectado un backdoor en el paquete oficial de extensión del Código Claude para el Código VS en el Mercado de Cursor que deja caer un backdoor SSH persistente en macOS, Linux y Windows.",
+      "de": "Phorion hat eine Backdoor im offiziellen Erweiterungspaket Claude Code für VS Code auf dem Cursor Marketplace entdeckt, die eine persistente SSH-Backdoor über macOS, Linux und Windows fallen lässt.",
+      "zh-Hant": "Phorion在官方Claude程式碼中檢測出Claude程式碼擴充套件捆綁在Cursor Marketplace上的後門將一個持久的SSH後門掉入了macOS,Linux和Windows."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 655 分 · 425 条评论",
+      "zh-Hant": "Hacker News 655 分 · 425 則留言",
+      "en": "655 points · 425 comments on Hacker News",
+      "ja": "Hacker News 655 ポイント · コメント 425 件",
+      "ko": "Hacker News 655점 · 댓글 425개",
+      "ms": "655 mata · 425 komen di Hacker News",
+      "vi": "655 điểm · 425 bình luận trên Hacker News",
+      "fr": "655 points · 425 commentaires sur Hacker News",
+      "es": "655 puntos · 425 comentarios en Hacker News",
+      "de": "655 Punkte · 425 Kommentare auf Hacker News"
+     },
+     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+     "src": "phorion.io",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50300683"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50302334",
+     "title": {
+      "zh-Hans": "Claude代码正式扩展中的后门",
+      "zh-Hant": "Claude程式碼正式擴充套件中的後門",
+      "en": "Backdoors in official Claude Code extensions",
+      "ja": "Claudeの公式コード拡張のバックドア",
+      "ko": "공식 Claude Code Extensions의 Backdoors",
+      "ms": "ORANG Backdoors in official Claude Code ekstensi",
+      "vi": "Cửa sau chính thức là mã Claude",
+      "fr": "Portes arrière dans les extensions officielles de Claude Code",
+      "es": "Backdoors in official Claude Code extensions",
+      "de": "Backdoors in offiziellen Claude Code Erweiterungen"
+     },
+     "summary": {
+      "en": "Anthropic Visual Studio Claude Code extension on Cursor has malware in it, which creates a remote access Trojan to desktops. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "zh-Hans": "Cursor上的 Anthropic Visual Studio Claude 代码扩展中含有恶意软件,这创造了Trojan对桌面的远程访问. https://phorion.io/blog/offical-claude-code-vsx-compromise/ (中文(简体) ).",
+      "ja": "CursorのAnthropic Visual Studio Claude Code拡張にはマルウェアが搭載されており、リモートアクセスのTrojanをデスクトップに作成できます。 https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "ko": "Cursor의 Anthropic Visual Studio Claude Code 확장에는 원격 액세스 트로이를 데스크톱으로 만듭니다. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "ms": "Anatropic Visual Studio Claude Code ekstension on Cursor memiliki malware di dalamnya, yang menciptakan akses remote Trojan ke desktop. https://foriun.io/blog/official-claude-code-vsx-compromise/",
+      "vi": "Phần mở rộng hình ảnh trực quan của Phòng thu Claude code trên con trỏ có phần mềm độc hại, tạo ra một truy cập từ xa tới màn hình nền. https vội vàng.io/blog/offlog-clamude-vsx-comlotion/",
+      "fr": "Anthropic Visual Studio Claude Code extension sur Cursor a malware dedans, qui crée un accès à distance Trojan aux bureaux. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "es": "Antropopic Visual Studio Claude Code extension en Cursor tiene malware en él, lo que crea un acceso remoto troyano a los escritorios. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "de": "Anthropic Visual Studio Claude Code-Erweiterung auf Cursor enthält Malware, die einen Fernzugriffstrojaner für Desktops erstellt. https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "zh-Hant": "Cursor上的 Anthropic Visual Studio Claude 程式碼擴充套件中含有惡意軟體,這創造了Trojan對桌面的遠端訪問. https://phorion.io/blog/offical-claude-code-vsx-compromise/ (中文(簡體) )."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 649 分 · 17 条评论",
+      "zh-Hant": "Hacker News 649 分 · 17 則留言",
+      "en": "649 points · 17 comments on Hacker News",
+      "ja": "Hacker News 649 ポイント · コメント 17 件",
+      "ko": "Hacker News 649점 · 댓글 17개",
+      "ms": "649 mata · 17 komen di Hacker News",
+      "vi": "649 điểm · 17 bình luận trên Hacker News",
+      "fr": "649 points · 17 commentaires sur Hacker News",
+      "es": "649 puntos · 17 comentarios en Hacker News",
+      "de": "649 Punkte · 17 Kommentare auf Hacker News"
+     },
+     "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+     "src": "cyberplace.social",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50302334"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50307219",
+     "title": {
+      "zh-Hans": "Blackstone说,",
+      "zh-Hant": "Blackstone說,",
+      "en": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "ja": "Anthropicは、IPO、ブラックストーンが言うと、投資グレードの評価を保証しないかもしれない",
+      "ko": "Anthropic은 IPO 후 투자 등급을 확보 할 수 없습니다, Blackstone 말한다",
+      "ms": "Antropik mungkin tidak mengamankan tingkat investasi setelah IPO, Blackstone mengatakan",
+      "vi": "Antropic có thể không bảo đảm đánh giá cấp đầu tư sau khi IPO, Blackstone nói",
+      "fr": "Anthropique peut ne pas obtenir de notation de niveau de placement après l'IPO, Blackstone dit",
+      "es": "Antrópico puede no asegurar la calificación de nivel de inversión después de IPO, Blackstone dice",
+      "de": "Anthropic kann Investment-Grade-Rating nach IPO nicht sichern, sagt Blackstone"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 ft.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 ft.com。",
+      "en": "Shared on Hacker News; original at ft.com.",
+      "ja": "Hacker News で共有されたリンク。元記事は ft.com にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 ft.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di ft.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại ft.com.",
+      "fr": "Partagé sur Hacker News ; original sur ft.com.",
+      "es": "Compartido en Hacker News; original en ft.com.",
+      "de": "Geteilt auf Hacker News; Original auf ft.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 207 分 · 153 条评论",
+      "zh-Hant": "Hacker News 207 分 · 153 則留言",
+      "en": "207 points · 153 comments on Hacker News",
+      "ja": "Hacker News 207 ポイント · コメント 153 件",
+      "ko": "Hacker News 207점 · 댓글 153개",
+      "ms": "207 mata · 153 komen di Hacker News",
+      "vi": "207 điểm · 153 bình luận trên Hacker News",
+      "fr": "207 points · 153 commentaires sur Hacker News",
+      "es": "207 puntos · 153 comentarios en Hacker News",
+      "de": "207 Punkte · 153 Kommentare auf Hacker News"
+     },
+     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+     "src": "ft.com",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50307219"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50301983",
+     "title": {
+      "zh-Hans": "Claude 代码 VS 代码扩展, 在 Cursor 市场发布后门",
+      "zh-Hant": "Claude 程式碼 VS 程式碼擴充套件, 在 Cursor 市場釋出後門",
+      "en": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "ja": "ClaudeコードVSコードの拡張機能とバックドアがCursorマーケットプレースでリリース",
+      "ko": "Claude Code VS Code extension with backdoor released on Cursor 마켓 플레이스",
+      "ms": "Claude Code VS Code ekstensi dengan backdoor dirilis di kursor pasar",
+      "vi": "Điều luật Claude mở rộng mã VS với cửa sau phát hành trên thị trường con trỏ",
+      "fr": "Claude Code VS Extension de code avec backdoor sorti sur le marché de Cursor",
+      "es": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "de": "Claude Code VS Code-Erweiterung mit Backdoor auf Cursor-Marktplatz veröffentlicht"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 doublepulsar.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 doublepulsar.com。",
+      "en": "Shared on Hacker News; original at doublepulsar.com.",
+      "ja": "Hacker News で共有されたリンク。元記事は doublepulsar.com にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 doublepulsar.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di doublepulsar.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại doublepulsar.com.",
+      "fr": "Partagé sur Hacker News ; original sur doublepulsar.com.",
+      "es": "Compartido en Hacker News; original en doublepulsar.com.",
+      "de": "Geteilt auf Hacker News; Original auf doublepulsar.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 397 分 · 1 条评论",
+      "zh-Hant": "Hacker News 397 分 · 1 則留言",
+      "en": "397 points · 1 comments on Hacker News",
+      "ja": "Hacker News 397 ポイント · コメント 1 件",
+      "ko": "Hacker News 397점 · 댓글 1개",
+      "ms": "397 mata · 1 komen di Hacker News",
+      "vi": "397 điểm · 1 bình luận trên Hacker News",
+      "fr": "397 points · 1 commentaires sur Hacker News",
+      "es": "397 puntos · 1 comentarios en Hacker News",
+      "de": "397 Punkte · 1 Kommentare auf Hacker News"
+     },
+     "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+     "src": "doublepulsar.com",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50301983"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50306442",
+     "title": {
+      "zh-Hans": "Qwen 重量 ~ 1GB 的任天堂工作",
+      "zh-Hant": "Qwen 重量 ~ 1GB 的任天堂工作",
+      "en": "A working Nintendo in ~1GB of Qwen weights",
+      "ja": "Qwenの重量の1GBの作業ニンテンドー",
+      "ko": "Qwen 무게의 ~1GB에서 닌텐도 작업",
+      "ms": "Nintendo yang bekerja di ~1GB berat Qwen",
+      "vi": "Name",
+      "fr": "Un Nintendo de travail en ~1 Go de poids Qwen",
+      "es": "Un Nintendo en ~1 GB de pesos de Qwen",
+      "de": "Ein funktionierender Nintendo in ~ 1 GB Qwen-Gewichten"
+     },
+     "summary": {
+      "en": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
+      "zh-Hans": "一个NES CPU编译成一个股票Qwen3.5模型的权重",
+      "ja": "NES CPUは、Qwen3.5モデルの重さにコンパイル",
+      "ko": "주식 Qwen3.5 모형의 무게로 컴파일된 NES CPU",
+      "ms": "Sebuah CPU NES yang disusun ke dalam bobot model Qwen3,5 stok",
+      "vi": "Một CPU NES được biên dịch vào khối lượng của một mô hình cổ phiếu Qwen3.5",
+      "fr": "Un CPU NES compilé dans les poids d'un modèle Qwen3.5 stock",
+      "es": "Una CPU NES compiló en los pesos de un modelo de stock Qwen3.5",
+      "de": "Eine NES-CPU, die in die Gewichte eines Aktienmodells Qwen3.5 kompiliert wurde",
+      "zh-Hant": "一個NES CPU編譯成一個股票Qwen3.5模型的權重"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 143 分 · 98 条评论",
+      "zh-Hant": "Hacker News 143 分 · 98 則留言",
+      "en": "143 points · 98 comments on Hacker News",
+      "ja": "Hacker News 143 ポイント · コメント 98 件",
+      "ko": "Hacker News 143점 · 댓글 98개",
+      "ms": "143 mata · 98 komen di Hacker News",
+      "vi": "143 điểm · 98 bình luận trên Hacker News",
+      "fr": "143 points · 98 commentaires sur Hacker News",
+      "es": "143 puntos · 98 comentarios en Hacker News",
+      "de": "143 Punkte · 98 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/dbreunig/nesformer",
+     "src": "github.com",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50306442"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50301479",
+     "title": {
+      "zh-Hans": "问韩:你在这个AI时代也累了吗?",
+      "zh-Hant": "問韓:你在這個AI時代也累了嗎?",
+      "en": "Ask HN: Are you tired too in this AI era?",
+      "ja": "HNを尋ねる:このAI時代の疲れすぎですか?",
+      "ko": "HN: 이 AI 시대에 너무 피곤?",
+      "ms": "Apakah Anda lelah juga di era AI ini?",
+      "vi": "Bạn có mệt mỏi trong thời đại AI này không?",
+      "fr": "Demandez à HN: Êtes-vous fatigué aussi à cette époque de l'IA?",
+      "es": "Pregunta HN: ¿Estás cansado también en esta era AI?",
+      "de": "Fragen Sie HN: Sind Sie auch in dieser KI-Ära müde?"
+     },
+     "summary": {
+      "en": "Although AI lets us do much more, I feel considerably more tired than before. We need to keep track of many things happening in parallel and read enormous amounts of generated text.",
+      "zh-Hans": "虽然AI让我们做更多的事情,但我觉得比以前要累得多. 我们需要同时跟踪许多情况,阅读大量产生的文本。",
+      "ja": "AIはもっと多くのことをやりたいのですが、以前よりもかなり疲れている感じです。 生成されたテキストの膨大な量を並列して読み込むことで、多くのことが起き続ける必要があります。",
+      "ko": "AI는 우리가 훨씬 더 할 수 있지만, 전보다 상당히 피곤합니다. 우리는 병렬에서 일어나는 많은 것들을 추적하고 생성 된 텍스트의 엄청난 금액을 읽을 필요가있다.",
+      "ms": "Meskipun AI membiarkan kita berbuat lebih banyak, saya merasa jauh lebih lelah daripada sebelumnya. Kita perlu mencatat banyak hal yang terjadi secara paralel dan membaca sejumlah besar teks yang dihasilkan.",
+      "vi": "Dù AI cho phép chúng tôi làm nhiều hơn, nhưng tôi cảm thấy mệt mỏi hơn trước. Chúng ta cần theo dõi nhiều thứ xảy ra song song và đọc một lượng lớn các văn bản được tạo ra.",
+      "fr": "Bien que l'IA nous laisse faire beaucoup plus, je me sens beaucoup plus fatigué qu'avant. Nous devons garder une trace de beaucoup de choses qui se passent en parallèle et lire d'énormes quantités de texte généré.",
+      "es": "Aunque AI nos deja hacer mucho más, me siento considerablemente más cansado que antes. Necesitamos seguir muchas cosas sucediendo en paralelo y leer enormes cantidades de texto generado.",
+      "de": "Obwohl KI uns viel mehr tun lässt, fühle ich mich deutlich müder als zuvor. Wir müssen viele Dinge, die parallel passieren, im Auge behalten und enorme Mengen an generiertem Text lesen.",
+      "zh-Hant": "雖然AI讓我們做更多的事情,但我覺得比以前要累得多. 我們需要同時跟蹤許多情況,閱讀大量產生的文字。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 134 分 · 130 条评论",
+      "zh-Hant": "Hacker News 134 分 · 130 則留言",
+      "en": "134 points · 130 comments on Hacker News",
+      "ja": "Hacker News 134 ポイント · コメント 130 件",
+      "ko": "Hacker News 134점 · 댓글 130개",
+      "ms": "134 mata · 130 komen di Hacker News",
+      "vi": "134 điểm · 130 bình luận trên Hacker News",
+      "fr": "134 points · 130 commentaires sur Hacker News",
+      "es": "134 puntos · 130 comentarios en Hacker News",
+      "de": "134 Punkte · 130 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50301479",
+     "src": "news.ycombinator.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50305573",
+     "title": {
+      "zh-Hans": "联邦密码伪造",
+      "zh-Hant": "聯邦密碼偽造",
+      "en": "The federated code forge",
+      "ja": "フェデレーションされたコードフォージ",
+      "ko": "federated 코드 forge",
+      "ms": "Kode palsu Federated",
+      "vi": "Bộ mã liên kết",
+      "fr": "La forge de code fédérée",
+      "es": "La forja de código federado",
+      "de": "Die Federalated Code Forge"
+     },
+     "summary": {
+      "en": "For most of the past two decades, the code forge has been where projects live: where code is hosted, where changes are reviewed, and where contributors find each other.",
+      "zh-Hans": "在过去20年中的大部分时间里,代码的伪造一直是项目所居住的地方:代码托管地,修改审查地,以及贡献者互相发现的地方.",
+      "ja": "過去2年間、コード・フォージは、コードがホストされている場所、変更がレビューされる場所、コントリビューターが互いに見つけられる場所である。",
+      "ko": "지난 수십 년 동안, 코드 forge는 프로젝트가 살고있는 곳이었습니다. 코드가 호스팅되는 곳, 변경 사항이 검토되고 기여자가 서로 찾을 수있는 곳.",
+      "ms": "Selama sebagian besar dari dua dekade terakhir, kode tempa telah menjadi tempat tinggal proyek: di mana kode dihost, di mana perubahan ditinjau, dan di mana kontributor menemukan satu sama lain.",
+      "vi": "Trong suốt hai thập kỷ qua, xưởng lập mã đã ở nơi các dự án sống: nơi có mã số, nơi có sự thay đổi được xem xét, và nơi những người đóng góp tìm thấy nhau.",
+      "fr": "Pendant la plupart des deux dernières décennies, la forge de code a été où les projets vivent : où le code est hébergé, où les changements sont examinés et où les contributeurs se trouvent.",
+      "es": "Durante la mayoría de las dos últimas décadas, la forja de códigos ha sido donde viven los proyectos: donde se hospeda el código, donde se revisan los cambios y donde los contribuyentes se encuentran.",
+      "de": "In den letzten zwei Jahrzehnten war die Codeschmiede der Ort, an dem Projekte leben: wo Code gehostet wird, wo Änderungen überprüft werden und wo sich die Mitwirkenden finden.",
+      "zh-Hant": "在過去20年中的大部分時間裡,程式碼的偽造一直是專案所居住的地方:程式碼託管地,修改審查地,以及貢獻者互相發現的地方."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 179 分 · 62 条评论",
+      "zh-Hant": "Hacker News 179 分 · 62 則留言",
+      "en": "179 points · 62 comments on Hacker News",
+      "ja": "Hacker News 179 ポイント · コメント 62 件",
+      "ko": "Hacker News 179점 · 댓글 62개",
+      "ms": "179 mata · 62 komen di Hacker News",
+      "vi": "179 điểm · 62 bình luận trên Hacker News",
+      "fr": "179 points · 62 commentaires sur Hacker News",
+      "es": "179 puntos · 62 comentarios en Hacker News",
+      "de": "179 Punkte · 62 Kommentare auf Hacker News"
+     },
+     "url": "https://tangled.org/blog/forge/",
+     "src": "tangled.org",
+     "date": "2026-10-30",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50305573"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50304358",
+     "title": {
+      "zh-Hans": "视频游戏重写时的Anthropic Cracking Down",
+      "zh-Hant": "影片遊戲重寫時的Anthropic Cracking Down",
+      "en": "Anthropic Cracking Down on Video Game Rewrites",
+      "ja": "ビデオゲームの書き換えに解凍",
+      "ko": "Anthropic Cracking 아래로 에 비디오 Game Rewrites",
+      "ms": "Penghancuran Antropis Turun pada Permainan Video Tulis Ulang",
+      "vi": "Name",
+      "fr": "Anthropic Cracking Down sur le jeu vidéo réécrit",
+      "es": "Antrópico Cracking Down on Video Game Rewrites",
+      "de": "Anthropisches Cracking Down auf Video Game Rewrites"
+     },
+     "summary": {
+      "en": "ANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨 Claude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\".",
+      "zh-Hans": "大约10月27日, 由Anthropic的服务器发送,",
+      "ja": "ANTHROPICは、VIDEO GAME REWRITES の CRACKING DOWN で、Anthropic のサーバーから \"tengu heron brook\" というフラグで送られた10月27日頃の新しいルールをピックアップしました。",
+      "ko": "ANTHROPIC는 VIDEO GAME REWRITES 의 CRACKING DOWN 이며, 10월 27일, Anthropic의 서버에서 \"tengu heron brook\"라고 부르는 새로운 규칙을 선택했습니다.",
+      "ms": "LAUTAN ANTHROPIC DI RACAK ON VIDEO GAME REWRIITES 🚨 Kode Claude mengambil aturan baru sekitar Oct 27, dikirim dari server Anthropic di bawah bendera bernama Ütengu heron brook\".",
+      "vi": "ATHROPRIC đang tắt máy tính của VULO ReWME Mã Claude bắt được một quy tắc mới quanh Oct 27, gửi từ máy chủ của Antropic dưới một lá cờ gọi là \"tengu heron brook\".",
+      "fr": "ANTHROPIC CRACKING DOWN on VIDEO GAME REWRITES . Claude Code a repris une nouvelle règle autour du 27 octobre, envoyé des serveurs d'Anthropics sous un drapeau appelé \"tengu heron brook\".",
+      "es": "ANTHROPIC ES CRACKING DOWN ON VIDEO GAME REWRITES ▷ Claude Code recogió una nueva regla alrededor del 27 de octubre, enviada desde los servidores de Antropopic bajo una bandera llamada \"tengu heron brook\".",
+      "de": "ANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨 Claude Code nahm eine neue Regel um den 27. Oktober herum auf, die von den Servern von Anthropic unter einer Flagge namens \"tengu heron brook\" gesendet wurde.",
+      "zh-Hant": "大約10月27日, 由Anthropic的伺服器傳送,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 93 分 · 95 条评论",
+      "zh-Hant": "Hacker News 93 分 · 95 則留言",
+      "en": "93 points · 95 comments on Hacker News",
+      "ja": "Hacker News 93 ポイント · コメント 95 件",
+      "ko": "Hacker News 93점 · 댓글 95개",
+      "ms": "93 mata · 95 komen di Hacker News",
+      "vi": "93 điểm · 95 bình luận trên Hacker News",
+      "fr": "93 points · 95 commentaires sur Hacker News",
+      "es": "93 puntos · 95 comentarios en Hacker News",
+      "de": "93 Punkte · 95 Kommentare auf Hacker News"
+     },
+     "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+     "src": "twitter.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50295450",
+     "title": {
+      "zh-Hans": "一个在Raspberry Pi Pico 2 W上运行游戏的微小世界模型",
+      "zh-Hant": "一個在Raspberry Pi Pico 2 W上執行遊戲的微小世界模型",
+      "en": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "ja": "ラズベリーPi Pico 2 Wでゲームを実行している小さな世界モデル",
+      "ko": "라즈베리 파이 Pico 2 W의 작은 세계 모델 실행 게임",
+      "ms": "Sebuah model dunia kecil permainan lari pada Raspberry Pi Pico 2 W",
+      "vi": "Một trò chơi thế giới nhỏ trên một trò chơi Raspberry Pico 2 W",
+      "fr": "Un petit modèle mondial de jeux en cours sur un Raspberry Pi Pico 2 W",
+      "es": "Un pequeño modelo mundial que ejecuta juegos en un Raspberry Pico 2 W",
+      "de": "Ein kleines Weltmodell läuft Spiele auf einem Raspberry Pi Pico 2 W"
+     },
+     "summary": {
+      "en": "Tiny world model generates games and stream ac plays them all on Pico 2W",
+      "zh-Hans": "小世界模型生成游戏,而流出Ac在Pico 2W上全部播放",
+      "ja": "小さな世界モデルは、ゲームを生成し、acをストリームは、すべてのPico 2Wで再生します",
+      "ko": "작은 세계 모델은 게임을 생성하고 ac는 Pico 2W에 모두 재생",
+      "ms": "Model dunia Tiny Tiny menghasilkan game dan stream ac memainkan mereka semua pada Pico 2W",
+      "vi": "Mô hình thế giới nhỏ bé tạo ra trò chơi và dòng kênh ac chơi tất cả trên Pico 2W",
+      "fr": "Petit modèle mondial génère des jeux et stream ac joue tous sur Pico 2W",
+      "es": "El pequeño modelo mundial genera juegos y el ac de stream juega todos en Pico 2W",
+      "de": "Tiny world model generiert spiele und stream ac spielt sie alle auf pico 2w.",
+      "zh-Hant": "小世界模型生成遊戲,而流出Ac在Pico 2W上全部播放"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 268 分 · 18 条评论",
+      "zh-Hant": "Hacker News 268 分 · 18 則留言",
+      "en": "268 points · 18 comments on Hacker News",
+      "ja": "Hacker News 268 ポイント · コメント 18 件",
+      "ko": "Hacker News 268점 · 댓글 18개",
+      "ms": "268 mata · 18 komen di Hacker News",
+      "vi": "268 điểm · 18 bình luận trên Hacker News",
+      "fr": "268 points · 18 commentaires sur Hacker News",
+      "es": "268 puntos · 18 comentarios en Hacker News",
+      "de": "268 Punkte · 18 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/SheepSeb/tinyworldformer",
+     "src": "github.com",
+     "date": "2026-10-29",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50307723",
+     "title": {
+      "zh-Hans": "GitHub 动作事件、 页和 Webhooks",
+      "zh-Hant": "GitHub 動作事件、 頁和 Webhooks",
+      "en": "GitHub Incident with Actions, Pages, and Webhooks",
+      "ja": "GitHub アクション、ページ、Webhooks とのインシデント",
+      "ko": "GitHub는 Actions, Pages 및 Webhooks와 함께",
+      "ms": "Insiden GitHub dengan Aksi, Halaman, dan Webhooks",
+      "vi": "Comment",
+      "fr": "Incident GitHub avec actions, pages et Webhooks",
+      "es": "GitHub Incident with Actions, Pages, and Webhooks",
+      "de": "GitHub Incident mit Aktionen, Seiten und Webhooks"
+     },
+     "summary": {
+      "en": "GitHub's Status Page - Incident with Actions, Pages, and Webhooks.",
+      "zh-Hans": "GitHub的状态页面 - 有动作的事件,页面,和Webhooks.",
+      "ja": "GitHubのステータスページ - アクション、ページ、およびWebhooksとインシデントします。",
+      "ko": "GitHub의 상태 페이지 - Actions, Pages, Webhooks에 대한 지원.",
+      "ms": "Halaman Status gitHub - Insiden dengan Aksi, Halaman, dan Webhooks.",
+      "vi": "Trang trạng thái của GitHub - kiện tụng hành động, trang và Webkioks.",
+      "fr": "Page d'état de GitHub - Incident avec des actions, des pages et des Webhooks.",
+      "es": "GitHub's Status Page - Incident with Actions, Pages, and Webhooks.",
+      "de": "GitHubs Statusseite - Vorfall mit Aktionen, Seiten und Webhooks.",
+      "zh-Hant": "GitHub的狀態頁面 - 有動作的事件,頁面,和Webhooks."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 119 分 · 46 条评论",
+      "zh-Hant": "Hacker News 119 分 · 46 則留言",
+      "en": "119 points · 46 comments on Hacker News",
+      "ja": "Hacker News 119 ポイント · コメント 46 件",
+      "ko": "Hacker News 119점 · 댓글 46개",
+      "ms": "119 mata · 46 komen di Hacker News",
+      "vi": "119 điểm · 46 bình luận trên Hacker News",
+      "fr": "119 points · 46 commentaires sur Hacker News",
+      "es": "119 puntos · 46 comentarios en Hacker News",
+      "de": "119 Punkte · 46 Kommentare auf Hacker News"
+     },
+     "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+     "src": "githubstatus.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50305637",
+     "title": {
+      "zh-Hans": "Florilegium: LaTeX 程序花",
+      "zh-Hant": "Florilegium: LaTeX 程式花",
+      "en": "Florilegium: Procedural Flowers in LaTeX",
+      "ja": "Florilegium:LaTeXの手続き型花",
+      "ko": "Florilegium: LaTeX의 꽃",
+      "ms": "Florilegium: Bunga Prosedur di LaTeX",
+      "vi": "Florilegium: Những bông hoa cổ điển ở LaTex",
+      "fr": "Florilegium: Fleurs procédurales à LaTeX",
+      "es": "Florilegium: Flores de procedimiento en LaTeX",
+      "de": "Florilegium: Prozedurale Blumen in LaTeX"
+     },
+     "summary": {
+      "en": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "zh-Hans": "在Lua绘制的LuaLaTeX 程序生成 Delft- Blue Plantal 页面边距",
+      "ja": "LuaLaTeXで描画されたDelft-blueフローラルページマージンを生成",
+      "ko": "LuaLaTeX에 대한 Procedurally 생성 된 Delft-blue 꽃 페이지 마진, Lua에서 그려",
+      "ms": "Secara prosedur dihasilkan Delft-blue floral page margin untuk LuaLaTeX, digambar di Lua",
+      "vi": "Các lề trang màu xanh lá cây được dự kiến tạo ra cho LuaLaTeX, được vẽ ở Lua",
+      "fr": "La procédure a généré des marges de pages florales bleu Delft pour LuaLaTeX, dessinées en Lua",
+      "es": "Proceduralmente generados Delft-blue floral page margins for LuaLaTeX, dibujado en Lua",
+      "de": "Prozedural generierte Delft-blaue Blumenseitenränder für LuaLaTeX, gezeichnet in Lua",
+      "zh-Hant": "在Lua繪製的LuaLaTeX 程式生成 Delft- Blue Plantal 頁面邊距"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 161 分 · 29 条评论",
+      "zh-Hant": "Hacker News 161 分 · 29 則留言",
+      "en": "161 points · 29 comments on Hacker News",
+      "ja": "Hacker News 161 ポイント · コメント 29 件",
+      "ko": "Hacker News 161점 · 댓글 29개",
+      "ms": "161 mata · 29 komen di Hacker News",
+      "vi": "161 điểm · 29 bình luận trên Hacker News",
+      "fr": "161 points · 29 commentaires sur Hacker News",
+      "es": "161 puntos · 29 comentarios en Hacker News",
+      "de": "161 Punkte · 29 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/kevinraymond/florilegium",
+     "src": "github.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50297697",
+     "title": {
+      "zh-Hans": "我把DOM变成变形器",
+      "zh-Hant": "我把DOM變成變形器",
+      "en": "I Turned DOOM into a Transformer",
+      "ja": "変圧器にDOOMを回しました",
+      "ko": "나는 DOOM을 변압기로 돌았습니다.",
+      "ms": "Aku berubah DOOM menjadi Transformer",
+      "vi": "Tôi đã biến DOOOO thành một người biến hình",
+      "fr": "J'ai transformé DOOM en transformateur",
+      "es": "He convertido a DOOM en un transformador",
+      "de": "Ich habe DOOM in einen Transformer verwandelt"
+     },
+     "summary": {
+      "en": "Compile an integer neural network into a DOOM map. Voodoo dolls do the arithmetic, light levels and plane heights hold the values, and every value is checked against NumPy with tolerance 0.",
+      "zh-Hans": "将整数神经网络编译为DOOM地图. 巫花玩偶做算术,光平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平",
+      "ja": "整数ニューラルネットワークをDOOMマップにコンパイルします。 Voodooの人形は、算術、光レベル、平面の高さは値を保持し、すべての値は公差0でNumPyに対してチェックされます。",
+      "ko": "integer neural network를 DOOM 맵으로 컴파일합니다. Voodoo 인형은 arithmetic, 빛 수준 및 비행기 높이가 값을 잡고 모든 값은 공차 0과 NumPy에 대해 확인됩니다.",
+      "ms": "Kompile sebuah jaringan saraf integer ke dalam peta DOOM. Boneka voodoo melakukan aritmetika, tingkat cahaya dan ketinggian pesawat memegang nilai, dan setiap nilai diperiksa terhadap NumPy dengan toleransi 0.",
+      "vi": "Kết hợp một mạng thần kinh số nguyên thành một bản đồ DOOO. búp bê Voodoo làm số học, mức độ sáng và độ cao máy bay giữ các giá trị, và mọi giá trị được kiểm tra chống lại NumPy với sự khoan dung 0.",
+      "fr": "Compilez un réseau neuronal entier dans une carte DOOM. Les poupées vaudou font l'arithmétique, les niveaux de lumière et les hauteurs planes maintiennent les valeurs, et chaque valeur est vérifiée par NumPy avec tolérance 0.",
+      "es": "Compilar una red neuronal integrada en un mapa DOOM. Las muñecas Voodoo hacen los niveles aritméticos, ligeros y alturas de plano mantienen los valores, y cada valor se verifica contra NumPy con tolerancia 0.",
+      "de": "Kompilieren Sie ein ganzzahliges neuronales Netzwerk in eine DOOM-Karte. Voodoo-Puppen machen die Arithmetik, Lichtpegel und Ebenenhöhen halten die Werte, und jeder Wert wird mit NumPy mit Toleranz 0 überprüft.",
+      "zh-Hant": "將整數神經網路編譯為DOOM地圖. 巫花玩偶做算術,光平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平平"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 122 分 · 36 条评论",
+      "zh-Hant": "Hacker News 122 分 · 36 則留言",
+      "en": "122 points · 36 comments on Hacker News",
+      "ja": "Hacker News 122 ポイント · コメント 36 件",
+      "ko": "Hacker News 122점 · 댓글 36개",
+      "ms": "122 mata · 36 komen di Hacker News",
+      "vi": "122 điểm · 36 bình luận trên Hacker News",
+      "fr": "122 points · 36 commentaires sur Hacker News",
+      "es": "122 puntos · 36 comentarios en Hacker News",
+      "de": "122 Punkte · 36 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/mottopanikeiku/doomformer",
+     "src": "github.com",
+     "date": "2026-10-29",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50300618",
+     "title": {
+      "zh-Hans": "Arsaze – 用于视频编辑的光标( Tab 完成和代理编辑)",
+      "zh-Hant": "Arsaze – 用於影片編輯的游標( Tab 完成和代理編輯)",
+      "en": "Arsaze – Cursor for video editing (Tab-complete and agent edits)",
+      "ja": "Arsaze – ビデオ編集用のカーサー (タブコンプリートとエージェント編集)",
+      "ko": "Arsaze - 비디오 편집을위한 커서 (Tab-complete 및 Agent 편집)",
+      "ms": "Ogodon Arsaze – Kursor untuk penyuntingan video (Tab-lengkap dan suntingan agen)",
+      "vi": "Comment",
+      "fr": "Arsaze – Curseur pour l'édition vidéo (Tab-complet et les modifications d'agent)",
+      "es": "Arsaze – Cursor para la edición de vídeo (Tab-complete y ediciones de agentes)",
+      "de": "Arsaze – Cursor für Videobearbeitung (Tab-complete und Agent Edits)"
+     },
+     "summary": {
+      "en": "Arsaze is Cursor for video editing: the AI-native video editor for agents and humans. Your AI edits a real multi-track timeline over MCP while you watch, every edit is versioned, and clients review…",
+      "zh-Hans": "Arsaze是用于视频编辑的Cursor:用于代理和人类的AI-本土视频编辑. 您的AI通过MCP编辑一个真实的多轨时间表,同时您观看,每个编辑都是版本的,客户端审查. .",
+      "ja": "Arsaze は、エージェントや人のための AI ネイティブ ビデオ エディターを編集するための Cursor です。 AI は、MCP 上で、実際のマルチトラックのタイムラインを編集し、すべての編集はバージョンアップされ、クライアントはレビューします。",
+      "ko": "Arsaze는 비디오 편집을위한 Cursor입니다. 에이전트 및 인간을위한 AI-native 비디오 편집기. AI는 MCP를 통해 실제 멀티 트랙 타임 라인을 편집하고, 모든 편집은 버전화되고, 클라이언트 검토 ...",
+      "ms": "Other Arsaze adalah kursor untuk penyuntingan video: editor video AI-native untuk agen dan manusia. AI Anda mengedit garis waktu multi-track nyata atas MCP sementara Anda menonton, setiap edit diversi, dan klien review ...",
+      "vi": "Arsaze là con trỏ cho biên tập phim: trình biên tập phim AI-native cho các tác nhân và con người. trí tuệ nhân tạo của bạn chỉnh sửa một dòng thời gian thực sự đa kênh trên MCP trong khi bạn xem, mỗi chỉnh sửa được phiên bản, và các khách hàng xem xét...",
+      "fr": "Arsaze est Cursor pour le montage vidéo : l'éditeur de vidéo pour agents et humains. Votre AI modifie une vraie chronologie multi-pistes sur MCP pendant que vous regardez, chaque modification est versionnée, et les clients examinent...",
+      "es": "Arsaze es Cursor para la edición de vídeo: el editor de vídeo nativo de AI para agentes y humanos. Su IA edita una línea de tiempo multi-track real sobre MCP mientras observa, cada edición está versionada y los clientes revisan...",
+      "de": "Arsaze ist Cursor für Videobearbeitung: der AI-native Video-Editor für Agenten und Menschen. Ihre KI bearbeitet eine echte Multi-Track-Timeline über MCP, während Sie zuschauen, jede Bearbeitung ist versioniert und die Clients...",
+      "zh-Hant": "Arsaze是用於影片編輯的Cursor:用於代理和人類的AI-本土影片編輯. 您的AI透過MCP編輯一個真實的多軌時間表,同時您觀看,每個編輯都是版本的,客戶端審查. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 60 分 · 0 条评论",
+      "zh-Hant": "Hacker News 60 分 · 0 則留言",
+      "en": "60 points · 0 comments on Hacker News",
+      "ja": "Hacker News 60 ポイント · コメント 0 件",
+      "ko": "Hacker News 60점 · 댓글 0개",
+      "ms": "60 mata · 0 komen di Hacker News",
+      "vi": "60 điểm · 0 bình luận trên Hacker News",
+      "fr": "60 points · 0 commentaires sur Hacker News",
+      "es": "60 puntos · 0 comentarios en Hacker News",
+      "de": "60 Punkte · 0 Kommentare auf Hacker News"
+     },
+     "url": "https://www.arsaze.com",
+     "src": "arsaze.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50299182",
+     "title": {
+      "zh-Hans": "CVE-2026-98432: Linux TCP 后空置风险和补丁验证",
+      "zh-Hant": "CVE-2026-98432: Linux TCP 後空置風險和補丁驗證",
+      "en": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "ja": "CVE-2026-98432: Linux TCP 使用後リスクとパッチ検証",
+      "ko": "CVE-2026-98432: 리눅스 TCP 사용 후 무료 위험과 패치 검증",
+      "ms": "CVE-2026-98432: Pengesahan Penggunaan TCP Linux-After-Free dan Validasi Patch",
+      "vi": "CVE-26-98433: Linux TCP sử dụng sau khi tự do rủi ro và đắp vá",
+      "fr": "CVE-2026-98432: Linux TCP Utilisation après validation des risques et des patchs",
+      "es": "CVE-2026-98432: Linux TCP Riesgo sin uso y validación de parches",
+      "de": "CVE-2026-98432: Linux TCP Use-After-Free Risk und Patch Validation"
+     },
+     "summary": {
+      "en": "CVE-2026-98432: check Go MPTCP listeners, AWS and Amazon Linux fixes, Proxmox kernels, AlmaLinux status and patch verification after reboot.",
+      "zh-Hans": "CVE-2026-98432: 请检查access-date=中的日期值 (帮助) Go MPTCP收听器,AWS和Amazon Linux修正,Proxmox内核,AlmaLinux状态和重启后补丁校验.",
+      "ja": "CVE-2026-98432: 再起動後にMPTCPリスナー、AWS、Amazon Linuxの修正、Proxmoxカーネル、AlmaLinuxのステータスとパッチ検証をチェックします。",
+      "ko": "CVE-2026-98432 : Go MPTCP 청취자, AWS 및 Amazon Linux 수정, Proxmox 커널, AlmaLinux 상태 및 패치 검증을 재부팅 후 확인하십시오.",
+      "ms": "AWS dan Amazon Linux fixes, Proxmox kernels, status AlmaLinux dan patch verifikasi setelah reboot.",
+      "vi": "CVE-26-98433: Kiểm tra thính giả MPTCP, AWS và Amazon Linux sửa chữa các hạt nhân Proxmox, AlmaLinux trạng thái và xác thực bản vá sau khi khởi động lại.",
+      "fr": "CVE-2026-98432: vérifiez les correctifs Go MPTCP, AWS et Amazon Linux, les noyaux Proxmox, l'état AlmaLinux et la vérification des correctifs après le redémarrage.",
+      "es": "CVE-2026-98432: verifique los oyentes Go MPTCP, AWS y Amazon Linux fixes, kernels Proxmox, estado AlmaLinux y verificación de parches después del reinicio.",
+      "de": "CVE-2026-98432: Überprüfen Sie Go MPTCP-Hörer, AWS- und Amazon-Linux-Fixes, Proxmox-Kernel, AlmaLinux-Status und Patch-Verifizierung nach dem Neustart.",
+      "zh-Hant": "CVE-2026-98432: 請檢查access-date=中的日期值 (幫助) Go MPTCP收聽器,AWS和Amazon Linux修正,Proxmox核心,AlmaLinux狀態和重啟後補丁校驗."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 63 分 · 39 条评论",
+      "zh-Hant": "Hacker News 63 分 · 39 則留言",
+      "en": "63 points · 39 comments on Hacker News",
+      "ja": "Hacker News 63 ポイント · コメント 39 件",
+      "ko": "Hacker News 63점 · 댓글 39개",
+      "ms": "63 mata · 39 komen di Hacker News",
+      "vi": "63 điểm · 39 bình luận trên Hacker News",
+      "fr": "63 points · 39 commentaires sur Hacker News",
+      "es": "63 puntos · 39 comentarios en Hacker News",
+      "de": "63 Punkte · 39 Kommentare auf Hacker News"
+     },
+     "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+     "src": "penligent.ai",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50299004",
+     "title": {
+      "zh-Hans": "Lasm – 用 Lean 为节点/ 服务器/ 尖端写入正式验证的 Webapps",
+      "zh-Hant": "Lasm – 用 Lean 為節點/ 伺服器/ 尖端寫入正式驗證的 Webapps",
+      "en": "Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "ja": "Lasm – Node/serverless/edge 用の Lean で正式に検証された Webapp を書く",
+      "ko": "Lasm – Node/serverless/edge를 위한 Lean에서 formally 검증된 웹앱 작성",
+      "ms": "Wadam – Tulis webapp yang disahkan secara resmi di Lean untuk Node/serverless/edge",
+      "vi": "Lasm – Ghi chính thức kiểm tra các giao diện Mạng ở độ nghiêng cho « Node/ serverless/edge »",
+      "fr": "Lasm – Écrire des applications web vérifiées officiellement dans Lean pour Noeud/serverless/edge",
+      "es": "Lasm – Escribe aplicaciones web verificadas formalmente en Lean para Node/serverless/edge",
+      "de": "Lasm - Schreiben Sie formal verifizierte Webapps in Lean für Node / Serverless / Edge"
+     },
+     "summary": {
+      "en": "Lean for JavaScript and WebAssembly runtimes",
+      "zh-Hans": "JavaScript 和 Web Assembly 运行时间的精度",
+      "ja": "JavaScriptとWebAssemblyのランタイムのリーン",
+      "ko": "JavaScript 및 WebAssembly runtimes에 대한 대출",
+      "ms": "Lean untuk JavaScript dan WebAssembly runtimes",
+      "vi": "Lean for JavaScript and WebAssembly runtimes",
+      "fr": "Lean pour JavaScript et WebAssembly runtimes",
+      "es": "Objetivo JavaScript y tiempo de ejecución WebAssembly",
+      "de": "Lean für JavaScript und WebAssembly Laufzeiten",
+      "zh-Hant": "JavaScript 和 Web Assembly 執行時間的精度"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 34 分 · 20 条评论",
+      "zh-Hant": "Hacker News 34 分 · 20 則留言",
+      "en": "34 points · 20 comments on Hacker News",
+      "ja": "Hacker News 34 ポイント · コメント 20 件",
+      "ko": "Hacker News 34점 · 댓글 20개",
+      "ms": "34 mata · 20 komen di Hacker News",
+      "vi": "34 điểm · 20 bình luận trên Hacker News",
+      "fr": "34 points · 20 commentaires sur Hacker News",
+      "es": "34 puntos · 20 comentarios en Hacker News",
+      "de": "34 Punkte · 20 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/Millillion/lasm",
+     "src": "github.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50305025",
+     "title": {
+      "zh-Hans": "北岸突围",
+      "zh-Hant": "北岸突圍",
+      "en": "Northflank Breached",
+      "ja": "ノースフランク・ブリーチ",
+      "ko": "북한 Breached",
+      "ms": "Pasukan Utara menyerang",
+      "vi": "Gió Bắc nổi dậy",
+      "fr": "Lac-Nord",
+      "es": "Northflank Breached",
+      "de": "Northflank verletzt"
+     },
+     "summary": {
+      "en": "Security incident Identified · Major outage Update · October 30, 2026 at 11:38 PM UTC Users have reported unauthorised use of AI API keys supplied to the Northflank platform.",
+      "zh-Hans": "• 2026年10月30日协调世界时11:38 用户报告未经授权使用提供给Northflank平台的AI API密钥.",
+      "ja": "セキュリティーインシデント 識別・メジャーアウトエイジ更新・10月30日、11:38 PM UTC ユーザーは、Northflankプラットフォームに供給されたAI APIキーの不正使用を報告しました。",
+      "ko": "보안 사고 식별 · 주요 정전 업데이트 · 10 월 30, 2026 at 11:38 PM UTC 사용자는 Northflank 플랫폼에 공급된 AI API 열쇠의 unauthorised 사용을 보고했습니다.",
+      "ms": "Insiden Security Security Indentified · Mayor outage Update · 30 Oktober 2026 at 11:38 PM UTC Pengguna telah melaporkan penggunaan tidak sah kunci AI API yang diberikan ke platform Northflank.",
+      "vi": "Sự cố an ninh được xác định là · Thiếu tá cập nhật ngày 30 tháng 10 năm 2026 tại 11 giờ 38 chiều UTC Người dùng đã báo cáo rằng việc sử dụng các phím Al API không có thẩm quyền cung cấp cho nền tảng phía Bắc.",
+      "fr": "incident de sécurité identifié · Mise à jour sur les pannes majeures · 30 octobre 2026 à 23h38 UTC Les utilisateurs ont signalé une utilisation non autorisée des clés API AI fournies à la plate-forme Northflank.",
+      "es": "Efecto de seguridad identificado · Actualización de salida mayor · 30 de octubre de 2026 a las 11:38 PM UTC Los usuarios han reportado el uso no autorizado de las claves de API AI suministradas a la plataforma Northflank.",
+      "de": "Sicherheitsvorfall identifiziert · Großes Ausfallupdate · 30. Oktober 2026 um 23:38 Uhr UTC Benutzer haben die unbefugte Verwendung von KI-API-Schlüsseln gemeldet, die an die Northflank-Plattform geliefert wurden.",
+      "zh-Hant": "• 2026年10月30日協調世界時11:38 使用者報告未經授權使用提供給Northflank平臺的AI API金鑰."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 287 分 · 216 条评论",
+      "zh-Hant": "Hacker News 287 分 · 216 則留言",
+      "en": "287 points · 216 comments on Hacker News",
+      "ja": "Hacker News 287 ポイント · コメント 216 件",
+      "ko": "Hacker News 287점 · 댓글 216개",
+      "ms": "287 mata · 216 komen di Hacker News",
+      "vi": "287 điểm · 216 bình luận trên Hacker News",
+      "fr": "287 points · 216 commentaires sur Hacker News",
+      "es": "287 puntos · 216 comentarios en Hacker News",
+      "de": "287 Punkte · 216 Kommentare auf Hacker News"
+     },
+     "url": "https://status.northflank.com",
+     "src": "status.northflank.com",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50305480",
+     "title": {
+      "zh-Hans": "Blockchain情报公司将朝鲜与6.3B黑客攻击Binance联系起来",
+      "zh-Hant": "Blockchain情報公司將朝鮮與6.3B駭客攻擊Binance聯絡起來",
+      "en": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "ja": "ブロックチェーンインテリジェンスは、北朝鮮をバインスで$ 6.3Bハックにリンクしています",
+      "ko": "Blockchain 인텔리전스 링크를 북한에 $6.3B 해킹 바이낸스",
+      "ms": "Perusahaan intelijen Blockchain menghubungkan Korea Utara dengan $6.3B hack on Binance",
+      "vi": "Các công ty tình báo Blockchain liên kết Bắc Triều Tiên với 6.3B hack vào Binance",
+      "fr": "Blockchain entreprises de renseignement lier la Corée du Nord à 6,3 milliards de dollars hack sur Binance",
+      "es": "Las empresas de inteligencia de Blockchain vinculan a Corea del Norte con $6.3B hack on Binance",
+      "de": "Blockchain-Intelligence-Firmen verbinden Nordkorea mit einem $6.3B-Hack auf Binance"
+     },
+     "summary": {
+      "en": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+      "zh-Hans": "世界最大的密码货币交易所 星期四报道 大约63亿美元 受到明显的黑客袭击",
+      "ja": "世界最大の仮想通貨取引所は、木曜日に報告され、約$ 6.3億は明らかにハッキングに影響を与えました。",
+      "ko": "세계에서 가장 큰 암호 화폐 교환은 목요일에 약 $6.3 억이 분명 해킹에 영향을 미쳤다.",
+      "ms": "Pertukaran cryptocurrency terbesar di dunia melaporkan hari Kamis bahwa kira-kira $6,3 miliar terkena dampak peretasan yang jelas.",
+      "vi": "Sự trao đổi bí mật lớn nhất thế giới báo cáo vào thứ năm rằng khoảng 6.3 tỷ đô la đã bị ảnh hưởng trong một vụ hack rõ ràng.",
+      "fr": "Le plus grand échange de crypto-monnaie au monde a rapporté jeudi qu'environ 6,3 milliards de dollars ont été touchés dans un hack apparent.",
+      "es": "El mayor intercambio de criptomonedas del mundo informó el jueves que aproximadamente $6.3 billones fueron impactados en un aparente hack.",
+      "de": "Die weltweit größte Kryptowährungsbörse berichtete am Donnerstag, dass etwa 6,3 Milliarden US-Dollar von einem offensichtlichen Hack betroffen waren.",
+      "zh-Hant": "世界最大的密碼貨幣交易所 星期四報道 大約63億美元 受到明顯的駭客襲擊"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 170 分 · 108 条评论",
+      "zh-Hant": "Hacker News 170 分 · 108 則留言",
+      "en": "170 points · 108 comments on Hacker News",
+      "ja": "Hacker News 170 ポイント · コメント 108 件",
+      "ko": "Hacker News 170점 · 댓글 108개",
+      "ms": "170 mata · 108 komen di Hacker News",
+      "vi": "170 điểm · 108 bình luận trên Hacker News",
+      "fr": "170 points · 108 commentaires sur Hacker News",
+      "es": "170 puntos · 108 comentarios en Hacker News",
+      "de": "170 Punkte · 108 Kommentare auf Hacker News"
+     },
+     "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+     "src": "npr.org",
+     "date": "2026-10-30",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1438394948",
+     "title": {
+      "zh-Hans": "valentderah/totk-pc-recomp",
+      "zh-Hant": "valentderah/totk-pc-recomp",
+      "en": "valentderah/totk-pc-recomp",
+      "ja": "valentderah/totk-pc-recomp",
+      "ko": "valentderah/totk-pc-recomp",
+      "ms": "valentderah/totk-pc-recomp",
+      "vi": "valentderah/totk-pc-recomp",
+      "fr": "valentderah/totk-pc-recomp",
+      "es": "valentderah/totk-pc-recomp",
+      "de": "valentderah/totk-pc-recomp"
+     },
+     "summary": {
+      "en": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "zh-Hans": "\"塞尔达传说\"的静态再编译:王国之泪到原生Windows x86-64,并有Vulkan渲染器. 未包含游戏文件 。",
+      "ja": "Zeldaの伝説の静的再コンパイル:王国の涙をネイティブWindows x86-64に、Vulkanレンダラーで。 ゲームファイルには含まれていません。",
+      "ko": "Zelda의 전설의 정적 복제 : Vulkan 렌더링기와 함께 왕국의 눈물. 게임 파일이 포함되어 있지 않습니다.",
+      "ms": "Statik statistik rekompilasi The Legend of Zelda: Air Mata Kerajaan ke Windows asli x86-64, dengan render Vulkan. Berkas permainan tidak termasuk.",
+      "vi": "Sự phối hợp tĩnh mạch của huyền thoại \"The Legend of Zida: nước mắt của vương quốc cho người bản xứ Windows x86-64, với một nhà sản xuất Vulkan. Không tính tập tin trò chơi.",
+      "fr": "Recompilation statique de La Légende de Zelda: Larmes du Royaume à Windows natif x86-64, avec un rendu Vulkan. Fichiers de jeu non inclus.",
+      "es": "Recopilación estática de la leyenda de Zelda: Lágrimas del Reino a Windows nativa x86-64, con un renderizador Vulkan. Archivos de juego no incluidos.",
+      "de": "Statische Rekompilation von The Legend of Zelda: Tears of the Kingdom zu nativem Windows x86-64, mit einem Vulkan-Renderer. Spieldateien nicht enthalten.",
+      "zh-Hant": "\"塞爾達傳說\"的靜態再編譯:王國之淚到原生Windows x86-64,並有Vulkan渲染器. 未包含遊戲檔案 。"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,407 星",
+      "zh-Hant": "GitHub 1,407 星",
+      "en": "1,407 stars on GitHub",
+      "ja": "GitHub スター 1,407",
+      "ko": "GitHub 스타 1,407개",
+      "ms": "1,407 bintang di GitHub",
+      "vi": "1,407 sao trên GitHub",
+      "fr": "1,407 étoiles sur GitHub",
+      "es": "1,407 estrellas en GitHub",
+      "de": "1,407 Sterne auf GitHub"
+     },
+     "url": "https://github.com/valentderah/totk-pc-recomp",
+     "src": "github.com",
+     "date": "2026-10-29",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1438018242",
+     "title": {
+      "zh-Hans": "paipiange/nvzhuang",
+      "zh-Hant": "paipiange/nvzhuang",
+      "en": "paipiange/nvzhuang",
+      "ja": "paipiange/nvzhuang",
+      "ko": "paipiange/nvzhuang",
+      "ms": "paipiange/nvzhuang",
+      "vi": "paipiange/nvzhuang",
+      "fr": "paipiange/nvzhuang",
+      "es": "paipiange/nvzhuang",
+      "de": "paipiange/nvzhuang"
+     },
+     "summary": {
+      "zh-Hans": "https://github.com/paipiange/nvzhuang 页面存档备份,存于互联网档案馆.",
+      "zh-Hant": "https://github.com/paipiange/nvzhuang 頁面存檔備份,存於網際網路檔案館.",
+      "en": "https://github.com/paipiange/nvzhuang",
+      "ja": "https://github.com/paipiange/nvzhuang",
+      "ko": "HTTPS://github.com/paipiange/nvzhuang",
+      "ms": "https://github.com/paipiange/nvzhuang",
+      "vi": "Name",
+      "fr": "https://github.com/paipiange/nvzhuang",
+      "es": "https://github.com/paipiange/nvzhuang",
+      "de": "https://github.com/paipiange/nvzhuang"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,141 星",
+      "zh-Hant": "GitHub 1,141 星",
+      "en": "1,141 stars on GitHub",
+      "ja": "GitHub スター 1,141",
+      "ko": "GitHub 스타 1,141개",
+      "ms": "1,141 bintang di GitHub",
+      "vi": "1,141 sao trên GitHub",
+      "fr": "1,141 étoiles sur GitHub",
+      "es": "1,141 estrellas en GitHub",
+      "de": "1,141 Sterne auf GitHub"
+     },
+     "url": "https://github.com/paipiange/nvzhuang",
+     "src": "github.com",
+     "date": "2026-10-29",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1438540053",
+     "title": {
+      "zh-Hans": "wangzan101/Mika",
+      "zh-Hant": "wangzan101/Mika",
+      "en": "wangzan101/Mika",
+      "ja": "wangzan101/Mika",
+      "ko": "wangzan101/Mika",
+      "ms": "wangzan101/Mika",
+      "vi": "wangzan101/Mika",
+      "fr": "wangzan101/Mika",
+      "es": "wangzan101/Mika",
+      "de": "wangzan101/Mika"
+     },
+     "summary": {
+      "zh-Hans": "一个Android的And-device AI代理 操作应用程序和网络 为你做事情",
+      "zh-Hant": "一個Android的And-device AI代理 操作應用程式和網路 為你做事情",
+      "en": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "ja": "アプリとウェブを運営するAndroid用のオンデバイスAIエージェントが、あなたのために物事を成し遂げます。",
+      "ko": "앱과 웹을 운영하는 Android용 on-device AI 에이전트는 당신을 위해 수행 한 일을 얻을 수 있습니다.",
+      "ms": "Agen AI perangkat untuk Android yang mengoperasikan aplikasi dan web untuk menyelesaikan semuanya untukmu.",
+      "vi": "Một đặc vụ AI hoạt động trên mạng trên mạng để làm mọi việc cho anh.",
+      "fr": "Un agent AI sur les appareils pour Android qui exploite des applications et le web pour obtenir des choses faites pour vous.",
+      "es": "Un agente de IA en dispositivos para Android que opera aplicaciones y la web para hacer las cosas por ti.",
+      "de": "Ein On-Device-KI-Agent für Android, der Apps und das Web betreibt, um Dinge für Sie zu erledigen."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,124 星",
+      "zh-Hant": "GitHub 1,124 星",
+      "en": "1,124 stars on GitHub",
+      "ja": "GitHub スター 1,124",
+      "ko": "GitHub 스타 1,124개",
+      "ms": "1,124 bintang di GitHub",
+      "vi": "1,124 sao trên GitHub",
+      "fr": "1,124 étoiles sur GitHub",
+      "es": "1,124 estrellas en GitHub",
+      "de": "1,124 Sterne auf GitHub"
+     },
+     "url": "https://github.com/wangzan101/Mika",
+     "src": "github.com",
+     "date": "2026-10-29",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "path": "digest/2026-10-30/",
