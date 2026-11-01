@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:56:19Z",
+ "updated": "2026-11-01T00:16:58Z",
  "items": [
   {
    "id": "c-0",
@@ -6071,7 +6071,7 @@
     "LLM",
     "JavaScript"
    ],
-   "meta": "★ 294,053",
+   "meta": "★ 294,066",
    "date": "2026-10-30 03:06",
    "lang": "en",
    "source": "GitHub",
@@ -6099,7 +6099,7 @@
     "LLM",
     "Python"
    ],
-   "meta": "★ 259,179",
+   "meta": "★ 259,181",
    "date": "2026-10-31 23:11",
    "lang": "en",
    "source": "GitHub",
@@ -6127,7 +6127,7 @@
     "LLM",
     "TypeScript"
    ],
-   "meta": "★ 197,403",
+   "meta": "★ 197,405",
    "date": "2026-10-31 20:33",
    "lang": "en",
    "source": "GitHub",
@@ -6156,7 +6156,7 @@
     "Python"
    ],
    "meta": "★ 187,848",
-   "date": "2026-10-31 23:44",
+   "date": "2026-11-01 00:14",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -6183,7 +6183,7 @@
     "LLM",
     "Go"
    ],
-   "meta": "★ 185,479",
+   "meta": "★ 185,476",
    "date": "2026-10-31 22:46",
    "lang": "en",
    "source": "GitHub",
@@ -6211,7 +6211,7 @@
     "LLM",
     "JavaScript"
    ],
-   "meta": "★ 181,513",
+   "meta": "★ 181,516",
    "date": "2026-10-29 11:59",
    "lang": "en",
    "source": "GitHub",
@@ -6324,7 +6324,7 @@
     "Python"
    ],
    "meta": "★ 157,404",
-   "date": "2026-10-31 10:22",
+   "date": "2026-11-01 00:15",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -6379,7 +6379,7 @@
     "LLM",
     "Python"
    ],
-   "meta": "★ 140,024",
+   "meta": "★ 140,030",
    "date": "2026-10-30 23:42",
    "lang": "en",
    "source": "GitHub",
@@ -6407,7 +6407,7 @@
     "LLM",
     "Python"
    ],
-   "meta": "★ 136,909",
+   "meta": "★ 136,913",
    "date": "2026-10-31 23:56",
    "lang": "en",
    "source": "GitHub",
@@ -6435,7 +6435,7 @@
     "LLM",
     "Python"
    ],
-   "meta": "★ 119,677",
+   "meta": "★ 119,680",
    "date": "2026-10-31 01:18",
    "lang": "en",
    "source": "GitHub",
@@ -6463,7 +6463,7 @@
     "Agent",
     "TypeScript"
    ],
-   "meta": "★ 267,435",
+   "meta": "★ 267,423",
    "date": "2026-10-30 06:54",
    "lang": "en",
    "source": "GitHub",
@@ -6491,8 +6491,8 @@
     "Agent",
     "TypeScript"
    ],
-   "meta": "★ 111,720",
-   "date": "2026-10-31 23:56",
+   "meta": "★ 111,726",
+   "date": "2026-11-01 00:16",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -6519,8 +6519,8 @@
     "Agent",
     "TypeScript"
    ],
-   "meta": "★ 109,455",
-   "date": "2026-10-31 23:56",
+   "meta": "★ 109,456",
+   "date": "2026-11-01 00:14",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -6547,7 +6547,7 @@
     "Agent",
     "TypeScript"
    ],
-   "meta": "★ 108,655",
+   "meta": "★ 108,633",
    "date": "2026-10-31 01:19",
    "lang": "en",
    "source": "GitHub",
@@ -6575,7 +6575,7 @@
     "Agent",
     "TypeScript"
    ],
-   "meta": "★ 107,828",
+   "meta": "★ 107,847",
    "date": "2026-10-31 08:56",
    "lang": "en",
    "source": "GitHub",
@@ -6603,7 +6603,7 @@
     "Agent",
     "JavaScript"
    ],
-   "meta": "★ 107,023",
+   "meta": "★ 107,031",
    "date": "2026-10-31 07:59",
    "lang": "en",
    "source": "GitHub",
@@ -6659,8 +6659,8 @@
     "MCP",
     "TypeScript"
    ],
-   "meta": "★ 415,463",
-   "date": "2026-10-31 23:56",
+   "meta": "★ 415,488",
+   "date": "2026-11-01 00:10",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -6743,7 +6743,7 @@
     "MCP",
     "Rust"
    ],
-   "meta": "★ 150,634",
+   "meta": "★ 150,636",
    "date": "2026-10-31 16:11",
    "lang": "en",
    "source": "GitHub",
@@ -6771,7 +6771,7 @@
     "MCP",
     "Python"
    ],
-   "meta": "★ 107,218",
+   "meta": "★ 107,221",
    "date": "2026-10-25 04:37",
    "lang": "en",
    "source": "GitHub",
@@ -6827,7 +6827,7 @@
     "MCP",
     "Python"
    ],
-   "meta": "★ 90,884",
+   "meta": "★ 90,888",
    "date": "2026-10-31 16:11",
    "lang": "en",
    "source": "GitHub",
@@ -6855,7 +6855,7 @@
     "MCP",
     "TypeScript"
    ],
-   "meta": "★ 89,863",
+   "meta": "★ 89,864",
    "date": "2026-10-31 22:17",
    "lang": "en",
    "source": "GitHub",
@@ -6967,7 +6967,7 @@
     "SaaS",
     "Python"
    ],
-   "meta": "★ 13,354",
+   "meta": "★ 13,355",
    "date": "2026-10-31 05:03",
    "lang": "en",
    "source": "GitHub",
@@ -7051,7 +7051,7 @@
     "SaaS",
     "Python"
    ],
-   "meta": "★ 6,816",
+   "meta": "★ 6,818",
    "date": "2026-10-03 12:07",
    "lang": "en",
    "source": "GitHub",
@@ -7079,7 +7079,7 @@
     "SaaS",
     "JavaScript"
    ],
-   "meta": "★ 6,111",
+   "meta": "★ 6,112",
    "date": "2026-10-30 15:00",
    "lang": "en",
    "source": "GitHub",
@@ -7275,7 +7275,7 @@
     "RAG",
     "Python"
    ],
-   "meta": "★ 143,598",
+   "meta": "★ 143,599",
    "date": "2026-10-22 19:10",
    "lang": "en",
    "source": "GitHub",
@@ -7303,7 +7303,7 @@
     "RAG",
     "Python"
    ],
-   "meta": "★ 86,662",
+   "meta": "★ 86,663",
    "date": "2026-10-30 15:02",
    "lang": "en",
    "source": "GitHub",
@@ -7359,7 +7359,7 @@
     "RAG",
     "Python"
    ],
-   "meta": "★ 78,473",
+   "meta": "★ 78,474",
    "date": "2026-10-30 18:20",
    "lang": "en",
    "source": "GitHub",
@@ -7415,7 +7415,7 @@
     "RAG",
     "JavaScript"
    ],
-   "meta": "★ 67,796",
+   "meta": "★ 67,797",
    "date": "2026-10-30 23:50",
    "lang": "en",
    "source": "GitHub",
@@ -7499,7 +7499,7 @@
     "RAG",
     "Python"
    ],
-   "meta": "★ 52,778",
+   "meta": "★ 52,793",
    "date": "2026-10-31 16:51",
    "lang": "en",
    "source": "GitHub",
@@ -7527,7 +7527,7 @@
     "Automation",
     "TypeScript"
    ],
-   "meta": "★ 98,981",
+   "meta": "★ 98,983",
    "date": "2026-10-31 21:52",
    "lang": "en",
    "source": "GitHub",
@@ -7724,7 +7724,7 @@
     "TypeScript"
    ],
    "meta": "★ 40,463",
-   "date": "2026-10-31 23:36",
+   "date": "2026-11-01 00:14",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -7751,7 +7751,7 @@
     "Automation",
     "TypeScript"
    ],
-   "meta": "★ 38,283",
+   "meta": "★ 38,285",
    "date": "2026-10-19 22:56",
    "lang": "en",
    "source": "GitHub",
@@ -8171,7 +8171,7 @@
     "Self-hosted",
     "Repo"
    ],
-   "meta": "★ 332,437",
+   "meta": "★ 332,442",
    "date": "2026-10-31 14:28",
    "lang": "en",
    "source": "GitHub",
@@ -8199,7 +8199,7 @@
     "Self-hosted",
     "TypeScript"
    ],
-   "meta": "★ 117,824",
+   "meta": "★ 117,825",
    "date": "2026-10-31 21:51",
    "lang": "en",
    "source": "GitHub",
@@ -8256,7 +8256,7 @@
     "JavaScript"
    ],
    "meta": "★ 93,126",
-   "date": "2026-10-31 16:16",
+   "date": "2026-11-01 00:05",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8283,8 +8283,8 @@
     "Self-hosted",
     "Python"
    ],
-   "meta": "★ 78,876",
-   "date": "2026-10-31 23:51",
+   "meta": "★ 78,877",
+   "date": "2026-11-01 00:14",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8395,7 +8395,7 @@
     "Self-hosted",
     "TypeScript"
    ],
-   "meta": "★ 57,806",
+   "meta": "★ 57,807",
    "date": "2026-10-31 23:21",
    "lang": "en",
    "source": "GitHub",
@@ -8452,7 +8452,7 @@
     "C++"
    ],
    "meta": "★ 50,694",
-   "date": "2026-10-31 23:43",
+   "date": "2026-11-01 00:14",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8479,8 +8479,8 @@
     "Next.js",
     "JavaScript"
    ],
-   "meta": "★ 143,315",
-   "date": "2026-10-31 23:17",
+   "meta": "★ 143,314",
+   "date": "2026-11-01 00:15",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8507,7 +8507,7 @@
     "Next.js",
     "TypeScript"
    ],
-   "meta": "★ 127,059",
+   "meta": "★ 127,061",
    "date": "2026-10-31 20:46",
    "lang": "en",
    "source": "GitHub",
@@ -8648,7 +8648,7 @@
     "TypeScript"
    ],
    "meta": "★ 40,757",
-   "date": "2026-10-31 23:55",
+   "date": "2026-11-01 00:10",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8675,7 +8675,7 @@
     "Next.js",
     "TypeScript"
    ],
-   "meta": "★ 40,367",
+   "meta": "★ 40,372",
    "date": "2026-10-31 13:31",
    "lang": "en",
    "source": "GitHub",
@@ -8731,8 +8731,8 @@
     "AI",
     "TypeScript"
    ],
-   "meta": "★ 393,557",
-   "date": "2026-10-31 23:55",
+   "meta": "★ 393,559",
+   "date": "2026-11-01 00:16",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8759,7 +8759,7 @@
     "AI",
     "Shell"
    ],
-   "meta": "★ 310,043",
+   "meta": "★ 310,054",
    "date": "2026-10-29 23:35",
    "lang": "en",
    "source": "GitHub",
@@ -8787,7 +8787,7 @@
     "AI",
     "Python"
    ],
-   "meta": "★ 144,417",
+   "meta": "★ 144,429",
    "date": "2026-10-30 16:19",
    "lang": "en",
    "source": "GitHub",
@@ -8843,7 +8843,7 @@
     "DevTools",
     "TypeScript"
    ],
-   "meta": "★ 92,367",
+   "meta": "★ 92,368",
    "date": "2026-10-31 20:03",
    "lang": "en",
    "source": "GitHub",
@@ -8871,7 +8871,7 @@
     "DevTools",
     "JavaScript"
    ],
-   "meta": "★ 92,145",
+   "meta": "★ 92,147",
    "date": "2026-10-31 06:53",
    "lang": "en",
    "source": "GitHub",
@@ -8899,8 +8899,8 @@
     "DevTools",
     "Rust"
    ],
-   "meta": "★ 85,145",
-   "date": "2026-10-31 23:50",
+   "meta": "★ 85,146",
+   "date": "2026-11-01 00:03",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -8927,7 +8927,7 @@
     "DevTools",
     "TypeScript"
    ],
-   "meta": "★ 80,712",
+   "meta": "★ 80,711",
    "date": "2026-10-31 09:16",
    "lang": "en",
    "source": "GitHub",
@@ -8955,7 +8955,7 @@
     "DevTools",
     "Python"
    ],
-   "meta": "★ 59,594",
+   "meta": "★ 59,597",
    "date": "2026-10-19 19:46",
    "lang": "en",
    "source": "GitHub",
@@ -8983,7 +8983,7 @@
     "DevTools",
     "JavaScript"
    ],
-   "meta": "★ 54,331",
+   "meta": "★ 54,339",
    "date": "2026-10-31 13:24",
    "lang": "en",
    "source": "GitHub",
@@ -9011,7 +9011,7 @@
     "DevTools",
     "Python"
    ],
-   "meta": "★ 48,918",
+   "meta": "★ 48,921",
    "date": "2026-10-31 11:16",
    "lang": "en",
    "source": "GitHub",
@@ -9040,7 +9040,7 @@
     "C"
    ],
    "meta": "★ 47,909",
-   "date": "2026-10-31 22:47",
+   "date": "2026-11-01 00:16",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -9067,7 +9067,7 @@
     "DevTools",
     "Rust"
    ],
-   "meta": "★ 47,133",
+   "meta": "★ 47,138",
    "date": "2026-10-29 12:57",
    "lang": "en",
    "source": "GitHub",
@@ -9348,7 +9348,7 @@
     "PHP"
    ],
    "meta": "★ 10,573",
-   "date": "2026-10-31 23:50",
+   "date": "2026-11-01 00:05",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -9571,7 +9571,7 @@
     "Design",
     "Repo"
    ],
-   "meta": "★ 124,861",
+   "meta": "★ 124,864",
    "date": "2026-10-28 15:45",
    "lang": "en",
    "source": "GitHub",
@@ -10019,7 +10019,7 @@
     "No-code",
     "TypeScript"
    ],
-   "meta": "★ 38,765",
+   "meta": "★ 38,766",
    "date": "2026-10-30 16:49",
    "lang": "en",
    "source": "GitHub",
@@ -10103,7 +10103,7 @@
     "No-code",
     "JavaScript"
    ],
-   "meta": "★ 28,288",
+   "meta": "★ 28,289",
    "date": "2026-10-31 17:51",
    "lang": "en",
    "source": "GitHub",
@@ -10271,7 +10271,7 @@
     "Productivity",
     "TypeScript"
    ],
-   "meta": "★ 134,936",
+   "meta": "★ 134,937",
    "date": "2026-10-31 22:06",
    "lang": "en",
    "source": "GitHub",
@@ -10383,7 +10383,7 @@
     "Productivity",
     "C#"
    ],
-   "meta": "★ 40,552",
+   "meta": "★ 40,553",
    "date": "2026-10-31 18:08",
    "lang": "en",
    "source": "GitHub",
@@ -10495,8 +10495,8 @@
     "Productivity",
     "TypeScript"
    ],
-   "meta": "★ 23,305",
-   "date": "2026-10-31 23:37",
+   "meta": "★ 23,306",
+   "date": "2026-11-01 00:08",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -10636,7 +10636,7 @@
     "Python"
    ],
    "meta": "★ 9,458",
-   "date": "2026-10-31 23:54",
+   "date": "2026-11-01 00:07",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -10719,7 +10719,7 @@
     "Local LLM",
     "Python"
    ],
-   "meta": "★ 5,744",
+   "meta": "★ 5,745",
    "date": "2026-10-31 20:16",
    "lang": "en",
    "source": "GitHub",
@@ -10804,7 +10804,7 @@
     "Python"
    ],
    "meta": "★ 4,079",
-   "date": "2026-10-31 23:37",
+   "date": "2026-11-01 00:12",
    "lang": "en",
    "source": "GitHub",
    "heat": 0.0,
@@ -10831,7 +10831,7 @@
     "Local LLM",
     "TypeScript"
    ],
-   "meta": "★ 3,525",
+   "meta": "★ 3,527",
    "date": "2026-10-31 18:14",
    "lang": "en",
    "source": "GitHub",
@@ -10915,7 +10915,7 @@
     "Local LLM",
     "TypeScript"
    ],
-   "meta": "★ 3,109",
+   "meta": "★ 3,111",
    "date": "2026-10-31 23:39",
    "lang": "en",
    "source": "GitHub",
@@ -10943,7 +10943,7 @@
     "New",
     "Repo"
    ],
-   "meta": "★ 5,799",
+   "meta": "★ 5,808",
    "date": "2026-10-25 16:04",
    "lang": "en",
    "source": "GitHub · new",
@@ -10960,7 +10960,7 @@
     "New",
     "Python"
    ],
-   "meta": "★ 5,361",
+   "meta": "★ 5,363",
    "date": "2026-10-24 05:35",
    "lang": "en",
    "source": "GitHub · new",
@@ -10988,7 +10988,7 @@
     "New",
     "TypeScript"
    ],
-   "meta": "★ 4,663",
+   "meta": "★ 4,667",
    "date": "2026-10-27 12:24",
    "lang": "en",
    "source": "GitHub · new",
@@ -11072,7 +11072,7 @@
     "New",
     "Dart"
    ],
-   "meta": "★ 3,586",
+   "meta": "★ 3,591",
    "date": "2026-10-25 08:09",
    "lang": "en",
    "source": "GitHub · new",
@@ -11100,7 +11100,7 @@
     "New",
     "TypeScript"
    ],
-   "meta": "★ 3,553",
+   "meta": "★ 3,554",
    "date": "2026-10-25 08:27",
    "lang": "en",
    "source": "GitHub · new",
@@ -11128,7 +11128,7 @@
     "New",
     "JavaScript"
    ],
-   "meta": "★ 3,427",
+   "meta": "★ 3,455",
    "date": "2026-10-29 15:41",
    "lang": "en",
    "source": "GitHub · new",
@@ -11156,7 +11156,7 @@
     "New",
     "Kotlin"
    ],
-   "meta": "★ 2,703",
+   "meta": "★ 2,714",
    "date": "2026-10-29 14:34",
    "lang": "en",
    "source": "GitHub · new",
@@ -11184,7 +11184,7 @@
     "New",
     "C"
    ],
-   "meta": "★ 2,576",
+   "meta": "★ 2,593",
    "date": "2026-10-29 12:32",
    "lang": "en",
    "source": "GitHub · new",
@@ -11240,7 +11240,7 @@
     "New",
     "TypeScript"
    ],
-   "meta": "★ 2,224",
+   "meta": "★ 2,284",
    "date": "2026-10-31 09:32",
    "lang": "en",
    "source": "GitHub · new",
@@ -11259,23 +11259,6 @@
    }
   },
   {
-   "id": "gh-1429328794",
-   "ch": "repos",
-   "title": "oosexgang/hakios-xnu-kernel",
-   "summary": "",
-   "url": "https://github.com/oosexgang/hakios-xnu-kernel",
-   "tags": [
-    "New",
-    "C"
-   ],
-   "meta": "★ 2,030",
-   "date": "2026-10-22 06:20",
-   "lang": "en",
-   "source": "GitHub · new",
-   "heat": 0.0,
-   "summary_i18n": {}
-  },
-  {
    "id": "gh-1438018242",
    "ch": "repos",
    "title": "paipiange/nvzhuang",
@@ -11285,7 +11268,7 @@
     "New",
     "Go"
    ],
-   "meta": "★ 1,707",
+   "meta": "★ 1,709",
    "date": "2026-10-29 06:08",
    "lang": "en",
    "source": "GitHub · new",
@@ -11313,7 +11296,7 @@
     "New",
     "JavaScript"
    ],
-   "meta": "★ 1,704",
+   "meta": "★ 1,706",
    "date": "2026-10-25 05:25",
    "lang": "en",
    "source": "GitHub · new",
@@ -11341,7 +11324,7 @@
     "New",
     "HTML"
    ],
-   "meta": "★ 1,679",
+   "meta": "★ 1,680",
    "date": "2026-10-23 12:20",
    "lang": "en",
    "source": "GitHub · new",
@@ -11425,7 +11408,7 @@
     "New",
     "TypeScript"
    ],
-   "meta": "★ 1,585",
+   "meta": "★ 1,586",
    "date": "2026-10-26 04:34",
    "lang": "en",
    "source": "GitHub · new",
@@ -11453,7 +11436,7 @@
     "New",
     "Python"
    ],
-   "meta": "★ 1,403",
+   "meta": "★ 1,404",
    "date": "2026-10-25 10:05",
    "lang": "en",
    "source": "GitHub · new",
@@ -11481,7 +11464,7 @@
     "New",
     "HTML"
    ],
-   "meta": "★ 1,397",
+   "meta": "★ 1,400",
    "date": "2026-10-28 13:34",
    "lang": "en",
    "source": "GitHub · new",
@@ -11509,7 +11492,7 @@
     "New",
     "JavaScript"
    ],
-   "meta": "★ 1,393",
+   "meta": "★ 1,399",
    "date": "2026-10-30 06:43",
    "lang": "en",
    "source": "GitHub · new",
@@ -11537,7 +11520,7 @@
     "New",
     "Python"
    ],
-   "meta": "★ 1,284",
+   "meta": "★ 1,285",
    "date": "2026-10-26 06:58",
    "lang": "en",
    "source": "GitHub · new",
@@ -11565,7 +11548,7 @@
     "New",
     "C++"
    ],
-   "meta": "★ 1,232",
+   "meta": "★ 1,244",
    "date": "2026-10-29 00:25",
    "lang": "en",
    "source": "GitHub · new",
@@ -11593,7 +11576,7 @@
     "New",
     "HTML"
    ],
-   "meta": "★ 1,182",
+   "meta": "★ 1,184",
    "date": "2026-10-28 04:29",
    "lang": "en",
    "source": "GitHub · new",
@@ -11621,7 +11604,7 @@
     "New",
     "Lua"
    ],
-   "meta": "★ 1,152",
+   "meta": "★ 1,154",
    "date": "2026-10-30 07:49",
    "lang": "en",
    "source": "GitHub · new",
@@ -11649,7 +11632,7 @@
     "New",
     "Python"
    ],
-   "meta": "★ 1,135",
+   "meta": "★ 1,136",
    "date": "2026-10-24 19:12",
    "lang": "en",
    "source": "GitHub · new",
@@ -11705,7 +11688,7 @@
     "New",
     "Swift"
    ],
-   "meta": "★ 1,087",
+   "meta": "★ 1,089",
    "date": "2026-10-24 08:44",
    "lang": "en",
    "source": "GitHub · new",
@@ -11721,34 +11704,6 @@
     "es": "BAMA: Construir cualquier aplicación Mac. Habilidades de los agentes para investigar, clonar, diseñar, construir, optimizar y probar aplicaciones de macOS nativos con Swift y SwiftUI.",
     "de": "BAMA: Build Any Mac App. Agentenfähigkeiten zum Recherchieren, Klonen, Entwerfen, Erstellen, Optimieren und Testen nativer macOS-Apps mit Swift und SwiftUI.",
     "zh-Hant": "BAMA:構建 Any Mac App. Agent 技能,與斯威夫特和斯威夫特UI一起研究,克隆,設計,構建,最佳化並測試本土的macOS app."
-   }
-  },
-  {
-   "id": "gh-1429116361",
-   "ch": "repos",
-   "title": "Snapintosh/Snapintosh",
-   "summary": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-   "url": "https://github.com/Snapintosh/Snapintosh",
-   "tags": [
-    "New",
-    "Python"
-   ],
-   "meta": "★ 1,086",
-   "date": "2026-10-22 01:40",
-   "lang": "en",
-   "source": "GitHub · new",
-   "heat": 0.0,
-   "summary_i18n": {
-    "en": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-    "zh-Hans": "EL2超显像仪和工具链将macOS带在ASUS A16(Snapdragon X2 Elite)上,有一个Adreno Metal/IOGPU堆栈",
-    "ja": "ASUS A16(Snapdragon X2 Elite)でmacOSを起動するEL2ハイパーバイザーとツールチェーン、Adreno Metal/IOGPUスタック",
-    "ko": "ASUS A16 (Snapdragon X2 Elite)에 macOS를 부츠하는 EL2 하이퍼 바이저 및 도구 체인, Adreno Metal / IOGPU 스택",
-    "ms": "Hypervisor dan toolchain EL2 yang macOS boot pada ASUS A16 (Snapdragon X2 Elite), dengan tumpukan Adreno Metal/IOGPU",
-    "vi": "EL2 hypervisor và công cụ chain rằng khởi động macOS trên A16 (Snapdragon X2 Elite), với một chồng Adreno Metal/IOGPU",
-    "fr": "EL2 hyperviseur et toolchain qui boote macOS sur l'ASUS A16 (Snapdragon X2 Elite), avec une pile Adreno Metal/IOGPU",
-    "es": "Hipervisor EL2 y cadena de herramientas que bota macOS en el ASUS A16 (Snapdragon X2 Elite), con una pila Adreno Metal/IOGPU",
-    "de": "EL2-Hypervisor und Toolchain, die macOS auf dem ASUS A16 (Snapdragon X2 Elite) booten, mit einem Adreno Metal / IOGPU-Stack",
-    "zh-Hant": "EL2超顯像儀和工具鏈將macOS帶在ASUS A16(Snapdragon X2 Elite)上,有一個Adreno Metal/IOGPU堆疊"
    }
   },
   {
@@ -11777,62 +11732,6 @@
     "es": "Una liberación pública del desafío Steal My Bitcoin",
     "de": "Eine öffentliche Veröffentlichung der Steal My Bitcoin Challenge",
     "zh-Hant": "偷我的比特幣挑戰公開發布"
-   }
-  },
-  {
-   "id": "gh-1430208916",
-   "ch": "repos",
-   "title": "man15h/tellyscope",
-   "summary": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.",
-   "url": "https://github.com/man15h/tellyscope",
-   "tags": [
-    "New",
-    "Kotlin"
-   ],
-   "meta": "★ 998",
-   "date": "2026-10-22 19:51",
-   "lang": "en",
-   "source": "GitHub · new",
-   "heat": 0.0,
-   "summary_i18n": {
-    "en": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.",
-    "zh-Hans": "Debloat你的Android TV,安装应用软件,浏览并传输其上的文件,都来自你的手机. 只有3MB,没有追踪,没有根,没有PC.",
-    "ja": "Android TVを解凍し、アプリをインストールし、ファイルを閲覧して転送します。 ちょうど3 MBの追跡無し、根無し、PC無し。",
-    "ko": "Android TV를 Debloat, 앱 설치, 휴대 전화에서 검색 및 전송 파일. 그냥 3 MB, 추적 없음, 루트 없음, PC 없음.",
-    "ms": "Buka TV Android Anda, pasang aplikasi, ramban dan transfer file di dalamnya, semua dari ponsel Anda. Hanya 3 MB, tidak ada pelacakan, tidak ada akar, tidak ada PC.",
-    "vi": "Debloat TV của bạn, cài đặt ứng dụng, duyệt và truyền tải tập tin về nó, tất cả từ điện thoại của bạn. Chỉ có 3 MB, không theo dõi, không gốc, không máy tính.",
-    "fr": "Débloquez votre téléviseur Android, installez des applications, naviguez et transférez des fichiers dessus, tous depuis votre téléphone. Seulement 3 Mo, pas de suivi, pas de racine, pas de PC.",
-    "es": "Deblotar su Android TV, instalar aplicaciones, navegar y transferir archivos en él, todo desde su teléfono. Sólo 3 MB, sin seguimiento, sin raíz, sin PC.",
-    "de": "Debloat ihr android-tv, installieren sie apps, durchsuchen und übertragen sie dateien darauf, alles von ihrem telefon. Nur 3 MB, kein Tracking, kein Root, kein PC.",
-    "zh-Hant": "Debloat你的Android TV,安裝應用軟體,瀏覽並傳輸其上的檔案,都來自你的手機. 只有3MB,沒有追蹤,沒有根,沒有PC."
-   }
-  },
-  {
-   "id": "gh-1429213407",
-   "ch": "repos",
-   "title": "assetnote/php2shell-scanner",
-   "summary": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-   "url": "https://github.com/assetnote/php2shell-scanner",
-   "tags": [
-    "New",
-    "Python"
-   ],
-   "meta": "★ 969",
-   "date": "2026-10-22 03:53",
-   "lang": "en",
-   "source": "GitHub · new",
-   "heat": 0.0,
-   "summary_i18n": {
-    "en": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-    "zh-Hans": "php2shell高纯度扫描仪(CVE-2026-109618和CVE-2026-109619)",
-    "ja": "php2shell (CVE-2026-109618およびCVE-2026-109619)のための高い忠実度走査器",
-    "ko": "php2shell (CVE-2026-109618 및 CVE-2026-109619)를 위한 높은 fidelity 스캐너",
-    "ms": "Pemindai fidelitas tinggi untuk php2shell (CVE-2026-109618 dan CVE-2026-109619)",
-    "vi": "Máy quét trung thành cao cho php2 vỏ sò (CVE-26-9618 và CVE-26-9619)",
-    "fr": "Scanner haute fidélité pour php2shell (CVE-2026-109618 et CVE-2026-109619)",
-    "es": "Escáner de alta fidelidad para php2shell (CVE-2026-109618 y CVE-2026-109619)",
-    "de": "High-Fidelity Scanner für php2shell (CVE-2026-109618 und CVE-2026-109619)",
-    "zh-Hant": "php2shell高純度掃描器(CVE-2026-109618和CVE-2026-109619)"
    }
   },
   {
@@ -11901,7 +11800,7 @@
     "New",
     "JavaScript"
    ],
-   "meta": "★ 848",
+   "meta": "★ 851",
    "date": "2026-10-28 07:00",
    "lang": "en",
    "source": "GitHub · new",
@@ -11974,7 +11873,7 @@
     "New",
     "JavaScript"
    ],
-   "meta": "★ 813",
+   "meta": "★ 823",
    "date": "2026-10-27 12:03",
    "lang": "en",
    "source": "GitHub · new",
@@ -11993,6 +11892,34 @@
    }
   },
   {
+   "id": "gh-1434445560",
+   "ch": "repos",
+   "title": "D3voz/openjutsu",
+   "summary": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+   "url": "https://github.com/D3voz/openjutsu",
+   "tags": [
+    "New",
+    "TypeScript"
+   ],
+   "meta": "★ 791",
+   "date": "2026-10-26 13:48",
+   "lang": "en",
+   "source": "GitHub · new",
+   "heat": 0.0,
+   "summary_i18n": {
+    "en": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+    "zh-Hans": "单击字符交换视频:一个开源,本地的Higgsfield Genjutsu替代品,由ComfyUI和MiniMax H3所建,由FLUX.3 Klein重燃.",
+    "ja": "動画のためのワンクリックキャラクタースワップ:オープンソース、ローカルHiggsfield Genjutsuの代替はComfyUIとMiniMax H3に構築され、FLUX.3 Kleinリライト。",
+    "ko": "동영상에 대한 원클릭 문자 스왑: 오픈 소스, 로컬 Higgsfield Genjutsu 대안 ComfyUI 및 MiniMax H3, FLUX.3 Klein relighting.",
+    "ms": "Satu-klik swap karakter untuk video: sebuah open-source, lokal Higgsfield Genjutsu alternatif dibangun di ComfyUI dan MiniMax H3, dengan FLUX.3 Klein relighting.",
+    "vi": "Trao đổi ký tự một lần cho video: mã nguồn mở, thay thế Higgsfield Genjutsu được xây dựng trên ComfyUI và MiniMax H3, với FLUX.3 Klein tái chiếu.",
+    "fr": "Swap de caractères en un clic pour les vidéos : une alternative Higgsfield Genjutsu locale open-source construite sur ComfyUI et MiniMax H3, avec relighting FLUX.3 Klein.",
+    "es": "Intercambio de caracteres de un solo clic para vídeos: una alternativa local Higgsfield Genjutsu construida en ComfyUI y MiniMax H3, con relighting FLUX.3 Klein.",
+    "de": "Ein-Klick-Zeichentausch für Videos: eine Open-Source-, lokale Higgsfield Genjutsu-Alternative, die auf ComfyUI und MiniMax H3 basiert, mit FLUX.3 Klein-Wiederbeleuchtung.",
+    "zh-Hant": "單擊字元交換影片:一個開源,本地的Higgsfield Genjutsu替代品,由ComfyUI和MiniMax H3所建,由FLUX.3 Klein重燃."
+   }
+  },
+  {
    "id": "gh-1431464445",
    "ch": "repos",
    "title": "surendrapandar/minilytics",
@@ -12002,7 +11929,7 @@
     "New",
     "TypeScript"
    ],
-   "meta": "★ 788",
+   "meta": "★ 789",
    "date": "2026-10-23 19:27",
    "lang": "en",
    "source": "GitHub · new",
@@ -12021,6 +11948,90 @@
    }
   },
   {
+   "id": "gh-1432875224",
+   "ch": "repos",
+   "title": "mizorewww/gdirect",
+   "summary": "Rust Google Drive direct downloader using pinned libaria2",
+   "url": "https://github.com/mizorewww/gdirect",
+   "tags": [
+    "New",
+    "Rust"
+   ],
+   "meta": "★ 778",
+   "date": "2026-10-25 05:52",
+   "lang": "en",
+   "source": "GitHub · new",
+   "heat": 0.0,
+   "summary_i18n": {
+    "en": "Rust Google Drive direct downloader using pinned libaria2",
+    "zh-Hans": "Rust Google 驱动直接下载器,使用被绑住的libaria2",
+    "ja": "ピン付きlibaria2を使用したGoogleドライブ直接ダウンローダ",
+    "ko": "pinned libaria2를 사용하여 Google 드라이브 직접 다운로드",
+    "ms": "Pemuat-muat-muat-muat-muat-muat ke atas menggunakan libaria2 yang disematkan",
+    "vi": "Rust Google Drive trực tiếp tải về bằng cách nhấn libaria2",
+    "fr": "Rust Google Drive téléchargeur direct en utilisant la libaria2",
+    "es": "Descargador directo Rust Google Drive usando libaria2",
+    "de": "Rust Google Drive direkter Downloader mit Pinned libaria2",
+    "zh-Hant": "Rust Google 驅動直接下載器,使用被綁住的libaria2"
+   }
+  },
+  {
+   "id": "gh-1433846971",
+   "ch": "repos",
+   "title": "yaojingang/GEOInflow",
+   "summary": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+   "url": "https://github.com/yaojingang/GEOInflow",
+   "tags": [
+    "New",
+    "TypeScript"
+   ],
+   "meta": "★ 769",
+   "date": "2026-10-26 03:12",
+   "lang": "en",
+   "source": "GitHub · new",
+   "heat": 0.0,
+   "summary_i18n": {
+    "en": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by",
+    "zh-Hans": "自办网络和AI爬行者分析 基因引擎优化(GEO). 跟踪访客,AI搜索转介,爬行日志,内容覆盖,以及转换. 联合出版者:",
+    "ja": "生成エンジンの最適化(GEO)のためのセルフホスト型WebとAIのクローラー分析。 訪問者、AI検索紹介、クロールログ、コンテンツカバレッジ、変換を追跡します。 共同出版",
+    "ko": "Generative Engine Optimization (GEO)에 대한 자체 호스팅 웹 및 AI 크롤러 분석. 방문자를 추적, AI 검색 추천, 크롤러 로그, 콘텐츠 적용, 및 변환. 공동 출판",
+    "ms": "Self-hosted web dan AI crawler analy untuk Generative Engine Optimation (GEO). Pengunjung Trek, rujukan pencarian AI, log merangkak, liputan konten, dan konversi. Gabungan diterbitkan oleh",
+    "vi": "Tự tạo ra web và AIruger phân tích động cơ gen. Theo dõi du khách, tìm kiếm AI hướng dẫn, thu thập nhật ký, nội dung và chuyển đổi. In chung bởi",
+    "fr": "Auto-hosted web et AI ramper analytics pour l'optimisation Generative Engine (GEO). Suivre les visiteurs, les références de recherche d'IA, les journaux de rampage, la couverture du contenu et les conversions. Publié conjointement par",
+    "es": "Analítica de rastreadores de IA y web auto hospedado para la optimización del motor generador (GEO). Seguimiento de visitantes, referencias de búsqueda de IA, registros de rastreo, cobertura de contenido y conversiones. Publicado conjuntamente por",
+    "de": "Selbst gehostete Web- und AI-Crawler-Analysen für Generative Engine Optimization (GEO). Verfolgen sie besucher, ki-suchempfehlungen, crawl-protokolle, inhaltsabdeckung und conversions. Gemeinsam veröffentlicht von",
+    "zh-Hant": "自辦網路和AI爬行者分析 基因引擎最佳化(GEO). 跟蹤訪客,AI搜尋轉介,爬行日誌,內容覆蓋,以及轉換. 聯合出版者:"
+   }
+  },
+  {
+   "id": "gh-1435761182",
+   "ch": "repos",
+   "title": "OpenBMB/MiniCPM-OCR",
+   "summary": "Fast, accurate OCR with correctness assessment.",
+   "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+   "tags": [
+    "New",
+    "TypeScript"
+   ],
+   "meta": "★ 721",
+   "date": "2026-10-27 13:22",
+   "lang": "en",
+   "source": "GitHub · new",
+   "heat": 0.0,
+   "summary_i18n": {
+    "en": "Fast, accurate OCR with correctness assessment.",
+    "zh-Hans": "快速,准确的OCR带有正确性评估.",
+    "ja": "正確で正確な OCR で正確で正確です。",
+    "ko": "정확함 평가를 가진 빠르고 정확한 OCR.",
+    "ms": "Cepat, OCR akurat dengan penilaian yang benar.",
+    "vi": "Nhanh, chính xác Nhận dạng kí tự với đánh giá chính xác.",
+    "fr": "Récepteur rapide et précis avec évaluation de l'exactitude.",
+    "es": "OCR rápido y preciso con evaluación de corrección.",
+    "de": "Schnelle, genaue OCR mit Korrektheitsbewertung.",
+    "zh-Hant": "快速,準確的OCR帶有正確性評估."
+   }
+  },
+  {
    "id": "hn-50257325",
    "ch": "ai",
    "title": "AI promised less work. I've never worked more",
@@ -12034,12 +12045,12 @@
    "date": "2026-10-27 11:08",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 23.53,
+   "heat": 23.47,
    "hot": {
     "p": 685,
     "c": 664,
     "s": 0,
-    "h": 108
+    "h": 109
    },
    "trend": true,
    "title_i18n": {
@@ -12070,12 +12081,12 @@
    "date": "2026-10-22 16:08",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.96,
+   "heat": 12.95,
    "hot": {
     "p": 667,
     "c": 646,
     "s": 0,
-    "h": 223
+    "h": 224
    },
    "trend": true,
    "title_i18n": {
@@ -12106,7 +12117,7 @@
    "date": "2026-10-24 19:47",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 15.99,
+   "heat": 15.96,
    "hot": {
     "p": 653,
     "c": 678,
@@ -12142,7 +12153,7 @@
    "date": "2026-10-30 15:52",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 52.46,
+   "heat": 52.04,
    "hot": {
     "p": 646,
     "c": 473,
@@ -12213,12 +12224,12 @@
    "date": "2026-10-24 23:11",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 13.78,
+   "heat": 13.75,
    "hot": {
     "p": 546,
     "c": 591,
     "s": 0,
-    "h": 168
+    "h": 169
    },
    "trend": true,
    "title_i18n": {
@@ -12249,7 +12260,7 @@
    "date": "2026-10-27 19:55",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 15.93,
+   "heat": 15.89,
    "hot": {
     "p": 543,
     "c": 203,
@@ -12285,12 +12296,12 @@
    "date": "2026-10-27 11:08",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 14.8,
+   "heat": 14.76,
    "hot": {
     "p": 518,
     "c": 243,
     "s": 0,
-    "h": 108
+    "h": 109
    },
    "trend": true,
    "title_i18n": {
@@ -12321,7 +12332,7 @@
    "date": "2026-10-22 17:44",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.12,
+   "heat": 8.11,
    "hot": {
     "p": 508,
     "c": 218,
@@ -12356,7 +12367,7 @@
    "date": "2026-10-27 06:25",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 15.13,
+   "heat": 15.09,
    "hot": {
     "p": 495,
     "c": 362,
@@ -12392,7 +12403,7 @@
    "date": "2026-10-28 13:41",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 22.05,
+   "heat": 21.98,
    "hot": {
     "p": 491,
     "c": 549,
@@ -12428,7 +12439,7 @@
    "date": "2026-10-21 13:43",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.56,
+   "heat": 6.55,
    "hot": {
     "p": 455,
     "c": 185,
@@ -12463,7 +12474,7 @@
    "date": "2026-10-29 21:40",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 20.93,
+   "heat": 20.83,
    "hot": {
     "p": 412,
     "c": 168,
@@ -12499,7 +12510,7 @@
    "date": "2026-10-27 16:40",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 13.42,
+   "heat": 13.38,
    "hot": {
     "p": 400,
     "c": 313,
@@ -12535,7 +12546,7 @@
    "date": "2026-10-27 16:25",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.81,
+   "heat": 12.78,
    "hot": {
     "p": 386,
     "c": 293,
@@ -12570,7 +12581,7 @@
    "date": "2026-10-25 01:33",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 7.27,
+   "heat": 7.26,
    "hot": {
     "p": 368,
     "c": 142,
@@ -12605,7 +12616,7 @@
    "date": "2026-10-26 16:35",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.2,
+   "heat": 8.18,
    "hot": {
     "p": 335,
     "c": 132,
@@ -12640,12 +12651,12 @@
    "date": "2026-10-30 14:08",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 27.71,
+   "heat": 27.5,
    "hot": {
     "p": 301,
     "c": 368,
     "s": 0,
-    "h": 33
+    "h": 34
    },
    "trend": true,
    "title_i18n": {
@@ -12676,7 +12687,7 @@
    "date": "2026-10-30 17:24",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 25.5,
+   "heat": 25.29,
    "hot": {
     "p": 290,
     "c": 247,
@@ -12747,7 +12758,7 @@
    "date": "2026-10-19 23:22",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.15,
+   "heat": 9.14,
    "hot": {
     "p": 744,
     "c": 222,
@@ -12782,12 +12793,12 @@
    "date": "2026-10-25 17:15",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 14.45,
+   "heat": 14.42,
    "hot": {
     "p": 670,
     "c": 274,
     "s": 0,
-    "h": 150
+    "h": 151
    },
    "trend": true,
    "title_i18n": {
@@ -12818,12 +12829,12 @@
    "date": "2026-10-29 14:57",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 29.56,
+   "heat": 29.42,
    "hot": {
     "p": 604,
     "c": 335,
     "s": 0,
-    "h": 56
+    "h": 57
    },
    "trend": true,
    "title_i18n": {
@@ -12854,7 +12865,7 @@
    "date": "2026-10-18 20:48",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.38,
+   "heat": 6.37,
    "hot": {
     "p": 520,
     "c": 239,
@@ -12889,7 +12900,7 @@
    "date": "2026-10-22 22:54",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.44,
+   "heat": 8.43,
    "hot": {
     "p": 473,
     "c": 312,
@@ -12924,12 +12935,12 @@
    "date": "2026-10-25 21:11",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.09,
+   "heat": 12.07,
    "hot": {
     "p": 443,
     "c": 437,
     "s": 0,
-    "h": 146
+    "h": 147
    },
    "title_i18n": {
     "en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -12959,12 +12970,12 @@
    "date": "2026-10-20 13:06",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.29,
+   "heat": 5.28,
    "hot": {
     "p": 371,
     "c": 209,
     "s": 0,
-    "h": 274
+    "h": 275
    },
    "title_i18n": {
     "en": "Publish fake stats, get cited in LLMs",
@@ -12999,7 +13010,7 @@
     "p": 303,
     "c": 220,
     "s": 0,
-    "h": 314
+    "h": 315
    },
    "title_i18n": {
     "en": "If you don't run your own LLM proxy, how do you know whats going on?",
@@ -13025,13 +13036,13 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 251",
+   "meta": "▲ 252",
    "date": "2026-10-28 12:24",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 7.68,
+   "heat": 7.69,
    "hot": {
-    "p": 251,
+    "p": 252,
     "c": 38,
     "s": 0,
     "h": 83
@@ -13060,14 +13071,14 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 227",
+   "meta": "▲ 229",
    "date": "2026-10-31 14:29",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 41.16,
+   "heat": 40.54,
    "hot": {
-    "p": 227,
-    "c": 125,
+    "p": 229,
+    "c": 126,
     "s": 0,
     "h": 9
    },
@@ -13100,7 +13111,7 @@
    "date": "2026-10-21 04:27",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.27,
+   "heat": 3.26,
    "hot": {
     "p": 227,
     "c": 107,
@@ -13135,7 +13146,7 @@
    "date": "2026-10-19 10:45",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.66,
+   "heat": 8.65,
    "hot": {
     "p": 650,
     "c": 374,
@@ -13170,7 +13181,7 @@
    "date": "2026-10-29 03:33",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 23.35,
+   "heat": 23.26,
    "hot": {
     "p": 584,
     "c": 236,
@@ -13206,12 +13217,12 @@
    "date": "2026-10-28 21:03",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 19.02,
+   "heat": 18.95,
    "hot": {
     "p": 461,
     "c": 305,
     "s": 0,
-    "h": 74
+    "h": 75
    },
    "trend": true,
    "title_i18n": {
@@ -13242,7 +13253,7 @@
    "date": "2026-10-26 21:24",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.27,
+   "heat": 10.25,
    "hot": {
     "p": 361,
     "c": 253,
@@ -13282,7 +13293,7 @@
     "p": 266,
     "c": 185,
     "s": 0,
-    "h": 249
+    "h": 250
    },
    "title_i18n": {
     "en": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
@@ -13312,7 +13323,7 @@
    "date": "2026-10-28 15:46",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.29,
+   "heat": 10.25,
    "hot": {
     "p": 263,
     "c": 174,
@@ -13347,12 +13358,12 @@
    "date": "2026-10-22 21:03",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 14.1,
+   "heat": 14.09,
    "hot": {
     "p": 681,
     "c": 755,
     "s": 0,
-    "h": 218
+    "h": 219
    },
    "trend": true,
    "title_i18n": {
@@ -13418,7 +13429,7 @@
    "date": "2026-10-22 05:23",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.78,
+   "heat": 3.77,
    "hot": {
     "p": 244,
     "c": 111,
@@ -13453,7 +13464,7 @@
    "date": "2026-10-31 03:22",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 22.64,
+   "heat": 22.37,
    "hot": {
     "p": 181,
     "c": 186,
@@ -13489,7 +13500,7 @@
    "date": "2026-10-20 18:29",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 13.05,
+   "heat": 13.04,
    "hot": {
     "p": 941,
     "c": 428,
@@ -13525,7 +13536,7 @@
    "date": "2026-10-24 20:30",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 13.74,
+   "heat": 13.72,
    "hot": {
     "p": 625,
     "c": 450,
@@ -13561,7 +13572,7 @@
    "date": "2026-10-26 03:23",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.51,
+   "heat": 8.5,
    "hot": {
     "p": 409,
     "c": 82,
@@ -13597,7 +13608,7 @@
    "date": "2026-10-25 03:47",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.33,
+   "heat": 6.31,
    "hot": {
     "p": 320,
     "c": 116,
@@ -13633,7 +13644,7 @@
    "date": "2026-10-30 16:40",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 21.45,
+   "heat": 21.27,
    "hot": {
     "p": 282,
     "c": 144,
@@ -13709,7 +13720,7 @@
     "p": 237,
     "c": 102,
     "s": 0,
-    "h": 225
+    "h": 226
    },
    "trend": true,
    "title_i18n": {
@@ -13736,13 +13747,13 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 233",
+   "meta": "▲ 234",
    "date": "2026-10-30 23:51",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 19.83,
+   "heat": 19.7,
    "hot": {
-    "p": 233,
+    "p": 234,
     "c": 73,
     "s": 0,
     "h": 24
@@ -13776,12 +13787,12 @@
    "date": "2026-10-18 13:06",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.9,
+   "heat": 2.89,
    "hot": {
     "p": 231,
     "c": 130,
     "s": 0,
-    "h": 322
+    "h": 323
    },
    "title_i18n": {
     "en": "The Zelda timeline to catch up before the Ocarina of Time remake",
@@ -13846,7 +13857,7 @@
    "date": "2026-10-27 15:24",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.87,
+   "heat": 4.86,
    "hot": {
     "p": 180,
     "c": 48,
@@ -13887,7 +13898,7 @@
     "p": 178,
     "c": 49,
     "s": 0,
-    "h": 152
+    "h": 153
    },
    "title_i18n": {
     "en": "I put employees inside S&P 500 market-cap bubbles",
@@ -13917,12 +13928,12 @@
    "date": "2026-10-26 16:12",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.05,
+   "heat": 4.04,
    "hot": {
     "p": 177,
     "c": 43,
     "s": 0,
-    "h": 127
+    "h": 128
    },
    "trend": true,
    "title_i18n": {
@@ -13958,7 +13969,7 @@
     "p": 158,
     "c": 113,
     "s": 0,
-    "h": 298
+    "h": 299
    },
    "title_i18n": {
     "en": "Qwen3-4B with the AI writing tics trained out",
@@ -14023,7 +14034,7 @@
    "date": "2026-10-29 19:27",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.9,
+   "heat": 8.86,
    "hot": {
     "p": 153,
     "c": 130,
@@ -14059,7 +14070,7 @@
    "date": "2026-10-24 07:18",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.8,
+   "heat": 2.79,
    "hot": {
     "p": 151,
     "c": 65,
@@ -14129,7 +14140,7 @@
    "date": "2026-10-29 23:25",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.35,
+   "heat": 6.32,
    "hot": {
     "p": 129,
     "c": 35,
@@ -14170,7 +14181,7 @@
     "p": 126,
     "c": 39,
     "s": 0,
-    "h": 250
+    "h": 251
    },
    "title_i18n": {
     "en": "Uberblok – an interactive museum of ZFS internals",
@@ -14235,12 +14246,12 @@
    "date": "2026-10-23 00:10",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.06,
+   "heat": 2.05,
    "hot": {
     "p": 112,
     "c": 81,
     "s": 0,
-    "h": 215
+    "h": 216
    },
    "title_i18n": {
     "en": "Making a smart TV dumb and then smart",
@@ -14340,7 +14351,7 @@
    "date": "2026-10-30 15:29",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.13,
+   "heat": 6.08,
    "hot": {
     "p": 83,
     "c": 42,
@@ -14376,12 +14387,12 @@
    "date": "2026-10-28 17:07",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.98,
+   "heat": 2.97,
    "hot": {
     "p": 82,
     "c": 36,
     "s": 0,
-    "h": 78
+    "h": 79
    },
    "title_i18n": {
     "en": "SlideBySide – Present slides without sharing your screen",
@@ -14446,7 +14457,7 @@
    "date": "2026-10-28 18:30",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.64,
+   "heat": 2.63,
    "hot": {
     "p": 81,
     "c": 13,
@@ -14556,7 +14567,7 @@
     "p": 75,
     "c": 32,
     "s": 0,
-    "h": 331
+    "h": 332
    },
    "title_i18n": {
     "en": "500 clocks in one 6.3 MB HTML file by Opus 5.5",
@@ -14591,7 +14602,7 @@
     "p": 72,
     "c": 54,
     "s": 0,
-    "h": 272
+    "h": 273
    },
    "title_i18n": {
     "en": "Jev Cards, Can you beat a vision model at a picture quiz?",
@@ -14626,7 +14637,7 @@
     "p": 71,
     "c": 57,
     "s": 0,
-    "h": 203
+    "h": 204
    },
    "title_i18n": {
     "en": "We had AI write a wiki from 45k Enron emails, every fact cited",
@@ -14766,7 +14777,7 @@
     "p": 66,
     "c": 9,
     "s": 0,
-    "h": 272
+    "h": 273
    },
    "title_i18n": {
     "en": "Penmentor – Claude marks up your handwritten math like a teacher",
@@ -14801,7 +14812,7 @@
     "p": 61,
     "c": 55,
     "s": 0,
-    "h": 298
+    "h": 299
    },
    "title_i18n": {
     "en": "I built a task system to handle the drudgery so I could focus on tasks",
@@ -14866,7 +14877,7 @@
    "date": "2026-10-30 06:55",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.96,
+   "heat": 2.94,
    "hot": {
     "p": 60,
     "c": 0,
@@ -14936,7 +14947,7 @@
    "date": "2026-10-29 16:35",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.35,
+   "heat": 2.34,
    "hot": {
     "p": 52,
     "c": 16,
@@ -14967,13 +14978,13 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 50",
+   "meta": "▲ 51",
    "date": "2026-10-30 07:48",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.18,
+   "heat": 3.21,
    "hot": {
-    "p": 50,
+    "p": 51,
     "c": 27,
     "s": 0,
     "h": 40
@@ -14989,6 +15000,42 @@
     "es": "Ghostman – Un cliente de API de TUI y un inspector de webhook de alta velocidad",
     "de": "Ghostman – Ein schneller, Keyboard-gesteuerter TUI API Client und Webhook Inspektor",
     "zh-Hant": "Ghostman — 一個快速、鍵盤驅動的 TUI API 客戶端和 Webhook 檢查員"
+   },
+   "summary_i18n": {}
+  },
+  {
+   "id": "hn-50315782",
+   "ch": "products",
+   "title": "A language model that lives in a boot sector",
+   "summary": "",
+   "url": "https://github.com/kerlenton/bootgpt",
+   "discuss": "https://news.ycombinator.com/item?id=50315782",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 47",
+   "date": "2026-10-31 12:58",
+   "lang": "en",
+   "source": "Hacker News",
+   "heat": 5.92,
+   "hot": {
+    "p": 47,
+    "c": 0,
+    "s": 0,
+    "h": 11
+   },
+   "trend": true,
+   "title_i18n": {
+    "en": "A language model that lives in a boot sector",
+    "zh-Hans": "住在新区的语言模型",
+    "ja": "ブートセクターに住んでいる言語モデル",
+    "ko": "부트 부문에 사는 언어 모델",
+    "ms": "Model bahasa yang hidup di sektor boot",
+    "vi": "Name",
+    "fr": "Un modèle de langue qui vit dans un secteur de démarrage",
+    "es": "Un modelo de lenguaje que vive en un sector de arranque",
+    "de": "Ein Sprachmodell, das in einem Bootsektor lebt",
+    "zh-Hant": "住在新區的語言模型"
    },
    "summary_i18n": {}
   },
@@ -15024,42 +15071,6 @@
     "es": "Glider 4.0 Edición Web no oficial (puerto del juego Mac)",
     "de": "Glider 4.0 Inoffizielle Web Edition (Mac Game Port)",
     "zh-Hant": "Glider 4.0 非官方網頁版(Mac遊戲埠)"
-   },
-   "summary_i18n": {}
-  },
-  {
-   "id": "hn-50315782",
-   "ch": "products",
-   "title": "A language model that lives in a boot sector",
-   "summary": "",
-   "url": "https://github.com/kerlenton/bootgpt",
-   "discuss": "https://news.ycombinator.com/item?id=50315782",
-   "tags": [
-    "HN"
-   ],
-   "meta": "▲ 46",
-   "date": "2026-10-31 12:58",
-   "lang": "en",
-   "source": "Hacker News",
-   "heat": 5.92,
-   "hot": {
-    "p": 46,
-    "c": 0,
-    "s": 0,
-    "h": 10
-   },
-   "trend": true,
-   "title_i18n": {
-    "en": "A language model that lives in a boot sector",
-    "zh-Hans": "住在新区的语言模型",
-    "ja": "ブートセクターに住んでいる言語モデル",
-    "ko": "부트 부문에 사는 언어 모델",
-    "ms": "Model bahasa yang hidup di sektor boot",
-    "vi": "Name",
-    "fr": "Un modèle de langue qui vit dans un secteur de démarrage",
-    "es": "Un modelo de lenguaje que vive en un sector de arranque",
-    "de": "Ein Sprachmodell, das in einem Bootsektor lebt",
-    "zh-Hant": "住在新區的語言模型"
    },
    "summary_i18n": {}
   },
@@ -15112,7 +15123,7 @@
    "date": "2026-10-29 17:48",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 1.95,
+   "heat": 1.94,
    "hot": {
     "p": 44,
     "c": 10,
@@ -15147,12 +15158,12 @@
    "date": "2026-10-29 11:15",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.41,
+   "heat": 2.4,
    "hot": {
     "p": 43,
     "c": 46,
     "s": 0,
-    "h": 60
+    "h": 61
    },
    "title_i18n": {
     "en": "UK Farming Simulator",
@@ -15182,10 +15193,10 @@
    "date": "2026-10-31 15:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.27,
+   "heat": 9.1,
    "hot": {
     "p": 43,
-    "c": 31,
+    "c": 32,
     "s": 0,
     "h": 8
    },
@@ -15293,7 +15304,7 @@
     "p": 39,
     "c": 9,
     "s": 0,
-    "h": 142
+    "h": 143
    },
    "title_i18n": {
     "en": "Freehire, open-source search 3M+ tech jobs from company career boards",
@@ -15306,6 +15317,42 @@
     "es": "Freehire, opensource search 3M+ tech jobs from company career boards",
     "de": "Freehire, Open-Source-Suche 3M + Tech-Jobs von Unternehmen Karriere Boards",
     "zh-Hant": "Freehire,開源搜尋 3M+技術工作 從公司職業委員會"
+   },
+   "summary_i18n": {}
+  },
+  {
+   "id": "hn-50319169",
+   "ch": "products",
+   "title": "NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+   "summary": "",
+   "url": "https://epoyraz.github.io/nes-contra-us/",
+   "discuss": "https://news.ycombinator.com/item?id=50319169",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 38",
+   "date": "2026-10-31 19:18",
+   "lang": "en",
+   "source": "Hacker News",
+   "heat": 10.77,
+   "hot": {
+    "p": 38,
+    "c": 26,
+    "s": 0,
+    "h": 4
+   },
+   "trend": true,
+   "title_i18n": {
+    "en": "NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+    "zh-Hans": "NES Contra (1987) 端口(ASM ++C,然后是 C + 网络大会)",
+    "ja": "NESコントラ (1987) ポート (ASM – > C と C – > WebAssembly)",
+    "ko": "NES Contra (1987) 포트 (ASM -> C 및 C -> WebAssembly)",
+    "ms": "Pelabuhan NES Contra (1987) (ASM –> C dan kemudian C –> WebAssembly)",
+    "vi": "Cổng NES Contra (1987) cảng (ASM –> C và sau đó C –> Web Assembly)",
+    "fr": "NES Contra (1987) port (ASM –> C puis C –> WebAssembly)",
+    "es": "Puerto de NES Contra (1987) (ASM – título C y luego C – título WebAssembly)",
+    "de": "NES Contra (1987) Port (ASM -> C und dann C -> WebAssembly)",
+    "zh-Hant": "NES Contra (1987) 埠(ASM ++C,然後是 C + 網路大會)"
    },
    "summary_i18n": {}
   },
@@ -15323,7 +15370,7 @@
    "date": "2026-10-28 14:32",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 1.15,
+   "heat": 1.14,
    "hot": {
     "p": 38,
     "c": 3,
@@ -15358,12 +15405,12 @@
    "date": "2026-10-30 02:05",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.15,
+   "heat": 2.14,
    "hot": {
     "p": 37,
     "c": 21,
     "s": 0,
-    "h": 45
+    "h": 46
    },
    "title_i18n": {
     "en": "Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
@@ -15398,7 +15445,7 @@
     "p": 37,
     "c": 13,
     "s": 0,
-    "h": 289
+    "h": 290
    },
    "title_i18n": {
     "en": "RoadRash ported to Three.js to run in the browser",
@@ -15428,7 +15475,7 @@
    "date": "2026-10-30 15:23",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.38,
+   "heat": 2.36,
    "hot": {
     "p": 35,
     "c": 11,
@@ -15468,7 +15515,7 @@
     "p": 34,
     "c": 32,
     "s": 0,
-    "h": 104
+    "h": 105
    },
    "title_i18n": {
     "en": "Specification First Agentic Development Plugin and Prove",
@@ -15481,42 +15528,6 @@
     "es": "Especificación Primer Plugin de Desarrollo Agente y Prove",
     "de": "Spezifikation First Agentic Development Plugin und Prove",
     "zh-Hant": "第一代理開發外掛和證明"
-   },
-   "summary_i18n": {}
-  },
-  {
-   "id": "hn-50319169",
-   "ch": "products",
-   "title": "NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-   "summary": "",
-   "url": "https://epoyraz.github.io/nes-contra-us/",
-   "discuss": "https://news.ycombinator.com/item?id=50319169",
-   "tags": [
-    "HN"
-   ],
-   "meta": "▲ 34",
-   "date": "2026-10-31 19:18",
-   "lang": "en",
-   "source": "Hacker News",
-   "heat": 9.68,
-   "hot": {
-    "p": 34,
-    "c": 20,
-    "s": 0,
-    "h": 4
-   },
-   "trend": true,
-   "title_i18n": {
-    "en": "NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-    "zh-Hans": "NES Contra (1987) 端口(ASM ++C,然后是 C + 网络大会)",
-    "ja": "NESコントラ (1987) ポート (ASM – > C と C – > WebAssembly)",
-    "ko": "NES Contra (1987) 포트 (ASM -> C 및 C -> WebAssembly)",
-    "ms": "Pelabuhan NES Contra (1987) (ASM –> C dan kemudian C –> WebAssembly)",
-    "vi": "Cổng NES Contra (1987) cảng (ASM –> C và sau đó C –> Web Assembly)",
-    "fr": "NES Contra (1987) port (ASM –> C puis C –> WebAssembly)",
-    "es": "Puerto de NES Contra (1987) (ASM – título C y luego C – título WebAssembly)",
-    "de": "NES Contra (1987) Port (ASM -> C und dann C -> WebAssembly)",
-    "zh-Hant": "NES Contra (1987) 埠(ASM ++C,然後是 C + 網路大會)"
    },
    "summary_i18n": {}
   },
@@ -15639,7 +15650,7 @@
    "date": "2026-10-29 15:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.69,
+   "heat": 3.67,
    "hot": {
     "p": 77,
     "c": 36,
@@ -15714,7 +15725,7 @@
     "p": 59,
     "c": 35,
     "s": 0,
-    "h": 295
+    "h": 296
    },
    "title_i18n": {
     "en": "Laminar (YC S24) – RL-trained model that finds errors in agent traces",
@@ -15749,7 +15760,7 @@
     "p": 53,
     "c": 24,
     "s": 0,
-    "h": 272
+    "h": 273
    },
    "title_i18n": {
     "en": "Respan (YC W24) – Open-source Rust AI gateway built around plugins",
@@ -15854,7 +15865,7 @@
     "p": 136,
     "c": 67,
     "s": 0,
-    "h": 291
+    "h": 292
    },
    "title_i18n": {
     "en": "Startup taps underwater volcano as energy source in “proof point” test",
@@ -15884,7 +15895,7 @@
    "date": "2026-10-31 13:25",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.99,
+   "heat": 10.75,
    "hot": {
     "p": 74,
     "c": 18,
@@ -15990,7 +16001,7 @@
    "date": "2026-10-23 13:49",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.72,
+   "heat": 9.71,
    "hot": {
     "p": 616,
     "c": 138,
@@ -16026,7 +16037,7 @@
    "date": "2026-10-24 05:49",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 17.86,
+   "heat": 17.84,
    "hot": {
     "p": 858,
     "c": 642,
@@ -16062,12 +16073,12 @@
    "date": "2026-10-24 19:06",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.64,
+   "heat": 12.62,
    "hot": {
     "p": 603,
     "c": 367,
     "s": 0,
-    "h": 172
+    "h": 173
    },
    "trend": true,
    "title_i18n": {
@@ -16098,7 +16109,7 @@
    "date": "2026-10-23 03:20",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 1.49,
+   "heat": 1.48,
    "hot": {
     "p": 92,
     "c": 34,
@@ -16138,7 +16149,7 @@
     "p": 168,
     "c": 111,
     "s": 0,
-    "h": 698
+    "h": 699
    },
    "title_i18n": {
     "en": "Every SaaS business will become a harness around a model",
@@ -16173,7 +16184,7 @@
     "p": 709,
     "c": 364,
     "s": 0,
-    "h": 530
+    "h": 531
    },
    "title_i18n": {
     "en": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
@@ -16203,7 +16214,7 @@
    "date": "2026-10-26 01:47",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 11.18,
+   "heat": 11.16,
    "hot": {
     "p": 427,
     "c": 339,
@@ -16239,7 +16250,7 @@
    "date": "2026-10-23 19:34",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 7.33,
+   "heat": 7.32,
    "hot": {
     "p": 403,
     "c": 203,
@@ -16274,7 +16285,7 @@
    "date": "2026-10-30 17:27",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 28.65,
+   "heat": 28.41,
    "hot": {
     "p": 322,
     "c": 284,
@@ -16310,7 +16321,7 @@
    "date": "2026-10-26 13:54",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.0,
+   "heat": 4.99,
    "hot": {
     "p": 201,
     "c": 95,
@@ -16345,7 +16356,7 @@
    "date": "2026-10-30 21:30",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.16,
+   "heat": 12.04,
    "hot": {
     "p": 157,
     "c": 40,
@@ -16381,12 +16392,12 @@
    "date": "2026-10-24 19:03",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.24,
+   "heat": 3.23,
    "hot": {
     "p": 150,
     "c": 103,
     "s": 0,
-    "h": 172
+    "h": 173
    },
    "title_i18n": {
     "en": "PHP Foundation 'under-funded' with one full-time staff member, director says",
@@ -16421,7 +16432,7 @@
     "p": 116,
     "c": 128,
     "s": 0,
-    "h": 449
+    "h": 450
    },
    "title_i18n": {
     "en": "Threat of AI share crash puts world financial stability at risk, says IMF",
@@ -16451,12 +16462,12 @@
    "date": "2026-10-27 19:11",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.29,
+   "heat": 4.28,
    "hot": {
     "p": 107,
     "c": 135,
     "s": 0,
-    "h": 100
+    "h": 101
    },
    "title_i18n": {
     "en": "US President says he will ban the term 'artificial intelligence'",
@@ -16486,12 +16497,12 @@
    "date": "2026-10-25 09:04",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.16,
+   "heat": 3.15,
    "hot": {
     "p": 127,
     "c": 114,
     "s": 0,
-    "h": 158
+    "h": 159
    },
    "title_i18n": {
     "en": "Online censorship is crushing indie webcomics",
@@ -16591,12 +16602,12 @@
    "date": "2026-10-03 22:07",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.49,
+   "heat": 3.48,
    "hot": {
     "p": 503,
     "c": 274,
     "s": 0,
-    "h": 673
+    "h": 674
    },
    "title_i18n": {
     "en": "Federal judge calls Flock 'indiscriminate mass surveillance'",
@@ -16626,7 +16637,7 @@
    "date": "2026-10-29 12:41",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 17.12,
+   "heat": 17.04,
    "hot": {
     "p": 338,
     "c": 245,
@@ -16697,12 +16708,12 @@
    "date": "2026-10-28 03:06",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.6,
+   "heat": 3.59,
    "hot": {
     "p": 96,
     "c": 83,
     "s": 0,
-    "h": 92
+    "h": 93
    },
    "title_i18n": {
     "en": "Artificial Analysis Intelligence Index v5",
@@ -16732,7 +16743,7 @@
    "date": "2026-10-27 15:39",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 1.5,
+   "heat": 1.49,
    "hot": {
     "p": 58,
     "c": 9,
@@ -16772,7 +16783,7 @@
     "p": 55,
     "c": 22,
     "s": 0,
-    "h": 187
+    "h": 188
    },
    "title_i18n": {
     "en": "Indian government sites are serving revoked eMudhra certificates",
@@ -16807,7 +16818,7 @@
     "p": 37,
     "c": 20,
     "s": 0,
-    "h": 53
+    "h": 54
    },
    "title_i18n": {
     "en": "Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -16842,7 +16853,7 @@
     "p": 433,
     "c": 55,
     "s": 0,
-    "h": 533
+    "h": 534
    },
    "title_i18n": {
     "en": "Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
@@ -16877,7 +16888,7 @@
     "p": 122,
     "c": 46,
     "s": 0,
-    "h": 566
+    "h": 567
    },
    "title_i18n": {
     "en": "Proton Drive for Linux",
@@ -16903,16 +16914,16 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 966",
+   "meta": "▲ 967",
    "date": "2026-10-30 07:09",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 61.4,
+   "heat": 61.06,
    "hot": {
-    "p": 966,
+    "p": 967,
     "c": 547,
     "s": 0,
-    "h": 40
+    "h": 41
    },
    "trend": true,
    "title_i18n": {
@@ -16943,12 +16954,12 @@
    "date": "2026-10-30 11:05",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 35.5,
+   "heat": 35.25,
    "hot": {
     "p": 655,
     "c": 17,
     "s": 0,
-    "h": 36
+    "h": 37
    },
    "trend": true,
    "title_i18n": {
@@ -16979,7 +16990,7 @@
    "date": "2026-10-27 15:28",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 17.99,
+   "heat": 17.94,
    "hot": {
     "p": 604,
     "c": 298,
@@ -17015,12 +17026,12 @@
    "date": "2026-10-21 19:14",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.21,
+   "heat": 10.2,
    "hot": {
     "p": 568,
     "c": 538,
     "s": 0,
-    "h": 244
+    "h": 245
    },
    "title_i18n": {
     "en": "Claude Duet",
@@ -17050,7 +17061,7 @@
    "date": "2026-10-30 10:22",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 21.07,
+   "heat": 20.92,
    "hot": {
     "p": 399,
     "c": 1,
@@ -17086,7 +17097,7 @@
    "date": "2026-10-27 20:50",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.52,
+   "heat": 12.49,
    "hot": {
     "p": 328,
     "c": 350,
@@ -17121,7 +17132,7 @@
    "date": "2026-10-23 11:39",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.44,
+   "heat": 5.43,
    "hot": {
     "p": 324,
     "c": 125,
@@ -17232,7 +17243,7 @@
     "p": 90,
     "c": 128,
     "s": 0,
-    "h": 153
+    "h": 154
    },
    "trend": true,
    "title_i18n": {
@@ -17263,7 +17274,7 @@
    "date": "2026-10-28 13:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.54,
+   "heat": 2.53,
    "hot": {
     "p": 69,
     "c": 38,
@@ -17299,12 +17310,12 @@
    "date": "2026-10-23 16:59",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 20.63,
+   "heat": 20.6,
    "hot": {
     "p": 1096,
     "c": 679,
     "s": 0,
-    "h": 198
+    "h": 199
    },
    "trend": true,
    "title_i18n": {
@@ -17371,7 +17382,7 @@
    "date": "2026-10-20 06:37",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.43,
+   "heat": 5.42,
    "hot": {
     "p": 431,
     "c": 132,
@@ -17407,7 +17418,7 @@
    "date": "2026-10-24 15:20",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.45,
+   "heat": 6.44,
    "hot": {
     "p": 362,
     "c": 93,
@@ -17475,16 +17486,16 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 271",
+   "meta": "▲ 281",
    "date": "2026-10-31 19:16",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 73.83,
+   "heat": 73.76,
    "hot": {
-    "p": 271,
-    "c": 132,
+    "p": 281,
+    "c": 139,
     "s": 0,
-    "h": 4
+    "h": 5
    },
    "trend": true,
    "title_i18n": {
@@ -17556,7 +17567,7 @@
     "p": 220,
     "c": 128,
     "s": 0,
-    "h": 491
+    "h": 492
    },
    "trend": true,
    "title_i18n": {
@@ -17628,9 +17639,8 @@
     "p": 133,
     "c": 105,
     "s": 0,
-    "h": 330
+    "h": 331
    },
-   "trend": true,
    "title_i18n": {
     "en": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
     "zh-Hans": "马修·普林斯 关于云雀为何提供免费版本 永远会(2016年)",
@@ -17659,7 +17669,7 @@
    "date": "2026-10-30 09:17",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 11.28,
+   "heat": 11.2,
    "hot": {
     "p": 148,
     "c": 141,
@@ -17695,12 +17705,12 @@
    "date": "2026-10-30 17:00",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.51,
+   "heat": 3.48,
    "hot": {
     "p": 44,
     "c": 27,
     "s": 0,
-    "h": 30
+    "h": 31
    },
    "title_i18n": {
     "en": "Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",
@@ -17726,13 +17736,13 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 334",
+   "meta": "▲ 335",
    "date": "2026-10-31 02:46",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 31.88,
+   "heat": 31.59,
    "hot": {
-    "p": 334,
+    "p": 335,
     "c": 120,
     "s": 0,
     "h": 21
@@ -17766,12 +17776,12 @@
    "date": "2026-10-22 10:11",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 11.39,
+   "heat": 11.37,
    "hot": {
     "p": 753,
     "c": 270,
     "s": 0,
-    "h": 229
+    "h": 230
    },
    "trend": true,
    "title_i18n": {
@@ -17802,7 +17812,7 @@
    "date": "2026-10-20 15:20",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.76,
+   "heat": 3.75,
    "hot": {
     "p": 304,
     "c": 63,
@@ -17837,12 +17847,12 @@
    "date": "2026-10-28 11:03",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 39.42,
+   "heat": 39.31,
    "hot": {
     "p": 1197,
-    "c": 411,
+    "c": 412,
     "s": 0,
-    "h": 84
+    "h": 85
    },
    "trend": true,
    "title_i18n": {
@@ -17873,7 +17883,7 @@
    "date": "2026-10-23 12:28",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 15.26,
+   "heat": 15.24,
    "hot": {
     "p": 942,
     "c": 278,
@@ -17909,7 +17919,7 @@
    "date": "2026-10-20 12:17",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.4,
+   "heat": 8.39,
    "hot": {
     "p": 609,
     "c": 296,
@@ -17945,7 +17955,7 @@
    "date": "2026-10-19 09:21",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.92,
+   "heat": 2.91,
    "hot": {
     "p": 233,
     "c": 100,
@@ -17980,7 +17990,7 @@
    "date": "2026-10-22 01:52",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.28,
+   "heat": 3.27,
    "hot": {
     "p": 193,
     "c": 140,
@@ -18015,7 +18025,7 @@
    "date": "2026-10-24 02:36",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.07,
+   "heat": 4.06,
    "hot": {
     "p": 191,
     "c": 162,
@@ -18050,7 +18060,7 @@
    "date": "2026-10-29 16:42",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 23.9,
+   "heat": 23.79,
    "hot": {
     "p": 431,
     "c": 356,
@@ -18086,7 +18096,7 @@
    "date": "2026-10-20 10:26",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.65,
+   "heat": 5.64,
    "hot": {
     "p": 407,
     "c": 209,
@@ -18122,7 +18132,7 @@
    "date": "2026-10-27 18:44",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.76,
+   "heat": 10.74,
    "hot": {
     "p": 332,
     "c": 215,
@@ -18145,42 +18155,6 @@
    "summary_i18n": {}
   },
   {
-   "id": "hn-50314654",
-   "ch": "news",
-   "title": "Serbia just elected the world's brainiest parliament",
-   "summary": "",
-   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-   "discuss": "https://news.ycombinator.com/item?id=50314654",
-   "tags": [
-    "HN"
-   ],
-   "meta": "▲ 794",
-   "date": "2026-10-31 10:21",
-   "lang": "en",
-   "source": "Hacker News",
-   "heat": 113.67,
-   "hot": {
-    "p": 794,
-    "c": 458,
-    "s": 0,
-    "h": 13
-   },
-   "trend": true,
-   "title_i18n": {
-    "en": "Serbia just elected the world's brainiest parliament",
-    "zh-Hans": "塞尔维亚刚刚选出了世界上最聪明的议会",
-    "ja": "セルビアは、世界の頭脳の議会を選択しました",
-    "ko": "Serbia는 세계 뇌의 가장 큰 의회를 선출",
-    "ms": "Serbia baru saja memilih parlemen terotak di dunia",
-    "vi": "Serbia vừa mới bầu ra nghị viện thông minh nhất thế giới.",
-    "fr": "La Serbie vient d'élire le parlement le plus averti du monde",
-    "es": "Serbia acaba de elegir el parlamento más inteligente del mundo",
-    "de": "Serbien hat gerade das gehirnreichste Parlament der Welt gewählt",
-    "zh-Hant": "塞爾維亞剛剛選出了世界上最聰明的議會"
-   },
-   "summary_i18n": {}
-  },
-  {
    "id": "hn-50319510",
    "ch": "news",
    "title": "HackerTube: YouTube built from videos recommended by HN",
@@ -18190,14 +18164,14 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 522",
+   "meta": "▲ 565",
    "date": "2026-10-31 19:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 147.52,
+   "heat": 152.49,
    "hot": {
-    "p": 522,
-    "c": 194,
+    "p": 565,
+    "c": 208,
     "s": 0,
     "h": 4
    },
@@ -18226,16 +18200,16 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 301",
+   "meta": "▲ 303",
    "date": "2026-10-31 06:16",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 38.05,
+   "heat": 37.75,
    "hot": {
-    "p": 301,
-    "c": 223,
+    "p": 303,
+    "c": 224,
     "s": 0,
-    "h": 17
+    "h": 18
    },
    "trend": true,
    "title_i18n": {
@@ -18262,14 +18236,14 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 297",
+   "meta": "▲ 298",
    "date": "2026-10-31 10:30",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 41.26,
+   "heat": 40.76,
    "hot": {
-    "p": 297,
-    "c": 143,
+    "p": 298,
+    "c": 145,
     "s": 0,
     "h": 13
    },
@@ -18298,14 +18272,14 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 292",
+   "meta": "▲ 295",
    "date": "2026-10-31 10:23",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 42.02,
+   "heat": 41.67,
    "hot": {
-    "p": 292,
-    "c": 171,
+    "p": 295,
+    "c": 172,
     "s": 0,
     "h": 13
    },
@@ -18334,7 +18308,7 @@
     "HF",
     "text-generation"
    ],
-   "meta": "♥ 872",
+   "meta": "♥ 874",
    "date": "2026-10-24 02:49",
    "lang": "en",
    "source": "Hugging Face",
@@ -18362,7 +18336,7 @@
     "HF",
     "image-text-to-text"
    ],
-   "meta": "♥ 4,102",
+   "meta": "♥ 4,103",
    "date": "2026-10-17 02:40",
    "lang": "en",
    "source": "Hugging Face",
@@ -18418,7 +18392,7 @@
     "HF",
     "automatic-speech-recognition"
    ],
-   "meta": "♥ 544",
+   "meta": "♥ 545",
    "date": "2026-10-07 22:50",
    "lang": "en",
    "source": "Hugging Face",
@@ -18502,7 +18476,7 @@
     "HF",
     "image-to-video"
    ],
-   "meta": "♥ 10,087",
+   "meta": "♥ 10,091",
    "date": "2026-07-23 07:55",
    "lang": "en",
    "source": "Hugging Face",
@@ -18530,7 +18504,7 @@
     "HF",
     "model"
    ],
-   "meta": "♥ 393",
+   "meta": "♥ 394",
    "date": "2026-10-25 05:43",
    "lang": "en",
    "source": "Hugging Face",
@@ -18670,7 +18644,7 @@
     "HF",
     "image-text-to-text"
    ],
-   "meta": "♥ 18,858",
+   "meta": "♥ 18,859",
    "date": "2026-08-05 08:22",
    "lang": "en",
    "source": "Hugging Face",
@@ -18782,7 +18756,7 @@
     "HF",
     "image-to-3d"
    ],
-   "meta": "♥ 209",
+   "meta": "♥ 210",
    "date": "2026-10-28 15:55",
    "lang": "en",
    "source": "Hugging Face",
@@ -18894,7 +18868,7 @@
     "HF",
     "mask-generation"
    ],
-   "meta": "♥ 5,566",
+   "meta": "♥ 5,567",
    "date": "2025-11-07 05:17",
    "lang": "en",
    "source": "Hugging Face",
@@ -18941,6 +18915,34 @@
    }
   },
   {
+   "id": "hf-nvidia-NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+   "ch": "ai",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+   "summary": "Trending model on Hugging Face · text-generation",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+   "tags": [
+    "HF",
+    "text-generation"
+   ],
+   "meta": "♥ 306",
+   "date": "2026-10-05 04:26",
+   "lang": "en",
+   "source": "Hugging Face",
+   "heat": 0.0,
+   "summary_i18n": {
+    "en": "Trending model on Hugging Face · text-generation",
+    "zh-Hans": "——文本生成",
+    "ja": "抱擁面のトレンドモデル・テキスト生成",
+    "ko": "Hugging Face · text-generation의 동향 모델",
+    "ms": "Model Trending on Hugging Face · generasi teks",
+    "vi": "Mô hình quay vòng về thế hệ văn bản mặt.",
+    "fr": "Modèle tendance sur Hugging Face · génération de texte",
+    "es": "Modelo de tendencia en Hugging Face · generación de texto",
+    "de": "Trendmodell auf Hugging Face · Textgenerierung",
+    "zh-Hant": "——文字生成"
+   }
+  },
+  {
    "id": "hf-LiquidAI-LFM3-Audio-2B",
    "ch": "ai",
    "title": "LiquidAI/LFM3-Audio-2B",
@@ -18969,34 +18971,6 @@
    }
   },
   {
-   "id": "hf-nvidia-NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-   "ch": "ai",
-   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-   "summary": "Trending model on Hugging Face · text-generation",
-   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-   "tags": [
-    "HF",
-    "text-generation"
-   ],
-   "meta": "♥ 304",
-   "date": "2026-10-05 04:26",
-   "lang": "en",
-   "source": "Hugging Face",
-   "heat": 0.0,
-   "summary_i18n": {
-    "en": "Trending model on Hugging Face · text-generation",
-    "zh-Hans": "——文本生成",
-    "ja": "抱擁面のトレンドモデル・テキスト生成",
-    "ko": "Hugging Face · text-generation의 동향 모델",
-    "ms": "Model Trending on Hugging Face · generasi teks",
-    "vi": "Mô hình quay vòng về thế hệ văn bản mặt.",
-    "fr": "Modèle tendance sur Hugging Face · génération de texte",
-    "es": "Modelo de tendencia en Hugging Face · generación de texto",
-    "de": "Trendmodell auf Hugging Face · Textgenerierung",
-    "zh-Hant": "——文字生成"
-   }
-  },
-  {
    "id": "hf-Edge0-Audio8-TTS-Realistic-0.6b",
    "ch": "ai",
    "title": "Edge0/Audio8-TTS-Realistic-0.6b",
@@ -19006,7 +18980,7 @@
     "HF",
     "text-to-speech"
    ],
-   "meta": "♥ 157",
+   "meta": "♥ 158",
    "date": "2026-10-14 03:02",
    "lang": "en",
    "source": "Hugging Face",
@@ -19300,7 +19274,7 @@
     "Lobsters",
     "science"
    ],
-   "meta": "▲ 17",
+   "meta": "▲ 18",
    "date": "2026-10-31 14:50",
    "lang": "en",
    "source": "Lobsters",
@@ -19342,7 +19316,7 @@
     "historical",
     "windows"
    ],
-   "meta": "▲ 59",
+   "meta": "▲ 61",
    "date": "2026-10-30 20:01",
    "lang": "en",
    "source": "Lobsters",
@@ -19468,7 +19442,7 @@
     "linux",
     "release"
    ],
-   "meta": "▲ 10",
+   "meta": "▲ 11",
    "date": "2026-10-31 13:02",
    "lang": "en",
    "source": "Lobsters",
@@ -19509,7 +19483,7 @@
     "Lobsters",
     "unix"
    ],
-   "meta": "▲ 6",
+   "meta": "▲ 7",
    "date": "2026-10-31 15:31",
    "lang": "en",
    "source": "Lobsters",
@@ -19882,7 +19856,7 @@
     "Lobsters",
     "retrocomputing"
    ],
-   "meta": "▲ 42",
+   "meta": "▲ 43",
    "date": "2026-10-30 11:06",
    "lang": "en",
    "source": "Lobsters",
@@ -21636,7 +21610,7 @@
     "HF Space",
     "gradio"
    ],
-   "meta": "♥ 79",
+   "meta": "♥ 80",
    "date": "2026-10-11 14:32",
    "lang": "en",
    "source": "HF Spaces",
@@ -21676,7 +21650,7 @@
     "HF Space",
     "gradio"
    ],
-   "meta": "♥ 305",
+   "meta": "♥ 306",
    "date": "2026-09-19 10:48",
    "lang": "en",
    "source": "HF Spaces",
@@ -21867,46 +21841,6 @@
    }
   },
   {
-   "id": "hfs-Viggle-Qwen-Image-2.1-viggle-turbo",
-   "ch": "products",
-   "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
-   "summary": "Trending AI app on Hugging Face Spaces · gradio",
-   "url": "https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo",
-   "tags": [
-    "HF Space",
-    "gradio"
-   ],
-   "meta": "♥ 429",
-   "date": "2026-09-22 04:17",
-   "lang": "en",
-   "source": "HF Spaces",
-   "heat": 0.0,
-   "title_i18n": {
-    "en": "Viggle/Qwen-Image-2.1-viggle-turbo",
-    "zh-Hans": "Viggle/ Quen- Image-2.1- vigle- 涡轮",
-    "ja": "Viggle/Qwen-Image-2.1-viggle-turbo の使い方",
-    "ko": "Viggle/Qwen-이미지-2.1-viggle-turbo",
-    "ms": "^ a b c d e f g h i j k",
-    "vi": "Viggle/Qwen- Image-2.1-viggle-Turbo",
-    "fr": "Viggle/Qwen-Image-2.1-viggle-turbo",
-    "es": "Viggle/Qwen-Image-2.1-viggle-turbo",
-    "de": "Viggle/Qwen-Image-2.1-viggle-turbo",
-    "zh-Hant": "Viggle/ Quen- Image-2.1- vigle- 渦輪"
-   },
-   "summary_i18n": {
-    "en": "Trending AI app on Hugging Face Spaces · gradio",
-    "zh-Hans": "动漫AI应用在Higging Face Spaces上 . gradio",
-    "ja": "Hugging Face Spaces・グラディオでAIアプリをトレンディング",
-    "ko": "Hugging Face Spaces · gradio의 AI 앱 동향",
-    "ms": "Trending aplikasi AI pada Hugging Face Spaces · gradio",
-    "vi": "Ứng dụng AI trong Hugling Face Spaces . ggio",
-    "fr": "App Trending AI sur Hugging Face Spaces · gradio",
-    "es": "Aplicación de IA en Hugging Face Spaces · gradio",
-    "de": "Trending AI App auf Hugging Face Spaces · Gradio",
-    "zh-Hant": "動漫AI應用在Higging Face Spaces上 . gradio"
-   }
-  },
-  {
    "id": "hfs-Aura1in-Krea-2-Turbo_v2",
    "ch": "products",
    "title": "Aura1in/Krea-2-Turbo_v2",
@@ -21972,6 +21906,46 @@
     "es": "vamo455/Omni-videos-custom-auto prompt alta calidad",
     "de": "vamo455/Omni-videos-custom-auto prompt high quality",
     "zh-Hant": "vamo455/Omni-videos-custom-auto prompt 高質量"
+   },
+   "summary_i18n": {
+    "en": "Trending AI app on Hugging Face Spaces · gradio",
+    "zh-Hans": "动漫AI应用在Higging Face Spaces上 . gradio",
+    "ja": "Hugging Face Spaces・グラディオでAIアプリをトレンディング",
+    "ko": "Hugging Face Spaces · gradio의 AI 앱 동향",
+    "ms": "Trending aplikasi AI pada Hugging Face Spaces · gradio",
+    "vi": "Ứng dụng AI trong Hugling Face Spaces . ggio",
+    "fr": "App Trending AI sur Hugging Face Spaces · gradio",
+    "es": "Aplicación de IA en Hugging Face Spaces · gradio",
+    "de": "Trending AI App auf Hugging Face Spaces · Gradio",
+    "zh-Hant": "動漫AI應用在Higging Face Spaces上 . gradio"
+   }
+  },
+  {
+   "id": "hfs-Viggle-Qwen-Image-2.1-viggle-turbo",
+   "ch": "products",
+   "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+   "summary": "Trending AI app on Hugging Face Spaces · gradio",
+   "url": "https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo",
+   "tags": [
+    "HF Space",
+    "gradio"
+   ],
+   "meta": "♥ 429",
+   "date": "2026-09-22 04:17",
+   "lang": "en",
+   "source": "HF Spaces",
+   "heat": 0.0,
+   "title_i18n": {
+    "en": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "zh-Hans": "Viggle/ Quen- Image-2.1- vigle- 涡轮",
+    "ja": "Viggle/Qwen-Image-2.1-viggle-turbo の使い方",
+    "ko": "Viggle/Qwen-이미지-2.1-viggle-turbo",
+    "ms": "^ a b c d e f g h i j k",
+    "vi": "Viggle/Qwen- Image-2.1-viggle-Turbo",
+    "fr": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "es": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "de": "Viggle/Qwen-Image-2.1-viggle-turbo",
+    "zh-Hant": "Viggle/ Quen- Image-2.1- vigle- 渦輪"
    },
    "summary_i18n": {
     "en": "Trending AI app on Hugging Face Spaces · gradio",
@@ -22076,7 +22050,7 @@
     "HF Space",
     "gradio"
    ],
-   "meta": "♥ 164",
+   "meta": "♥ 165",
    "date": "2026-08-25 21:05",
    "lang": "en",
    "source": "HF Spaces",
@@ -22092,6 +22066,46 @@
     "es": "hugging-apps/minimax-h3-flashgen-4step",
     "de": "Hugging-Apps/minimax-h3-flashgen-4step",
     "zh-Hant": "擁抱- 應用/ 最小馬克- h3- flashgen-4 step"
+   },
+   "summary_i18n": {
+    "en": "Trending AI app on Hugging Face Spaces · gradio",
+    "zh-Hans": "动漫AI应用在Higging Face Spaces上 . gradio",
+    "ja": "Hugging Face Spaces・グラディオでAIアプリをトレンディング",
+    "ko": "Hugging Face Spaces · gradio의 AI 앱 동향",
+    "ms": "Trending aplikasi AI pada Hugging Face Spaces · gradio",
+    "vi": "Ứng dụng AI trong Hugling Face Spaces . ggio",
+    "fr": "App Trending AI sur Hugging Face Spaces · gradio",
+    "es": "Aplicación de IA en Hugging Face Spaces · gradio",
+    "de": "Trending AI App auf Hugging Face Spaces · Gradio",
+    "zh-Hant": "動漫AI應用在Higging Face Spaces上 . gradio"
+   }
+  },
+  {
+   "id": "hfs-aet256-Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+   "ch": "products",
+   "title": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+   "summary": "Trending AI app on Hugging Face Spaces · gradio",
+   "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+   "tags": [
+    "HF Space",
+    "gradio"
+   ],
+   "meta": "♥ 512",
+   "date": "2026-02-27 11:06",
+   "lang": "en",
+   "source": "HF Spaces",
+   "heat": 0.0,
+   "title_i18n": {
+    "en": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+    "zh-Hans": "aet256/Quen-Image-Edit-Rapid-AIO-Loras-实验",
+    "ja": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+    "ko": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-실험",
+    "ms": "256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+    "vi": "aet256/Qwen-mage-Edit-Rapid-AIO-Loras-Eperic",
+    "fr": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Expérimental",
+    "es": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+    "de": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+    "zh-Hant": "aet256/Quen-Image-Edit-Rapid-AIO-Loras-實驗"
    },
    "summary_i18n": {
     "en": "Trending AI app on Hugging Face Spaces · gradio",
@@ -22132,46 +22146,6 @@
     "es": "kulkas2pintu/QWEN EDIT IMAGE",
     "de": "kulkas2pintu/QWEN EDIT IMAGE",
     "zh-Hant": "kulkas2pintu/ QWEN  EDIT  IMAGE"
-   },
-   "summary_i18n": {
-    "en": "Trending AI app on Hugging Face Spaces · gradio",
-    "zh-Hans": "动漫AI应用在Higging Face Spaces上 . gradio",
-    "ja": "Hugging Face Spaces・グラディオでAIアプリをトレンディング",
-    "ko": "Hugging Face Spaces · gradio의 AI 앱 동향",
-    "ms": "Trending aplikasi AI pada Hugging Face Spaces · gradio",
-    "vi": "Ứng dụng AI trong Hugling Face Spaces . ggio",
-    "fr": "App Trending AI sur Hugging Face Spaces · gradio",
-    "es": "Aplicación de IA en Hugging Face Spaces · gradio",
-    "de": "Trending AI App auf Hugging Face Spaces · Gradio",
-    "zh-Hant": "動漫AI應用在Higging Face Spaces上 . gradio"
-   }
-  },
-  {
-   "id": "hfs-aet256-Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-   "ch": "products",
-   "title": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-   "summary": "Trending AI app on Hugging Face Spaces · gradio",
-   "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-   "tags": [
-    "HF Space",
-    "gradio"
-   ],
-   "meta": "♥ 511",
-   "date": "2026-02-27 11:06",
-   "lang": "en",
-   "source": "HF Spaces",
-   "heat": 0.0,
-   "title_i18n": {
-    "en": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-    "zh-Hans": "aet256/Quen-Image-Edit-Rapid-AIO-Loras-实验",
-    "ja": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-    "ko": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-실험",
-    "ms": "256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-    "vi": "aet256/Qwen-mage-Edit-Rapid-AIO-Loras-Eperic",
-    "fr": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Expérimental",
-    "es": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-    "de": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-    "zh-Hant": "aet256/Quen-Image-Edit-Rapid-AIO-Loras-實驗"
    },
    "summary_i18n": {
     "en": "Trending AI app on Hugging Face Spaces · gradio",
@@ -22321,12 +22295,12 @@
    "date": "2026-10-26 18:01",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 17.54,
+   "heat": 17.51,
    "hot": {
     "p": 637,
     "c": 427,
     "s": 0,
-    "h": 125
+    "h": 126
    },
    "trend": true,
    "title_i18n": {
@@ -22354,14 +22328,14 @@
     "HN",
     "Trend"
    ],
-   "meta": "▲ 150",
+   "meta": "▲ 153",
    "date": "2026-10-31 18:50",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 48.54,
+   "heat": 47.54,
    "hot": {
-    "p": 150,
-    "c": 166,
+    "p": 153,
+    "c": 168,
     "s": 0,
     "h": 5
    },
@@ -22395,7 +22369,7 @@
    "date": "2026-10-28 23:35",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 38.56,
+   "heat": 38.41,
    "hot": {
     "p": 837,
     "c": 748,
@@ -22432,7 +22406,7 @@
    "date": "2026-10-28 01:47",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 15.16,
+   "heat": 15.12,
    "hot": {
     "p": 452,
     "c": 266,
@@ -22469,12 +22443,12 @@
    "date": "2026-10-28 17:01",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 42.06,
+   "heat": 41.91,
    "hot": {
     "p": 1013,
     "c": 801,
     "s": 0,
-    "h": 78
+    "h": 79
    },
    "trend": true,
    "title_i18n": {
@@ -22506,12 +22480,12 @@
    "date": "2026-10-26 13:04",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 50.97,
+   "heat": 50.86,
    "hot": {
     "p": 1708,
     "c": 1678,
     "s": 0,
-    "h": 130
+    "h": 131
    },
    "trend": true,
    "title_i18n": {
@@ -22539,14 +22513,14 @@
     "HN",
     "Trend"
    ],
-   "meta": "▲ 150",
+   "meta": "▲ 157",
    "date": "2026-10-31 19:39",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 40.31,
+   "heat": 41.16,
    "hot": {
-    "p": 150,
-    "c": 51,
+    "p": 157,
+    "c": 60,
     "s": 0,
     "h": 4
    },
@@ -22580,7 +22554,7 @@
    "date": "2026-10-30 14:22",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.77,
+   "heat": 10.68,
    "hot": {
     "p": 124,
     "c": 127,
@@ -22612,16 +22586,16 @@
     "HN",
     "Trend"
    ],
-   "meta": "▲ 98",
+   "meta": "▲ 99",
    "date": "2026-10-30 23:08",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.76,
+   "heat": 9.73,
    "hot": {
-    "p": 98,
+    "p": 99,
     "c": 75,
     "s": 0,
-    "h": 24
+    "h": 25
    },
    "title_i18n": {
     "en": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
@@ -22648,16 +22622,16 @@
     "HN",
     "Trend"
    ],
-   "meta": "▲ 88",
+   "meta": "▲ 89",
    "date": "2026-10-31 21:07",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 33.38,
+   "heat": 32.12,
    "hot": {
-    "p": 88,
-    "c": 59,
+    "p": 89,
+    "c": 61,
     "s": 0,
-    "h": 2
+    "h": 3
    },
    "trend": true,
    "title_i18n": {
@@ -22689,7 +22663,7 @@
    "date": "2026-10-27 04:53",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.52,
+   "heat": 3.51,
    "hot": {
     "p": 99,
     "c": 120,
@@ -22725,7 +22699,7 @@
    "date": "2026-10-29 00:25",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 24.79,
+   "heat": 24.69,
    "hot": {
     "p": 699,
     "c": 145,
@@ -22758,13 +22732,13 @@
     "HN",
     "Trend"
    ],
-   "meta": "▲ 185",
+   "meta": "▲ 186",
    "date": "2026-10-25 03:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.73,
+   "heat": 3.74,
    "hot": {
-    "p": 185,
+    "p": 186,
     "c": 75,
     "s": 0,
     "h": 164
@@ -22798,7 +22772,7 @@
    "date": "2026-10-29 15:30",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 20.13,
+   "heat": 20.04,
    "hot": {
     "p": 325,
     "c": 393,
@@ -22835,7 +22809,7 @@
    "date": "2026-10-26 03:29",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.3,
+   "heat": 5.29,
    "hot": {
     "p": 236,
     "c": 88,
@@ -22871,7 +22845,7 @@
    "date": "2026-10-22 14:26",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.34,
+   "heat": 4.33,
    "hot": {
     "p": 265,
     "c": 137,
@@ -22943,7 +22917,7 @@
    "date": "2026-10-22 10:55",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 2.62,
+   "heat": 2.61,
    "hot": {
     "p": 191,
     "c": 25,
@@ -22979,12 +22953,12 @@
    "date": "2026-10-26 12:58",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.41,
+   "heat": 5.4,
    "hot": {
     "p": 182,
     "c": 177,
     "s": 0,
-    "h": 130
+    "h": 131
    },
    "title_i18n": {
     "en": "Brown student maps the hidden global labor powering AI",
@@ -23051,12 +23025,12 @@
    "date": "2026-10-25 18:58",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.2,
+   "heat": 3.19,
    "hot": {
     "p": 149,
     "c": 56,
     "s": 0,
-    "h": 148
+    "h": 149
    },
    "title_i18n": {
     "en": "Where the Romans Fought (interactive map)",
@@ -23087,12 +23061,12 @@
    "date": "2026-10-28 14:02",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.04,
+   "heat": 6.02,
    "hot": {
     "p": 143,
     "c": 132,
     "s": 0,
-    "h": 81
+    "h": 82
    },
    "title_i18n": {
     "en": "The Agent SDK",
@@ -23123,12 +23097,12 @@
    "date": "2026-10-26 15:11",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 18.53,
+   "heat": 18.49,
    "hot": {
     "p": 856,
     "c": 116,
     "s": 0,
-    "h": 128
+    "h": 129
    },
    "trend": true,
    "title_i18n": {
@@ -23160,7 +23134,7 @@
    "date": "2026-10-23 08:21",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.47,
+   "heat": 9.46,
    "hot": {
     "p": 453,
     "c": 457,
@@ -23196,12 +23170,12 @@
    "date": "2026-10-24 09:58",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.05,
+   "heat": 6.04,
    "hot": {
     "p": 351,
     "c": 83,
     "s": 0,
-    "h": 181
+    "h": 182
    },
    "title_i18n": {
     "en": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
@@ -23232,7 +23206,7 @@
    "date": "2026-10-29 20:32",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 11.6,
+   "heat": 11.54,
    "hot": {
     "p": 270,
     "c": 19,
@@ -23254,42 +23228,6 @@
    "summary_i18n": {}
   },
   {
-   "id": "hn-50265594",
-   "ch": "ai",
-   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-   "summary": "",
-   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-   "discuss": "https://news.ycombinator.com/item?id=50265594",
-   "tags": [
-    "HN",
-    "Trend"
-   ],
-   "meta": "▲ 227",
-   "date": "2026-10-27 20:48",
-   "lang": "en",
-   "source": "Hacker News",
-   "heat": 7.57,
-   "hot": {
-    "p": 227,
-    "c": 154,
-    "s": 0,
-    "h": 99
-   },
-   "title_i18n": {
-    "en": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-    "zh-Hans": "Raspberry Pi Zero 3W和Pi 4型号 在设备树上发现的",
-    "ja": "Raspberry Pi Zero 3WとPi 4モデル デバイスツリーにスポット",
-    "ko": "라즈베리 파이 제 3W와 피 4 모델 장치 나무에 자리한",
-    "ms": "Raspberry Pi Zero 3W dan Pi 4 Model Ada yang terlihat di pohon perangkat",
-    "vi": "Raspberry Pi Zero 3W và Pi 4 model Name",
-    "fr": "Modèle Raspberry Pi Zero 3W et Pi 4 Une tache dans les arbres d'appareils",
-    "es": "Raspberry Pi Zero 3W y Pi 4 modelo Un manchado en árboles de dispositivo",
-    "de": "Raspberry Pi Zero 3W und Pi 4 Modell A in Gerätebäumen entdeckt",
-    "zh-Hant": "Raspberry Pi Zero 3W和Pi 4型號 在裝置樹上發現的"
-   },
-   "summary_i18n": {}
-  },
-  {
    "id": "hn-50290912",
    "ch": "ai",
    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
@@ -23304,7 +23242,7 @@
    "date": "2026-10-29 15:45",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.04,
+   "heat": 6.01,
    "hot": {
     "p": 145,
     "c": 22,
@@ -23345,7 +23283,7 @@
     "p": 95,
     "c": 23,
     "s": 0,
-    "h": 230
+    "h": 231
    },
    "title_i18n": {
     "en": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
@@ -23376,7 +23314,7 @@
    "date": "2026-10-26 17:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 14.69,
+   "heat": 14.66,
    "hot": {
     "p": 543,
     "c": 339,
@@ -23413,10 +23351,10 @@
    "date": "2026-10-29 17:43",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 18.95,
+   "heat": 18.9,
    "hot": {
     "p": 356,
-    "c": 240,
+    "c": 242,
     "s": 0,
     "h": 54
    },
@@ -23450,12 +23388,12 @@
    "date": "2026-10-25 21:07",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.65,
+   "heat": 3.64,
    "hot": {
     "p": 176,
     "c": 47,
     "s": 0,
-    "h": 146
+    "h": 147
    },
    "title_i18n": {
     "en": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
@@ -23486,7 +23424,7 @@
    "date": "2026-10-28 15:17",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.3,
+   "heat": 4.29,
    "hot": {
     "p": 134,
     "c": 26,
@@ -23522,7 +23460,7 @@
    "date": "2026-10-31 13:39",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 19.08,
+   "heat": 18.67,
    "hot": {
     "p": 82,
     "c": 120,
@@ -23554,14 +23492,14 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 101",
+   "meta": "▲ 105",
    "date": "2026-10-31 18:38",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 23.84,
+   "heat": 23.96,
    "hot": {
-    "p": 101,
-    "c": 32,
+    "p": 105,
+    "c": 34,
     "s": 0,
     "h": 5
    },
@@ -23595,12 +23533,12 @@
    "date": "2026-10-20 20:15",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 21.47,
+   "heat": 21.45,
    "hot": {
     "p": 1561,
     "c": 659,
     "s": 0,
-    "h": 267
+    "h": 268
    },
    "trend": true,
    "title_i18n": {
@@ -23632,12 +23570,12 @@
    "date": "2026-10-21 23:13",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.81,
+   "heat": 10.8,
    "hot": {
     "p": 636,
     "c": 478,
     "s": 0,
-    "h": 240
+    "h": 241
    },
    "trend": true,
    "title_i18n": {
@@ -23674,7 +23612,7 @@
     "p": 253,
     "c": 90,
     "s": 0,
-    "h": 228
+    "h": 229
    },
    "title_i18n": {
     "en": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
@@ -23746,7 +23684,7 @@
     "p": 134,
     "c": 24,
     "s": 0,
-    "h": 249
+    "h": 250
    },
    "title_i18n": {
     "en": "Cloudflare deploys protections against php2shell vulnerability",
@@ -23814,7 +23752,7 @@
    "date": "2026-10-28 23:45",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.08,
+   "heat": 10.04,
    "hot": {
     "p": 255,
     "c": 122,
@@ -23851,7 +23789,7 @@
    "date": "2026-10-23 21:21",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.95,
+   "heat": 3.94,
    "hot": {
     "p": 231,
     "c": 78,
@@ -23923,7 +23861,7 @@
    "date": "2026-10-28 20:46",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.76,
+   "heat": 4.74,
    "hot": {
     "p": 134,
     "c": 40,
@@ -23959,7 +23897,7 @@
    "date": "2026-10-23 12:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 3.3,
+   "heat": 3.29,
    "hot": {
     "p": 170,
     "c": 126,
@@ -24031,7 +23969,7 @@
    "date": "2026-10-29 10:42",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 14.8,
+   "heat": 14.74,
    "hot": {
     "p": 326,
     "c": 165,
@@ -24104,7 +24042,7 @@
    "date": "2026-10-27 13:52",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.24,
+   "heat": 5.23,
    "hot": {
     "p": 192,
     "c": 60,
@@ -24140,7 +24078,7 @@
    "date": "2026-10-26 15:35",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 33.91,
+   "heat": 33.84,
    "hot": {
     "p": 1083,
     "c": 1172,
@@ -24176,7 +24114,7 @@
    "date": "2026-10-29 06:47",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.36,
+   "heat": 9.32,
    "hot": {
     "p": 251,
     "c": 40,
@@ -24212,12 +24150,12 @@
    "date": "2026-10-26 18:14",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 7.35,
+   "heat": 7.34,
    "hot": {
     "p": 268,
     "c": 176,
     "s": 0,
-    "h": 125
+    "h": 126
    },
    "trend": true,
    "title_i18n": {
@@ -24248,7 +24186,7 @@
    "date": "2026-10-25 22:29",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.9,
+   "heat": 4.89,
    "hot": {
     "p": 230,
     "c": 72,
@@ -24283,7 +24221,7 @@
    "date": "2026-10-25 18:49",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.16,
+   "heat": 8.14,
    "hot": {
     "p": 417,
     "c": 70,
@@ -24319,7 +24257,7 @@
    "date": "2026-10-28 11:54",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.31,
+   "heat": 8.29,
    "hot": {
     "p": 240,
     "c": 107,
@@ -24355,12 +24293,12 @@
    "date": "2026-10-25 09:00",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 11.55,
+   "heat": 11.53,
    "hot": {
     "p": 501,
     "c": 344,
     "s": 0,
-    "h": 158
+    "h": 159
    },
    "trend": true,
    "title_i18n": {
@@ -24391,12 +24329,12 @@
    "date": "2026-10-26 17:57",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 8.57,
+   "heat": 8.55,
    "hot": {
     "p": 335,
     "c": 161,
     "s": 0,
-    "h": 125
+    "h": 126
    },
    "trend": true,
    "title_i18n": {
@@ -24427,12 +24365,12 @@
    "date": "2026-10-28 16:01",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 9.68,
+   "heat": 9.65,
    "hot": {
     "p": 290,
     "c": 77,
     "s": 0,
-    "h": 79
+    "h": 80
    },
    "trend": true,
    "title_i18n": {
@@ -24463,7 +24401,7 @@
    "date": "2026-10-25 02:18",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.38,
+   "heat": 4.37,
    "hot": {
     "p": 191,
     "c": 145,
@@ -24498,7 +24436,7 @@
    "date": "2026-10-30 20:23",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 32.17,
+   "heat": 31.87,
    "hot": {
     "p": 373,
     "c": 220,
@@ -24534,7 +24472,7 @@
    "date": "2026-10-28 12:49",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 48.86,
+   "heat": 48.7,
    "hot": {
     "p": 1193,
     "c": 1034,
@@ -24570,7 +24508,7 @@
    "date": "2026-10-25 17:30",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 12.37,
+   "heat": 12.35,
    "hot": {
     "p": 550,
     "c": 280,
@@ -24606,12 +24544,12 @@
    "date": "2026-10-25 21:08",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 7.82,
+   "heat": 7.81,
    "hot": {
     "p": 336,
     "c": 184,
     "s": 0,
-    "h": 146
+    "h": 147
    },
    "trend": true,
    "title_i18n": {
@@ -24642,7 +24580,7 @@
    "date": "2026-10-28 12:35",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.69,
+   "heat": 5.67,
    "hot": {
     "p": 199,
     "c": 1,
@@ -24678,7 +24616,7 @@
    "date": "2026-10-25 18:23",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 13.37,
+   "heat": 13.35,
    "hot": {
     "p": 686,
     "c": 113,
@@ -24714,7 +24652,7 @@
    "date": "2026-10-27 13:56",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.74,
+   "heat": 6.73,
    "hot": {
     "p": 225,
     "c": 121,
@@ -24746,16 +24684,16 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 177",
+   "meta": "▲ 178",
    "date": "2026-10-27 15:09",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.99,
+   "heat": 5.0,
    "hot": {
-    "p": 177,
+    "p": 178,
     "c": 65,
     "s": 0,
-    "h": 104
+    "h": 105
    },
    "trend": true,
    "title_i18n": {
@@ -24773,6 +24711,42 @@
    "summary_i18n": {}
   },
   {
+   "id": "hn-50314654",
+   "ch": "news",
+   "title": "Serbia just elected the world's brainiest parliament",
+   "summary": "",
+   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+   "discuss": "https://news.ycombinator.com/item?id=50314654",
+   "tags": [
+    "HN"
+   ],
+   "meta": "▲ 799",
+   "date": "2026-10-31 10:21",
+   "lang": "en",
+   "source": "Hacker News",
+   "heat": 112.35,
+   "hot": {
+    "p": 799,
+    "c": 460,
+    "s": 0,
+    "h": 13
+   },
+   "trend": true,
+   "title_i18n": {
+    "en": "Serbia just elected the world's brainiest parliament",
+    "zh-Hans": "塞尔维亚刚刚选出了世界上最聪明的议会",
+    "ja": "セルビアは、世界の頭脳の議会を選択しました",
+    "ko": "Serbia는 세계 뇌의 가장 큰 의회를 선출",
+    "ms": "Serbia baru saja memilih parlemen terotak di dunia",
+    "vi": "Serbia vừa mới bầu ra nghị viện thông minh nhất thế giới.",
+    "fr": "La Serbie vient d'élire le parlement le plus averti du monde",
+    "es": "Serbia acaba de elegir el parlamento más inteligente del mundo",
+    "de": "Serbien hat gerade das gehirnreichste Parlament der Welt gewählt",
+    "zh-Hant": "塞爾維亞剛剛選出了世界上最聰明的議會"
+   },
+   "summary_i18n": {}
+  },
+  {
    "id": "hn-50277379",
    "ch": "news",
    "title": "Cloudflare Turnstile solver library (no headless browser required)",
@@ -24782,13 +24756,13 @@
    "tags": [
     "HN"
    ],
-   "meta": "▲ 301",
+   "meta": "▲ 302",
    "date": "2026-10-28 17:29",
    "lang": "en",
    "source": "Hacker News",
    "heat": 10.55,
    "hot": {
-    "p": 301,
+    "p": 302,
     "c": 104,
     "s": 0,
     "h": 78
@@ -24822,7 +24796,7 @@
    "date": "2026-10-26 03:31",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 6.87,
+   "heat": 6.86,
    "hot": {
     "p": 277,
     "c": 172,
@@ -24858,7 +24832,7 @@
    "date": "2026-10-26 13:54",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 4.27,
+   "heat": 4.26,
    "hot": {
     "p": 183,
     "c": 59,
@@ -24899,7 +24873,7 @@
     "p": 46,
     "c": 11,
     "s": 0,
-    "h": 943
+    "h": 944
    },
    "title_i18n": {
     "en": "AI·rete·RAG – a Rete rule engine decides, RAG explains why",
@@ -25007,7 +24981,7 @@
     "p": 49,
     "c": 8,
     "s": 0,
-    "h": 725
+    "h": 726
    },
    "title_i18n": {
     "en": "Breadcrumb, record everything on your mac + context manager for AI",
@@ -25043,7 +25017,7 @@
     "p": 302,
     "c": 89,
     "s": 0,
-    "h": 365
+    "h": 366
    },
    "trend": true,
    "title_i18n": {
@@ -25116,7 +25090,7 @@
     "p": 156,
     "c": 13,
     "s": 0,
-    "h": 1109
+    "h": 1110
    },
    "title_i18n": {
     "en": "Google copied our open-source code, removed engineers' names without credit",
@@ -25296,7 +25270,7 @@
     "p": 225,
     "c": 45,
     "s": 0,
-    "h": 1382
+    "h": 1383
    },
    "title_i18n": {
     "en": "TERMy – A fast terminal assistant that does not use LLMs",
@@ -25309,6 +25283,79 @@
     "es": "TERMy – Un asistente de terminal rápido que no utiliza LLMs",
     "de": "TERMy – Ein schneller Terminal-Assistent, der keine LLMs verwendet",
     "zh-Hant": "TERMY — 一個不使用 LLMS 的快速終端助理"
+   },
+   "summary_i18n": {}
+  },
+  {
+   "id": "hn-49543530",
+   "ch": "deals",
+   "title": "RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+   "summary": "",
+   "url": "https://news.ycombinator.com/item?id=49543530",
+   "discuss": "https://news.ycombinator.com/item?id=49543530",
+   "tags": [
+    "HN",
+    "Deal"
+   ],
+   "meta": "▲ 119",
+   "date": "2026-09-02 22:36",
+   "lang": "en",
+   "source": "Hacker News",
+   "heat": 0.48,
+   "hot": {
+    "p": 119,
+    "c": 82,
+    "s": 0,
+    "h": 1417
+   },
+   "title_i18n": {
+    "en": "RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "zh-Hans": "RonanRX (YC S26) – 个人化的佩普提斯和GLP-1s",
+    "ja": "RonanRX (YC S26) - パーソナライズされたペプチドとGLP-1s",
+    "ko": "RonanRX (YC S26) – 개인화된 펩티드 및 GLP-1s",
+    "ms": "Andika RonanRX (YC S2626) Personalized Peptides and GLP-1s",
+    "vi": "RonanRX (YC S26) – Tra tấn cá nhân và GLP-1s",
+    "fr": "RonanRX (YC S26) – Peptides et GLP-1 personnalisés",
+    "es": "RonanRX (YC S26) – Peptides personalizados y GLP-1s",
+    "de": "RonanRX (YC S26) - Personalisierte Peptide und GLP-1s",
+    "zh-Hant": "RonanRX (YC S26) – 個人化的佩普提斯和GLP-1s"
+   },
+   "summary_i18n": {}
+  },
+  {
+   "id": "hn-50042425",
+   "ch": "deals",
+   "title": "The tilde in your PATH may not be your HOME",
+   "summary": "",
+   "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+   "discuss": "https://news.ycombinator.com/item?id=50042425",
+   "tags": [
+    "HN",
+    "Deal"
+   ],
+   "meta": "▲ 254",
+   "date": "2026-10-11 12:13",
+   "lang": "en",
+   "source": "Hacker News",
+   "heat": 2.42,
+   "hot": {
+    "p": 254,
+    "c": 183,
+    "s": 0,
+    "h": 492
+   },
+   "trend": true,
+   "title_i18n": {
+    "en": "The tilde in your PATH may not be your HOME",
+    "zh-Hans": "路边的瓦片可能不是你的家",
+    "ja": "あなたのPATHのタイルはあなたの家ではないかもしれません",
+    "ko": "당신의 PATH에 tilde는 당신의 가정이 아닐지도 모릅니다",
+    "ms": "tilde di PATH Anda mungkin bukan rumah Anda",
+    "vi": "Có lẽ không phải là nhà bạn",
+    "fr": "Le tilde dans votre PATH peut ne pas être votre HOME",
+    "es": "La inclinación en su PATH puede no ser su hogar",
+    "de": "Die Tilde in Ihrem Weg ist möglicherweise nicht Ihr Zuhause",
+    "zh-Hant": "路邊的瓦片可能不是你的家"
    },
    "summary_i18n": {}
   },
@@ -25363,12 +25410,12 @@
    "date": "2026-09-18 00:11",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 1.08,
+   "heat": 1.07,
    "hot": {
     "p": 236,
     "c": 93,
     "s": 0,
-    "h": 1055
+    "h": 1056
    },
    "title_i18n": {
     "en": "Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
@@ -25404,7 +25451,7 @@
     "p": 118,
     "c": 40,
     "s": 0,
-    "h": 774
+    "h": 775
    },
    "title_i18n": {
     "en": "A working 3D model of an Enigma machine",
@@ -25440,7 +25487,7 @@
     "p": 97,
     "c": 50,
     "s": 0,
-    "h": 1207
+    "h": 1208
    },
    "title_i18n": {
     "en": "Godot and Rust based multiplexer (terminal panes and more)",
@@ -25548,7 +25595,7 @@
     "p": 38,
     "c": 41,
     "s": 0,
-    "h": 1061
+    "h": 1062
    },
    "title_i18n": {
     "en": "Ax-check.com – Can agents use your product?",
@@ -25561,6 +25608,42 @@
     "es": "Ax-check.com – ¿Pueden los agentes utilizar su producto?",
     "de": "Ax-check.com - Können Agenten Ihr Produkt verwenden?",
     "zh-Hant": "Ax-check.com – 代理商能使用你的產品嗎?."
+   },
+   "summary_i18n": {}
+  },
+  {
+   "id": "hn-49647635",
+   "ch": "deals",
+   "title": "Biff 2.0 (Clojure web framework)",
+   "summary": "",
+   "url": "https://biffweb.com",
+   "discuss": "https://news.ycombinator.com/item?id=49647635",
+   "tags": [
+    "HN",
+    "Deal"
+   ],
+   "meta": "▲ 29",
+   "date": "2026-09-10 17:45",
+   "lang": "en",
+   "source": "Hacker News",
+   "heat": 0.1,
+   "hot": {
+    "p": 29,
+    "c": 0,
+    "s": 0,
+    "h": 1230
+   },
+   "title_i18n": {
+    "en": "Biff 2.0 (Clojure web framework)",
+    "zh-Hans": "Biff 2.0 (克洛朱尔网络框架)",
+    "ja": "Biff 2.0(Clojure Webフレームワーク)",
+    "ko": "Biff 2.0 (Clojure 웹 프레임 워크)",
+    "ms": "Hiff braff 2.0 (Klojure kerangka kerja web)",
+    "vi": "Biff 2.0 (cơ cấu mạng Clojure)",
+    "fr": "Biff 2.0 (Clojure web framework)",
+    "es": "Biff 2.0 (Clojure web framework)",
+    "de": "Biff 2.0 (Clojure Web Framework)",
+    "zh-Hant": "Biff 2.0 (克洛朱爾網路框架)"
    },
    "summary_i18n": {}
   },
@@ -25656,7 +25739,7 @@
     "p": 53,
     "c": 25,
     "s": 0,
-    "h": 607
+    "h": 608
    },
    "title_i18n": {
     "en": "Durable Actors – OSS Durable Objects with configurable compute",
@@ -25692,7 +25775,7 @@
     "p": 47,
     "c": 67,
     "s": 0,
-    "h": 554
+    "h": 555
    },
    "title_i18n": {
     "en": "Free open source Adobe Lightroom alternative, completely local with AI",
@@ -25868,7 +25951,7 @@
     "p": 339,
     "c": 115,
     "s": 0,
-    "h": 1035
+    "h": 1036
    },
    "title_i18n": {
     "en": "Korea raises data breach fines to 10% of revenue",
@@ -25933,7 +26016,7 @@
    "date": "2026-10-24 21:47",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 21.2,
+   "heat": 21.17,
    "hot": {
     "p": 915,
     "c": 777,
@@ -25969,12 +26052,12 @@
    "date": "2026-10-08 05:14",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 5.87,
+   "heat": 5.86,
    "hot": {
     "p": 616,
     "c": 655,
     "s": 0,
-    "h": 570
+    "h": 571
    },
    "title_i18n": {
     "en": "“Math 2.0” will need to value mathematical progress more holistically",
@@ -26039,7 +26122,7 @@
    "date": "2026-10-23 13:41",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 10.78,
+   "heat": 10.77,
    "hot": {
     "p": 560,
     "c": 400,
@@ -26079,7 +26162,7 @@
     "p": 98,
     "c": 53,
     "s": 0,
-    "h": 1066
+    "h": 1067
    },
    "title_i18n": {
     "en": "I built a new version of my fun spatial 3D online meeting app",
@@ -26149,7 +26232,7 @@
     "p": 152,
     "c": 110,
     "s": 0,
-    "h": 772
+    "h": 773
    },
    "title_i18n": {
     "en": "Nicholas Polson has authored 258 academic papers in 2026 so far",
@@ -26184,7 +26267,7 @@
     "p": 88,
     "c": 82,
     "s": 0,
-    "h": 998
+    "h": 999
    },
    "title_i18n": {
     "en": "Don't Be Nice",
@@ -26219,7 +26302,7 @@
     "p": 277,
     "c": 390,
     "s": 0,
-    "h": 728
+    "h": 729
    },
    "title_i18n": {
     "en": "Ask HN: Who is hiring? (October 2026)",
@@ -26254,7 +26337,7 @@
     "p": 61,
     "c": 61,
     "s": 0,
-    "h": 807
+    "h": 808
    },
    "title_i18n": {
     "en": "Maybe don't let Muse run your Facebook Marketplace account",
@@ -26289,7 +26372,7 @@
     "p": 1391,
     "c": 728,
     "s": 0,
-    "h": 538
+    "h": 539
    },
    "trend": true,
    "title_i18n": {
@@ -26320,7 +26403,7 @@
    "date": "2026-10-29 12:33",
    "lang": "en",
    "source": "Hacker News",
-   "heat": 30.14,
+   "heat": 30.0,
    "hot": {
     "p": 487,
     "c": 650,
@@ -26413,40 +26496,6 @@
    "summary_i18n": {}
   },
   {
-   "id": "gh-1414685342",
-   "ch": "ai",
-   "title": "onehumanbeing/esp32-iphone-agent",
-   "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-   "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-   "tags": [
-    "Trend",
-    "llm"
-   ],
-   "meta": "★ 4,160",
-   "date": "2026-10-11 19:10",
-   "lang": "en",
-   "source": "GitHub",
-   "heat": 8.84,
-   "hot": {
-    "p": 0,
-    "c": 0,
-    "s": 4160,
-    "h": 484
-   },
-   "summary_i18n": {
-    "en": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "zh-Hans": "让一个AI模型使用一个真iPhone,配有7ESP32: AirPlay眼睛,USB HID手,任何OpenAI兼容的视觉模型. 没有Mac 没有开发商账户 没有越狱",
-    "ja": "AIモデルは、実際のiPhoneを$ 7 ESP32で使用してみましょう: AirPlayの目、USB HIDの手、任意のOpenAI互換のビジョンモデル。 Mac、開発者アカウント、ジェイブレイクなし。",
-    "ko": "AI 모델은 $ 7 ESP32 : AirPlay 눈, USB HID 손, OpenAI 호환 비전 모델과 실제 iPhone을 사용합니다. Mac, 개발자 계정 없음, 탈옥 없음.",
-    "ms": "Biarkan model AI menggunakan iPhone asli dengan $7 ESP32: Mata AirPlay, tangan HID USB, model visi kompatibel OpenAI apapun. Tidak ada Mac, tidak ada akun pengembang, tidak ada penjara.",
-    "vi": "Hãy để một mô hình AI sử dụng một iPhone thật với 7 triệu chứng nhân tạo: mắt máy bay, USB ID tay, bất kỳ mô hình thị giác OpenAI tương ứng. Không Mac, không tài khoản phát triển, không phá ngục.",
-    "fr": "Laissez un modèle AI utiliser un véritable iPhone avec un ESP32 de 7$ : yeux AirPlay, mains USB HID, tout modèle de vision compatible OpenAI. Pas de Mac, pas de compte développeur, pas de prisonbreak.",
-    "es": "Deje que un modelo AI use un iPhone real con un ESP32 de $7: Ojos de AirPlay, manos USB HID, cualquier modelo de visión compatible con OpenAI. Sin Mac, sin cuenta de desarrollador, sin irrumpir.",
-    "de": "Lassen Sie ein KI-Modell ein echtes iPhone mit einem $ 7 ESP32 verwenden: AirPlay-Augen, USB-HID-Hände, jedes OpenAI-kompatible Vision-Modell. Kein Mac, kein Entwicklerkonto, kein Jailbreak.",
-    "zh-Hant": "讓一個AI模型使用一個真iPhone,配有7ESP32: AirPlay眼睛,USB HID手,任何OpenAI相容的視覺模型. 沒有Mac 沒有開發商賬戶 沒有越獄"
-   }
-  },
-  {
    "id": "gh-1416442720",
    "ch": "ai",
    "title": "microsoft/TokenEconomizer",
@@ -26456,16 +26505,16 @@
     "Trend",
     "llm"
    ],
-   "meta": "★ 3,030",
+   "meta": "★ 3,051",
    "date": "2026-10-13 04:16",
    "lang": "en",
    "source": "GitHub",
-   "heat": 6.81,
+   "heat": 6.85,
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 3030,
-    "h": 451
+    "s": 3051,
+    "h": 452
    },
    "summary_i18n": {
     "en": "Experience-Driven Black-Box Cost Control for Coding Agents",
@@ -26490,7 +26539,7 @@
     "Trend",
     "llm"
    ],
-   "meta": "★ 2,019",
+   "meta": "★ 2,020",
    "date": "2026-10-12 09:19",
    "lang": "en",
    "source": "GitHub",
@@ -26498,7 +26547,7 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 2019,
+    "s": 2020,
     "h": 470
    },
    "summary_i18n": {
@@ -26567,7 +26616,7 @@
     "p": 0,
     "c": 0,
     "s": 875,
-    "h": 445
+    "h": 446
    },
    "summary_i18n": {
     "en": "AI · SOP 7 AI Agent Prompt",
@@ -26592,7 +26641,7 @@
     "Trend",
     "llm"
    ],
-   "meta": "★ 630",
+   "meta": "★ 631",
    "date": "2026-10-27 19:26",
    "lang": "en",
    "source": "GitHub",
@@ -26600,7 +26649,7 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 630,
+    "s": 631,
     "h": 100
    },
    "summary_i18n": {
@@ -26617,6 +26666,40 @@
    }
   },
   {
+   "id": "gh-1420753687",
+   "ch": "ai",
+   "title": "liuda30201/AI-Coding",
+   "summary": "AI 编程福利导航：汇总 Claude Code、Codex、Cursor 中转站与公益站，整理免费额度、注册福利、签到活动和评测记录，提供可视化看板与 Python 数据采集工具。",
+   "url": "https://github.com/liuda30201/AI-Coding",
+   "tags": [
+    "Trend",
+    "llm"
+   ],
+   "meta": "★ 592",
+   "date": "2026-10-15 13:13",
+   "lang": "en",
+   "source": "GitHub",
+   "heat": 1.48,
+   "hot": {
+    "p": 0,
+    "c": 0,
+    "s": 592,
+    "h": 395
+   },
+   "summary_i18n": {
+    "en": "AI Claude Code Codex Cursor Python",
+    "zh-Hans": "AI Claude 代码代码光标 Python",
+    "ja": "AI Claude コードコーデックス カーソル Python",
+    "ko": "AI Claude 코드 코덱 커서 파이썬",
+    "ms": "AIOmad Claude Kodeks Kursor Python",
+    "vi": "Python",
+    "fr": "Code AI Claude Codex Curseur Python",
+    "es": "AI Claude Codex Cursor Python",
+    "de": "AI Claude Code Codex Cursor Python",
+    "zh-Hant": "AI Claude 程式碼程式碼游標 Python"
+   }
+  },
+  {
    "id": "gh-1420305104",
    "ch": "ai",
    "title": "Leonxlnx/earshot",
@@ -26626,7 +26709,7 @@
     "Trend",
     "ai-agents"
    ],
-   "meta": "★ 3,381",
+   "meta": "★ 3,382",
    "date": "2026-10-15 06:52",
    "lang": "en",
    "source": "GitHub",
@@ -26634,7 +26717,7 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 3381,
+    "s": 3382,
     "h": 401
    },
    "summary_i18n": {
@@ -26660,7 +26743,7 @@
     "Trend",
     "ai-agents"
    ],
-   "meta": "★ 1,410",
+   "meta": "★ 1,411",
    "date": "2026-10-16 15:34",
    "lang": "en",
    "source": "GitHub",
@@ -26668,7 +26751,7 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 1410,
+    "s": 1411,
     "h": 368
    },
    "summary_i18n": {
@@ -26682,40 +26765,6 @@
     "es": "Red de Razones: los agentes de codificación de su equipo, hablando entre sí. El motor detrás de la red de área.",
     "de": "Reason Network: Die Codierungsagenten Ihres Teams sprechen miteinander. Der Motor hinter \"Reason Network\".",
     "zh-Hant": "理由網:貴隊的編碼員,互相交談. \" 理性網路 \" 背後的引擎。"
-   }
-  },
-  {
-   "id": "gh-1414493071",
-   "ch": "ai",
-   "title": "jwuthri-cloud/Tracely-ai",
-   "summary": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
-   "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-   "tags": [
-    "Trend",
-    "ai-agents"
-   ],
-   "meta": "★ 1,212",
-   "date": "2026-10-11 15:38",
-   "lang": "en",
-   "source": "GitHub",
-   "heat": 2.56,
-   "hot": {
-    "p": 0,
-    "c": 0,
-    "s": 1212,
-    "h": 488
-   },
-   "summary_i18n": {
-    "en": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
-    "zh-Hans": "AI剂的追踪-内源CI/CD:分级生产痕迹,集群故障,被冻结为可回放的回归测试,并阻断可回放的PR. 自能现相.",
-    "ja": "AI エージェントの Trace-native CI/CD: 等級の生産の痕跡、クラスターの失敗、再生可能な回帰テストにそれらを凍結し、回帰する PR をブロックします。 セルフホスト可能。",
-    "ko": "AI 대리인을 위한 Trace-native CI/CD: 급료 생산 추적, 클러스터 실패, 재생할 수 있는 회귀 시험으로 동결하고, 회귀하는 PR를 막습니다. 자기 호스팅.",
-    "ms": "Trace-native CI/CD untuk agen AI: jejak produksi grade, kegagalan cluster, membekukan mereka menjadi replayable repression test, dan memblokir PR yang regres. Membela diri.",
-    "vi": "Các đặc vụ AI đã theo dõi: chấm điểm sản xuất dấu vết, thất bại cụm, đóng băng chúng vào các bài kiểm tra hồi quy có thể lặp lại, và chặn các chương trình PR lại. Tự điều khiển được.",
-    "fr": "IC/CD trace-native pour les agents d'IA : traces de production de grades, défaillances de grappes, les congeler dans des tests de régression rejouables, et bloquer les PR qui reculent. Auto-accueillable.",
-    "es": "CI/CD nativo para agentes de IA: trazas de producción de grado, fallas de racimo, congelarlos en pruebas de regresión repetibles, y bloquear PRs que retrocedan. Autónomo.",
-    "de": "Trace-native CI/CD für KI-Agenten: Grade-Produktionsspuren, Cluster-Ausfälle, frieren sie in replayable Regressionstests ein und blockieren PRs, die sich zurückbilden. Selbst gastfreundlich.",
-    "zh-Hant": "AI劑的追蹤-內源CI/CD:分級生產痕跡,叢集故障,被凍結為可回放的迴歸測試,並阻斷可回放的PR. 自能現相."
    }
   },
   {
@@ -26737,7 +26786,7 @@
     "p": 0,
     "c": 0,
     "s": 1030,
-    "h": 394
+    "h": 395
    },
    "summary_i18n": {
     "en": "Git designed for AI agents.",
@@ -26750,40 +26799,6 @@
     "es": "Git diseñado para agentes de IA.",
     "de": "Git entwickelt für KI-Agenten.",
     "zh-Hant": "Git為AI代理設計."
-   }
-  },
-  {
-   "id": "gh-1414599291",
-   "ch": "ai",
-   "title": "alexgaoth/awesome-reverse-engineered",
-   "summary": "Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
-   "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
-   "tags": [
-    "Trend",
-    "ai-agents"
-   ],
-   "meta": "★ 973",
-   "date": "2026-10-11 17:30",
-   "lang": "en",
-   "source": "GitHub",
-   "heat": 2.06,
-   "hot": {
-    "p": 0,
-    "c": 0,
-    "s": 973,
-    "h": 486
-   },
-   "summary_i18n": {
-    "en": "Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
-    "zh-Hans": "不要逆向工程师两次。 17,000+开源工具由逆向工程关闭的应用程序,API,设备,协议,文件格式,游戏和AI工具所构建. 搜索站点+代理技能+MCP服务器,夜间刷新.",
-    "ja": "2回リバースエンジニアリングしないでください。 リバースエンジニアリングクローズドアプリ、API、デバイス、プロトコル、ファイル形式、ゲーム、AIツールによって構築された17,000以上のオープンソースツール。 検索サイト + エージェントスキル + MCP サーバー, 夜間更新.",
-    "ko": "두 번 역 엔지니어하지 마십시오. 역공학 폐쇄 앱, API, 장치, 프로토콜, 파일 형식, 게임 및 AI 도구에 의해 구축 된 17,000 + 오픈 소스 도구. 검색 사이트 + 에이전트 기술 + MCP 서버, 새로 고침 밤.",
-    "ms": "Jangan reverse engineer dua kali. Alat-alat open-source berkapasitas 17.000+ yang dibangun oleh rekayasa terbalik aplikasi tertutup, API, perangkat, protokol, format berkas, permainan dan alat AI. Situs pencarian + agen skill + server MCP, disegarkan malam hari.",
-    "vi": "Đừng đổi kỹ sư hai lần. 17,000 công cụ mã nguồn mở được xây dựng bởi các ứng dụng đóng lại kỹ thuật, API, thiết bị, giao thức, định dạng tập tin, trò chơi và công cụ AI. Tìm kiếm trang web + kỹ năng đặc vụ + trình phục vụ MCP, làm tươi đêm.",
-    "fr": "Ne l'inversez pas deux fois. 17 000+ outils open-source construits par des applications fermées de génie inverse, API, appareils, protocoles, formats de fichiers, jeux et outils d'IA. Site de recherche + compétences d'agent + serveur MCP, rafraîchi nuit.",
-    "es": "No inviertas el ingeniero dos veces. 17.000+ herramientas de código abierto construidas por aplicaciones cerradas de ingeniería inversa, API, dispositivos, protocolos, formatos de archivo, juegos y herramientas de IA. Search site + agente habilidad + servidor MCP, refrescado por la noche.",
-    "de": "Reverse Engineering nicht zweimal. 17.000+ Open-Source-Tools, die durch Reverse Engineering geschlossene Apps, APIs, Geräte, Protokolle, Dateiformate, Spiele und KI-Tools erstellt wurden. Suchseite + Agentenfähigkeit + MCP-Server, täglich aktualisiert.",
-    "zh-Hant": "不要逆向工程師兩次。 17,000+開源工具由逆向工程關閉的應用程式,API,裝置,協議,檔案格式,遊戲和AI工具所構建. 搜尋站點+代理技能+MCP伺服器,夜間重新整理."
    }
   },
   {
@@ -26821,6 +26836,40 @@
    }
   },
   {
+   "id": "gh-1419948432",
+   "ch": "ai",
+   "title": "kitlangton/scrawl",
+   "summary": "Show an agent a problem: mark up, record, send",
+   "url": "https://github.com/kitlangton/scrawl",
+   "tags": [
+    "Trend",
+    "ai-agents"
+   ],
+   "meta": "★ 824",
+   "date": "2026-10-14 23:21",
+   "lang": "en",
+   "source": "GitHub",
+   "heat": 2.0,
+   "hot": {
+    "p": 0,
+    "c": 0,
+    "s": 824,
+    "h": 408
+   },
+   "summary_i18n": {
+    "en": "Show an agent a problem: mark up, record, send",
+    "zh-Hans": "向代理人显示问题: 标记、 记录、 发送",
+    "ja": "エージェントに問題を表示:マークアップ、記録、送信",
+    "ko": "대리인에게 문제를 보여주기: 표, 기록, 보내",
+    "ms": "Tunjukkan masalah pada agen: tandai, rekam, kirim",
+    "vi": "Hiển thị một đặc vụ một vấn đề: đánh dấu, ghi âm, gửi",
+    "fr": "Afficher un problème à un agent: marquer, enregistrer, envoyer",
+    "es": "Mostrar un problema a un agente: marcar, grabar, enviar",
+    "de": "Zeigen Sie einem Agenten ein Problem: Markieren, Aufzeichnen, Senden",
+    "zh-Hant": "向代理人顯示問題: 標記、 記錄、 傳送"
+   }
+  },
+  {
    "id": "gh-1415214046",
    "ch": "ai",
    "title": "zhuyansen/new-term-radar",
@@ -26830,7 +26879,7 @@
     "Trend",
     "mcp"
    ],
-   "meta": "★ 1,999",
+   "meta": "★ 2,001",
    "date": "2026-10-12 07:11",
    "lang": "en",
    "source": "GitHub",
@@ -26838,8 +26887,8 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 1999,
-    "h": 472
+    "s": 2001,
+    "h": 473
    },
    "summary_i18n": {
     "en": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -26852,40 +26901,6 @@
     "es": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
     "de": "Tägliches radar für neue ki-begriffe: namen neuer modelle, produkte und repos, gefangen auf x, umgehung, github und sitemaps, bevor keyword-tools sie auflisten.",
     "zh-Hant": "用於新AI名詞的每日雷達:在關鍵詞工具列出前,在X上被捕獲的新型號,產品和重置名稱,Hugging Face,GitHub和站點地圖."
-   }
-  },
-  {
-   "id": "gh-1414114267",
-   "ch": "ai",
-   "title": "Sam-Hui-dot/mcd-budget-meal",
-   "summary": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
-   "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
-   "tags": [
-    "Trend",
-    "mcp"
-   ],
-   "meta": "★ 1,618",
-   "date": "2026-10-11 08:25",
-   "lang": "en",
-   "source": "GitHub",
-   "heat": 3.38,
-   "hot": {
-    "p": 0,
-    "c": 0,
-    "s": 1618,
-    "h": 495
-   },
-   "summary_i18n": {
-    "en": "MCP Skill",
-    "zh-Hans": "MCP 技能",
-    "ja": "MCPスキル",
-    "ko": "MCP 기술",
-    "ms": "Keterampilan MCP",
-    "vi": "Kĩ năng MCP",
-    "fr": "Compétence en MCP",
-    "es": "MCP Skill",
-    "de": "MCP Skill",
-    "zh-Hant": "MCP 技能"
    }
   },
   {
@@ -26957,6 +26972,74 @@
    }
   },
   {
+   "id": "gh-1419708427",
+   "ch": "ai",
+   "title": "EL4CTEO/blender-skills",
+   "summary": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+   "url": "https://github.com/EL4CTEO/blender-skills",
+   "tags": [
+    "Trend",
+    "mcp"
+   ],
+   "meta": "★ 624",
+   "date": "2026-10-14 19:08",
+   "lang": "en",
+   "source": "GitHub",
+   "heat": 1.51,
+   "hot": {
+    "p": 0,
+    "c": 0,
+    "s": 624,
+    "h": 413
+   },
+   "summary_i18n": {
+    "en": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+    "zh-Hans": "专业Blender 5.2工作流程作为Claude Code,Codex,双子座CLI,Copilot和Cursor的代理技能:建模,紫外线,PBR,烘焙,操纵,动画,输出和QA.",
+    "ja": "Claudeコード、Codex、Gemini CLI、Copilot、Cursorのエージェントスキルとしてのプロフェッショナルブレンダー5.2ワークフロー:モデリング、UV、PBR、ベーキング、リギング、アニメーション、エクスポート、QA。",
+    "ko": "Claude Code, Codex, Gemini CLI, Copilot 및 Cursor에 대한 에이전트 스킬로서 전문 블렌더 5.2 워크플로우: 모델링, UV, PBR, 베이킹, 삭구, 애니메이션, 수출 및 QA.",
+    "ms": "Band Blender Profesional 5.2 alur kerja sebagai Agent Skills untuk Claude Code, Codex, Gemini CLI, Copilot dan Cursor: modeling, UV, PBR, baking, rigging, animasi, export dan QA.",
+    "vi": "Bộ tổng hợp chuyên nghiệp 5.2 lưu lượng công việc như là Đặc vụ Claude Code, Codex, Song Tử CLI, Phi công phụ và Con trỏ: Mô hình, UV, PBR, nướng bánh, giàn khoan, hoạt hình, xuất khẩu và QA.",
+    "fr": "Workflows de Blender 5.2 comme Agent Skills pour Claude Code, Codex, Gemini CLI, Copilot et Cursor : modélisation, UV, PBR, cuisson, gréage, animation, exportation et QA.",
+    "es": "Flujos de trabajo profesionales Blender 5.2 como Habilidades Agente para Claude Code, Codex, Gemini CLI, Copilot y Cursor: modelado, UVs, PBR, horneado, riego, animación, exportación y QA.",
+    "de": "Professional Blender 5.2 Workflows als Agent Skills für Claude Code, Codex, Gemini CLI, Copilot und Cursor: Modellierung, UVs, PBR, Backen, Rigging, Animation, Export und QA.",
+    "zh-Hant": "專業Blender 5.2工作流程作為Claude Code,Codex,雙子座CLI,Copilot和Cursor的代理技能:建模,紫外線,PBR,烘焙,操縱,動畫,輸出和QA."
+   }
+  },
+  {
+   "id": "gh-1420002671",
+   "ch": "ai",
+   "title": "x18n-dev/x18n",
+   "summary": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
+   "url": "https://github.com/x18n-dev/x18n",
+   "tags": [
+    "Trend",
+    "mcp"
+   ],
+   "meta": "★ 601",
+   "date": "2026-10-15 00:48",
+   "lang": "en",
+   "source": "GitHub",
+   "heat": 1.47,
+   "hot": {
+    "p": 0,
+    "c": 0,
+    "s": 601,
+    "h": 407
+   },
+   "summary_i18n": {
+    "en": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
+    "zh-Hans": "用于任何框架的嵌入、查看和管理i18n的通用工具包。",
+    "ja": "あらゆるフレームワークのi18nのライニング、表示および管理のための普遍的なツールキット。",
+    "ko": "linting를 위한 보편적인 toolkits, 어떤 기구든지를 위한 i18n의 보고 그리고 관리.",
+    "ms": "toolkit Universal untuk linting, melihat dan mengelola i18n untuk setiap kerangka kerja.",
+    "vi": "Công cụ phổ thông cho liling, xem và quản lý I18n cho bất kỳ khuôn khổ nào.",
+    "fr": "Outils universels pour le doublage, la visualisation et la gestion i18n pour tous les cadres.",
+    "es": "Herramientas universales para forro, visualización y manejo de i18n para cualquier marco.",
+    "de": "Universelle Toolkits zum Linting, Anzeigen und Verwalten von i18n für beliebige Frameworks.",
+    "zh-Hant": "用於任何框架的嵌入、檢視和管理i18n的通用工具包。"
+   }
+  },
+  {
    "id": "gh-1423996774",
    "ch": "ai",
    "title": "langchain-ai/design-agent",
@@ -26966,15 +27049,15 @@
     "Trend",
     "agent"
    ],
-   "meta": "★ 530",
+   "meta": "★ 531",
    "date": "2026-10-18 04:44",
    "lang": "en",
    "source": "GitHub",
-   "heat": 1.52,
+   "heat": 1.53,
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 530,
+    "s": 531,
     "h": 331
    },
    "summary_i18n": {
@@ -27170,7 +27253,7 @@
     "Trend",
     "agent"
    ],
-   "meta": "★ 154",
+   "meta": "★ 155",
    "date": "2026-10-13 19:59",
    "lang": "en",
    "source": "GitHub",
@@ -27178,8 +27261,8 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 154,
-    "h": 435
+    "s": 155,
+    "h": 436
    },
    "summary_i18n": {
     "en": "Build autonomous AI agents that interact with blockchains — in minutes, not months.",
@@ -27272,7 +27355,7 @@
     "Trend",
     "rag"
    ],
-   "meta": "★ 212",
+   "meta": "★ 213",
    "date": "2026-10-28 18:18",
    "lang": "en",
    "source": "GitHub",
@@ -27280,7 +27363,7 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 212,
+    "s": 213,
     "h": 77
    },
    "summary_i18n": {
@@ -27315,7 +27398,7 @@
     "p": 0,
     "c": 0,
     "s": 192,
-    "h": 453
+    "h": 454
    },
    "summary_i18n": {
     "en": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
@@ -27378,7 +27461,7 @@
    "date": "2026-10-20 17:30",
    "lang": "en",
    "source": "GitHub",
-   "heat": 0.61,
+   "heat": 0.6,
    "hot": {
     "p": 0,
     "c": 0,
@@ -27417,7 +27500,7 @@
     "p": 0,
     "c": 0,
     "s": 168,
-    "h": 349
+    "h": 350
    },
    "summary_i18n": {
     "en": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
@@ -27451,7 +27534,7 @@
     "p": 0,
     "c": 0,
     "s": 111,
-    "h": 395
+    "h": 396
    },
    "summary_i18n": {
     "en": "Open-source platform for AI chat agents that answer from your own knowledge base. Hybrid RAG search in PostgreSQL, MCP and custom tools, guardrails and human handoff. Put agents on a hosted chat page, a website widget, S",
@@ -27485,7 +27568,7 @@
     "p": 0,
     "c": 0,
     "s": 105,
-    "h": 429
+    "h": 430
    },
    "summary_i18n": {
     "en": "Agent FastAPI Qwen3 RAG",
@@ -27510,7 +27593,7 @@
     "Trend",
     "claude"
    ],
-   "meta": "★ 3,970",
+   "meta": "★ 3,974",
    "date": "2026-10-20 14:17",
    "lang": "en",
    "source": "GitHub",
@@ -27518,7 +27601,7 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 3970,
+    "s": 3974,
     "h": 273
    },
    "trend": true,
@@ -27549,12 +27632,12 @@
    "date": "2026-10-14 14:05",
    "lang": "en",
    "source": "GitHub",
-   "heat": 3.85,
+   "heat": 3.84,
    "hot": {
     "p": 0,
     "c": 0,
     "s": 1608,
-    "h": 417
+    "h": 418
    },
    "summary_i18n": {
     "en": "A high-fidelity recreation of the official Claude desktop UI from a deep teardown: 30 React components, 8 interaction physics algorithms and a 3,000+ line reverse-engineering handbook.",
@@ -27588,7 +27671,7 @@
     "p": 0,
     "c": 0,
     "s": 1008,
-    "h": 410
+    "h": 411
    },
    "summary_i18n": {
     "en": "11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes.",
@@ -27690,7 +27773,7 @@
     "p": 0,
     "c": 0,
     "s": 468,
-    "h": 456
+    "h": 457
    },
    "summary_i18n": {
     "en": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
@@ -27719,12 +27802,12 @@
    "date": "2026-10-14 09:06",
    "lang": "en",
    "source": "GitHub",
-   "heat": 0.81,
+   "heat": 0.8,
    "hot": {
     "p": 0,
     "c": 0,
     "s": 340,
-    "h": 422
+    "h": 423
    },
    "summary_i18n": {
     "en": "Replay your coding agent sessions as a map and a timeline",
@@ -27749,7 +27832,7 @@
     "Trend",
     "llm-inference"
    ],
-   "meta": "★ 1,067",
+   "meta": "★ 1,069",
    "date": "2026-10-20 14:03",
    "lang": "en",
    "source": "GitHub",
@@ -27757,8 +27840,8 @@
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 1067,
-    "h": 273
+    "s": 1069,
+    "h": 274
    },
    "summary_i18n": {
     "en": "Official Inference Code of EAGLE-4",
@@ -27792,7 +27875,7 @@
     "p": 0,
     "c": 0,
     "s": 205,
-    "h": 437
+    "h": 438
    },
    "summary_i18n": {
     "en": "Fast, exact inference for StartLux-Decision models on NVIDIA GPUs: the released GGUF files on int8 and 4-bit tensor cores, behind the /v1/systemone API, with up to 5.3× lower latency than vLLM in FP8 and bit-identical an",
@@ -27928,7 +28011,7 @@
     "p": 0,
     "c": 0,
     "s": 74,
-    "h": 244
+    "h": 245
    },
    "summary_i18n": {
     "en": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.",
@@ -27957,7 +28040,7 @@
    "date": "2026-10-18 00:24",
    "lang": "en",
    "source": "GitHub",
-   "heat": 0.21,
+   "heat": 0.2,
    "hot": {
     "p": 0,
     "c": 0,
@@ -27991,12 +28074,12 @@
    "date": "2026-10-27 08:00",
    "lang": "en",
    "source": "GitHub",
-   "heat": 3.04,
+   "heat": 3.03,
    "hot": {
     "p": 0,
     "c": 0,
     "s": 448,
-    "h": 111
+    "h": 112
    },
    "summary_i18n": {
     "en": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
@@ -28098,7 +28181,7 @@
     "p": 0,
     "c": 0,
     "s": 154,
-    "h": 236
+    "h": 237
    },
    "summary_i18n": {
     "en": "から ・ ・ ・PDF まで める Codex け ツール",
@@ -28127,12 +28210,12 @@
    "date": "2026-10-12 11:09",
    "lang": "en",
    "source": "GitHub",
-   "heat": 0.21,
+   "heat": 0.2,
    "hot": {
     "p": 0,
     "c": 0,
     "s": 94,
-    "h": 468
+    "h": 469
    },
    "summary_i18n": {
     "en": "Anthropics Portrait for Windows — step-by-step install and first-run setup on Windows 10 and 11, with download steps in the README.",
@@ -28145,40 +28228,6 @@
     "es": "Antrópicos Retrato para Windows — instalación paso a paso y configuración de primera ejecución en Windows 10 y 11, con pasos de descarga en el README.",
     "de": "Anthropics Portrait für Windows - Schritt-für-Schritt-Installation und Erstlauf-Setup unter Windows 10 und 11, mit Download-Schritten in der README.",
     "zh-Hant": "Windows的Anthrophics Porrait——在Windows 10和11上逐步安裝和首發執行的設定,在README中帶有下載步驟."
-   }
-  },
-  {
-   "id": "gh-1413848128",
-   "ch": "ai",
-   "title": "erhanmeydan/kilnframe",
-   "summary": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-   "url": "https://github.com/erhanmeydan/kilnframe",
-   "tags": [
-    "Trend",
-    "generative-ai"
-   ],
-   "meta": "★ 90",
-   "date": "2026-10-11 02:19",
-   "lang": "en",
-   "source": "GitHub",
-   "heat": 0.19,
-   "hot": {
-    "p": 0,
-    "c": 0,
-    "s": 90,
-    "h": 501
-   },
-   "summary_i18n": {
-    "en": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-    "zh-Hans": "Primee Pro 和 DaVinci 的免费开放源码插件",
-    "ja": "Premiere ProとDaVinci Resolve用のオープンソースプラグイン:アニメーションインサートと音楽に何を言うか、自分のコンピュータにレンダリング",
-    "ko": "Free, Premiere Pro 및 DaVinci Resolve에 대한 오픈 소스 플러그인 : 당신은 애니메이션 인서트와 음악으로 말하는 것을 전환, 자신의 컴퓨터에 렌더링",
-    "ms": "Free, open source plugin untuk Premiere Pro dan DaVinci Resolve: mengubah apa yang Anda katakan ke animasi memasukkan dan musik, dirender pada komputer Anda sendiri",
-    "vi": "Phần bổ sung mã nguồn mở cho Premiere Pro và DaVinci Resolve: biến những gì bạn nói thành các chèn và âm nhạc hoạt hình, được vẽ trên máy tính riêng của bạn",
-    "fr": "Plugin gratuit et open source pour Premiere Pro et DaVinci Resolve : transforme ce que vous dites en inserts animés et en musique, rendu sur votre propre ordinateur",
-    "es": "Free, open source plugin for Premiere Pro and DaVinci Resolve: convierte lo que dices en insertos animados y música, renderizado en tu propio ordenador",
-    "de": "Kostenloses Open-Source-Plugin für Premiere Pro und DaVinci Resolve: verwandelt das, was Sie sagen, in animierte Einsätze und Musik, die auf Ihrem eigenen Computer gerendert werden",
-    "zh-Hant": "Primee Pro 和 DaVinci 的免費開放原始碼外掛"
    }
   },
   {
@@ -28200,7 +28249,7 @@
     "p": 0,
     "c": 0,
     "s": 57,
-    "h": 354
+    "h": 355
    },
    "summary_i18n": {
     "en": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
@@ -28229,7 +28278,7 @@
    "date": "2026-10-31 13:30",
    "lang": "en",
    "source": "GitHub",
-   "heat": 1.72,
+   "heat": 1.68,
    "hot": {
     "p": 0,
     "c": 0,
@@ -28250,37 +28299,37 @@
    }
   },
   {
-   "id": "gh-1414354754",
+   "id": "gh-1422303499",
    "ch": "ai",
-   "title": "SouravBeraAkaSpeed/xiryn",
-   "summary": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Te",
-   "url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+   "title": "AvaLovelace1/brickwright",
+   "summary": "Official repository for BrickWright, a framework that enables LLM agents to create physically feasible LEGO® builds from text or image prompts.",
+   "url": "https://github.com/AvaLovelace1/brickwright",
    "tags": [
     "Trend",
-    "computer-use"
+    "generative-ai"
    ],
-   "meta": "★ 389",
-   "date": "2026-10-11 13:12",
+   "meta": "★ 27",
+   "date": "2026-10-16 14:57",
    "lang": "en",
    "source": "GitHub",
-   "heat": 0.82,
+   "heat": 0.07,
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 389,
-    "h": 490
+    "s": 27,
+    "h": 369
    },
    "summary_i18n": {
-    "en": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Te",
-    "zh-Hans": "Xiryn——开源个人代理. Muse、Grok Bot和Dots在自己的电脑上所做的一切: 每一个代理都得到自己在Docker的Linux桌面, 任何带有你钥匙的模型, 一个加密的金库, 以及来自 Te 的控制",
-    "ja": "Xiryn — オープンソースの個人エージェント。 すべてのミューズ、 Grok Bot と Dots は、自分のコンピューターで行います。各エージェントは、Docker で独自の Linux デスクトップ、キー、暗号化されたボルト、および Te から制御を取得します。",
-    "ko": "Xiryn - 오픈 소스 개인 에이전트. 모든 Muse, Grok Bot 및 Dots do, 자신의 컴퓨터에서: 각 대리인은 Docker에서 그것의 자신의 리눅스 데스크탑을, 당신의 열쇠를 가진 어떤 모형, 암호화된 vault 및 Te에서 통제 얻습니다",
-    "ms": "Xiryn — agen pribadi open-source. Apakah segala sesuatu Muse, Grok Bot dan Dots lakukan, pada komputer Anda sendiri: setiap agen mendapatkan sendiri Linux desktop di Docker, model apapun dengan kunci Anda, lemari besi terenkripsi, dan kontrol dari Te",
-    "vi": "Xiryn - tác nhân mã nguồn mở. Làm tất cả mọi thứ Mise, Grok Bot và Dots làm, trên máy tính riêng của bạn: mỗi đại lý có một màn hình Linux riêng ở Docker, bất kỳ mô hình nào với chìa khóa của bạn, một kho mã hóa và điều khiển từ Te",
-    "fr": "Xiryn — l'agent personnel de source ouverte. Est-ce que tout Muse, Grok Bot et Dots font, sur votre propre ordinateur: chaque agent obtient son propre bureau Linux dans Docker, n'importe quel modèle avec vos clés, une voûte cryptée, et le contrôle de Te",
-    "es": "Xiryn — el agente personal de código abierto. Lo hace todo Muse, Grok Bot y Dots, en su propio equipo: cada agente obtiene su propio escritorio Linux en Docker, cualquier modelo con sus llaves, una bóveda cifrada y el control de Te",
-    "de": "Xiryn - der Open-Source-Personal Agent. Macht alles, was Muse, Grok Bot und Dots tun, auf Ihrem eigenen Computer: Jeder Agent erhält seinen eigenen Linux-Desktop in Docker, jedes Modell mit Ihren Schlüsseln, ein verschlüsseltes Gewölbe und Kontrolle von Te",
-    "zh-Hant": "Xiryn——開源個人代理. Muse、Grok Bot和Dots在自己的電腦上所做的一切: 每一個代理都得到自己在Docker的Linux桌面, 任何帶有你鑰匙的模型, 一個加密的金庫, 以及來自 Te 的控制"
+    "en": "Official repository for BrickWright, a framework that enables LLM agents to create physically feasible LEGO® builds from text or image prompts.",
+    "zh-Hans": "BrickWright的官方寄存器,这个框架使LLM代理能够从文本或图像提示中创建实际可行的LEGO®.",
+    "ja": "BrickWrightの公式リポジトリ、LMエージェントがテキストやイメージプロンプトから物理的に実現可能なLEGO®ビルドを作成することを可能にするフレームワーク。",
+    "ko": "BrickWright의 공식 저장소, LLM 에이전트가 텍스트 또는 이미지 프롬프트에서 물리적으로 feasible LEGO® 빌드를 만들 수있는 프레임 워크.",
+    "ms": "Repositori resmi untuk BrickWright, kerangka kerja yang memungkinkan agen LLM untuk membuat LEGO® fisik yang layak untuk dibuat dari teks atau gambar.",
+    "vi": "Kho chính thức cho BrickWright, một khuôn khổ mà cho phép các tác nhân của LEGO tạo ra các hình ảnh và văn bản.",
+    "fr": "Dépôt officiel pour BrickWright, un cadre qui permet aux agents LLM de créer des compilations LEGO® physiquement réalisables à partir d'invites texte ou d'image.",
+    "es": "Repositorio oficial para BrickWright, un marco que permite a los agentes de LLM crear LEGO® físicamente factible a partir de instrucciones de texto o imagen.",
+    "de": "Offizielles Repository für BrickWright, ein Framework, mit dem LLM-Agenten aus Text- oder Bildaufforderungen physisch realisierbare LEGO®-Builds erstellen können.",
+    "zh-Hant": "BrickWright的官方暫存器,這個框架使LLM代理能夠從文字或影象提示中建立實際可行的LEGO®."
    }
   },
   {
@@ -28336,7 +28385,7 @@
     "p": 0,
     "c": 0,
     "s": 88,
-    "h": 281
+    "h": 282
    },
    "summary_i18n": {
     "en": "Hardware mouse MCP server for AI agents on Windows x64. USB HID control and voice dictation; requires compatible uMouse hardware and firmware. AI MCP USB HID uMouse",
@@ -28420,6 +28469,74 @@
    }
   },
   {
+   "id": "gh-1423549503",
+   "ch": "ai",
+   "title": "cccat6/iphone-agent-harness",
+   "summary": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choice of AI, and community skills.",
+   "url": "https://github.com/cccat6/iphone-agent-harness",
+   "tags": [
+    "Trend",
+    "computer-use"
+   ],
+   "meta": "★ 32",
+   "date": "2026-10-17 16:57",
+   "lang": "en",
+   "source": "GitHub",
+   "heat": 0.09,
+   "hot": {
+    "p": 0,
+    "c": 0,
+    "s": 32,
+    "h": 343
+   },
+   "summary_i18n": {
+    "en": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choice of AI, and community skills.",
+    "zh-Hans": "将你真正的iPhone从Safari自动装上$2的ESP32. 没有Mac 没有APP 没有越狱 本地对话,你选择AI, 和社区技能。",
+    "ja": "実際のiPhoneをSafariから$ 2 ESP32で自動化します。 Mac、APP、脱獄なし。 ローカルの会話、AI、コミュニティのスキルの選択。",
+    "ko": "Safari에서 $ 2 ESP32로 실제 iPhone을 자동화하십시오. Mac 없음, APP 없음, 탈옥 없음. 지역 대화, AI, 커뮤니티 기술의 선택.",
+    "ms": "Otomate iPhone asli Anda dari Safari dengan $ 2 ESP32. Tidak ada Mac, tidak ada APP, dan tidak ada penjara. Perbincangan lokal, pilihan AI, dan keterampilan masyarakat.",
+    "vi": "Hãy tự động sử dụng iPhone thật của bạn từ Safari với 2 đô-la strength32. Không Mac, không APP, và không vượt ngục. Cuộc trò chuyện địa phương, sự lựa chọn AI, và kỹ năng cộng đồng.",
+    "fr": "Automatisez votre iPhone réel de Safari avec un ESP32 $2. Pas de Mac, pas d'APP et pas de prisonbreak. Des conversations locales, votre choix d'IA et des compétences communautaires.",
+    "es": "Automatiza tu iPhone real desde Safari con un ESP32 de $2. Sin Mac, sin APP, y sin descanso. Conversaciones locales, su elección de inteligencia artificial y habilidades comunitarias.",
+    "de": "Automatisieren Sie Ihr echtes iPhone von Safari mit einem $ 2 ESP32. Kein Mac, keine APP und kein Jailbreak. Lokale Gespräche, Ihre Wahl der KI und Community-Fähigkeiten.",
+    "zh-Hant": "將你真正的iPhone從Safari自動裝上$2的ESP32. 沒有Mac 沒有APP 沒有越獄 本地對話,你選擇AI, 和社群技能。"
+   }
+  },
+  {
+   "id": "gh-1416535154",
+   "ch": "ai",
+   "title": "everettjf/copyapp",
+   "summary": "Analyze jailbroken iOS and macOS apps, then build and verify independent implementations of selected behavior.",
+   "url": "https://github.com/everettjf/copyapp",
+   "tags": [
+    "Trend",
+    "computer-use"
+   ],
+   "meta": "★ 26",
+   "date": "2026-10-13 05:57",
+   "lang": "en",
+   "source": "GitHub",
+   "heat": 0.06,
+   "hot": {
+    "p": 0,
+    "c": 0,
+    "s": 26,
+    "h": 450
+   },
+   "summary_i18n": {
+    "en": "Analyze jailbroken iOS and macOS apps, then build and verify independent implementations of selected behavior.",
+    "zh-Hans": "分析 jailbroken iOS 和 macOS apps,然后构建和验证选定行为的独立执行.",
+    "ja": "jailbroken iOSとmacOSアプリを分析し、選択した動作の独立した実装を構築および検証します。",
+    "ko": "Analyze jailbroken iOS 및 macOS 앱은 선택한 행동의 독립적 인 구현을 구축하고 검증합니다.",
+    "ms": "Analisis iOS dan aplikasi macOS yang rusak di penjara, kemudian membangun dan memverifikasi implementasi independen dari perilaku terpilih.",
+    "vi": "Phân tích các ứng dụng iOS và McOS, rồi xây dựng và xác nhận độc lập việc thực hiện các hành vi được chọn.",
+    "fr": "Analysez les applications jailbroken iOS et macOS, puis construisez et vérifiez les implémentations indépendantes du comportement sélectionné.",
+    "es": "Analizar las aplicaciones iOS y macOS de la cárcel, luego construir y verificar implementaciones independientes de comportamiento seleccionado.",
+    "de": "Analysieren Sie Jailbroken iOS- und macOS-Apps und erstellen und verifizieren Sie dann unabhängige Implementierungen ausgewählter Verhaltensweisen.",
+    "zh-Hant": "分析 jailbroken iOS 和 macOS apps,然後構建和驗證選定行為的獨立執行."
+   }
+  },
+  {
    "id": "gh-1423101235",
    "ch": "ai",
    "title": "Gathin23/cleanyourtv",
@@ -28429,16 +28546,16 @@
     "Trend",
     "vibe-coding"
    ],
-   "meta": "★ 47,921",
+   "meta": "★ 47,935",
    "date": "2026-10-17 08:12",
    "lang": "en",
    "source": "GitHub",
-   "heat": 131.43,
+   "heat": 131.37,
    "hot": {
     "p": 0,
     "c": 0,
-    "s": 47921,
-    "h": 351
+    "s": 47935,
+    "h": 352
    },
    "trend": true,
    "summary_i18n": {
@@ -28638,7 +28755,7 @@
    "date": "2026-10-28 16:22",
    "lang": "en",
    "source": "GitHub",
-   "heat": 0.59,
+   "heat": 0.58,
    "hot": {
     "p": 0,
     "c": 0,
@@ -29143,7 +29260,7 @@
     "p": 2,
     "c": 0,
     "s": 0,
-    "h": 99
+    "h": 100
    },
    "title_i18n": {
     "en": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
@@ -29189,7 +29306,7 @@
     "p": 2,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
@@ -29235,7 +29352,7 @@
     "p": 4,
     "c": 0,
     "s": 0,
-    "h": 171
+    "h": 172
    },
    "title_i18n": {
     "en": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
@@ -29281,7 +29398,7 @@
     "p": 5,
     "c": 0,
     "s": 0,
-    "h": 171
+    "h": 172
    },
    "title_i18n": {
     "en": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
@@ -29322,12 +29439,12 @@
    "date": "2026-10-28 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 0.25,
+   "heat": 0.24,
    "hot": {
     "p": 8,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Training Foundation Models with a Single Algorithm",
@@ -29373,7 +29490,7 @@
     "p": 3,
     "c": 0,
     "s": 0,
-    "h": 387
+    "h": 388
    },
    "title_i18n": {
     "en": "ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics",
@@ -29414,12 +29531,12 @@
    "date": "2026-10-28 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 1.78,
+   "heat": 1.77,
    "hot": {
     "p": 58,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
@@ -29465,7 +29582,7 @@
     "p": 4,
     "c": 0,
     "s": 0,
-    "h": 99
+    "h": 100
    },
    "title_i18n": {
     "en": "Scaling Lean Theorem Proving for Real-World Code Verification",
@@ -29511,7 +29628,7 @@
     "p": 1,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss",
@@ -29557,7 +29674,7 @@
     "p": 3,
     "c": 0,
     "s": 0,
-    "h": 339
+    "h": 340
    },
    "title_i18n": {
     "en": "Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion",
@@ -29598,12 +29715,12 @@
    "date": "2026-10-28 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 2.09,
+   "heat": 2.08,
    "hot": {
     "p": 68,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
@@ -29649,7 +29766,7 @@
     "p": 5,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation",
@@ -29695,7 +29812,7 @@
     "p": 13,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions",
@@ -29741,7 +29858,7 @@
     "p": 5,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers",
@@ -29787,7 +29904,7 @@
     "p": 12,
     "c": 0,
     "s": 0,
-    "h": 99
+    "h": 100
    },
    "title_i18n": {
     "en": "Multi-Token Prediction Done Right",
@@ -29833,7 +29950,7 @@
     "p": 36,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
@@ -29874,12 +29991,12 @@
    "date": "2026-10-28 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 1.17,
+   "heat": 1.16,
    "hot": {
     "p": 38,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
@@ -29925,7 +30042,7 @@
     "p": 11,
     "c": 0,
     "s": 0,
-    "h": 99
+    "h": 100
    },
    "title_i18n": {
     "en": "Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?",
@@ -29966,12 +30083,12 @@
    "date": "2026-10-28 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 0.28,
+   "heat": 0.27,
    "hot": {
     "p": 9,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps",
@@ -30017,7 +30134,7 @@
     "p": 11,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Glance: The Generator Is Its Own Reranker",
@@ -30054,16 +30171,16 @@
     "Paper",
     "Trend"
    ],
-   "meta": "▲ 65",
+   "meta": "▲ 66",
    "date": "2026-10-27 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 1.61,
+   "heat": 1.63,
    "hot": {
-    "p": 65,
+    "p": 66,
     "c": 0,
     "s": 0,
-    "h": 99
+    "h": 100
    },
    "title_i18n": {
     "en": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
@@ -30104,12 +30221,12 @@
    "date": "2026-10-26 20:00",
    "lang": "en",
    "source": "HF Papers",
-   "heat": 2.05,
+   "heat": 2.04,
    "hot": {
     "p": 98,
     "c": 0,
     "s": 0,
-    "h": 123
+    "h": 124
    },
    "title_i18n": {
     "en": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
@@ -30155,7 +30272,7 @@
     "p": 12,
     "c": 0,
     "s": 0,
-    "h": 411
+    "h": 412
    },
    "title_i18n": {
     "en": "CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models",
@@ -30201,7 +30318,7 @@
     "p": 5,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training",
@@ -30247,7 +30364,7 @@
     "p": 20,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
@@ -30293,7 +30410,7 @@
     "p": 8,
     "c": 0,
     "s": 0,
-    "h": 123
+    "h": 124
    },
    "title_i18n": {
     "en": "SO-101 Bench: Accessible Spatial Manipulation",
@@ -30339,7 +30456,7 @@
     "p": 19,
     "c": 0,
     "s": 0,
-    "h": 75
+    "h": 76
    },
    "title_i18n": {
     "en": "Intrinsic Distribution Matching",
@@ -30385,7 +30502,7 @@
     "p": 21,
     "c": 0,
     "s": 0,
-    "h": 267
+    "h": 268
    },
    "title_i18n": {
     "en": "Your Benchmark Is an Empirical Measure Over Difficulty",
@@ -30431,7 +30548,7 @@
     "p": 28,
     "c": 0,
     "s": 0,
-    "h": 219
+    "h": 220
    },
    "title_i18n": {
     "en": "A Broader Look into MLLM's Retrieval Heads",
