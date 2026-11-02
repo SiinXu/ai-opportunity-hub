@@ -1,6 +1,1052 @@
 {
- "latest": "2026-11-01",
+ "latest": "2026-11-02",
  "digests": [
+  {
+   "date": "2026-11-02",
+   "path": "digest/2026-11-02/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-11-01T23:30:00Z",
+   "generated": "2026-11-02T00:08:49Z",
+   "new_count": 37,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-02",
+    "zh-Hant": "早間技術熱點 · 2026-11-02",
+    "en": "Morning tech digest · 2026-11-02",
+    "ja": "Morning tech digest · 2026-11-02",
+    "ko": "아침 테크 다이제스트 · 2026-11-02",
+    "ms": "Ringkasan teknologi pagi · 2026-11-02",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-11-02",
+    "fr": "Digest tech du matin · 2026-11-02",
+    "es": "Resumen tecnológico matinal · 2026-11-02",
+    "de": "Morgendlicher Tech-Digest · 2026-11-02"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-11-02 07:30 自动生成：从上一期以来 OPC Radar 新收录的 37 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-11-02 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 37 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-11-02: the hottest of the 37 signals OPC Radar picked up since the previous issue.",
+    "ja": "Generated automatically at 07:30 Asia/Shanghai on 2026-11-02: the hottest of the 37 signals OPC Radar picked up since the previous issue.",
+    "ko": "2026-11-02 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 37개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-11-02: isyarat paling hangat daripada 37 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-11-02: những tín hiệu nổi bật nhất trong 37 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-11-02 : les plus marquants des 37 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-11-02: lo más destacado de las 37 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-11-02: das Wichtigste aus 37 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "Morning tech digest",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50325662",
+     "title": {
+      "zh-Hans": "在Minecraft的AI特工群 未能建立文明 被官僚机构淹没",
+      "zh-Hant": "在Minecraft的AI特工群 未能建立文明 被官僚機構淹沒",
+      "en": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "ja": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "ko": "Minecraft의 AI Agent swarm은 민간화를 구축하지 못했습니다. bureaucracy",
+      "ms": "Agen agen AI bergerombol di Minecraft gagal membangun peradaban, tenggelam dalam birokrasi",
+      "vi": "Đặc vụ Al tập trung trong Minecraft thất bại trong việc xây dựng nền văn minh, chết đuối trong quan liêu",
+      "fr": "L'agent de l'IA essaims dans Minecraft ne construit pas la civilisation, noyé dans la bureaucratie",
+      "es": "Agente AI enjambres en Minecraft no logran construir civilización, ahogarse en burocracia",
+      "de": "KI-Agentenschwärme in Minecraft bauen keine Zivilisation auf, ertrinken in Bürokratie"
+     },
+     "summary": {
+      "en": "It is hoped game testing can provide insight into recent AI agent headlines, good and bad.",
+      "zh-Hans": "希望游戏测试能提供近期AI代理头条新闻的洞察力,无论好坏.",
+      "ja": "It is hoped game testing can provide insight into recent AI agent headlines, good and bad.",
+      "ko": "그것은 희망 게임 테스트 최근 AI 에이전트 헤드 라인, 좋은 나쁜에 통찰력을 제공 할 수 있습니다.",
+      "ms": "Hal ini diharapkan pengujian permainan dapat memberikan wawasan baru-baru ini AI agen berita utama, baik dan buruk.",
+      "vi": "Nó là cuộc thử nghiệm hy vọng có thể cung cấp sự hiểu biết sâu sắc vào các tiêu đề đặc vụ AI gần đây, tốt và xấu.",
+      "fr": "On espère que les tests de jeu peuvent donner un aperçu des titres récents d'agents d'IA, bons et mauvais.",
+      "es": "Se espera que las pruebas de juego puedan proporcionar información sobre los titulares recientes del agente AI, bueno y malo.",
+      "de": "Es ist zu hoffen, dass Spieltests einen Einblick in die jüngsten Schlagzeilen von KI-Agenten geben können, gute und schlechte.",
+      "zh-Hant": "希望遊戲測試能提供近期AI代理頭條新聞的洞察力,無論好壞."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 130 分 · 60 条评论",
+      "zh-Hant": "Hacker News 130 分 · 60 則留言",
+      "en": "130 points · 60 comments on Hacker News",
+      "ja": "130 points · 60 comments on Hacker News",
+      "ko": "Hacker News 130점 · 댓글 60개",
+      "ms": "130 mata · 60 komen di Hacker News",
+      "vi": "130 điểm · 60 bình luận trên Hacker News",
+      "fr": "130 points · 60 commentaires sur Hacker News",
+      "es": "130 puntos · 60 comentarios en Hacker News",
+      "de": "130 Punkte · 60 Kommentare auf Hacker News"
+     },
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+     "src": "tomshardware.com",
+     "date": "2026-11-01",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50325662"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50328487",
+     "title": {
+      "zh-Hans": "护士听起来警钟是'Uber for lake' Apps Push to Deregulate 保健",
+      "zh-Hant": "護士聽起來警鐘是'Uber for lake' Apps Push to Deregulate 保健",
+      "en": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "ja": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "ko": "'Uber for Nursing' Apps Push로 간호사 사운드 알람",
+      "ms": "Keperawatan Perawat Bunyi Alarm sebagai 'Uber for Nursing' Apps Push to Deregulasi Healthcare",
+      "vi": "Y tá âm thanh báo động như \"Uber for Nursing' Apps Push to Dereegote Health Care",
+      "fr": "L'alarme sonore des infirmières en tant qu'applications « Uber for Nursing » pousse pour déréglementer les soins de santé",
+      "es": "Enfermeras Sound Alarm como 'Uber for Nursing' Apps Empujar a desregular la atención médica",
+      "de": "Krankenschwestern klingen Alarm als \"Uber for Nursing\" -Apps zur Deregulierung des Gesundheitswesens"
+     },
+     "summary": {
+      "en": "A new AI Now Institute report warns gig apps like ShiftKey, CareRev, and Clipboard Health are lobbying states to deregulate healthcare, leaving nurses with less pay and fewer protections.",
+      "zh-Hans": "新AI Now Institute报告警告ShiftKey, CareRev等工作应用, Clippboard Health正在游说各州解除对医疗保健的监管,使护士工资低,保护更少.",
+      "ja": "A new AI Now Institute report warns gig apps like ShiftKey, CareRev, and Clipboard Health are lobbying states to deregulate healthcare, leaving nurses with less pay and fewer protections.",
+      "ko": "새로운 AI Now Institute 보고서는 ShiftKey, CareRev, Clipboard Health와 같은 Gig 앱을 경고하고, 의료를 규제하고, 더 적은 지불 및 적은 보호를 가진 간호사를 떠나기 위해 로비 상태입니다.",
+      "ms": "Sebuah laporan baru AI Now Institute memperingatkan aplikasi manggung seperti ShiftKey, CareRev, dan Klipbod Health sedang melobi negara untuk menderegulasi layanan kesehatan, meninggalkan perawat dengan kurang membayar dan lebih sedikit perlindungan.",
+      "vi": "Một bản báo cáo mới của Viện Công Nghệ Hoa Kỳ cảnh báo các ứng dụng công nghệ như ShiftKey, CareRev, và sức khỏe bảng tính đang vận chuyển các quốc gia để bãi bỏ chăm sóc sức khỏe, để lại các y tá ít lương hơn và ít bảo vệ hơn.",
+      "fr": "Un nouveau rapport de l'IA Now Institute met en garde contre les applications de gig comme ShiftKey, CareRev, et Clipboard Health font pression sur les États pour déréglementer les soins de santé, laissant des infirmières moins rémunérées et moins protégées.",
+      "es": "Un nuevo informe del Instituto AI Now advierte que las aplicaciones de gig como ShiftKey, CareRev y Clipboard Health están presionando a los estados para desregular la atención médica, dejando a las enfermeras con menos salario y menos protecciones.",
+      "de": "Ein neuer Bericht des AI Now Institute warnt davor, dass Gig-Apps wie ShiftKey, CareRev und Clipboard Health Lobbying-Staaten sind, um das Gesundheitswesen zu deregulieren und Krankenschwestern mit weniger Bezahlung und weniger Schutz zu verlassen.",
+      "zh-Hant": "新AI Now Institute報告警告ShiftKey, CareRev等工作應用, Clippboard Health正在遊說各州解除對醫療保健的監管,使護士工資低,保護更少."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 123 分 · 117 条评论",
+      "zh-Hant": "Hacker News 123 分 · 117 則留言",
+      "en": "123 points · 117 comments on Hacker News",
+      "ja": "123 points · 117 comments on Hacker News",
+      "ko": "Hacker News 123점 · 댓글 117개",
+      "ms": "123 mata · 117 komen di Hacker News",
+      "vi": "123 điểm · 117 bình luận trên Hacker News",
+      "fr": "123 points · 117 commentaires sur Hacker News",
+      "es": "123 puntos · 117 comentarios en Hacker News",
+      "de": "123 Punkte · 117 Kommentare auf Hacker News"
+     },
+     "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+     "src": "nurse.org",
+     "date": "2026-11-01",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50328487"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50328488",
+     "title": {
+      "zh-Hans": "不是AI把质子的电荷翻了",
+      "zh-Hant": "不是AI把質子的電荷翻了",
+      "en": "It wasn't AI that flipped Proton's charge",
+      "ja": "It wasn't AI that flipped Proton's charge",
+      "ko": "Proton의 책임을 지는 AI가 아닙니다.",
+      "ms": "Itu bukan AI yang membalik biaya Proton",
+      "vi": "Đó không phải là AI đã lật đổ bộ sạc của Proton.",
+      "fr": "Ce n'est pas l'IA qui a renversé la charge de Proton",
+      "es": "No era AI el que volteó la carga de Proton",
+      "de": "Es war keine KI, die Protons Ladung umdrehte"
+     },
+     "summary": {
+      "en": "Proton's CEO called a request for security testing \"loser thinking\". Using AI to write code is fine, but for a privacy company, the guardrails around that code are the product.",
+      "zh-Hans": "质子公司的CEO称要求安全测试\"迷失思维\". 使用AI来写代码是好的, 但对于一个隐私公司来说, 围绕代码的护栏是产品。",
+      "ja": "Proton's CEO called a request for security testing \"loser thinking\". Using AI to write code is fine, but for a privacy company, the guardrails around that code are the product.",
+      "ko": "Proton의 CEO는 보안 테스트 \"잃어버린 생각\"을 요청했습니다. AI를 사용하여 코드를 작성하는 것은 괜찮습니다. 그러나 개인 정보 보호 회사에 대한, 그 코드 주위에 난간은 제품입니다.",
+      "ms": "Proton's CEO disebut permintaan untuk pengujian keamanan \"kehilangan berpikir\". Menggunakan AI untuk menulis kode baik-baik saja, tetapi untuk sebuah perusahaan privasi, saluran jaga di sekitar kode adalah produk.",
+      "vi": "Giám đốc điều hành của Proton đã yêu cầu thử nghiệm an ninh \"mất tư duy\". Sử dụng AI để viết mã thì tốt, nhưng đối với một công ty riêng tư, các rào chắn xung quanh đoạn mã đó là sản phẩm.",
+      "fr": "Le PDG de Proton a appelé une demande pour des tests de sécurité \"la pensée perdue\". L'utilisation de l'IA pour écrire le code est bonne, mais pour une entreprise de confidentialité, les garde-corps autour de ce code sont le produit.",
+      "es": "El CEO de Proton llamó una solicitud de pruebas de seguridad \"pensamiento de perdedores\". Utilizar AI para escribir código está bien, pero para una compañía de privacidad, los guardianes alrededor de ese código son el producto.",
+      "de": "Protons CEO nannte eine Anfrage für Sicherheitstests \"Verliererdenken\". Die Verwendung von KI zum Schreiben von Code ist in Ordnung, aber für ein Datenschutzunternehmen sind die Leitplanken um diesen Code das Produkt.",
+      "zh-Hant": "質子公司的CEO稱要求安全測試\"迷失思維\". 使用AI來寫程式碼是好的, 但對於一個隱私公司來說, 圍繞程式碼的護欄是產品。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 107 分 · 61 条评论",
+      "zh-Hant": "Hacker News 107 分 · 61 則留言",
+      "en": "107 points · 61 comments on Hacker News",
+      "ja": "107 points · 61 comments on Hacker News",
+      "ko": "Hacker News 107점 · 댓글 61개",
+      "ms": "107 mata · 61 komen di Hacker News",
+      "vi": "107 điểm · 61 bình luận trên Hacker News",
+      "fr": "107 points · 61 commentaires sur Hacker News",
+      "es": "107 puntos · 61 comentarios en Hacker News",
+      "de": "107 Punkte · 61 Kommentare auf Hacker News"
+     },
+     "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+     "src": "blog.raed.dev",
+     "date": "2026-11-01",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50328488"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50320995",
+     "title": {
+      "zh-Hans": "Memmdoor:一支由5个Quen3.8-27B型号组成的队伍在LiveCode Bench Hard上击败了Fable 5",
+      "zh-Hant": "Memmdoor:一支由5個Quen3.8-27B型號組成的隊伍在LiveCode Bench Hard上擊敗了Fable 5",
+      "en": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "ja": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "ko": "Memdoor: 5 Qwen3.8-27B 모형의 팀은 LiveCodeBench 단단한에 5를 이길",
+      "ms": "Tim 5 model Qwen3.8-27B mengalahkan Fable 5 di LiveCodeBench Hard",
+      "vi": "Memhouse: một đội 5 Qwen3.8-27B mô hình đánh bại Fable 5 trên LiveCodeBech Hard",
+      "fr": "Memdoor: Une équipe de 5 modèles Qwen3.8-27B bat Fable 5 sur LiveCodeBench Hard",
+      "es": "Memdoor: Un equipo de 5 modelos Qwen3.8-27B supera a Fable 5 en LiveCodeBench Hard",
+      "de": "Memdoor: Ein Team von 5 Qwen3.8-27B-Modellen schlägt Fable 5 auf LiveCodeBench Hard"
+     },
+     "summary": {
+      "en": "A lightweight coding and automation agent in one CLI binary. A multi-agent harness. Run locally or over SSH.",
+      "zh-Hans": "一个CLI二进制中的轻量级编码和自动化代理. 多代理机车 本地运行或超过SSH.",
+      "ja": "A lightweight coding and automation agent in one CLI binary. A multi-agent harness. Run locally or over SSH.",
+      "ko": "한 CLI 바이너리의 경량 코딩 및 자동화 에이전트. 멀티 시약 하네스. 로컬 또는 SSH 이상 실행.",
+      "ms": "Coding ringan dan automasi agen dalam satu biner CLI. A multi-agen harness. Jalankan lokal atau lebih SSH.",
+      "vi": "Một tác nhân mã hóa nhẹ và tự động trong một nhị phân CLI. Một bộ giáp đa tác nhân. Chạy khắp địa phương hoặc qua SSH.",
+      "fr": "Un agent de codage et d'automatisation léger dans un binaire CLI. Un harnais multi-agents. Courez localement ou sur SSH.",
+      "es": "Un agente de codificación y automatización ligero en un binario CLI. Un arnés multiagente. Corre localmente o por encima de SSH.",
+      "de": "Ein leichtes Codierungs- und Automatisierungsagent in einem CLI binär. Ein Multiagentengeschirr. Lokal oder über SSH laufen.",
+      "zh-Hant": "一個CLI二進位制中的輕量級編碼和自動化代理. 多代理機車 本地執行或超過SSH."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 401 分 · 199 条评论",
+      "zh-Hant": "Hacker News 401 分 · 199 則留言",
+      "en": "401 points · 199 comments on Hacker News",
+      "ja": "401 points · 199 comments on Hacker News",
+      "ko": "Hacker News 401점 · 댓글 199개",
+      "ms": "401 mata · 199 komen di Hacker News",
+      "vi": "401 điểm · 199 bình luận trên Hacker News",
+      "fr": "401 points · 199 commentaires sur Hacker News",
+      "es": "401 puntos · 199 comentarios en Hacker News",
+      "de": "401 Punkte · 199 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+     "src": "github.com",
+     "date": "2026-10-31",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50320995"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50323088",
+     "title": {
+      "zh-Hans": "JavaScript 框架的人工智能成本",
+      "zh-Hant": "JavaScript 框架的人工智慧成本",
+      "en": "The AI cost of JavaScript frameworks",
+      "ja": "The AI cost of JavaScript frameworks",
+      "ko": "JavaScript 프레임 워크의 AI 비용",
+      "ms": "biaya AI dari kerangka kerja JavaScript",
+      "vi": "Chi phí AI cho khung JavaScript",
+      "fr": "Le coût AI des cadres JavaScript",
+      "es": "El costo AI de los marcos JavaScript",
+      "de": "Die KI-Kosten von JavaScript Frameworks"
+     },
+     "summary": {
+      "en": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based.",
+      "zh-Hans": "我对网络开发界的一个宠物小说是, 我们所做的许多决定都是基于氛围的。",
+      "ja": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based.",
+      "ko": "웹 개발 커뮤니티와 함께 내 애완 동물 오줌 중 하나는 우리가 만드는 결정의 많은 것이 vibes 기반이다.",
+      "ms": "Salah satu hewan peliharaan saya kencing dengan komunitas pengembangan web adalah bahwa begitu banyak keputusan yang kita buat adalah berbasis getaran.",
+      "vi": "Một trong những điều thú cưng của tôi đã tè vào cộng đồng phát triển web là rất nhiều quyết định của chúng tôi dựa trên cảm nhận.",
+      "fr": "Un de mes animaux de compagnie avec la communauté de développement web est que tant de décisions que nous prenons sont basées sur les vibrations.",
+      "es": "Una de mis peeves de mascotas con la comunidad de desarrollo web es que muchas de las decisiones que tomamos son basadas en vibraciones.",
+      "de": "Einer meiner haustiere ärgert sich über die web-entwicklungs-community ist, dass so viele der entscheidungen, die wir treffen, vibes-basiert sind.",
+      "zh-Hant": "我對網路開發界的一個寵物小說是, 我們所做的許多決定都是基於氛圍的。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 256 分 · 181 条评论",
+      "zh-Hant": "Hacker News 256 分 · 181 則留言",
+      "en": "256 points · 181 comments on Hacker News",
+      "ja": "256 points · 181 comments on Hacker News",
+      "ko": "Hacker News 256점 · 댓글 181개",
+      "ms": "256 mata · 181 komen di Hacker News",
+      "vi": "256 điểm · 181 bình luận trên Hacker News",
+      "fr": "256 points · 181 commentaires sur Hacker News",
+      "es": "256 puntos · 181 comentarios en Hacker News",
+      "de": "256 Punkte · 181 Kommentare auf Hacker News"
+     },
+     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+     "src": "nolanlawson.com",
+     "date": "2026-11-01",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50323088"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50325253",
+     "title": {
+      "zh-Hans": "OmniDiff – 开源, 超快, 内容了解 Git difftool, 在 Rust",
+      "zh-Hant": "OmniDiff – 開源, 超快, 內容瞭解 Git difftool, 在 Rust",
+      "en": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "ja": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "ko": "OmniDiff – Opensource, 슈퍼 빠른, Rust의 내용 aware Git difftool,",
+      "ms": "AeroDiff – Opensource, super cepat, konten menyadari difftool Git, di Rust",
+      "vi": "OmniDiff – Opensource, siêu nhanh chóng, nội dung ý thức Git difftool, ở Rust",
+      "fr": "OmniDiff – Opensource, super rapide, conscient du contenu Git difftool, dans Rust",
+      "es": "OmniDiff – Opensource, super rápido, contenido consciente Git difftool, en Rust",
+      "de": "OmniDiff – Opensource, superschnell, inhaltsbewusst Git difftool, in Rust"
+     },
+     "summary": {
+      "en": "Fast, robust, accurate diffing",
+      "zh-Hans": "快速、有力、准确的潜水",
+      "ja": "Fast, robust, accurate diffing",
+      "ko": "빠르고 견고하고 정확한 디퓨싱",
+      "ms": "Fast, robust, diffing akurat",
+      "vi": "Fast, robust, accurate diffing",
+      "fr": "Diffusage rapide, robuste et précis",
+      "es": "Diffing rápido, robusto y preciso",
+      "de": "Schnelles, robustes, genaues Diffing",
+      "zh-Hant": "快速、有力、準確的潛水"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 80 分 · 31 条评论",
+      "zh-Hant": "Hacker News 80 分 · 31 則留言",
+      "en": "80 points · 31 comments on Hacker News",
+      "ja": "80 points · 31 comments on Hacker News",
+      "ko": "Hacker News 80점 · 댓글 31개",
+      "ms": "80 mata · 31 komen di Hacker News",
+      "vi": "80 điểm · 31 bình luận trên Hacker News",
+      "fr": "80 points · 31 commentaires sur Hacker News",
+      "es": "80 puntos · 31 comentarios en Hacker News",
+      "de": "80 Punkte · 31 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/ivankovic/omnidiff",
+     "src": "github.com",
+     "date": "2026-11-01",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50325253"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50326821",
+     "title": {
+      "zh-Hans": "HackerBooks – HackerTube, 但对于HN上提到的书籍",
+      "zh-Hant": "HackerBooks – HackerTube, 但對於HN上提到的書籍",
+      "en": "HackerBooks – HackerTube, but for books mentioned on HN",
+      "ja": "HackerBooks – HackerTube, but for books mentioned on HN",
+      "ko": "HackerBooks – HackerTube, 그러나 HN에 언급 한 책",
+      "ms": "HackerBooks – HackerTube, tetapi untuk buku yang disebutkan di HN",
+      "vi": "HackerBooks – HackerTube, nhưng đối với những sách được đề cập trong HN",
+      "fr": "HackerBooks – HackerTube, mais pour les livres mentionnés sur HN",
+      "es": "HackerBooks – HackerTube, pero para los libros mencionados en HN",
+      "de": "HackerBooks – HackerTube, aber für Bücher, die auf HN erwähnt werden"
+     },
+     "summary": {
+      "en": "A bookshelf of the books Hacker News readers mention most, 2007–2026.",
+      "zh-Hans": "《黑客新闻》的读者最常提到, 2007–2026年。",
+      "ja": "A bookshelf of the books Hacker News readers mention most, 2007–2026.",
+      "ko": "책 해커 뉴스 리더의 책장은 대부분 언급, 2007–2026.",
+      "ms": "A bookshelf buku pembaca Hacker News menyebutkan paling banyak, 2007–2026.",
+      "vi": "Một kệ sách của các độc giả Hacker News đề cập đến hầu hết, 2007–2026.",
+      "fr": "Une bibliothèque des livres Hacker News les lecteurs mentionnent la plupart, 2007–2026.",
+      "es": "Una estantería de los libros que los lectores de Hacker News mencionan más, 2007–2026.",
+      "de": "Ein Bücherregal der Bücher Hacker News Leser erwähnen die meisten, 2007-2026.",
+      "zh-Hant": "《駭客新聞》的讀者最常提到, 2007–2026年。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 590 分 · 140 条评论",
+      "zh-Hant": "Hacker News 590 分 · 140 則留言",
+      "en": "590 points · 140 comments on Hacker News",
+      "ja": "590 points · 140 comments on Hacker News",
+      "ko": "Hacker News 590점 · 댓글 140개",
+      "ms": "590 mata · 140 komen di Hacker News",
+      "vi": "590 điểm · 140 bình luận trên Hacker News",
+      "fr": "590 points · 140 commentaires sur Hacker News",
+      "es": "590 puntos · 140 comentarios en Hacker News",
+      "de": "590 Punkte · 140 Kommentare auf Hacker News"
+     },
+     "url": "https://hackerbooks.org",
+     "src": "hackerbooks.org",
+     "date": "2026-11-01",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50326821"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50314508",
+     "title": {
+      "zh-Hans": "我重建了我的旧画布 3D 库,作为一个小的 WebGL 2 库 — phoria2",
+      "zh-Hant": "我重建了我的舊畫布 3D 庫,作為一個小的 WebGL 2 庫 — phoria2",
+      "en": "I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "ja": "I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "ko": "나는 작은 WebGL 2 라이브러리로 내 오래된 캔버스 3D 라이브러리를 재건 – phoria2",
+      "ms": "Saya membangun kembali perpustakaan 3D kanvas lama saya sebagai perpustakaan WebGL 2 kecil – phoria2",
+      "vi": "Tôi đã xây dựng lại thư viện vải cũ 3D của tôi như một thư viện nhỏ WebGL 2 – phoria2",
+      "fr": "J'ai reconstruit mon ancienne bibliothèque 3D en toile comme une petite bibliothèque WebGL 2 – phoria2",
+      "es": "Reconstruí mi antigua biblioteca 3D de tela como una pequeña biblioteca WebGL 2 – foria2",
+      "de": "Ich habe meine alte Canvas 3D-Bibliothek als kleine WebGL 2-Bibliothek umgebaut – phoria2"
+     },
+     "summary": {
+      "en": "phoria2 is a small, fast JavaScript library for 3D on the web - charts, labelled scenes, dashboards and product viewers, on a WebGL 2 renderer with an API you can learn in an afternoon.",
+      "zh-Hans": "phoria2是一个小型的,快速的JavaScript库,用于网络上的3D - 图表,标注的场景,仪表板和产品查看器,在一个WebGL 2渲染器上,有一个API,您可以在下午学习.",
+      "ja": "phoria2 is a small, fast JavaScript library for 3D on the web - charts, labelled scenes, dashboards and product viewers, on a WebGL 2 renderer with an API you can learn in an afternoon.",
+      "ko": "phoria2는 웹에서 3D에 대한 작고 빠른 JavaScript 라이브러리입니다. 차트, 라벨링 장면, 대시 보드 및 제품 뷰어, WebGL 2 렌더링기에, 당신은 오후에 배울 수있는 API.",
+      "ms": "phoria2 adalah perpustakaan JavaScript yang kecil dan cepat untuk 3D pada grafik web, adegan yang dilabeli, dashboard dan pemirsa produk, pada mesin render WebGL 2 dengan API yang dapat Anda pelajari pada sore hari.",
+      "vi": "phoria2 là một thư viện JavaScript nhỏ, nhanh cho 3D trên trang web - biểu đồ, nhãn hiệu, bảng điều khiển và trình xem sản phẩm, trên một trình bày WebGL 2 với một hệ thống API bạn có thể học vào buổi chiều.",
+      "fr": "phoria2 est une petite bibliothèque JavaScript rapide pour 3D sur le web - graphiques, scènes étiquetées, tableaux de bord et visionneuses de produits, sur un rendu WebGL 2 avec une API que vous pouvez apprendre en un après-midi.",
+      "es": "phoria2 es una pequeña y rápida biblioteca JavaScript para 3D en la web - gráficos, escenas etiquetadas, paneles y visores de productos, en un renderizador WebGL 2 con una API que puedes aprender por la tarde.",
+      "de": "phoria2 ist eine kleine, schnelle JavaScript-Bibliothek für 3D im Web - Charts, beschriftete Szenen, Dashboards und Produktbetrachter, auf einem WebGL 2-Renderer mit einer API, die Sie an einem Nachmittag lernen können.",
+      "zh-Hant": "phoria2是一個小型的,快速的JavaScript庫,用於網路上的3D - 圖表,標註的場景,儀表板和產品檢視器,在一個WebGL 2渲染器上,有一個API,您可以在下午學習."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 59 分 · 8 条评论",
+      "zh-Hant": "Hacker News 59 分 · 8 則留言",
+      "en": "59 points · 8 comments on Hacker News",
+      "ja": "59 points · 8 comments on Hacker News",
+      "ko": "Hacker News 59점 · 댓글 8개",
+      "ms": "59 mata · 8 komen di Hacker News",
+      "vi": "59 điểm · 8 bình luận trên Hacker News",
+      "fr": "59 points · 8 commentaires sur Hacker News",
+      "es": "59 puntos · 8 comentarios en Hacker News",
+      "de": "59 Punkte · 8 Kommentare auf Hacker News"
+     },
+     "url": "https://kevs3d.co.uk/phoria2/",
+     "src": "kevs3d.co.uk",
+     "date": "2026-10-31",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50314508"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50322173",
+     "title": {
+      "zh-Hans": "巴西法院制裁法院迅速投入法院的律师",
+      "zh-Hant": "巴西法院制裁法院迅速投入法院的律師",
+      "en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "ja": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "ko": "브라질 법원 Sanctions Lawyers 법원에 있는 신속한 주입",
+      "ms": "Sanksi Pengadilan Brasil Pengadilan Brasil Hukuman Hukuman untuk Injeksi Prompt di Pengadilan Filing",
+      "vi": "Tòa án Ba - tây bãi bỏ các luật sư vì họ can thiệp vào việc xét xử",
+      "fr": "Sanctions judiciaires brésiliennes Avocats pour l'injection rapide dans le dépôt judiciaire",
+      "es": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "de": "Brasilianisches Gericht sanktioniert Anwälte wegen sofortiger Injektion vor Gericht"
+     },
+     "summary": {
+      "en": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court's AI caught it. The fine was $16,000.",
+      "zh-Hans": "两名律师将白话对白指示藏在一份法庭档案中,要求大赦国际轻点处理他们的案件。 宫廷的AI抓住了它. 罚款为16,000美元。",
+      "ja": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court's AI caught it. The fine was $16,000.",
+      "ko": "두 변호사는 AI를 말하는 법원 내의 흰색 지시를 숨겨 자신의 경우 쉽게 이동. 법원의 AI는 그것을 붙였습니다. 벌금이었다 $16,000.",
+      "ms": "Dua pengacara menyembunyikan instruksi putih-atas-putih di dalam pengadilan mengajukan mengatakan AI untuk pergi mudah pada kasus mereka. Pengadilan AI menangkapnya. Dendanya $16.000.",
+      "vi": "Hai luật sư đã giấu một hướng dẫn da trắng bên trong một tòa án, nói với AI là họ phải làm việc nhẹ nhàng. Phiên tòa xử AI đã bắt được nó. Số tiền phạt là $16,000.",
+      "fr": "Deux avocats ont caché une instruction blanche sur blanche à l'intérieur d'un dossier du tribunal disant à l'AI d'aller facilement sur leur affaire. L'IA de la cour l'a attrapé. L'amende était de 16 000 $.",
+      "es": "Dos abogados escondieron una instrucción en blanco dentro de un tribunal que archiva la AI para que fuera fácil en su caso. La inteligencia artificial de la corte lo atrapó. La multa fue de 16.000 dólares.",
+      "de": "Zwei anwälte versteckten eine weiß-auf-weiß-anweisung in einer gerichtsakte, die der ki sagte, dass sie ihren fall locker machen sollte. Die ki des gerichts hat es gefangen. Die Geldstrafe betrug 16.000 Dollar.",
+      "zh-Hant": "兩名律師將白話對白指示藏在一份法庭檔案中,要求大赦國際輕點處理他們的案件。 宮廷的AI抓住了它. 罰款為16,000美元。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 286 分 · 169 条评论",
+      "zh-Hant": "Hacker News 286 分 · 169 則留言",
+      "en": "286 points · 169 comments on Hacker News",
+      "ja": "286 points · 169 comments on Hacker News",
+      "ko": "Hacker News 286점 · 댓글 169개",
+      "ms": "286 mata · 169 komen di Hacker News",
+      "vi": "286 điểm · 169 bình luận trên Hacker News",
+      "fr": "286 points · 169 commentaires sur Hacker News",
+      "es": "286 puntos · 169 comentarios en Hacker News",
+      "de": "286 Punkte · 169 Kommentare auf Hacker News"
+     },
+     "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+     "src": "jetstream.security",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50324388",
+     "title": {
+      "zh-Hans": "沿挪威景色道路的洗手间",
+      "zh-Hant": "沿挪威景色道路的洗手間",
+      "en": "Restrooms along the Norwegian Scenic Routes",
+      "ja": "Restrooms along the Norwegian Scenic Routes",
+      "ko": "노르웨이 Scenic 노선을 따라 휴식 공간",
+      "ms": "Kamar kecil di sepanjang Rute Scenic Norwegia",
+      "vi": "Các nhà vệ sinh dọc theo tuyến đường của người Na Uy Scotland",
+      "fr": "Salles de repos le long des routes scéniques norvégiennes",
+      "es": "Escobas a lo largo de la ruta escénica noruega",
+      "de": "Toiletten entlang der norwegischen Landschaftsrouten"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 visitnorway.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 visitnorway.com。",
+      "en": "Shared on Hacker News; original at visitnorway.com.",
+      "ja": "Shared on Hacker News; original at visitnorway.com.",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 visitnorway.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di visitnorway.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại visitnorway.com.",
+      "fr": "Partagé sur Hacker News ; original sur visitnorway.com.",
+      "es": "Compartido en Hacker News; original en visitnorway.com.",
+      "de": "Geteilt auf Hacker News; Original auf visitnorway.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 656 分 · 385 条评论",
+      "zh-Hant": "Hacker News 656 分 · 385 則留言",
+      "en": "656 points · 385 comments on Hacker News",
+      "ja": "656 points · 385 comments on Hacker News",
+      "ko": "Hacker News 656점 · 댓글 385개",
+      "ms": "656 mata · 385 komen di Hacker News",
+      "vi": "656 điểm · 385 bình luận trên Hacker News",
+      "fr": "656 points · 385 commentaires sur Hacker News",
+      "es": "656 puntos · 385 comentarios en Hacker News",
+      "de": "656 Punkte · 385 Kommentare auf Hacker News"
+     },
+     "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+     "src": "visitnorway.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50327650",
+     "title": {
+      "zh-Hans": "帕特里克(英语) 斯图尔特教我们好人用权力做什么",
+      "zh-Hant": "帕特里克(英語) 斯圖爾特教我們好人用權力做什麼",
+      "en": "Patrick Stewart taught us what good men do with power",
+      "ja": "Patrick Stewart taught us what good men do with power",
+      "ko": "패트릭 스튜어트는 좋은 남자가 힘으로 무엇을 가르쳐줍니다.",
+      "ms": "Patrick Stewart mengajari kami apa yang orang baik lakukan dengan kekuatan",
+      "vi": "Patrick Stewart dạy chúng tôi những gì người tốt làm với quyền lực",
+      "fr": "Le président Stewart nous a appris ce que les bons hommes font avec le pouvoir",
+      "es": "Patrick Stewart nos enseñó lo que los hombres buenos hacen con el poder",
+      "de": "Patrick Stewart lehrte uns, was gute Männer mit Macht tun"
+     },
+     "summary": {
+      "en": "Great leaders, and great nations, need role models like Jean-Luc Picard.",
+      "zh-Hans": "伟大的领导人和伟大的国家需要让-吕克·皮卡尔这样的榜样。",
+      "ja": "Great leaders, and great nations, need role models like Jean-Luc Picard.",
+      "ko": "훌륭한 지도자와 훌륭한 국가, Jean-Luc Picard와 같은 역할 모델이 필요합니다.",
+      "ms": "Para pemimpin yang hebat, dan bangsa-bangsa besar, membutuhkan panutan seperti Jean-Luc Picard.",
+      "vi": "Những nhà lãnh đạo vĩ đại, và những quốc gia vĩ đại, cần những tấm gương như Jean-Luc Picard.",
+      "fr": "De grands dirigeants et de grandes nations ont besoin de modèles comme Jean-Luc Picard.",
+      "es": "Recibidos el 24 de enero de 1996",
+      "de": "Große Führer und große Nationen brauchen Rollenmodelle wie Jean-Luc Picard.",
+      "zh-Hant": "偉大的領導人和偉大的國家需要讓-呂克·皮卡爾這樣的榜樣。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 263 分 · 184 条评论",
+      "zh-Hant": "Hacker News 263 分 · 184 則留言",
+      "en": "263 points · 184 comments on Hacker News",
+      "ja": "263 points · 184 comments on Hacker News",
+      "ko": "Hacker News 263점 · 댓글 184개",
+      "ms": "263 mata · 184 komen di Hacker News",
+      "vi": "263 điểm · 184 bình luận trên Hacker News",
+      "fr": "263 points · 184 commentaires sur Hacker News",
+      "es": "263 puntos · 184 comentarios en Hacker News",
+      "de": "263 Punkte · 184 Kommentare auf Hacker News"
+     },
+     "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+     "src": "vox.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50326118",
+     "title": {
+      "zh-Hans": "警察总长在Flock无视取消合同后解开相机",
+      "zh-Hant": "警察總長在Flock無視取消合同後解開相機",
+      "en": "Police chief unplugs cameras after Flock ignores contract cancellation",
+      "ja": "Police chief unplugs cameras after Flock ignores contract cancellation",
+      "ko": "Flock가 계약 취소를 무시한 후 경찰장 카메라",
+      "ms": "Kepala polisi polisi lepas kamera setelah Flock mengabaikan pembatalan kontrak",
+      "vi": "Cảnh sát trưởng giải nén máy ảnh sau khi bầy bỏ qua hợp đồng hủy bỏ",
+      "fr": "Le chef de la police débranche les caméras après que Flock ignore l'annulation du contrat",
+      "es": "Jefe de policía desconecta cámaras después de que Flock ignore la cancelación del contrato",
+      "de": "Polizeichef zieht Kameras aus, nachdem Flock die Vertragskündigung ignoriert"
+     },
+     "summary": {
+      "en": "Plymouth canceled its contract after Flock cameras wrongly flagged me. A month later, the company still won't say when it'll remove the hardware.",
+      "zh-Hans": "普利茅斯取消了合同 在Flock相机错误标记我之后 一个月后,公司仍然不会说什么时候可以移除硬件.",
+      "ja": "Plymouth canceled its contract after Flock cameras wrongly flagged me. A month later, the company still won't say when it'll remove the hardware.",
+      "ko": "Plymouth는 Flock 카메라가 잘못 날아 후 계약을 취소했습니다. 한 달 후, 회사는 여전히 하드웨어를 제거 할 때 말할 수 없습니다.",
+      "ms": "Plymouth membatalkan kontraknya setelah kamera Flock salah menandaiku. Satu bulan kemudian, perusahaan masih tidak akan mengatakan kapan itu akan menghapus perangkat keras.",
+      "vi": "Plymouth đã hủy hợp đồng sau khi máy quay của đàn gia súc đánh dấu sai tôi. Một tháng sau, công ty vẫn không nói khi nào nó sẽ gỡ bỏ phần cứng.",
+      "fr": "Plymouth a annulé son contrat après que les caméras Flock m'aient mal signalé. Un mois plus tard, la société ne dira toujours pas quand elle va enlever le matériel.",
+      "es": "Plymouth canceló su contrato después de que las cámaras de Flock me marcaran mal. Un mes más tarde, la compañía todavía no dirá cuándo eliminará el hardware.",
+      "de": "Plymouth stornierte seinen vertrag, nachdem fllock-kameras mich zu unrecht gekennzeichnet hatten. Einen Monat später wird das Unternehmen immer noch nicht sagen, wann es die Hardware entfernen wird.",
+      "zh-Hant": "普利茅斯取消了合同 在Flock相機錯誤標記我之後 一個月後,公司仍然不會說什麼時候可以移除硬體."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 381 分 · 134 条评论",
+      "zh-Hant": "Hacker News 381 分 · 134 則留言",
+      "en": "381 points · 134 comments on Hacker News",
+      "ja": "381 points · 134 comments on Hacker News",
+      "ko": "Hacker News 381점 · 댓글 134개",
+      "ms": "381 mata · 134 komen di Hacker News",
+      "vi": "381 điểm · 134 bình luận trên Hacker News",
+      "fr": "381 points · 134 commentaires sur Hacker News",
+      "es": "381 puntos · 134 comentarios en Hacker News",
+      "de": "381 Punkte · 134 Kommentare auf Hacker News"
+     },
+     "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+     "src": "thedrive.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50320963",
+     "title": {
+      "zh-Hans": "一个意大利农民在他的阁楼里发现了一些未知的种子 种下了这些种子",
+      "zh-Hant": "一個義大利農民在他的閣樓裡發現了一些未知的種子 種下了這些種子",
+      "en": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "ja": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "ko": "이탈리아 농부는 자신의 attic에서 알 수없는 씨앗을 발견했습니다.",
+      "ms": "Seorang petani Italia menemukan beberapa benih tak dikenal di lotengnya dan menanamnya",
+      "vi": "Một nông dân Ý đã tìm thấy những hạt giống lạ trên gác mái và trồng chúng",
+      "fr": "Un fermier italien a trouvé des graines inconnues dans son grenier et les a plantées.",
+      "es": "Un agricultor italiano encontró algunas semillas desconocidas en su ático y las plantó",
+      "de": "Ein italienischer Bauer fand einige unbekannte Samen auf seinem Dachboden und pflanzte sie"
+     },
+     "summary": {
+      "en": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
+      "zh-Hans": "当一个七耳的树干从地面上出现时,它似乎是一个奇迹. Claudio Grossi所发掘的 是古老的谷物 证明是现代问题的答案",
+      "ja": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
+      "ko": "7 대 줄기가 땅에서 출현되면 기적처럼 보입니다. Claudio Grossi는 어떤 현대 문제에 대한 대답을 입증 된 고대 곡물이었다",
+      "ms": "Ketika batang tujuh telinga muncul dari tanah, itu tampak seperti keajaiban. Apa yang telah digali oleh Claudio Grossi adalah biji-bijian kuno yang terbukti menjadi jawaban untuk beberapa masalah modern",
+      "vi": "Khi một thân cây bảy mắt xuất hiện từ mặt đất, nó có vẻ như một phép màu. Điều mà bác Claudio Grossi khai quật được là một loại ngũ cốc cổ đã chứng tỏ là giải pháp cho một số vấn đề hiện đại",
+      "fr": "Quand une tige à sept oreilles émergeait du sol, elle semblait être un miracle. Ce que Claudio Grossi avait découvert était un grain ancien qui s'est révélé être une réponse à certains problèmes modernes",
+      "es": "Cuando un tallo de siete puntas surgió del suelo, parecía un milagro. Lo que Claudio Grossi había descubierto era un grano antiguo que resultó ser una respuesta a algunos problemas modernos",
+      "de": "Als ein siebenohriger Stamm aus dem Boden auftauchte, schien es wie ein Wunder. Was Claudio Grossi ausgegraben hatte, war ein altes Getreide, das sich als Antwort auf einige moderne Probleme erwies.",
+      "zh-Hant": "當一個七耳的樹幹從地面上出現時,它似乎是一個奇蹟. Claudio Grossi所發掘的 是古老的穀物 證明是現代問題的答案"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 719 分 · 193 条评论",
+      "zh-Hant": "Hacker News 719 分 · 193 則留言",
+      "en": "719 points · 193 comments on Hacker News",
+      "ja": "719 points · 193 comments on Hacker News",
+      "ko": "Hacker News 719점 · 댓글 193개",
+      "ms": "719 mata · 193 komen di Hacker News",
+      "vi": "719 điểm · 193 bình luận trên Hacker News",
+      "fr": "719 points · 193 commentaires sur Hacker News",
+      "es": "719 puntos · 193 comentarios en Hacker News",
+      "de": "719 Punkte · 193 Kommentare auf Hacker News"
+     },
+     "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+     "src": "smithsonianmag.com",
+     "date": "2026-10-31",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50326099",
+     "title": {
+      "zh-Hans": "勒诺沃的\"加密\"指纹 USB 只是一个未加密的SD卡 在一个案件中",
+      "zh-Hant": "勒諾沃的\"加密\"指紋 USB 只是一個未加密的SD卡 在一個案件中",
+      "en": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "ja": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "ko": "Lenovo 'encrypted' 지문 USB는 경우에만 암호화되지 않은 SD 카드입니다.",
+      "ms": "USB sidik jari 'terenkripsi' milik Lenovo adalah kartu SD tanpa enkripsi dalam sebuah kasus",
+      "vi": "USB vân tay mã hóa của Lenovo chỉ là một thẻ SD chưa mã hóa trong một trường hợp",
+      "fr": "L'empreinte USB « chiffrée » de Lenovo est juste une carte SD non chiffrée dans un cas",
+      "es": "El USB \"encriptado\" de Lenovo es sólo una tarjeta SD no cifrada en un caso",
+      "de": "Lenovos \"verschlüsselter\" Fingerabdruck USB ist nur eine unverschlüsselte SD-Karte in einem Fall"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 reddit.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 reddit.com。",
+      "en": "Shared on Hacker News; original at reddit.com.",
+      "ja": "Shared on Hacker News; original at reddit.com.",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reddit.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di reddit.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại reddit.com.",
+      "fr": "Partagé sur Hacker News ; original sur reddit.com.",
+      "es": "Compartido en Hacker News; original en reddit.com.",
+      "de": "Geteilt auf Hacker News; Original auf reddit.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 297 分 · 111 条评论",
+      "zh-Hant": "Hacker News 297 分 · 111 則留言",
+      "en": "297 points · 111 comments on Hacker News",
+      "ja": "297 points · 111 comments on Hacker News",
+      "ko": "Hacker News 297점 · 댓글 111개",
+      "ms": "297 mata · 111 komen di Hacker News",
+      "vi": "297 điểm · 111 bình luận trên Hacker News",
+      "fr": "297 points · 111 commentaires sur Hacker News",
+      "es": "297 puntos · 111 comentarios en Hacker News",
+      "de": "297 Punkte · 111 Kommentare auf Hacker News"
+     },
+     "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+     "src": "reddit.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50328251",
+     "title": {
+      "zh-Hans": "数学变了 照着做",
+      "zh-Hant": "數學變了 照著做",
+      "en": "Mathematics has changed. Let's act like it",
+      "ja": "Mathematics has changed. Let's act like it",
+      "ko": "수학이 변경되었습니다. 그것을 좋아하자",
+      "ms": "Matematika berubah. Mari kita bertindak seperti itu",
+      "vi": "Toán học đã thay đổi. Hãy hành động như vậy.",
+      "fr": "Les mathématiques ont changé. Agissons comme ça",
+      "es": "Las matemáticas han cambiado. Vamos a actuar así.",
+      "de": "Die Mathematik hat sich verändert. Lasst uns so handeln"
+     },
+     "summary": {
+      "en": "Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao",
+      "zh-Hans": "关于我的研究和说明性论文的更新,关于开放问题的讨论,以及其他数学相关话题. 泰伦斯・陶",
+      "ja": "Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao",
+      "ko": "내 연구 및 expository 종이에 업데이트, 열린 문제의 토론, 다른 수학 관련 주제. 테레시 Tao",
+      "ms": "Update tentang penelitian dan dokumen eksposisi saya, diskusi masalah terbuka, dan topik lain yang berkaitan dengan matematika. Oleh Terence Tao",
+      "vi": "Cập nhật nghiên cứu của tôi và các bài luận văn, thảo luận về các vấn đề mở, và các chủ đề khác liên quan đến toán học. By Terrence Tao",
+      "fr": "Mises à jour sur mes recherches et exposés, discussion de problèmes ouverts, et d'autres sujets liés aux mathématiques. Par Terence Tao",
+      "es": "Actualizaciones sobre mi investigación y documentos expositivos, discusión de problemas abiertos y otros temas relacionados con matemáticas. Por Terence Tao",
+      "de": "Updates zu meinen Forschungs- und Expository-Papieren, Diskussionen über offene Probleme und andere mathematische Themen. von Terence Tao",
+      "zh-Hant": "關於我的研究和說明性論文的更新,關於開放問題的討論,以及其他數學相關話題. 泰倫斯・陶"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 115 分 · 133 条评论",
+      "zh-Hant": "Hacker News 115 分 · 133 則留言",
+      "en": "115 points · 133 comments on Hacker News",
+      "ja": "115 points · 133 comments on Hacker News",
+      "ko": "Hacker News 115점 · 댓글 133개",
+      "ms": "115 mata · 133 komen di Hacker News",
+      "vi": "115 điểm · 133 bình luận trên Hacker News",
+      "fr": "115 points · 133 commentaires sur Hacker News",
+      "es": "115 puntos · 133 comentarios en Hacker News",
+      "de": "115 Punkte · 133 Kommentare auf Hacker News"
+     },
+     "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+     "src": "terrytao.wordpress.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50327266",
+     "title": {
+      "zh-Hans": "边境航空可能突破",
+      "zh-Hant": "邊境航空可能突破",
+      "en": "Frontier Airlines Likely Breached",
+      "ja": "Frontier Airlines Likely Breached",
+      "ko": "Frontier Airlines 마찬가지로 Breached",
+      "ms": "Maskapai Airlines Kemungkinan Terjebak",
+      "vi": "Có khả năng xảy ra trước",
+      "fr": "Frontier Airlines vraisemblablement violée",
+      "es": "Frontier Airlines Probablemente Breached",
+      "de": "Frontier Airlines wahrscheinlich verletzt"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 reddit.com。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 reddit.com。",
+      "en": "Shared on Hacker News; original at reddit.com.",
+      "ja": "Shared on Hacker News; original at reddit.com.",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 reddit.com에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di reddit.com.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại reddit.com.",
+      "fr": "Partagé sur Hacker News ; original sur reddit.com.",
+      "es": "Compartido en Hacker News; original en reddit.com.",
+      "de": "Geteilt auf Hacker News; Original auf reddit.com."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 132 分 · 37 条评论",
+      "zh-Hant": "Hacker News 132 分 · 37 則留言",
+      "en": "132 points · 37 comments on Hacker News",
+      "ja": "132 points · 37 comments on Hacker News",
+      "ko": "Hacker News 132점 · 댓글 37개",
+      "ms": "132 mata · 37 komen di Hacker News",
+      "vi": "132 điểm · 37 bình luận trên Hacker News",
+      "fr": "132 points · 37 commentaires sur Hacker News",
+      "es": "132 puntos · 37 comentarios en Hacker News",
+      "de": "132 Punkte · 37 Kommentare auf Hacker News"
+     },
+     "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+     "src": "reddit.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50327058",
+     "title": {
+      "zh-Hans": "首尔Vios开始生产稀有无地白光发射器",
+      "zh-Hant": "首爾Vios開始生產稀有無地白光發射器",
+      "en": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "ja": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "ko": "Seoul Viosys는 희소한 흰 빛이 없는 생산 시작",
+      "ms": "Seoul Seoul Viosys memulai produksi emitor cahaya putih bebas-bumi langka",
+      "vi": "Seoul Viosys bắt đầu sản xuất ra những tia sáng trắng hiếm có",
+      "fr": "Séoul Viosys commence la production d'émetteur de lumière blanche sans terre rare",
+      "es": "Seúl Viosys comienza la producción de emisor de luz blanca sin raras profundidades",
+      "de": "Seoul Viosys startet Produktion von Seltenerd-freiem Weißlichtemitter"
+     },
+     "summary": {
+      "en": "WICOP 3 targeted at AR glasses and AI datacoms applications",
+      "zh-Hans": "WICOP 3 针对AR眼镜和AI数据通信应用程序",
+      "ja": "WICOP 3 targeted at AR glasses and AI datacoms applications",
+      "ko": "WICOP 3는 AR 안경과 AI datacoms 응용 분야에 진출",
+      "ms": "WICOP 3 targeted at AR glasses and AI datacoms applications",
+      "vi": "WICOP 3 mục tiêu tại các ứng dụng kính AR và AI dữ liệu",
+      "fr": "WICOP 3 ciblé sur les lunettes AR et les applications de datacoms AI",
+      "es": "WICOP 3 dirigida a aplicaciones AR gafas y AI datacom",
+      "de": "WICOP 3 richtet sich an AR-Brillen und AI-Datacom-Anwendungen",
+      "zh-Hant": "WICOP 3 針對AR眼鏡和AI資料通訊應用程式"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 104 分 · 19 条评论",
+      "zh-Hant": "Hacker News 104 分 · 19 則留言",
+      "en": "104 points · 19 comments on Hacker News",
+      "ja": "104 points · 19 comments on Hacker News",
+      "ko": "Hacker News 104점 · 댓글 19개",
+      "ms": "104 mata · 19 komen di Hacker News",
+      "vi": "104 điểm · 19 bình luận trên Hacker News",
+      "fr": "104 points · 19 commentaires sur Hacker News",
+      "es": "104 puntos · 19 comentarios en Hacker News",
+      "de": "104 Punkte · 19 Kommentare auf Hacker News"
+     },
+     "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+     "src": "semiconductor-today.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50322022",
+     "title": {
+      "zh-Hans": "通过从RAM(2024)中拼写无线电信号从Air-Gap计算机中泄露秘密",
+      "zh-Hant": "透過從RAM(2024)中拼寫無線電訊號從Air-Gap計算機中洩露秘密",
+      "en": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "ja": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "ko": "램 (2024)에서 SPelling Radio Signals에 의한 Air-Gap Computers의 누출 비밀",
+      "ms": "Rahasia Kebocoran dari Komputer Air-Gap oleh Sinyal Radio Ejaan dari RAM (2024)",
+      "vi": "Bí mật từ máy tính Air-Gap bằng cách đánh vần tín hiệu radio từ RAM (2024)",
+      "fr": "Secrets de fuite à partir d'ordinateurs Air-Gap en écrivant des signaux radio de RAM (2024)",
+      "es": "Secretos líderes de ordenadores Air-Gap por señales de radio de RAM (2024)",
+      "de": "Geheimnisse von Air-Gap-Computern durch Rechtschreibung von Funksignalen aus RAM (2024)"
+     },
+     "summary": {
+      "en": "Air-gapped systems are physically separated from external networks, including the Internet. This isolation is achieved by keeping the air-gap computers disconnected from wired or wireless networks…",
+      "zh-Hans": "空载系统与包括因特网在内的外部网络实际分离。 这种隔离是通过保持空格计算机与有线或无线网络的断开来实现的.",
+      "ja": "Air-gapped systems are physically separated from external networks, including the Internet. This isolation is achieved by keeping the air-gap computers disconnected from wired or wireless networks…",
+      "ko": "Air-gapped 시스템은 인터넷을 포함한 외부 네트워크에서 물리적으로 분리됩니다. 이 고립은 유선 또는 무선 네트워크에서 분리 된 에어갭 컴퓨터를 유지함으로써 달성됩니다 ...",
+      "ms": "Sistem wireox Air-gapped secara fisik terpisah dari jaringan eksternal, termasuk Internet. isolasi ini dicapai dengan menjaga komputer udara-gap terputus dari kabel atau jaringan nirkabel...",
+      "vi": "Hệ thống khí-gappeed được tách khỏi mạng lưới bên ngoài, bao gồm cả Internet. Sự cô lập này được thực hiện bằng cách ngắt kết nối máy tính không khí từ mạng điện hoặc không dây...",
+      "fr": "Les systèmes équipés d'un système à air comprimé sont physiquement séparés des réseaux externes, y compris Internet. Cette isolation est obtenue en maintenant les ordinateurs à vide d'air déconnectés des réseaux filaires ou sans fil...",
+      "es": "Los sistemas alimentados por aire están físicamente separados de las redes externas, incluida Internet. Este aislamiento se logra manteniendo las computadoras de aire-gap desconectadas de redes cableadas o inalámbricas...",
+      "de": "Air-Gapped-Systeme sind physisch von externen Netzwerken, einschließlich des Internets, getrennt. Diese Isolation wird erreicht, indem die Luftspaltcomputer von kabelgebundenen oder drahtlosen Netzwerken getrennt bleiben.",
+      "zh-Hant": "空載系統與包括因特網在內的外部網路實際分離。 這種隔離是透過保持空格計算機與有線或無線網路的斷開來實現的."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 172 分 · 90 条评论",
+      "zh-Hant": "Hacker News 172 分 · 90 則留言",
+      "en": "172 points · 90 comments on Hacker News",
+      "ja": "172 points · 90 comments on Hacker News",
+      "ko": "Hacker News 172점 · 댓글 90개",
+      "ms": "172 mata · 90 komen di Hacker News",
+      "vi": "172 điểm · 90 bình luận trên Hacker News",
+      "fr": "172 points · 90 commentaires sur Hacker News",
+      "es": "172 puntos · 90 comentarios en Hacker News",
+      "de": "172 Punkte · 90 Kommentare auf Hacker News"
+     },
+     "url": "https://arxiv.org/abs/2409.02292",
+     "src": "arxiv.org",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": []
+  },
   {
    "date": "2026-11-01",
    "path": "digest/2026-11-01/",
