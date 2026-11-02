@@ -22,7 +22,7 @@ SRC = {'精选': 'Curated'}  # non-Chinese outputs carry no Chinese
 def en(i, k): return (i.get(k + '_i18n') or {}).get('en') or i.get(k) or ''
 e = html.escape
 ssr = f'<h1>OPC Radar — opportunity radar for one-person companies</h1><p>{e(INTRO["en"])}</p>' + ''.join(
-    f'<h2>{e(CH.get(c, c))} ({cnt[c]})</h2><ul>' + ''.join(f'<li><a href="{e(i["url"])}" rel="noopener">{e(en(i, "title"))}</a> — {e(en(i, "summary"))[:200]}</li>' for i in [x for x in items if x['ch'] == c][:8]) + '</ul>' for c in CH if cnt[c])
+    f'<h2><a href="channel/{c}/">{e(CH.get(c, c))} ({cnt[c]})</a></h2><ul>' + ''.join(f'<li><a href="{e(i["url"])}" rel="noopener">{e(en(i, "title"))}</a> — {e(en(i, "summary"))[:200]}</li>' for i in [x for x in items if x['ch'] == c][:8]) + '</ul>' for c in CH if cnt[c])
 cfg = {'root': S, 'base': BASE, 'name': 'OPC Radar', 'site': 'opc', 'cf_token': '41d8abdb6f1247c08f2412afcd5f2143', 'goal': 'outbound', 'og_image': 'og.png', 'hreflang': True, 'locales': LC,
        'subcss_path': os.path.join(D, 'subscribe.css'),
        'desc': 'Opportunity radar for one-person companies: AI tools, GitHub repos, new products, news, deals and ideas for indie developers, designers and cross-border sellers. 10 languages, refreshed automatically.',
@@ -30,7 +30,12 @@ cfg = {'root': S, 'base': BASE, 'name': 'OPC Radar', 'site': 'opc', 'cf_token': 
        'intro_css': 'max-width:1120px;margin:14px auto 0;padding:0 20px;font-size:12.5px;line-height:1.55;opacity:.72',
        'sub_before': '<footer', 'sub_css': 'max-width:1120px;margin:24px auto;padding:0 20px;--ie-acc:#16a34a;--ie-acc-ink:#fff',
        'pages': [{'file': 'index.html', 'rel': '', 'ld': [{'@type': 'CollectionPage', 'name': 'OPC Radar', 'url': BASE, 'about': 'Opportunities for one-person companies', 'numberOfItems': n, 'dateModified': data.get('updated'), 'publisher': {'@id': 'https://incidental.site/#org'}}]}]}
-llms = f'# OPC Radar\n> {INTRO["en"]}\n\n- Site: {BASE}\n- Data (JSON): {BASE}data/items.json\n- Languages: {", ".join(LC)} (append ?lang=<code>)\n- Publisher: Incidental AI (https://incidental.site/)\n- Full list: {BASE}llms-full.txt\n- Updated: {data.get("updated")}\n\n## Channels\n' + ''.join(f'- {CH.get(c, c)}: {cnt[c]} items\n' for c in CH)
+import sys; sys.path.insert(0, D)
+from crawl_pages import digest_title
+_dgs = sorted(json.load(open(os.path.join(S, 'data/digests.json')))['digests'], key=lambda x: x['date'], reverse=True)
+_dgs = [x for x in _dgs if os.path.exists(os.path.join(S, 'digest', x['date'], 'index.html'))]
+LATEST = '## Latest daily digests\n' + ''.join(f'- [{digest_title(x)}]({BASE}digest/{x["date"]}/) — {x["lede"]["en"]}\n' for x in _dgs[:7]) + f'- [All daily digests]({BASE}digest/)\n\n'
+llms = f'# OPC Radar\n> {INTRO["en"]}\n\n- Site: {BASE}\n- Data (JSON): {BASE}data/items.json\n- Languages: {", ".join(LC)} (append ?lang=<code>)\n- Publisher: Incidental AI (https://incidental.site/)\n- Full list: {BASE}llms-full.txt\n- Updated: {data.get("updated")}\n\n' + LATEST + '## Channels\n' + ''.join(f'- [{CH.get(c, c)}]({BASE}channel/{c}/): {cnt[c]} items\n' for c in CH)
 cfg['llms.txt'] = llms
 cfg['llms-full.txt'] = llms + '\n' + ''.join(f'\n## {CH.get(c, c)}\n' + ''.join(f'- [{en(i, "title")}]({i["url"]}) ({SRC.get(i.get("source", ""), i.get("source", ""))}, {i.get("date", "")}): {en(i, "summary")}\n' for i in items if i['ch'] == c) for c in CH)
 # Sitemap must list every crawlable page, not only the home page: the digest archive + each daily issue
@@ -42,3 +47,5 @@ subprocess.run(['python3', os.path.join(D, 'ia_inject.py'), p], check=True)
 ip = os.path.join(S, 'index.html'); s = open(ip, encoding='utf-8').read()
 s = re.sub(r'(<main id="app" class="wrap">).*?(</main>)', lambda m: m.group(1) + ssr + m.group(2), s, count=1, flags=re.S)
 open(ip, 'w', encoding='utf-8').write(s); print('growth ok', n)
+# static English item/channel pages + digest <head> titles + sitemap-pages.xml (AI search; scripts/crawl_pages.py)
+subprocess.run(['python3', os.path.join(D, 'crawl_pages.py')], check=True)
