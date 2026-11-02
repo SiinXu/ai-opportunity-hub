@@ -178,7 +178,7 @@ def build():
             out[os.path.join(ROOT, n)] = ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(f'<url><loc>{html.escape(u)}</loc><lastmod>{lastmod.get(u.split("?lang=")[0], today)}</lastmod></url>' for u in us) + '\n</urlset>\n', 'xml')
         out[os.path.join(ROOT, 'sitemap.xml')] = ('<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(f'<sitemap><loc>{BASE}{n}</loc><lastmod>{today}</lastmod></sitemap>' for n in names) + '\n</sitemapindex>\n', 'xml')
         bots = ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot', 'Claude-Web', 'PerplexityBot', 'Google-Extended', 'Applebot-Extended']
-        out[os.path.join(ROOT, 'robots.txt')] = ('User-agent: *\nAllow: /\n\n# AI / generative search crawlers are welcome\n' + '\n'.join(f'User-agent: {b}\nAllow: /' for b in bots) + f'\n\nSitemap: {BASE}sitemap.xml\n', 'txt')
+        out[os.path.join(ROOT, 'robots.txt')] = ('User-agent: *\nAllow: /\n\n# 2026-11-01: SEO-tool crawler, not a search or AI engine: disallow everything\nUser-agent: SemrushBot\nDisallow: /\n\n# AI / generative search crawlers are welcome\n' + '\n'.join(f'User-agent: {b}\nAllow: /' for b in bots) + f'\n\nSitemap: {BASE}sitemap.xml\n', 'txt')
         for n in ('llms.txt', 'llms-full.txt'):  # language-neutral files served to every crawler -> Chinese-free
             if C.get(n): out[os.path.join(ROOT, n)] = (C[n] if isinstance(C[n], str) else open(C[n]['file'], encoding='utf-8').read(), 'txt')
     return out, urls

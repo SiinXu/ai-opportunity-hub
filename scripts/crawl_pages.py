@@ -42,6 +42,7 @@ STYLE = ('<style>.dig{padding:36px 0 56px;max-width:760px}@media (max-width:760p
 def shell(rel_depth, title, desc, url, ld, body, og='website'):
     up = '../' * rel_depth
     g = {'@context': 'https://schema.org', '@graph': [{'@type': 'Organization', '@id': 'https://incidental.site/#org', 'name': 'Incidental AI', 'url': 'https://incidental.site/'}] + ld}
+    ld_json = json.dumps(g, ensure_ascii=False).replace('<', '\\u003c')
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
@@ -52,7 +53,7 @@ def shell(rel_depth, title, desc, url, ld, body, og='website'):
 <meta property="og:type" content="{og}"><meta property="og:site_name" content="OPC Radar"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{url}">
 <meta property="og:image" content="{BASE}og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{e(title)}"><meta name="twitter:description" content="{e(desc)}"><meta name="twitter:image" content="{BASE}og.png">
 {STYLE}
-<!--IA--><script type="application/ld+json">{json.dumps(g, ensure_ascii=False).replace('<', '\\u003c')}</script>{ANALYTICS}<!--/IA-->
+<!--IA--><script type="application/ld+json">{ld_json}</script>{ANALYTICS}<!--/IA-->
 </head><body>
 <header class="nav"><div class="wrap navin">
 <a class="brand" href="{up}"><span class="logo"></span>OPC Radar</a>
@@ -65,6 +66,13 @@ def shell(rel_depth, title, desc, url, ld, body, og='website'):
 <script>document.getElementById('themeBtn').onclick=function(){{var n=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=n;try{{localStorage.setItem('theme',n)}}catch(e){{}}}}</script>
 </body></html>
 '''
+
+def channel_li(x, pages):
+    t = e(x['_t']); sc = e(src(x)); d = e(x.get('date', '')[:10]); u = e(x['url'])
+    if x['id'] in pages:
+        return ('<li><a href="../../item/%s/">%s</a> — %s, %s · <a href="%s" rel="noopener" target="_blank">original ↗</a><br><span class="meta">%s</span></li>'
+                % (slug(x), t, sc, d, u, e(cut(x['_s'], 160))))
+    return '<li><a href="%s" rel="noopener" target="_blank">%s</a> — %s, %s</li>' % (u, t, sc, d)
 
 def build():
     data = json.load(open(os.path.join(S, 'data/items.json'), encoding='utf-8')); items = data['items']
@@ -103,9 +111,7 @@ def build():
         rel = f'channel/{ch}/'; url = BASE + rel; label = CH.get(ch, ch)
         srcs = collections.Counter(src(x) for x in lst)
         desc = f'{len(lst)} {label} items on OPC Radar: {CH_DESC.get(ch, label)}. Sources: ' + ', '.join(f'{k} ({v})' for k, v in srcs.most_common(5)) + '.'
-        lis = ''.join(f'<li><a href="{("../../item/%s/" % slug(x)) if x["id"] in pages else e(x["url"])}"{"" if x["id"] in pages else " rel=\"noopener\" target=\"_blank\""}>{e(x["_t"])}</a> — {e(src(x))}, {e(x.get("date", "")[:10])}'
-                      + (f' · <a href="{e(x["url"])}" rel="noopener" target="_blank">original ↗</a>' if x['id'] in pages else '')
-                      + (f'<br><span class="meta">{e(cut(x["_s"], 160))}</span>' if x['id'] in pages else '') + '</li>' for x in lst)
+        lis = ''.join(channel_li(x, pages) for x in lst)
         nav = ' · '.join(f'<a href="../{k}/">{e(v)}</a>' if k != ch else f'<b>{e(v)}</b>' for k, v in CH.items() if k in by_ch)
         body = (f'<p class="crumb"><a href="../../">OPC Radar</a><span>/</span><span>{e(label)}</span></p><h1>{e(label)} — OPC Radar</h1>'
                 f'<p class="lede">{e(desc)} Updated {e(upd)}. Channels: {nav}</p><ul class="ops">{lis}</ul>')
