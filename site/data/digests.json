@@ -1,6 +1,1212 @@
 {
- "latest": "2026-11-02",
+ "latest": "2026-11-03",
  "digests": [
+  {
+   "date": "2026-11-03",
+   "path": "digest/2026-11-03/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-11-02T23:30:00Z",
+   "generated": "2026-11-03T00:11:52Z",
+   "new_count": 55,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-03",
+    "zh-Hant": "早間技術熱點 · 2026-11-03",
+    "en": "Morning tech digest · 2026-11-03",
+    "ja": "朝のテックダイジェスト · 2026-11-03",
+    "ko": "아침 테크 다이제스트 · 2026-11-03",
+    "ms": "Ringkasan teknologi pagi · 2026-11-03",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-11-03",
+    "fr": "Digest tech du matin · 2026-11-03",
+    "es": "Resumen tecnológico matinal · 2026-11-03",
+    "de": "Morgendlicher Tech-Digest · 2026-11-03"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-11-03 07:30 自动生成：从上一期以来 OPC Radar 新收录的 55 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-11-03 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 55 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-11-03: the hottest of the 55 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-11-03 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 55 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-11-03 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 55개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-11-03: isyarat paling hangat daripada 55 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-11-03: những tín hiệu nổi bật nhất trong 55 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-11-03 : les plus marquants des 55 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-11-03: lo más destacado de las 55 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-11-03: das Wichtigste aus 55 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50341174",
+     "title": {
+      "zh-Hans": "Astra 能读写重量来改进Quen",
+      "zh-Hant": "Astra 能讀寫重量來改進Quen",
+      "en": "Astra can read and write weights to improve Qwen",
+      "ja": "AstraはQwenを改善するために重量を読み、書くことができます",
+      "ko": "Astra는 Qwen를 개량하기 위하여 무게를 읽고 쓸 수 있습니다",
+      "ms": "Astra dapat membaca dan menulis berat badan untuk meningkatkan Qwen",
+      "vi": "Astra có thể đọc và viết tạ để cải thiện Qwen",
+      "fr": "Astra peut lire et écrire des poids pour améliorer Qwen",
+      "es": "Astra puede leer y escribir pesos para mejorar Qwen",
+      "de": "Astra kann Gewichte lesen und schreiben, um Qwen zu verbessern"
+     },
+     "summary": {
+      "en": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms.",
+      "zh-Hans": "我们发现边疆LLMS在本土阅读和写作神经网络权重方面,",
+      "ja": "私たちは、フロンティアLLMは、ネイティブ読書やニューラルネットワークの重みを書いて、人間や慣習的なアルゴリズムから期待しているものを過ぎても、驚くほど良いことがわかります。",
+      "ko": "우리는 frontier LLMs가 기본적으로 읽기 및 쓰기 신경 네트워크 무게에서 놀랍게도 좋은 것을 발견, 우리가 인간 또는 전통적인 알고리즘에서 기대하는 것을 잘 과거.",
+      "ms": "Kami menemukan bahwa LLM perbatasan sangat bagus untuk membaca dan menulis berat jaringan saraf, melewati apa yang kami harapkan dari manusia atau algoritma konvensional.",
+      "vi": "Chúng tôi nhận thấy rằng biên giới LLM rất giỏi trong việc đọc và viết các khối lượng mạng thần kinh, vượt qua những gì chúng tôi mong đợi nơi con người hoặc các thuật toán thông thường.",
+      "fr": "Nous trouvons que les LLM frontaliers sont étonnamment bons pour lire et écrire nativement des poids réseau neuronaux, bien au-delà de ce que nous attendions des humains ou des algorithmes conventionnels.",
+      "es": "Encontramos que los LLM fronterizos son sorprendentemente buenos en la lectura y escritura de pesos de red neuronales, mucho más allá de lo que esperamos de humanos o algoritmos convencionales.",
+      "de": "Wir stellen fest, dass Frontier-LMs überraschend gut darin sind, neuronale Netzwerkgewichte nativ zu lesen und zu schreiben, weit über das hinaus, was wir von Menschen oder herkömmlichen Algorithmen erwarten würden.",
+      "zh-Hant": "我們發現邊疆LLMS在本土閱讀和寫作神經網路權重方面,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 1677 分 · 543 条评论",
+      "zh-Hant": "Hacker News 1677 分 · 543 則留言",
+      "en": "1677 points · 543 comments on Hacker News",
+      "ja": "Hacker News 1677 ポイント · コメント 543 件",
+      "ko": "Hacker News 1677점 · 댓글 543개",
+      "ms": "1677 mata · 543 komen di Hacker News",
+      "vi": "1677 điểm · 543 bình luận trên Hacker News",
+      "fr": "1677 points · 543 commentaires sur Hacker News",
+      "es": "1677 puntos · 543 comentarios en Hacker News",
+      "de": "1677 Punkte · 543 Kommentare auf Hacker News"
+     },
+     "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+     "src": "rikiyat.github.io",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50341174"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50339494",
+     "title": {
+      "zh-Hans": "Anthropic内部使用人工智能,按零售价格计算,现在已超过其员工工资.",
+      "zh-Hant": "Anthropic內部使用人工智慧,按零售價格計算,現在已超過其員工工資.",
+      "en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "ja": "Anthropicの社内AIは、小売価格で、従業員の支払いを上回ります",
+      "ko": "Anthropic의 내부 AI 사용, 소매 가격에서, 이제 직원을 초과",
+      "ms": "Anthropic's internal AI penggunaan, pada harga ritel, sekarang melebihi gaji karyawan",
+      "vi": "Công nghệ nhân tạo, với giá bán lẻ, giờ đã vượt quá lương nhân viên của nó.",
+      "fr": "L'utilisation interne de l'IA d'Anthropic, aux prix de détail, dépasse désormais la rémunération de ses employés",
+      "es": "El uso interno de IA de Antrópico, a precios minoristas, supera ahora su sueldo de empleado",
+      "de": "Anthropics interne KI-Nutzung zu Einzelhandelspreisen übersteigt jetzt das Gehalt seiner Mitarbeiter"
+     },
+     "summary": {
+      "en": "Anthropic's IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
+      "zh-Hans": "Anthropic的IPO备案揭示了一个引人注目的里程碑:其内部AI的使用现在的价值高于雇员报酬.",
+      "ja": "Anthropic の IPO ファイリングは、印象的なマイルストーンを明らかにします。内部の AI の使用量は、従業員の補償の上に評価されます。",
+      "ko": "Anthropic's IPO filing은 눈에 띄는 이정표를 나타냅니다. 내부 AI 사용은 이제 직원 보상 위에 평가됩니다.",
+      "ms": "Pengarsipan IPO Anthropic mengungkapkan tonggak sejarah yang mencolok: Penggunaan AI internalnya kini dihargai di atas kompensasi karyawan.",
+      "vi": "Hồ sơ IPO của Antropic tiết lộ một dấu hiệu quan trọng: việc sử dụng trí tuệ nội bộ của nó bây giờ được đánh giá cao hơn sự bồi thường nhân viên.",
+      "fr": "Le dépôt d'IPO d'Anthropic révèle une étape marquante : son usage interne de l'IA est maintenant évalué au-dessus de la rémunération des employés.",
+      "es": "La presentación de IPO de Antrópico revela un hito sorprendente: Su uso interno de AI ahora se valora por encima de la compensación del empleado.",
+      "de": "Die Börseneinreichung von Anthropic zeigt einen markanten Meilenstein: Die interne KI-Nutzung wird jetzt über der Mitarbeitervergütung bewertet.",
+      "zh-Hant": "Anthropic的IPO備案揭示了一個引人注目的里程碑:其內部AI的使用現在的價值高於僱員報酬."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 277 分 · 231 条评论",
+      "zh-Hant": "Hacker News 277 分 · 231 則留言",
+      "en": "277 points · 231 comments on Hacker News",
+      "ja": "Hacker News 277 ポイント · コメント 231 件",
+      "ko": "Hacker News 277점 · 댓글 231개",
+      "ms": "277 mata · 231 komen di Hacker News",
+      "vi": "277 điểm · 231 bình luận trên Hacker News",
+      "fr": "277 points · 231 commentaires sur Hacker News",
+      "es": "277 puntos · 231 comentarios en Hacker News",
+      "de": "277 Punkte · 231 Kommentare auf Hacker News"
+     },
+     "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+     "src": "businessinsider.com",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50339494"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50328896",
+     "title": {
+      "zh-Hans": "问HN:你推荐哪部电视为隐私?.",
+      "zh-Hant": "問HN:你推薦哪部電視為隱私?.",
+      "en": "Ask HN: Which TV do you recommend for privacy?",
+      "ja": "HNに尋ねる:どのテレビがプライバシーを勧めますか?",
+      "ko": "HN: 어떤 TV가 개인 정보 보호를 위해 추천합니까?",
+      "ms": "TV mana yang Anda sarankan untuk privasi?",
+      "vi": "Bạn đề nghị chương trình TV nào cho riêng mình?",
+      "fr": "Demandez à HN: Quelle TV recommandez-vous pour l'intimité?",
+      "es": "Pregunta HN: ¿Qué TV recomiendas para la privacidad?",
+      "de": "Fragen Sie HN: Welchen Fernseher empfehlen Sie für die Privatsphäre?"
+     },
+     "summary": {
+      "en": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well?",
+      "zh-Hans": "我多年没有电视, 是否有电视能做得很好?",
+      "ja": "私は何年もテレビを所有していないし、私のプライバシーを尊重しているのが好きです。 こんなテレビはありますか?",
+      "ko": "몇 년 만에 TV를 소유하지 않고 내 개인 정보를 존중하는 것 같습니다. 이 잘 할 TV가 있습니까?",
+      "ms": "Saya sudah bertahun - tahun tidak memiliki TV dan ingin memiliki TV yang menghormati privasi saya. Apakah ada TV mana pun yang melakukannya dengan baik?",
+      "vi": "Nhiều năm rồi tôi không có ti - vi và muốn một cái nào tôn trọng sự riêng tư của tôi. Có chương trình truyền hình nào đạt được điều này không?",
+      "fr": "Je n'ai pas possédé une télévision depuis des années et j'aimerais qu'elle respecte ma vie privée. Y a-t-il des TV qui font ça bien ?",
+      "es": "No he poseído una televisión en años y me gustaría uno que respete mi privacidad. ¿Hay algún televisor que lo haga bien?",
+      "de": "Ich habe seit jahren keinen fernseher mehr und möchte einen, der meine privatsphäre respektiert. Gibt es Fernseher, die das gut machen?",
+      "zh-Hant": "我多年沒有電視, 是否有電視能做得很好?"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 680 分 · 820 条评论",
+      "zh-Hant": "Hacker News 680 分 · 820 則留言",
+      "en": "680 points · 820 comments on Hacker News",
+      "ja": "Hacker News 680 ポイント · コメント 820 件",
+      "ko": "Hacker News 680점 · 댓글 820개",
+      "ms": "680 mata · 820 komen di Hacker News",
+      "vi": "680 điểm · 820 bình luận trên Hacker News",
+      "fr": "680 points · 820 commentaires sur Hacker News",
+      "es": "680 puntos · 820 comentarios en Hacker News",
+      "de": "680 Punkte · 820 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50328896",
+     "src": "news.ycombinator.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50337439",
+     "title": {
+      "zh-Hans": "问题3收入中17B美元,订正S-1中895B美元承付款",
+      "zh-Hant": "問題3收入中17B美元,訂正S-1中895B美元承付款",
+      "en": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "ja": "人類報告書 $17B で Q3 収益, のコミットメント $895B 修正 S-1",
+      "ko": "Anthropic은 Q3 수익에 $ 17B를보고, S-1 개정에서 $ 895B의 약속",
+      "ms": "Antropika melaporkan $17B dalam pendapatan Q3, komitmen $895B dalam revisi S-1",
+      "vi": "Antropic báo cáo 17B trong thu nhập Q3, cam kết 895B trong chỉnh sửa S-1",
+      "fr": "Rapports anthropiques 17B$ en revenus du troisième trimestre, engagements de 895B$ en S-1 révisé",
+      "es": "Informes antrópicos $17B en ingresos por Q3, compromisos de $895B en S-1 revisado",
+      "de": "Anthropic meldet $ 17B in Q3 Umsatz, Verpflichtungen von $ 895B in überarbeiteten S-1"
+     },
+     "summary": {
+      "en": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
+      "zh-Hans": "Anthropic上周揭幕了它的S-1 Projectus,但最初的备案只包括公司上半年的财务.",
+      "ja": "Anthropicは先週のS-1の見込み客を明らかにしましたが、初期のファイリングは、同社の財政を年の最初の半分にのみ含まれていました。",
+      "ko": "Anthropic은 지난 주 S-1의 잠재력을 공개했지만, 초기 회계는 1 년 상반기 동안 회사의 재무를 포함했습니다.",
+      "ms": "Anthropic unveiled nya S-1 prospektus minggu lalu, tetapi pengajuan awal hanya mencakup keuangan perusahaan melalui paruh pertama tahun.",
+      "vi": "Antropic đã công bố triển vọng của mình tuần trước, nhưng hồ sơ ban đầu chỉ bao gồm tài chính của công ty trong nửa đầu năm.",
+      "fr": "Anthropic a dévoilé son prospectus S-1 la semaine dernière, mais le dépôt initial n'incluait que les finances de la société jusqu'au premier semestre de l'année.",
+      "es": "Antrópico reveló su prospecto S-1 la semana pasada, pero la presentación inicial sólo incluyó las finanzas de la empresa a través de la primera mitad del año.",
+      "de": "Anthropic enthüllte letzte Woche seinen S-1-Prospekt, aber die erste Einreichung enthielt nur die Finanzen des Unternehmens bis zum ersten Halbjahr.",
+      "zh-Hant": "Anthropic上週揭幕了它的S-1 Projectus,但最初的備案只包括公司上半年的財務."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 226 分 · 258 条评论",
+      "zh-Hant": "Hacker News 226 分 · 258 則留言",
+      "en": "226 points · 258 comments on Hacker News",
+      "ja": "Hacker News 226 ポイント · コメント 258 件",
+      "ko": "Hacker News 226점 · 댓글 258개",
+      "ms": "226 mata · 258 komen di Hacker News",
+      "vi": "226 điểm · 258 bình luận trên Hacker News",
+      "fr": "226 points · 258 commentaires sur Hacker News",
+      "es": "226 puntos · 258 comentarios en Hacker News",
+      "de": "226 Punkte · 258 Kommentare auf Hacker News"
+     },
+     "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+     "src": "cnbc.com",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50337439"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50333339",
+     "title": {
+      "zh-Hans": "维基百科 — HackerTube, 但对于维基百科有关HN的文章,",
+      "zh-Hant": "維基百科 — HackerTube, 但對於維基百科有關HN的文章,",
+      "en": "Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "ja": "Wikihack – HackerTube, しかし、HNに言及ウィキペディアの記事のために",
+      "ko": "Wikihack – HackerTube, 그러나 HN에 언급 된 Wikipedia 기사",
+      "ms": "Wikihack – HackerTube, tetapi untuk artikel Wikipedia yang disebutkan di HN",
+      "vi": "Wikiack – HackerTube, nhưng cho những bài viết trên Wikipedia đề cập đến HN",
+      "fr": "Wikihack – HackerTube, mais pour Wikipédia articles mentionnés sur HN",
+      "es": "Wikihack – HackerTube, pero para artículos de Wikipedia mencionados en HN",
+      "de": "Wikihack – HackerTube, aber für Wikipedia-Artikel auf HN erwähnt"
+     },
+     "summary": {
+      "en": "The Wikipedia articles Hacker News keeps linking to, ranked by how many different commenters linked them.",
+      "zh-Hans": "维基百科的文章Hacker News不断链接,按有多少不同的评论者链接到它们来排序.",
+      "ja": "ウィキペディアの記事 ハッカーニュースは、それらをリンクした多くの異なるメンターによってランク付けされ、リンクし続ける.",
+      "ko": "Wikipedia ꀰ사 Hacker News 링크를 계속하고, 다른 많은 댓글이 연결되는 방법에 의해 순위.",
+      "ms": "Artikel Wikipedia Hacker News terus mengaitkannya, di peringkatkan oleh berapa banyak komentar yang berbeda menghubungkannya.",
+      "vi": "Các bài viết của Wikipedia là Hacker News liên kết với, được xếp hạng bởi bao nhiêu bình luận khác nhau liên kết chúng.",
+      "fr": "Les articles de Wikipédia Hacker News continuent de se relier, classés par le nombre de commentaires différents les lient.",
+      "es": "Los artículos de Wikipedia Hacker News se vinculan, clasificados por cuántos comentaristas diferentes los vinculan.",
+      "de": "Die wikipedia-artikel hacker news verlinkt immer wieder, nach wie vielen verschiedenen kommentatoren sie verlinkt haben.",
+      "zh-Hant": "維基百科的文章Hacker News不斷連結,按有多少不同的評論者連結到它們來排序."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 331 分 · 102 条评论",
+      "zh-Hant": "Hacker News 331 分 · 102 則留言",
+      "en": "331 points · 102 comments on Hacker News",
+      "ja": "Hacker News 331 ポイント · コメント 102 件",
+      "ko": "Hacker News 331점 · 댓글 102개",
+      "ms": "331 mata · 102 komen di Hacker News",
+      "vi": "331 điểm · 102 bình luận trên Hacker News",
+      "fr": "331 points · 102 commentaires sur Hacker News",
+      "es": "331 puntos · 102 comentarios en Hacker News",
+      "de": "331 Punkte · 102 Kommentare auf Hacker News"
+     },
+     "url": "https://wikihack.netlify.app",
+     "src": "wikihack.netlify.app",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50333339"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50339913",
+     "title": {
+      "zh-Hans": "Momentic (YC W24) – 使用您的应用程序捕获错误的代理",
+      "zh-Hant": "Momentic (YC W24) – 使用您的應用程式捕獲錯誤的代理",
+      "en": "Momentic (YC W24) – Agents that catch bugs by using your app",
+      "ja": "Momentic(YC W24) – アプリを使用してバグをキャッチするエージェント",
+      "ko": "Momentic (YC W24) - 앱을 사용하여 버그를 잡는 에이전트",
+      "ms": "Moment Agen yang menangkap serangga dengan menggunakan aplikasi Anda",
+      "vi": "Tạm thời (YC W24) – Đặc vụ bắt lỗi bằng cách sử dụng ứng dụng của bạn",
+      "fr": "Momentic (YC W24) – Agents qui capturent les bugs en utilisant votre application",
+      "es": "Momentic (YC W24) – Agentes que atrapan errores utilizando su aplicación",
+      "de": "Momentic (YC W24) – Agenten, die Fehler mit Ihrer App abfangen"
+     },
+     "summary": {
+      "en": "Mo is Momentic's AI QA engineer. It finds bugs in your web, iOS and Android apps with repro steps, then turns its runs into regression tests for every PR.",
+      "zh-Hans": "Mo是Momentic的AIQA工程师. 它在你的网络里发现了bug,iOS和Android应用中带有repro步骤,然后将其运行变为每个PR的回归测试.",
+      "ja": "MomenticのAI QAエンジニアです。 Web、iOS、Androidアプリのバグをリプロステップで確認し、各PRのレグレッションテストに実行します。",
+      "ko": "Mo는 Momentic의 AI QA 엔지니어입니다. 웹, iOS 및 Android 앱의 버그를 검색하여 재개발 단계를 통해 모든 PR에 대한 회귀 테스트로 실행합니다.",
+      "ms": "Mo Mo adalah insinyur AI QA Momentic. Ini menemukan bug di web Anda, iOS dan aplikasi Android dengan langkah-langkah repro, kemudian mengubah berjalan menjadi tes regresi untuk setiap PR.",
+      "vi": "Mo là kỹ sư Al QA của Einic. Nó tìm thấy lỗi trong web của bạn, ứng dụng iOS và steroid với các bước tái phát triển, sau đó biến nó thành các thử nghiệm hồi quy cho mỗi PR.",
+      "fr": "Mo est l'ingénieur d'AI QA de Momentic. Il trouve des bogues dans votre web, les applications iOS et Android avec des étapes de repro, puis transforme ses tours en tests de régression pour chaque PR.",
+      "es": "Mo es el ingeniero de IA de Momentic. Encuentra fallos en tus aplicaciones web, iOS y Android con pasos de repro, luego convierte sus carreras en pruebas de regresión para cada PR.",
+      "de": "Mo ist der AI QA Engineer von Momentic. Es findet Fehler in Ihrem Web, iOS und Android-Apps mit Repro-Schritten und verwandelt seine Läufe dann in Regressionstests für jede PR.",
+      "zh-Hant": "Mo是Momentic的AIQA工程師. 它在你的網路裡發現了bug,iOS和Android應用中帶有repro步驟,然後將其執行變為每個PR的迴歸測試."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 110 分 · 72 条评论",
+      "zh-Hant": "Hacker News 110 分 · 72 則留言",
+      "en": "110 points · 72 comments on Hacker News",
+      "ja": "Hacker News 110 ポイント · コメント 72 件",
+      "ko": "Hacker News 110점 · 댓글 72개",
+      "ms": "110 mata · 72 komen di Hacker News",
+      "vi": "110 điểm · 72 bình luận trên Hacker News",
+      "fr": "110 points · 72 commentaires sur Hacker News",
+      "es": "110 puntos · 72 comentarios en Hacker News",
+      "de": "110 Punkte · 72 Kommentare auf Hacker News"
+     },
+     "url": "https://momentic.ai/",
+     "src": "momentic.ai",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50339913"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50341462",
+     "title": {
+      "zh-Hans": "Ubuntu 在近3周内仍未为 Linux 0day RCE 发布补丁",
+      "zh-Hant": "Ubuntu 在近3周內仍未為 Linux 0day RCE 釋出補丁",
+      "en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "ja": "Ubuntuはまだほぼ3週間Linux 0day RCEのパッチをリリースしていない",
+      "ko": "Ubuntu는 거의 3 주 동안 Linux 0day RCE에 대한 패치를 출시하지 않았습니다.",
+      "ms": "Ubuntu Ubuntu Ubuntu masih belum merilis patch untuk Linux 0day RCE dalam hampir 3 minggu",
+      "vi": "Ubuntu vẫn chưa phát hành cho Linux 0 ngày RCE trong gần 3 tuần",
+      "fr": "Ubuntu n'a toujours pas publié de patch pour Linux 0day RCE en près de 3 semaines",
+      "es": "Ubuntu todavía no ha lanzado parche para Linux 0day RCE en casi 3 semanas",
+      "de": "Ubuntu noch nicht veröffentlicht Patch für Linux 0day RCE in fast 3 Wochen"
+     },
+     "summary": {
+      "en": "No patched kernels are available yet for 22.04, 24.04, or 26.04 despite a CVSS 9.8 rating.",
+      "zh-Hans": "尽管CVSS的评级为9.8,但目前还没有22.04,24.04或26.04的补丁内核.",
+      "ja": "CVSS 9.8 の評価にもかかわらず、パッチ付きカーネルはまだ 22.04、24.04、または 26.04 で利用可能です。",
+      "ko": "패치되지 않은 커널은 아직 사용할 수 없습니다 22.04, 24.04, 또는 26.04 CVSS 9.8 등급에도 불구하고.",
+      "ms": "Tidak ada kernel yang ditambal belum tersedia untuk 22.04, 24.04, atau 26.04 meskipun rating CVSS 9.8.",
+      "vi": "Chưa có hạt nhân vá nào có thể dùng cho 22.04, 24.04, hoặc 26.04, bất kể tỉ lệ CVSS 9.8.",
+      "fr": "Aucun noyau patché n'est encore disponible pour 22.04, 24.04 ou 26.04 malgré une cote CVSS 9,8.",
+      "es": "Aún no hay kernels parcheados disponibles para 22.04, 24.04, o 26.04 a pesar de una calificación CVSS 9.8.",
+      "de": "Für 22.04, 24.04 oder 26.04 sind trotz CVSS 9.8 noch keine gepatchten Kernel verfügbar.",
+      "zh-Hant": "儘管CVSS的評級為9.8,但目前還沒有22.04,24.04或26.04的補丁核心."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 261 分 · 49 条评论",
+      "zh-Hant": "Hacker News 261 分 · 49 則留言",
+      "en": "261 points · 49 comments on Hacker News",
+      "ja": "Hacker News 261 ポイント · コメント 49 件",
+      "ko": "Hacker News 261점 · 댓글 49개",
+      "ms": "261 mata · 49 komen di Hacker News",
+      "vi": "261 điểm · 49 bình luận trên Hacker News",
+      "fr": "261 points · 49 commentaires sur Hacker News",
+      "es": "261 puntos · 49 comentarios en Hacker News",
+      "de": "261 Punkte · 49 Kommentare auf Hacker News"
+     },
+     "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+     "src": "freenode.net",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50341462"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50336138",
+     "title": {
+      "zh-Hans": "昨晚有个人工智能特工在老鼠身上做了脑外科手术",
+      "zh-Hant": "昨晚有個人工智慧特工在老鼠身上做了腦外科手術",
+      "en": "Last night an AI agent performed brain surgery on a mouse",
+      "ja": "昨夜、AIエージェントがマウスで脳手術を行なった",
+      "ko": "지난 밤에 AI 에이전트는 마우스에 뇌 수술을 수행",
+      "ms": "Semalam seorang agen AI melakukan operasi otak pada tikus",
+      "vi": "Đêm qua một đặc vụ AI đã thực hiện phẫu thuật não trên một con chuột",
+      "fr": "Hier soir, un agent de l'IA a opéré le cerveau sur une souris.",
+      "es": "Anoche un agente de IA realizó cirugía cerebral en un ratón",
+      "de": "Letzte Nacht führte ein KI-Agent eine Gehirnoperation an einer Maus durch"
+     },
+     "summary": {
+      "en": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal…",
+      "zh-Hans": "昨晚有个人工智能特工在老鼠身上做了脑部手术 我们给了它19个基因疗法载体 在电子表格, 鼠标模型癫痫, 访问机动手术机 与相机和一个目标...",
+      "ja": "昨夜、AIエージェントがマウスで脳手術をしました。 私たちは、それを与えました 19 一般的な療法ベクトル スプレッドシート, マウスモデル の 流行精神, カメラと1つの目標と電動手術リグへのアクセス...",
+      "ko": "지난 밤에 AI 에이전트는 마우스에 뇌 수술을 수행. 우리는 퍼스트 시트에서 19 유전자 치료 벡터를 준, epilepsy의 마우스 모델, 카메라와 하나의 목표와 수술 리그에 액세스 ...",
+      "ms": "Semalam agen AI melakukan operasi otak pada tikus. Kami memberikannya 19 vektor terapi gen dalam spreadsheet, model tikus epilepsi, akses ke rig operasi motorisasi dengan kamera dan satu tujuan...",
+      "vi": "Tối qua một đặc vụ AI đã phẫu thuật não trên một con chuột. Chúng tôi cho nó 19 liệu pháp gen vector trong bảng tính, mô hình chuột của động kinh, truy cập vào một dàn khoan phẫu thuật vận động với máy quay và một mục tiêu...",
+      "fr": "Hier soir, un agent de l'IA a opéré le cerveau sur une souris. Nous lui avons donné 19 vecteurs de thérapie génique dans un tableur, un modèle d'épilepsie de souris, l'accès à une plate-forme de chirurgie motorisée avec des caméras et un but...",
+      "es": "Anoche un agente de IA realizó cirugía cerebral en un ratón. Le dimos 19 vectores de terapia genética en una hoja de cálculo, un modelo de ratón de epilepsia, acceso a una plataforma de cirugía motorizada con cámaras y un objetivo...",
+      "de": "Letzte Nacht führte ein KI-Agent eine Gehirnoperation an einer Maus durch. Wir gaben ihm 19 Gentherapievektoren in einer Tabelle, ein Mausmodell der Epilepsie, Zugang zu einem motorisierten Operationsgerät mit Kameras und einem Ziel.",
+      "zh-Hant": "昨晚有個人工智慧特工在老鼠身上做了腦部手術 我們給了它19個基因療法載體 在電子表格, 滑鼠模型癲癇, 訪問機動手術機 與相機和一個目標..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 118 分 · 98 条评论",
+      "zh-Hant": "Hacker News 118 分 · 98 則留言",
+      "en": "118 points · 98 comments on Hacker News",
+      "ja": "Hacker News 118 ポイント · コメント 98 件",
+      "ko": "Hacker News 118점 · 댓글 98개",
+      "ms": "118 mata · 98 komen di Hacker News",
+      "vi": "118 điểm · 98 bình luận trên Hacker News",
+      "fr": "118 points · 98 commentaires sur Hacker News",
+      "es": "118 puntos · 98 comentarios en Hacker News",
+      "de": "118 Punkte · 98 Kommentare auf Hacker News"
+     },
+     "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+     "src": "twitter.com",
+     "date": "2026-11-02",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50336138"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50334704",
+     "title": {
+      "zh-Hans": "我更新了Linux系统呼叫网站和API",
+      "zh-Hant": "我更新了Linux系統呼叫網站和API",
+      "en": "I've updated my Linux System Call website and API",
+      "ja": "Linux System Call のウェブサイトと API を更新しました。",
+      "ko": "Linux System Call 웹 사이트 및 API 업데이트",
+      "ms": "Saya telah memperbarui situs web dan API Panggilan Sistem Linux saya",
+      "vi": "Tôi đã cập nhật trang web gọi hệ thống Linux của tôi và API",
+      "fr": "J'ai mis à jour mon site Web Linux et mon API",
+      "es": "He actualizado mi sitio web de llamadas de sistema Linux y API",
+      "de": "Ich habe meine Linux System Call Website und API aktualisiert"
+     },
+     "summary": {
+      "en": "The Linux syscall table for 27 architectures: every system call number, argument and register, with a table per architecture, from Linux 3.3 to 7.3.",
+      "zh-Hans": "Linux syscall表为27个架构:每个系统调用编号,参数和寄存器,每个架构有一个表,从Linux 3.3到7.3.",
+      "ja": "Linux の syscall テーブル for 27 アーキテクチャ: すべてのシステムコール番号、引数、レジスタ、Linux 3.3 から 7.3 までのテーブル。",
+      "ko": "리눅스 syscall 테이블 27 아키텍처: 모든 시스템 호출 번호, 인수 및 등록, 아키텍처 당 테이블과, 리눅스 3.3 7.3.",
+      "ms": "Tabel syscall Linux untuk 27 arsitektur: setiap nomor panggilan sistem, argumen dan register, dengan tabel per arsitektur, dari Linux 3.3 hingga 7.3.",
+      "vi": "Bàn thiết kế Linux cho 27 kiến trúc: mỗi hệ thống gọi số, lập luận và đăng ký, với một bảng cho mỗi kiến trúc, từ Linux 3.3 đến 7.3.",
+      "fr": "La table syscall Linux pour 27 architectures : chaque numéro d'appel système, argument et registre, avec une table par architecture, de Linux 3.3 à 7.3.",
+      "es": "La tabla de siscall de Linux para 27 arquitecturas: cada número de llamada del sistema, argumento y registro, con una tabla por arquitectura, de Linux 3.3 a 7.3.",
+      "de": "Die Linux-Syscall-Tabelle für 27 Architekturen: jede Systemrufnummer, Argument und Register, mit einer Tabelle pro Architektur von Linux 3.3 bis 7.3.",
+      "zh-Hant": "Linux syscall表為27個架構:每個系統呼叫編號,引數和暫存器,每個架構有一個表,從Linux 3.3到7.3."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 198 分 · 48 条评论",
+      "zh-Hant": "Hacker News 198 分 · 48 則留言",
+      "en": "198 points · 48 comments on Hacker News",
+      "ja": "Hacker News 198 ポイント · コメント 48 件",
+      "ko": "Hacker News 198점 · 댓글 48개",
+      "ms": "198 mata · 48 komen di Hacker News",
+      "vi": "198 điểm · 48 bình luận trên Hacker News",
+      "fr": "198 points · 48 commentaires sur Hacker News",
+      "es": "198 puntos · 48 comentarios en Hacker News",
+      "de": "198 Punkte · 48 Kommentare auf Hacker News"
+     },
+     "url": "https://syscall.sh/",
+     "src": "syscall.sh",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50330456",
+     "title": {
+      "zh-Hans": "阿波罗经济学家说,AI向大多数公司提供零金融回报",
+      "zh-Hant": "阿波羅經濟學家說,AI向大多數公司提供零金融回報",
+      "en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "ja": "AIは「ゼロ・ファイナンシャル・ペイオフ」をほとんどの企業に届け、アポロ・エコノミストは言う",
+      "ko": "AI는 대부분의 회사에 '제로 금융 지급'을 제공합니다, Apollo economist 말한다",
+      "ms": "AI AI memberikan 'nol pembayaran keuangan' kepada kebanyakan perusahaan, ekonom Apollo mengatakan",
+      "vi": "Nhà kinh tế học Apollo nói rằng không có khoản thanh toán tài chính.",
+      "fr": "Selon l'économiste d'Apollon, l'IA offre « zéro bénéfice financier » à la plupart des entreprises.",
+      "es": "AI entrega 'cero pago financiero' a la mayoría de las empresas, dice el economista Apollo",
+      "de": "KI liefert den meisten Unternehmen \"null finanzielle Auszahlung\", sagt Apollo-Ökonom"
+     },
+     "summary": {
+      "en": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "zh-Hans": "\"尽管人工智能方面进行了大量投资并广为流传,但该技术已经为科技以外的美国企业带来了零财政回报\".",
+      "ja": "「大規模な投資と広範囲にわたる人工知能の周りの誇大宣伝にもかかわらず、技術は、技術外の企業アメリカにゼロ金融の支払いを届けました。」",
+      "ko": "\" 인공 지능 주변의 대규모 투자 및 광범위 하 게 hype에도 불구하고 기술은 기술 외부 기업에 제로 금융 지급을 전달 했다.\"",
+      "ms": "\"Meskipun investasi besar-besaran dan tersebar luas di sekitar kecerdasan buatan, teknologi telah menyampaikan nol pembayaran keuangan kepada perusahaan Amerika luar teknologi.\"",
+      "vi": "\"Mặc dù đầu tư khổng lồ và sự thôi thúc phổ biến xung quanh trí tuệ nhân tạo, công nghệ đã không mang lại kết quả tài chính cho các tập đoàn nước Mỹ bên ngoài công nghệ.\"",
+      "fr": "\"Malgré des investissements massifs et un battage généralisé autour de l'intelligence artificielle, la technologie n'a apporté aucun bénéfice financier aux entreprises américaines en dehors de la technologie.\"",
+      "es": "\"A pesar de las inversiones masivas y la hispa generalizada alrededor de la inteligencia artificial, la tecnología ha entregado cero pagos financieros a América corporativa fuera de la tecnología.\"",
+      "de": "\"Trotz massiver Investitionen und des weit verbreiteten Hypes um künstliche Intelligenz hat die Technologie den amerikanischen Unternehmen außerhalb der Technologie keine finanziellen Vorteile gebracht.\"",
+      "zh-Hant": "\"儘管人工智慧方面進行了大量投資並廣為流傳,但該技術已經為科技以外的美國企業帶來了零財政回報\"."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 241 分 · 248 条评论",
+      "zh-Hant": "Hacker News 241 分 · 248 則留言",
+      "en": "241 points · 248 comments on Hacker News",
+      "ja": "Hacker News 241 ポイント · コメント 248 件",
+      "ko": "Hacker News 241점 · 댓글 248개",
+      "ms": "241 mata · 248 komen di Hacker News",
+      "vi": "241 điểm · 248 bình luận trên Hacker News",
+      "fr": "241 points · 248 commentaires sur Hacker News",
+      "es": "241 puntos · 248 comentarios en Hacker News",
+      "de": "241 Punkte · 248 Kommentare auf Hacker News"
+     },
+     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "src": "techcrunch.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50342284",
+     "title": {
+      "zh-Hans": "甲骨文文件在新股票中出售20B美元,债券为AI积分融资",
+      "zh-Hant": "甲骨文檔案在新股票中出售20B美元,債券為AI積分融資",
+      "en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "ja": "Oracle は、新しい株式で $20B を販売するファイル、AI のビルドアウトをファイナンスする債券",
+      "ko": "새로운 주식에서 $ 20B를 판매하는 Oracle 파일, 금융 AI buildout에 채권",
+      "ms": "Oracle file untuk menjual $ 20B dalam saham baru, obligasi untuk membiayai AI buildout",
+      "vi": "Tập tin tiên tri để bán 20B trong cổ phiếu mới, trái phiếu để xây dựng AI",
+      "fr": "Fichiers Oracle à vendre $20B dans de nouvelles actions, obligations pour financer la construction AI",
+      "es": "Oracle archivos para vender $20B en nuevas acciones, bonos para financiar la construcción de AI",
+      "de": "Oracle-Dateien zu verkaufen $20B in neue Lager, Anleihen zu finanzieren AI buildout"
+     },
+     "summary": {
+      "en": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.",
+      "zh-Hans": "甲骨文星期一上报计划发行新股和更多债务,为其人工智能建设融资.",
+      "ja": "Oracleは、月曜日に新しい株式を発行し、その人工知能のビルドアウトを財務するための債務を発行する計画を提出しました。",
+      "ko": "Oracle은 월요일에 새로운 주식을 발행하고 인공 지능 구축을 재정에 더 부채를 발행합니다.",
+      "ms": "Oracle mengajukan rencana pada hari Senin untuk mengeluarkan saham baru dan lebih banyak hutang untuk membiayai penumpukan kecerdasan buatannya.",
+      "vi": "Nhà tiên tri đã soạn thảo kế hoạch vào thứ hai để cung cấp cổ phần mới và thêm nợ để tài trợ cho trí thông minh nhân tạo của nó.",
+      "fr": "Oracle a déposé lundi des plans pour émettre de nouvelles actions et plus de dettes pour financer sa construction d'intelligence artificielle.",
+      "es": "Oracle presentó planes el lunes para emitir nuevas acciones y más deuda para financiar su acumulación de inteligencia artificial.",
+      "de": "Oracle hat am Montag Pläne zur Ausgabe neuer Aktien und weiterer Schulden zur Finanzierung seines Aufbaus künstlicher Intelligenz eingereicht.",
+      "zh-Hant": "甲骨文星期一上報計劃發行新股和更多債務,為其人工智慧建設融資."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 136 分 · 93 条评论",
+      "zh-Hant": "Hacker News 136 分 · 93 則留言",
+      "en": "136 points · 93 comments on Hacker News",
+      "ja": "Hacker News 136 ポイント · コメント 93 件",
+      "ko": "Hacker News 136점 · 댓글 93개",
+      "ms": "136 mata · 93 komen di Hacker News",
+      "vi": "136 điểm · 93 bình luận trên Hacker News",
+      "fr": "136 points · 93 commentaires sur Hacker News",
+      "es": "136 puntos · 93 comentarios en Hacker News",
+      "de": "136 Punkte · 93 Kommentare auf Hacker News"
+     },
+     "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+     "src": "cnbc.com",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50330253",
+     "title": {
+      "zh-Hans": "我想现在每个人都用LLMS来思考",
+      "zh-Hant": "我想現在每個人都用LLMS來思考",
+      "en": "So I guess everyone uses LLMs to think now",
+      "ja": "みんなLLMを使っているので、",
+      "ko": "그래서 나는 모두가 LLMs를 사용하여 지금 생각",
+      "ms": "Jadi saya kira semua orang menggunakan LLMs untuk berpikir sekarang",
+      "vi": "Vì vậy, tôi đoán tất cả mọi người sử dụng LMs để suy nghĩ bây giờ",
+      "fr": "Donc je suppose que tout le monde utilise les LLM pour penser maintenant",
+      "es": "Así que supongo que todos usan LLM para pensar ahora",
+      "de": "Also denke ich, dass jeder LLMs benutzt, um jetzt zu denken"
+     },
+     "summary": {
+      "en": "so i guess everyone uses llms to think now",
+      "zh-Hans": "所以,我想每个人都用 llms 现在思考",
+      "ja": "なので、みんなが今考えるためにラムを使っていると思います",
+      "ko": "그래서 나는 모두가 llms를 사용하여 지금 생각",
+      "ms": "Jadi saya kira semua orang menggunakan llms untuk berpikir sekarang",
+      "vi": "Vì vậy, tôi đoán mọi người sử dụng lims để suy nghĩ bây giờ",
+      "fr": "Donc je suppose que tout le monde utilise les lms pour penser maintenant",
+      "es": "así que supongo que todos usan llantas para pensar ahora",
+      "de": "Also ich denke, jeder benutzt llms, um jetzt zu denken.",
+      "zh-Hant": "所以,我想每個人都用 llms 現在思考"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 77 分 · 131 条评论",
+      "zh-Hant": "Hacker News 77 分 · 131 則留言",
+      "en": "77 points · 131 comments on Hacker News",
+      "ja": "Hacker News 77 ポイント · コメント 131 件",
+      "ko": "Hacker News 77점 · 댓글 131개",
+      "ms": "77 mata · 131 komen di Hacker News",
+      "vi": "77 điểm · 131 bình luận trên Hacker News",
+      "fr": "77 points · 131 commentaires sur Hacker News",
+      "es": "77 puntos · 131 comentarios en Hacker News",
+      "de": "77 Punkte · 131 Kommentare auf Hacker News"
+     },
+     "url": "https://eva.ac/blog/llms/",
+     "src": "eva.ac",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50340088",
+     "title": {
+      "zh-Hans": "下层 — 在计算机上说话而不发出声音",
+      "zh-Hant": "下層 — 在計算機上說話而不發出聲音",
+      "en": "Subvocal – Talk to your computer without making noise",
+      "ja": "サブボカル - ノイズをすることなくコンピュータに話します",
+      "ko": "Subvocal – 노이즈를 만들기 없이 컴퓨터로 이야기",
+      "ms": "Subvocal – Bicarakan dengan komputer Anda tanpa membuat suara",
+      "vi": "Chia sẻ — Nói chuyện với máy tính của bạn mà không gây ra tiếng ồn",
+      "fr": "Subvocal – Parlez à votre ordinateur sans faire de bruit",
+      "es": "Subvocal – Habla con tu ordenador sin hacer ruido",
+      "de": "Subvokation - Sprechen Sie mit Ihrem Computer, ohne Lärm zu machen"
+     },
+     "summary": {
+      "en": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud.",
+      "zh-Hans": "Hi HN,我们是Aarush和Arnav from The Subvocal Company (YC F26) (https://subvocal.company/). 我们造出聪明的眼镜,",
+      "ja": "こんにちはHNは、サブボカル会社(YC F26)(https://subvocal.company/ )からAarushとArnavです。 話せずにパソコンに話せるスマートメガネをつくっています。",
+      "ko": "안녕하세요 HN, Subvocal Company (YC F26) (https://subvocal.company/ )에서 Aarush와 Arnav입니다. 밝히지 않고 컴퓨터로 대화할 수 있는 스마트 안경을 구축하고 있습니다.",
+      "ms": "Kami Aarush dan Arnav dari The Subvocal Company (YC F26) ( https://subvocal.company/ ). Kami sedang membuat kacamata cerdas yang memungkinkan Anda berbicara dengan komputer tanpa berbicara keras.",
+      "vi": "Hi HN, chúng tôi là Aarush và Arnav từ Công ty Subvocal (YC F26) ( https vội vã. company/). Chúng tôi đang xây dựng những chiếc kính thông minh để cho bạn nói chuyện với máy vi tính mà không nói lớn tiếng.",
+      "fr": "Bonjour HN, nous sommes Aarush et Arnav de The Subvocal Company (YC F26) ( https://subvocal.company/ ). Nous construisons des lunettes intelligentes qui vous permettent de parler à votre ordinateur sans parler à voix haute.",
+      "es": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). Estamos construyendo gafas inteligentes que te permiten hablar con tu ordenador sin hablar en voz alta.",
+      "de": "Hallo HN, wir sind Aarush und Arnav von The Subvocal Company (YC F26) ( https://subvocal.company/ ). Wir bauen eine intelligente Brille, mit der Sie mit Ihrem Computer sprechen können, ohne laut zu sprechen.",
+      "zh-Hant": "Hi HN,我們是Aarush和Arnav from The Subvocal Company (YC F26) (https://subvocal.company/). 我們造出聰明的眼鏡,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 484 分 · 265 条评论",
+      "zh-Hant": "Hacker News 484 分 · 265 則留言",
+      "en": "484 points · 265 comments on Hacker News",
+      "ja": "Hacker News 484 ポイント · コメント 265 件",
+      "ko": "Hacker News 484점 · 댓글 265개",
+      "ms": "484 mata · 265 komen di Hacker News",
+      "vi": "484 điểm · 265 bình luận trên Hacker News",
+      "fr": "484 points · 265 commentaires sur Hacker News",
+      "es": "484 puntos · 265 comentarios en Hacker News",
+      "de": "484 Punkte · 265 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50340088",
+     "src": "news.ycombinator.com",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50337608",
+     "title": {
+      "zh-Hans": "WTF Ubuntu 吗 ?",
+      "zh-Hant": "WTF Ubuntu 嗎 ?",
+      "en": "WTF Ubuntu?",
+      "ja": "WTF Ubuntuの?",
+      "ko": "WTF 우분투?",
+      "ms": "Ubuntu WTF?",
+      "vi": "WTF Ubuntu?",
+      "fr": "WTF Ubuntu ?",
+      "es": "¿WTF Ubuntu?",
+      "de": "WTF Ubuntu?"
+     },
+     "summary": {
+      "en": "In case you missed it: CVE-2026-98432 is a critical (CVSS 9.8) bug in the Linux kernel's TCP code. It's been there since 2016, so virtually every Linux server on the planet has it, and it can be hit…",
+      "zh-Hans": "以防你错过: CVE-2026-98432是Linux内核的TCP代码中的关键(CVSS 9.8)bug. 它从2016年开始就在那里,因此几乎地球上的每个Linux服务器都有它,并且可以被击中. .",
+      "ja": "見逃した場合には、CVE-2026-98432 は Linux カーネルの TCP コードの重要な (CVSS 9.8) バグです。 2016年以降、地球上のほぼすべてのLinuxサーバーがそれを持っているので、それがヒットすることができます...",
+      "ko": "CVE-2026-98432는 리눅스 커널의 TCP 코드에서 중요한 (CVSS 9.8) 버그입니다. 그것은 이후있다 2016, 그래서 거의 모든 리눅스 서버 행성에 그것을 가지고, 그리고 그것은 타격 수...",
+      "ms": "Dalam kasus Anda melewatkannya: CVE-2026-98432 adalah kritis (CVSS 9.8) bug dalam kode TCP kernel Linux. Sudah ada sejak 2016, jadi hampir semua server Linux di planet ini memilikinya, dan itu bisa ditabrak...",
+      "vi": "Trong trường hợp bạn bỏ lỡ: CVE-26-98432 là một lỗi quan trọng (CVSS 9.8) trong mã TCP của hạt nhân Linux. Nó đã ở đó từ năm 2016, nên hầu như tất cả máy chủ Linux trên hành tinh đều có nó, và nó có thể bị tấn công...",
+      "fr": "Au cas où vous l'auriez raté : CVE-2026-98432 est un bug critique (CVSS 9.8) dans le code TCP du noyau Linux. Il est là depuis 2016, donc pratiquement tous les serveurs Linux de la planète l'ont, et il peut être frappé...",
+      "es": "En caso de que lo perdieras: CVE-2026-98432 es un error crítico (CVSS 9.8) en el código TCP del kernel de Linux. Ha estado ahí desde 2016, así que prácticamente todos los servidores Linux del planeta lo tienen, y puede ser golpeado...",
+      "de": "Falls Sie es verpasst haben: CVE-2026-98432 ist ein kritischer Fehler (CVSS 9.8) im TCP-Code des Linux-Kernels. Es ist seit 2016 da, so dass praktisch jeder Linux-Server auf dem Planeten es hat, und es kann getroffen werden ...",
+      "zh-Hant": "以防你錯過: CVE-2026-98432是Linux核心的TCP程式碼中的關鍵(CVSS 9.8)bug. 它從2016年開始就在那裡,因此幾乎地球上的每個Linux伺服器都有它,並且可以被擊中. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 1253 分 · 571 条评论",
+      "zh-Hant": "Hacker News 1253 分 · 571 則留言",
+      "en": "1253 points · 571 comments on Hacker News",
+      "ja": "Hacker News 1253 ポイント · コメント 571 件",
+      "ko": "Hacker News 1253점 · 댓글 571개",
+      "ms": "1253 mata · 571 komen di Hacker News",
+      "vi": "1253 điểm · 571 bình luận trên Hacker News",
+      "fr": "1253 points · 571 commentaires sur Hacker News",
+      "es": "1253 puntos · 571 comentarios en Hacker News",
+      "de": "1253 Punkte · 571 Kommentare auf Hacker News"
+     },
+     "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+     "src": "chalmovsky.com",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50335615",
+     "title": {
+      "zh-Hans": "整个欧洲的超级市场冷冻器受到第二次网络攻击的冲击",
+      "zh-Hant": "整個歐洲的超級市場冷凍器受到第二次網路攻擊的衝擊",
+      "en": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "ja": "欧州全域のスーパーマーケットの冷凍庫は、サイバー攻撃を疑った2秒でヒット",
+      "ko": "유럽의 슈퍼마켓 냉동고는 두 번째 의심의 여지없이 사이버 공격",
+      "ms": "Freezer Supermarket di seluruh Eropa ditabrak oleh serangan cyber yang diduga kedua",
+      "vi": "Những tủ lạnh siêu thị trên toàn Châu Âu bị tấn công bởi nghi phạm mạng",
+      "fr": "Supermarchés congélateurs en Europe frappés par la seconde cyberattaque soupçonnée",
+      "es": "Congeladores de supermercados en toda Europa golpeados por segundo presunto ciberataque",
+      "de": "Supermarkt-Gefrierschränke in ganz Europa getroffen von der zweiten vermuteten cyber-Attacke"
+     },
+     "summary": {
+      "en": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores",
+      "zh-Hans": "7个国家的连锁店说冷却单位的气温一夜之间上升了 类似法国商店的入侵事件",
+      "ja": "7カ国のチェーンは、冷房ユニットの温度がフランス語ストアのハッキングに似ている事故で一晩バラを言う",
+      "ko": "7 개국의 체인은 냉각 장치 온도가 프랑스 상점의 해킹과 유사한 사건에서 밤새 상승",
+      "ms": "Rantai di tujuh negara mengatakan suhu unit pendingin meningkat semalam dalam insiden mirip dengan hack toko Prancis",
+      "vi": "Dây xích ở 7 quốc gia nói nhiệt độ làm mát tăng qua đêm trong trường hợp tương tự như đột nhập các cửa hàng Pháp",
+      "fr": "Les chaînes de sept pays disent que la température des unités de refroidissement a augmenté du jour au lendemain, comme dans les magasins français.",
+      "es": "Cadenas en siete países dicen que las temperaturas de la unidad de refrigeración aumentaron durante la noche en incidente similar al hackeo de tiendas francesas",
+      "de": "Ketten in sieben Ländern sagen, Kühleinheit Temperaturen stiegen über Nacht in einem Vorfall ähnlich wie Hack von französischen Geschäften",
+      "zh-Hant": "7個國家的連鎖店說冷卻單位的氣溫一夜之間上升了 類似法國商店的入侵事件"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 354 分 · 402 条评论",
+      "zh-Hant": "Hacker News 354 分 · 402 則留言",
+      "en": "354 points · 402 comments on Hacker News",
+      "ja": "Hacker News 354 ポイント · コメント 402 件",
+      "ko": "Hacker News 354점 · 댓글 402개",
+      "ms": "354 mata · 402 komen di Hacker News",
+      "vi": "354 điểm · 402 bình luận trên Hacker News",
+      "fr": "354 points · 402 commentaires sur Hacker News",
+      "es": "354 puntos · 402 comentarios en Hacker News",
+      "de": "354 Punkte · 402 Kommentare auf Hacker News"
+     },
+     "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+     "src": "theguardian.com",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50344181",
+     "title": {
+      "zh-Hans": "BYD上个月卖的EV比全美多",
+      "zh-Hant": "BYD上個月賣的EV比全美多",
+      "en": "BYD sold more EVs last month than the US did all quarter",
+      "ja": "BYDは、米国がすべての四半期をしたよりも、先月、より多くのEVを販売しました",
+      "ko": "BYD는 미국보다 더 많은 EV를 지난 달 판매했습니다.",
+      "ms": "BYD menjual lebih banyak EV bulan lalu daripada US melakukan semua kuartal",
+      "vi": "DOD đã bán nhiều EVs vào tháng trước hơn là Mỹ làm tất cả quý",
+      "fr": "BYD a vendu plus d'EV le mois dernier que les États-Unis n'ont fait tout le trimestre",
+      "es": "BYD vendió más EV el mes pasado que Estados Unidos en todo el trimestre",
+      "de": "BYD verkaufte im vergangenen Monat mehr EVs als die USA das ganze Quartal über"
+     },
+     "summary": {
+      "en": "BYD sold over 300,000 electric vehicles in October, a new record and more than the US managed in the entire third quarter.",
+      "zh-Hans": "BYD在10月份售出了超过30万辆电动车辆,创下新纪录,超过了美国在第三季度的管理.",
+      "ja": "BYD sold over 300,000 electric vehicles in October, a new record and more than the US managed in the entire third quarter.",
+      "ko": "BYD는 10 월에 300,000 전기 자동차 이상 판매, 새로운 기록과 3 분기에 미국보다 더 많은.",
+      "ms": "BYD terjual lebih dari 300.000 kendaraan listrik pada bulan Oktober, rekor baru dan lebih dari AS yang dikelola di kuartal ketiga keseluruhan.",
+      "vi": "DOD đã bán hơn 300.000 xe điện vào tháng 10, kỷ lục mới và nhiều hơn Hoa Kỳ quản lý trong toàn bộ quý thứ ba.",
+      "fr": "BYD a vendu plus de 300 000 véhicules électriques en octobre, un nouveau record et plus que les États-Unis n'ont réussi au cours de tout le troisième trimestre.",
+      "es": "BYD vendió más de 300.000 vehículos eléctricos en octubre, un nuevo récord y más de lo que EE.UU. logró en todo el tercer trimestre.",
+      "de": "BYD verkaufte im Oktober über 300.000 Elektrofahrzeuge, ein neuer Rekord und mehr als die USA im gesamten dritten Quartal schafften.",
+      "zh-Hant": "BYD在10月份售出了超過30萬輛電動車輛,創下新紀錄,超過了美國在第三季度的管理."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 213 分 · 206 条评论",
+      "zh-Hant": "Hacker News 213 分 · 206 則留言",
+      "en": "213 points · 206 comments on Hacker News",
+      "ja": "Hacker News 213 ポイント · コメント 206 件",
+      "ko": "Hacker News 213점 · 댓글 206개",
+      "ms": "213 mata · 206 komen di Hacker News",
+      "vi": "213 điểm · 206 bình luận trên Hacker News",
+      "fr": "213 points · 206 commentaires sur Hacker News",
+      "es": "213 puntos · 206 comentarios en Hacker News",
+      "de": "213 Punkte · 206 Kommentare auf Hacker News"
+     },
+     "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+     "src": "electrek.co",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50339221",
+     "title": {
+      "zh-Hans": "华沙在伏克塞尔斯 - 市中心交互式三维地图",
+      "zh-Hant": "華沙在伏克塞爾斯 - 市中心互動式三維地圖",
+      "en": "Warsaw in voxels – An interactive 3D map of the city centre",
+      "ja": "ワルシャワ - 市内中心部のインタラクティブな3D地図",
+      "ko": "Voxels의 바르샤바 – 도시 중심의 3D 지도",
+      "ms": "Warsawa di voxels – Peta 3D interaktif dari pusat kota",
+      "vi": "Warsaw ở voxels – Một bản đồ 3D tương tác của Trung tâm thành phố",
+      "fr": "Varsovie en voxels – Une carte interactive 3D du centre-ville",
+      "es": "Varsovia en voxels – Un mapa 3D interactivo del centro de la ciudad",
+      "de": "Warschau in Voxeln: Eine interaktive 3D-Karte des Stadtzentrums"
+     },
+     "summary": {
+      "en": "Central Warsaw in 1 m voxels, built from OpenStreetMap, LiDAR and the city's tree database. Walk around the Palace of Culture, change the date, hour and weather, or possess a pedestrian.",
+      "zh-Hans": "中央华沙1m voxels,由OpenStreetMap,LiDAR和城市树数据库建造. 环绕文化宫,改变日期,时间和天气,或拥有行人.",
+      "ja": "OpenStreetMap、LiDAR、都市のツリーデータベースから構築された1mのVoxels中央ワルシャワ。 文化の宮殿を散策し、日付、時間、天候を変更したり、歩行者を所有したりします。",
+      "ko": "OpenStreetMap, LiDAR 및 도시의 나무 데이터베이스에서 지어진 1 m voxels의 중앙 바르샤바. 문화의 궁전 주위에 산책, 날짜를 변경, 시간 및 날씨, 또는 보행자를 소유.",
+      "ms": "Pusat Warsawa di 1 m voxels, dibangun dari OpenStreetMap, LiDAR dan basis data pohon kota. Berjalan keliling Istana Kebudayaan, mengubah tanggal, jam dan cuaca, atau memiliki pejalan kaki.",
+      "vi": "Trung tâm Warsaw ở 1m voxels, xây dựng từ cơ sở dữ liệu cây OpenStreetMap, LiDAR và cây của thành phố. Đi vòng quanh Cung điện văn hóa, thay đổi ngày giờ và thời tiết, hoặc sở hữu một người đi bộ.",
+      "fr": "Centre de Varsovie en voxels de 1 m, construit à partir d'OpenStreetMap, LiDAR et la base de données des arbres de la ville. Marchez autour du Palais de la Culture, changez la date, l'heure et le temps, ou posséder un piéton.",
+      "es": "Varsovia central en 1 m de voxels, construida desde OpenStreetMap, LiDAR y la base de datos de árboles de la ciudad. Camina por el Palacio de la Cultura, cambia la fecha, hora y tiempo, o posee un peatón.",
+      "de": "Zentral Warschau in 1 m Voxel, gebaut aus OpenStreetMap, LiDAR und der Baumdatenbank der Stadt. Spazieren Sie durch den Kulturpalast, ändern Sie Datum, Stunde und Wetter oder besitzen Sie einen Fußgänger.",
+      "zh-Hant": "中央華沙1m voxels,由OpenStreetMap,LiDAR和城市樹資料庫建造. 環繞文化宮,改變日期,時間和天氣,或擁有行人."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 193 分 · 34 条评论",
+      "zh-Hant": "Hacker News 193 分 · 34 則留言",
+      "en": "193 points · 34 comments on Hacker News",
+      "ja": "Hacker News 193 ポイント · コメント 34 件",
+      "ko": "Hacker News 193점 · 댓글 34개",
+      "ms": "193 mata · 34 komen di Hacker News",
+      "vi": "193 điểm · 34 bình luận trên Hacker News",
+      "fr": "193 points · 34 commentaires sur Hacker News",
+      "es": "193 puntos · 34 comentarios en Hacker News",
+      "de": "193 Punkte · 34 Kommentare auf Hacker News"
+     },
+     "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+     "src": "p.migdal.pl",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50338728",
+     "title": {
+      "zh-Hans": "问韩:谁在雇人? (2026年11月发布)",
+      "zh-Hant": "問韓:誰在僱人? (2026年11月釋出)",
+      "en": "Ask HN: Who is hiring? (November 2026)",
+      "ja": "誰が採用しているのか? (11月2026)",
+      "ko": "HN: 누가 고용? (11월 2026)",
+      "ms": "Siapa yang menyewa? (November 2026)",
+      "vi": "Ai thuê? (Ngày 20 tháng 9 năm26)",
+      "fr": "Demandez à HN: Qui recrute? (novembre 2026)",
+      "es": "Pregunta HN: ¿Quién está contratando? (Noviembre 2026)",
+      "de": "Fragen Sie HN: Wer stellt ein? (November 2026)"
+     },
+     "summary": {
+      "en": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.",
+      "zh-Hans": "如果国家受到限制,请说明地点并包括远程工作的REMOTE(美国)或类似工作;如果远程工作不是选项,请包括ONSITE。",
+      "ja": "リモートワーク、REMOTE(米国)、または国が制限されている場合は、リモートワークがオプションでないとONSITEをONSITEに指定してください。",
+      "ko": "원격 작업에 대한 REMOTE, REMOTE (미국) 또는 국가가 제한되는 경우와 ONSITE가 옵션이 아닙니다.",
+      "ms": "Silakan nyatakan lokasi dan masukkan REMOTE untuk pekerjaan remote, REMOTE (US) atau serupa jika negara dibatasi, dan ONSITE ketika pekerjaan remote bukan pilihan.",
+      "vi": "Xin vui lòng cho biết địa điểm và bao gồm GROTE cho công việc từ xa, GRITE (Mỹ) hoặc tương tự nếu quốc gia bị hạn chế, và ONSite khi công việc ở xa không phải là một tùy chọn.",
+      "fr": "Veuillez indiquer l'emplacement et inclure REMOTE pour le travail à distance, REMOTE (US) ou similaire si le pays est restreint, et ONSITE lorsque le travail à distance n'est pas une option.",
+      "es": "Por favor, indicar la ubicación e incluir REMOTE para el trabajo remoto, REMOTE (US) o similar si el país está restringido, y ONSITE cuando el trabajo remoto no es una opción.",
+      "de": "Bitte geben Sie den Standort an und geben Sie REMOTE für Remote-Arbeit, REMOTE (US) oder ähnliches an, wenn das Land eingeschränkt ist, und ONSITE, wenn Remote-Arbeit keine Option ist.",
+      "zh-Hant": "如果國家受到限制,請說明地點幷包括遠端工作的REMOTE(美國)或類似工作;如果遠端工作不是選項,請包括ONSITE。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 162 分 · 133 条评论",
+      "zh-Hant": "Hacker News 162 分 · 133 則留言",
+      "en": "162 points · 133 comments on Hacker News",
+      "ja": "Hacker News 162 ポイント · コメント 133 件",
+      "ko": "Hacker News 162점 · 댓글 133개",
+      "ms": "162 mata · 133 komen di Hacker News",
+      "vi": "162 điểm · 133 bình luận trên Hacker News",
+      "fr": "162 points · 133 commentaires sur Hacker News",
+      "es": "162 puntos · 133 comentarios en Hacker News",
+      "de": "162 Punkte · 133 Kommentare auf Hacker News"
+     },
+     "url": "https://news.ycombinator.com/item?id=50338728",
+     "src": "news.ycombinator.com",
+     "date": "2026-11-02",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1441517767",
+     "title": {
+      "zh-Hans": "caru-ini/stack-diagram",
+      "zh-Hant": "caru-ini/stack-diagram",
+      "en": "caru-ini/stack-diagram",
+      "ja": "caru-ini/stack-diagram",
+      "ko": "caru-ini/stack-diagram",
+      "ms": "caru-ini/stack-diagram",
+      "vi": "caru-ini/stack-diagram",
+      "fr": "caru-ini/stack-diagram",
+      "es": "caru-ini/stack-diagram",
+      "de": "caru-ini/stack-diagram"
+     },
+     "summary": {
+      "en": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "zh-Hans": "代理技能: 在句子中描述您的堆栈, 获得带有官方标志的架构图",
+      "ja": "エージェントスキル: 文章でスタックを記述し、公式のロゴでアーキテクチャ図を入手",
+      "ko": "에이전트 기술: 문장에서 스택을 설명, 공식 로고와 아키텍처 다이어그램을 얻을",
+      "ms": "Ketrampilan agen: gambarkan tumpukan Anda dalam sebuah kalimat, dapatkan diagram arsitektur dengan logo resmi",
+      "vi": "Kỹ năng đặc vụ: mô tả chồng của bạn theo một dòng, lấy biểu đồ kiến trúc với logo chính thức",
+      "fr": "Compétence de l'agent: décrire votre pile dans une phrase, obtenir un diagramme d'architecture avec des logos officiels",
+      "es": "habilidad del agente: describir su pila en una frase, obtener un diagrama de arquitectura con logotipos oficiales",
+      "de": "Agent Skill: Beschreiben Sie Ihren Stack in einem Satz, erhalten Sie ein Architekturdiagramm mit offiziellen Logos",
+      "zh-Hant": "代理技能: 在句子中描述您的堆疊, 獲得帶有官方標誌的架構圖"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,166 星",
+      "zh-Hant": "GitHub 1,166 星",
+      "en": "1,166 stars on GitHub",
+      "ja": "GitHub スター 1,166",
+      "ko": "GitHub 스타 1,166개",
+      "ms": "1,166 bintang di GitHub",
+      "vi": "1,166 sao trên GitHub",
+      "fr": "1,166 étoiles sur GitHub",
+      "es": "1,166 estrellas en GitHub",
+      "de": "1,166 Sterne auf GitHub"
+     },
+     "url": "https://github.com/caru-ini/stack-diagram",
+     "src": "github.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1442223451",
+     "title": {
+      "zh-Hans": "UncensoredLabs/uncensored-ai-api",
+      "zh-Hant": "UncensoredLabs/uncensored-ai-api",
+      "en": "UncensoredLabs/uncensored-ai-api",
+      "ja": "UncensoredLabs/uncensored-ai-api",
+      "ko": "UncensoredLabs/uncensored-ai-api",
+      "ms": "UncensoredLabs/uncensored-ai-api",
+      "vi": "UncensoredLabs/uncensored-ai-api",
+      "fr": "UncensoredLabs/uncensored-ai-api",
+      "es": "UncensoredLabs/uncensored-ai-api",
+      "de": "UncensoredLabs/uncensored-ai-api"
+     },
+     "summary": {
+      "en": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "zh-Hans": "未审查的AI API和浏览器聊天:DeepSeek和GLM模型,流线,Python和TypeScript实例,定价和设置指南.",
+      "ja": "AI API とブラウザーのチャット: DeepSeek と GLM モデル、ストリーミング、Python と TypeScript の例、価格設定、セットアップガイド。",
+      "ko": "Uncensored AI API 및 브라우저 채팅: DeepSeek 및 GLM 모델, 스트리밍, Python 및 TypeScript 예제, 가격 및 설정 가이드.",
+      "ms": "AI API dan browser chat: Model DeepSeek dan GLM, streaming, Python dan TypeScript contoh, pricing dan panduan setup.",
+      "vi": "Một chương trình nói chuyện không được chứng minh bằng trí nhớ và trình duyệt: DeepSek và GLM, phát sóng, Python và TypeSplition, giá trị và hướng dẫn thiết lập.",
+      "fr": "API AI non censurée et chat navigateur: DeepSeek et modèles GLM, streaming, Python et TypeScript exemples, prix et guides de configuration.",
+      "es": "API de IA sin censura y chat del navegador: DeepSeek y modelos GLM, streaming, ejemplos Python y TypeScript, guías de precios y configuración.",
+      "de": "Unzensierte KI-API und Browser-Chat: DeepSeek- und GLM-Modelle, Streaming, Python- und TypeScript-Beispiele, Preis- und Setup-Anleitungen.",
+      "zh-Hant": "未審查的AI API和瀏覽器聊天:DeepSeek和GLM模型,流線,Python和TypeScript例項,定價和設定指南."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 92 星",
+      "zh-Hant": "GitHub 92 星",
+      "en": "92 stars on GitHub",
+      "ja": "GitHub スター 92",
+      "ko": "GitHub 스타 92개",
+      "ms": "92 bintang di GitHub",
+      "vi": "92 sao trên GitHub",
+      "fr": "92 étoiles sur GitHub",
+      "es": "92 estrellas en GitHub",
+      "de": "92 Sterne auf GitHub"
+     },
+     "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+     "src": "github.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1441555426",
+     "title": {
+      "zh-Hans": "Jumbomuffin777/Frontier-UI",
+      "zh-Hant": "Jumbomuffin777/Frontier-UI",
+      "en": "Jumbomuffin777/Frontier-UI",
+      "ja": "Jumbomuffin777/Frontier-UI",
+      "ko": "Jumbomuffin777/Frontier-UI",
+      "ms": "Jumbomuffin777/Frontier-UI",
+      "vi": "Jumbomuffin777/Frontier-UI",
+      "fr": "Jumbomuffin777/Frontier-UI",
+      "es": "Jumbomuffin777/Frontier-UI",
+      "de": "Jumbomuffin777/Frontier-UI"
+     },
+     "summary": {
+      "en": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click…",
+      "zh-Hans": "ChatGPT风格的General UI for Open WebUI:图片画廊,真实路线的直播地图,多日行程,预算,计算器,直播天气和股票,链接预览,以及一击...",
+      "ja": "Open WebUI用のChatGPTスタイルのジェネレーションUI:写真ギャラリー、実際のルート、マルチデイトリップ、予算、計算機、ライブ気象&株式、リンクプレビュー、ワンクリックでライブマップ...",
+      "ko": "ChatGPT-style generative UI for Open WebUI: 사진 갤러리, 실제 경로와 라이브지도, 멀티 데이 여행, 예산, 계산기, 라이브 날씨 & 주식, 링크 미리보기, 한 번 클릭...",
+      "ms": "UI generatif gaya-ChatGPT untuk WebUI Terbuka: galeri foto, peta hidup dengan rute nyata, perjalanan multi hari, anggaran, kalkulator, cuaca hidup & stok, pratinjau link, dan satu-klik...",
+      "vi": "Các phòng trưng bày ảnh, bản đồ trực tiếp với các tuyến đường thật, các chuyến đi nhiều ngày, ngân sách, máy tính, thời tiết & cổ phiếu, ô xem thử liên kết và nhấn chuột...",
+      "fr": "UI générique de style ChatGPT pour Open WebUI: galeries de photos, cartes en direct avec itinéraires réels, voyages multi-jours, budgets, calculatrices, météo en direct et stocks, aperçus de liens, et un clic...",
+      "es": "ChatGPT-style generative UI for Open WebUI: galerías de fotos, mapas en vivo con rutas reales, viajes de varios días, presupuestos, calculadoras, tiempo en vivo &amp; acciones, enlaces previsuales, y un...",
+      "de": "Chatgpt-stil generative ui für open webui: fotogalerien, live-karten mit echten routen, mehrtägige reisen, budgets, rechner, live-wetter & aktien, link-vorschau und one-click.",
+      "zh-Hant": "ChatGPT風格的General UI for Open WebUI:圖片畫廊,真實路線的直播地圖,多日行程,預算,計算器,直播天氣和股票,連結預覽,以及一擊..."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 51 星",
+      "zh-Hant": "GitHub 51 星",
+      "en": "51 stars on GitHub",
+      "ja": "GitHub スター 51",
+      "ko": "GitHub 스타 51개",
+      "ms": "51 bintang di GitHub",
+      "vi": "51 sao trên GitHub",
+      "fr": "51 étoiles sur GitHub",
+      "es": "51 estrellas en GitHub",
+      "de": "51 Sterne auf GitHub"
+     },
+     "url": "https://github.com/Jumbomuffin777/Frontier-UI",
+     "src": "github.com",
+     "date": "2026-11-01",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-02",
    "path": "digest/2026-11-02/",
