@@ -1,6 +1,1107 @@
 {
- "latest": "2026-11-05",
+ "latest": "2026-11-06",
  "digests": [
+  {
+   "date": "2026-11-06",
+   "path": "digest/2026-11-06/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-11-05T23:30:00Z",
+   "generated": "2026-11-06T00:16:56Z",
+   "new_count": 60,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-06",
+    "zh-Hant": "早間技術熱點 · 2026-11-06",
+    "en": "Morning tech digest · 2026-11-06",
+    "ja": "朝のテックダイジェスト · 2026-11-06",
+    "ko": "아침 테크 다이제스트 · 2026-11-06",
+    "ms": "Ringkasan teknologi pagi · 2026-11-06",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-11-06",
+    "fr": "Digest tech du matin · 2026-11-06",
+    "es": "Resumen tecnológico matinal · 2026-11-06",
+    "de": "Morgendlicher Tech-Digest · 2026-11-06"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-11-06 07:30 自动生成：从上一期以来 OPC Radar 新收录的 60 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-11-06 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 60 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-11-06: the hottest of the 60 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-11-06 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 60 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-11-06 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 60개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-11-06: isyarat paling hangat daripada 60 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-11-06: những tín hiệu nổi bật nhất trong 60 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-11-06 : les plus marquants des 60 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-11-06: lo más destacado de las 60 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-11-06: das Wichtigste aus 60 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50379704",
+     "title": {
+      "zh-Hans": "Alpine Linux 安全咨询: OpenSSH- 服务器密码认证绕行",
+      "zh-Hant": "Alpine Linux 安全諮詢: OpenSSH- 伺服器密碼認證繞行",
+      "en": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "ja": "Alpine Linux Security Advisory: OpenSSH-serverパスワード認証バイパス",
+      "ko": "Alpine Linux 보안 자문 : OpenSSH-server 암호 인증 우회",
+      "ms": "Parameter Alpine Penasehat Keamanan Linux: bypassi kata laluan server OpenSSH",
+      "vi": "Cố vấn bảo mật Alpine Linux: OpenSSH- Server xác thực qua",
+      "fr": "Alpine Linux Security Advisory: contournement d'authentification du mot de passe OpenSSH-server",
+      "es": "Alpine Linux Security Advisory: OpenSSH-server password autentication bypass",
+      "de": "Alpine Linux Security Advisory: OpenSSH-Server Password Authentication Bypass"
+     },
+     "summary": {
+      "en": "If you run sshd on Alpine Linux, update openssh now and restart sshd. Upgrading the package alone does not replace the running daemon.",
+      "zh-Hans": "如果您在 Alpine Linux 上运行 sshd, 请立即更新 opensh 并重新启动 sshd 。 仅更新软件包并不能取代运行中的守护进程 。",
+      "ja": "Alpine Linux で sshd を実行すると、sshd を再起動します。 パッケージだけをアップグレードすると、実行中のデーモンは置換されません。",
+      "ko": "Alpine Linux에서 sshd를 실행하면, openssh를 지금 업데이트하고 sshd를 다시 시작합니다. 패키지를 업그레이드하는 것은 달리는 데몬을 대체하지 않습니다.",
+      "ms": "Jika Anda menjalankan sshd di Alpine Linux, update openssh sekarang dan mulai ulang sshd. Mengupgrade paket saja tidak menggantikan daemon yang sedang berjalan.",
+      "vi": "Nếu bạn chạy trên hệ thống Alpine Linux, cập nhật sẽ mở và khởi động lại cấu hình lại. Tự nâng cấp gói không thay thế trình nền đang chạy.",
+      "fr": "Si vous exécutez sshd sur Alpine Linux, la mise à jour s'ouvre maintenant et redémarre sshd. La mise à niveau du paquet seul ne remplace pas le démon courant.",
+      "es": "Si ejecuta sshd en Alpine Linux, actualice openssh ahora y reinicia sshd. Mejorar el paquete por sí solo no reemplaza el daemon en ejecución.",
+      "de": "Wenn Sie sshd unter Alpine Linux ausführen, aktualisieren Sie openssh jetzt und starten Sie sshd neu. Das Upgrade des Pakets allein ersetzt nicht den laufenden Daemon.",
+      "zh-Hant": "如果您在 Alpine Linux 上執行 sshd, 請立即更新 opensh 並重新啟動 sshd 。 僅更新軟體包並不能取代執行中的守護程序 。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 521 分 · 105 条评论",
+      "zh-Hant": "Hacker News 521 分 · 105 則留言",
+      "en": "521 points · 105 comments on Hacker News",
+      "ja": "Hacker News 521 ポイント · コメント 105 件",
+      "ko": "Hacker News 521점 · 댓글 105개",
+      "ms": "521 mata · 105 komen di Hacker News",
+      "vi": "521 điểm · 105 bình luận trên Hacker News",
+      "fr": "521 points · 105 commentaires sur Hacker News",
+      "es": "521 puntos · 105 comentarios en Hacker News",
+      "de": "521 Punkte · 105 Kommentare auf Hacker News"
+     },
+     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "src": "alpinelinux.org",
+     "date": "2026-11-05",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50379704"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50378625",
+     "title": {
+      "zh-Hans": "Discord正在丢弃Electron,它的新应用程序使用较少的RAM",
+      "zh-Hant": "Discord正在丟棄Electron,它的新應用程式使用較少的RAM",
+      "en": "Discord is ditching Electron and its new app uses less RAM",
+      "ja": "Discordはエレクトロンを掛け、新しいappはより少ないRAMを使用します",
+      "ko": "Discord는 Electron을 ditching하고 새로운 앱은 더 적은 RAM을 사용합니다.",
+      "ms": "RAM",
+      "vi": "Bộ lọc điện tử và ứng dụng mới của nó sử dụng ít RAM hơn",
+      "fr": "Discord abandonne Electron et sa nouvelle application utilise moins de RAM",
+      "es": "Discord está despertando Electron y su nueva aplicación utiliza menos RAM",
+      "de": "Discord lässt Electron fallen und seine neue App verwendet weniger RAM"
+     },
+     "summary": {
+      "en": "Discord is moving its apps fully over to the Rust programming language.",
+      "zh-Hans": "Discord正在将其应用完全转移到Rust编程语言.",
+      "ja": "DiscordはRustのプログラミング言語に完全にアプリを移動させます。",
+      "ko": "Discord는 Rust 프로그래밍 언어로 앱을 완전히 이동하고 있습니다.",
+      "ms": "Discord memindahkan aplikasinya sepenuhnya ke bahasa pemrograman Rust.",
+      "vi": "Chương trình sẽ chuyển toàn bộ ứng dụng sang ngôn ngữ lập trình Rust.",
+      "fr": "Discord déplace ses applications vers le langage de programmation Rust.",
+      "es": "La discordia está moviendo sus aplicaciones completamente al lenguaje de programación Rust.",
+      "de": "Discord verlegt seine Apps vollständig auf die Programmiersprache Rust.",
+      "zh-Hant": "Discord正在將其應用完全轉移到Rust程式語言."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 353 分 · 305 条评论",
+      "zh-Hant": "Hacker News 353 分 · 305 則留言",
+      "en": "353 points · 305 comments on Hacker News",
+      "ja": "Hacker News 353 ポイント · コメント 305 件",
+      "ko": "Hacker News 353점 · 댓글 305개",
+      "ms": "353 mata · 305 komen di Hacker News",
+      "vi": "353 điểm · 305 bình luận trên Hacker News",
+      "fr": "353 points · 305 commentaires sur Hacker News",
+      "es": "353 puntos · 305 comentarios en Hacker News",
+      "de": "353 Punkte · 305 Kommentare auf Hacker News"
+     },
+     "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+     "src": "theverge.com",
+     "date": "2026-11-05",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50378625"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50381302",
+     "title": {
+      "zh-Hans": "虚拟编码键盘",
+      "zh-Hant": "虛擬編碼鍵盤",
+      "en": "Vibe Coding Keypad",
+      "ja": "Vibeのコーディングのキーパッド",
+      "ko": "Vibe 기호화 키패드",
+      "ms": "Pad Kunci Vibe Coding",
+      "vi": "Name",
+      "fr": "Codage de vibration clavier",
+      "es": "Vibe Coding Keypad",
+      "de": "Vibe Coding Keypad"
+     },
+     "summary": {
+      "en": "Speed up your AI workflow with the Keychron F4 HE 8K Vibe Coding Keypad. Set four keys to send prompts, accept edits, or start voice input with a single press.",
+      "zh-Hans": "以Keychron F4 HE 8K Vibe编码键盘来加速你的AI工作流程. 设置四个键来发送提示,接受编辑,或者用单一的相机开始语音输入.",
+      "ja": "Keychron F4 HE 8K Vibe Coding KeypadでAIワークフローを高速化します。 プロンプトを送信、編集を受け入れる、または単一のプレスでボイス入力を開始するための4つのキーを設定します。",
+      "ko": "Keychron F4 HE 8K Vibe Coding Keypad로 AI 워크플로우를 가속화합니다. 신속한 전송을 위해 4개의 열쇠를 놓고, 편집을 받아들이거나, 단 하나 압박으로 음성 입력을 시작합니다.",
+      "ms": "Kecepatkan aliran kerja AI Anda dengan Keychron F4 HE 8K Vibe Coding Keypad. 4 kunci untuk mengirim prompt, menerima edit, atau mulai input suara dengan satu tekan.",
+      "vi": "Tăng tốc độ làm việc của anh với Keychron F4 He 8K Vibe Coding Keypad. Đặt bốn phím cần gởi lời nhắc, chấp nhận sửa đổi, hoặc bắt đầu nhập khẩu giọng nói với một nhấn riêng.",
+      "fr": "Accélérez votre flux de travail AI avec le clavier Keychron F4 HE 8K Vibe Codage. Définissez quatre touches pour envoyer des invitations, accepter des modifications ou démarrer l'entrée vocale avec une seule presse.",
+      "es": "Acelere su flujo de trabajo AI con el Keychron F4 HE 8K Vibe Coding Keypad. Establecer cuatro teclas para enviar avisos, aceptar ediciones, o iniciar entrada de voz con una sola prensa.",
+      "de": "Beschleunigen Sie Ihren KI-Workflow mit dem Keychron F4 HE 8K Vibe Coding Keypad. Legen Sie vier Tasten fest, um Aufforderungen zu senden, Bearbeitungen anzunehmen oder die Spracheingabe mit einem einzigen Druck zu starten.",
+      "zh-Hant": "以Keychron F4 HE 8K Vibe編碼鍵盤來加速你的AI工作流程. 設定四個鍵來傳送提示,接受編輯,或者用單一的相機開始語音輸入."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 84 分 · 55 条评论",
+      "zh-Hant": "Hacker News 84 分 · 55 則留言",
+      "en": "84 points · 55 comments on Hacker News",
+      "ja": "Hacker News 84 ポイント · コメント 55 件",
+      "ko": "Hacker News 84점 · 댓글 55개",
+      "ms": "84 mata · 55 komen di Hacker News",
+      "vi": "84 điểm · 55 bình luận trên Hacker News",
+      "fr": "84 points · 55 commentaires sur Hacker News",
+      "es": "84 puntos · 55 comentarios en Hacker News",
+      "de": "84 Punkte · 55 Kommentare auf Hacker News"
+     },
+     "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+     "src": "keychron.com",
+     "date": "2026-11-05",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50381302"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50384233",
+     "title": {
+      "zh-Hans": "MS 绘图远程代码执行弱点",
+      "zh-Hant": "MS 繪圖遠端程式碼執行弱點",
+      "en": "MS Paint Remote Code Execution Vulnerability",
+      "ja": "MSペイントリモートコード実行脆弱性",
+      "ko": "MS 페인트 원격 코드 실행 취약점",
+      "ms": "Vulnerabilitas Eksekusi Eksekusi Kode Jauh MS Paint",
+      "vi": "Name",
+      "fr": "Vulnérabilité d'exécution du code à distance de peinture MS",
+      "es": "MS Paint Remote Code Execution Vulnerability",
+      "de": "MS Paint Remote Code Execution Sicherheitslücke"
+     },
+     "summary": {
+      "zh-Hans": "Hacker News 上的链接，原文来自 cve.org。",
+      "zh-Hant": "Hacker News 上的連結，原文來自 cve.org。",
+      "en": "Shared on Hacker News; original at cve.org.",
+      "ja": "Hacker News で共有されたリンク。元記事は cve.org にあります。",
+      "ko": "Hacker News에서 공유된 링크입니다. 원문은 cve.org에 있습니다.",
+      "ms": "Dikongsi di Hacker News; artikel asal di cve.org.",
+      "vi": "Được chia sẻ trên Hacker News; bài gốc tại cve.org.",
+      "fr": "Partagé sur Hacker News ; original sur cve.org.",
+      "es": "Compartido en Hacker News; original en cve.org.",
+      "de": "Geteilt auf Hacker News; Original auf cve.org."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 136 分 · 40 条评论",
+      "zh-Hant": "Hacker News 136 分 · 40 則留言",
+      "en": "136 points · 40 comments on Hacker News",
+      "ja": "Hacker News 136 ポイント · コメント 40 件",
+      "ko": "Hacker News 136점 · 댓글 40개",
+      "ms": "136 mata · 40 komen di Hacker News",
+      "vi": "136 điểm · 40 bình luận trên Hacker News",
+      "fr": "136 points · 40 commentaires sur Hacker News",
+      "es": "136 puntos · 40 comentarios en Hacker News",
+      "de": "136 Punkte · 40 Kommentare auf Hacker News"
+     },
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+     "src": "cve.org",
+     "date": "2026-11-05",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50384233"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50381383",
+     "title": {
+      "zh-Hans": "窗口擦拭器",
+      "zh-Hant": "視窗擦拭器",
+      "en": "Window Sweaters",
+      "ja": "ウィンドウセーター",
+      "ko": "창 스웨터",
+      "ms": "Sweater Jendela Cowok",
+      "vi": "Comment",
+      "fr": "Chandails de fenêtre",
+      "es": "Window Sweaters",
+      "de": "Window Pullover"
+     },
+     "summary": {
+      "en": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "zh-Hans": "一个macOS菜单栏的应用程序,将你的窗口穿在编织的边框上.",
+      "ja": "編まれる境界線で窓をドレスアップするmacOSメニューバーアプリ。",
+      "ko": "macOS 메뉴 바 앱은 니트 국경에서 창문을 드레스합니다.",
+      "ms": "A aplikasi bar menu macOS yang gaun jendela Anda di perbatasan rajutan.",
+      "vi": "Một ứng dụng thanh thực đơn macOS mà đặt các cửa sổ của bạn trong các viền đan.",
+      "fr": "Une application de menu-bar macOS qui habille vos fenêtres dans des bordures tricotées.",
+      "es": "Una aplicación de menú-bar macOS que viste tus ventanas en bordes de punto.",
+      "de": "Eine macOS-Menüleisten-App, die Ihre Fenster in gestrickte Ränder kleidet.",
+      "zh-Hant": "一個macOS選單欄的應用程式,將你的視窗穿在編織的邊框上."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 191 分 · 67 条评论",
+      "zh-Hant": "Hacker News 191 分 · 67 則留言",
+      "en": "191 points · 67 comments on Hacker News",
+      "ja": "Hacker News 191 ポイント · コメント 67 件",
+      "ko": "Hacker News 191점 · 댓글 67개",
+      "ms": "191 mata · 67 komen di Hacker News",
+      "vi": "191 điểm · 67 bình luận trên Hacker News",
+      "fr": "191 points · 67 commentaires sur Hacker News",
+      "es": "191 puntos · 67 comentarios en Hacker News",
+      "de": "191 Punkte · 67 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/saragordic/window-sweaters",
+     "src": "github.com",
+     "date": "2026-11-05",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50381383"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50369895",
+     "title": {
+      "zh-Hans": "经过十年的逆转,我得到了合作 在DOS Wing Commander工作",
+      "zh-Hant": "經過十年的逆轉,我得到了合作 在DOS Wing Commander工作",
+      "en": "After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "ja": "10年後、DOS Wing Commanderで共同作業をしました",
+      "ko": "수십 년의 반전 후, 나는 DOS Wing Commander에서 공동 작업을했습니다.",
+      "ms": "Setelah satu dekade reversi, saya mendapat co-op bekerja di DOS Wing Commander",
+      "vi": "Sau một thập kỷ đảo ngược, tôi nhận được đồng nghiệp làm việc trong DOS Wing Commander",
+      "fr": "Après une décennie d'inversion, j'ai obtenu que la coopérative travaille au DOS Wing Commander",
+      "es": "Después de una década de inversión, tuve coop trabajando en el Comandante de Ala de DOS",
+      "de": "Nach einem Jahrzehnt des Reversierens habe ich eine Koop-Arbeit im DOS Wing Commander bekommen"
+     },
+     "summary": {
+      "en": "How two brothers reverse-engineered DOS Wing Commander for two-player co-op starting in 2015, then in 2026 brought it to the browser with WebRTC and voice chat.",
+      "zh-Hans": "两位兄弟是如何从2015年开始为双玩家合作设计了DOS Wing Commander,后于2026年用WebRTC和语音聊天带给浏览器的.",
+      "ja": "2人の兄弟が2015年に開始する2人のプレーヤーの共同opのためのDOSの翼の司令官を逆転させ、そして2026年にそれをWebRTCおよび声のチャットとブラウザに持って来ました。",
+      "ko": "두 형제 역설계 DOS Wing Commander for two-player co-op starting in 2015, 그 후 2026 WebRTC와 음성 채팅 브라우저로 가져 왔습니다.",
+      "ms": "Bagaimana dua bersaudara bermesin terbalik DOS Wing Commander untuk co-op dua-pemain mulai tahun 2015, kemudian pada tahun 2026 membawanya ke peramban dengan WebRTC dan voice chat.",
+      "vi": "Làm thế nào hai anh em bị đảo ngược DO Wing Commander cho hai người chơi cùng bắt đầu vào năm 2015, sau đó vào năm 2026 mang nó đến trình duyệt với WebTC và trò chuyện bằng giọng nói.",
+      "fr": "Comment deux frères à moteur inverse DOS Wing Commander pour deux joueurs coop à partir de 2015, puis en 2026 l'a apporté au navigateur avec WebRTC et conversation vocale.",
+      "es": "Cómo dos hermanos de ingeniería inversa DOS Wing Commander para dos jugadores co-op a partir de 2015, entonces en 2026 lo trajo al navegador con WebRTC y chat de voz.",
+      "de": "Wie zwei Brüder DOS Wing Commander für Zwei-Spieler-Koop ab 2015 und dann 2026 mit WebRTC und Voice-Chat in den Browser brachten.",
+      "zh-Hant": "兩位兄弟是如何從2015年開始為雙玩家合作設計了DOS Wing Commander,後於2026年用WebRTC和語音聊天帶給瀏覽器的."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 246 分 · 34 条评论",
+      "zh-Hant": "Hacker News 246 分 · 34 則留言",
+      "en": "246 points · 34 comments on Hacker News",
+      "ja": "Hacker News 246 ポイント · コメント 34 件",
+      "ko": "Hacker News 246점 · 댓글 34개",
+      "ms": "246 mata · 34 komen di Hacker News",
+      "vi": "246 điểm · 34 bình luận trên Hacker News",
+      "fr": "246 points · 34 commentaires sur Hacker News",
+      "es": "246 puntos · 34 comentarios en Hacker News",
+      "de": "246 Punkte · 34 Kommentare auf Hacker News"
+     },
+     "url": "https://fireflyk64.github.io/wcmulti/",
+     "src": "fireflyk64.github.io",
+     "date": "2026-11-04",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50369895"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50381687",
+     "title": {
+      "zh-Hans": "Rivet (YC W23) – S3 上的缩放和管弦乐代理",
+      "zh-Hant": "Rivet (YC W23) – S3 上的縮放和管絃樂代理",
+      "en": "Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "ja": "リベット(YC W23) - S3のスケールとオーケストエージェント",
+      "ko": "리베트 (YC W23) - S3의 규모와 오케스트라 에이전트",
+      "ms": "Legalet (YC W2323) Skala dan Orchestrate Agents on S3",
+      "vi": "Rivet (YC W23) – Co dãn và Orcheste Agents on S3",
+      "fr": "Rivet (YC W23) – Agents d'échelle et d'orchestre sur S3",
+      "es": "Rivet (YC W23) – Agentes de Escala y Orquesta en S3",
+      "de": "Rivet (YC W23) – Scale and Orchestrate Agents auf S3"
+     },
+     "summary": {
+      "en": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.",
+      "zh-Hans": "代理工作量的管弦乐手. 一个快速,高密度和可伸缩的管弦乐手,为每个代理需要的工作量服务.",
+      "ja": "エージェントワークロードのオーケストレーター。 エージェントが必要とするあらゆるワークロードのための高速で高密度でスケーラブルなオーケストレーター。",
+      "ko": "화학적 작업 부하의 오케스트라. 모든 작업에 대한 빠르고, 고밀도 및 확장 가능한 오케스트라tor는 에이전트가 필요합니다.",
+      "ms": "Sang orkestra untuk beban kerja agen. Sebuah orkestrator cepat, tinggi-densitas dan tajam untuk setiap beban pekerjaan yang dibutuhkan agen.",
+      "vi": "Dàn nhạc cho công việc đặc vụ. Một dàn nhạc nhanh, cao và có khả năng mở rộng cho mọi công việc mà một đặc vụ cần.",
+      "fr": "L'orchestreur pour les tâches d'agent. Un orchestre rapide, haute densité et évolutive pour chaque charge de travail dont un agent a besoin.",
+      "es": "El orquestador de cargas de trabajo. Un orquestador rápido, de alta densidad y escalable para cada carga de trabajo que un agente necesita.",
+      "de": "Der Orchestrator für agentische Workloads. Ein schneller, hochdichter und skalierbarer Orchestrator für jede Workload, die ein Agent benötigt.",
+      "zh-Hant": "代理工作量的管絃樂手. 一個快速,高密度和可伸縮的管絃樂手,為每個代理需要的工作量服務."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 63 分 · 30 条评论",
+      "zh-Hant": "Hacker News 63 分 · 30 則留言",
+      "en": "63 points · 30 comments on Hacker News",
+      "ja": "Hacker News 63 ポイント · コメント 30 件",
+      "ko": "Hacker News 63점 · 댓글 30개",
+      "ms": "63 mata · 30 komen di Hacker News",
+      "vi": "63 điểm · 30 bình luận trên Hacker News",
+      "fr": "63 points · 30 commentaires sur Hacker News",
+      "es": "63 puntos · 30 comentarios en Hacker News",
+      "de": "63 Punkte · 30 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/rivet-dev/rivet",
+     "src": "github.com",
+     "date": "2026-11-05",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50381687"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50366971",
+     "title": {
+      "zh-Hans": "共青团的Garry Tan 经常用人工智能代理 他每年花费高达200美元",
+      "zh-Hant": "共青團的Garry Tan 經常用人工智慧代理 他每年花費高達200美元",
+      "en": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "ja": "YCのGarry TanはAIエージェントを多く使用し、トークンに1年間最大$ 200Kを費やしています。",
+      "ko": "YC의 Garry Tan은 AI 에이전트를 너무 많이 사용합니다. 그는 토큰에 연간 $ 200K까지 지출",
+      "ms": "Garry Tan YC menggunakan agen AI begitu banyak, ia menghabiskan sampai $ 200K setahun untuk token",
+      "vi": "YC Garry Tan sử dụng các đặc vụ AI rất nhiều, anh ta chi ra 200 nghìn đô một năm cho các vật kỷ niệm.",
+      "fr": "Garry Tan de YC utilise tellement d'agents d'IA, il dépense jusqu'à 200 000 $ par an sur des jetons",
+      "es": "Garry Tan de YC utiliza agentes de IA tanto, gasta hasta $200K al año en fichas",
+      "de": "YCs Garry Tan verwendet KI-Agenten so viel, dass er bis zu $ 200.000 pro Jahr für Token ausgibt"
+     },
+     "summary": {
+      "en": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents.",
+      "zh-Hans": "Y 组合加里 Tan在开玩笑地承认自己患有\"cyber精神病\",",
+      "ja": "Y のコンビネーション・ガーリー タンは、彼が「シベル心理学」に苦しんでいることを冗談に認めており、彼は彼のAIエージェントと働いたことをとても興奮しているので時々睡眠をやめている。",
+      "ko": "Y 통합 Garry 탄은 그가 \"cyber psychosis\"에서 고통 받고 때로는 그의 AI 에이전트와 함께 일하기 위해 흥분하기 때문에 즐겁다.",
+      "ms": "\\\"Garry Combinator Y\\\" Karena bercanda Tan telah mengaku bahwa ia menderita psikosis Æcyber\\\" dan hampir tidak tidur kadang-kadang karena ia sangat senang bekerja sama dengan agen AI-nya.",
+      "vi": "Name Tan đã thú nhận một cách đùa cợt rằng anh ta bị chứng rối loạn tâm thần nhịp tim và đôi khi khó ngủ vì anh ta rất hứng thú được làm việc với đặc vụ AI của mình.",
+      "fr": "Y Combineur Garry Tan a admis avec plaisanterie qu'il a souffert de « psychose cybernétique » et dort à peine parfois parce qu'il est tellement excité de travailler avec ses agents d'IA.",
+      "es": "Y Combinator Garry Tan ha admitido con alegría que ha sufrido de \"psicósis cíbera\" y apenas duerme a veces porque está tan emocionado de trabajar con sus agentes de inteligencia artificial.",
+      "de": "Y Combinator Garry Tan hat scherzhaft zugegeben, dass er an \"Cyber-Psychose\" leidet und manchmal kaum schläft, weil er so aufgeregt ist, mit seinen KI-Agenten zu arbeiten.",
+      "zh-Hant": "Y 組合加里 Tan在開玩笑地承認自己患有\"cyber精神病\","
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 101 分 · 166 条评论",
+      "zh-Hant": "Hacker News 101 分 · 166 則留言",
+      "en": "101 points · 166 comments on Hacker News",
+      "ja": "Hacker News 101 ポイント · コメント 166 件",
+      "ko": "Hacker News 101점 · 댓글 166개",
+      "ms": "101 mata · 166 komen di Hacker News",
+      "vi": "101 điểm · 166 bình luận trên Hacker News",
+      "fr": "101 points · 166 commentaires sur Hacker News",
+      "es": "101 puntos · 166 comentarios en Hacker News",
+      "de": "101 Punkte · 166 Kommentare auf Hacker News"
+     },
+     "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+     "src": "techcrunch.com",
+     "date": "2026-11-04",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50366971"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50379249",
+     "title": {
+      "zh-Hans": "MCP 解释",
+      "zh-Hant": "MCP 解釋",
+      "en": "MCP Explained",
+      "ja": "MCPの説明",
+      "ko": "MCP 설명",
+      "ms": "MCP Dijelaskan",
+      "vi": "Comment",
+      "fr": "MCP expliqué",
+      "es": "MCP Explicado",
+      "de": "MCP erklärt"
+     },
+     "summary": {
+      "en": "Every MCP message on the wire, step by step. Transports, auth, tools, sampling, tasks, tool search and codemode. By Runlayer.",
+      "zh-Hans": "每个MCP消息在电线上,一步一步地. 传输、认证、工具、采样、任务、工具搜索和编码模式。 由\"跑者\"进行.",
+      "ja": "ワイヤ上のすべてのMCPメッセージ、ステップバイステップ。 輸送、auth、ツール、サンプリング、タスク、ツール検索、コードモード。 Runlayer によって。",
+      "ko": "와이어의 모든 MCP 메시지, 단계별. 운송, 오, 도구, 샘플링, 작업, 도구 검색 및 코드 모드. Runlayer에 의해.",
+      "ms": "Setiap pesan MCP pada kabel, langkah demi langkah. Angkutan, autentikasi, alat, sampling, tugas, alat pencarian dan kodmode. Oleh Runlayer.",
+      "vi": "Mọi tin nhắn MCP trên đường dây, từng bước một. Vận chuyển, loa, dụng cụ, mẫu thử, nhiệm vụ, tìm kiếm và mã hóa. By Runlayer.",
+      "fr": "Chaque message MCP sur le fil, étape par étape. Transport, auth, outils, échantillonnage, tâches, recherche d'outils et mode de code. Par Runlayer.",
+      "es": "Cada mensaje MCP en el cable, paso a paso. Transportes, auth, herramientas, muestreo, tareas, búsqueda de herramientas y codificación. Por Runlayer.",
+      "de": "Jede MCP-Nachricht auf dem Draht, Schritt für Schritt. Transporte, Authen, Werkzeuge, Sampling, Aufgaben, Werkzeugsuche und Codemodus. von Runlayer.",
+      "zh-Hant": "每個MCP訊息在電線上,一步一步地. 傳輸、認證、工具、取樣、任務、工具搜尋和編碼模式。 由\"跑者\"進行."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 210 分 · 107 条评论",
+      "zh-Hant": "Hacker News 210 分 · 107 則留言",
+      "en": "210 points · 107 comments on Hacker News",
+      "ja": "Hacker News 210 ポイント · コメント 107 件",
+      "ko": "Hacker News 210점 · 댓글 107개",
+      "ms": "210 mata · 107 komen di Hacker News",
+      "vi": "210 điểm · 107 bình luận trên Hacker News",
+      "fr": "210 points · 107 commentaires sur Hacker News",
+      "es": "210 puntos · 107 comentarios en Hacker News",
+      "de": "210 Punkte · 107 Kommentare auf Hacker News"
+     },
+     "url": "https://mcp-explained.com/",
+     "src": "mcp-explained.com",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50383057",
+     "title": {
+      "zh-Hans": "哈克辛托什重生",
+      "zh-Hant": "哈克辛託什重生",
+      "en": "The Hackintosh Reborn",
+      "ja": "ハキネトッシュ生まれ",
+      "ko": "Hackintosh 탄생",
+      "ms": "Betina Hackintosh Reborn",
+      "vi": "Sự tái sinh của kẻ xâm nhập",
+      "fr": "Le Hackintosh renaît",
+      "es": "The Hackintosh Reborn",
+      "de": "Der Hackintosh Reborn"
+     },
+     "summary": {
+      "en": "Almost a decade ago, I released a hackintosh guide on running macOS 10.14 through a VM with an x86 host. A \"Hackintosh\" is the feat of running macOS on non-Apple hardware, and has a history dating…",
+      "zh-Hans": "大约十年前,我发布了一个黑客指南 关于运行macOS 10.14 通过一个VM,有一个x86主机。 一个\"Hackintosh\"是在非Apple硬件上运行macOS的壮举,并且有着一段相识的历史. .",
+      "ja": "ほぼ10年前にmacOS 10.14を実行して、x86ホストを持つVMを介してハシネトッシュガイドをリリースしました。 A 「ハクシントッシュ」は、非AppleハードウェアでmacOSを実行しているのは、歴史があります 日付...",
+      "ko": "거의 10 년 전, 나는 X86 호스트와 VM을 통해 macOS 10.14를 실행하는 Hackintosh 가이드를 발표했습니다. \"Hackintosh\"는 비 애플 하드웨어에서 macOS를 실행하는 업적이며, 역사 데이트가 있습니다 ...",
+      "ms": "Hampir satu dekade yang lalu, saya merilis panduan hackintosh pada menjalankan macOS 10.14 melalui VM dengan x86 host. A \"Hackintosh\" adalah prestasi menjalankan macOS pada perangkat keras non-Apple, dan memiliki kencan sejarah...",
+      "vi": "Gần một thập kỷ trước, tôi đã phát hành một hướng dẫn viên hacktosh về việc chạy macOS 10.14 thông qua một VM với một máy x86. Một \"Hackintosh\" là thành tích của việc chạy macOS trên phần cứng phi táo, và có lịch sử hẹn hò...",
+      "fr": "Il y a presque dix ans, j'ai publié un guide hackintosh sur l'exécution macOS 10.14 à travers un VM avec un hôte x86. Un \"Hackintosh\" est l'exploit de courir macOS sur le matériel non-Apple, et a une histoire datant...",
+      "es": "Hace casi una década, liberé una guía de hackintosh en ejecutar macOS 10.14 a través de un VM con un host x86. Un \"Hackintosh\" es la hazaña de ejecutar macOS en hardware no-Apple, y tiene una historia que data...",
+      "de": "Vor fast einem Jahrzehnt habe ich eine Hackintosh-Anleitung zum Ausführen von macOS 10.14 über eine VM mit einem x86-Host veröffentlicht. Ein \"Hackintosh\" ist das Kunststück, macOS auf Nicht-Apple-Hardware auszuführen, und hat eine Geschichte, die...",
+      "zh-Hant": "大約十年前,我釋出了一個駭客指南 關於執行macOS 10.14 透過一個VM,有一個x86主機。 一個\"Hackintosh\"是在非Apple硬體上執行macOS的壯舉,並且有著一段相識的歷史. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 130 分 · 44 条评论",
+      "zh-Hant": "Hacker News 130 分 · 44 則留言",
+      "en": "130 points · 44 comments on Hacker News",
+      "ja": "Hacker News 130 ポイント · コメント 44 件",
+      "ko": "Hacker News 130점 · 댓글 44개",
+      "ms": "130 mata · 44 komen di Hacker News",
+      "vi": "130 điểm · 44 bình luận trên Hacker News",
+      "fr": "130 points · 44 commentaires sur Hacker News",
+      "es": "130 puntos · 44 comentarios en Hacker News",
+      "de": "130 Punkte · 44 Kommentare auf Hacker News"
+     },
+     "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+     "src": "naut.ca",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50376313",
+     "title": {
+      "zh-Hans": "GPT-6 关于安全研究的Astra隐蔽表现",
+      "zh-Hant": "GPT-6 關於安全研究的Astra隱蔽表現",
+      "en": "GPT-6 Astra covertly underperforms on safety research",
+      "ja": "GPT-6 Astraは、安全研究の面で根ざした基盤を覆います",
+      "ko": "안전 연구에 GPT-6 Astra covertly underperforms",
+      "ms": "Astra GPT-6 Astra secara rahasia tidak sesuai dengan riset keselamatan.",
+      "vi": "GPT-6 Astra ẩn ngầm dưới dạng nghiên cứu an toàn",
+      "fr": "GPT-6 Astra sous-performe secrètement la recherche sur la sécurité",
+      "es": "GPT-6 Astra encubiertomente infraperformes sobre investigación de seguridad",
+      "de": "GPT-6 Astra unterbietet sich heimlich in der Sicherheitsforschung"
+     },
+     "summary": {
+      "en": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+      "zh-Hans": "研究AI与人类价值观和意图的相适应性,报告记录了模型失败.",
+      "ja": "人的価値観や意図でAIを揃え、モデルの障害を文書化するレポートの研究。",
+      "ko": "인간의 가치와 의도로 AI를 정렬하는 연구, 모델링 모델 실패를보고.",
+      "ms": "Penelitian untuk menyelaraskan AI dengan nilai dan maksud manusia, dan laporan mendokumentasikan kegagalan model.",
+      "vi": "Nghiên cứu về AI với giá trị và mục đích của con người, và báo cáo về thất bại của mô hình.",
+      "fr": "Recherche sur l'harmonisation de l'IA avec les valeurs et l'intention humaines, et rapports documentant les échecs du modèle.",
+      "es": "Investigación sobre alinear la IA con los valores humanos y la intención, e informes documentando fallas modelo.",
+      "de": "Forschung zur Ausrichtung von KI auf menschliche Werte und Absichten und Berichte zur Dokumentation von Modellfehlern.",
+      "zh-Hant": "研究AI與人類價值觀和意圖的相適應性,報告記錄了模型失敗."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 256 分 · 137 条评论",
+      "zh-Hant": "Hacker News 256 分 · 137 則留言",
+      "en": "256 points · 137 comments on Hacker News",
+      "ja": "Hacker News 256 ポイント · コメント 137 件",
+      "ko": "Hacker News 256점 · 댓글 137개",
+      "ms": "256 mata · 137 komen di Hacker News",
+      "vi": "256 điểm · 137 bình luận trên Hacker News",
+      "fr": "256 points · 137 commentaires sur Hacker News",
+      "es": "256 puntos · 137 comentarios en Hacker News",
+      "de": "256 Punkte · 137 Kommentare auf Hacker News"
+     },
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+     "src": "alignment.openai.com",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50381033",
+     "title": {
+      "zh-Hans": "我的心理物理学是双面人工耳蜗植入用户",
+      "zh-Hant": "我的心理物理學是雙面人工耳蝸植入使用者",
+      "en": "My psychophysics as a bilateral cochlear implant user",
+      "ja": "二国間コクレアインプラントのユーザーとしての私の心理学",
+      "ko": "내 정신 생리학은 양자간 코칼라 임플란트 사용자로서",
+      "ms": "Psikofisika saya sebagai pengguna implan koklear bilateral",
+      "vi": "Những nhà vật lý thần kinh học của tôi là một người dùng cấy ghép ốc tai hai bên",
+      "fr": "Ma psychophysique comme utilisateur d'implants cochléaires bilatéraux",
+      "es": "Mi psicofísica como usuario de implantes cocleares bilaterales",
+      "de": "Meine Psychophysik als bilateraler Cochlea-Implantat-Nutzer"
+     },
+     "summary": {
+      "en": "Try out Artifacts created by Claude users",
+      "zh-Hans": "尝试 Claude 用户创建的艺术",
+      "ja": "Claudeユーザーが作成したアーティファクトを試してみる",
+      "ko": "Claude 사용자가 만든 Artifacts를 사용해보십시오.",
+      "ms": "Coba coba keluar Artefak dibuat oleh pengguna Claude",
+      "vi": "Thử đồ tạo tác do người dùng Claude tạo",
+      "fr": "Essayez les artefacts créés par les utilisateurs de Claude",
+      "es": "Prueba Artifacts creados por los usuarios de Claude",
+      "de": "Probieren Sie Artefakte aus, die von Claude-Benutzern erstellt wurden",
+      "zh-Hant": "嘗試 Claude 使用者建立的藝術"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 146 分 · 43 条评论",
+      "zh-Hant": "Hacker News 146 分 · 43 則留言",
+      "en": "146 points · 43 comments on Hacker News",
+      "ja": "Hacker News 146 ポイント · コメント 43 件",
+      "ko": "Hacker News 146점 · 댓글 43개",
+      "ms": "146 mata · 43 komen di Hacker News",
+      "vi": "146 điểm · 43 bình luận trên Hacker News",
+      "fr": "146 points · 43 commentaires sur Hacker News",
+      "es": "146 puntos · 43 comentarios en Hacker News",
+      "de": "146 Punkte · 43 Kommentare auf Hacker News"
+     },
+     "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+     "src": "claude.ai",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50378228",
+     "title": {
+      "zh-Hans": "阴道",
+      "zh-Hant": "陰道",
+      "en": "sshole",
+      "ja": "ストール",
+      "ko": "뚱 베어",
+      "ms": "Bajingan",
+      "vi": "sshole",
+      "fr": "trou du cul",
+      "es": "Idiota",
+      "de": "sshole"
+     },
+     "summary": {
+      "en": "openssh on musl linux has been letting people into password-less accounts since 2016.",
+      "zh-Hans": "Mosl linux上的Opensh从2016年起就让人们进入了没有密码的账户.",
+      "ja": "musl linux のオープンシュは、2016 年以来、パスワードレスアカウントに人々 を許可しています。",
+      "ko": "musl linux에서 openssh는 2016년부터 암호가 없는 계정으로 사람들을 돕고 있습니다.",
+      "ms": "Oinsh pada musl linux telah membiarkan orang ke akun password-less sejak 2016.",
+      "vi": "mở đầu trên musl Linux đã cho phép mọi người vào các tài khoản không mật khẩu từ năm 2016.",
+      "fr": "opensh on Musl linux laisse les gens entrer dans des comptes sans mot de passe depuis 2016.",
+      "es": "openssh on musl linux has been allowing people into password-less accounts since 2016.",
+      "de": "openssh auf musl linux lässt seit 2016 menschen in passwortlose konten ein.",
+      "zh-Hant": "Mosl linux上的Opensh從2016年起就讓人們進入了沒有密碼的賬戶."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 2146 分 · 539 条评论",
+      "zh-Hant": "Hacker News 2146 分 · 539 則留言",
+      "en": "2146 points · 539 comments on Hacker News",
+      "ja": "Hacker News 2146 ポイント · コメント 539 件",
+      "ko": "Hacker News 2146점 · 댓글 539개",
+      "ms": "2146 mata · 539 komen di Hacker News",
+      "vi": "2146 điểm · 539 bình luận trên Hacker News",
+      "fr": "2146 points · 539 commentaires sur Hacker News",
+      "es": "2146 puntos · 539 comentarios en Hacker News",
+      "de": "2146 Punkte · 539 Kommentare auf Hacker News"
+     },
+     "url": "https://sshhole.com",
+     "src": "sshhole.com",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50377221",
+     "title": {
+      "zh-Hans": "OpenSSH 10.6p2 已发布,为关键脆弱性提供了工作环路",
+      "zh-Hant": "OpenSSH 10.6p2 已釋出,為關鍵脆弱性提供了工作環路",
+      "en": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "ja": "OpenSSH 10.6p2は、重要な脆弱性の回避策でリリースされました。",
+      "ko": "OpenSSH 10.6p2는 중요한 취약점에 대한 운동으로 출시되었습니다.",
+      "ms": "OpenSSH 10.6p2 telah dirilis dengan solusi untuk kerentanan kritis",
+      "vi": "OpenSSH 10.6p2 đã được phát hành với một nỗ lực để gây ra sự tổn thương nghiêm trọng",
+      "fr": "OpenSSH 10,6p2 a été libéré avec une solution de rechange pour une vulnérabilité critique",
+      "es": "OpenSSH 10.6p2 ha sido liberado con una solución para una vulnerabilidad crítica",
+      "de": "OpenSSH 10.6p2 wurde mit einem Workaround für eine kritische Schwachstelle veröffentlicht"
+     },
+     "summary": {
+      "en": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability. https://openssh.com/releasenotes.html#10.6p2 If you operate a Linux system that uses musl libc without PAM (Alpine…",
+      "zh-Hans": "OpenSSH 10.6p2已经发布,为极易受到伤害提供了工作环路。 https://openssh.com/releasenotes.html#10.6p2 (中文(简体) ). 如果您操作一个使用无 PAM (Alpine...) 的 musl libc 的 Linux 系统",
+      "ja": "OpenSSH 10.6p2は、重要な脆弱性の回避策でリリースされました。 https://openssh.com/releasenotes.html#10.6p2 PAM なしで musl libc を使用する Linux システムを動作させる場合 (Alpine...",
+      "ko": "OpenSSH 10.6p2는 중요한 취약점에 대한 운동으로 출시되었습니다. https://openssh.com/releasenotes.html#10.6p2 PAM없이 musl libc를 사용하는 Linux 시스템을 작동하면 (Alpine ...",
+      "ms": "OpenSSH 10.6p2 telah dirilis dengan solusi untuk kerentanan kritis. https://openssh.com/releasenotes.html#10.6p2 Jika Anda mengoperasikan sistem Linux yang menggunakan musl libc tanpa PAM (Alpine...",
+      "vi": "OpenSSH 10.6p2 đã được phát hành với một công việc xoay quanh cho một sự tổn thương nghiêm trọng. Tác giả: Nếu bạn sử dụng một hệ thống Linux sử dụng musl libc mà không có PAM (Alpine...",
+      "fr": "OpenSSH 10,6p2 a été libéré avec une solution de rechange pour une vulnérabilité critique. https://openssh.com/releasenotes.html#10.6p2 Si vous utilisez un système Linux qui utilise Musl libc sans PAM (Alpine...",
+      "es": "OpenSSH 10.6p2 ha sido liberado con una solución de trabajo para una vulnerabilidad crítica. https://openssh.com/releasenotes.html#10.6p2 Si usted opera un sistema Linux que utiliza libc musl sin PAM (Alpine...",
+      "de": "OpenSSH 10.6p2 wurde mit einem Workaround für eine kritische Schwachstelle veröffentlicht. https://openssh.com/releasenotes.html#10.6p2 Wenn Sie ein Linux-System betreiben, das musl libc ohne PAM (Alpine...)",
+      "zh-Hant": "OpenSSH 10.6p2已經發布,為極易受到傷害提供了工作環路。 https://openssh.com/releasenotes.html#10.6p2 (中文(簡體) ). 如果您操作一個使用無 PAM (Alpine...) 的 musl libc 的 Linux 系統"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 172 分 · 82 条评论",
+      "zh-Hant": "Hacker News 172 分 · 82 則留言",
+      "en": "172 points · 82 comments on Hacker News",
+      "ja": "Hacker News 172 ポイント · コメント 82 件",
+      "ko": "Hacker News 172점 · 댓글 82개",
+      "ms": "172 mata · 82 komen di Hacker News",
+      "vi": "172 điểm · 82 bình luận trên Hacker News",
+      "fr": "172 points · 82 commentaires sur Hacker News",
+      "es": "172 puntos · 82 comentarios en Hacker News",
+      "de": "172 Punkte · 82 Kommentare auf Hacker News"
+     },
+     "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+     "src": "hachyderm.io",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50380704",
+     "title": {
+      "zh-Hans": "Stroq – 本地审计您的编码代理机构所做的以及原因",
+      "zh-Hant": "Stroq – 本地審計您的編碼代理機構所做的以及原因",
+      "en": "Stroq – a local audit of what your coding agent did and why",
+      "ja": "Stroq - コーディングエージェントが何をしたのか、なぜローカル監査",
+      "ko": "Stroq – 코딩 에이전트가 왜했는지의 현지 감사",
+      "ms": "Stroq – audit lokal atas apa yang agen coding Anda lakukan dan mengapa",
+      "vi": "Stroq — kiểm toán địa phương về những gì điệp viên mã hóa của bạn đã làm và tại sao",
+      "fr": "Stroq – un audit local de ce que votre agent de codage a fait et pourquoi",
+      "es": "Stroq – una auditoría local de lo que hizo su agente de codificación y por qué",
+      "de": "Stroq – ein lokales Audit, was Ihr Codier-Agent getan hat und warum"
+     },
+     "summary": {
+      "en": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them.",
+      "zh-Hans": "在您的 AI 编码代理会话( Claude Code, Codex, Cursor) 中查找已知的机密, 然后用本地的钩子来追踪给它们指令的内容 。",
+      "ja": "AI コーディングエージェントセッション(Claude Code, Codex, Cursor)の既知の秘密を見つけ、指示されたコンテンツに危険なコマンドをトレースするローカルのホックで次の1をガードします。",
+      "ko": "AI 코딩 에이전트 세션 (Claude Code, Codex, Cursor)에서 알려진 비밀을 발견 한 다음 위험을 추적하는 로컬 후크와 함께 다음 하나가 해당 콘텐츠를 추적.",
+      "ms": "Cari rahasia yang diketahui dalam sesi agen coding AI Anda (Claude Code, Codex, Cursor), kemudian jaga yang berikutnya dengan hook lokal yang melacak perintah berisiko ke konten yang mendikte mereka.",
+      "vi": "Tìm những bí mật được biết trong phiên họp mã hóa AI (Claude Code, Codex, Con trỏ), sau đó bảo vệ những bí mật tiếp theo với những cái móc có dấu hiệu nguy hiểm theo nội dung của chúng.",
+      "fr": "Trouvez des secrets connus dans vos sessions d'agents de codage AI (Claude Code, Codex, Cursor), puis gardez le prochain avec des crochets locaux qui tracent des commandes risquées au contenu qui les dictait.",
+      "es": "Encuentre secretos conocidos en sus sesiones de agentes de codificación de IA (Código de Claude, Codex, Cursor), a continuación, guarde el siguiente con ganchos locales que rastrean comandos arriesgados al contenido que los dicta.",
+      "de": "Finden Sie bekannte Geheimnisse in Ihren AI-Codierungsagentensitzungen (Claude Code, Codex, Cursor), und schützen Sie die nächste mit lokalen Hooks, die riskante Befehle auf den Inhalt zurückführen, der sie diktiert hat.",
+      "zh-Hant": "在您的 AI 編碼代理會話( Claude Code, Codex, Cursor) 中查詢已知的機密, 然後用本地的鉤子來追蹤給它們指令的內容 。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 53 分 · 11 条评论",
+      "zh-Hant": "Hacker News 53 分 · 11 則留言",
+      "en": "53 points · 11 comments on Hacker News",
+      "ja": "Hacker News 53 ポイント · コメント 11 件",
+      "ko": "Hacker News 53점 · 댓글 11개",
+      "ms": "53 mata · 11 komen di Hacker News",
+      "vi": "53 điểm · 11 bình luận trên Hacker News",
+      "fr": "53 points · 11 commentaires sur Hacker News",
+      "es": "53 puntos · 11 comentarios en Hacker News",
+      "de": "53 Punkte · 11 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/AGGIB/Stroq",
+     "src": "github.com",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50368208",
+     "title": {
+      "zh-Hans": "为 ~ 20K (Apache 2. 0 重量) 训练的正版文本到图像模型",
+      "zh-Hant": "為 ~ 20K (Apache 2. 0 重量) 訓練的正版文字到影象模型",
+      "en": "A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "ja": "~$20K (Apache 2.0 重量) で訓練されたまともなテキスト画像モデル",
+      "ko": "~ $ 20K (Apache 2.0 Weights)를 위해 훈련되는 decent text-to-image 모델",
+      "ms": "Model teks-ke-gambar yang layak dilatih untuk ~$20K (Apache 2.0 Berat)",
+      "vi": "Một mô hình văn bản sang hình ảnh tử tế được đào tạo cho ~ 20K (Apache 2.0 Wights)",
+      "fr": "Un modèle de texte à image décent formé pour ~20K$ (Apache 2.0 Poids)",
+      "es": "Un modelo decente de texto a imagen entrenado para ~$20K (Apache 2.0 Pesos)",
+      "de": "Ein anständiges Text-zu-Bild-Modell, das für ~ $ 20K trainiert wurde (Apache 2.0 Weights)"
+     },
+     "summary": {
+      "en": "For us, this $21K training run is a proof-of-concept along the way to our next video model. We were surprised by how good the results looked given the size of the model, so we thought we'd share it…",
+      "zh-Hans": "对我们来说,这2千1千元的训练 是一个概念的证明 沿着我们的下一个视频模型。 我们很惊讶从模型的大小来看结果有多好 所以我们想分享一下...",
+      "ja": "私たちのために、この$ 21Kのトレーニングランは、次のビデオモデルへの道に沿って実証されています。 結果がモデルの大きさで見られたのは、驚いたので、それを分かち合ってみると...",
+      "ko": "우리를 위해,이 $ 21K 훈련 실행은 우리의 다음 비디오 모델에 대한 방법을 따라 증거의 합의입니다. 우리는 좋은 결과가 모델의 크기를 주었는지에 의해 놀랐다, 그래서 우리는 우리가 그것을 공유 생각 ...",
+      "ms": "Bagi kami, pelatihan $ 21K ini adalah bukti-dari-concept sepanjang perjalanan ke model video kami berikutnya. Kami terkejut dengan betapa bagusnya hasil yang diberikan ukuran model, jadi kami pikir kami akan berbagi...",
+      "vi": "Đối với chúng tôi, chương trình huấn luyện 21K này là một bằng chứng của sự đối lập trên con đường tới mô hình video tiếp theo của chúng tôi. Chúng tôi ngạc nhiên vì kết quả có vẻ tốt so với kích thước của mô hình, nên chúng tôi nghĩ sẽ chia sẻ nó...",
+      "fr": "Pour nous, cette course d'entraînement de 21K$ est une preuve de concept sur le chemin de notre prochain modèle vidéo. Nous avons été surpris par la qualité des résultats vu la taille du modèle, donc nous avons pensé le partager...",
+      "es": "Para nosotros, esta carrera de entrenamiento de $21K es una prueba de concepto en el camino a nuestro próximo modelo de vídeo. Nos sorprendió lo bueno que parecían los resultados dado el tamaño del modelo, así que pensamos que lo compartiríamos...",
+      "de": "Für uns ist dieser $21K-Trainingslauf ein Proof-of-Concept auf dem Weg zu unserem nächsten Videomodell. Wir waren überrascht, wie gut die Ergebnisse angesichts der Größe des Modells aussahen, also dachten wir, wir würden es teilen ...",
+      "zh-Hant": "對我們來說,這2千1千元的訓練 是一個概念的證明 沿著我們的下一個影片模型。 我們很驚訝從模型的大小來看結果有多好 所以我們想分享一下..."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 113 分 · 12 条评论",
+      "zh-Hant": "Hacker News 113 分 · 12 則留言",
+      "en": "113 points · 12 comments on Hacker News",
+      "ja": "Hacker News 113 ポイント · コメント 12 件",
+      "ko": "Hacker News 113점 · 댓글 12개",
+      "ms": "113 mata · 12 komen di Hacker News",
+      "vi": "113 điểm · 12 bình luận trên Hacker News",
+      "fr": "113 points · 12 commentaires sur Hacker News",
+      "es": "113 puntos · 12 comentarios en Hacker News",
+      "de": "113 Punkte · 12 Kommentare auf Hacker News"
+     },
+     "url": "https://www.linum.ai/field-notes/pjit-21k",
+     "src": "linum.ai",
+     "date": "2026-11-04",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50383740",
+     "title": {
+      "zh-Hans": "嘉木寻人",
+      "zh-Hant": "嘉木尋人",
+      "en": "Kagi Search for Everyone",
+      "ja": "かぎがみんなの検索",
+      "ko": "Kagi 모든 것",
+      "ms": "Cari Semua Orang",
+      "vi": "Tìm kiếm tất cả mọi người",
+      "fr": "Kagi Rechercher tout le monde",
+      "es": "Kagi Buscar para todos",
+      "de": "Kagi Suche für alle"
+     },
+     "summary": {
+      "en": "Better search results with no ads. Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power back to the user.",
+      "zh-Hans": "没有广告的搜索结果更好 欢迎来到Kagi( 已发售的 kah- gee),",
+      "ja": "広告無しでより良い検索結果。 カギ(kah-gee)へようこそ。ユーザーに電力を戻す有料検索エンジンです。",
+      "ko": "광고 없이 더 나은 검색 결과. Kagi (pronounced kah-gee)에 오신 것을 환영합니다, 사용자가 다시 전원을 제공하는 유료 검색 엔진.",
+      "ms": "Hasil pencarian yang lebih baik tanpa iklan. Selamat Datang Kagi (diucapkan kah-gee), mesin pencari berbayar yang memberikan daya kembali ke pengguna.",
+      "vi": "Tốt hơn nên tìm kiếm kết quả mà không cần quảng cáo. Chào mừng bạn đến Kagi (pronounced koh-ge), một công cụ tìm kiếm được trả tiền cung cấp điện năng cho người dùng.",
+      "fr": "Meilleurs résultats de recherche sans publicité. Bienvenue à Kagi (prononcé kah-gee), un moteur de recherche payé qui rend la puissance à l'utilisateur.",
+      "es": "Mejor resultados de búsqueda sin anuncios. Bienvenido a Kagi (pronunciado kah-gee), un motor de búsqueda pagado que da energía de vuelta al usuario.",
+      "de": "Bessere Suchergebnisse ohne Werbung. Willkommen bei Kagi (ausgesprochen kah-gee), einer bezahlten Suchmaschine, die dem Benutzer die Macht zurückgibt.",
+      "zh-Hant": "沒有廣告的搜尋結果更好 歡迎來到Kagi( 已發售的 kah- gee),"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 254 分 · 127 条评论",
+      "zh-Hant": "Hacker News 254 分 · 127 則留言",
+      "en": "254 points · 127 comments on Hacker News",
+      "ja": "Hacker News 254 ポイント · コメント 127 件",
+      "ko": "Hacker News 254점 · 댓글 127개",
+      "ms": "254 mata · 127 komen di Hacker News",
+      "vi": "254 điểm · 127 bình luận trên Hacker News",
+      "fr": "254 points · 127 commentaires sur Hacker News",
+      "es": "254 puntos · 127 comentarios en Hacker News",
+      "de": "254 Punkte · 127 Kommentare auf Hacker News"
+     },
+     "url": "https://kagi.com/changelog",
+     "src": "kagi.com",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50383739",
+     "title": {
+      "zh-Hans": "沙龙的再见",
+      "zh-Hant": "沙龍的再見",
+      "en": "Goodbye from Salon",
+      "ja": "サロンからのGoodbye",
+      "ko": "Goodbye 부터 살롱",
+      "ms": "Selamat tinggal dari Salon",
+      "vi": "Tạm biệt Salon",
+      "fr": "Au revoir de Salon",
+      "es": "Adiós a Salon",
+      "de": "Abschied vom Salon"
+     },
+     "summary": {
+      "en": "Today, after 31 years, we are saddened to announce that Salon is ceasing publication.",
+      "zh-Hans": "今天,在31年后,我们悲痛地宣布,沙龙正在停止出版。",
+      "ja": "今日は31年経っても、サロンが出版を待たせてくださったことをお知らせします。",
+      "ko": "오늘, 31 년 후에, 우리는 그 살롱이 간행물이라고 발표하게 슬픈.",
+      "ms": "Hari ini, setelah 31 tahun, kami merasa sedih untuk mengumumkan bahwa Salon sedang menyita publikasi.",
+      "vi": "Ngày nay, sau 31 năm, chúng tôi rất buồn khi thông báo rằng Sa - lô - môn không còn ấn hành nữa.",
+      "fr": "Aujourd'hui, après 31 ans, nous sommes attristés d'annoncer que Salon cesse de paraître.",
+      "es": "Hoy, después de 31 años, estamos tristes de anunciar que Salon está cesando la publicación.",
+      "de": "Heute, nach 31 Jahren, sind wir traurig zu verkünden, dass Salon die Veröffentlichung einstellt.",
+      "zh-Hant": "今天,在31年後,我們悲痛地宣佈,沙龍正在停止出版。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 265 分 · 96 条评论",
+      "zh-Hant": "Hacker News 265 分 · 96 則留言",
+      "en": "265 points · 96 comments on Hacker News",
+      "ja": "Hacker News 265 ポイント · コメント 96 件",
+      "ko": "Hacker News 265점 · 댓글 96개",
+      "ms": "265 mata · 96 komen di Hacker News",
+      "vi": "265 điểm · 96 bình luận trên Hacker News",
+      "fr": "265 points · 96 commentaires sur Hacker News",
+      "es": "265 puntos · 96 comentarios en Hacker News",
+      "de": "265 Punkte · 96 Kommentare auf Hacker News"
+     },
+     "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+     "src": "salon.com",
+     "date": "2026-11-05",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1445802355",
+     "title": {
+      "zh-Hans": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "zh-Hant": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "en": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "ja": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "ko": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "ms": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "vi": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "fr": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "es": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "de": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+     },
+     "summary": {
+      "en": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "zh-Hans": "Google AI Pro 2 Year 零成本 Auto",
+      "ja": "Google AI Pro 2年 ゼロコスト オート",
+      "ko": "Google AI Pro 2년 ZeroCost Auto",
+      "ms": "Wazine Google AI AI Pro 2 Tahun ZeroCost Auto",
+      "vi": "Google  AI Pro  2Year ZeroCost  Cost",
+      "fr": "Google AI Pro 2Année ZeroCost Auto",
+      "es": "Google AI Pro 2Year ZeroCost Auto",
+      "de": "Google AI Pro 2Year ZeroCost Auto",
+      "zh-Hant": "Google AI Pro 2 Year 零成本 Auto"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 2,266 星",
+      "zh-Hant": "GitHub 2,266 星",
+      "en": "2,266 stars on GitHub",
+      "ja": "GitHub スター 2,266",
+      "ko": "GitHub 스타 2,266개",
+      "ms": "2,266 bintang di GitHub",
+      "vi": "2,266 sao trên GitHub",
+      "fr": "2,266 étoiles sur GitHub",
+      "es": "2,266 estrellas en GitHub",
+      "de": "2,266 Sterne auf GitHub"
+     },
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "src": "github.com",
+     "date": "2026-11-04",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-05",
    "path": "digest/2026-11-05/",
