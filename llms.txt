@@ -1,0 +1,27 @@
+# OPC Radar
+> OPC Radar is a free opportunity radar for one-person companies (OPC), indie developers, designers and cross-border sellers. It collects AI tools, GitHub repos, new products, news, deals and ideas from public sources (Hacker News, GitHub, Hugging Face, DEV, Lobsters and a curated list), translates them into 10 languages and refreshes automatically. Currently 894 items.
+
+- Site: https://siinxu.github.io/ai-opportunity-hub/
+- Data (JSON): https://siinxu.github.io/ai-opportunity-hub/data/items.json
+- Languages: zh-Hans, zh-Hant, en, ja, ko, ms, vi, fr, es, de (append ?lang=<code>)
+- Publisher: Incidental AI (https://incidental.site/)
+- Full list: https://siinxu.github.io/ai-opportunity-hub/llms-full.txt
+- Updated: 2026-11-07T15:22:54Z
+
+## Latest daily digests
+- [OPC Radar Daily Digest · 2026-11-07 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-07/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-06 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-06/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-06: the hottest of the 60 signals OPC Radar picked up since the previous issue.
+- [OPC Radar Daily Digest · 2026-11-05 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-05/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-05: the hottest of the 59 signals OPC Radar picked up since the previous issue.
+- [OPC Radar Daily Digest · 2026-11-04 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-04/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-04: the hottest of the 56 signals OPC Radar picked up since the previous issue.
+- [OPC Radar Daily Digest · 2026-11-03 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-03/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-03: the hottest of the 55 signals OPC Radar picked up since the previous issue.
+- [OPC Radar Daily Digest · 2026-11-02 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-02/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-02: the hottest of the 37 signals OPC Radar picked up since the previous issue.
+- [OPC Radar Daily Digest · 2026-11-01 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-01/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-01: the hottest of the 55 signals OPC Radar picked up since the previous issue.
+- [All daily digests](https://siinxu.github.io/ai-opportunity-hub/digest/)
+
+## Channels
+- [AI](https://siinxu.github.io/ai-opportunity-hub/channel/ai/): 230 items
+- [GitHub repos](https://siinxu.github.io/ai-opportunity-hub/channel/repos/): 219 items
+- [New products](https://siinxu.github.io/ai-opportunity-hub/channel/products/): 91 items
+- [News](https://siinxu.github.io/ai-opportunity-hub/channel/news/): 118 items
+- [Deals](https://siinxu.github.io/ai-opportunity-hub/channel/deals/): 153 items
+- [Ideas](https://siinxu.github.io/ai-opportunity-hub/channel/ideas/): 83 items
