@@ -1,6 +1,254 @@
 {
- "latest": "2026-11-06",
+ "latest": "2026-11-07",
  "digests": [
+  {
+   "date": "2026-11-07",
+   "path": "digest/2026-11-07/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-07",
+    "en": "Morning tech digest · 2026-11-07",
+    "zh-Hant": "早間技術熱點 · 2026-11-07"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "特斯拉将逐步停产 Cybertruck",
+      "en": "Tesla to wind down Cybertruck production",
+      "zh-Hant": "特斯拉將逐步停產 Cybertruck"
+     },
+     "summary": {
+      "zh-Hans": "NBC 报道因多年销量不佳，Cybertruck 产线将收束；HN 约 805 分、1643 条评论。",
+      "en": "NBC reports Tesla will wind down Cybertruck production after years of weak sales; ~805 points and 1643 comments on HN.",
+      "zh-Hant": "NBC 報道因多年銷量不佳，Cybertruck 產線將收束；HN 約 805 分、1643 條評論。"
+     },
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50391456"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic IPO：买方估值预期压低至约 1.1T",
+      "en": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "zh-Hant": "Anthropic IPO：買方估值預期壓低至約 1.1T"
+     },
+     "summary": {
+      "zh-Hans": "AI 板块回调下 Bloomberg 称 IPO 买家对估值预期承压；HN 约 205 分、460 条评论。",
+      "en": "Bloomberg says IPO buyer valuation expectations are pressured after an AI rout; ~205 points and 460 comments on HN.",
+      "zh-Hant": "AI 板塊回調下 Bloomberg 稱 IPO 買家對估值預期承壓；HN 約 205 分、460 條評論。"
+     },
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50394906"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Gemini Omni 1.2 Flash：原生 15 秒视频、多轮改片，价格再降 30%",
+      "en": "Gemini Omni 1.2 Flash: 15-second video, multi-turn edits, 30% cheaper",
+      "zh-Hant": "Gemini Omni 1.2 Flash：原生 15 秒視頻、多輪改片，價格再降 30%"
+     },
+     "summary": {
+      "zh-Hans": "Google DeepMind 宣布 GA，支持 3–15 秒按时长生成与参考一致性增强；720p 约 $0.07/秒。",
+      "en": "Google DeepMind ships GA with native 3–15s clips, stronger reference adherence, and ~$0.07/sec at 720p.",
+      "zh-Hant": "Google DeepMind 宣佈 GA，支持 3–15 秒按時長生成與參考一致性增強；720p 約 $0.07/秒。"
+     },
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50392118"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "能向 Opus 求助的「Jev」裁判：成本约 1/4、精度对齐",
+      "en": "A Jev that can ask Opus for help: Opus accuracy at ~4x lower cost",
+      "zh-Hant": "能向 Opus 求助的「Jev」裁判：成本約 1/4、精度對齊"
+     },
+     "summary": {
+      "zh-Hans": "HighTouch 用小模型做主裁判、必要时升级到 Opus，做身份解析等评判；HN 约 287 分。",
+      "en": "HighTouch routes LLM judges: a small model by default, escalate to Opus when needed; ~287 points on HN.",
+      "zh-Hant": "HighTouch 用小模型做主裁判、必要時升級到 Opus，做身份解析等評判；HN 約 287 分。"
+     },
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50397429"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "美国 FAA：2028 年前淘汰空管系统软盘",
+      "en": "US FAA will phase out floppy disks from air traffic control by 2028",
+      "zh-Hant": "美國 FAA：2028 年前淘汰空管系統軟盤"
+     },
+     "summary": {
+      "zh-Hans": "Reuters 报道空中交通管制仍依赖软盘，计划分阶段替换；HN 约 261 分、207 条评论。",
+      "en": "Reuters: FAA plans to retire floppy disks from ATC systems by 2028; ~261 points and 207 comments on HN.",
+      "zh-Hant": "Reuters 報道空中交通管制仍依賴軟盤，計劃分階段替換；HN 約 261 分、207 條評論。"
+     },
+     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50388001"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Firecracker VM Escape：PwnEscape Part 2",
+      "en": "Firecracker VM Escape: PwnEscape Part 2",
+      "zh-Hant": "Firecracker VM Escape：PwnEscape Part 2"
+     },
+     "summary": {
+      "zh-Hans": "针对 AWS Firecracker 的逃逸研究续篇上榜，容器/微 VM 隔离再被点名；HN 约 148 分。",
+      "en": "Follow-up escape research against AWS Firecracker; micro-VM isolation under scrutiny again; ~148 points on HN.",
+      "zh-Hant": "針對 AWS Firecracker 的逃逸研究續篇上榜，容器/微 VM 隔離再被點名；HN 約 148 分。"
+     },
+     "url": "https://pwn.ai/blog/firecracker-escape",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50397219"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Rune：原生 GPU 渲染的 Rust UI 框架（macOS / Windows / Linux / Web）",
+      "en": "Rune: a native GPU-rendered Rust UI framework for desktop and web",
+      "zh-Hant": "Rune：原生 GPU 渲染的 Rust UI 框架（macOS / Windows / Linux / Web）"
+     },
+     "summary": {
+      "zh-Hans": "anomalyco 开源跨端 UI 框架，HN 约 144 分、103 条评论。",
+      "en": "anomalyco open-sources a GPU-rendered Rust UI framework; ~144 points and 103 comments on HN.",
+      "zh-Hant": "anomalyco 開源跨端 UI 框架，HN 約 144 分、103 條評論。"
+     },
+     "url": "https://github.com/anomalyco/rune",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50394569"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "X 上 Claude Code / Opus 5.5 harness 连爆",
+      "en": "Claude Code / Opus 5.5 harness chatter keeps boiling on X",
+      "zh-Hant": "X 上 Claude Code / Opus 5.5 harness 連爆"
+     },
+     "summary": {
+      "zh-Hans": "社区分享多 agent 教程、长程 harness、Duet 手机接管，以及邮箱 header 泄露临时修复；另有发版观望帖。",
+      "en": "Threads on multi-agent tutorials, long-running harnesses, Duet mobile session control, and a temporary privacy-header fix; release watch chatter too.",
+      "zh-Hant": "社區分享多 agent 教程、長程 harness、Duet 手機接管，以及郵箱 header 泄露臨時修復；另有發版觀望帖。"
+     },
+     "url": "https://x.com/i/trending/2118812904648794590",
+     "extra": [
+      "https://x.com/i/trending/2118833479668400385",
+      "https://x.com/i/trending/2118844626979148126"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "LLM-as-judge 成本分层 — 照着 HighTouch「小模型主审 + Opus 升级」模式，给垂直任务做可开关裁判路由。",
+     "微 VM / 沙箱安全对照 — Firecracker 逃逸 + Replit microVM 同日上榜，可做 coding agent 隔离方案对照页。",
+     "15 秒视频工作流产品 — Omni 1.2 Flash 降价 + 多轮改片，封装「商品图 → 广告变体」一键流水线。",
+     "Claude Code harness / skills 打包 — Opus 5.5 harness 与 Duet 手机接管同热，做可安装 skills/角色包目录。",
+     "连接器 / MCP 权限审计 — ChatGPT 连接器静默串数据 + Claude 邮箱 header 余波，做「会外泄什么、怎么关」对照表。"
+    ],
+    "en": [
+     "Cost-tiered LLM-as-judge routing — small model by default, escalate to Opus for vertical QA tasks.",
+     "Micro-VM / sandbox security compare — Firecracker escape + Replit microVMs; ship an agent isolation checklist.",
+     "15-second video workflows — Omni 1.2 Flash price cut + multi-turn edits for product-to-ad variant pipelines.",
+     "Claude Code harness / skills packs — Opus 5.5 harness + Duet mobile control demand installable skill directories.",
+     "Connector / MCP permission audits — silent cross-connector data moves and email-header leaks still need a kill-switch map."
+    ],
+    "zh-Hant": [
+     "LLM-as-judge 成本分層 — 照着 HighTouch「小模型主審 + Opus 升級」模式，給垂直任務做可開關裁判路由。",
+     "微 VM / 沙箱安全對照 — Firecracker 逃逸 + Replit microVM 同日上榜，可做 coding agent 隔離方案對照頁。",
+     "15 秒視頻工作流產品 — Omni 1.2 Flash 降價 + 多輪改片，封裝「商品圖 → 廣告變體」一鍵流水線。",
+     "Claude Code harness / skills 打包 — Opus 5.5 harness 與 Duet 手機接管同熱，做可安裝 skills/角色包目錄。",
+     "連接器 / MCP 權限審計 — ChatGPT 連接器靜默串數據 + Claude 郵箱 header 餘波，做「會外泄什麼、怎麼關」對照表。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "cloudflare/security-audit-skill",
+      "en": "cloudflare/security-audit-skill",
+      "zh-Hant": "cloudflare/security-audit-skill"
+     },
+     "summary": {
+      "zh-Hans": "Cloudflare 安全审计 skill（Trending 今日约 2548 星增量）。",
+      "en": "Cloudflare security-audit skill (~2548 stars today on Trending).",
+      "zh-Hant": "Cloudflare 安全審計 skill（Trending 今日約 2548 星增量）。"
+     },
+     "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+     "title": {
+      "zh-Hans": "mattpocock/skills",
+      "en": "mattpocock/skills",
+      "zh-Hant": "mattpocock/skills"
+     },
+     "summary": {
+      "zh-Hans": "Matt Pocock 公开的 agent skills 合集（今日约 2070 星增量）。",
+      "en": "Matt Pocock’s public agent skills collection (~2070 stars today).",
+      "zh-Hant": "Matt Pocock 公開的 agent skills 合集（今日約 2070 星增量）。"
+     },
+     "url": "https://github.com/mattpocock/skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "NVIDIA/auto-ontology",
+      "en": "NVIDIA/auto-ontology",
+      "zh-Hant": "NVIDIA/auto-ontology"
+     },
+     "summary": {
+      "zh-Hans": "给数据加语义图推理层（今日约 2015 星增量）。",
+      "en": "Semantic graph reasoning layer for data (~2015 stars today).",
+      "zh-Hant": "給數據加語義圖推理層（今日約 2015 星增量）。"
+     },
+     "url": "https://github.com/NVIDIA/auto-ontology"
+    },
+    {
+     "title": {
+      "zh-Hans": "google/skills",
+      "en": "google/skills",
+      "zh-Hant": "google/skills"
+     },
+     "summary": {
+      "zh-Hans": "Google 产品与技术相关 Agent Skills（今日约 534 星增量）。",
+      "en": "Google product/tech Agent Skills (~534 stars today).",
+      "zh-Hant": "Google 產品與技術相關 Agent Skills（今日約 534 星增量）。"
+     },
+     "url": "https://github.com/google/skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "anomalyco/rune",
+      "en": "anomalyco/rune",
+      "zh-Hant": "anomalyco/rune"
+     },
+     "summary": {
+      "zh-Hans": "原生 GPU 渲染的 Rust 跨端 UI 框架（HN 今日热帖）。",
+      "en": "Native GPU-rendered Rust UI framework (hot on HN today).",
+      "zh-Hant": "原生 GPU 渲染的 Rust 跨端 UI 框架（HN 今日熱帖）。"
+     },
+     "url": "https://github.com/anomalyco/rune"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Copilot in Slack/Teams GA",
+      "en": "GitHub Changelog · Copilot in Slack/Teams GA",
+      "zh-Hant": "GitHub Changelog · Copilot in Slack/Teams GA"
+     },
+     "summary": {
+      "zh-Hans": "Copilot 在 Slack / Teams 正式 GA，另有 impact dashboard 与周更。",
+      "en": "Copilot in Slack/Teams is GA; impact dashboard and weekly releases also landed.",
+      "zh-Hant": "Copilot 在 Slack / Teams 正式 GA，另有 impact dashboard 與周更。"
+     },
+     "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available"
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "path": "digest/2026-11-06/",
