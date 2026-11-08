@@ -1,6 +1,282 @@
 {
- "latest": "2026-11-07",
+ "latest": "2026-11-08",
  "digests": [
+  {
+   "date": "2026-11-08",
+   "path": "digest/2026-11-08/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-08",
+    "en": "Morning tech digest · 2026-11-08",
+    "zh-Hant": "早間技術熱點 · 2026-11-08"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "每台 Mac 都自带未公开的「家庭成员分类器」",
+      "en": "Every Mac ships an undocumented family-member classifier",
+      "zh-Hant": "每臺 Mac 都自帶未公開的「家庭成員分類器」"
+     },
+     "summary": {
+      "zh-Hans": "8rank 拆解 macOS 13 起的 knowledgeconstructiond / intelligenceplatformd：在设备上交叉通讯录、日历、相册与信息等，用 XGBoost 从 144 个特征推断亲属关系，并开源本机仪表盘 iKnow；HN 约 574 分、330 条评论。",
+      "en": "8rank dissects knowledgeconstructiond / intelligenceplatformd since macOS 13: on-device graph from Contacts, Calendar, Photos and Messages, with XGBoost kinship scores over 144 features, plus an open-source iKnow dashboard; ~574 points and 330 comments on HN.",
+      "zh-Hant": "8rank 拆解 macOS 13 起的 knowledgeconstructiond / intelligenceplatformd：在設備上交叉通訊錄、日曆、相冊與信息等，用 XGBoost 從 144 個特徵推斷親屬關係，並開源本機儀表盤 iKnow；HN 約 574 分、330 條評論。"
+     },
+     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50403097"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软研究院 AI Frontiers 小组结束",
+      "en": "The end of Microsoft Research's AI Frontiers group",
+      "zh-Hant": "微軟研究院 AI Frontiers 小組結束"
+     },
+     "summary": {
+      "zh-Hans": "John Langford 撰文：约 50 人的 AIF（做过 AutoGen、Fara 等）在 9 月被并入 Microsoft AI 后，与「只做 scaling、不做研究」的路线冲突，创始领导层陆续离开；HN 约 332 分、194 条评论。",
+      "en": "John Langford writes that the ~50-person AIF group (AutoGen, Fara and others), reorged into Microsoft AI in September, clashed with a scaling-only, not-research philosophy; founding leadership has left; ~332 points and 194 comments on HN.",
+      "zh-Hant": "John Langford 撰文：約 50 人的 AIF（做過 AutoGen、Fara 等）在 9 月被併入 Microsoft AI 後，與「只做 scaling、不做研究」的路線衝突，創始領導層陸續離開；HN 約 332 分、194 條評論。"
+     },
+     "url": "https://hunch.net/?p=13764006",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50406563"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Asahi Linux：Linux 7.3 进展，M3 正式 GA",
+      "en": "Asahi Linux progress report: Linux 7.3, M3 now generally available",
+      "zh-Hant": "Asahi Linux：Linux 7.3 進展，M3 正式 GA"
+     },
+     "summary": {
+      "zh-Hans": "M3 不再需要 EXPERT 旗标；Thunderbolt 补丁已提交上游（暂不支持 PCIe / DisplayPort 隧道）；M3 GPU 已能画出三角形；Fedora Asahi Remix 与 Fedora 45 同日发布，仓库改用 GPLv2+；HN 约 304 分、252 条评论。",
+      "en": "M3 support leaves the EXPERT flag; Thunderbolt patches are upstream (no PCIe/DisplayPort tunneling yet); the M3 GPU drew a triangle; Fedora Asahi Remix shipped the same day as Fedora 45, and repos are moving to GPLv2+; ~304 points and 252 comments on HN.",
+      "zh-Hant": "M3 不再需要 EXPERT 旗標；Thunderbolt 補丁已提交上游（暫不支持 PCIe / DisplayPort 隧道）；M3 GPU 已能畫出三角形；Fedora Asahi Remix 與 Fedora 45 同日發佈，倉庫改用 GPLv2+；HN 約 304 分、252 條評論。"
+     },
+     "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50401867"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Discord 丢掉 Electron：启动更快，双账号大约少占 70% 内存",
+      "en": "Discord dropped Electron on Windows 11 and cut RAM by about 70%",
+      "zh-Hant": "Discord 丟掉 Electron：啓動更快，雙賬號大約少佔 70% 內存"
+     },
+     "summary": {
+      "zh-Hans": "Windows Latest 称 Discord 的 Rust 客户端在 Electron 版还在加载时就已打开，跳过 Starting 画面，双账号登录时约占 290MB 内存；HN 约 192 分、192 条评论。",
+      "en": "Windows Latest says Discord’s Rust client opens before the Electron app finishes loading, skips the Starting screen, and uses about 290MB of RAM with two accounts signed in; ~192 points and 192 comments on HN.",
+      "zh-Hant": "Windows Latest 稱 Discord 的 Rust 客戶端在 Electron 版還在加載時就已打開，跳過 Starting 畫面，雙賬號登錄時約佔 290MB 內存；HN 約 192 分、192 條評論。"
+     },
+     "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50403507"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic：Agent Memory 的构件，以及用 dreaming 纠错",
+      "en": "Anthropic: the components of agent memory, and dreaming to correct it",
+      "zh-Hant": "Anthropic：Agent Memory 的構件，以及用 dreaming 糾錯"
+     },
+     "summary": {
+      "zh-Hans": "工程博文把记忆拆成笔记、wiki 与注入上下文；空闲时对照会话记录纠错（宝可梦走错路）、建知识地图，并上浮到下一次会话。X 同步讨论这篇「dreaming」文；HN 约 148 分、73 条评论。",
+      "en": "An engineering post splits memory into notes, wikis and injected context; idle-time “dreaming” checks notes against transcripts (a Pokémon wrong-turn example), builds wikis, and promotes items into the next session; ~148 points and 73 comments on HN, with matching discussion on X.",
+      "zh-Hant": "工程博文把記憶拆成筆記、wiki 與注入上下文；空閒時對照會話記錄糾錯（寶可夢走錯路）、建知識地圖，並上浮到下一次會話。X 同步討論這篇「dreaming」文；HN 約 148 分、73 條評論。"
+     },
+     "url": "https://www.anthropic.com/research/components-of-agent-memory",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50402212",
+      "https://x.com/i/trending/2119142817997996106"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "MaxxBench：DeepSWE 高分，换个小需求就不灵了",
+      "en": "MaxxBench: a high DeepSWE score may not survive a small requirement change",
+      "zh-Hant": "MaxxBench：DeepSWE 高分，換個小需求就不靈了"
+     },
+     "summary": {
+      "zh-Hans": "对 89 个 DeepSWE 任务做细小改动后，原先挤在约 74% 的模型散开：Claude Opus 5.5 从 74.2% 到 76.4%，Gemini 3.8 Flash 从 73.8% 掉到 53.4%；不少模型猜隐藏测试而不跟新要求；HN 约 176 分、55 条评论。",
+      "en": "After small mutations to 89 DeepSWE tasks, models that clustered near 74% spread out: Claude Opus 5.5 went 74.2% to 76.4%, Gemini 3.8 Flash 73.8% to 53.4%; many agents second-guessed hidden tests instead of following the new prompt; ~176 points and 55 comments on HN.",
+      "zh-Hant": "對 89 個 DeepSWE 任務做細小改動後，原先擠在約 74% 的模型散開：Claude Opus 5.5 從 74.2% 到 76.4%，Gemini 3.8 Flash 從 73.8% 掉到 53.4%；不少模型猜隱藏測試而不跟新要求；HN 約 176 分、55 條評論。"
+     },
+     "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50406222"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Claude Code 的「Don't Ask Again」把密码写进 1,122 个公开 GitHub 文件",
+      "en": "Claude Code’s “Don’t Ask Again” left secrets in 1,122 public GitHub files",
+      "zh-Hant": "Claude Code 的「Don't Ask Again」把密碼寫進 1,122 個公開 GitHub 文件"
+     },
+     "summary": {
+      "zh-Hans": "Apiiro：选择「Yes, and don't ask again」会把完整命令（含密钥）写入项目里的 .claude/settings.local.json；在 104,185 个公开副本中发现 1,122 个至少含一条密钥（约 1,379 条不同密钥）。建议先轮换再清理；HN 约 114 分、85 条评论。",
+      "en": "Apiiro: choosing “Yes, and don’t ask again” saves the exact command, secrets included, in .claude/settings.local.json; 1,122 of 104,185 public copies held at least one secret (about 1,379 distinct secrets). Rotate first, then clean up; ~114 points and 85 comments on HN.",
+      "zh-Hant": "Apiiro：選擇「Yes, and don't ask again」會把完整命令（含密鑰）寫入項目裏的 .claude/settings.local.json；在 104,185 個公開副本中發現 1,122 個至少含一條密鑰（約 1,379 條不同密鑰）。建議先輪換再清理；HN 約 114 分、85 條評論。"
+     },
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50407882",
+      "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "X 上 Opus 5.5 手感下滑，和 harness 工程一起发酵",
+      "en": "On X, Opus 5.5 feels worse to some builders while harness engineering stays hot",
+      "zh-Hant": "X 上 Opus 5.5 手感下滑，和 harness 工程一起發酵"
+     },
+     "summary": {
+      "zh-Hans": "开发者反馈 11 月初以来 Claude Opus 5.5 幻觉增多、不跟指令、额度消耗更快；同时规则文件、记忆日志、多模型分工的 harness 写法，以及 Claude Code 对 Codex 的对照帖仍热。",
+      "en": "Developers say Claude Opus 5.5 has hallucinated more, ignored instructions and burned limits faster since early November; in parallel, harness write-ups (rules, memory logs, multi-model splits) and Claude-vs-Codex comparisons keep circulating.",
+      "zh-Hant": "開發者反饋 11 月初以來 Claude Opus 5.5 幻覺增多、不跟指令、額度消耗更快；同時規則文件、記憶日誌、多模型分工的 harness 寫法，以及 Claude Code 對 Codex 的對照帖仍熱。"
+     },
+     "url": "https://x.com/i/trending/2119200785015689451",
+     "extra": [
+      "https://x.com/i/trending/2118806662517797207",
+      "https://x.com/i/trending/2119210352743469511"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "Agent 密钥审计 — 在组织里搜索 .claude/settings.local.json（含 git 历史），先轮换已写入的密码和 token，再把它加入仓库 .gitignore；批准模式用 Bash(npm run:*) 这类模式，而不是带密钥的完整命令。",
+     "Agent memory / dreaming 产品化 — 对照 Anthropic 的笔记、wiki、注入上下文分层，给垂直 agent 做空闲时对照会话记录纠错、整理记忆的后台任务。",
+     "评测「抗改需求」— MaxxBench 说明换一个小规格，挤在同一分数带的模型就会散开；可在自己的 coding agent 评测里加入「改文件名 / 改时区 / 改接口」这类变异项。",
+     "原生桌面替代 Electron — Discord Rust 客户端启动更快、双账号约 290MB 内存，适合做一份 Electron → 原生 / Rust 迁移对照，接住「应用又卡又占内存」的流量。",
+     "本机个人知识图谱可视化 — Apple 亲属分类器被拆开、iKnow 已开源，可做「系统推断了你和谁是家人」的只读本地查看器（强调 TCC / 全盘访问边界，不外传数据）。"
+    ],
+    "en": [
+     "Agent secret audits — search orgs for .claude/settings.local.json (including git history), rotate every password or token that file ever held, then add it to the repo .gitignore; approve patterns such as Bash(npm run:*) instead of exact commands that embed secrets.",
+     "Productize agent memory / dreaming — follow Anthropic’s notes, wiki and injected-context layers, and add idle-time jobs that check notes against transcripts for vertical agents.",
+     "Test resistance to changed requirements — MaxxBench shows a clustered leaderboard can split after a small spec tweak; add mutations (filenames, timezones, interfaces) to your own coding-agent evals.",
+     "Native desktop instead of Electron — Discord’s Rust client opens faster and uses about 290MB with two accounts; a migration compare page can catch “this app is slow and heavy” traffic.",
+     "Local personal-knowledge-graph viewers — Apple’s kinship classifier is documented and iKnow is open source; a read-only local viewer of “who the system thinks is family” can sell privacy clarity (keep it on-device behind Full Disk Access)."
+    ],
+    "zh-Hant": [
+     "Agent 密鑰審計 — 在組織裏搜索 .claude/settings.local.json（含 git 歷史），先輪換已寫入的密碼和 token，再把它加入倉庫 .gitignore；批准模式用 Bash(npm run:*) 這類模式，而不是帶密鑰的完整命令。",
+     "Agent memory / dreaming 產品化 — 對照 Anthropic 的筆記、wiki、注入上下文分層，給垂直 agent 做空閒時對照會話記錄糾錯、整理記憶的後臺任務。",
+     "評測「抗改需求」— MaxxBench 說明換一個小規格，擠在同一分數帶的模型就會散開；可在自己的 coding agent 評測里加入「改文件名 / 改時區 / 改接口」這類變異項。",
+     "原生桌面替代 Electron — Discord Rust 客戶端啓動更快、雙賬號約 290MB 內存，適合做一份 Electron → 原生 / Rust 遷移對照，接住「應用又卡又佔內存」的流量。",
+     "本機個人知識圖譜可視化 — Apple 親屬分類器被拆開、iKnow 已開源，可做「系統推斷了你和誰是家人」的只讀本地查看器（強調 TCC / 全盤訪問邊界，不外傳數據）。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "vercel-labs/agent-browser",
+      "en": "vercel-labs/agent-browser",
+      "zh-Hant": "vercel-labs/agent-browser"
+     },
+     "summary": {
+      "zh-Hans": "给 AI agent 用的浏览器自动化命令行（Trending 今日约 190 星增量）。",
+      "en": "Browser-automation CLI for AI agents (~190 stars today on Trending).",
+      "zh-Hant": "給 AI agent 用的瀏覽器自動化命令行（Trending 今日約 190 星增量）。"
+     },
+     "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+     "title": {
+      "zh-Hans": "cloudflare/security-audit-skill",
+      "en": "cloudflare/security-audit-skill",
+      "zh-Hant": "cloudflare/security-audit-skill"
+     },
+     "summary": {
+      "zh-Hans": "Cloudflare 安全审计 skill，继续高居 Trending（今日约 2085 星增量）。",
+      "en": "Cloudflare security-audit skill, still near the top of Trending (~2085 stars today).",
+      "zh-Hant": "Cloudflare 安全審計 skill，繼續高居 Trending（今日約 2085 星增量）。"
+     },
+     "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+     "title": {
+      "zh-Hans": "milind-soni/OpenMausBot",
+      "en": "milind-soni/OpenMausBot",
+      "zh-Hant": "milind-soni/OpenMausBot"
+     },
+     "summary": {
+      "zh-Hans": "带虚拟机、可供 bot 使用的开源助手（今日约 1955 星增量）。",
+      "en": "Open-source assistant with a virtual machine that bots can use (~1955 stars today).",
+      "zh-Hant": "帶虛擬機、可供 bot 使用的開源助手（今日約 1955 星增量）。"
+     },
+     "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+     "title": {
+      "zh-Hans": "sherlock-project/sherlock",
+      "en": "sherlock-project/sherlock",
+      "zh-Hant": "sherlock-project/sherlock"
+     },
+     "summary": {
+      "zh-Hans": "按用户名在各社交网络查找账号（今日约 1766 星增量）。",
+      "en": "Hunt social-media accounts by username across networks (~1766 stars today).",
+      "zh-Hant": "按用戶名在各社交網絡查找賬號（今日約 1766 星增量）。"
+     },
+     "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+     "title": {
+      "zh-Hans": "zed-industries/zed",
+      "en": "zed-industries/zed",
+      "zh-Hant": "zed-industries/zed"
+     },
+     "summary": {
+      "zh-Hans": "高性能编辑器继续在 Trending（今日约 1114 星增量）。",
+      "en": "High-performance editor still on Trending (~1114 stars today).",
+      "zh-Hant": "高性能編輯器繼續在 Trending（今日約 1114 星增量）。"
+     },
+     "url": "https://github.com/zed-industries/zed"
+    },
+    {
+     "title": {
+      "zh-Hans": "mattpocock/skills",
+      "en": "mattpocock/skills",
+      "zh-Hant": "mattpocock/skills"
+     },
+     "summary": {
+      "zh-Hans": "Matt Pocock 公开的 agent skills 合集（今日约 1100 星增量）。",
+      "en": "Matt Pocock’s public agent skills collection (~1100 stars today).",
+      "zh-Hant": "Matt Pocock 公開的 agent skills 合集（今日約 1100 星增量）。"
+     },
+     "url": "https://github.com/mattpocock/skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "ranxianglei/billion-context",
+      "en": "ranxianglei/billion-context",
+      "zh-Hant": "ranxianglei/billion-context"
+     },
+     "summary": {
+      "zh-Hans": "面向超长会话的上下文压缩插件（今日约 191 星增量）。",
+      "en": "Context-compression plugin for very long single sessions (~191 stars today).",
+      "zh-Hant": "面向超長會話的上下文壓縮插件（今日約 191 星增量）。"
+     },
+     "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · New pull request overview",
+      "en": "GitHub Changelog · New pull request overview",
+      "zh-Hant": "GitHub Changelog · New pull request overview"
+     },
+     "summary": {
+      "zh-Hans": "长 PR 的新版 overview 页进入公开预览，减少为看合并状态而翻评论的成本；Copilot code review 的 API 管理也在 11 月 6 日更新。",
+      "en": "A new pull-request overview page is in public preview, so checking what blocks a long PR takes less scrolling; Copilot code-review API management also updated on November 6.",
+      "zh-Hant": "長 PR 的新版 overview 頁進入公開預覽，減少爲看合併狀態而翻評論的成本；Copilot code review 的 API 管理也在 11 月 6 日更新。"
+     },
+     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
+    }
+   ]
+  },
   {
    "date": "2026-11-07",
    "path": "digest/2026-11-07/",
