@@ -1,6 +1,292 @@
 {
- "latest": "2026-11-08",
+ "latest": "2026-11-09",
  "digests": [
+  {
+   "date": "2026-11-09",
+   "path": "digest/2026-11-09/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-09",
+    "en": "Morning tech digest · 2026-11-09",
+    "zh-Hant": "早間技術熱點 · 2026-11-09"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Goodbye Claude, hello Pi：老用户把主力编码 harness 从 Claude Code 换成 Pi",
+      "en": "Goodbye Claude, hello Pi: a longtime user moves off Claude Code",
+      "zh-Hant": "Goodbye Claude, hello Pi：老用戶把主力編碼 harness 從 Claude Code 換成 Pi"
+     },
+     "summary": {
+      "zh-Hans": "作者用了一年多 Claude Code，因多 IDE 会话收不到选区、VS Code 扩展斜杠命令残缺、子 agent 输出混在主线程等小毛病累积，改用 Pi；文中提到 Anthropic 恰在此时宣布 Claude Code 将支持 AGENTS.md。HN 约 679 分、424 条评论。",
+      "en": "After a year on Claude Code, the author switches to the Pi harness over accumulated papercuts: only one session can receive IDE selections, half the slash commands fail in the VS Code GUI, and subagent output is interleaved in the main thread; the post notes Anthropic just announced AGENTS.md support. ~679 points and 424 comments on HN.",
+      "zh-Hant": "作者用了一年多 Claude Code，因多 IDE 會話收不到選區、VS Code 擴展斜槓命令殘缺、子 agent 輸出混在主線程等小毛病累積，改用 Pi；文中提到 Anthropic 恰在此時宣佈 Claude Code 將支持 AGENTS.md。HN 約 679 分、424 條評論。"
+     },
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50410107"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "高盛收回交易员和银行家的 Claude Code 使用权",
+      "en": "Goldman Sachs pulls Claude Code from its bankers and traders",
+      "zh-Hant": "高盛收回交易員和銀行家的 Claude Code 使用權"
+     },
+     "summary": {
+      "zh-Hans": "据 The State of AI 转引 Bloomberg：高盛 10 月更新内部规定，Claude Code 与 GitHub 仅限工程师使用，交易员和银行家不再能用 AI 编码工具建市场模型（strats 仍保留）；高盛同时是 Anthropic IPO 的主承销商之一。HN 约 553 分、328 条评论。",
+      "en": "Per The State of AI, citing Bloomberg: guidance updated in October limits Claude Code and GitHub to Goldman engineers, cutting off traders and bankers who built market models with them (strats keep access); Goldman is also a lead underwriter on Anthropic’s IPO. ~553 points and 328 comments on HN.",
+      "zh-Hant": "據 The State of AI 轉引 Bloomberg：高盛 10 月更新內部規定，Claude Code 與 GitHub 僅限工程師使用，交易員和銀行家不再能用 AI 編碼工具建市場模型（strats 仍保留）；高盛同時是 Anthropic IPO 的主承銷商之一。HN 約 553 分、328 條評論。"
+     },
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50415628"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "英伟达董事会启动对黄仁勋的独立调查",
+      "en": "Nvidia’s board opens an independent investigation into Jensen Huang",
+      "zh-Hant": "英偉達董事會啓動對黃仁勳的獨立調查"
+     },
+     "summary": {
+      "zh-Hans": "官方声明称，鉴于有报道指黄仁勋曾是外国情报行动的目标，由独立董事委员会和外部律师调查；董事会表示没有理由认为国家安全或公司机密受损，黄仁勋配合审查。同日 Axios 报道了他就婚外情致员工的信。HN 分别约 345 分和 264 分。",
+      "en": "The board statement cites reporting that Huang was the target of a foreign intelligence effort; a committee of independent directors with outside counsel will investigate, the board says it has no reason to believe national security or company secrets were compromised, and Huang is cooperating. Axios separately reported his letter to staff about an affair. ~345 and ~264 points on HN.",
+      "zh-Hant": "官方聲明稱，鑑於有報道指黃仁勳曾是外國情報行動的目標，由獨立董事委員會和外部律師調查；董事會表示沒有理由認爲國家安全或公司機密受損，黃仁勳配合審查。同日 Axios 報道了他就婚外情致員工的信。HN 分別約 345 分和 264 分。"
+     },
+     "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50416801",
+      "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "https://news.ycombinator.com/item?id=50418016"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "llama-modchip：64GB 内存、零 GPU 跑 284B DeepSeek",
+      "en": "llama-modchip: 284B DeepSeek on 64GB of RAM, no GPU",
+      "zh-Hant": "llama-modchip：64GB 內存、零 GPU 跑 284B DeepSeek"
+     },
+     "summary": {
+      "zh-Hans": "项目称在纯 CPU、64GB 内存上以 1.71 bpw 量化跑 284B 的 DeepSeek-V4-Flash（约 57.6 GiB 峰值内存、256K 上下文），30B MoE 解码 25–111 tok/s；HN 约 345 分、143 条评论。",
+      "en": "The project claims it runs the 284B DeepSeek-V4-Flash at 1.71 bpw on a pure 64GB CPU box (about 57.6 GiB peak RSS at 256K context), with 30B MoEs decoding at 25–111 tok/s; ~345 points and 143 comments on HN.",
+      "zh-Hant": "項目稱在純 CPU、64GB 內存上以 1.71 bpw 量化跑 284B 的 DeepSeek-V4-Flash（約 57.6 GiB 峯值內存、256K 上下文），30B MoE 解碼 25–111 tok/s；HN 約 345 分、143 條評論。"
+     },
+     "url": "https://github.com/synchopate/llama-modchip",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50411961"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Outlook.com 开始悄悄拒收没有 DMARC 的域名邮件",
+      "en": "Outlook.com is quietly rejecting email from domains without DMARC",
+      "zh-Hant": "Outlook.com 開始悄悄拒收沒有 DMARC 的域名郵件"
+     },
+     "summary": {
+      "zh-Hans": "MailRoute 观察到：自 11 月 5 日起，outlook.com / hotmail.com / live.com / msn.com 会退回来自未发布 DMARC 记录域名的部分邮件，小发件方也中招，即使 SPF、DKIM 正常；修复只需加一条 DNS 记录。HN 约 207 分、165 条评论。",
+      "en": "MailRoute reports that since November 5, outlook.com / hotmail.com / live.com / msn.com bounce some mail from domains with no DMARC record, small senders included and often with working SPF and DKIM; the fix is one DNS record. ~207 points and 165 comments on HN.",
+      "zh-Hant": "MailRoute 觀察到：自 11 月 5 日起，outlook.com / hotmail.com / live.com / msn.com 會退回來自未發佈 DMARC 記錄域名的部分郵件，小發件方也中招，即使 SPF、DKIM 正常；修復只需加一條 DNS 記錄。HN 約 207 分、165 條評論。"
+     },
+     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50416158"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "「Agent 记忆需要自己的 OpenTelemetry 时刻」",
+      "en": "“Agent memory needs its OpenTelemetry moment”",
+      "zh-Hant": "「Agent 記憶需要自己的 OpenTelemetry 時刻」"
+     },
+     "summary": {
+      "zh-Hans": "Lorekit 指出各家编码工具的记忆格式互不相通，CI agent 学到的东西编辑器 agent 读不到，提议一个开放的 agent 记忆格式；HN 约 166 分、102 条评论。",
+      "en": "Lorekit argues every coding tool stores memory in its own incompatible shape, so a lesson one agent learns is invisible to the next, and proposes an open agent-memory format; ~166 points and 102 comments on HN.",
+      "zh-Hant": "Lorekit 指出各家編碼工具的記憶格式互不相通，CI agent 學到的東西編輯器 agent 讀不到，提議一個開放的 agent 記憶格式；HN 約 166 分、102 條評論。"
+     },
+     "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50411467"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "X 热议：harness 设计比换模型更影响编码 agent 成绩",
+      "en": "On X: harness design moves coding-agent results more than model choice",
+      "zh-Hant": "X 熱議：harness 設計比換模型更影響編碼 agent 成績"
+     },
+     "summary": {
+      "zh-Hans": "X 话题汇总：Garry Tan 在同样 20 个编码任务上比较 7 个 harness，通过率在 71%–79% 之间、14 个任务结果完全一样，差别主要在成本（每解决一题约 $0.19–$0.44）和速度；另有同一模型在 Terminal-Bench 2.0 上因 harness 不同相差最多 18.4 分的讨论。",
+      "en": "X story summary: Garry Tan ran seven harnesses on the same 20 coding tasks and saw pass rates of 71–79%, with 14 tasks identical everywhere, so the gaps were mostly cost (about $0.19–$0.44 per solved task) and speed; a related thread cites up to 18.4 points of spread for one model across harnesses on Terminal-Bench 2.0.",
+      "zh-Hant": "X 話題彙總：Garry Tan 在同樣 20 個編碼任務上比較 7 個 harness，通過率在 71%–79% 之間、14 個任務結果完全一樣，差別主要在成本（每解決一題約 $0.19–$0.44）和速度；另有同一模型在 Terminal-Bench 2.0 上因 harness 不同相差最多 18.4 分的討論。"
+     },
+     "url": "https://x.com/i/trending/2119567611948064929",
+     "extra": [
+      "https://x.com/i/trending/2119521473903862094"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Meta 开源 Astryx 设计系统",
+      "en": "Meta open-sources the Astryx design system",
+      "zh-Hant": "Meta 開源 Astryx 設計系統"
+     },
+     "summary": {
+      "zh-Hans": "Astryx 在 Meta 内部用了 8 年、支撑 13,000+ 个应用，开源版含 150+ 无障碍组件、品牌级主题、暗色模式、模板和 CLI，强调人和 AI 助手用同一套工具搭界面；GitHub Trending 今日约 875 星增量。",
+      "en": "Grown inside Meta over eight years and powering 13,000+ apps, Astryx ships 150+ accessible components, brand-level theming, dark mode, templates and a CLI, pitched as tooling people and AI assistants share; ~875 stars today on GitHub Trending.",
+      "zh-Hant": "Astryx 在 Meta 內部用了 8 年、支撐 13,000+ 個應用，開源版含 150+ 無障礙組件、品牌級主題、暗色模式、模板和 CLI，強調人和 AI 助手用同一套工具搭界面；GitHub Trending 今日約 875 星增量。"
+     },
+     "url": "https://github.com/meta/astryx",
+     "extra": []
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "DMARC 一键体检 / 修复 — Outlook 已开始退回无 DMARC 域名的邮件；做一个输入域名就给出 SPF / DKIM / DMARC 现状和可直接粘贴的 DNS 记录的小工具，面向小团队和独立站，可加监控订阅。",
+     "跨工具 agent 记忆 / 规则同步 — CLAUDE.md、AGENTS.md、.cursor 规则和各家记忆互不相通（Pi 迁移文和 Lorekit 都在抱怨）；做一个双向同步与迁移的 CLI 或 MCP，换工具时不丢上下文。",
+     "Harness 成本 / 速度对照页 — Garry Tan 的评测说明通过率接近时，差别在每题成本和耗时；可以做一个持续更新的 harness × 模型「每解决一题花多少钱」对照页，吃搜索和 X 流量。",
+     "非工程岗 AI 编码合规包 — 高盛把编码 agent 收回到工程师手里，说明金融等行业的业务人员用 AI 写代码有治理缺口；做「沙箱 + 密钥扫描 + 审计日志」的轻量方案或检查清单。",
+     "纯 CPU 本地大模型部署指南 — llama-modchip 声称 64GB 内存即可跑 284B MoE；可做「按内存档位选模型」的配置器和迷你主机购买 / 部署教程（先自己复现再写数字）。"
+    ],
+    "en": [
+     "One-click DMARC check and fix — Outlook now bounces mail from domains without DMARC; a tool that takes a domain, shows SPF / DKIM / DMARC status, and outputs a paste-ready DNS record fits small teams and indie sites, with an optional monitoring subscription.",
+     "Cross-tool agent memory and rules sync — CLAUDE.md, AGENTS.md, .cursor rules and each tool’s memory don’t interoperate (both the Pi post and Lorekit complain); a CLI or MCP that syncs and migrates them keeps context when switching tools.",
+     "Harness cost and speed comparison page — Garry Tan’s eval shows that when pass rates are close, the gap is cost per solved task and latency; a continuously updated harness × model cost-per-solve page can capture search and X traffic.",
+     "AI-coding governance kit for non-engineers — Goldman pulling coding agents back to engineers shows a governance gap for business users in regulated industries; a lightweight sandbox + secret scanning + audit-log kit or checklist fills it.",
+     "CPU-only local LLM deployment guides — llama-modchip claims a 64GB box can run a 284B MoE; a picker by RAM tier plus mini-PC buying and setup guides works well (reproduce the numbers yourself before publishing them)."
+    ],
+    "zh-Hant": [
+     "DMARC 一鍵體檢 / 修復 — Outlook 已開始退回無 DMARC 域名的郵件；做一個輸入域名就給出 SPF / DKIM / DMARC 現狀和可直接粘貼的 DNS 記錄的小工具，面向小團隊和獨立站，可加監控訂閱。",
+     "跨工具 agent 記憶 / 規則同步 — CLAUDE.md、AGENTS.md、.cursor 規則和各家記憶互不相通（Pi 遷移文和 Lorekit 都在抱怨）；做一個雙向同步與遷移的 CLI 或 MCP，換工具時不丟上下文。",
+     "Harness 成本 / 速度對照頁 — Garry Tan 的評測說明通過率接近時，差別在每題成本和耗時；可以做一個持續更新的 harness × 模型「每解決一題花多少錢」對照頁，喫搜索和 X 流量。",
+     "非工程崗 AI 編碼合規包 — 高盛把編碼 agent 收回到工程師手裏，說明金融等行業的業務人員用 AI 寫代碼有治理缺口；做「沙箱 + 密鑰掃描 + 審計日誌」的輕量方案或檢查清單。",
+     "純 CPU 本地大模型部署指南 — llama-modchip 聲稱 64GB 內存即可跑 284B MoE；可做「按內存檔位選模型」的配置器和迷你主機購買 / 部署教程（先自己復現再寫數字）。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "synchopate/llama-modchip",
+      "en": "synchopate/llama-modchip",
+      "zh-Hant": "synchopate/llama-modchip"
+     },
+     "summary": {
+      "zh-Hans": "纯 CPU 跑大 MoE 模型的推理改造（HN 约 345 分）。",
+      "en": "CPU-only inference tweaks for large MoE models (~345 points on HN).",
+      "zh-Hant": "純 CPU 跑大 MoE 模型的推理改造（HN 約 345 分）。"
+     },
+     "url": "https://github.com/synchopate/llama-modchip"
+    },
+    {
+     "title": {
+      "zh-Hans": "meta/astryx",
+      "en": "meta/astryx",
+      "zh-Hant": "meta/astryx"
+     },
+     "summary": {
+      "zh-Hans": "Meta 开源、面向 agent 的设计系统（今日约 875 星增量）。",
+      "en": "Meta’s open-source, agent-ready design system (~875 stars today).",
+      "zh-Hant": "Meta 開源、面向 agent 的設計系統（今日約 875 星增量）。"
+     },
+     "url": "https://github.com/meta/astryx"
+    },
+    {
+     "title": {
+      "zh-Hans": "vercel-labs/agent-browser",
+      "en": "vercel-labs/agent-browser",
+      "zh-Hant": "vercel-labs/agent-browser"
+     },
+     "summary": {
+      "zh-Hans": "给 AI agent 用的浏览器自动化命令行（今日约 815 星增量）。",
+      "en": "Browser-automation CLI for AI agents (~815 stars today).",
+      "zh-Hant": "給 AI agent 用的瀏覽器自動化命令行（今日約 815 星增量）。"
+     },
+     "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+     "title": {
+      "zh-Hans": "anthropics/skills",
+      "en": "anthropics/skills",
+      "zh-Hant": "anthropics/skills"
+     },
+     "summary": {
+      "zh-Hans": "Anthropic 公开的 Agent Skills 仓库（今日约 792 星增量）。",
+      "en": "Anthropic’s public Agent Skills repository (~792 stars today).",
+      "zh-Hant": "Anthropic 公開的 Agent Skills 倉庫（今日約 792 星增量）。"
+     },
+     "url": "https://github.com/anthropics/skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "milind-soni/OpenMausBot",
+      "en": "milind-soni/OpenMausBot",
+      "zh-Hant": "milind-soni/OpenMausBot"
+     },
+     "summary": {
+      "zh-Hans": "带虚拟机、可供 bot 使用的开源助手（今日约 1,439 星增量）。",
+      "en": "Open-source assistant with a VM that bots can use (~1,439 stars today).",
+      "zh-Hant": "帶虛擬機、可供 bot 使用的開源助手（今日約 1,439 星增量）。"
+     },
+     "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+     "title": {
+      "zh-Hans": "sherlock-project/sherlock",
+      "en": "sherlock-project/sherlock",
+      "zh-Hant": "sherlock-project/sherlock"
+     },
+     "summary": {
+      "zh-Hans": "按用户名在各社交网络查找账号（今日约 2,373 星增量）。",
+      "en": "Find accounts by username across social networks (~2,373 stars today).",
+      "zh-Hant": "按用戶名在各社交網絡查找賬號（今日約 2,373 星增量）。"
+     },
+     "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+     "title": {
+      "zh-Hans": "dsx-ai-factory/nvke",
+      "en": "dsx-ai-factory/nvke",
+      "zh-Hant": "dsx-ai-factory/nvke"
+     },
+     "summary": {
+      "zh-Hans": "裸金属 GPU Kubernetes 管理平面 NVKE（今日约 345 星增量）。",
+      "en": "NVKE, a management plane for bare-metal GPU Kubernetes (~345 stars today).",
+      "zh-Hant": "裸金屬 GPU Kubernetes 管理平面 NVKE（今日約 345 星增量）。"
+     },
+     "url": "https://github.com/dsx-ai-factory/nvke"
+    },
+    {
+     "title": {
+      "zh-Hans": "ranxianglei/billion-context",
+      "en": "ranxianglei/billion-context",
+      "zh-Hant": "ranxianglei/billion-context"
+     },
+     "summary": {
+      "zh-Hans": "面向超长会话的上下文压缩插件（今日约 460 星增量）。",
+      "en": "Context-compression plugin for very long sessions (~460 stars today).",
+      "zh-Hant": "面向超長會話的上下文壓縮插件（今日約 460 星增量）。"
+     },
+     "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · @GitHub in Slack and Teams GA",
+      "en": "GitHub Changelog · @GitHub in Slack and Teams GA",
+      "zh-Hant": "GitHub Changelog · @GitHub in Slack and Teams GA"
+     },
+     "summary": {
+      "zh-Hans": "在 Slack / Teams 对话里直接查 bug、建 issue、改代码并开 PR，11 月 6 日正式可用。",
+      "en": "Investigate bugs, file issues, make changes and open PRs from Slack or Teams conversations; generally available November 6.",
+      "zh-Hant": "在 Slack / Teams 對話裏直接查 bug、建 issue、改代碼並開 PR，11 月 6 日正式可用。"
+     },
+     "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available"
+    }
+   ]
+  },
   {
    "date": "2026-11-08",
    "path": "digest/2026-11-08/",
