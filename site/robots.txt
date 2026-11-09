@@ -23,4 +23,11 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
+# 2026-11-08: observe 48h. Do not add Cloudflare blocks for Meta.
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Reflectionbot
+Disallow: /
+
 Sitemap: https://siinxu.github.io/ai-opportunity-hub/sitemap.xml
