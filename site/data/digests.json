@@ -1,6 +1,295 @@
 {
- "latest": "2026-11-09",
+ "latest": "2026-11-10",
  "digests": [
+  {
+   "date": "2026-11-10",
+   "path": "digest/2026-11-10/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-10",
+    "en": "Morning tech digest · 2026-11-10",
+    "zh-Hant": "早間技術熱點 · 2026-11-10"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2",
+      "en": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+      "zh-Hant": "Anthropic 發佈 Claude Fable 5.2 與 Mythos 5.2"
+     },
+     "summary": {
+      "zh-Hans": "官方称两者是同一底层模型：Fable 带网络安全和生物安全护栏、面向所有用户，Mythos 需通过验证计划申请；输出比 5.1 快最多 30%，价格降到每百万 token 输入 $8 / 输出 $40，另有最快 2.5 倍的 fast mode；FrontierCode 2.0 在 Xhigh 档 49.1%。GitHub Copilot 当天同步上线。HN 约 859 分、517 条评论。",
+      "en": "Anthropic says both are the same underlying model: Fable ships with cyber and biology safeguards for all users, while Mythos is available through verification programs; output is up to 30% faster than 5.1, pricing drops to $8 / $40 per million input / output tokens, an optional fast mode is up to 2.5x faster, and FrontierCode 2.0 reaches 49.1% at Xhigh effort. GitHub Copilot added it the same day. ~859 points and 517 comments on HN.",
+      "zh-Hant": "官方稱兩者是同一底層模型：Fable 帶網絡安全和生物安全護欄、面向所有用戶，Mythos 需通過驗證計劃申請；輸出比 5.1 快最多 30%，價格降到每百萬 token 輸入 $8 / 輸出 $40，另有最快 2.5 倍的 fast mode；FrontierCode 2.0 在 Xhigh 檔 49.1%。GitHub Copilot 當天同步上線。HN 約 859 分、517 條評論。"
+     },
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50429906",
+      "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Artificial Analysis：Fable 5.2 智能指数 65，目前第一，但又贵又慢",
+      "en": "Artificial Analysis: Fable 5.2 tops the Intelligence Index at 65, but is slow and costly",
+      "zh-Hant": "Artificial Analysis：Fable 5.2 智能指數 65，目前第一，但又貴又慢"
+     },
+     "summary": {
+      "zh-Hans": "Artificial Analysis 给 Fable 5.2（Max）打出 65 分，在 74 个可比模型中排第一；但跑一次指数任务平均约 $26.54、44.1 分钟，首个答案 token 约 231 秒，输出 token 量远高于中位数。HN 约 256 分、180 条评论。",
+      "en": "Artificial Analysis scores Fable 5.2 (Max) at 65, first among 74 comparable models, but an average index task costs about $26.54 and takes 44.1 minutes, with about 231 seconds to the first answer token and far above-median output tokens. ~256 points and 180 comments on HN.",
+      "zh-Hant": "Artificial Analysis 給 Fable 5.2（Max）打出 65 分，在 74 個可比模型中排第一；但跑一次指數任務平均約 $26.54、44.1 分鐘，首個答案 token 約 231 秒，輸出 token 量遠高於中位數。HN 約 256 分、180 條評論。"
+     },
+     "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50431144"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "「Opus 5.5 被削弱了吗？」11 月 3 日起思考模式变了",
+      "en": "“Is Opus 5.5 nerfed?” Users say thinking patterns changed on November 3",
+      "zh-Hant": "「Opus 5.5 被削弱了嗎？」11 月 3 日起思考模式變了"
+     },
+     "summary": {
+      "zh-Hans": "一条 X 帖子称 Opus 5.5 自 11 月 3 日起思考过程明显不同，引发大量用户附和；也有评论认为只是换了新的思考摘要器，模型本身没变。目前没有官方确认。HN 约 722 分、468 条评论。",
+      "en": "An X post claiming Opus 5.5’s thinking changed noticeably from November 3 drew many agreeing users, while other commenters say only the thinking summarizer changed and the model is the same; there is no official confirmation. ~722 points and 468 comments on HN.",
+      "zh-Hant": "一條 X 帖子稱 Opus 5.5 自 11 月 3 日起思考過程明顯不同，引發大量用戶附和；也有評論認爲只是換了新的思考摘要器，模型本身沒變。目前沒有官方確認。HN 約 722 分、468 條評論。"
+     },
+     "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50422069"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Meta 发布最小最省的 Muse Ember：每百万 token $0.10 / $0.50",
+      "en": "Meta launches Muse Ember, its smallest and cheapest model at $0.10 / $0.50 per million tokens",
+      "zh-Hant": "Meta 發佈最小最省的 Muse Ember：每百萬 token $0.10 / $0.50"
+     },
+     "summary": {
+      "zh-Hans": "Meta 称 Muse Ember 面向 agent 的工具调用、编码子任务、路由和长文档解析，100 万上下文、最多 512K 输出，Artificial Analysis 指数 36（与 Claude Haiku 5.5 同分），每个指数任务约 $0.14；已在 Meta Model API 上线。HN 约 228 分、96 条评论。",
+      "en": "Meta pitches Muse Ember for the work agents repeat all day (tool calls, coding subtasks, routing, long-document parsing), with a 1M context window, up to 512K output, an Artificial Analysis Index of 36 (tied with Claude Haiku 5.5) at about $0.14 per index task; available now on the Meta Model API. ~228 points and 96 comments on HN.",
+      "zh-Hant": "Meta 稱 Muse Ember 面向 agent 的工具調用、編碼子任務、路由和長文檔解析，100 萬上下文、最多 512K 輸出，Artificial Analysis 指數 36（與 Claude Haiku 5.5 同分），每個指數任務約 $0.14；已在 Meta Model API 上線。HN 約 228 分、96 條評論。"
+     },
+     "url": "https://research.meta.ai/blog/muse-ember",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50429024"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Google 推出 TPU 8tx 与 TPU 8i Max，并开源 TPU Sync",
+      "en": "Google adds TPU 8tx and TPU 8i Max and open-sources TPU Sync",
+      "zh-Hant": "Google 推出 TPU 8tx 與 TPU 8i Max，並開源 TPU Sync"
+     },
+     "summary": {
+      "zh-Hans": "第八代 TPU 一年内出了四套系统：8tx 做机密推理（使用中的数据也受硬件保护），8i Max 把两颗 8i 封在一起、算力和 HBM 带宽翻倍，面向超长上下文；同时开源 TPU Sync 模型状态层，并称 PyTorch 代码可原生跑在 TPU 上。HN 约 160 分。",
+      "en": "Four eighth-generation TPU systems in one year: 8tx targets confidential inference with data protected while in use, and 8i Max packages two 8i chips for double the compute and HBM bandwidth for very long contexts; Google also open-sources the TPU Sync model-state layer and says PyTorch code runs natively on TPUs. ~160 points on HN.",
+      "zh-Hant": "第八代 TPU 一年內出了四套系統：8tx 做機密推理（使用中的數據也受硬件保護），8i Max 把兩顆 8i 封在一起、算力和 HBM 帶寬翻倍，面向超長上下文；同時開源 TPU Sync 模型狀態層，並稱 PyTorch 代碼可原生跑在 TPU 上。HN 約 160 分。"
+     },
+     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50432831"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Gemini 连接 Drive / Gmail 后，个人文件可能进入人工标注",
+      "en": "Gemini may send connected Drive files and emails to human annotators",
+      "zh-Hant": "Gemini 連接 Drive / Gmail 後，個人文件可能進入人工標註"
+     },
+     "summary": {
+      "zh-Hans": "一份 GitHub 文档指出 Google 已更新帮助页和 2023 年的博文：连接的 Drive 和邮件内容可能被人工审核员看到；作者测试称不加 @ 标签、闲聊提到相关话题也可能触发后台检索。HN 约 323 分、73 条评论。",
+      "en": "A GitHub write-up points to Google’s updated help page and an edit to its 2023 blog post saying connected Drive and email content can be seen by human reviewers; the author’s tests suggest casual mentions can trigger background retrieval without @ tags. ~323 points and 73 comments on HN.",
+      "zh-Hant": "一份 GitHub 文檔指出 Google 已更新幫助頁和 2023 年的博文：連接的 Drive 和郵件內容可能被人工審覈員看到；作者測試稱不加 @ 標籤、閒聊提到相關話題也可能觸發後臺檢索。HN 約 323 分、73 條評論。"
+     },
+     "url": "https://github.com/thisisme6598/gemini_files/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50429426",
+      "https://support.google.com/gemini/answer/16836988"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "加拿大实时支付系统 Real-Time Rail 正式上线",
+      "en": "Canada launches its Real-Time Rail payment system",
+      "zh-Hant": "加拿大實時支付系統 Real-Time Rail 正式上線"
+     },
+     "summary": {
+      "zh-Hans": "Payments Canada 宣布 RTR 上线：全年 7×24 实时清算结算，采用 ISO 20022 报文，并在上线首日强制提供收款人确认、欺诈评分等集中反欺诈服务；首批参与方包括 Wealthsimple、KOHO 等，一年内覆盖九成以上加拿大人。HN 约 446 分、254 条评论。",
+      "en": "Payments Canada launched the RTR: 24/7 real-time clearing and settlement on ISO 20022 messaging, with mandatory centralized fraud services such as confirmation of payee and a fraud score from day one; first participants include Wealthsimple and KOHO, with over nine in ten Canadians covered within a year. ~446 points and 254 comments on HN.",
+      "zh-Hant": "Payments Canada 宣佈 RTR 上線：全年 7×24 實時清算結算，採用 ISO 20022 報文，並在上線首日強制提供收款人確認、欺詐評分等集中反欺詐服務；首批參與方包括 Wealthsimple、KOHO 等，一年內覆蓋九成以上加拿大人。HN 約 446 分、254 條評論。"
+     },
+     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50427362"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "X 与 HN 热议：「100% AI 写代码」一年后，没人看得懂代码库了",
+      "en": "On X and HN: a year after a 100% AI-code mandate, nobody understands the codebase",
+      "zh-Hant": "X 與 HN 熱議：「100% AI 寫代碼」一年後，沒人看得懂代碼庫了"
+     },
+     "summary": {
+      "zh-Hans": "一篇 Reddit 帖子称公司一年前强制全部代码由 AI 生成，如今代码库膨胀到约三倍、重复函数遍地、能审代码的人越来越少；X 上的讨论延伸到「审 AI 代码比写代码更难」和验证工具的复兴。HN 约 58 分、58 条评论。",
+      "en": "A Reddit post says a company mandated 100% AI-generated code a year ago and now has a roughly tripled codebase full of duplicated functions and few people able to review it; the X discussion extends to reviewing AI code being harder than writing it and a revival of verification tooling. ~58 points and 58 comments on HN.",
+      "zh-Hant": "一篇 Reddit 帖子稱公司一年前強制全部代碼由 AI 生成，如今代碼庫膨脹到約三倍、重複函數遍地、能審代碼的人越來越少；X 上的討論延伸到「審 AI 代碼比寫代碼更難」和驗證工具的復興。HN 約 58 分、58 條評論。"
+     },
+     "url": "https://x.com/i/trending/2119657618927202600",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50433079",
+      "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "模型路由 / 成本计算器 — Fable 5.2（$8 / $40）和 Muse Ember（$0.10 / $0.50）价差约 80 倍，Anthropic 自己也推「大模型当顾问、小模型干活」；做一个按任务类型推荐模型组合并估算每月账单的计算器或路由模板，吃发布热度的搜索流量。",
+     "模型「降智」监测面板 — Opus 5.5 是否被削弱的争论说明用户缺少客观证据；每天用固定小题集跑主流模型，记录得分、思考长度和耗时变化，公开成趋势图，可做订阅告警。",
+     "AI 助手连接应用的隐私自查指南 — Gemini 连接 Drive / Gmail 可能被人工审核；做一份 Gemini / ChatGPT / Claude 连接器的数据流向对照表和一键关闭教程，面向小团队和自由职业者。",
+     "Actions 日志密钥扫描（非企业版） — GitHub 新的 Actions 日志密钥扫描只给企业版预览；做一个开源 Action 或小服务，帮个人和小团队扫描已有 workflow 日志里的泄露密钥。",
+     "AI 代码库「健康体检」服务 — 「100% AI 代码一年后」的帖子说明重复代码和无人能审是普遍痛点；做一个统计重复函数、死代码和测试覆盖并给出清理计划的报告工具或咨询包。"
+    ],
+    "en": [
+     "Model routing and cost calculator — Fable 5.2 ($8 / $40) and Muse Ember ($0.10 / $0.50) differ by about 80x on price, and Anthropic itself promotes big-model-as-advisor, small-model-as-worker; a calculator or routing template that recommends model mixes per task type and estimates the monthly bill can ride launch-week search traffic.",
+     "Model regression watch dashboard — The Opus 5.5 nerf debate shows users lack objective evidence; run a fixed small task set against major models daily, log score, thinking length and latency, publish trend charts, and offer subscription alerts.",
+     "Privacy self-check guide for AI assistant connectors — Connected Drive / Gmail content in Gemini may be human-reviewed; a comparison of where data goes for Gemini, ChatGPT and Claude connectors plus step-by-step opt-out guides suits small teams and freelancers.",
+     "Secret scanning for Actions logs outside Enterprise — GitHub’s new Actions log secret scanning is an Enterprise-only preview; an open-source Action or small service that scans existing workflow logs for leaked keys serves individuals and small teams.",
+     "AI codebase health check — The “a year after the 100% AI mandate” post shows duplicated code and unreviewable output are a common pain; a report tool or service package that measures duplicate functions, dead code and test coverage and proposes a cleanup plan fits."
+    ],
+    "zh-Hant": [
+     "模型路由 / 成本計算器 — Fable 5.2（$8 / $40）和 Muse Ember（$0.10 / $0.50）價差約 80 倍，Anthropic 自己也推「大模型當顧問、小模型幹活」；做一個按任務類型推薦模型組合並估算每月賬單的計算器或路由模板，喫發佈熱度的搜索流量。",
+     "模型「降智」監測面板 — Opus 5.5 是否被削弱的爭論說明用戶缺少客觀證據；每天用固定小題集跑主流模型，記錄得分、思考長度和耗時變化，公開成趨勢圖，可做訂閱告警。",
+     "AI 助手連接應用的隱私自查指南 — Gemini 連接 Drive / Gmail 可能被人工審覈；做一份 Gemini / ChatGPT / Claude 連接器的數據流向對照表和一鍵關閉教程，面向小團隊和自由職業者。",
+     "Actions 日誌密鑰掃描（非企業版） — GitHub 新的 Actions 日誌密鑰掃描只給企業版預覽；做一個開源 Action 或小服務，幫個人和小團隊掃描已有 workflow 日誌裏的泄露密鑰。",
+     "AI 代碼庫「健康體檢」服務 — 「100% AI 代碼一年後」的帖子說明重複代碼和無人能審是普遍痛點；做一個統計重複函數、死代碼和測試覆蓋並給出清理計劃的報告工具或諮詢包。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "meta/astryx",
+      "en": "meta/astryx",
+      "zh-Hant": "meta/astryx"
+     },
+     "summary": {
+      "zh-Hans": "Meta 开源、面向 agent 的设计系统，连续上榜（今日约 3,278 星增量）。",
+      "en": "Meta’s open-source, agent-ready design system, still trending (~3,278 stars today).",
+      "zh-Hant": "Meta 開源、面向 agent 的設計系統，連續上榜（今日約 3,278 星增量）。"
+     },
+     "url": "https://github.com/meta/astryx"
+    },
+    {
+     "title": {
+      "zh-Hans": "sherlock-project/sherlock",
+      "en": "sherlock-project/sherlock",
+      "zh-Hant": "sherlock-project/sherlock"
+     },
+     "summary": {
+      "zh-Hans": "按用户名在各社交网络查找账号（今日约 4,267 星增量）。",
+      "en": "Find accounts by username across social networks (~4,267 stars today).",
+      "zh-Hant": "按用戶名在各社交網絡查找賬號（今日約 4,267 星增量）。"
+     },
+     "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+     "title": {
+      "zh-Hans": "anthropics/skills",
+      "en": "anthropics/skills",
+      "zh-Hant": "anthropics/skills"
+     },
+     "summary": {
+      "zh-Hans": "Anthropic 公开的 Agent Skills 仓库（今日约 1,038 星增量）。",
+      "en": "Anthropic’s public Agent Skills repository (~1,038 stars today).",
+      "zh-Hant": "Anthropic 公開的 Agent Skills 倉庫（今日約 1,038 星增量）。"
+     },
+     "url": "https://github.com/anthropics/skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "vercel-labs/agent-browser",
+      "en": "vercel-labs/agent-browser",
+      "zh-Hant": "vercel-labs/agent-browser"
+     },
+     "summary": {
+      "zh-Hans": "给 AI agent 用的浏览器自动化命令行（今日约 916 星增量）。",
+      "en": "Browser-automation CLI for AI agents (~916 stars today).",
+      "zh-Hant": "給 AI agent 用的瀏覽器自動化命令行（今日約 916 星增量）。"
+     },
+     "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+     "title": {
+      "zh-Hans": "google-deepmind/mujoco",
+      "en": "google-deepmind/mujoco",
+      "zh-Hant": "google-deepmind/mujoco"
+     },
+     "summary": {
+      "zh-Hans": "通用物理仿真器 MuJoCo，机器人 agent 热度带动（今日约 574 星增量）。",
+      "en": "MuJoCo general-purpose physics simulator (~574 stars today).",
+      "zh-Hant": "通用物理仿真器 MuJoCo，機器人 agent 熱度帶動（今日約 574 星增量）。"
+     },
+     "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+     "title": {
+      "zh-Hans": "anthropics/claude-quickstarts",
+      "en": "anthropics/claude-quickstarts",
+      "zh-Hant": "anthropics/claude-quickstarts"
+     },
+     "summary": {
+      "zh-Hans": "用 Claude API 快速搭可部署应用的示例集（今日约 551 星增量）。",
+      "en": "Starter projects for deployable apps on the Claude API (~551 stars today).",
+      "zh-Hant": "用 Claude API 快速搭可部署應用的示例集（今日約 551 星增量）。"
+     },
+     "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+     "title": {
+      "zh-Hans": "garrytan/gbrain",
+      "en": "garrytan/gbrain",
+      "zh-Hant": "garrytan/gbrain"
+     },
+     "summary": {
+      "zh-Hans": "Garry Tan 的 agent「大脑」配置（今日约 216 星增量）。",
+      "en": "Garry Tan’s opinionated agent brain setup (~216 stars today).",
+      "zh-Hant": "Garry Tan 的 agent「大腦」配置（今日約 216 星增量）。"
+     },
+     "url": "https://github.com/garrytan/gbrain"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Secret scanning in Actions logs",
+      "en": "GitHub Changelog · Secret scanning in Actions logs",
+      "zh-Hant": "GitHub Changelog · Secret scanning in Actions logs"
+     },
+     "summary": {
+      "zh-Hans": "密钥扫描覆盖 Actions workflow 日志，企业版公开预览，不回溯旧日志。",
+      "en": "Secret scanning now covers Actions workflow logs; public preview for Enterprise, no backfill of old logs.",
+      "zh-Hant": "密鑰掃描覆蓋 Actions workflow 日誌，企業版公開預覽，不回溯舊日誌。"
+     },
+     "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Claude Fable 5.2 in Copilot",
+      "en": "GitHub Changelog · Claude Fable 5.2 in Copilot",
+      "zh-Hant": "GitHub Changelog · Claude Fable 5.2 in Copilot"
+     },
+     "summary": {
+      "zh-Hans": "Fable 5.2 发布当天进入 GitHub Copilot。",
+      "en": "Claude Fable 5.2 arrives in GitHub Copilot on launch day.",
+      "zh-Hant": "Fable 5.2 發佈當天進入 GitHub Copilot。"
+     },
+     "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot"
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "path": "digest/2026-11-09/",
