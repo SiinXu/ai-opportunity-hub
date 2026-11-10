@@ -230,9 +230,9 @@
       "zh-Hant": "google-deepmind/mujoco"
      },
      "summary": {
-      "zh-Hans": "通用物理仿真器 MuJoCo，机器人 agent 热度带动（今日约 574 星增量）。",
+      "zh-Hans": "通用物理仿真器 MuJoCo（今日约 574 星增量）。",
       "en": "MuJoCo general-purpose physics simulator (~574 stars today).",
-      "zh-Hant": "通用物理仿真器 MuJoCo，機器人 agent 熱度帶動（今日約 574 星增量）。"
+      "zh-Hant": "通用物理仿真器 MuJoCo（今日約 574 星增量）。"
      },
      "url": "https://github.com/google-deepmind/mujoco"
     },
