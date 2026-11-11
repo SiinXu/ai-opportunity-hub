@@ -1,6 +1,279 @@
 {
- "latest": "2026-11-10",
+ "latest": "2026-11-11",
  "digests": [
+  {
+   "date": "2026-11-11",
+   "path": "digest/2026-11-11/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-11",
+    "en": "Morning tech digest · 2026-11-11",
+    "zh-Hant": "早間技術熱點 · 2026-11-11"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "DeepMind 发布 AlphaProof Code：AI agent 形式化验证了 Signal 协议的真实代码",
+      "en": "DeepMind introduces AlphaProof Code, using AI agents to formally verify Signal’s actual protocol code",
+      "zh-Hant": "DeepMind 發佈 AlphaProof Code：AI agent 形式化驗證了 Signal 協議的真實代碼"
+     },
+     "summary": {
+      "zh-Hans": "DeepMind 称这是多模型 agent 框架：人类专家和 AI 一起把 Signal 的安全目标写成形式化规格，再由 Gemini Carbon 驱动的 agent 生成 600 多万行 Lean 证明，只有约 1% 需要人工复核，全程约四周；把两个已修复的真实漏洞放回隔离版本后，系统都证明了有漏洞的版本不安全。HN 约 560 分、174 条评论。",
+      "en": "DeepMind describes a multi-LLM agent framework: human experts and models turn Signal’s security goals into formal specifications, then agents powered by Gemini Carbon generate over six million lines of Lean proofs, flagging only about 1% for human review, in roughly four weeks; with two previously fixed real bugs reintroduced in an isolated copy, the system proved the buggy versions insecure. ~560 points and 174 comments on HN.",
+      "zh-Hant": "DeepMind 稱這是多模型 agent 框架：人類專家和 AI 一起把 Signal 的安全目標寫成形式化規格，再由 Gemini Carbon 驅動的 agent 生成 600 多萬行 Lean 證明，只有約 1% 需要人工複覈，全程約四周；把兩個已修復的真實漏洞放回隔離版本後，系統都證明了有漏洞的版本不安全。HN 約 560 分、174 條評論。"
+     },
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50439193"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic 推出 Claude Whiteboards、Claude Sheets，Dashboards 正式更名 Claude Data",
+      "en": "Anthropic launches Claude Whiteboards and Claude Sheets, and Dashboards becomes Claude Data",
+      "zh-Hant": "Anthropic 推出 Claude Whiteboards、Claude Sheets，Dashboards 正式更名 Claude Data"
+     },
+     "summary": {
+      "zh-Hans": "Whiteboards（团队和 Claude 一起头脑风暴的共享白板）和 Sheets（Claude 生成并编辑带公式、下拉框的表格）进入测试，Claude Dashboards 正式可用并改名 Claude Data，新增认证查询和实时分享（测试中）；所有付费计划可用，可导出到 Miro、Lucid、Airtable 或 .xlsx / CSV。HN 约 150 分、119 条评论。",
+      "en": "Whiteboards (a shared board for brainstorming with Claude) and Sheets (spreadsheets with formulas and drop-downs that Claude builds and edits) launch in beta, while Claude Dashboards becomes generally available as Claude Data with certified queries and live sharing in beta; available on all paid plans, with export to Miro, Lucid, Airtable, or .xlsx / CSV. ~150 points and 119 comments on HN.",
+      "zh-Hant": "Whiteboards（團隊和 Claude 一起頭腦風暴的共享白板）和 Sheets（Claude 生成並編輯帶公式、下拉框的表格）進入測試，Claude Dashboards 正式可用並改名 Claude Data，新增認證查詢和實時分享（測試中）；所有付費計劃可用，可導出到 Miro、Lucid、Airtable 或 .xlsx / CSV。HN 約 150 分、119 條評論。"
+     },
+     "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50443716"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "前 Meta 工程师：「AI 写代码让代码库变得脆弱」",
+      "en": "Ex-Meta engineer: AI usage generates a fragile codebase",
+      "zh-Hant": "前 Meta 工程師：「AI 寫代碼讓代碼庫變得脆弱」"
+     },
+     "summary": {
+      "zh-Hans": "作者说在 Meta 的最后几个月，至少 90% 代码由 AI 生成才算达标，现在的新公司要求 100%；他列出 AI 让代码库变脆的几种方式，比如只写浅层测试、代码过度复杂、看不到上下文窗口之外的长期问题。评论区争论激烈。HN 约 350 分、386 条评论。",
+      "en": "The author says generating at least 90% of his code with AI was the bar for a decent rating in his last months at Meta, and his new employer expects 100%; he lists ways AI makes codebases fragile, such as shallow tests, overly complex code, and blindness to long-term issues beyond the context window. Heated discussion. ~350 points and 386 comments on HN.",
+      "zh-Hant": "作者說在 Meta 的最後幾個月，至少 90% 代碼由 AI 生成纔算達標，現在的新公司要求 100%；他列出 AI 讓代碼庫變脆的幾種方式，比如只寫淺層測試、代碼過度複雜、看不到上下文窗口之外的長期問題。評論區爭論激烈。HN 約 350 分、386 條評論。"
+     },
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50438318"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Val Town 宣布关停，2027 年 2 月开源",
+      "en": "Val Town is winding down and will open-source in February 2027",
+      "zh-Hant": "Val Town 宣佈關停，2027 年 2 月開源"
+     },
+     "summary": {
+      "zh-Hans": "创始人 Steve Krouse 称无法在云计算市场竞争：11 月 10 日起停止新注册和升级、暂停扣费，12 月 10 日进入只读，2027 年 1 月 10 日停止全部服务，2 月 1 日开源；年付用户部分退款，并提供迁移到 Cloudflare、Vercel、Netlify、Render 的指南。HN 约 284 分、75 条评论。",
+      "en": "Founder Steve Krouse says Val Town could not compete in cloud computing: new signups and upgrades stop and billing pauses on Nov 10, read-only mode starts Dec 10, all services end Jan 10, 2027, and the code is open-sourced on Feb 1; annual prepaid users get partial refunds, with migration guides for Cloudflare, Vercel, Netlify, and Render. ~284 points and 75 comments on HN.",
+      "zh-Hant": "創始人 Steve Krouse 稱無法在雲計算市場競爭：11 月 10 日起停止新註冊和升級、暫停扣費，12 月 10 日進入只讀，2027 年 1 月 10 日停止全部服務，2 月 1 日開源；年付用戶部分退款，並提供遷移到 Cloudflare、Vercel、Netlify、Render 的指南。HN 約 284 分、75 條評論。"
+     },
+     "url": "https://blog.val.town/winding-down",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50443427"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "VulnCheck：Anthropic Glasswing 七个月，漏洞报告多、修复少",
+      "en": "VulnCheck: seven months into Glasswing, many findings but few fixes",
+      "zh-Hant": "VulnCheck：Anthropic Glasswing 七個月，漏洞報告多、修復少"
+     },
+     "summary": {
+      "zh-Hans": "VulnCheck 统计：Glasswing 可归到 Anthropic 的 CVE 有 442 个（约占今年 CVE 的 0.5%），仅 2 个被确认在野利用；37,966 条发现中只有 7,349 条公开、217 条标记已修复；curl 把 34 份公开报告中的 19 份判为不是漏洞，维护者被大量报告压得喘不过气。HN 约 113 分。",
+      "en": "VulnCheck counts 442 CVEs attributable to Anthropic (about 0.5% of this year’s CVEs), only two known exploited; of 37,966 reported findings, 7,349 are public and 217 marked fixed; curl rejected 19 of 34 published reports as non-vulnerabilities, leaving maintainers swamped with validation work. ~113 points on HN.",
+      "zh-Hant": "VulnCheck 統計：Glasswing 可歸到 Anthropic 的 CVE 有 442 個（約佔今年 CVE 的 0.5%），僅 2 個被確認在野利用；37,966 條發現中只有 7,349 條公開、217 條標記已修復；curl 把 34 份公開報告中的 19 份判爲不是漏洞，維護者被大量報告壓得喘不過氣。HN 約 113 分。"
+     },
+     "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50447074"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Chrome、Edge、Firefox、MDN 联合推出 Modern Web Guidance，让编码 agent 别再写老式前端",
+      "en": "Chrome, Edge, Firefox and MDN launch Modern Web Guidance to keep coding agents off legacy web patterns",
+      "zh-Hant": "Chrome、Edge、Firefox、MDN 聯合推出 Modern Web Guidance，讓編碼 agent 別再寫老式前端"
+     },
+     "summary": {
+      "zh-Hans": "这是一套给编码 agent 用的 skills，内置 Web 平台最佳实践和浏览器兼容数据，引导 agent 用现代原生能力而不是遗留写法；一条 npx 命令安装，也能搜索指南、扫描代码库里的过时模式，已适配 Claude、Codex、Cursor 等插件格式。HN 约 229 分（Show HN）。",
+      "en": "A set of skills for coding agents that embeds web platform best practices and browser compatibility data, steering agents toward modern native capabilities instead of legacy patterns; one npx command installs it, and it can search guides and scan a codebase for outdated patterns, with plugin formats for Claude, Codex, Cursor and others. ~229 points on HN (Show HN).",
+      "zh-Hant": "這是一套給編碼 agent 用的 skills，內置 Web 平臺最佳實踐和瀏覽器兼容數據，引導 agent 用現代原生能力而不是遺留寫法；一條 npx 命令安裝，也能搜索指南、掃描代碼庫裏的過時模式，已適配 Claude、Codex、Cursor 等插件格式。HN 約 229 分（Show HN）。"
+     },
+     "url": "https://github.com/GoogleChrome/modern-web-guidance",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50443812"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "X 爆料：苹果在做 Harbor，把多台 Mac 组成私有本地推理服务器",
+      "en": "Leak on X: Apple is building Harbor, turning Macs into a private local inference cluster",
+      "zh-Hant": "X 爆料：蘋果在做 Harbor，把多臺 Mac 組成私有本地推理服務器"
+     },
+     "summary": {
+      "zh-Hans": "爆料人 Aaron Perris 在 X 上披露，9to5Mac 跟进：Harbor 在 Apple 芯片上本地跑开源权重模型，数据不出设备，可通过 Thunderbolt 5 自动组网、合并多台 Mac 的统一内存来跑更大的模型；目前以 Claris 品牌私下预览。HN 约 89 分、43 条评论。",
+      "en": "Leaker Aaron Perris posted on X and 9to5Mac followed up: Harbor runs open-weight models locally on Apple silicon with data staying on device, automatically clusters Macs over Thunderbolt 5 to pool unified memory for larger models, and is in private preview under the Claris brand. ~89 points and 43 comments on HN.",
+      "zh-Hant": "爆料人 Aaron Perris 在 X 上披露，9to5Mac 跟進：Harbor 在 Apple 芯片上本地跑開源權重模型，數據不出設備，可通過 Thunderbolt 5 自動組網、合併多臺 Mac 的統一內存來跑更大的模型；目前以 Claris 品牌私下預覽。HN 約 89 分、43 條評論。"
+     },
+     "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50446520"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "「智能家居应该断网也能用」：一位玩家十年的规则清单",
+      "en": "Smart home devices should work without the internet: one builder’s rules after years of tinkering",
+      "zh-Hant": "「智能家居應該斷網也能用」：一位玩家十年的規則清單"
+     },
+     "summary": {
+      "zh-Hans": "作者的核心设备都跑在自己的硬件上（ESP 板刷 Tasmota、MQTT、树莓派上的 Node-RED），规则包括断网时核心功能照常、不拆掉原来的开关、云设备必须有带日志的 API 才能装、配置集中一处。HN 今日最高分之一，约 654 分、232 条评论。",
+      "en": "The author runs everything that matters on hardware he owns (Tasmota on ESP boards, an MQTT broker, Node-RED on a Raspberry Pi), with rules like core functions must work offline, never remove the old way, cloud devices need an API with logs, and config lives in one place. One of today’s top HN posts, ~654 points and 232 comments.",
+      "zh-Hant": "作者的核心設備都跑在自己的硬件上（ESP 板刷 Tasmota、MQTT、樹莓派上的 Node-RED），規則包括斷網時核心功能照常、不拆掉原來的開關、雲設備必須有帶日誌的 API 才能裝、配置集中一處。HN 今日最高分之一，約 654 分、232 條評論。"
+     },
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50441707"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "Val Town 迁移工具 / 指南 — Val Town 1 月 10 日停服，12 月 10 日就只读；做一个把 vals 一键迁到 Cloudflare Workers 或 Vercel 的脚本加落地页，或付费代迁移，窗口只有约一个月。",
+     "Claude Sheets / Whiteboards 模板包 — 新品刚上线、搜索需求在涨；整理一组可直接复制的提示词和模板（活动排期表、招聘预算、复盘白板），做成免费合集引流，再卖进阶包。",
+     "AI 代码库「脆弱度」体检 — 「AI 让代码库变脆」再次引爆讨论；做一个扫描浅层测试、重复和过度复杂代码的报告工具，也可以接入 Modern Web Guidance 的过时模式扫描，给出清理清单。",
+     "开源维护者的漏洞报告分诊助手 — Glasswing 类 AI 扫描把验证成本推给维护者；做一个对漏洞报告去重、复现打分、自动请求补充信息的 GitHub App。",
+     "Mac 本地推理组网指南 — Harbor 爆料让「多台 Mac 跑大模型」成为话题；写一份 Mac Studio / mini 组网跑开源模型的成本、速度对照和配置教程，适合做联盟带货内容。"
+    ],
+    "en": [
+     "Val Town migration tool or guide — Val Town goes read-only on Dec 10 and shuts down on Jan 10; a script plus landing page that moves vals to Cloudflare Workers or Vercel, or a paid migration service, has about a one-month window.",
+     "Claude Sheets and Whiteboards template pack — Fresh launches drive search demand; a set of copy-ready prompts and templates (campaign tracker, hiring budget, retro board) works as a free collection for traffic, with a paid advanced pack.",
+     "AI codebase fragility check — “AI makes codebases fragile” is trending again; a report tool that flags shallow tests, duplicated and overly complex code, optionally combined with Modern Web Guidance’s legacy scan, can output a cleanup list.",
+     "Vulnerability report triage for maintainers — AI scanners like Glasswing push validation work onto maintainers; a GitHub App that dedupes reports, scores reproducibility, and requests missing details fits.",
+     "Mac local inference cluster guide — The Harbor leak makes running large models on several Macs a hot topic; a cost and speed comparison plus setup tutorial for Mac Studio / mini clusters suits affiliate content."
+    ],
+    "zh-Hant": [
+     "Val Town 遷移工具 / 指南 — Val Town 1 月 10 日停服，12 月 10 日就只讀；做一個把 vals 一鍵遷到 Cloudflare Workers 或 Vercel 的腳本加落地頁，或付費代遷移，窗口只有約一個月。",
+     "Claude Sheets / Whiteboards 模板包 — 新品剛上線、搜索需求在漲；整理一組可直接複製的提示詞和模板（活動排期表、招聘預算、覆盤白板），做成免費合集引流，再賣進階包。",
+     "AI 代碼庫「脆弱度」體檢 — 「AI 讓代碼庫變脆」再次引爆討論；做一個掃描淺層測試、重複和過度複雜代碼的報告工具，也可以接入 Modern Web Guidance 的過時模式掃描，給出清理清單。",
+     "開源維護者的漏洞報告分診助手 — Glasswing 類 AI 掃描把驗證成本推給維護者；做一個對漏洞報告去重、復現打分、自動請求補充信息的 GitHub App。",
+     "Mac 本地推理組網指南 — Harbor 爆料讓「多臺 Mac 跑大模型」成爲話題；寫一份 Mac Studio / mini 組網跑開源模型的成本、速度對照和配置教程，適合做聯盟帶貨內容。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "meta/astryx",
+      "en": "meta/astryx",
+      "zh-Hant": "meta/astryx"
+     },
+     "summary": {
+      "zh-Hans": "Meta 开源、面向 agent 的设计系统，继续霸榜（今日约 3,108 星增量）。",
+      "en": "Meta’s open-source, agent-ready design system, still trending (~3,108 stars today).",
+      "zh-Hant": "Meta 開源、面向 agent 的設計系統，繼續霸榜（今日約 3,108 星增量）。"
+     },
+     "url": "https://github.com/meta/astryx"
+    },
+    {
+     "title": {
+      "zh-Hans": "anthropics/skills",
+      "en": "anthropics/skills",
+      "zh-Hant": "anthropics/skills"
+     },
+     "summary": {
+      "zh-Hans": "Anthropic 公开的 Agent Skills 仓库（今日约 1,679 星增量）。",
+      "en": "Anthropic’s public Agent Skills repository (~1,679 stars today).",
+      "zh-Hant": "Anthropic 公開的 Agent Skills 倉庫（今日約 1,679 星增量）。"
+     },
+     "url": "https://github.com/anthropics/skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "homeassistant-ai/ha-mcp",
+      "en": "homeassistant-ai/ha-mcp",
+      "zh-Hant": "homeassistant-ai/ha-mcp"
+     },
+     "summary": {
+      "zh-Hans": "用 Claude、ChatGPT 等助手配置和自动化 Home Assistant（今日约 790 星增量）。",
+      "en": "Configure and automate Home Assistant with Claude, ChatGPT and other assistants (~790 stars today).",
+      "zh-Hant": "用 Claude、ChatGPT 等助手配置和自動化 Home Assistant（今日約 790 星增量）。"
+     },
+     "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+     "title": {
+      "zh-Hans": "addyosmani/agent-skills",
+      "en": "addyosmani/agent-skills",
+      "zh-Hant": "addyosmani/agent-skills"
+     },
+     "summary": {
+      "zh-Hans": "给 AI 编码 agent 的生产级工程 skills（今日约 465 星增量）。",
+      "en": "Production-grade engineering skills for AI coding agents (~465 stars today).",
+      "zh-Hant": "給 AI 編碼 agent 的生產級工程 skills（今日約 465 星增量）。"
+     },
+     "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "ranxianglei/billion-context",
+      "en": "ranxianglei/billion-context",
+      "zh-Hant": "ranxianglei/billion-context"
+     },
+     "summary": {
+      "zh-Hans": "超长单会话的上下文压缩插件，主打省 token（今日约 375 星增量）。",
+      "en": "A context-compression plugin for very long single sessions that saves tokens (~375 stars today).",
+      "zh-Hant": "超長單會話的上下文壓縮插件，主打省 token（今日約 375 星增量）。"
+     },
+     "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+     "title": {
+      "zh-Hans": "vercel-labs/agent-browser",
+      "en": "vercel-labs/agent-browser",
+      "zh-Hant": "vercel-labs/agent-browser"
+     },
+     "summary": {
+      "zh-Hans": "给 AI agent 用的浏览器自动化命令行（今日约 780 星增量）。",
+      "en": "Browser-automation CLI for AI agents (~780 stars today).",
+      "zh-Hant": "給 AI agent 用的瀏覽器自動化命令行（今日約 780 星增量）。"
+     },
+     "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Gemini 4 Carbon in Copilot",
+      "en": "GitHub Changelog · Gemini 4 Carbon in Copilot",
+      "zh-Hant": "GitHub Changelog · Gemini 4 Carbon in Copilot"
+     },
+     "summary": {
+      "zh-Hans": "Google 最新模型 Gemini 4 Carbon 在 Copilot 正式可用（Pro+、Max、Business、Enterprise）。",
+      "en": "Google’s latest model Gemini 4 Carbon is generally available in Copilot (Pro+, Max, Business, Enterprise).",
+      "zh-Hant": "Google 最新模型 Gemini 4 Carbon 在 Copilot 正式可用（Pro+、Max、Business、Enterprise）。"
+     },
+     "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Dependabot alerts pause on inactive repos",
+      "en": "GitHub Changelog · Dependabot alerts pause on inactive repos",
+      "zh-Hant": "GitHub Changelog · Dependabot alerts pause on inactive repos"
+     },
+     "summary": {
+      "zh-Hans": "12 月 8 日起，一年没有活动的仓库会自动关闭 Dependabot 警报，任意一次 push 即恢复。",
+      "en": "From Dec 8, Dependabot alerts turn off on repositories with no activity for a year; any push turns them back on.",
+      "zh-Hant": "12 月 8 日起，一年沒有活動的倉庫會自動關閉 Dependabot 警報，任意一次 push 即恢復。"
+     },
+     "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories"
+    }
+   ]
+  },
   {
    "date": "2026-11-10",
    "path": "digest/2026-11-10/",
