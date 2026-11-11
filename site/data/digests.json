@@ -129,9 +129,9 @@
     },
     {
      "title": {
-      "zh-Hans": "「智能家居应该断网也能用」：一位玩家十年的规则清单",
+      "zh-Hans": "「智能家居应该断网也能用」：一位玩家多年的规则清单",
       "en": "Smart home devices should work without the internet: one builder’s rules after years of tinkering",
-      "zh-Hant": "「智能家居應該斷網也能用」：一位玩家十年的規則清單"
+      "zh-Hant": "「智能家居應該斷網也能用」：一位玩家多年的規則清單"
      },
      "summary": {
       "zh-Hans": "作者的核心设备都跑在自己的硬件上（ESP 板刷 Tasmota、MQTT、树莓派上的 Node-RED），规则包括断网时核心功能照常、不拆掉原来的开关、云设备必须有带日志的 API 才能装、配置集中一处。HN 今日最高分之一，约 654 分、232 条评论。",
