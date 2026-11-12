@@ -1,6 +1,281 @@
 {
- "latest": "2026-11-11",
+ "latest": "2026-11-12",
  "digests": [
+  {
+   "date": "2026-11-12",
+   "path": "digest/2026-11-12/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-12",
+    "en": "Morning tech digest · 2026-11-12",
+    "zh-Hant": "早間技術熱點 · 2026-11-12"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "AWS 发布 AWS Emulator：给编码 agent 用的本地 AWS 模拟器",
+      "en": "AWS releases AWS Emulator, a local copy of the AWS APIs for coding agents to test against",
+      "zh-Hant": "AWS 發佈 AWS Emulator：給編碼 agent 用的本地 AWS 模擬器"
+     },
+     "summary": {
+      "zh-Hans": "开源的本地 AWS API 模拟器，不需要 AWS 账号、不额外收费，可在本机、开发服务器或 CI 里测试代码；支持服务器模式（AWS CLI 和任意 SDK）和 Rust 测试的嵌入模式，每个版本公布各服务与真实 AWS 的吻合度分数。Werner Vogels 博客上 Swami 的文章说，它的全部代码由 agent 编写和测试，基于 400 多个 API 模型、覆盖 200 多个 AWS 服务。HN 约 605 分、205 条评论。",
+      "en": "An open-source local emulator of the AWS APIs: no AWS account and no extra fee, for testing on your machine, a dev server, or CI; it offers a server mode for the AWS CLI and any SDK plus an embedded mode for Rust tests, and publishes per-service fidelity scores with each release. In a guest post on Werner Vogels’ blog, Swami says all of its code was written and tested by agents, built from more than 400 API models covering over 200 AWS services. ~605 points and 205 comments on HN.",
+      "zh-Hant": "開源的本地 AWS API 模擬器，不需要 AWS 賬號、不額外收費，可在本機、開發服務器或 CI 裏測試代碼；支持服務器模式（AWS CLI 和任意 SDK）和 Rust 測試的嵌入模式，每個版本公佈各服務與真實 AWS 的吻合度分數。Werner Vogels 博客上 Swami 的文章說，它的全部代碼由 agent 編寫和測試，基於 400 多個 API 模型、覆蓋 200 多個 AWS 服務。HN 約 605 分、205 條評論。"
+     },
+     "url": "https://github.com/aws/aws-emulator",
+     "extra": [
+      "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "https://news.ycombinator.com/item?id=50456631"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "用 AI agent 分析 NASA 激光雷达数据，72 小时「找到」一处玛雅遗址",
+      "en": "AI agents scanned NASA lidar data and (re)discovered a Maya site in 72 hours",
+      "zh-Hant": "用 AI agent 分析 NASA 激光雷達數據，72 小時「找到」一處瑪雅遺址"
+     },
+     "summary": {
+      "zh-Hans": "作者把约 1,200 平方公里丛林的 lidar 数据转成图像，让 48 个 agent 按指南逐张找金字塔、平台和广场，排除自然山丘和天坑；其中一处悬崖边的山顶遗址不在墨西哥 INAH 登记册中，作者 72 小时内拿到官方回复。更新：该遗址已在 2025 年的论文里被测绘过，所以是「重新发现」。HN 今日最高分，约 912 分、335 条评论。",
+      "en": "The author turned lidar strips covering about 1,200 km² of jungle into images and had 48 agents go through them following a guide, looking for pyramids, platforms and plazas while filtering out natural hills and sinkholes; one cliff-edge hilltop site was missing from Mexico’s INAH register, and an official reply came within 72 hours. Update: archaeologists had already mapped it in a 2025 paper, so it was a rediscovery. Top HN post of the day, ~912 points and 335 comments.",
+      "zh-Hant": "作者把約 1,200 平方公里叢林的 lidar 數據轉成圖像，讓 48 個 agent 按指南逐張找金字塔、平臺和廣場，排除自然山丘和天坑；其中一處懸崖邊的山頂遺址不在墨西哥 INAH 登記冊中，作者 72 小時內拿到官方回覆。更新：該遺址已在 2025 年的論文裏被測繪過，所以是「重新發現」。HN 今日最高分，約 912 分、335 條評論。"
+     },
+     "url": "https://pietromiotti.com/latest/maya-site",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50452455"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Python 核心开发者、《Python 之禅》作者 Tim Peters 去世",
+      "en": "Tim Peters, author of the Zen of Python and Timsort, has died",
+      "zh-Hant": "Python 核心開發者、《Python 之禪》作者 Tim Peters 去世"
+     },
+     "summary": {
+      "zh-Hans": "Guido van Rossum 在 Python 官方论坛宣布，Tim Peters 已于今年 7 月 15 日去世。他写下了 PEP 20《Python 之禅》，2002 年设计的 Timsort 排序算法后来被 Java 和 Android 采用，也因在邮件列表上耐心细致的解答被称为「Timbot」。HN 约 800 分。",
+      "en": "Guido van Rossum announced on the Python forum that Tim Peters died on July 15 this year. He wrote PEP 20, the Zen of Python, designed Timsort in 2002 (later adopted by Java and Android), and was nicknamed “Timbot” for his patient, careful answers on the mailing lists. ~800 points on HN.",
+      "zh-Hant": "Guido van Rossum 在 Python 官方論壇宣佈，Tim Peters 已於今年 7 月 15 日去世。他寫下了 PEP 20《Python 之禪》，2002 年設計的 Timsort 排序算法後來被 Java 和 Android 採用，也因在郵件列表上耐心細緻的解答被稱爲「Timbot」。HN 約 800 分。"
+     },
+     "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50450488"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "WSJ 独家：英伟达董事会准备罢免 CEO 黄仁勋",
+      "en": "WSJ: Nvidia’s board is preparing to oust CEO Jensen Huang",
+      "zh-Hant": "WSJ 獨家：英偉達董事會準備罷免 CEO 黃仁勳"
+     },
+     "summary": {
+      "zh-Hans": "《华尔街日报》援引知情人士称，董事会在调查他的两段婚外情（一段对象被指涉嫌间谍、另一段是公司员工）后准备罢免他，最快周三开会决定；《纽约时报》也报道了他与一名直接下属的关系。消息在 X 上迅速传开，目前仍是媒体报道、尚无公司官方结论。HN 上相关帖子约 320 分、301 条评论。",
+      "en": "Citing people familiar with the matter, the Wall Street Journal reports the board is preparing to remove him after an investigation into two extramarital affairs, one with a woman alleged to be a spy and one with an employee, and could meet as soon as Wednesday; the New York Times also reported a relationship with an executive who reports to him. The news spread quickly on X; these are press reports with no official company decision yet. ~320 points and 301 comments on HN.",
+      "zh-Hant": "《華爾街日報》援引知情人士稱，董事會在調查他的兩段婚外情（一段對象被指涉嫌間諜、另一段是公司員工）後準備罷免他，最快週三開會決定；《紐約時報》也報道了他與一名直接下屬的關係。消息在 X 上迅速傳開，目前仍是媒體報道、尚無公司官方結論。HN 上相關帖子約 320 分、301 條評論。"
+     },
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "extra": [
+      "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "https://news.ycombinator.com/item?id=50459703"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "美联航禁止个人 AI agent 代订机票",
+      "en": "United Airlines bans personal AI agents from booking flights for travelers",
+      "zh-Hant": "美聯航禁止個人 AI agent 代訂機票"
+     },
+     "summary": {
+      "zh-Hans": "美联航称把账户凭证交给第三方 AI 助手有安全风险，可能导致意外购票、账户变更或里程被用，用 agent 值机还可能违反联邦规定，因此会在自家平台和旅行社、聚合平台上限制未授权的个人 AI agent；分析师认为它不想再多一个中间商。西南航空则相反，把航班库存开放给 ChatGPT 用户。HN 约 286 分、268 条评论。",
+      "en": "United says sharing account credentials with third-party AI assistants risks unintended purchases, account changes or use of MileagePlus miles, and that agent check-in could breach federal rules, so it will restrict unauthorized personal AI agents on its own platforms and via travel agencies and aggregators; an analyst says it does not want another intermediary. Southwest, by contrast, opened its inventory to ChatGPT users. ~286 points and 268 comments on HN.",
+      "zh-Hant": "美聯航稱把賬戶憑證交給第三方 AI 助手有安全風險，可能導致意外購票、賬戶變更或里程被用，用 agent 值機還可能違反聯邦規定，因此會在自家平臺和旅行社、聚合平臺上限制未授權的個人 AI agent；分析師認爲它不想再多一箇中間商。西南航空則相反，把航班庫存開放給 ChatGPT 用戶。HN 約 286 分、268 條評論。"
+     },
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50458900"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Google 推出 Gemini Decisions API：一次前向计算给出带置信度的判断",
+      "en": "Google launches the Gemini Decisions API for fast, calibrated multimodal decisions",
+      "zh-Hant": "Google 推出 Gemini Decisions API：一次前向計算給出帶置信度的判斷"
+     },
+     "summary": {
+      "zh-Hans": "新端点由 Gemini Decision 1 模型驱动，专做是非、多选和评分量表这类封闭式判断：一份多模态输入（文本、图像、音频、视频、PDF，最长 256K tokens）可同时问最多 1,000 个问题，不逐 token 生成，直接返回概率和置信度，端到端 150–250 毫秒，每百万输入 token 0.10 美元、输出不计费，适合路由、内容评分和策略检查。HN 约 224 分。",
+      "en": "A new endpoint powered by the Gemini Decision 1 model for closed-set decisions (yes/no, multiple choice, rubric scores): one multimodal input (text, images, audio, video, PDFs, up to 256K tokens) can carry up to 1,000 questions, scored in a single forward pass with probabilities and confidence scores in 150–250 ms end to end, at $0.10 per 1M input tokens with no output tokens billed; aimed at routing, grading and policy checks. ~224 points on HN.",
+      "zh-Hant": "新端點由 Gemini Decision 1 模型驅動，專做是非、多選和評分量表這類封閉式判斷：一份多模態輸入（文本、圖像、音頻、視頻、PDF，最長 256K tokens）可同時問最多 1,000 個問題，不逐 token 生成，直接返回概率和置信度，端到端 150–250 毫秒，每百萬輸入 token 0.10 美元、輸出不計費，適合路由、內容評分和策略檢查。HN 約 224 分。"
+     },
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50456791"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "一次假火警差点淹掉 Jane Street 唯一的纽约机房",
+      "en": "How a false smoke alarm almost drowned Jane Street’s only NYC datacenter",
+      "zh-Hant": "一次假火警差點淹掉 Jane Street 唯一的紐約機房"
+     },
+     "summary": {
+      "zh-Hans": "前系统团队成员回忆：施工粉尘触发烟感，烟感自动关掉机房空调，同时让喷淋管道充水，而喷头靠温度触发；他冲回大楼，在室温升到约 143°F 时把每台设备的电源线拔掉才保住机房。事后他用 OCaml 写了一个监控：每分钟取所有服务器温度的平均值，略高就报警。HN 约 389 分、190 条评论。",
+      "en": "A former systems-team member recalls contractor dust tripping the smoke alarm, which shut down the room’s cooling and pressurized the sprinkler pipes, whose heads open on heat; he ran back and pulled every power cord as the room hit about 143°F. Afterwards he wrote an OCaml monitor that averages every server’s temperature each minute and alerts if it rises even slightly. ~389 points and 190 comments on HN.",
+      "zh-Hant": "前系統團隊成員回憶：施工粉塵觸發煙感，煙感自動關掉機房空調，同時讓噴淋管道充水，而噴頭靠溫度觸發；他衝回大樓，在室溫升到約 143°F 時把每臺設備的電源線拔掉才保住機房。事後他用 OCaml 寫了一個監控：每分鐘取所有服務器溫度的平均值，略高就報警。HN 約 389 分、190 條評論。"
+     },
+     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50455394"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Atuin Threads：跨机器同步、搜索和续接所有 AI 编码 agent 会话",
+      "en": "Atuin Threads: one searchable, synced history for every agent session on every machine",
+      "zh-Hant": "Atuin Threads：跨機器同步、搜索和續接所有 AI 編碼 agent 會話"
+     },
+     "summary": {
+      "zh-Hans": "Atuin 18.24 新功能：把散落在各工具、各机器上的 agent 会话纳入加密同步，可以全文搜索，在任意机器上用 atuin resume 继续，或把会话分叉到另一个 agent 工具，比如在开发服务器的 Claude Code 里开始、在笔记本的 Codex 里收尾。HN 约 185 分。",
+      "en": "New in Atuin 18.24: agent sessions scattered across tools and machines go into Atuin’s encrypted sync, so you can search them, resume them anywhere with atuin resume, or fork a session into another agent harness, for example starting in Claude Code on a dev server and finishing in Codex on a laptop. ~185 points on HN.",
+      "zh-Hant": "Atuin 18.24 新功能：把散落在各工具、各機器上的 agent 會話納入加密同步，可以全文搜索，在任意機器上用 atuin resume 繼續，或把會話分叉到另一個 agent 工具，比如在開發服務器的 Claude Code 裏開始、在筆記本的 Codex 裏收尾。HN 約 185 分。"
+     },
+     "url": "https://blog.atuin.sh/threads-agent-sessions/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50453637"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "AWS Emulator 上手模板 / CI 方案 — AWS Emulator 刚发布、文档还少；做一套「agent + 本地 AWS 模拟器」的测试模板（S3、DynamoDB、Lambda 常见场景）和 GitHub Actions 配置，配教程和视频，抢第一波搜索流量。",
+     "「用 agent 做公开数据发现」教程 — 玛雅遗址故事证明多 agent 逐张看图很有效；把流程改成可复用的教程或小工具：公开卫星、lidar、政府数据集 + 多 agent 标注 + 文献核查，适合做内容和付费工作坊。",
+     "低成本「AI 判断层」服务 — Gemini Decisions API 每百万 token 0.10 美元、输出不计费；包装成内容审核、线索打分、工单分流的现成接口或 Zapier / n8n 节点，按调用量收费。",
+     "航司 / 商家 AI agent 政策追踪表 — 美联航禁止 AI agent 代订、西南航空却开放给 ChatGPT；做一个持续更新的「哪些平台允许或禁止 AI agent」清单网站，面向 agent 开发者和旅行玩家，可接联盟链接。",
+     "agent 会话管理与「贵模型规划、便宜模型执行」工作流 — Atuin Threads 和 shadcn/improve 同时走红；写一份跨工具管理 agent 会话、用强模型出计划再交给便宜模型执行的实操指南，附提示词和成本对比。"
+    ],
+    "en": [
+     "AWS Emulator starter templates and CI setups — AWS Emulator just shipped and docs are thin; a set of agent-plus-local-AWS test templates (common S3, DynamoDB, Lambda cases) with GitHub Actions configs, a tutorial and a video can catch the first wave of search traffic.",
+     "Tutorial: discovery with agents on public data — The Maya story shows many agents reviewing images one by one works; turn the workflow into a reusable tutorial or small tool (public satellite, lidar or government datasets, multi-agent labeling, literature checks) for content and paid workshops.",
+     "Low-cost AI decision layer as a service — The Gemini Decisions API costs $0.10 per 1M input tokens with no output billing; wrap it as ready-made moderation, lead scoring or ticket routing endpoints, or Zapier / n8n nodes, priced per call.",
+     "Tracker of airline and merchant AI agent policies — United bans agent bookings while Southwest opens to ChatGPT; a continuously updated site listing which platforms allow or block AI agents serves agent builders and travelers, with room for affiliate links.",
+     "Agent session management and plan-with-strong, execute-with-cheap workflows — Atuin Threads and shadcn/improve are trending together; a hands-on guide to managing agent sessions across tools and having a strong model write plans for cheaper models to execute, with prompts and cost comparisons."
+    ],
+    "zh-Hant": [
+     "AWS Emulator 上手模板 / CI 方案 — AWS Emulator 剛發佈、文檔還少；做一套「agent + 本地 AWS 模擬器」的測試模板（S3、DynamoDB、Lambda 常見場景）和 GitHub Actions 配置，配教程和視頻，搶第一波搜索流量。",
+     "「用 agent 做公開數據發現」教程 — 瑪雅遺址故事證明多 agent 逐張看圖很有效；把流程改成可複用的教程或小工具：公開衛星、lidar、政府數據集 + 多 agent 標註 + 文獻覈查，適合做內容和付費工作坊。",
+     "低成本「AI 判斷層」服務 — Gemini Decisions API 每百萬 token 0.10 美元、輸出不計費；包裝成內容審覈、線索打分、工單分流的現成接口或 Zapier / n8n 節點，按調用量收費。",
+     "航司 / 商家 AI agent 政策追蹤表 — 美聯航禁止 AI agent 代訂、西南航空卻開放給 ChatGPT；做一個持續更新的「哪些平臺允許或禁止 AI agent」清單網站，面向 agent 開發者和旅行玩家，可接聯盟鏈接。",
+     "agent 會話管理與「貴模型規劃、便宜模型執行」工作流 — Atuin Threads 和 shadcn/improve 同時走紅；寫一份跨工具管理 agent 會話、用強模型出計劃再交給便宜模型執行的實操指南，附提示詞和成本對比。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "shadcn/improve",
+      "en": "shadcn/improve",
+      "zh-Hant": "shadcn/improve"
+     },
+     "summary": {
+      "zh-Hans": "shadcn 的 agent skill：用强模型审计代码库、写成可执行计划，再交给便宜模型去做（今日约 361 星增量）。",
+      "en": "An agent skill from shadcn that audits a codebase with your most capable model and writes plans for cheaper models to execute (~361 stars today).",
+      "zh-Hant": "shadcn 的 agent skill：用強模型審計代碼庫、寫成可執行計劃，再交給便宜模型去做（今日約 361 星增量）。"
+     },
+     "url": "https://github.com/shadcn/improve"
+    },
+    {
+     "title": {
+      "zh-Hans": "openai/codex-security",
+      "en": "openai/codex-security",
+      "zh-Hant": "openai/codex-security"
+     },
+     "summary": {
+      "zh-Hans": "OpenAI 的 Codex Security CLI 和 TypeScript SDK：扫描、验证并修复代码漏洞，可接 GitHub Action（今日约 52 星增量）。",
+      "en": "OpenAI’s Codex Security CLI and TypeScript SDK to find, validate and fix vulnerabilities, with a GitHub Action (~52 stars today).",
+      "zh-Hant": "OpenAI 的 Codex Security CLI 和 TypeScript SDK：掃描、驗證並修復代碼漏洞，可接 GitHub Action（今日約 52 星增量）。"
+     },
+     "url": "https://github.com/openai/codex-security"
+    },
+    {
+     "title": {
+      "zh-Hans": "we-promise/sure",
+      "en": "we-promise/sure",
+      "zh-Hant": "we-promise/sure"
+     },
+     "summary": {
+      "zh-Hans": "面向所有人的开源个人理财应用（今日约 1,078 星增量）。",
+      "en": "An open-source personal finance app for everyone (~1,078 stars today).",
+      "zh-Hant": "面向所有人的開源個人理財應用（今日約 1,078 星增量）。"
+     },
+     "url": "https://github.com/we-promise/sure"
+    },
+    {
+     "title": {
+      "zh-Hans": "meta/astryx",
+      "en": "meta/astryx",
+      "zh-Hant": "meta/astryx"
+     },
+     "summary": {
+      "zh-Hans": "Meta 开源、面向 agent 的设计系统，连续霸榜（今日约 2,776 星增量）。",
+      "en": "Meta’s open-source, agent-ready design system, still topping the chart (~2,776 stars today).",
+      "zh-Hant": "Meta 開源、面向 agent 的設計系統，連續霸榜（今日約 2,776 星增量）。"
+     },
+     "url": "https://github.com/meta/astryx"
+    },
+    {
+     "title": {
+      "zh-Hans": "addyosmani/agent-skills",
+      "en": "addyosmani/agent-skills",
+      "zh-Hant": "addyosmani/agent-skills"
+     },
+     "summary": {
+      "zh-Hans": "给 AI 编码 agent 的生产级工程 skills（今日约 787 星增量）。",
+      "en": "Production-grade engineering skills for AI coding agents (~787 stars today).",
+      "zh-Hant": "給 AI 編碼 agent 的生產級工程 skills（今日約 787 星增量）。"
+     },
+     "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "GoogleChrome/modern-web-guidance-src",
+      "en": "GoogleChrome/modern-web-guidance-src",
+      "zh-Hant": "GoogleChrome/modern-web-guidance-src"
+     },
+     "summary": {
+      "zh-Hans": "Modern Web Guidance 的源码仓库，含编写、校准和评测指南的工具；1.0 版已发布（今日约 159 星增量）。",
+      "en": "Source repo for Modern Web Guidance, with tooling to author, calibrate and evaluate its guides; version 1.0 is out (~159 stars today).",
+      "zh-Hant": "Modern Web Guidance 的源碼倉庫，含編寫、校準和評測指南的工具；1.0 版已發佈（今日約 159 星增量）。"
+     },
+     "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Issue types and fields for personal accounts",
+      "en": "GitHub Changelog · Issue types and fields for personal accounts",
+      "zh-Hant": "GitHub Changelog · Issue types and fields for personal accounts"
+     },
+     "summary": {
+      "zh-Hans": "个人账户的仓库也能用 Issue 类型和自定义字段（各最多 25 个），支持 REST / GraphQL API 和 webhook，独立开发者做任务管理更方便。",
+      "en": "Issue types and issue fields (up to 25 each) now work on personal-account repositories, with REST / GraphQL APIs and webhooks, handy for solo developers.",
+      "zh-Hant": "個人賬戶的倉庫也能用 Issue 類型和自定義字段（各最多 25 個），支持 REST / GraphQL API 和 webhook，獨立開發者做任務管理更方便。"
+     },
+     "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · GitHub App support for Copilot seat management",
+      "en": "GitHub Changelog · GitHub App support for Copilot seat management",
+      "zh-Hant": "GitHub Changelog · GitHub App support for Copilot seat management"
+     },
+     "summary": {
+      "zh-Hans": "企业 GitHub App 可通过新的细粒度权限调用 Copilot 席位管理 API，自动分配席位。",
+      "en": "Enterprise GitHub Apps can call the Copilot seat management APIs through a new fine-grained permission to automate seat assignment.",
+      "zh-Hant": "企業 GitHub App 可通過新的細粒度權限調用 Copilot 席位管理 API，自動分配席位。"
+     },
+     "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management"
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "path": "digest/2026-11-11/",
