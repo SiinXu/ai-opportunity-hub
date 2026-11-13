@@ -1,6 +1,283 @@
 {
- "latest": "2026-11-12",
+ "latest": "2026-11-13",
  "digests": [
+  {
+   "date": "2026-11-13",
+   "path": "digest/2026-11-13/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-13",
+    "en": "Morning tech digest · 2026-11-13",
+    "zh-Hant": "早間技術熱點 · 2026-11-13"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行信號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "黄仁勋辞去英伟达 CEO，CFO Colette Kress 暂代",
+      "en": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim chief",
+      "zh-Hant": "黃仁勳辭去英偉達 CEO，CFO Colette Kress 暫代"
+     },
+     "summary": {
+      "zh-Hans": "英伟达董事会周三深夜开会后宣布，黄仁勋辞去 CEO、总裁和董事职务，即刻生效；此前多家媒体报道他有两段婚外情，一段对象是新加坡云服务商 Megaspeed 的前高管、被指为中国情报人员，另一段是直属下级。CFO Colette Kress 任临时 CEO，前 Synopsys CEO Harvey C. Jones 出任公司史上首位董事会主席，董事会将内外部同时物色正式 CEO。美联社称股价开盘一度跌 14%。HN 今日最高分，约 2,783 分、2,648 条评论。",
+      "en": "After a late Wednesday board meeting, Nvidia said Jensen Huang resigned as CEO, president and director, effective immediately, following reports of two extramarital affairs: one with a former executive of Singapore cloud provider Megaspeed alleged to be a Chinese intelligence operative, and one with an Nvidia executive who reported to him. CFO Colette Kress is interim CEO, former Synopsys CEO Harvey C. Jones becomes the company’s first board chair, and the board will consider internal and external candidates. AP reports shares fell 14% at the open. Top HN post of the day, ~2,783 points and 2,648 comments.",
+      "zh-Hant": "英偉達董事會週三深夜開會後宣佈，黃仁勳辭去 CEO、總裁和董事職務，即刻生效；此前多家媒體報道他有兩段婚外情，一段對象是新加坡雲服務商 Megaspeed 的前高管、被指爲中國情報人員，另一段是直屬下級。CFO Colette Kress 任臨時 CEO，前 Synopsys CEO Harvey C. Jones 出任公司史上首位董事會主席，董事會將內外部同時物色正式 CEO。美聯社稱股價開盤一度跌 14%。HN 今日最高分，約 2,783 分、2,648 條評論。"
+     },
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "extra": [
+      "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "https://news.ycombinator.com/item?id=50467087"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic 上市路演：代码 ANT，Q3 营收 170 亿美元",
+      "en": "Anthropic launches its IPO roadshow: ticker ANT, $17.0B Q3 revenue",
+      "zh-Hant": "Anthropic 上市路演：代碼 ANT，Q3 營收 170 億美元"
+     },
+     "summary": {
+      "zh-Hans": "Anthropic 的 IPO 页面和路演公告显示：发行 8.25 亿股 A 类股，每股指导价 70–78 美元，申请在纳斯达克以 ANT 上市；雅虎财经报道 11 月 18 日定价、19 日开始交易。页面列出 2026 年第三季度营收 170 亿美元、同比超 12 倍，年化贡献 10 万美元以上的客户超过 11,900 家；净亏损 233 亿美元，其中 219 亿是可转债等公允价值变动的非现金费用。HN 约 794 分、789 条评论。",
+      "en": "Anthropic’s IPO site and roadshow announcement: 825 million Class A shares at an expected $70–78 each, applying to list on the Nasdaq Global Select Market as ANT; Yahoo Finance reports pricing on Nov 18 and trading from Nov 19. The site lists Q3 2026 revenue of $17.0B (over 12x year on year), more than 11,900 customers above $100K in trailing revenue, and a $23.3B net loss that includes a $21.9B non-cash charge from fair-value changes on convertible notes, derivatives and SAFEs. ~794 points and 789 comments on HN.",
+      "zh-Hant": "Anthropic 的 IPO 頁面和路演公告顯示：發行 8.25 億股 A 類股，每股指導價 70–78 美元，申請在納斯達克以 ANT 上市；雅虎財經報道 11 月 18 日定價、19 日開始交易。頁面列出 2026 年第三季度營收 170 億美元、同比超 12 倍，年化貢獻 10 萬美元以上的客戶超過 11,900 家；淨虧損 233 億美元，其中 219 億是可轉債等公允價值變動的非現金費用。HN 約 794 分、789 條評論。"
+     },
+     "url": "https://ipo.anthropic.com/us/",
+     "extra": [
+      "https://www.anthropic.com/news/roadshow-launch",
+      "https://news.ycombinator.com/item?id=50465829"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Google 发布 Gemini 4 Hydrogen：快而便宜的 agent 执行模型",
+      "en": "Google introduces Gemini 4 Hydrogen, a fast, cheaper model for agentic execution",
+      "zh-Hant": "Google 發佈 Gemini 4 Hydrogen：快而便宜的 agent 執行模型"
+     },
+     "summary": {
+      "zh-Hans": "Hydrogen 定位为日常编码和 agent 工作流的快速执行模型，向 AI Studio 全部层级、Gemini API、Gemini 应用、搜索和 Antigravity 开放；在 Artificial Analysis 智能指数上默认档 51 分，略高于前沿模型 Argon 的 50 分，最高档 54 分；100 万 token 上下文内统一定价，每百万输入 1.50 美元、输出 7.50 美元。Antigravity 同时推出 Orchestrator，在同一任务里让 Carbon 负责探索和规划、Hydrogen 负责执行，动态切换。HN 两帖分别约 439 分和 256 分。",
+      "en": "Hydrogen targets fast execution in everyday coding and agent workflows and ships to all tiers of AI Studio, the Gemini API, the Gemini app, Search and Antigravity; it scores 51 on the Artificial Analysis Intelligence Index at its default level, edging out the frontier Argon (50), and 54 at xhigh, priced flat across a 1M-token window at $1.50 per 1M input and $7.50 per 1M output tokens. Antigravity also adds Orchestrator, which switches between Carbon for exploration and planning and Hydrogen for execution within a single task. The two HN threads have ~439 and ~256 points.",
+      "zh-Hant": "Hydrogen 定位爲日常編碼和 agent 工作流的快速執行模型，向 AI Studio 全部層級、Gemini API、Gemini 應用、搜索和 Antigravity 開放；在 Artificial Analysis 智能指數上默認檔 51 分，略高於前沿模型 Argon 的 50 分，最高檔 54 分；100 萬 token 上下文內統一定價，每百萬輸入 1.50 美元、輸出 7.50 美元。Antigravity 同時推出 Orchestrator，在同一任務裏讓 Carbon 負責探索和規劃、Hydrogen 負責執行，動態切換。HN 兩帖分別約 439 分和 256 分。"
+     },
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "extra": [
+      "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "https://news.ycombinator.com/item?id=50471431"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Microsoft 365 全球大面积宕机：Outlook、Teams、Copilot 受影响",
+      "en": "Global Microsoft 365 outage takes down Outlook, Teams and Copilot",
+      "zh-Hant": "Microsoft 365 全球大面積宕機：Outlook、Teams、Copilot 受影響"
+     },
+     "summary": {
+      "zh-Hans": "美东时间周四下午 1 点前后开始，Exchange Online、Teams、SharePoint、Copilot、Defender、Intune 等服务连接失败，Downdetector 上 Outlook 报障一度接近 13 万。微软称负载升高并非流量增加，而是一批服务器健康检查失败、意外下线，压垮了剩余设施；已在逐步恢复服务器、迁移流量，用户会逐渐恢复。HN 约 432 分、413 条评论。",
+      "en": "Starting shortly before 1 p.m. ET on Thursday, users could not connect to Exchange Online, Teams, SharePoint, Copilot, Defender, Intune and more; Outlook reports on Downdetector peaked near 130,000. Microsoft said the elevated load was not from more traffic but from a number of servers failing automated health checks and dropping out, straining the rest; it is returning servers to service and shifting traffic, with gradual recovery for users. ~432 points and 413 comments on HN.",
+      "zh-Hant": "美東時間週四下午 1 點前後開始，Exchange Online、Teams、SharePoint、Copilot、Defender、Intune 等服務連接失敗，Downdetector 上 Outlook 報障一度接近 13 萬。微軟稱負載升高並非流量增加，而是一批服務器健康檢查失敗、意外下線，壓垮了剩餘設施；已在逐步恢復服務器、遷移流量，用戶會逐漸恢復。HN 約 432 分、413 條評論。"
+     },
+     "url": "https://status.cloud.microsoft/",
+     "extra": [
+      "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "https://news.ycombinator.com/item?id=50471731"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Rust 1.100 发布：never 类型终于稳定",
+      "en": "Rust 1.100 ships, and the never type is finally stable",
+      "zh-Hant": "Rust 1.100 發佈：never 類型終於穩定"
+     },
+     "summary": {
+      "zh-Hans": "经过 10 年和 5 次失败的稳定化尝试，表示「永不返回」的 never 类型 ! 正式稳定；本版还带来 Allocator API、DropGuard API，以及 Cargo 报告未使用依赖、减少缓存冲突、min-publish-age（限制只用发布满一定时间的版本）等改进。HN 约 338 分。",
+      "en": "After 10 years and five failed stabilization attempts, the never type ! is stable; the release also brings the Allocator API, the DropGuard API, and Cargo changes including reporting unused dependencies, fewer cache collisions and min-publish-age. ~338 points on HN.",
+      "zh-Hant": "經過 10 年和 5 次失敗的穩定化嘗試，表示「永不返回」的 never 類型 ! 正式穩定；本版還帶來 Allocator API、DropGuard API，以及 Cargo 報告未使用依賴、減少緩存衝突、min-publish-age（限制只用發佈滿一定時間的版本）等改進。HN 約 338 分。"
+     },
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50472038"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "smolmaxxing：在电视盒子和 2013 年的 iPad 上跑 16B 大模型",
+      "en": "smolmaxxing: running 16B models on a TV box and a 2013 iPad",
+      "zh-Hant": "smolmaxxing：在電視盒子和 2013 年的 iPad 上跑 16B 大模型"
+     },
+     "summary": {
+      "zh-Hans": "这个项目给 llama.cpp 打补丁，在闲置的小设备上找能跑的最大模型：只有约 1 GB 可用内存的小米电视盒子 S（第三代）日常跑 Qwen3.5-2B 约 7.7 tok/s，16B 的 MoE 模型 Ling-mini-2.0 约 5.1 tok/s；越狱的 2013 款 iPad Air 也能跑 16B。办法是只把部分权重留在内存、其余按需从闪存读取，外加 1-bit 内核；所有数字都是真机实测。HN 约 268 分。",
+      "en": "A set of llama.cpp patches that finds the biggest model idle small devices can run: a Xiaomi TV Box S (3rd gen) with about 1 GB usable RAM runs Qwen3.5-2B at 7.7 tok/s and the 16B MoE Ling-mini-2.0 at 5.1 tok/s, and a jailbroken 2013 iPad Air also runs the 16B model, by keeping only part of the weights in memory and streaming the rest from flash, plus a 1-bit kernel; every number is measured on the device. ~268 points on HN.",
+      "zh-Hant": "這個項目給 llama.cpp 打補丁，在閒置的小設備上找能跑的最大模型：只有約 1 GB 可用內存的小米電視盒子 S（第三代）日常跑 Qwen3.5-2B 約 7.7 tok/s，16B 的 MoE 模型 Ling-mini-2.0 約 5.1 tok/s；越獄的 2013 款 iPad Air 也能跑 16B。辦法是隻把部分權重留在內存、其餘按需從閃存讀取，外加 1-bit 內核；所有數字都是真機實測。HN 約 268 分。"
+     },
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50468888"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Show HN：300 美元的刺绣机要订阅，作者干脆自己写了个应用",
+      "en": "Show HN: my $300 embroidery machine needed a subscription, so I built my own app",
+      "zh-Hant": "Show HN：300 美元的刺繡機要訂閱，作者乾脆自己寫了個應用"
+     },
+     "summary": {
+      "zh-Hans": "ZigZag 是用 Rust 写的可视化刺绣编辑器，内置 MCP，让 AI agent 也能一起画和改图案；能把 SVG 转成针迹，导出 PES、DST、EXP、JEF、VP3 等格式，或通过蓝牙直接发到 Brother Skitch（PP1），提供已签名的 Mac 版和 Windows 版。HN 约 281 分。",
+      "en": "ZigZag is a visual embroidery editor written in Rust with built-in MCP so AI agents can create and edit designs too; it turns SVGs into stitches, exports PES, DST, EXP, JEF or VP3, or sends designs to a Brother Skitch (PP1) over Bluetooth, with signed Mac and Windows builds. ~281 points on HN.",
+      "zh-Hant": "ZigZag 是用 Rust 寫的可視化刺繡編輯器，內置 MCP，讓 AI agent 也能一起畫和改圖案；能把 SVG 轉成針跡，導出 PES、DST、EXP、JEF、VP3 等格式，或通過藍牙直接發到 Brother Skitch（PP1），提供已簽名的 Mac 版和 Windows 版。HN 約 281 分。"
+     },
+     "url": "https://github.com/simpsoka/zigzag",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50470488"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "研究：中国头部 AI 模型权重里带有 Blackwell GPU 的「指纹」",
+      "en": "Report: Chinese frontier AI models carry the fingerprint of export-controlled Blackwell GPUs",
+      "zh-Hant": "研究：中國頭部 AI 模型權重裏帶有 Blackwell GPU 的「指紋」"
+     },
+     "summary": {
+      "zh-Hans": "Unemployment Labs 的报告称，通过分析公开权重的数值特征，DeepSeek、月之暗面、MiniMax 和蚂蚁集团自 2026 年 4 月以来发布的 6 个模型与英伟达 Blackwell 硬件吻合，更早的模型则与 Hopper 吻合；其中 DeepSeek-V4-Flash 和 Kimi K3 在实体 Blackwell 上复现确认。报告强调这支持、但不能证明训练用了 Blackwell，也无法确定芯片在哪里。与英伟达出口管制风波同日出现。HN 约 103 分。",
+      "en": "An Unemployment Labs report analyzes published weights and finds six models released since April 2026 by DeepSeek, Moonshot AI, MiniMax and Ant Group match numerical patterns of Nvidia Blackwell hardware, while earlier models match Hopper; for DeepSeek-V4-Flash and Kimi K3 the match was confirmed on physical Blackwell chips. It says this supports, but does not prove, Blackwell training and does not establish where the chips are. ~103 points on HN.",
+      "zh-Hant": "Unemployment Labs 的報告稱，通過分析公開權重的數值特徵，DeepSeek、月之暗面、MiniMax 和螞蟻集團自 2026 年 4 月以來發布的 6 個模型與英偉達 Blackwell 硬件吻合，更早的模型則與 Hopper 吻合；其中 DeepSeek-V4-Flash 和 Kimi K3 在實體 Blackwell 上覆現確認。報告強調這支持、但不能證明訓練用了 Blackwell，也無法確定芯片在哪裏。與英偉達出口管制風波同日出現。HN 約 103 分。"
+     },
+     "url": "https://unemploymentlabs.com/checkpoint-forensics",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50474883"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "「强模型规划 + 快模型执行」成本计算器 — Gemini 4 Hydrogen 定价每百万输入 1.50 美元、输出 7.50 美元，Antigravity 又把 Carbon / Hydrogen 动态切换做成产品；做一个按任务类型估算混合模型成本的计算器或对比页，覆盖主流模型价格，配 SEO 文章，自然接联盟和咨询。",
+     "SaaS 宕机监控 + 应急切换包 — Microsoft 365 宕机影响约 13 万报障用户；做一个聚合 Microsoft、Google、Slack 等状态页的告警小工具，加一份「办公套件宕机时怎么继续干活」的模板（备用邮箱、沟通渠道、文件离线），面向小团队收小额订阅。",
+     "「去订阅」硬件配套应用 — ZigZag 证明「设备要订阅」本身就是需求：挑一类配套 App 收费或体验差的消费硬件（刺绣机、标签打印机、智能秤等），做买断制替代 App，并内置 MCP 让 agent 能直接操作。",
+     "旧设备离线 AI 助手镜像 — smolmaxxing 在约 1 GB 内存的电视盒子上跑 16B 模型；把它包装成一键刷机镜像或教程，做家庭离线问答、儿童学习或店铺客服盒子，适合内容引流 + 卖成品。",
+     "AI 公司上市资料整理页 — Anthropic 下周定价上市，关注度很高；做一个只整理公开招股书数字（营收、亏损、客户数、发行结构）和时间线的中文 / 英文资料页，不做投资建议，抢搜索流量。"
+    ],
+    "en": [
+     "Planner-plus-executor model cost calculator — Gemini 4 Hydrogen costs $1.50 / $7.50 per 1M input / output tokens and Antigravity now productizes switching between Carbon and Hydrogen; a calculator or comparison page that estimates mixed-model costs per task type, with SEO articles, fits affiliate and consulting angles.",
+     "SaaS outage alerts plus a fallback kit — The Microsoft 365 outage hit around 130,000 reporting users; a small tool that aggregates status pages (Microsoft, Google, Slack…) with alerts, plus a “keep working when the suite is down” template (backup mail, chat, offline files), can be a small subscription for small teams.",
+     "Subscription-free companion apps for hardware — ZigZag shows that “my device needs a subscription” is a demand signal on its own: pick consumer hardware with paywalled or weak companion apps (embroidery machines, label printers, smart scales…), ship a one-time-purchase replacement, and add MCP so agents can drive it.",
+     "Offline AI assistant images for old devices — smolmaxxing runs a 16B model on a TV box with about 1 GB of RAM; package it as one-click images or tutorials for offline home Q&A, kids’ learning or shop help-desk boxes, for content traffic plus sales of ready-made units.",
+     "Plain-language IPO fact pages for AI companies — Anthropic prices next week and attention is high; a bilingual fact page that only collects public prospectus numbers (revenue, losses, customer counts, offering structure) and timelines, with no investment advice, can capture search traffic."
+    ],
+    "zh-Hant": [
+     "「強模型規劃 + 快模型執行」成本計算器 — Gemini 4 Hydrogen 定價每百萬輸入 1.50 美元、輸出 7.50 美元，Antigravity 又把 Carbon / Hydrogen 動態切換做成產品；做一個按任務類型估算混合模型成本的計算器或對比頁，覆蓋主流模型價格，配 SEO 文章，自然接聯盟和諮詢。",
+     "SaaS 宕機監控 + 應急切換包 — Microsoft 365 宕機影響約 13 萬報障用戶；做一個聚合 Microsoft、Google、Slack 等狀態頁的告警小工具，加一份「辦公套件宕機時怎麼繼續幹活」的模板（備用郵箱、溝通渠道、文件離線），面向小團隊收小額訂閱。",
+     "「去訂閱」硬件配套應用 — ZigZag 證明「設備要訂閱」本身就是需求：挑一類配套 App 收費或體驗差的消費硬件（刺繡機、標籤打印機、智能秤等），做買斷制替代 App，並內置 MCP 讓 agent 能直接操作。",
+     "舊設備離線 AI 助手鏡像 — smolmaxxing 在約 1 GB 內存的電視盒子上跑 16B 模型；把它包裝成一鍵刷機鏡像或教程，做家庭離線問答、兒童學習或店鋪客服盒子，適合內容引流 + 賣成品。",
+     "AI 公司上市資料整理頁 — Anthropic 下週定價上市，關注度很高；做一個只整理公開招股書數字（營收、虧損、客戶數、發行結構）和時間線的中文 / 英文資料頁，不做投資建議，搶搜索流量。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "GoogleChrome/modern-web-guidance-src",
+      "en": "GoogleChrome/modern-web-guidance-src",
+      "zh-Hant": "GoogleChrome/modern-web-guidance-src"
+     },
+     "summary": {
+      "zh-Hans": "让编码 agent 跟上最新 Web 最佳实践的指南源码（今日约 739 星增量）。",
+      "en": "Source for guidance that keeps coding agents current on web best practices (~739 stars today).",
+      "zh-Hant": "讓編碼 agent 跟上最新 Web 最佳實踐的指南源碼（今日約 739 星增量）。"
+     },
+     "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+     "title": {
+      "zh-Hans": "openai/codex-security",
+      "en": "openai/codex-security",
+      "zh-Hant": "openai/codex-security"
+     },
+     "summary": {
+      "zh-Hans": "OpenAI 的 Codex Security CLI 和 TypeScript SDK：查找、验证并修复代码漏洞（今日约 643 星增量）。",
+      "en": "OpenAI’s Codex Security CLI and TypeScript SDK to find, validate and fix vulnerabilities (~643 stars today).",
+      "zh-Hant": "OpenAI 的 Codex Security CLI 和 TypeScript SDK：查找、驗證並修復代碼漏洞（今日約 643 星增量）。"
+     },
+     "url": "https://github.com/openai/codex-security"
+    },
+    {
+     "title": {
+      "zh-Hans": "CopilotKit/OpenBot",
+      "en": "CopilotKit/OpenBot",
+      "zh-Hant": "CopilotKit/OpenBot"
+     },
+     "summary": {
+      "zh-Hans": "开源、可自托管的「AI 同事」工作区：每个 agent 有自己的浏览器、文件和工具，每个动作先审批、后留痕（今日约 298 星增量）。",
+      "en": "Open-source, self-hostable AI coworkers, each with its own browser, files and tools, with every action approved before and recorded after (~298 stars today).",
+      "zh-Hant": "開源、可自託管的「AI 同事」工作區：每個 agent 有自己的瀏覽器、文件和工具，每個動作先審批、後留痕（今日約 298 星增量）。"
+     },
+     "url": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+     "title": {
+      "zh-Hans": "meta/astryx",
+      "en": "meta/astryx",
+      "zh-Hant": "meta/astryx"
+     },
+     "summary": {
+      "zh-Hans": "Meta 开源、面向 agent 的设计系统，继续霸榜（今日约 1,830 星增量）。",
+      "en": "Meta’s open-source, agent-ready design system, still on top (~1,830 stars today).",
+      "zh-Hant": "Meta 開源、面向 agent 的設計系統，繼續霸榜（今日約 1,830 星增量）。"
+     },
+     "url": "https://github.com/meta/astryx"
+    },
+    {
+     "title": {
+      "zh-Hans": "addyosmani/agent-skills",
+      "en": "addyosmani/agent-skills",
+      "zh-Hant": "addyosmani/agent-skills"
+     },
+     "summary": {
+      "zh-Hans": "给 AI 编码 agent 的生产级工程 skills（今日约 816 星增量）。",
+      "en": "Production-grade engineering skills for AI coding agents (~816 stars today).",
+      "zh-Hant": "給 AI 編碼 agent 的生產級工程 skills（今日約 816 星增量）。"
+     },
+     "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "QwenLM/qwen-code",
+      "en": "QwenLM/qwen-code",
+      "zh-Hant": "QwenLM/qwen-code"
+     },
+     "summary": {
+      "zh-Hans": "通义千问团队的开源终端编码 agent（今日约 151 星增量）。",
+      "en": "The Qwen team’s open-source terminal coding agent (~151 stars today).",
+      "zh-Hant": "通義千問團隊的開源終端編碼 agent（今日約 151 星增量）。"
+     },
+     "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Actions ARM32 retirement",
+      "en": "GitHub Changelog · Actions ARM32 retirement",
+      "zh-Hant": "GitHub Changelog · Actions ARM32 retirement"
+     },
+     "summary": {
+      "zh-Hans": "GitHub Actions 托管 runner 将在 2026 年 12 月 8 日前停止支持 Linux 和 Windows 上的 ARM32 任务，因为 Node 24 不支持 ARM32；有相关 CI 的要尽快迁移。",
+      "en": "GitHub-hosted Actions runners drop ARM32 job execution on Linux and Windows by Dec 8, 2026, since Node 24 lacks ARM32 support; migrate affected CI soon.",
+      "zh-Hant": "GitHub Actions 託管 runner 將在 2026 年 12 月 8 日前停止支持 Linux 和 Windows 上的 ARM32 任務，因爲 Node 24 不支持 ARM32；有相關 CI 的要儘快遷移。"
+     },
+     "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Secret scanning detects Cloudflare service tokens",
+      "en": "GitHub Changelog · Secret scanning detects Cloudflare service tokens",
+      "zh-Hant": "GitHub Changelog · Secret scanning detects Cloudflare service tokens"
+     },
+     "summary": {
+      "zh-Hans": "密钥扫描新增 Cloudflare Access 服务令牌检测，公开仓库泄露会自动通知 Cloudflare；用 Cloudflare 的项目值得留意。",
+      "en": "Secret scanning now detects Cloudflare Access service tokens and reports public leaks to Cloudflare, worth noting for Cloudflare users.",
+      "zh-Hant": "密鑰掃描新增 Cloudflare Access 服務令牌檢測，公開倉庫泄露會自動通知 Cloudflare；用 Cloudflare 的項目值得留意。"
+     },
+     "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare"
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "path": "digest/2026-11-12/",
