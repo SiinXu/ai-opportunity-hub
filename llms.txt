@@ -1,0 +1,27 @@
+# OPC Radar
+> OPC Radar is a free opportunity radar for one-person companies (OPC), indie developers, designers and cross-border sellers. It collects AI tools, GitHub repos, new products, news, deals and ideas from public sources (Hacker News, GitHub, Hugging Face, DEV, Lobsters and a curated list), translates them into 10 languages and refreshes automatically. Currently 912 items.
+
+- Site: https://siinxu.github.io/ai-opportunity-hub/
+- Data (JSON): https://siinxu.github.io/ai-opportunity-hub/data/items.json
+- Languages: zh-Hans, zh-Hant, en, ja, ko, ms, vi, fr, es, de (append ?lang=<code>)
+- Publisher: Incidental AI (https://incidental.site/)
+- Full list: https://siinxu.github.io/ai-opportunity-hub/llms-full.txt
+- Updated: 2026-11-14T07:19:53Z
+
+## Latest daily digests
+- [OPC Radar Daily Digest · 2026-11-14 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-14/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-13 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-13/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-12 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-12/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-11 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-11/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-10 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-10/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-09 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-09/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [OPC Radar Daily Digest · 2026-11-08 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-08/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
+- [All daily digests](https://siinxu.github.io/ai-opportunity-hub/digest/)
+
+## Channels
+- [AI](https://siinxu.github.io/ai-opportunity-hub/channel/ai/): 233 items
+- [GitHub repos](https://siinxu.github.io/ai-opportunity-hub/channel/repos/): 220 items
+- [New products](https://siinxu.github.io/ai-opportunity-hub/channel/products/): 87 items
+- [News](https://siinxu.github.io/ai-opportunity-hub/channel/news/): 131 items
+- [Deals](https://siinxu.github.io/ai-opportunity-hub/channel/deals/): 153 items
+- [Ideas](https://siinxu.github.io/ai-opportunity-hub/channel/ideas/): 88 items
