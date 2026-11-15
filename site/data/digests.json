@@ -1,6 +1,304 @@
 {
- "latest": "2026-11-14",
+ "latest": "2026-11-15",
  "digests": [
+  {
+   "date": "2026-11-15",
+   "path": "digest/2026-11-15/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-15",
+    "en": "Morning tech digest · 2026-11-15",
+    "zh-Hant": "早間技術熱點 · 2026-11-15"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行訊號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "英伟达被指「制造稀缺」：投资初创公司再让它们买自家 GPU",
+      "en": "Nvidia accused of \"engineering scarcity\" by funding startups that then bought its GPUs",
+      "zh-Hant": "英偉達被指「製造稀缺」：投資初創公司再讓它們買自家 GPU"
+     },
+     "summary": {
+      "zh-Hans": "TechPowerUp 转述《华尔街日报》（经 Wccftech）报道：英伟达被指投资 AI 初创和小型云厂商，让它们购买英伟达 GPU、建数据中心，以维持「需求旺盛」的印象并消化台积电的过量供货。报道称今年 8 月的一次会议上，时任 CFO、现任代理 CEO Colette Kress 主张减少循环融资、缩减与 OpenAI 的 2,500 亿美元协议，遭黄仁勋当面斥责。另据 Yahoo Finance，董事 Mark Stevens 在 8–9 月分三批卖出约 420 万股、约 9.46 亿美元，没有使用预先设定的交易计划。以上均为报道中的指控。HN 约 1,024 分、615 条评论。",
+      "en": "TechPowerUp, citing The Wall Street Journal via Wccftech, reports that Nvidia allegedly invested in AI startups and small cloud providers that went on to buy Nvidia GPUs and build data centers, keeping up the look of strong demand and absorbing an oversupply from TSMC. The report says that in an August meeting Colette Kress, then CFO and now interim CEO, pushed to cut back circular financing and the $250 billion OpenAI deal and was rebuked by Jensen Huang. Separately, Yahoo Finance reports director Mark Stevens sold about 4.2 million shares, roughly $946 million, in three batches in August and September without a prearranged trading plan. These are allegations as reported. About 1,024 points and 615 comments on HN.",
+      "zh-Hant": "TechPowerUp 轉述《華爾街日報》（經 Wccftech）報道：英偉達被指投資 AI 初創和小型雲廠商，讓它們購買英偉達 GPU、建資料中心，以維持「需求旺盛」的印象並消化臺積電的過量供貨。報道稱今年 8 月的一次會議上，時任 CFO、現任代理 CEO Colette Kress 主張減少迴圈融資、縮減與 OpenAI 的 2,500 億美元協議，遭黃仁勳當面斥責。另據 Yahoo Finance，董事 Mark Stevens 在 8–9 月分三批賣出約 420 萬股、約 9.46 億美元，沒有使用預先設定的交易計劃。以上均為報道中的指控。HN 約 1,024 分、615 條評論。"
+     },
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "extra": [
+      "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "https://news.ycombinator.com/item?id=50493251"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Lovable 搭的应用大面积暴露数据：护照信息、20 多万条私信",
+      "en": "Apps built on Lovable expose passport details and more than 200,000 private messages",
+      "zh-Hant": "Lovable 搭的應用大面積暴露資料：護照資訊、20 多萬條私信"
+     },
+     "summary": {
+      "zh-Hans": "德国安全公司 Crissy Field 与《德国商报》合作，从 Common Crawl 找到 159,041 个 Lovable 项目（2025 年 12 月至 2026 年 9 月），其中 34,545 个用 Supabase；24,664 个网站一加载就发出数据库记录，进一步只读请求后，在其中 7,403 个网站（30%）的 10,560 张表里找到含邮箱的记录。案例包括：一个德国生活论坛暴露 8 万多份资料和 20 多万条聊天消息，活动方和餐厅暴露订单、电话、地址和票码，一家服务商暴露 1,000 多条护照号码记录。作者强调 30% 不能当成确认的泄露率，也没公开访问方法。HN 约 591 分。",
+      "en": "German security firm Crissy Field, working with Handelsblatt, found 159,041 Lovable projects in Common Crawl (December 2025 to September 2026); 34,545 used Supabase, and 24,664 sent database records on page load. With further read-only requests they found records containing email addresses in 10,560 tables across 7,403 of those sites (30%). Cases include a German lifestyle forum exposing 80,000+ profiles and 200,000+ chat messages, event organizers and restaurants exposing orders, phone numbers, addresses and ticket codes, and a provider exposing 1,000+ records with passport numbers. The authors stress the 30% is not a confirmed leak rate and did not publish how to access the data. About 591 points on HN.",
+      "zh-Hant": "德國安全公司 Crissy Field 與《德國商報》合作，從 Common Crawl 找到 159,041 個 Lovable 專案（2025 年 12 月至 2026 年 9 月），其中 34,545 個用 Supabase；24,664 個網站一載入就發出資料庫記錄，進一步只讀請求後，在其中 7,403 個網站（30%）的 10,560 張表裡找到含郵箱的記錄。案例包括：一個德國生活論壇暴露 8 萬多份資料和 20 多萬條聊天訊息，活動方和餐廳暴露訂單、電話、地址和票碼，一家服務商暴露 1,000 多條護照號碼記錄。作者強調 30% 不能當成確認的洩露率，也沒公開訪問方法。HN 約 591 分。"
+     },
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50499017"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "星舰第 15 次飞行：飞船第一次被发射塔机械臂接住",
+      "en": "Starship Flight 15: the ship is caught by the tower arms for the first time",
+      "zh-Hant": "星艦第 15 次飛行：飛船第一次被髮射塔機械臂接住"
+     },
+     "summary": {
+      "zh-Hans": "SpaceX 官方页：11 月 13 日星舰从得州 Starbase 起飞，入轨后部署 26 颗 Starlink V3 卫星，在太空监测系统 20 多个小时后点火离轨，22.5 小时后回到发射场，三台猛禽发动机点火翻身减速，由「筷子」机械臂首次接住飞船。助推器这边没那么顺：回推点火因燃料不足提前结束，原因在调查，助推器自动改为海上降落，关机后触发了飞行终止系统。HN 约 547 分。",
+      "en": "Per SpaceX, Starship lifted off from Starbase, Texas on November 13, reached orbit and deployed 26 Starlink V3 satellites, then after more than 20 hours in space relit an engine to deorbit and returned to the launch site 22.5 hours after liftoff, where Mechzilla caught the ship for the first time. The booster fared worse: its boostback burn ended early on low fuel (cause under investigation), it diverted to an offshore landing, and its flight termination system fired after the landing burn. About 547 points on HN.",
+      "zh-Hant": "SpaceX 官方頁：11 月 13 日星艦從得州 Starbase 起飛，入軌後部署 26 顆 Starlink V3 衛星，在太空監測系統 20 多個小時後點火離軌，22.5 小時後回到發射場，三臺猛禽發動機點火翻身減速，由「筷子」機械臂首次接住飛船。助推器這邊沒那麼順：回推點火因燃料不足提前結束，原因在調查，助推器自動改為海上降落，關機後觸發了飛行終止系統。HN 約 547 分。"
+     },
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50500963"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "意大利对 Meta 罚款 8.05 亿欧元：Facebook 安卓版读取相册没拿到专门同意",
+      "en": "Italy fines Meta €805 million because Facebook for Android read users' galleries without specific consent",
+      "zh-Hant": "義大利對 Meta 罰款 8.05 億歐元：Facebook 安卓版讀取相簿沒拿到專門同意"
+     },
+     "summary": {
+      "zh-Hans": "意大利数据保护局（Garante）公告：Facebook 安卓版「浏览时从相册获取建议」功能自 2023 年起提供，相册访问只用一个覆盖整个应用的授权、提示语含糊，且功能默认开启，约 2,000 万意大利安卓用户受影响。罚款约 8.05 亿欧元（约 8.87 亿美元），约占集团全球营收 0.47%；Meta 须在 60 天内默认关闭该功能并单独征求同意。本案不涉及是否用这些内容训练 AI（Meta 否认），2026 年推出的云端处理相册新功能将另行评估。Meta 表示将上诉。HN 约 311 分。",
+      "en": "Italy's data protection authority says Facebook for Android's \"get suggestions from your gallery\" feature, available since 2023, used one app-wide permission behind a vague notice and was on by default, affecting about 20 million Android users in Italy. The fine is about €805 million (about $887 million), roughly 0.47% of the group's global revenue; Meta has 60 days to switch the feature off by default and ask for separate consent. The case did not cover AI training (which Meta denies), and a 2026 cloud-processing feature will be assessed separately. Meta says it will appeal. About 311 points on HN.",
+      "zh-Hant": "義大利資料保護局（Garante）公告：Facebook 安卓版「瀏覽時從相簿獲取建議」功能自 2023 年起提供，相簿訪問只用一個覆蓋整個應用的授權、提示語含糊，且功能預設開啟，約 2,000 萬義大利安卓使用者受影響。罰款約 8.05 億歐元（約 8.87 億美元），約佔集團全球營收 0.47%；Meta 須在 60 天內預設關閉該功能並單獨徵求同意。本案不涉及是否用這些內容訓練 AI（Meta 否認），2026 年推出的雲端處理相簿新功能將另行評估。Meta 表示將上訴。HN 約 311 分。"
+     },
+     "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080",
+     "extra": [
+      "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+      "https://news.ycombinator.com/item?id=50497009"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "ggml 1.0.0 发布：llama.cpp 底层张量库删掉旧 API、加 FP8",
+      "en": "ggml 1.0.0: the tensor library under llama.cpp drops its old API and adds FP8",
+      "zh-Hant": "ggml 1.0.0 釋出：llama.cpp 底層張量庫刪掉舊 API、加 FP8"
+     },
+     "summary": {
+      "zh-Hans": "ggml 1.0.0 删除已弃用的公开 API 和旧的 DIAG_MASK 算子（RPC 协议升到 v9，会拒绝不兼容的对端），新增可配置的 YaRN 截断和 FP8 支持，并在各后端做了大量性能工作：CUDA/Metal 的小批量量化矩阵乘和 MoE 融合、Vulkan 预填充 FlashAttention、SYCL 设备端 MoE 调度、新的 WebGPU 内核等。依赖 ggml 的应用升级时要注意 API 不兼容。HN 约 398 分。",
+      "en": "ggml 1.0.0 removes the deprecated public API and the legacy DIAG_MASK ops (the RPC protocol moves to v9 and rejects incompatible peers), adds configurable YaRN truncation and FP8 support, and brings broad backend performance work: few-row quantized matmuls and MoE fusion on CUDA/Metal, a Vulkan prefill FlashAttention path, a device-side MoE scheduler on SYCL, new WebGPU kernels and more. Apps that embed ggml should expect API breaks when upgrading. About 398 points on HN.",
+      "zh-Hant": "ggml 1.0.0 刪除已棄用的公開 API 和舊的 DIAG_MASK 運算元（RPC 協議升到 v9，會拒絕不相容的對端），新增可配置的 YaRN 截斷和 FP8 支援，並在各後端做了大量效能工作：CUDA/Metal 的小批次量化矩陣乘和 MoE 融合、Vulkan 預填充 FlashAttention、SYCL 裝置端 MoE 排程、新的 WebGPU 核心等。依賴 ggml 的應用升級時要注意 API 不相容。HN 約 398 分。"
+     },
+     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50493062"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "EFF：AI 眼镜和全天录音设备，正把隐私变成「旁人也得管」的事",
+      "en": "EFF: AI glasses and all-day recorders are making privacy everyone else's problem",
+      "zh-Hant": "EFF：AI 眼鏡和全天錄音裝置，正把隱私變成「旁人也得管」的事"
+     },
+     "summary": {
+      "zh-Hans": "EFF 文章点名 Meta 和谷歌的智能眼镜（可录下佩戴者看到的一切或用 AI 描述）、Apple Watch 的 Audio Intelligence（转写或总结一天）、亚马逊的 Bee 设备（录音并转写一切），以及各类录音吊坠和戒指。作者认为厂商把责任推给佩戴者「自觉告知周围人」，等于要求每个陌生人、同事和家人都懂这些设备，这不是现实中的同意方式。HN 约 440 分。",
+      "en": "The EFF points to Meta and Google smart glasses that can record what the wearer sees or describe it with AI, Apple Watch Audio Intelligence that transcribes or summarizes your day, Amazon's Bee devices that record and transcribe everything, and a wave of recording pendants and rings. It argues that leaving it to owners to tell the people around them expects every stranger, colleague and relative to understand these devices, which is not how consent works in practice. About 440 points on HN.",
+      "zh-Hant": "EFF 文章點名 Meta 和谷歌的智慧眼鏡（可錄下佩戴者看到的一切或用 AI 描述）、Apple Watch 的 Audio Intelligence（轉寫或總結一天）、亞馬遜的 Bee 裝置（錄音並轉寫一切），以及各類錄音吊墜和戒指。作者認為廠商把責任推給佩戴者「自覺告知周圍人」，等於要求每個陌生人、同事和家人都懂這些裝置，這不是現實中的同意方式。HN 約 440 分。"
+     },
+     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50496602"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "谷歌公开 Antigravity /teamwork：多 agent 加「证伪器」攻开放问题",
+      "en": "Google details Antigravity /teamwork: multi-agent runs with \"falsifiers\" on open problems",
+      "zh-Hant": "谷歌公開 Antigravity /teamwork：多 agent 加「證偽器」攻開放問題"
+     },
+     "summary": {
+      "zh-Hans": "Google Research 介绍 Antigravity 的 /teamwork 多 agent 系统：并行探索候选解，再用专门的「证伪器」（Lean 4 证明检查、原样测试套件、执行模拟器、网页搜索、硬件计数器）自动验证；每个 agent 只拿到当前步骤需要的文件和工具，评审者在干净上下文里复核。谷歌称已与内外部专家合作，在信息论、形式化验证、分子结构和内核优化上取得结果，/teamwork 和 /boost 已在 Antigravity 中提供。HN 约 155 分。",
+      "en": "Google Research describes Antigravity's /teamwork system: agents explore candidates in parallel and dedicated falsifiers (the Lean 4 proof checker, unmodified test suites, execution simulators, web search, hardware counters) check which ones work; each agent gets only the files and tools for its step, and critics re-check results from clean contexts. Google says work with experts produced results in information theory, formal verification, molecular structures and kernel optimization, and /teamwork and /boost are available in Antigravity. About 155 points on HN.",
+      "zh-Hant": "Google Research 介紹 Antigravity 的 /teamwork 多 agent 系統：並行探索候選解，再用專門的「證偽器」（Lean 4 證明檢查、原樣測試套件、執行模擬器、網頁搜尋、硬體計數器）自動驗證；每個 agent 只拿到當前步驟需要的檔案和工具，評審者在乾淨上下文裡複核。谷歌稱已與內外部專家合作，在資訊理論、形式化驗證、分子結構和核心最佳化上取得結果，/teamwork 和 /boost 已在 Antigravity 中提供。HN 約 155 分。"
+     },
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50496811"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "LinkedIn、Monster 下架 1,500 条假招聘：背后是要先交钱的传销",
+      "en": "LinkedIn and Monster pull 1,500 fake job ads that led to a pay-to-join MLM",
+      "zh-Hant": "LinkedIn、Monster 下架 1,500 條假招聘：背後是要先交錢的傳銷"
+     },
+     "summary": {
+      "zh-Hans": "CBC 视觉调查发现，1,500 多条「远程、无需经验、年薪最高 7.5 万美元」的旅行策划、客服类招聘，其实把求职者引向美国多层次营销公司 Evolution Travel：参加线上说明会后要先交几百美元，再按月付费，并靠拉人头抽成。CBC 向平台举报后，近 1,500 条被下架。HN 约 165 分。",
+      "en": "A CBC visual investigation found more than 1,500 \"remote, no experience, up to $75,000 a year\" travel-planner and support listings that funneled applicants to U.S. multi-level marketing company Evolution Travel, where info sessions asked for hundreds of dollars up front, then a monthly fee, with earnings tied to recruiting others. After CBC flagged them, nearly 1,500 listings were taken down. About 165 points on HN.",
+      "zh-Hant": "CBC 視覺調查發現，1,500 多條「遠端、無需經驗、年薪最高 7.5 萬美元」的旅行策劃、客服類招聘，其實把求職者引向美國多層次營銷公司 Evolution Travel：參加線上說明會後要先交幾百美元，再按月付費，並靠拉人頭抽成。CBC 向平臺舉報後，近 1,500 條被下架。HN 約 165 分。"
+     },
+     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1000-fake-job-postings-after-cbc-investigation-9.7415379",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50499723"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "Supabase 权限（RLS）体检 CLI / GitHub Action — Crissy Field 在 7,403 个 Lovable 网站的数据表里找到含邮箱的记录；做一个只读体检工具：扫描项目里匿名密钥能读到哪些表、哪些表没开行级安全，输出修复 SQL；开源引流，代理商和团队版按项目收费。",
+     "ggml 1.0 升级迁移服务 — ggml 1.0.0 删除弃用 API、RPC 协议升到 v9 并拒绝旧对端；给嵌入 ggml 的桌面应用、边缘设备厂商做 API 迁移、回归测试和 FP8 性能评估，按项目收费，顺带出一份公开迁移指南引流。",
+     "依赖「来源证明」检查器 — PyPI 新的安全标签页会显示每个发行版是否有完整来源证明；做一个 CI 插件，扫描 requirements / lock 文件，列出无来源证明或来源证明突然消失的包，免费版开源，企业版做报表和告警。",
+     "「证伪器优先」的 agent 工作流模板 — 谷歌 /teamwork 的核心是用测试套件、证明检查器等自动验证候选解；给小团队卖现成的「生成—验证—复核」流程模板（例如用测试套件把关的代码修复、用对账规则把关的财务脚本），按模板或按席位收费。",
+     "用 Univer 给垂直行业做内嵌 AI 表格 — Univer（Apache-2.0）今天在 GitHub Trending 新增约 495 星，主打把编辑、计算、协作和文件处理嵌进自己的产品；给报价、排班、库存这类离不开表格的行业软件做「内嵌表格 + AI 填表」模块，按客户收集成费。"
+    ],
+    "en": [
+     "A Supabase access-rule (RLS) check as a CLI or GitHub Action — Crissy Field found email-bearing records in tables behind 7,403 Lovable sites; a read-only checker that lists which tables the anonymous key can read and which lack row-level security, and outputs fix SQL, can be open source for reach with paid agency and team plans.",
+     "A ggml 1.0 upgrade and migration service — ggml 1.0.0 removes deprecated APIs and moves RPC to v9, rejecting old peers; offer API migration, regression testing and FP8 benchmarking to desktop-app and edge-device teams that embed ggml, priced per project, with a public migration guide for reach.",
+     "A dependency provenance checker — PyPI's new security tab shows whether each release has full provenance; a CI plugin that scans requirements and lock files and flags packages with no provenance, or whose provenance suddenly disappears, can be free and open source with a paid tier for reports and alerts.",
+     "Falsifier-first agent workflow templates — Google's /teamwork relies on test suites, proof checkers and similar tools to verify candidates automatically; sell ready-made generate-verify-review templates to small teams (for example code fixes gated by test suites, or finance scripts gated by reconciliation rules), priced per template or per seat.",
+     "Embedded AI spreadsheets for vertical SaaS with Univer — Univer (Apache-2.0) gained about 495 stars on GitHub Trending today and is built to embed editing, calculation, collaboration and file handling in your own product; build an \"embedded sheet + AI fill\" module for quoting, scheduling or inventory software and charge integration fees per client."
+    ],
+    "zh-Hant": [
+     "Supabase 許可權（RLS）體檢 CLI / GitHub Action — Crissy Field 在 7,403 個 Lovable 網站的資料表裡找到含郵箱的記錄；做一個只讀體檢工具：掃描專案裡匿名金鑰能讀到哪些表、哪些表沒開行級安全，輸出修復 SQL；開源引流，代理商和團隊版按專案收費。",
+     "ggml 1.0 升級遷移服務 — ggml 1.0.0 刪除棄用 API、RPC 協議升到 v9 並拒絕舊對端；給嵌入 ggml 的桌面應用、邊緣裝置廠商做 API 遷移、迴歸測試和 FP8 效能評估，按專案收費，順帶出一份公開遷移指南引流。",
+     "依賴「來源證明」檢查器 — PyPI 新的安全標籤頁會顯示每個發行版是否有完整來源證明；做一個 CI 外掛，掃描 requirements / lock 檔案，列出無來源證明或來源證明突然消失的包，免費版開源，企業版做報表和告警。",
+     "「證偽器優先」的 agent 工作流模板 — 谷歌 /teamwork 的核心是用測試套件、證明檢查器等自動驗證候選解；給小團隊賣現成的「生成—驗證—複核」流程模板（例如用測試套件把關的程式碼修復、用對賬規則把關的財務指令碼），按模板或按席位收費。",
+     "用 Univer 給垂直行業做內嵌 AI 表格 — Univer（Apache-2.0）今天在 GitHub Trending 新增約 495 星，主打把編輯、計算、協作和檔案處理嵌進自己的產品；給報價、排班、庫存這類離不開表格的行業軟體做「內嵌表格 + AI 填表」模組，按客戶收整合費。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "求职者的「假招聘」识别助手 — 求职者把招聘链接或截图发进来，AI 检查公司是否真实存在、岗位是否要先交钱、薪资与经验要求是否离谱、联系方式是否只走 WhatsApp/Telegram 等红旗，给出风险等级和该问对方的问题。 CBC 本周发现 LinkedIn 和 Monster 上 1,500 多条假招聘，近 1,500 条被下架。FTC 的专题报告显示：招聘诈骗报案损失从 2020 年到 2023 年增长三倍多，2024 年上半年就超过 2.2 亿美元；FTC 2024 年数据手册中，「商业与工作机会」类诈骗的单笔损失中位数为 2,250 美元。求职者人数多、焦虑高，正是最容易被盯上的人群。",
+     "小商家「AI 搭的网站会不会漏数据」体检 — 给用 Lovable 等 AI 工具自己搭网站的小店、活动方、诊所和社群：输入网址，工具做只读检查，告诉你访客不登录能不能看到订单、会员、联系表单等数据，并给出能直接复制给 AI 的修复提示词。 Crissy Field 在 159,041 个 Lovable 项目中，对 24,664 个一加载就发出数据库记录的网站做进一步只读请求，在 7,403 个网站里找到含邮箱的记录；暴露的有餐厅和活动方的订单、电话、地址、票码，以及护照号码。很多搭建者本身不懂技术，平台条款又把数据安全责任放在用户身上。",
+     "家庭版「手机 App 权限体检」 — 用户按提示截几张系统设置页的图（或在安卓上导出权限列表），AI 用大白话说明哪些 App 能读全部相册、通讯录、位置和麦克风，哪些权限可以收回，并一步步教怎么关；子女可以帮父母远程做。 意大利数据保护局认定，Facebook 安卓版用一个覆盖整个应用的授权读取相册、提示语含糊且功能默认开启，约 2,000 万意大利安卓用户受影响，罚款约 8.05 亿欧元。普通人很难看懂一次「允许访问照片」到底放开了什么，这个问题几乎每部手机都有。",
+     "小店和诊所的「录音录像设备告示」生成器 — 给店铺、诊所、健身房、美容院、律所和办公室：回答几个问题（是否允许顾客/员工戴 AI 眼镜、录音吊坠，哪些区域禁止），生成门口告示、员工守则和前台话术，多语言、可打印。 EFF 本周指出，Meta 和谷歌的智能眼镜、Apple Watch 的 Audio Intelligence、亚马逊 Bee 设备和各类录音吊坠正在普及，旁人往往不知道自己被录，责任却被推给佩戴者自觉告知。有顾客隐私的线下场所都要面对这个问题。规模数字查不到，这里不写。",
+     "中小商家的「网站和收款宕机提醒 + 状态页」 — 帮小商家盯住自己的网站、预约页、收款链接和常用 SaaS（如 Microsoft 365）：一旦打不开就用短信或 WhatsApp 提醒老板，并自动更新一个对顾客的状态页，附 AI 写好的道歉和替代方案文案。 本周 Microsoft 365 宕机超过一天，FAA 停飞期间 Amtrak 订票系统也出了大问题，很多小商家是在顾客投诉后才知道。开源监控工具 Uptime Kuma（MIT 许可）今天在 GitHub Trending 新增约 430 星、总星约 9.4 万，说明需求旺，但自己部署对小商家门槛高。"
+    ],
+    "en": [
+     "A fake job ad checker for job seekers — Job seekers paste a listing link or screenshot; the AI checks whether the company is real, whether the role asks for money up front, whether pay and experience requirements are implausible, and whether contact only happens over WhatsApp or Telegram, then gives a risk level and questions to ask. This week CBC found 1,500+ fake listings on LinkedIn and Monster, and nearly 1,500 were removed. An FTC spotlight says reported losses to job scams more than tripled from 2020 to 2023 and topped $220 million in the first half of 2024 alone; in the FTC's 2024 data book, business and job opportunity fraud had a median loss of $2,250. Job seekers are numerous and anxious, which makes them prime targets.",
+     "A data-leak check for small businesses' AI-built sites — For shops, event organizers, clinics and communities that built their own site with Lovable and similar AI tools: enter the URL, the tool runs read-only checks, says whether visitors can see orders, members or contact-form data without logging in, and gives fix prompts to paste back into the AI. Among 159,041 Lovable projects, Crissy Field probed the 24,664 sites that sent database records on load and found email-bearing records behind 7,403 of them; exposed data included restaurant and event orders, phone numbers, addresses, ticket codes and passport numbers. Many builders are non-technical, and the platform's terms put data-security responsibility on them.",
+     "A family phone app permission checkup — Users follow prompts to screenshot a few settings pages (or export the permission list on Android); the AI explains in plain words which apps can read the whole photo library, contacts, location and microphone, which permissions can be revoked, and walks through turning them off; adult children can do it for parents remotely. Italy's data protection authority found Facebook for Android read galleries under one app-wide permission behind a vague notice, with the feature on by default, affecting about 20 million Android users in Italy, and fined Meta about €805 million. Most people cannot tell what a single \"allow photo access\" really opens up, and nearly every phone has this problem.",
+     "A recording-device notice kit for shops and clinics — For shops, clinics, gyms, salons, law offices and workplaces: answer a few questions (whether customers or staff may wear AI glasses or recording pendants, which areas are off-limits), and get door notices, a staff policy and front-desk scripts, multilingual and printable. This week the EFF noted that Meta and Google smart glasses, Apple Watch Audio Intelligence, Amazon's Bee devices and recording pendants are spreading, bystanders often do not know they are being recorded, and the burden is left to wearers to disclose. Every physical venue with customer privacy has to deal with this. No scale figures could be found, so none are given.",
+     "Outage alerts and a status page for small businesses — Watch a small business's website, booking page, payment links and key SaaS (such as Microsoft 365): when something goes down, alert the owner by SMS or WhatsApp and update a customer-facing status page with AI-drafted apology and workaround text. This week Microsoft 365 was out for more than a day and Amtrak's booking system struggled during the FAA ground stop; many small businesses only learn of outages from customer complaints. Open-source monitor Uptime Kuma (MIT) gained about 430 stars on GitHub Trending today, about 94,000 in total, showing demand, but self-hosting is a hurdle for small businesses."
+    ],
+    "zh-Hant": [
+     "求職者的「假招聘」識別助手 — 求職者把招聘連結或截圖發進來，AI 檢查公司是否真實存在、崗位是否要先交錢、薪資與經驗要求是否離譜、聯絡方式是否只走 WhatsApp/Telegram 等紅旗，給出風險等級和該問對方的問題。 CBC 本週發現 LinkedIn 和 Monster 上 1,500 多條假招聘，近 1,500 條被下架。FTC 的專題報告顯示：招聘詐騙報案損失從 2020 年到 2023 年增長三倍多，2024 年上半年就超過 2.2 億美元；FTC 2024 年資料手冊中，「商業與工作機會」類詐騙的單筆損失中位數為 2,250 美元。求職者人數多、焦慮高，正是最容易被盯上的人群。",
+     "小商家「AI 搭的網站會不會漏資料」體檢 — 給用 Lovable 等 AI 工具自己搭網站的小店、活動方、診所和社群：輸入網址，工具做只讀檢查，告訴你訪客不登入能不能看到訂單、會員、聯絡表單等資料，並給出能直接複製給 AI 的修復提示詞。 Crissy Field 在 159,041 個 Lovable 專案中，對 24,664 個一載入就發出資料庫記錄的網站做進一步只讀請求，在 7,403 個網站裡找到含郵箱的記錄；暴露的有餐廳和活動方的訂單、電話、地址、票碼，以及護照號碼。很多搭建者本身不懂技術，平臺條款又把資料安全責任放在使用者身上。",
+     "家庭版「手機 App 許可權體檢」 — 使用者按提示截幾張系統設定頁的圖（或在安卓上匯出許可權列表），AI 用大白話說明哪些 App 能讀全部相簿、通訊錄、位置和麥克風，哪些許可權可以收回，並一步步教怎麼關；子女可以幫父母遠端做。 義大利資料保護局認定，Facebook 安卓版用一個覆蓋整個應用的授權讀取相簿、提示語含糊且功能預設開啟，約 2,000 萬義大利安卓使用者受影響，罰款約 8.05 億歐元。普通人很難看懂一次「允許訪問照片」到底放開了什麼，這個問題幾乎每部手機都有。",
+     "小店和診所的「錄音錄影裝置告示」生成器 — 給店鋪、診所、健身房、美容院、律所和辦公室：回答幾個問題（是否允許顧客/員工戴 AI 眼鏡、錄音吊墜，哪些區域禁止），生成門口告示、員工守則和前臺話術，多語言、可列印。 EFF 本週指出，Meta 和谷歌的智慧眼鏡、Apple Watch 的 Audio Intelligence、亞馬遜 Bee 裝置和各類錄音吊墜正在普及，旁人往往不知道自己被錄，責任卻被推給佩戴者自覺告知。有顧客隱私的線下場所都要面對這個問題。規模數字查不到，這裡不寫。",
+     "中小商家的「網站和收款宕機提醒 + 狀態頁」 — 幫小商家盯住自己的網站、預約頁、收款連結和常用 SaaS（如 Microsoft 365）：一旦打不開就用簡訊或 WhatsApp 提醒老闆，並自動更新一個對顧客的狀態頁，附 AI 寫好的道歉和替代方案文案。 本週 Microsoft 365 宕機超過一天，FAA 停飛期間 Amtrak 訂票系統也出了大問題，很多小商家是在顧客投訴後才知道。開源監控工具 Uptime Kuma（MIT 許可）今天在 GitHub Trending 新增約 430 星、總星約 9.4 萬，說明需求旺，但自己部署對小商家門檻高。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "ggml-org/ggml v1.0.0",
+      "en": "ggml-org/ggml v1.0.0",
+      "zh-Hant": "ggml-org/ggml v1.0.0"
+     },
+     "summary": {
+      "zh-Hans": "llama.cpp 底层张量库 1.0：删旧 API、加 FP8、多后端性能优化。",
+      "en": "The tensor library under llama.cpp reaches 1.0: old API removed, FP8 added, performance work across backends.",
+      "zh-Hant": "llama.cpp 底層張量庫 1.0：刪舊 API、加 FP8、多後端效能最佳化。"
+     },
+     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+    },
+    {
+     "title": {
+      "zh-Hans": "ChromeDevTools/chrome-devtools-mcp",
+      "en": "ChromeDevTools/chrome-devtools-mcp",
+      "zh-Hant": "ChromeDevTools/chrome-devtools-mcp"
+     },
+     "summary": {
+      "zh-Hans": "给编码 agent 用的 Chrome DevTools（MCP），Apache-2.0（今日约 664 星增量）。",
+      "en": "Chrome DevTools for coding agents over MCP, Apache-2.0 (~664 stars today).",
+      "zh-Hant": "給編碼 agent 用的 Chrome DevTools（MCP），Apache-2.0（今日約 664 星增量）。"
+     },
+     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+     "title": {
+      "zh-Hans": "tradermonty/claude-trading-skills",
+      "en": "tradermonty/claude-trading-skills",
+      "zh-Hant": "tradermonty/claude-trading-skills"
+     },
+     "summary": {
+      "zh-Hans": "面向股票投资者的 Claude Code 技能包：市场分析、技术图表、经济日历、筛选器，MIT（今日约 553 星增量；仅作技能包参考，不构成投资建议）。",
+      "en": "Claude Code skills for equity investors: market analysis, charting, economic calendars, screeners, MIT (~553 stars today; a reference for skill packs, not investment advice).",
+      "zh-Hant": "面向股票投資者的 Claude Code 技能包：市場分析、技術圖表、經濟日曆、篩選器，MIT（今日約 553 星增量；僅作技能包參考，不構成投資建議）。"
+     },
+     "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+     "title": {
+      "zh-Hans": "dream-num/univer",
+      "en": "dream-num/univer",
+      "zh-Hant": "dream-num/univer"
+     },
+     "summary": {
+      "zh-Hans": "可嵌入产品的 AI 办公 SDK：编辑、计算、协作和文件处理，Apache-2.0（今日约 495 星增量）。",
+      "en": "An office SDK to embed editing, calculation, collaboration and file handling in your product, for people and agents, Apache-2.0 (~495 stars today).",
+      "zh-Hant": "可嵌入產品的 AI 辦公 SDK：編輯、計算、協作和檔案處理，Apache-2.0（今日約 495 星增量）。"
+     },
+     "url": "https://github.com/dream-num/univer"
+    },
+    {
+     "title": {
+      "zh-Hans": "backnotprop/plannotator",
+      "en": "backnotprop/plannotator",
+      "zh-Hant": "backnotprop/plannotator"
+     },
+     "summary": {
+      "zh-Hans": "盯住 agent 的工作台：规划、批注、审代码，一键把反馈发回 agent，Apache-2.0（今日约 408 星增量）。",
+      "en": "A workspace for staying on top of agents: plan, annotate, review code and send feedback back in one click, Apache-2.0 (~408 stars today).",
+      "zh-Hant": "盯住 agent 的工作臺：規劃、批註、審程式碼，一鍵把反饋發回 agent，Apache-2.0（今日約 408 星增量）。"
+     },
+     "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+     "title": {
+      "zh-Hans": "louislam/uptime-kuma",
+      "en": "louislam/uptime-kuma",
+      "zh-Hant": "louislam/uptime-kuma"
+     },
+     "summary": {
+      "zh-Hans": "自托管的网站和服务监控工具，MIT（今日约 430 星增量）。",
+      "en": "A self-hosted uptime monitoring tool, MIT (~430 stars today).",
+      "zh-Hant": "自託管的網站和服務監控工具，MIT（今日約 430 星增量）。"
+     },
+     "url": "https://github.com/louislam/uptime-kuma"
+    },
+    {
+     "title": {
+      "zh-Hans": "PyPI Blog · Redesigned project pages with security signals",
+      "en": "PyPI Blog · Redesigned project pages with security signals",
+      "zh-Hant": "PyPI Blog · Redesigned project pages with security signals"
+     },
+     "summary": {
+      "zh-Hans": "PyPI 改版项目页：新增安全标签页，显示每个文件的来源证明和来源警告。",
+      "en": "PyPI's redesigned project pages add a security tab with per-file attestations and provenance warnings.",
+      "zh-Hant": "PyPI 改版專案頁：新增安全標籤頁，顯示每個檔案的來源證明和來源警告。"
+     },
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · GHES support in the Copilot app",
+      "en": "GitHub Changelog · GHES support in the Copilot app",
+      "zh-Hant": "GitHub Changelog · GHES support in the Copilot app"
+     },
+     "summary": {
+      "zh-Hans": "GitHub Copilot 应用正式支持接入 GitHub Enterprise Server 账号（1.2.0 起），可处理远程仓库、issue 和 PR；GHES 不支持云端会话。",
+      "en": "The GitHub Copilot app now supports GitHub Enterprise Server accounts (1.2.0+) for remote repos, issues and PRs; cloud sessions are not available for GHES.",
+      "zh-Hant": "GitHub Copilot 應用正式支援接入 GitHub Enterprise Server 賬號（1.2.0 起），可處理遠端倉庫、issue 和 PR；GHES 不支援雲端會話。"
+     },
+     "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app"
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "path": "digest/2026-11-14/",
