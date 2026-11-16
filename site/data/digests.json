@@ -1,6 +1,280 @@
 {
- "latest": "2026-11-15",
+ "latest": "2026-11-16",
  "digests": [
+  {
+   "date": "2026-11-16",
+   "path": "digest/2026-11-16/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-16",
+    "en": "Morning tech digest · 2026-11-16",
+    "zh-Hant": "早間技術熱點 · 2026-11-16"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行訊號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "「所有 AI 生成的代码都应该开源」",
+      "en": "“All AI-generated code should be open source”",
+      "zh-Hant": "「所有 AI 生成的程式碼都應該開源」"
+     },
+     "summary": {
+      "zh-Hans": "开发者 Jakub Jankiewicz 撰文提出两点理由：一是模型训练用了大量开源代码和需署名的 Stack Overflow 内容，把它变成闭源代码像是「许可证洗白」；二是在美国，纯 AI 生成、无人类创作的内容原则上不受版权保护（他引用了猴子自拍案和美国版权局的立场）。他主张以开源许可证或 CC0 发布 AI 生成代码。这是观点文章，不是法律结论。HN 约 1,054 分、577 条评论，是今天最热的帖子。",
+      "en": "Developer Jakub Jankiewicz argues two points: models were trained on huge amounts of open-source code and attribution-required Stack Overflow content, so turning that into closed code feels like license laundering; and in the US, purely AI-generated work with no human authorship is in principle not copyrightable (he cites the monkey selfie case and the US Copyright Office). He proposes releasing AI-generated code under open-source licenses or CC0. It is an opinion piece, not a legal ruling. About 1,054 points and 577 comments on HN, the top post of the day.",
+      "zh-Hant": "開發者 Jakub Jankiewicz 撰文提出兩點理由：一是模型訓練用了大量開原始碼和需署名的 Stack Overflow 內容，把它變成閉原始碼像是「許可證洗白」；二是在美國，純 AI 生成、無人類創作的內容原則上不受版權保護（他引用了猴子自拍案和美國版權局的立場）。他主張以開源許可證或 CC0 釋出 AI 生成程式碼。這是觀點文章，不是法律結論。HN 約 1,054 分、577 條評論，是今天最熱的帖子。"
+     },
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50507303"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "英伟达循环融资细节：被指刻意维持 GPU 高价",
+      "en": "Nvidia’s circular financing in detail: accused of deliberately keeping GPU prices high",
+      "zh-Hant": "英偉達迴圈融資細節：被指刻意維持 GPU 高價"
+     },
+     "summary": {
+      "zh-Hans": "TechSpot 援引《华尔街日报》对英伟达代理 CEO Colette Kress 的人物报道：英伟达在 2026 年中后期推动更多融资客户的交易，以消化台积电的过量晶圆、维持 GPU 高价；Kress 曾对交易规模表示担忧，此后公司放缓、缩减或暂停了部分交易，其中包括与 OpenAI 原含 2,500 亿美元兜底的协议。文章称 GeForce 售价常超过原建议价的 160%。以上为报道转述。HN 约 442 分；另有 FT 报道黄仁勋与盟友讨论回归 CEO（HN 约 99 分）。",
+      "en": "TechSpot, citing a Wall Street Journal profile of Nvidia interim CEO Colette Kress, reports that in mid to late 2026 Nvidia pushed more deals with customers it financed to absorb an oversupply of TSMC wafers and keep GPU prices high; Kress had raised concerns about the scale of the deals, and the company later slowed, downsized or paused some, including an OpenAI deal that originally carried a $250 billion backstop. The article says GeForce prices often exceed 160% of original MSRP. These are claims as reported. About 442 points on HN; separately the FT reports Jensen Huang discussing a comeback as CEO with allies (about 99 points).",
+      "zh-Hant": "TechSpot 援引《華爾街日報》對英偉達代理 CEO Colette Kress 的人物報道：英偉達在 2026 年中後期推動更多融資客戶的交易，以消化臺積電的過量晶圓、維持 GPU 高價；Kress 曾對交易規模表示擔憂，此後公司放緩、縮減或暫停了部分交易，其中包括與 OpenAI 原含 2,500 億美元兜底的協議。文章稱 GeForce 售價常超過原建議價的 160%。以上為報道轉述。HN 約 442 分；另有 FT 報道黃仁勳與盟友討論迴歸 CEO（HN 約 99 分）。"
+     },
+     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50501631",
+      "https://news.ycombinator.com/item?id=50509883"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "三星、SK 海力士、美光内存涨价反垄断案未被驳回",
+      "en": "Samsung, SK Hynix and Micron DRAM price-fixing suit survives dismissal",
+      "zh-Hant": "三星、SK 海力士、美光記憶體漲價反壟斷案未被駁回"
+     },
+     "summary": {
+      "zh-Hans": "美国加州北区联邦法官 Noël Wise 于 11 月 14 日全部驳回三家公司的撤案动议，认定起诉书「合理地」指控了违反《谢尔曼法》第 1 条的共谋：把产能转向 HBM、拒签常规 DRAM 长约、美光关停 Crucial、价格创新高却不扩产等。起诉书称三家占全球 DRAM 收入 91% 以上，常规 DRAM 价格一年涨 171.8%。指控尚未被证实；被告须在 12 月 7 日前答辩。HN 约 485 分。",
+      "en": "On November 14 US District Judge Noël Wise (N.D. Cal.) denied in full the three companies’ motion to dismiss, finding the complaint plausibly alleges a Sherman Act Section 1 conspiracy: shifting capacity to HBM, refusing long-term conventional DRAM contracts, Micron closing Crucial, and not expanding despite record prices. The complaint says the three hold over 91% of global DRAM revenue and conventional DRAM prices rose 171.8% in a year. The allegations are unproven; answers are due December 7. About 485 points on HN.",
+      "zh-Hant": "美國加州北區聯邦法官 Noël Wise 於 11 月 14 日全部駁回三家公司的撤案動議，認定起訴書「合理地」指控了違反《謝爾曼法》第 1 條的共謀：把產能轉向 HBM、拒籤常規 DRAM 長約、美光關停 Crucial、價格創新高卻不擴產等。起訴書稱三家佔全球 DRAM 收入 91% 以上，常規 DRAM 價格一年漲 171.8%。指控尚未被證實；被告須在 12 月 7 日前答辯。HN 約 485 分。"
+     },
+     "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50502988"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软 365 故障间接导致 15 名酒店客人氯气中毒",
+      "en": "Microsoft 365 outage indirectly leads to chlorine poisoning of 15 hotel guests",
+      "zh-Hant": "微軟 365 故障間接導致 15 名酒店客人氯氣中毒"
+     },
+     "summary": {
+      "zh-Hans": "德国 WDR 报道：上周五微软故障期间，Phantasialand 乐园收不到邮件，没人看到桑拿区维护安全系统早已通过邮件报警——泳池自动加药系统投入了过量氯。乐园旗下 Ling Bao 酒店共 15 名客人受影响，4 人送医。教训很直接：关键告警只走一个邮件通道是单点故障。HN 约 341 分。",
+      "en": "Germany’s WDR reports that during last Friday’s Microsoft outage, the Phantasialand theme park received no email, so nobody saw that the sauna area’s maintenance safety system had already raised an alarm by email: the pool’s automatic dosing system had added far too much chlorine. Fifteen guests at the park’s Ling Bao hotel were affected and four went to hospital. The lesson is plain: critical alerts that travel over a single email channel are a single point of failure. About 341 points on HN.",
+      "zh-Hant": "德國 WDR 報道：上週五微軟故障期間，Phantasialand 樂園收不到郵件，沒人看到桑拿區維護安全系統早已透過郵件報警——泳池自動加藥系統投入了過量氯。樂園旗下 Ling Bao 酒店共 15 名客人受影響，4 人送醫。教訓很直接：關鍵告警只走一個郵件通道是單點故障。HN 約 341 分。"
+     },
+     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50509411"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "旧 Bitly 短链被重新注册、劫持跳转",
+      "en": "Old Bitly short links re-registered and hijacked",
+      "zh-Hant": "舊 Bitly 短鏈被重新註冊、劫持跳轉"
+     },
+     "summary": {
+      "zh-Hans": "Ransomnews 发现：汉堡王 2011 年推文里的 Bitly 短链在 11 月 15 日被他人重新注册，指向无关的敏感内容，引用它的帖子数小时内超 200 万浏览；麦当劳旧推文也同样中招。抽查特朗普 2009–2013 年推文里的 97 条 Bitly 链接，56 条显示创建时间晚于推文。Bitly 已确认存在让人「重新利用旧的不活跃链接」的问题，停用了相关账号和链接。HN 约 116 分。",
+      "en": "Ransomnews found that a Bitly link in a 2011 Burger King tweet was re-registered by someone else on November 15 and pointed at unrelated, sensitive content; a post quoting it passed 2 million views within hours, and an old McDonald’s tweet was hit the same way. Of 97 Bitly links checked in Donald Trump’s 2009–2013 tweets, 56 show creation times later than the tweets. Bitly confirmed an issue that let bad actors repurpose old, inactive links and has suspended the accounts and disabled the links. About 116 points on HN.",
+      "zh-Hant": "Ransomnews 發現：漢堡王 2011 年推文裡的 Bitly 短鏈在 11 月 15 日被他人重新註冊，指向無關的敏感內容，引用它的帖子數小時內超 200 萬瀏覽；麥當勞舊推文也同樣中招。抽查特朗普 2009–2013 年推文裡的 97 條 Bitly 連結，56 條顯示建立時間晚於推文。Bitly 已確認存在讓人「重新利用舊的不活躍連結」的問題，停用了相關賬號和連結。HN 約 116 分。"
+     },
+     "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50511395"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Ask HN：一张 1,500 美元发票后，Stripe 直接关了我们的账户",
+      "en": "Ask HN: Stripe closed us after one $1,500 invoice",
+      "zh-Hant": "Ask HN：一張 1,500 美元發票後，Stripe 直接關了我們的賬戶"
+     },
+     "summary": {
+      "zh-Hans": "一家按「上门预约实际发生」向本地承包商收费的小公司自述：客户在录音电话里同意，并通过 1 美元付款链接保存卡片；几周后按 3 次预约扣 1,500 美元被拦截，两天后账户以「付款似乎未经客户授权」为由关闭，申诉被拒，过程中没人索要通话录音或客户确认。对一人公司的提醒：先存卡后扣款要按 Stripe 的「保存并复用」流程拿到明确授权。HN 约 108 分。",
+      "en": "A small business that bills local contractors per appointment that actually happens says the client agreed on a recorded call and saved his card through a $1 payment link; weeks later a $1,500 charge for three appointments was blocked, and two days later the account was closed because payments did not appear authorized by the customer. The appeal was rejected and nobody asked for the call recording or client confirmation. A reminder for one-person companies: if you save a card and charge later, get explicit authorization through Stripe’s save-and-reuse flow. About 108 points on HN.",
+      "zh-Hant": "一家按「上門預約實際發生」向本地承包商收費的小公司自述：客戶在錄音電話裡同意，並透過 1 美元付款連結儲存卡片；幾周後按 3 次預約扣 1,500 美元被攔截，兩天後賬戶以「付款似乎未經客戶授權」為由關閉，申訴被拒，過程中沒人索要通話錄音或客戶確認。對一人公司的提醒：先存卡後扣款要按 Stripe 的「儲存並複用」流程拿到明確授權。HN 約 108 分。"
+     },
+     "url": "https://news.ycombinator.com/item?id=50510042",
+     "extra": [
+      "https://docs.stripe.com/payments/save-and-reuse"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "ULA 火神火箭复飞失败，40 颗亚马逊 Leo 卫星损失",
+      "en": "ULA Vulcan fails on its return to flight, 40 Amazon Leo satellites lost",
+      "zh-Hant": "ULA 火神火箭復飛失敗，40 顆亞馬遜 Leo 衛星損失"
+     },
+     "summary": {
+      "zh-Hans": "Space.com 报道：火神半人马火箭 11 月 15 日美东 12:40 从卡纳维拉尔角起飞，搭载 40 颗亚马逊 Leo 宽带卫星，飞行约 10 分钟时出现异常，未能入轨。ULA 表示暂无具体数据说明原因。这本是火神在此前两次固体助推器问题后的「复飞」任务。HN 约 92 分。",
+      "en": "Space.com reports that Vulcan Centaur lifted off from Cape Canaveral at 12:40 p.m. ET on November 15 carrying 40 Amazon Leo broadband satellites, suffered an anomaly about 10 minutes into flight and failed to reach orbit. ULA said it has no specific data yet on the cause. It was meant to be Vulcan’s return to flight after solid rocket booster issues on two earlier missions. About 92 points on HN.",
+      "zh-Hant": "Space.com 報道：火神半人馬火箭 11 月 15 日美東 12:40 從卡納維拉爾角起飛，搭載 40 顆亞馬遜 Leo 寬頻衛星，飛行約 10 分鐘時出現異常，未能入軌。ULA 表示暫無具體資料說明原因。這本是火神在此前兩次固體助推器問題後的「復飛」任務。HN 約 92 分。"
+     },
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50510442"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Trending：给编程 Agent 的「技能」和审阅层霸榜",
+      "en": "GitHub Trending: skills and review layers for coding agents dominate",
+      "zh-Hant": "GitHub Trending：給程式設計 Agent 的「技能」和審閱層霸榜"
+     },
+     "summary": {
+      "zh-Hans": "今日 Trending 前列几乎全是 Agent 周边：Google Chrome 的 modern-web-guidance（把现代 Web 最佳实践和浏览器兼容数据做成 Agent 技能，今日 +1,219 星）、Univer Office SDK（+988）、Plannotator（在一个界面里审阅 Agent 的计划和代码并一键反馈，+866）、Chrome DevTools MCP（+717）、阿里开源的 Open Code Review（确定性流水线 + LLM Agent 的代码审查 CLI，+691），还有腾讯 LoopForge（+423）。",
+      "en": "Today’s top of Trending is almost all agent tooling: Google Chrome’s modern-web-guidance (modern web best practices and browser-compat data as agent skills, +1,219 stars today), the Univer Office SDK (+988), Plannotator (review agent plans and code in one place and send feedback in one click, +866), Chrome DevTools MCP (+717), Alibaba’s open-sourced Open Code Review (a code-review CLI combining deterministic pipelines with an LLM agent, +691), plus Tencent’s LoopForge (+423).",
+      "zh-Hant": "今日 Trending 前列幾乎全是 Agent 周邊：Google Chrome 的 modern-web-guidance（把現代 Web 最佳實踐和瀏覽器相容資料做成 Agent 技能，今日 +1,219 星）、Univer Office SDK（+988）、Plannotator（在一個介面裡審閱 Agent 的計劃和程式碼並一鍵反饋，+866）、Chrome DevTools MCP（+717）、阿里開源的 Open Code Review（確定性流水線 + LLM Agent 的程式碼審查 CLI，+691），還有騰訊 LoopForge（+423）。"
+     },
+     "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+     "extra": [
+      "https://github.com/dream-num/univer",
+      "https://github.com/backnotprop/plannotator",
+      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "https://github.com/alibaba/open-code-review"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "AI 生成代码的「来源与许可证」标注 Action — 今天最热帖把 AI 代码的版权和许可证问题摆上台面：做一个 GitHub Action，按提交记录和 Agent 元数据标出哪些文件主要由 AI 生成、建议许可证声明、生成合规报告；开源引流，团队版按仓库收费。",
+     "垂直行业的 Agent 技能包 — Chrome 官方把 Web 最佳实践做成 Agent 技能，一天 +1,219 星，说明「给 Agent 喂行业规范」有需求：照同样结构做电商合规、无障碍、SEO、跨境税务等技能包，免费基础版 + 付费完整版。",
+     "给小团队的托管「Agent 审阅关」 — Plannotator、Open Code Review、LoopForge 同时上榜：把「人工审批 + 确定性检查 + LLM 审查」打包成一键接入 GitHub 的托管服务，面向没有平台团队的 2–10 人公司，按席位月费。",
+     "用 Chrome DevTools MCP 做前端自动验收 — 让 Agent 通过 DevTools MCP 打开页面、量性能、抓控制台错误和截图，输出验收报告；卖给外包工作室和独立开发者，按项目或月费收费。"
+    ],
+    "en": [
+     "A provenance and license labeling GitHub Action for AI-generated code — The top post put copyright and licensing of AI code on the table: a GitHub Action that uses commit history and agent metadata to flag files that are mainly AI-generated, suggest license notices and produce a compliance report; open source for reach, a paid team plan per repository.",
+     "Agent skill packs for specific industries — Chrome turned web best practices into agent skills and gained 1,219 stars in a day, a sign that feeding agents domain rules is in demand: build skill packs in the same shape for e-commerce compliance, accessibility, SEO or cross-border tax, with a free base pack and a paid full pack.",
+     "A hosted agent review gate for small teams — Plannotator, Open Code Review and LoopForge are all trending: package human approval, deterministic checks and LLM review into a hosted service that connects to GitHub in one click, for 2 to 10 person companies with no platform team, priced per seat per month.",
+     "Automated frontend acceptance checks with Chrome DevTools MCP — Let an agent open pages through DevTools MCP, measure performance, capture console errors and screenshots, and output an acceptance report; sell it to agencies and indie developers per project or monthly."
+    ],
+    "zh-Hant": [
+     "AI 生成程式碼的「來源與許可證」標註 Action — 今天最熱帖把 AI 程式碼的版權和許可證問題擺上檯面：做一個 GitHub Action，按提交記錄和 Agent 後設資料標出哪些檔案主要由 AI 生成、建議許可證宣告、生成合規報告；開源引流，團隊版按倉庫收費。",
+     "垂直行業的 Agent 技能包 — Chrome 官方把 Web 最佳實踐做成 Agent 技能，一天 +1,219 星，說明「給 Agent 喂行業規範」有需求：照同樣結構做電商合規、無障礙、SEO、跨境稅務等技能包，免費基礎版 + 付費完整版。",
+     "給小團隊的託管「Agent 審閱關」 — Plannotator、Open Code Review、LoopForge 同時上榜：把「人工審批 + 確定性檢查 + LLM 審查」打包成一鍵接入 GitHub 的託管服務，面向沒有平臺團隊的 2–10 人公司，按席位月費。",
+     "用 Chrome DevTools MCP 做前端自動驗收 — 讓 Agent 透過 DevTools MCP 開啟頁面、量效能、抓控制檯錯誤和截圖，輸出驗收報告；賣給外包工作室和獨立開發者，按專案或月費收費。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "旧短链与二维码「失效劫持」体检 — 商家输入自己的官网、社媒账号或上传旧海报，工具找出其中的短链和二维码，逐个检查现在跳到哪里、是否被重新注册或指向陌生域名，给出替换清单。 Ransomnews 发现汉堡王、麦当劳旧推文中的 Bitly 短链被他人重新注册并改向，Bitly 已确认问题。几乎每个做过营销的小商家都在旧帖子、传单、菜单和包装上留过短链或二维码。",
+     "小商家的收款「防封」自查与备用通道清单 — 商家回答几个问题（业务类型、如何取得授权、首笔金额与后续金额差距、退款政策），AI 对照支付平台公开规则指出容易触发风控的地方，并给出备用收款方案和客户授权话术模板。 今天 HN 上一家小公司在一张 1,500 美元发票后被 Stripe 关闭账户、申诉被拒；先存卡后扣款这类场景，Stripe 文档要求按「保存并复用」流程取得授权。用 Stripe、PayPal、Shopify Payments 收款的小商家和自由职业者都可能遇到。",
+     "关键告警多通道中转（邮件之外再打电话、发短信） — 把设备或系统原本只发邮件的告警（泳池加药、冷库温度、烟感、服务器）转接到短信、电话、WhatsApp/Telegram，并要求有人确认，未确认就升级给下一个人。 WDR 报道：微软故障期间乐园收不到邮件，泳池加药系统的报警没人看到，15 名酒店客人受影响。民宿、健身房、餐厅冷库、诊所等大量小场所都依赖设备邮件告警，却没有值班系统。",
+     "内存和显卡涨价期的装机/升级「买不买」助手 — 用户说出预算和用途（办公、剪辑、游戏、跑本地模型），AI 给出现在买什么、哪些配件可等、二手是否划算，并追踪价格变化提醒入手时机。 反垄断起诉书称常规 DRAM 一年涨 171.8%；TechSpot 称 GeForce 售价常超过原建议价 160%。要买电脑、升级内存或显卡的普通人和小工作室都受影响。",
+     "小商家的门店地图与配送范围页生成器 — 商家输入门店地址和配送半径，生成可嵌入官网的门店地图、营业时间和配送范围页，地图瓦片自托管，不按访问次数付地图 API 费用。 Protomaps 文章作者指出 Mapbox 免费额度用完后每 1,000 次地图加载收 5 美元，而自托管 PMTiles 的成本可低得多。连锁小店、外卖店、上门服务商都需要「我们在哪、送不送到」页面。",
+     "应届生和初级白领的「AI 工作作品集」教练 — 按目标岗位（财务、法务助理、咨询、运营）给出用 AI 完成的真实小任务，学员做完后 AI 点评并整理成可放进简历的作品集页面。 X 热门话题汇总：Anthropic CEO Dario Amodei 称 AI 可能在一到五年内冲击多达一半的初级白领岗位，并建议毕业生掌握 AI 工具。毕业生和初级职员人数庞大，求职焦虑高。"
+    ],
+    "en": [
+     "A hijack check for old short links and QR codes — A business enters its website and social accounts or uploads old posters; the tool finds the short links and QR codes, checks where each one now leads and whether it was re-registered or points to an unfamiliar domain, and outputs a replacement list. Ransomnews found that Bitly links in old Burger King and McDonald’s tweets were re-registered and redirected, and Bitly confirmed the issue. Almost every small business that has done marketing has left short links or QR codes on old posts, flyers, menus and packaging.",
+     "A payment-account ban check and backup-channel kit for small businesses — A business answers a few questions (business type, how authorization is captured, gap between first and later charge amounts, refund policy); the AI compares the answers with payment platforms’ public rules, points out what tends to trigger risk reviews, and gives backup payment options plus customer authorization templates. Today on HN a small business had its Stripe account closed after one $1,500 invoice and lost its appeal; for saving a card and charging later, Stripe’s docs describe a save-and-reuse flow for getting authorization. Any small business or freelancer taking payments through Stripe, PayPal or Shopify Payments can run into this.",
+     "A multi-channel relay for critical alerts (calls and texts, not just email) — Take alerts that devices or systems send only by email (pool dosing, cold-room temperature, smoke sensors, servers) and relay them to SMS, phone calls, WhatsApp or Telegram, require someone to acknowledge, and escalate to the next person if nobody does. WDR reports that during the Microsoft outage the park received no email, nobody saw the pool dosing alarm, and 15 hotel guests were affected. Many small venues such as guesthouses, gyms, restaurant cold rooms and clinics rely on device email alerts with no on-call system.",
+     "A buy-or-wait helper for PCs and upgrades while memory and GPU prices are high — Users give a budget and use case (office, editing, gaming, local models); the AI says what to buy now, which parts can wait and whether used parts make sense, and tracks prices to alert when to buy. The antitrust complaint says conventional DRAM rose 171.8% in a year; TechSpot says GeForce prices often exceed 160% of MSRP. Ordinary people and small studios buying a PC or upgrading memory or a GPU are all affected.",
+     "A store map and delivery-area page builder for small businesses — A business enters store addresses and delivery radius and gets an embeddable store map, opening hours and delivery-area page for its website, with self-hosted map tiles so there are no per-load map API fees. The Protomaps write-up notes Mapbox charges $5 per 1,000 map loads after the free tier, while self-hosted PMTiles can cost far less. Small chains, takeaway shops and home-service providers all need a “where we are and do we deliver” page.",
+     "An AI work-portfolio coach for graduates and junior office workers — For a target role (finance, legal assistant, consulting, operations), assign small real tasks done with AI, have AI review the work, and turn it into a portfolio page that can go on a resume. An X trending summary: Anthropic CEO Dario Amodei says AI could disrupt up to half of entry-level white-collar jobs within one to five years and urges graduates to master AI tools. Graduates and junior staff are a huge, anxious group."
+    ],
+    "zh-Hant": [
+     "舊短鏈與二維碼「失效劫持」體檢 — 商家輸入自己的官網、社媒賬號或上傳舊海報，工具找出其中的短鏈和二維碼，逐個檢查現在跳到哪裡、是否被重新註冊或指向陌生域名，給出替換清單。 Ransomnews 發現漢堡王、麥當勞舊推文中的 Bitly 短鏈被他人重新註冊並改向，Bitly 已確認問題。幾乎每個做過營銷的小商家都在舊帖子、傳單、選單和包裝上留過短鏈或二維碼。",
+     "小商家的收款「防封」自查與備用通道清單 — 商家回答幾個問題（業務型別、如何取得授權、首筆金額與後續金額差距、退款政策），AI 對照支付平臺公開規則指出容易觸發風控的地方，並給出備用收款方案和客戶授權話術模板。 今天 HN 上一家小公司在一張 1,500 美元發票後被 Stripe 關閉賬戶、申訴被拒；先存卡後扣款這類場景，Stripe 文件要求按「儲存並複用」流程取得授權。用 Stripe、PayPal、Shopify Payments 收款的小商家和自由職業者都可能遇到。",
+     "關鍵告警多通道中轉（郵件之外再打電話、發簡訊） — 把裝置或系統原本只發郵件的告警（泳池加藥、冷庫溫度、煙感、伺服器）轉接到簡訊、電話、WhatsApp/Telegram，並要求有人確認，未確認就升級給下一個人。 WDR 報道：微軟故障期間樂園收不到郵件，泳池加藥系統的報警沒人看到，15 名酒店客人受影響。民宿、健身房、餐廳冷庫、診所等大量小場所都依賴裝置郵件告警，卻沒有值班系統。",
+     "記憶體和顯示卡漲價期的裝機/升級「買不買」助手 — 使用者說出預算和用途（辦公、剪輯、遊戲、跑本地模型），AI 給出現在買什麼、哪些配件可等、二手是否划算，並追蹤價格變化提醒入手時機。 反壟斷起訴書稱常規 DRAM 一年漲 171.8%；TechSpot 稱 GeForce 售價常超過原建議價 160%。要買電腦、升級記憶體或顯示卡的普通人和小工作室都受影響。",
+     "小商家的門店地圖與配送範圍頁生成器 — 商家輸入門店地址和配送半徑，生成可嵌入官網的門店地圖、營業時間和配送範圍頁，地圖瓦片自託管，不按訪問次數付地圖 API 費用。 Protomaps 文章作者指出 Mapbox 免費額度用完後每 1,000 次地圖載入收 5 美元，而自託管 PMTiles 的成本可低得多。連鎖小店、外賣店、上門服務商都需要「我們在哪、送不送到」頁面。",
+     "應屆生和初級白領的「AI 工作作品集」教練 — 按目標崗位（財務、法務助理、諮詢、運營）給出用 AI 完成的真實小任務，學員做完後 AI 點評並整理成可放進簡歷的作品集頁面。 X 熱門話題彙總：Anthropic CEO Dario Amodei 稱 AI 可能在一到五年內衝擊多達一半的初級白領崗位，並建議畢業生掌握 AI 工具。畢業生和初級職員人數龐大，求職焦慮高。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "GoogleChrome/modern-web-guidance-src",
+      "en": "GoogleChrome/modern-web-guidance-src",
+      "zh-Hant": "GoogleChrome/modern-web-guidance-src"
+     },
+     "summary": {
+      "zh-Hans": "把现代 Web 最佳实践和兼容性数据做成编程 Agent 技能，可直接学它的技能结构和评测方法。",
+      "en": "Modern web best practices and compat data as coding-agent skills; a good model for skill structure and evaluation.",
+      "zh-Hant": "把現代 Web 最佳實踐和相容性資料做成程式設計 Agent 技能，可直接學它的技能結構和評測方法。"
+     },
+     "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+     "title": {
+      "zh-Hans": "ChromeDevTools/chrome-devtools-mcp",
+      "en": "ChromeDevTools/chrome-devtools-mcp",
+      "zh-Hant": "ChromeDevTools/chrome-devtools-mcp"
+     },
+     "summary": {
+      "zh-Hans": "让编程 Agent 直接用 Chrome DevTools 调试、量性能。",
+      "en": "Lets coding agents use Chrome DevTools directly to debug and measure performance.",
+      "zh-Hant": "讓程式設計 Agent 直接用 Chrome DevTools 除錯、量效能。"
+     },
+     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+     "title": {
+      "zh-Hans": "alibaba/open-code-review",
+      "en": "alibaba/open-code-review",
+      "zh-Hant": "alibaba/open-code-review"
+     },
+     "summary": {
+      "zh-Hans": "确定性流水线 + LLM Agent 的代码审查 CLI，兼容 OpenAI 与 Anthropic 接口。",
+      "en": "A code-review CLI combining deterministic pipelines with an LLM agent, compatible with OpenAI and Anthropic APIs.",
+      "zh-Hant": "確定性流水線 + LLM Agent 的程式碼審查 CLI，相容 OpenAI 與 Anthropic 介面。"
+     },
+     "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+     "title": {
+      "zh-Hans": "PMTiles",
+      "en": "PMTiles",
+      "zh-Hant": "PMTiles"
+     },
+     "summary": {
+      "zh-Hans": "单文件地图瓦片格式，靠 HTTP Range 请求放在对象存储即可用。",
+      "en": "A single-file map tile format served from object storage via HTTP Range requests.",
+      "zh-Hant": "單檔案地圖瓦片格式，靠 HTTP Range 請求放在物件儲存即可用。"
+     },
+     "url": "https://docs.protomaps.com/pmtiles/"
+    },
+    {
+     "title": {
+      "zh-Hans": "Understanding Positional Embeddings in Modern LLMs",
+      "en": "Understanding Positional Embeddings in Modern LLMs",
+      "zh-Hant": "Understanding Positional Embeddings in Modern LLMs"
+     },
+     "summary": {
+      "zh-Hans": "Raschka 的位置编码长文，含 RoPE 图解和小型 PyTorch 实现。",
+      "en": "Raschka’s long read on positional embeddings, with RoPE visuals and a small PyTorch implementation.",
+      "zh-Hant": "Raschka 的位置編碼長文，含 RoPE 圖解和小型 PyTorch 實現。"
+     },
+     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+     "title": {
+      "zh-Hans": "Gemini 4 Hydrogen in GitHub Copilot",
+      "en": "Gemini 4 Hydrogen in GitHub Copilot",
+      "zh-Hant": "Gemini 4 Hydrogen in GitHub Copilot"
+     },
+     "summary": {
+      "zh-Hans": "GitHub Changelog（11 月 13 日）：Google 的新 Flash 模型在 Copilot 正式可用，按用量计费。",
+      "en": "GitHub Changelog (November 13): Google’s new Flash model is generally available in Copilot, billed by usage.",
+      "zh-Hant": "GitHub Changelog（11 月 13 日）：Google 的新 Flash 模型在 Copilot 正式可用，按用量計費。"
+     },
+     "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot"
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "path": "digest/2026-11-15/",
