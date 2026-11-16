@@ -5,7 +5,7 @@ Writes (all real data from site/data/items.json and site/data/digests.json, noth
   site/item/<slug>/index.html         one page per item that has a real English summary (title, summary, source numbers,
                                       link to the original + discussion, related items in the same channel)
   site/sitemap-pages.xml              channel + item URLs; appended to site/sitemap.xml (the index robots.txt points to)
-It also gives every daily digest page a clear English <title>/og:title ("OPC Radar Daily Digest · <date> · <issue title>")
+It also gives every daily digest page a clear English <title>/og:title ("OPC Radar by Incidental AI · Daily Digest · <date> · <issue title>")
 and Article/ItemList JSON-LD in <head> (no visible change: the in-page h1 and the language boxes are untouched).
 Non-Chinese rule: every generated page is English and must contain zero Han characters; the script refuses to write otherwise.
 Reuses the existing styles.css (same classes as the digest pages); no new visual components."""
@@ -141,7 +141,7 @@ def write(out, urls):
 def digest_title(dg):
     d = dg['date']; issue = dg['title']['en']
     issue_nodate = re.sub(r'\s*[·\-–—]\s*' + re.escape(d), '', issue).strip() or issue
-    return f'OPC Radar Daily Digest · {d} · {issue_nodate}'
+    return f'OPC Radar by Incidental AI · Daily Digest · {d} · {issue_nodate}'
 
 def digest_head(G):
     n = 0
@@ -168,7 +168,7 @@ def digest_head(G):
         if new != s: open(p, 'w', encoding='utf-8').write(new); n += 1
     p = os.path.join(S, 'digest', 'index.html')   # archive page
     if os.path.exists(p):
-        s = open(p, encoding='utf-8').read(); t = 'OPC Radar Daily Digest archive · every morning tech digest'
+        s = open(p, encoding='utf-8').read(); t = 'OPC Radar by Incidental AI · Daily Digest archive · every morning tech digest'
         new = re.sub(r'<title>.*?</title>', f'<title>{t}</title>', s, count=1, flags=re.S)
         if new != s: open(p, 'w', encoding='utf-8').write(new); n += 1
     return n

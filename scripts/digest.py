@@ -301,14 +301,14 @@ def page(dg):
     d = dg['date']; ti = e(dg['title']['en']); de = e(dg['lede']['en']); url = f'{BASE}digest/{d}/'
     v = re.sub(r'\D', '', dg.get('updated') or dg.get('generated') or '')[:12]
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{ti} · OPC Radar</title>
+<title>{ti} · OPC Radar by Incidental AI</title>
 <meta name="description" content="{de}">
 <script>try{{var th=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=th}}catch(e){{}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&family=Geist:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="../../styles.css?v=8">
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:site_name" content="OPC Radar">
-<meta property="og:title" content="{ti} · OPC Radar">
+<meta property="og:title" content="{ti} · OPC Radar by Incidental AI">
 <meta property="og:description" content="{de}">
 <meta property="og:url" content="{url}">
 <style>
@@ -357,7 +357,7 @@ function apply(){{
   const has=!!document.querySelector('.langbox[data-lang="'+L+'"]');const box=has?L:(/^zh/.test(L)?'zh-Hans':'en');
   window.__digL=box;document.documentElement.lang=box;
   document.querySelectorAll('.langbox').forEach(el=>{{el.hidden=el.dataset.lang!==box}});
-  const h=document.querySelector('.langbox[data-lang="'+box+'"] h1');document.title=(h?h.textContent:'')+' · OPC Radar';
+  const h=document.querySelector('.langbox[data-lang="'+box+'"] h1');document.title=(h?h.textContent:'')+' · OPC Radar by Incidental AI';
 }}
 sel.onchange=()=>{{L=sel.value;localStorage.setItem('lang',L);apply()}};
 document.getElementById('themeBtn').onclick=()=>{{const n=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=n;localStorage.setItem('theme',n)}};
