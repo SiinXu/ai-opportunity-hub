@@ -30,4 +30,8 @@ Disallow: /
 User-agent: Reflectionbot
 Disallow: /
 
+# 2026-11-17: ElevenlabsCrawler — sitewide disallow
+User-agent: ElevenlabsCrawler
+Disallow: /
+
 Sitemap: https://siinxu.github.io/ai-opportunity-hub/sitemap.xml
