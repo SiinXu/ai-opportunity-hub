@@ -1,6 +1,284 @@
 {
- "latest": "2026-11-16",
+ "latest": "2026-11-17",
  "digests": [
+  {
+   "date": "2026-11-17",
+   "path": "digest/2026-11-17/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-17",
+    "en": "Morning tech digest · 2026-11-17",
+    "zh-Hant": "早間技術熱點 · 2026-11-17"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行訊號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "阿里发布 Qwen4-Max：2.4 万亿参数 MoE，这次不开放权重",
+      "en": "Alibaba launches Qwen4-Max: a 2.4T-parameter MoE, and this time without open weights",
+      "zh-Hant": "阿里釋出 Qwen4-Max：2.4 萬億引數 MoE，這次不開放權重"
+     },
+     "summary": {
+      "zh-Hans": "阿里 11 月 16 日正式发布 Qwen4-Max（11 日起有限预览）：MoE 架构，总参数 2.4 万亿、每个 token 激活 710 亿，原生读图读视频，上下文 100 万 token，支持工具调用和结构化输出，兼容 OpenAI / Anthropic 接口。TNW 报道 API 价格为每百万输入 token 1.5 美元、输出 4.5 美元。阿里称在自家 Work360 测试上单任务平均成本比 Qwen3.8-Max 降了约六成（厂商自测，未经独立验证）。旗舰不开放权重，更小的 Qwen4 模型会开源，未给日期。HN 约 850 分，今天最热。",
+      "en": "Alibaba made Qwen4-Max generally available on November 16 after a limited preview from November 11: a mixture-of-experts model with 2.4 trillion total parameters and 71 billion active per token, native image and video input, a one-million-token context window, tool calling and structured outputs, and OpenAI- and Anthropic-compatible APIs. TNW reports API pricing of $1.50 per million input tokens and $4.50 per million output tokens. Alibaba says the average cost per task on its own Work360 benchmark fell by about 60% versus Qwen3.8-Max (vendor figures, not independently verified). The flagship weights stay closed; smaller Qwen4 models will be open-weight, with no date given. About 850 points on HN, the top post of the day.",
+      "zh-Hant": "阿里 11 月 16 日正式釋出 Qwen4-Max（11 日起有限預覽）：MoE 架構，總引數 2.4 萬億、每個 token 啟用 710 億，原生讀圖讀影片，上下文 100 萬 token，支援工具呼叫和結構化輸出，相容 OpenAI / Anthropic 介面。TNW 報道 API 價格為每百萬輸入 token 1.5 美元、輸出 4.5 美元。阿里稱在自家 Work360 測試上單任務平均成本比 Qwen3.8-Max 降了約六成（廠商自測，未經獨立驗證）。旗艦不開放權重，更小的 Qwen4 模型會開源，未給日期。HN 約 850 分，今天最熱。"
+     },
+     "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+     "extra": [
+      "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
+      "https://news.ycombinator.com/item?id=50513215"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "调查：亚马逊黑五「好价」近三分之一根本不便宜",
+      "en": "Investigation: nearly a third of Amazon’s Black Friday “deals” offered no savings",
+      "zh-Hant": "調查：亞馬遜黑五「好價」近三分之一根本不便宜"
+     },
+     "summary": {
+      "zh-Hans": "美国智库 Groundwork Collaborative 查了亚马逊自家 2024、2025 年黑五和网一「精选好价」页上 350 多件商品：近 1/3 的「折扣」价格与活动前一个月相同甚至更高，近 1/10 比活动前更贵；在这些「更贵」的商品里，活动价中位数比前几周高 19%。报告呼吁监管要求商家标出促销前 30 天最低价。报告称亚马逊在得知研究后撤下了这些页面。HN 约 809 分、489 条评论。",
+      "en": "The US think tank Groundwork Collaborative examined more than 350 products from Amazon’s own Black Friday and Cyber Monday deal pages in 2024 and 2025: nearly 1 in 3 “deals” cost the same or more than in the month before the sale, and nearly 1 in 10 were more expensive; among those, the median sale price was 19% higher than in the preceding weeks. The report asks regulators to require retailers to show the lowest price of the previous 30 days. It says Amazon removed the pages after learning of the study. About 809 points and 489 comments on HN.",
+      "zh-Hant": "美國智庫 Groundwork Collaborative 查了亞馬遜自家 2024、2025 年黑五和網一「精選好價」頁上 350 多件商品：近 1/3 的「折扣」價格與活動前一個月相同甚至更高，近 1/10 比活動前更貴；在這些「更貴」的商品裡，活動價中位數比前幾周高 19%。報告呼籲監管要求商家標出促銷前 30 天最低價。報告稱亞馬遜在得知研究後撤下了這些頁面。HN 約 809 分、489 條評論。"
+     },
+     "url": "https://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50517488"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "摩根大通软件故障，多家美国银行和 Zelle 转账延迟",
+      "en": "A software bug at JPMorgan Chase delays transfers at several US banks and Zelle",
+      "zh-Hant": "摩根大通軟體故障，多家美國銀行和 Zelle 轉賬延遲"
+     },
+     "summary": {
+      "zh-Hans": "美东时间周一下午，大量用户报告无法正常使用 Chase、美国银行、富国银行等网银和 Zelle 转账。摩根大通声明称是「本地部署硬件系统中的软件 bug」导致的临时问题，没有证据表明与网络攻击有关；凡是与 Chase 有往来的交易，对方银行也可能受影响，但「不是系统性问题」，客户仍可访问账户和资金。BBC 引用 Downdetector：Chase 的故障报告一度接近 5,000 条，傍晚开始回落。HN 约 690 分、563 条评论。",
+      "en": "On Monday afternoon US Eastern time, many customers reported trouble with online banking at Chase, Bank of America, Wells Fargo and others, and with Zelle transfers. JPMorgan Chase said a “software bug in on-premise hardware systems” caused a temporary issue with no evidence of a cyberattack; banks on the other side of transactions with Chase may have been affected, but it is “not a systemic issue,” and customers still had access to their accounts and funds. The BBC, citing Downdetector, said Chase outage reports peaked at almost 5,000 and fell by the evening. About 690 points and 563 comments on HN.",
+      "zh-Hant": "美東時間週一下午，大量使用者報告無法正常使用 Chase、美國銀行、富國銀行等網銀和 Zelle 轉賬。摩根大通宣告稱是「本地部署硬體系統中的軟體 bug」導致的臨時問題，沒有證據表明與網路攻擊有關；凡是與 Chase 有往來的交易，對方銀行也可能受影響，但「不是系統性問題」，客戶仍可訪問賬戶和資金。BBC 引用 Downdetector：Chase 的故障報告一度接近 5,000 條，傍晚開始回落。HN 約 690 分、563 條評論。"
+     },
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "extra": [
+      "https://www.bbc.com/news/articles/cj752wvqneq6o",
+      "https://news.ycombinator.com/item?id=50521045"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "uBlock Origin 曝一键「通用 XSS」，已修复",
+      "en": "uBlock Origin had a one-click universal XSS, now fixed",
+      "zh-Hant": "uBlock Origin 曝一鍵「通用 XSS」，已修復"
+     },
+     "summary": {
+      "zh-Hans": "研究者 Smitty van Bodegom 披露：Firefox 上的 uBlock Origin（MV2 版，MV3 的 uBO Lite 也有类似但较轻的问题）可被恶意网页诱导添加「可信过滤规则」，而可信规则能注入 JavaScript，于是攻击者能在任意网站上执行代码。手法是先借一条默认规则泄露扩展的随机 UUID，再用透明 iframe 嵌入元素选择器，诱导用户点到隐形的「创建」按钮。问题已修复，请确认扩展已更新。作者说大部分查找工作是 AI 模型完成的，他本人做了验证。HN 约 595 分。",
+      "en": "Researcher Smitty van Bodegom disclosed that uBlock Origin on Firefox (the MV2 version; uBO Lite on MV3 had a similar but milder issue) could be tricked by a malicious page into adding “trusted filters”, which can inject JavaScript, letting an attacker run code on any website. The attack leaked the extension’s random UUID through a default filter rule, then embedded the element picker in an invisible iframe so the user would click a hidden “Create” button. It is fixed; make sure the extension is up to date. The author says an AI model did most of the finding and he verified it. About 595 points on HN.",
+      "zh-Hant": "研究者 Smitty van Bodegom 披露：Firefox 上的 uBlock Origin（MV2 版，MV3 的 uBO Lite 也有類似但較輕的問題）可被惡意網頁誘導新增「可信過濾規則」，而可信規則能注入 JavaScript，於是攻擊者能在任意網站上執行程式碼。手法是先借一條預設規則洩露擴充套件的隨機 UUID，再用透明 iframe 嵌入元素選擇器，誘導使用者點到隱形的「建立」按鈕。問題已修復，請確認擴充套件已更新。作者說大部分查詢工作是 AI 模型完成的，他本人做了驗證。HN 約 595 分。"
+     },
+     "url": "https://iter.ca/post/ubo-uxss/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50513160"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "卡内基梅隆把计算机课程免费放上 YouTube",
+      "en": "Carnegie Mellon puts computer science courses on YouTube for free",
+      "zh-Hant": "卡內基梅隆把計算機課程免費放上 YouTube"
+     },
+     "summary": {
+      "zh-Hans": "CMU 计算机学院推出 CS Learn，整学期课堂录像免费在 YouTube 首播。11 月上线的包括大规模数据机器学习（10-605）、机器学习系统（15-442，陈天奇、贾志豪）、AI Agents（11-768，Daniel Fried、Graham Neubig，11 月 19 日首播）、生产环境中的机器学习（17-645）等；2027 年 1 月还有多模态机器学习、产品管理等。官网说接下来会推出自学课件和 AI 辅导。HN 约 494 分。",
+      "en": "CMU’s School of Computer Science launched CS Learn, premiering full-semester classroom lectures free on YouTube. November releases include Machine Learning with Large Datasets (10-605), Machine Learning Systems (15-442, Tianqi Chen and Zhihao Jia), AI Agents (11-768, Daniel Fried and Graham Neubig, premiering November 19) and Machine Learning in Production (17-645); Multimodal Machine Learning, Product Management Essentials and more follow in January 2027. The site says self-paced courseware and AI tutoring are coming next. About 494 points on HN.",
+      "zh-Hant": "CMU 計算機學院推出 CS Learn，整學期課堂錄影免費在 YouTube 首播。11 月上線的包括大規模資料機器學習（10-605）、機器學習系統（15-442，陳天奇、賈志豪）、AI Agents（11-768，Daniel Fried、Graham Neubig，11 月 19 日首播）、生產環境中的機器學習（17-645）等；2027 年 1 月還有多模態機器學習、產品管理等。官網說接下來會推出自學課件和 AI 輔導。HN 約 494 分。"
+     },
+     "url": "https://www.cs.cmu.edu/learn/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50522980"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "英伟达风波：FT 称黄仁勋在谋划回归，财报周二发布",
+      "en": "Nvidia turmoil: FT says Jensen Huang is weighing a comeback; earnings land Tuesday",
+      "zh-Hant": "英偉達風波：FT 稱黃仁勳在謀劃迴歸，財報週二釋出"
+     },
+     "summary": {
+      "zh-Hans": "据《金融时报》报道（路透转述），上周四辞职的黄仁勋正与亲信讨论重返 CEO 的可能，支持者在组织硅谷高管游说董事会。另一边，美国财长贝森特公开要求英伟达「大幅改组」并从外部找新 CEO。英伟达将于美东周二发布辞职风波后的首份季报，目前由 CFO Colette Kress 代理 CEO。Steve Blank 的长文《英伟达接下来会怎样》在 HN 约 458 分、566 条评论。",
+      "en": "According to the Financial Times (as relayed by Reuters), Jensen Huang, who resigned last Thursday, has discussed returning as CEO with confidants, and supporters are organizing Silicon Valley executives to lobby the board. Meanwhile US Treasury Secretary Scott Bessent called for a “dramatic shakeup” and an outside CEO. Nvidia reports its first quarterly results since the resignation on Tuesday, US Eastern time, with CFO Colette Kress as interim CEO. Steve Blank’s essay “What’s Next for Nvidia?” drew about 458 points and 566 comments on HN.",
+      "zh-Hant": "據《金融時報》報道（路透轉述），上週四辭職的黃仁勳正與親信討論重返 CEO 的可能，支持者在組織矽谷高管遊說董事會。另一邊，美國財長貝森特公開要求英偉達「大幅改組」並從外部找新 CEO。英偉達將於美東周二釋出辭職風波後的首份季報，目前由 CFO Colette Kress 代理 CEO。Steve Blank 的長文《英偉達接下來會怎樣》在 HN 約 458 分、566 條評論。"
+     },
+     "url": "https://www.businesstimes.com.sg/international/global/jensen-huang-discusses-comeback-nvidia-ceo-allies-report",
+     "extra": [
+      "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "https://news.ycombinator.com/item?id=50511982",
+      "https://news.ycombinator.com/item?id=50512235"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软邮件大故障复盘：7 月埋下的缺陷 + 只在弱硬件上做压测",
+      "en": "Microsoft’s email outage post-mortem: a defect from July and load tests on weaker hardware",
+      "zh-Hant": "微軟郵件大故障覆盤：7 月埋下的缺陷 + 只在弱硬體上做壓測"
+     },
+     "summary": {
+      "zh-Hans": "据 The Register，微软 11 月 15 日的初步事故报告称：缺陷来自 7 月给 Microsoft 365 网络网关服务器打的修复补丁，会在 Windows 内部进程里造成锁竞争、耗尽 CPU 和内存，核数越多、硬件越新越严重；而当时的压测偏重核数较少的弱硬件。上周 Teams 故障切换带来流量高峰，恰逢约 14% 的网关容量下线，缺陷被触发。同一天，美联航系统故障约 30 分钟、影响不到 150 个航班（CNN）。长文《软件正在系统性地崩坏》在 HN 约 331 分。",
+      "en": "Per The Register, Microsoft’s preliminary incident report of November 15 says the defect came from a July fix for Microsoft 365 network gateway servers: it caused lock contention inside an internal Windows process that exhausted CPU and memory, worse on machines with more cores and newer hardware, while load testing had focused on weaker machines with fewer cores. Last week a Teams failover surge coincided with about 14% of gateway capacity being out of service, triggering the defect. The same day United Airlines had a system outage of about 30 minutes affecting fewer than 150 flights (CNN). The essay “Software is breaking down at a systemic level” drew about 331 points on HN.",
+      "zh-Hant": "據 The Register，微軟 11 月 15 日的初步事故報告稱：缺陷來自 7 月給 Microsoft 365 網路閘道器伺服器打的修復補丁，會在 Windows 內部程序裡造成鎖競爭、耗盡 CPU 和記憶體，核數越多、硬體越新越嚴重；而當時的壓測偏重核數較少的弱硬體。上週 Teams 故障切換帶來流量高峰，恰逢約 14% 的閘道器容量下線，缺陷被觸發。同一天，美聯航系統故障約 30 分鐘、影響不到 150 個航班（CNN）。長文《軟體正在系統性地崩壞》在 HN 約 331 分。"
+     },
+     "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+     "extra": [
+      "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+      "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "https://news.ycombinator.com/item?id=50517321",
+      "https://news.ycombinator.com/item?id=50520866"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub：AI Scan 可一次扫 20 个仓库；三款 Copilot 模型今天下线",
+      "en": "GitHub: AI Scan can start on 20 repos at once; three Copilot models retired today",
+      "zh-Hant": "GitHub：AI Scan 可一次掃 20 個倉庫；三款 Copilot 模型今天下線"
+     },
+     "summary": {
+      "zh-Hans": "GitHub Changelog：AI 仓库安全扫描（覆盖 CodeQL 不支持的语言）现在可一次为最多 20 个仓库批量启动，公测中，不需要 Copilot 许可。另外，Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra 从 11 月 16 日起在大多数 Copilot 体验中弃用，建议改用 Claude Opus 5.5、GPT-6.1 Sol 或 GPT-6 Luna。GitHub Trending 今日星：dream-num/univer +1,828、alibaba/open-code-review +951、NVIDIA/SkillEvaluator +873、ag-ui-protocol/ag-ui +791。",
+      "en": "GitHub Changelog: AI Scan for repositories (security scanning that also covers languages CodeQL does not support) can now be started for up to 20 repositories at once, in public preview, with no Copilot license required. Separately, Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra were deprecated across most Copilot experiences as of November 16, with Claude Opus 5.5, GPT-6.1 Sol or GPT-6 Luna suggested instead. Stars gained today on GitHub Trending: dream-num/univer +1,828, alibaba/open-code-review +951, NVIDIA/SkillEvaluator +873, ag-ui-protocol/ag-ui +791.",
+      "zh-Hant": "GitHub Changelog：AI 倉庫安全掃描（覆蓋 CodeQL 不支援的語言）現在可一次為最多 20 個倉庫批次啟動，公測中，不需要 Copilot 許可。另外，Claude Opus 4.8、Claude Opus 5 和 GPT-5.6 Terra 從 11 月 16 日起在大多數 Copilot 體驗中棄用，建議改用 Claude Opus 5.5、GPT-6.1 Sol 或 GPT-6 Luna。GitHub Trending 今日星：dream-num/univer +1,828、alibaba/open-code-review +951、NVIDIA/SkillEvaluator +873、ag-ui-protocol/ag-ui +791。"
+     },
+     "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+     "extra": [
+      "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "https://github.com/trending"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "模型下线与换模迁移检查器 — Copilot 今天一次下线三款模型，Qwen4-Max 又带来更低价的新选项：做一个 CLI / GitHub Action，扫描仓库和配置里写死的模型 ID，标出已弃用或将弃用的，给出替代模型和同任务成本对比；开源引流，团队版按仓库收费。",
+     "浏览器扩展安全自查服务 — uBlock Origin 的漏洞出在 web_accessible_resources 暴露和可被嵌入的内部页面：用 AI 加规则扫描扩展清单和消息接口，找出可被网页利用的入口，出报告和修复建议；面向独立扩展开发者，按次收费。",
+     "Agent 技能质量评测与徽章 — NVIDIA/SkillEvaluator 今天 +873 星，技能包越来越多但质量参差：用它批量评测公开的 Agent 技能，发布评分榜和可嵌入徽章；作者付费获取详细报告和复测。",
+     "基于 AG-UI 的行业前端模板 — AG-UI 协议今天 +791 星，把 Agent 接进前端的需求在涨：做客服、预约、表单填写等场景的现成前端模板和组件，按模板售卖或订阅。"
+    ],
+    "en": [
+     "A model-deprecation migration checker — Copilot retired three models today and Qwen4-Max adds a cheaper option: a CLI or GitHub Action that scans repositories and configs for hard-coded model IDs, flags deprecated or soon-to-be-deprecated ones, and suggests replacements with a same-task cost comparison; open source for reach, a paid team plan per repository.",
+     "A security self-check service for browser extensions — The uBlock Origin bug came from exposed web-accessible resources and an embeddable internal page: use AI plus rules to scan extension manifests and messaging interfaces for entry points a web page could abuse, and deliver a report with fixes; for independent extension developers, paid per audit.",
+     "Quality evaluation and badges for agent skills — NVIDIA/SkillEvaluator gained 873 stars today and skill packs keep multiplying with uneven quality: batch-evaluate public agent skills with it, publish a leaderboard and embeddable badges, and charge authors for detailed reports and re-tests.",
+     "Industry front-end templates built on AG-UI — The AG-UI protocol gained 791 stars today as demand grows for putting agents into front ends: ready-made templates and components for customer service, booking and form filling, sold per template or by subscription."
+    ],
+    "zh-Hant": [
+     "模型下線與換模遷移檢查器 — Copilot 今天一次下線三款模型，Qwen4-Max 又帶來更低價的新選項：做一個 CLI / GitHub Action，掃描倉庫和配置裡寫死的模型 ID，標出已棄用或將棄用的，給出替代模型和同任務成本對比；開源引流，團隊版按倉庫收費。",
+     "瀏覽器擴充套件安全自查服務 — uBlock Origin 的漏洞出在 web_accessible_resources 暴露和可被嵌入的內部頁面：用 AI 加規則掃描擴充套件清單和訊息介面，找出可被網頁利用的入口，出報告和修復建議；面向獨立擴充套件開發者，按次收費。",
+     "Agent 技能質量評測與徽章 — NVIDIA/SkillEvaluator 今天 +873 星，技能包越來越多但質量參差：用它批次評測公開的 Agent 技能，釋出評分榜和可嵌入徽章；作者付費獲取詳細報告和複測。",
+     "基於 AG-UI 的行業前端模板 — AG-UI 協議今天 +791 星，把 Agent 接進前端的需求在漲：做客服、預約、表單填寫等場景的現成前端模板和元件，按模板售賣或訂閱。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "大促「真折扣」核价助手 — 用户粘贴商品链接或截图，工具查这件商品过去 30 到 90 天的价格记录，告诉你现在是不是真便宜、历史最低是多少、要不要等。 Groundwork 查了亚马逊自家「好价」页 350 多件商品，近 1/3 不比活动前便宜；报告引用：2025 年感恩节到网络星期一有创纪录的 2.03 亿美国人购物。每年大促季几乎人人都在比价，东南亚的 Shopee、Lazada 和国内电商也有同样的疑问。",
+     "小网店的「30 天最低价」标注插件 — 给 Shopify、WooCommerce 等小网店自动记录每件商品的价格变化，打折时自动在商品页显示「前 30 天最低价」，并导出价格记录备查。 欧盟价格标示规则（经 2019/2161 指令修订）已要求宣传降价时标出此前至少 30 天内的最低价；Groundwork 的报告又在呼吁美国监管跟进。卖到欧洲的中小网店数量很大，多数没有专人处理合规。",
+     "故障之后的「费用退还与补偿」申请助手 — 银行转账卡住导致逾期费、航班因系统故障延误……用户描述经过、上传截图，AI 按机构公开的规则整理时间线，写好退费或补偿申请信，提醒截止时间。 同一天里，摩根大通软件故障让多家银行和 Zelle 转账延迟，美联航系统故障约 30 分钟、影响不到 150 个航班。银行、航司、外卖、电信故障几乎人人都遇过，但很少人知道怎么申请退费。",
+     "学生与作者的「AI 检测误判」申诉包 — 被 AI 检测器误判的学生或作者，上传写作过程材料（文档版本历史、草稿、笔记），工具整理成时间线证据，并按学校或出版方的流程写好申诉材料。 X 上热议：魁北克作家 Thélyson Orélien 的处女作被 AI 检测器标记后失去出版合同；学生用 AI 写作、老师用 AI 批改、检测器可靠性仍有争议。全球学生和写作者人数庞大，误判一次代价很高。",
+     "名校免费课的「转行学习路线」与 AI 陪练 — 用户说出现在的工作和想转去的方向，工具从 CMU 等名校免费公开课里拼出一条按周的学习路线，每课配练习题、要点卡片和 AI 答疑。 CMU 刚把 AI Agents、机器学习系统等整学期课程免费放上 YouTube；X 上「AI 替代哪些岗位」的图表引发大量讨论，数据录入、翻译、电话销售等岗位的人在找出路。想转行、想补 AI 技能的上班族数量很大。",
+     "家庭群的「视频截取与 AI 造假」核实助手 — 用户转发一段在家庭群、朋友圈里传的视频或截图，工具找原始完整出处、比对上下文，提示是否被断章取义或疑似 AI 生成，并给出可以直接转回群里的说明。 X 上热议：Sam Altman 在会议上谈 AI 安全的视频被剪成「OpenAI 已实现 AGI」疯传，事实核查者贴出完整原话才澄清；同时逼真的 AI 图片视频越来越难分辨。几乎每个家庭群都有转发谣言的长辈。"
+    ],
+    "en": [
+     "A “real discount” price checker for big sales — A shopper pastes a product link or screenshot; the tool checks the item’s price history over the past 30 to 90 days and says whether the current price is really a deal, what the lowest recent price was, and whether to wait. Groundwork checked 350-plus products from Amazon’s own deal pages and found nearly a third were no cheaper than before the sale; the report cites a record 203 million Americans shopping from Thanksgiving to Cyber Monday 2025. Almost everyone compares prices in sale season, and shoppers on Shopee, Lazada and other platforms have the same question.",
+     "A “lowest price in 30 days” label plugin for small online shops — For small Shopify, WooCommerce and similar shops: automatically record each product’s price changes, show the “lowest price in the previous 30 days” on the product page during discounts, and export the price log for records. EU price indication rules (as amended by Directive 2019/2161) already require sellers announcing a price reduction to show the lowest price of at least the previous 30 days, and the Groundwork report urges US regulators to follow. Very many small shops sell into Europe, and most have no one dedicated to compliance.",
+     "A refund and compensation claim helper after outages — A bank transfer stuck and caused a late fee, a flight delayed by a system outage: the user describes what happened and uploads screenshots, and AI builds a timeline from the institution’s published rules, drafts the refund or compensation request, and tracks deadlines. On the same day, a JPMorgan Chase software bug delayed transfers at several banks and on Zelle, and a United Airlines outage of about 30 minutes affected fewer than 150 flights. Almost everyone has been hit by a bank, airline, delivery or telecom outage, yet few know how to ask for a refund.",
+     "An appeal kit for people wrongly flagged by AI detectors — Students or authors wrongly flagged by an AI detector upload their writing-process material (document version history, drafts, notes); the tool turns it into a timeline of evidence and drafts an appeal following the school’s or publisher’s process. Trending on X: Quebec author Thélyson Orélien lost a publishing deal after AI detectors flagged his debut novel, amid wider debate over students using AI, instructors grading with AI, and detector reliability. Students and writers worldwide are a huge group, and a single false flag is costly.",
+     "Career-switch study paths and AI practice built on free university courses — A user states their current job and target direction; the tool assembles a week-by-week path from free university lectures such as CMU’s, with exercises, key-point cards and AI Q&A for each lesson. CMU just put full-semester courses such as AI Agents and Machine Learning Systems on YouTube for free, and a chart of “jobs replaced by AI” sparked wide debate on X, with people in data entry, translation and phone sales looking for a way forward. Working adults who want to switch careers or add AI skills are a very large group.",
+     "A fact-check helper for clipped and AI-generated videos in family chats — A user forwards a video or screenshot circulating in family or friend groups; the tool looks for the original full source, compares context, flags whether it was clipped out of context or looks AI-generated, and returns an explanation ready to paste back into the group. Trending on X: a clip of Sam Altman discussing AI safety was cut into “OpenAI has reached AGI” and spread fast until fact-checkers posted the full quote, while realistic AI images and videos are getting harder to tell apart. Nearly every family group chat has relatives forwarding rumors."
+    ],
+    "zh-Hant": [
+     "大促「真折扣」核價助手 — 使用者貼上商品連結或截圖，工具查這件商品過去 30 到 90 天的價格記錄，告訴你現在是不是真便宜、歷史最低是多少、要不要等。 Groundwork 查了亞馬遜自家「好價」頁 350 多件商品，近 1/3 不比活動前便宜；報告引用：2025 年感恩節到網路星期一有創紀錄的 2.03 億美國人購物。每年大促季幾乎人人都在比價，東南亞的 Shopee、Lazada 和國內電商也有同樣的疑問。",
+     "小網店的「30 天最低價」標註外掛 — 給 Shopify、WooCommerce 等小網店自動記錄每件商品的價格變化，打折時自動在商品頁顯示「前 30 天最低價」，並匯出價格記錄備查。 歐盟價格標示規則（經 2019/2161 指令修訂）已要求宣傳降價時標出此前至少 30 天內的最低價；Groundwork 的報告又在呼籲美國監管跟進。賣到歐洲的中小網店數量很大，多數沒有專人處理合規。",
+     "故障之後的「費用退還與補償」申請助手 — 銀行轉賬卡住導致逾期費、航班因系統故障延誤……使用者描述經過、上傳截圖，AI 按機構公開的規則整理時間線，寫好退費或補償申請信，提醒截止時間。 同一天裡，摩根大通軟體故障讓多家銀行和 Zelle 轉賬延遲，美聯航系統故障約 30 分鐘、影響不到 150 個航班。銀行、航司、外賣、電信故障幾乎人人都遇過，但很少人知道怎麼申請退費。",
+     "學生與作者的「AI 檢測誤判」申訴包 — 被 AI 檢測器誤判的學生或作者，上傳寫作過程材料（文件版本歷史、草稿、筆記），工具整理成時間線證據，並按學校或出版方的流程寫好申訴材料。 X 上熱議：魁北克作家 Thélyson Orélien 的處女作被 AI 檢測器標記後失去出版合同；學生用 AI 寫作、老師用 AI 批改、檢測器可靠性仍有爭議。全球學生和寫作者人數龐大，誤判一次代價很高。",
+     "名校免費課的「轉行學習路線」與 AI 陪練 — 使用者說出現在的工作和想轉去的方向，工具從 CMU 等名校免費公開課裡拼出一條按周的學習路線，每課配練習題、要點卡片和 AI 答疑。 CMU 剛把 AI Agents、機器學習系統等整學期課程免費放上 YouTube；X 上「AI 替代哪些崗位」的圖表引發大量討論，資料錄入、翻譯、電話銷售等崗位的人在找出路。想轉行、想補 AI 技能的上班族數量很大。",
+     "家庭群的「影片擷取與 AI 造假」核實助手 — 使用者轉發一段在家庭群、朋友圈裡傳的影片或截圖，工具找原始完整出處、比對上下文，提示是否被斷章取義或疑似 AI 生成，並給出可以直接轉回群裡的說明。 X 上熱議：Sam Altman 在會議上談 AI 安全的影片被剪成「OpenAI 已實現 AGI」瘋傳，事實核查者貼出完整原話才澄清；同時逼真的 AI 圖片影片越來越難分辨。幾乎每個家庭群都有轉發謠言的長輩。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "ag-ui-protocol/ag-ui",
+      "en": "ag-ui-protocol/ag-ui",
+      "zh-Hant": "ag-ui-protocol/ag-ui"
+     },
+     "summary": {
+      "zh-Hans": "Agent 与前端交互的协议，今日 +791 星，想把 Agent 接进网页或 App 可以先看它的事件模型。",
+      "en": "A protocol for agent–front-end interaction, +791 stars today; read its event model before wiring agents into a web or mobile app.",
+      "zh-Hant": "Agent 與前端互動的協議，今日 +791 星，想把 Agent 接進網頁或 App 可以先看它的事件模型。"
+     },
+     "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+     "title": {
+      "zh-Hans": "NVIDIA/SkillEvaluator",
+      "en": "NVIDIA/SkillEvaluator",
+      "zh-Hant": "NVIDIA/SkillEvaluator"
+     },
+     "summary": {
+      "zh-Hans": "评测 Agent 技能和插件的多层框架：质量门槛、语义重叠检测、合成评测数据，今日 +873 星。",
+      "en": "A multi-tier framework for evaluating agent skills and plugins: quality gates, semantic overlap detection and synthetic eval datasets; +873 stars today.",
+      "zh-Hant": "評測 Agent 技能和外掛的多層框架：質量門檻、語義重疊檢測、合成評測資料，今日 +873 星。"
+     },
+     "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+     "title": {
+      "zh-Hans": "kajisho5/ffmpeg-skill",
+      "en": "kajisho5/ffmpeg-skill",
+      "zh-Hant": "kajisho5/ffmpeg-skill"
+     },
+     "summary": {
+      "zh-Hans": "给编程 Agent 用的本地视频编辑技能：42 个 FFmpeg 工具加 MCP 服务器，今日 +367 星。",
+      "en": "A local video-editing skill for coding agents: 42 FFmpeg tools plus an MCP server; +367 stars today.",
+      "zh-Hant": "給程式設計 Agent 用的本地影片編輯技能：42 個 FFmpeg 工具加 MCP 伺服器，今日 +367 星。"
+     },
+     "url": "https://github.com/kajisho5/ffmpeg-skill"
+    },
+    {
+     "title": {
+      "zh-Hans": "CMU CS Learn",
+      "en": "CMU CS Learn",
+      "zh-Hant": "CMU CS Learn"
+     },
+     "summary": {
+      "zh-Hans": "CMU 免费公开的整学期课堂录像，AI Agents（11-768）11 月 19 日首播。",
+      "en": "Free full-semester CMU lecture recordings; AI Agents (11-768) premieres November 19.",
+      "zh-Hant": "CMU 免費公開的整學期課堂錄影，AI Agents（11-768）11 月 19 日首播。"
+     },
+     "url": "https://www.cs.cmu.edu/learn/"
+    },
+    {
+     "title": {
+      "zh-Hans": "Qwen4-Max · Alibaba Cloud",
+      "en": "Qwen4-Max · Alibaba Cloud",
+      "zh-Hant": "Qwen4-Max · Alibaba Cloud"
+     },
+     "summary": {
+      "zh-Hans": "阿里官方发布稿：参数、上下文、接入渠道和价格起点。",
+      "en": "Alibaba’s official announcement: parameters, context window, access channels and pricing.",
+      "zh-Hant": "阿里官方釋出稿：引數、上下文、接入渠道和價格起點。"
+     },
+     "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog · Copilot model deprecations",
+      "en": "GitHub Changelog · Copilot model deprecations",
+      "zh-Hant": "GitHub Changelog · Copilot model deprecations"
+     },
+     "summary": {
+      "zh-Hans": "今天下线的 Copilot 模型和推荐替代，依赖这些模型的工作流要尽快切换。",
+      "en": "The Copilot models retired today and their suggested replacements; switch any workflows that depend on them.",
+      "zh-Hant": "今天下線的 Copilot 模型和推薦替代，依賴這些模型的工作流要儘快切換。"
+     },
+     "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "path": "digest/2026-11-16/",
