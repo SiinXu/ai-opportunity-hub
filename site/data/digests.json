@@ -1,6 +1,288 @@
 {
- "latest": "2026-11-17",
+ "latest": "2026-11-18",
  "digests": [
+  {
+   "date": "2026-11-18",
+   "path": "digest/2026-11-18/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-18",
+    "en": "Morning tech digest · 2026-11-18",
+    "zh-Hant": "早間技術熱點 · 2026-11-18"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行訊號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "OpenAI 发布 GPT-6.2 Astra 和 Sol：旗舰降价两成",
+      "en": "OpenAI launches GPT-6.2 Astra and Sol, with the flagship 20% cheaper",
+      "zh-Hant": "OpenAI 釋出 GPT-6.2 Astra 和 Sol：旗艦降價兩成"
+     },
+     "summary": {
+      "zh-Hans": "11 月 17 日上线 ChatGPT Work、Codex 和 API。Astra 主打难活：幻灯片、表格、文档更贴模板、少「AI 味」，前端和 3D 代码更好；Sol 是日常主力。API 价格：Astra 每百万 token 输入 8 美元、缓存输入 0.4 美元、输出 40 美元（比 GPT-6 Astra 便宜 20%，缓存输入便宜 60%）；Sol 维持 2 / 0.1 / 10 美元。系统卡称两者网络安全能力达到 Critical 阈值，Astra 首次达到「AI 自我改进」High 阈值。HN 约 1,040 分。",
+      "en": "Live on November 17 in ChatGPT Work, Codex and the API. Astra targets hard work: slides, spreadsheets and documents that follow templates and read less like AI, plus better frontend and 3D code; Sol is the everyday model. API prices per million tokens: Astra $8 input, $0.40 cached input, $40 output (20% below GPT-6 Astra, 60% off cached input); Sol stays at $2 / $0.10 / $10. The system card says both reach the Critical threshold for cybersecurity, and Astra is the first released model at the High threshold for AI self-improvement. About 1,040 points on HN.",
+      "zh-Hant": "11 月 17 日上線 ChatGPT Work、Codex 和 API。Astra 主打難活：幻燈片、表格、文件更貼模板、少「AI 味」，前端和 3D 程式碼更好；Sol 是日常主力。API 價格：Astra 每百萬 token 輸入 8 美元、快取輸入 0.4 美元、輸出 40 美元（比 GPT-6 Astra 便宜 20%，快取輸入便宜 60%）；Sol 維持 2 / 0.1 / 10 美元。系統卡稱兩者網路安全能力達到 Critical 閾值，Astra 首次達到「AI 自我改進」High 閾值。HN 約 1,040 分。"
+     },
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+     "extra": [
+      "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+      "https://deploymentsafety.openai.com/gpt-6-2-astra-sol/safety-overview",
+      "https://news.ycombinator.com/item?id=50535230"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Java4Shell（CVE-2026-114938）：OpenJDK Base64 解码可远程执行代码",
+      "en": "Java4Shell (CVE-2026-114938): remote code execution through OpenJDK’s Base64 decoder",
+      "zh-Hant": "Java4Shell（CVE-2026-114938）：OpenJDK Base64 解碼可遠端執行程式碼"
+     },
+     "summary": {
+      "zh-Hans": "Calif 披露 OpenJDK Base64 解码器的内存破坏漏洞，CVSS 4.0 评 9.2。影响 OpenJDK 17.0.6 及更新版本和基于它的发行版（Corretto、Temurin、Zulu 等），但只在支持 AVX-512 VBMI 的 x86-64 CPU 上触发，ARM64 不受影响。作者称在 Keycloak、Jira、Confluence、Jenkins、Artifactory 等默认配置下做到了免登录 RCE。OpenJDK 已发布安全公告、Oracle 于太平洋时间 11 月 17 日 13:00 发布补丁，应立即升级；临时缓解可加 -XX:-UseBASE64Intrinsics。HN 约 400 分。",
+      "en": "Calif disclosed a memory-corruption bug in OpenJDK’s Base64 decoder, rated 9.2 under CVSS 4.0. It affects OpenJDK 17.0.6 and newer and the distributions built on it (Corretto, Temurin, Zulu and others), but only triggers on x86-64 CPUs with AVX-512 VBMI; ARM64 is not affected. The researchers say they reached pre-auth RCE in default setups of Keycloak, Jira, Confluence, Jenkins and Artifactory. OpenJDK published an advisory and Oracle shipped a patch at 1:00 pm Pacific on November 17, so update now; a temporary mitigation is the flag -XX:-UseBASE64Intrinsics. About 400 points on HN.",
+      "zh-Hant": "Calif 披露 OpenJDK Base64 解碼器的記憶體破壞漏洞，CVSS 4.0 評 9.2。影響 OpenJDK 17.0.6 及更新版本和基於它的發行版（Corretto、Temurin、Zulu 等），但只在支援 AVX-512 VBMI 的 x86-64 CPU 上觸發，ARM64 不受影響。作者稱在 Keycloak、Jira、Confluence、Jenkins、Artifactory 等預設配置下做到了免登入 RCE。OpenJDK 已釋出安全公告、Oracle 於太平洋時間 11 月 17 日 13:00 釋出補丁，應立即升級；臨時緩解可加 -XX:-UseBASE64Intrinsics。HN 約 400 分。"
+     },
+     "url": "https://calif.io/java4shell/",
+     "extra": [
+      "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+      "https://news.ycombinator.com/item?id=50538240"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Optimizely 被入侵：178 家网站经它的 CDN 向访客投放恶意脚本",
+      "en": "Optimizely breached: 178 organisations’ sites served malware to visitors through its CDN",
+      "zh-Hant": "Optimizely 被入侵：178 家網站經它的 CDN 向訪客投放惡意指令碼"
+     },
+     "summary": {
+      "zh-Hans": "Report URI 发现，11 月 16 日攻击者把加载器写进客户的 Project JavaScript，脚本仍从 cdn.optimizely.com 正常下发；在检查的 1,611 个脚本中 188 个被感染，涉及 Zoom、BBC、CNN、GitLab、HSBC 等 178 家机构。恶意代码会替换加密钱包地址、截取表单里的银行卡、偷非 HttpOnly 的 Cookie，并向 iPhone / iPad 投放漏洞利用包。Optimizely 称漏洞在账号注册流程，已修复并清除代码。HN 约 660 分。",
+      "en": "Report URI found that on November 16 an attacker wrote a loader into customers’ Project JavaScript, which was still served normally from cdn.optimizely.com; 188 of the 1,611 snippets it checked were infected, across 178 organisations including Zoom, the BBC, CNN, GitLab and HSBC. The code swapped crypto wallet addresses, skimmed cards typed into forms, stole non-HttpOnly cookies and pushed exploit kits to iPhones and iPads. Optimizely says the flaw was in its account signup flow and has been fixed and the code removed. About 660 points on HN.",
+      "zh-Hant": "Report URI 發現，11 月 16 日攻擊者把載入器寫進客戶的 Project JavaScript，指令碼仍從 cdn.optimizely.com 正常下發；在檢查的 1,611 個指令碼中 188 個被感染，涉及 Zoom、BBC、CNN、GitLab、HSBC 等 178 家機構。惡意程式碼會替換加密錢包地址、擷取表單裡的銀行卡、偷非 HttpOnly 的 Cookie，並向 iPhone / iPad 投放漏洞利用包。Optimizely 稱漏洞在賬號註冊流程，已修復並清除程式碼。HN 約 660 分。"
+     },
+     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+     "extra": [
+      "https://therecord.media/optimizely-malicious-code-customer-sites",
+      "https://news.ycombinator.com/item?id=50524767"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "逆向发现：Windows 11 在统计你用了哪些编程 Agent 和开发工具",
+      "en": "Reverse engineering shows Windows 11 records which coding agents and dev tools you use",
+      "zh-Hant": "逆向發現：Windows 11 在統計你用了哪些程式設計 Agent 和開發工具"
+     },
+     "summary": {
+      "zh-Hans": "作者逆向 Windows 11 的 MissionControlAggregator.dll，发现它会检查 codex、claude、copilot、cursor、antigravity 等编程 Agent，以及 python、node、gcc、VS Code 等开发工具是否被使用，把结果存在本地并写进诊断报告；如果没关掉默认开启的「可选诊断数据」，就会上传给微软。对应功能名为 CLICodingAgentUsage。HN 约 710 分。",
+      "en": "The author reverse-engineered MissionControlAggregator.dll in Windows 11 and found it checks whether coding agents such as Codex, Claude, Copilot, Cursor and Antigravity, and tools such as Python, Node, GCC and VS Code have been used, stores the result locally and adds it to a diagnostic report; unless the default-on optional diagnostic data is turned off, it is uploaded to Microsoft. The feature flag is named CLICodingAgentUsage. About 710 points on HN.",
+      "zh-Hant": "作者逆向 Windows 11 的 MissionControlAggregator.dll，發現它會檢查 codex、claude、copilot、cursor、antigravity 等程式設計 Agent，以及 python、node、gcc、VS Code 等開發工具是否被使用，把結果存在本地並寫進診斷報告；如果沒關掉預設開啟的「可選診斷資料」，就會上傳給微軟。對應功能名為 CLICodingAgentUsage。HN 約 710 分。"
+     },
+     "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50524736"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "哈佛研究：严格的校园手机禁令让成绩小幅提高",
+      "en": "Harvard study: strict school phone bans lift test scores a little",
+      "zh-Hant": "哈佛研究：嚴格的校園手機禁令讓成績小幅提高"
+     },
+     "summary": {
+      "zh-Hans": "哈佛教育政策研究中心分析了美国 4,600 所学校、330 万名 3–10 年级学生 2021–2026 年的 MAP 成绩：全天把手机锁进袋子的学校，数学和阅读进步相当于每年多上一到两周课，约抵消疫情前每年平均退步的一半。研究尚未经同行评审，4 月另一项研究结论是「接近零」。今天 HN 最热，约 1,140 分。",
+      "en": "Harvard’s Center for Education Policy Research analysed MAP scores for 3.3 million students in grades 3 to 10 at 4,600 US schools from 2021 to 2026: where phones are locked in pouches all day, math and reading growth equalled one to two extra weeks of school a year, about half the average yearly decline before the pandemic. The study is not yet peer-reviewed, and an April study found close to zero effect. Top HN post of the day, about 1,140 points.",
+      "zh-Hant": "哈佛教育政策研究中心分析了美國 4,600 所學校、330 萬名 3–10 年級學生 2021–2026 年的 MAP 成績：全天把手機鎖進袋子的學校，數學和閱讀進步相當於每年多上一到兩週課，約抵消疫情前每年平均退步的一半。研究尚未經同行評審，4 月另一項研究結論是「接近零」。今天 HN 最熱，約 1,140 分。"
+     },
+     "url": "https://cepr.harvard.edu/news/2026/11/new-evidence-shows-school-phone-bans-are-gradually-improving-test-scores",
+     "extra": [
+      "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+      "https://news.ycombinator.com/item?id=50530163"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "苹果大面积故障：iCloud 登录、App Store、Apple Music 一度不可用",
+      "en": "Apple outage: iCloud sign-in, the App Store and Apple Music go down for hours",
+      "zh-Hant": "蘋果大面積故障：iCloud 登入、App Store、Apple Music 一度不可用"
+     },
+     "summary": {
+      "zh-Hans": "11 月 17 日 iCloud 账号登录、App Store、Apple Music、AppleCare、iCloud 邮件等先后故障，部分用户无法激活新 iPhone，苹果零售店也受影响；苹果称原因是一次内部更新，不是网络攻击，美东 18 点前消费者服务已恢复，App Store Connect 等开发者服务恢复更晚。美联社指出这是近一周美国一连串大故障之一（还有美联航等）。HN 约 610 分。",
+      "en": "On November 17 iCloud account sign-in, the App Store, Apple Music, AppleCare and iCloud Mail failed in turn; some people could not activate new iPhones and Apple Stores were affected. Apple blamed an internal update, not a cyberattack; consumer services were back by 6 pm ET, developer services such as App Store Connect later. AP notes it is one of a string of major US outages this week, including United Airlines. About 610 points on HN.",
+      "zh-Hant": "11 月 17 日 iCloud 賬號登入、App Store、Apple Music、AppleCare、iCloud 郵件等先後故障，部分使用者無法啟用新 iPhone，蘋果零售店也受影響；蘋果稱原因是一次內部更新，不是網路攻擊，美東 18 點前消費者服務已恢復，App Store Connect 等開發者服務恢復更晚。美聯社指出這是近一週美國一連串大故障之一（還有美聯航等）。HN 約 610 分。"
+     },
+     "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+     "extra": [
+      "https://apnews.com/article/apple-marriott-technology-outages-ff097d2a0bec767baf38a1bd8eff5829",
+      "https://news.ycombinator.com/item?id=50535238"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软发布 MAI Code 2 编程模型，GitHub Copilot 同日一批更新",
+      "en": "Microsoft ships the MAI Code 2 coding models, with a batch of GitHub Copilot updates",
+      "zh-Hant": "微軟釋出 MAI Code 2 程式設計模型，GitHub Copilot 同日一批更新"
+     },
+     "summary": {
+      "zh-Hans": "微软称 MAI Code 2 在四个企业日常编程基准上平均达到 GPT 6.1 Sol 98% 的表现、成本 40%，Claude Opus 5.5 96% 的表现、成本 5%（厂商自测）；Flash 版面向大批量小改动。两者已进 Copilot。GitHub Changelog 同日上线 Copilot Evals 公测（给技能、Agent、MCP 工具做可重复评测）和代码评审「自适应力度」、密钥检测等。HN 约 260 分。",
+      "en": "Microsoft says MAI Code 2 averages 98% of GPT 6.1 Sol’s performance at 40% of the cost, and 96% of Claude Opus 5.5’s at 5% of the cost, across four everyday enterprise coding benchmarks (vendor figures); the Flash version targets high-volume small edits. Both are in Copilot. The GitHub Changelog also launched Copilot Evals in public preview (repeatable evals for skills, agents and MCP tools) and adaptive effort plus secret detection for code review. About 260 points on HN.",
+      "zh-Hant": "微軟稱 MAI Code 2 在四個企業日常程式設計基準上平均達到 GPT 6.1 Sol 98% 的表現、成本 40%，Claude Opus 5.5 96% 的表現、成本 5%（廠商自測）；Flash 版面向大批次小改動。兩者已進 Copilot。GitHub Changelog 同日上線 Copilot Evals 公測（給技能、Agent、MCP 工具做可重複評測）和程式碼評審「自適應力度」、金鑰檢測等。HN 約 260 分。"
+     },
+     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+     "extra": [
+      "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+      "https://news.ycombinator.com/item?id=50535885"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "FT：英伟达新加坡子公司 2025 年入账 1,040 亿美元，财报却不再单列",
+      "en": "FT: Nvidia’s Singapore unit booked $104bn in 2025, but results no longer break it out",
+      "zh-Hant": "FT：英偉達新加坡子公司 2025 年入賬 1,040 億美元，財報卻不再單列"
+     },
+     "summary": {
+      "zh-Hans": "据 FT 查阅的公司账目，英伟达新加坡子公司 2025 年对外收入 1,040 亿美元、增长 72%；英伟达此前把地区口径从「客户账单地址」改成「客户总部所在地」，新加坡从财报地区明细里消失。英伟达过去说明新加坡主要是集中开票、货物绝大多数发往别处。此事因美国调查新加坡客户 Megaspeed 涉嫌走私芯片而受关注；会计学者提醒时间相关不等于因果。HN 约 350 分。",
+      "en": "According to company accounts reviewed by the FT, Nvidia’s Singapore subsidiary booked $104 billion of external revenue in 2025, up 72%; Nvidia earlier switched its regional split from customer billing address to customer headquarters, and Singapore vanished from the breakdown. Nvidia has said Singapore is mainly an invoicing hub and most goods ship elsewhere. The story draws attention because of a US probe into Singapore customer Megaspeed over alleged chip smuggling; an accounting professor cautions that timing is not proof of cause. About 350 points on HN.",
+      "zh-Hant": "據 FT 查閱的公司賬目，英偉達新加坡子公司 2025 年對外收入 1,040 億美元、增長 72%；英偉達此前把地區口徑從「客戶賬單地址」改成「客戶總部所在地」，新加坡從財報地區明細裡消失。英偉達過去說明新加坡主要是集中開票、貨物絕大多數發往別處。此事因美國調查新加坡客戶 Megaspeed 涉嫌走私晶片而受關注；會計學者提醒時間相關不等於因果。HN 約 350 分。"
+     },
+     "url": "https://news.slashdot.org/story/26/11/17/1942228/nvidia-stopped-disclosing-singapore-sales-as-revenues-hit-104-billion",
+     "extra": [
+      "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "https://news.ycombinator.com/item?id=50534631"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "换模型就换外壳：模型 × Agent 外壳选型器 — FrontierHarness 发现换模型时最划算的外壳也会变（中位数外壳的成本排名移动 11 位），今天又同时来了 GPT-6.2、MAI Code 2：做一个按你的任务样例跑小规模对比、给出「模型 + 外壳 + 预计每任务成本」推荐的工具，开源 CLI 引流，团队版按月收费。",
+     "Java4Shell 暴露面自查 — 一个 CLI / GitHub Action：扫描镜像和服务器里的 JDK 版本、CPU 是否带 AVX-512 VBMI、是否已加 -XX:-UseBASE64Intrinsics，输出要升级的清单；接着做 Jira、Jenkins 等自建服务的升级说明。免费引流，托管巡检收费。",
+     "第三方脚本变更告警 — Optimizely 事件说明「可信 CDN 上的脚本」也会变坏：定时抓取网站加载的所有第三方脚本，内容一变就比对差异、用 AI 解释新增代码在干什么、可疑就告警，并生成 CSP / SRI 建议。按站点数订阅。",
+     "Agent 改动的「证据包」 — Claude Code 团队讲验证闭环、GitHub 同日推出 Copilot Evals：做一个给每个 Agent PR 自动补端到端 / 性质测试、录屏和前后对比截图的 GitHub App，让人一眼看懂改动是否靠谱。按仓库收费。",
+     "开发机隐私体检 — Windows 记录编程 Agent 使用情况一文很火：做一个小工具，列出本机哪些系统组件和开发工具在上报什么、给出一键关闭的官方设置路径，并生成团队合规说明。免费工具加团队版。"
+    ],
+    "en": [
+     "A model × harness picker — FrontierHarness found the best-value harness changes with the model (the median harness moved 11 cost-rank places), and GPT-6.2 and MAI Code 2 both landed today: a tool that runs a small comparison on your own task samples and recommends a model + harness + expected cost per task; an open-source CLI for reach, a monthly team plan.",
+     "A Java4Shell exposure check — A CLI or GitHub Action that scans images and servers for the JDK version, whether the CPU has AVX-512 VBMI and whether -XX:-UseBASE64Intrinsics is set, and outputs an upgrade list, then upgrade notes for self-hosted Jira, Jenkins and similar. Free for reach, paid managed scanning.",
+     "Third-party script change alerts — The Optimizely incident shows scripts from a trusted CDN can turn bad: regularly fetch every third-party script a site loads, diff any change, have AI explain what new code does, alert on anything suspicious and suggest CSP or SRI settings. Subscription per site.",
+     "An evidence pack for agent changes — The Claude Code team wrote about verification loops and GitHub launched Copilot Evals the same day: a GitHub App that adds end-to-end or property tests, a screen recording and before/after screenshots to every agent pull request, so reviewers can see at a glance whether a change holds up. Priced per repository.",
+     "A developer-machine privacy check — The Windows coding-agent telemetry post is hot: a small tool that lists which system components and dev tools on a machine report what, gives the official settings to turn each off, and produces a compliance note for teams. A free tool plus a team plan."
+    ],
+    "zh-Hant": [
+     "換模型就換外殼：模型 × Agent 外殼選型器 — FrontierHarness 發現換模型時最划算的外殼也會變（中位數外殼的成本排名移動 11 位），今天又同時來了 GPT-6.2、MAI Code 2：做一個按你的任務樣例跑小規模對比、給出「模型 + 外殼 + 預計每任務成本」推薦的工具，開源 CLI 引流，團隊版按月收費。",
+     "Java4Shell 暴露面自查 — 一個 CLI / GitHub Action：掃描映象和伺服器裡的 JDK 版本、CPU 是否帶 AVX-512 VBMI、是否已加 -XX:-UseBASE64Intrinsics，輸出要升級的清單；接著做 Jira、Jenkins 等自建服務的升級說明。免費引流，託管巡檢收費。",
+     "第三方指令碼變更告警 — Optimizely 事件說明「可信 CDN 上的指令碼」也會變壞：定時抓取網站載入的所有第三方指令碼，內容一變就比對差異、用 AI 解釋新增程式碼在幹什麼、可疑就告警，並生成 CSP / SRI 建議。按站點數訂閱。",
+     "Agent 改動的「證據包」 — Claude Code 團隊講驗證閉環、GitHub 同日推出 Copilot Evals：做一個給每個 Agent PR 自動補端到端 / 性質測試、錄屏和前後對比截圖的 GitHub App，讓人一眼看懂改動是否靠譜。按倉庫收費。",
+     "開發機隱私體檢 — Windows 記錄程式設計 Agent 使用情況一文很火：做一個小工具，列出本機哪些系統元件和開發工具在上報什麼、給出一鍵關閉的官方設定路徑，並生成團隊合規說明。免費工具加團隊版。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "小网店的「网站脚本体检」 — 店主输入网址，工具列出网站加载的所有第三方脚本（统计、广告、A/B 测试、客服插件），说明每个是谁的、能读到什么，结账页有没有不必要的脚本，内容变化时发提醒。 Optimizely 事件中 178 家大机构的网站都在给访客投毒，恶意代码会截取表单里输入的银行卡；中小网店装的第三方插件往往更多，却没有安全人员。",
+     "「服务宕机」时的小店应急助手 — 小商家选好自己依赖的服务（支付、收银、云盘、邮箱、外卖平台），服务一出故障就推送提醒，并给出现成的应急步骤和发给顾客的通知文案。 11 月 17 日苹果故障连零售店都无法收款和预约，美联社称这是近一周美国一连串大故障之一；几乎每家小店都依赖几家云服务，却没人盯状态页。",
+     "家长版「手机约定」助手 — 家长回答几个问题，AI 生成适合孩子年龄的家庭手机使用约定、作业时段的专注计划和每周复盘表，并解释最新研究说了什么、没说什么。 哈佛这项研究覆盖 4,600 所学校、330 万学生；NPR 报道 2019–2026 学年有 3,300 多所学校开始用手机锁袋。几乎每个有学龄孩子的家庭都在为手机发愁，学校禁令也让家长想在家里配套。",
+     "帮普通人「打客服电话」的 AI — 用户用文字说明要办的事（退订、改约、申诉账单、预约），AI 代打电话、排队等待、按流程沟通，结束后发回结果摘要和录音要点。 X 热门话题：August 用 AI 替用户打医疗和保险电话，早期用户累计排队超过 24,000 分钟，已获 Accel 等 1,200 万美元投资。排队打客服是几乎每个人都讨厌的事，换到电信、银行、物业同样成立。",
+     "小商家的「按模板出文档」服务 — 商家上传自己的报价单、菜单、周报、方案模板和一张数据表，AI 按模板批量生成排版一致的文档、表格和幻灯片，可直接发给客户。 OpenAI 称 GPT-6.2 Astra 生成的幻灯片、表格和文档更贴合用户给的模板、更不像 AI；GitHub Trending 上 AI 办公 SDK Univer 今日新增约 1,770 星。几乎所有小商家每周都在重复做报价和报表。",
+     "小公司的「漏洞通知翻译官」 — 小公司登记自己用的软件（Jira、Confluence、Jenkins、WordPress、路由器等），出现重大漏洞时收到一封大白话说明：我受不受影响、今天要做哪三步、找谁做。 Java4Shell 影响 OpenJDK 17.0.6 起的版本，作者在 Jira、Confluence、Jenkins 等默认配置下做到免登录远程执行；大量中小公司自建这些工具却没有专职运维，看不懂安全公告。"
+    ],
+    "en": [
+     "A website script check-up for small online shops — A shop owner enters a URL; the tool lists every third-party script the site loads (analytics, ads, A/B testing, chat widgets), explains who runs each and what it can read, flags unnecessary scripts on checkout pages, and alerts when any of them changes. In the Optimizely incident the sites of 178 large organisations served malware that skimmed cards typed into forms; small shops often run even more third-party plugins and have no security staff.",
+     "An outage helper for small businesses — A small business picks the services it depends on (payments, POS, cloud storage, email, delivery platforms); when one goes down it gets an alert, ready-made fallback steps and a notice it can send to customers. On November 17 Apple’s outage even stopped its own stores taking payments and bookings, and AP called it one of a string of major US outages this week; almost every small business depends on a few cloud services but nobody watches status pages.",
+     "A family phone-agreement helper for parents — Parents answer a few questions and AI drafts an age-appropriate family phone agreement, a focus plan for homework time and a weekly review sheet, and explains what the latest research does and does not show. The Harvard study covered 4,600 schools and 3.3 million students; NPR reports that more than 3,300 schools adopted phone pouches between the 2019–20 and 2025–26 school years. Nearly every family with school-age children worries about phones, and school bans make parents want rules at home too.",
+     "An AI that makes customer-service calls for ordinary people — A user describes the errand in text (cancel a subscription, reschedule, dispute a bill, book an appointment); the AI places the call, waits on hold, follows the script and sends back a summary of the outcome. A trending X story: August uses AI to make healthcare and insurance calls for users, has already spent more than 24,000 minutes on hold for early users and raised $12 million from investors including Accel. Waiting on hold is something almost everyone hates, and the same applies to telecoms, banks and landlords.",
+     "Template-based documents for small businesses — A business uploads its own quote, menu, weekly report or proposal templates plus a spreadsheet; AI fills the templates in bulk to produce consistent documents, sheets and slides ready to send to customers. OpenAI says GPT-6.2 Astra’s slides, spreadsheets and documents follow the user’s templates more closely and read less like AI; on GitHub Trending the AI office SDK Univer gained about 1,770 stars today. Almost every small business repeats quotes and reports every week.",
+     "A vulnerability-notice translator for small companies — A small company lists the software it uses (Jira, Confluence, Jenkins, WordPress, routers and so on); when a major vulnerability appears it receives a plain-language note: am I affected, the three steps to take today, and who can do them. Java4Shell affects OpenJDK from 17.0.6, and the researchers reached pre-auth remote execution on default setups of Jira, Confluence, Jenkins and more; many small companies self-host these tools without dedicated IT staff and cannot parse security advisories."
+    ],
+    "zh-Hant": [
+     "小網店的「網站指令碼體檢」 — 店主輸入網址，工具列出網站載入的所有第三方指令碼（統計、廣告、A/B 測試、客服外掛），說明每個是誰的、能讀到什麼，結賬頁有沒有不必要的指令碼，內容變化時發提醒。 Optimizely 事件中 178 家大機構的網站都在給訪客投毒，惡意程式碼會擷取表單裡輸入的銀行卡；中小網店裝的第三方外掛往往更多，卻沒有安全人員。",
+     "「服務宕機」時的小店應急助手 — 小商家選好自己依賴的服務（支付、收銀、雲盤、郵箱、外賣平臺），服務一出故障就推送提醒，並給出現成的應急步驟和發給顧客的通知文案。 11 月 17 日蘋果故障連零售店都無法收款和預約，美聯社稱這是近一週美國一連串大故障之一；幾乎每家小店都依賴幾家雲服務，卻沒人盯狀態頁。",
+     "家長版「手機約定」助手 — 家長回答幾個問題，AI 生成適合孩子年齡的家庭手機使用約定、作業時段的專注計劃和每週覆盤表，並解釋最新研究說了什麼、沒說什麼。 哈佛這項研究覆蓋 4,600 所學校、330 萬學生；NPR 報道 2019–2026 學年有 3,300 多所學校開始用手機鎖袋。幾乎每個有學齡孩子的家庭都在為手機發愁，學校禁令也讓家長想在家裡配套。",
+     "幫普通人「打客服電話」的 AI — 使用者用文字說明要辦的事（退訂、改約、申訴賬單、預約），AI 代打電話、排隊等待、按流程溝通，結束後發回結果摘要和錄音要點。 X 熱門話題：August 用 AI 替使用者打醫療和保險電話，早期使用者累計排隊超過 24,000 分鐘，已獲 Accel 等 1,200 萬美元投資。排隊打客服是幾乎每個人都討厭的事，換到電信、銀行、物業同樣成立。",
+     "小商家的「按模板出文件」服務 — 商家上傳自己的報價單、選單、週報、方案模板和一張資料表，AI 按模板批次生成排版一致的文件、表格和幻燈片，可直接發給客戶。 OpenAI 稱 GPT-6.2 Astra 生成的幻燈片、表格和文件更貼合使用者給的模板、更不像 AI；GitHub Trending 上 AI 辦公 SDK Univer 今日新增約 1,770 星。幾乎所有小商家每週都在重複做報價和報表。",
+     "小公司的「漏洞通知翻譯官」 — 小公司登記自己用的軟體（Jira、Confluence、Jenkins、WordPress、路由器等），出現重大漏洞時收到一封大白話說明：我受不受影響、今天要做哪三步、找誰做。 Java4Shell 影響 OpenJDK 17.0.6 起的版本，作者在 Jira、Confluence、Jenkins 等預設配置下做到免登入遠端執行；大量中小公司自建這些工具卻沒有專職運維，看不懂安全公告。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "dream-num/univer",
+      "en": "dream-num/univer",
+      "zh-Hant": "dream-num/univer"
+     },
+     "summary": {
+      "zh-Hans": "开源 AI 办公 SDK：把表格、文档的编辑、计算和协作嵌进自己的产品，今日 Trending 新增约 1,770 星。",
+      "en": "An open-source AI office SDK for embedding spreadsheet and document editing, calculation and collaboration in your product; about 1,770 stars today on Trending.",
+      "zh-Hant": "開源 AI 辦公 SDK：把表格、文件的編輯、計算和協作嵌進自己的產品，今日 Trending 新增約 1,770 星。"
+     },
+     "url": "https://github.com/dream-num/univer"
+    },
+    {
+     "title": {
+      "zh-Hans": "alibaba/open-code-review",
+      "en": "alibaba/open-code-review",
+      "zh-Hant": "alibaba/open-code-review"
+     },
+     "summary": {
+      "zh-Hans": "阿里开源的代码评审工具：确定性流水线加 LLM Agent，行级评论，内置 NPE、线程安全、XSS、SQL 注入等规则，今日约 760 星。",
+      "en": "Alibaba’s open-source code review tool: deterministic pipelines plus an LLM agent, line-level comments and built-in rules for null pointers, thread safety, XSS and SQL injection; about 760 stars today.",
+      "zh-Hant": "阿里開源的程式碼評審工具：確定性流水線加 LLM Agent，行級評論，內建 NPE、執行緒安全、XSS、SQL 注入等規則，今日約 760 星。"
+     },
+     "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+     "title": {
+      "zh-Hans": "Tencent/LoopForge",
+      "en": "Tencent/LoopForge",
+      "zh-Hant": "Tencent/LoopForge"
+     },
+     "summary": {
+      "zh-Hans": "腾讯开源的自托管编程 Agent 工作流：用脚本和人工审批编排 CodeBuddy、Codex、Claude Code，今日约 590 星。",
+      "en": "Tencent’s self-hosted workflows for coding-agent delivery, orchestrating CodeBuddy, Codex and Claude Code with scripts and human approval gates; about 590 stars today.",
+      "zh-Hant": "騰訊開源的自託管程式設計 Agent 工作流：用指令碼和人工審批編排 CodeBuddy、Codex、Claude Code，今日約 590 星。"
+     },
+     "url": "https://github.com/Tencent/LoopForge"
+    },
+    {
+     "title": {
+      "zh-Hans": "ag-ui-protocol/ag-ui",
+      "en": "ag-ui-protocol/ag-ui",
+      "zh-Hant": "ag-ui-protocol/ag-ui"
+     },
+     "summary": {
+      "zh-Hans": "AG-UI：Agent 与前端交互的协议，做 Agent 产品界面时值得参考，今日约 1,450 星。",
+      "en": "AG-UI, a protocol for how agents talk to frontends, worth studying when building agent product interfaces; about 1,450 stars today.",
+      "zh-Hant": "AG-UI：Agent 與前端互動的協議，做 Agent 產品介面時值得參考，今日約 1,450 星。"
+     },
+     "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Copilot Evals",
+      "en": "GitHub Copilot Evals",
+      "zh-Hant": "GitHub Copilot Evals"
+     },
+     "summary": {
+      "zh-Hans": "公测：给自己的技能、Agent 和 MCP 工具写可重复评测，改完重跑看有没有退步；评测引擎是本地工具 Vally。",
+      "en": "Public preview: write repeatable evals for your own skills, agents and MCP tools and rerun them after changes to catch regressions; the engine is the local tool Vally.",
+      "zh-Hant": "公測：給自己的技能、Agent 和 MCP 工具寫可重複評測，改完重跑看有沒有退步；評測引擎是本地工具 Vally。"
+     },
+     "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview"
+    },
+    {
+     "title": {
+      "zh-Hans": "FrontierHarness Eval v1.1",
+      "en": "FrontierHarness Eval v1.1",
+      "zh-Hant": "FrontierHarness Eval v1.1"
+     },
+     "summary": {
+      "zh-Hans": "22 个 Agent 外壳 × 5 个模型 × 62 个任务的成本与通过率对比，选型时可直接参考。",
+      "en": "A cost and pass-rate comparison of 22 agent harnesses across 5 models and 62 tasks, useful when choosing a setup.",
+      "zh-Hant": "22 個 Agent 外殼 × 5 個模型 × 62 個任務的成本與透過率對比，選型時可直接參考。"
+     },
+     "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "path": "digest/2026-11-17/",
