@@ -1,6 +1,270 @@
 {
- "latest": "2026-11-18",
+ "latest": "2026-11-19",
  "digests": [
+  {
+   "date": "2026-11-19",
+   "path": "digest/2026-11-19/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-19",
+    "en": "Morning tech digest · 2026-11-19",
+    "zh-Hant": "早間技術熱點 · 2026-11-19"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：AI、开源、安全与一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：AI、開源、安全與一人公司可執行訊號。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Nginx 曝出两个 HTTP/2 免登录远程代码执行漏洞，影响可追溯到 2015 年",
+      "en": "Nginx discloses two pre-auth remote code execution bugs in HTTP/2, reaching back to 2015",
+      "zh-Hant": "Nginx 曝出兩個 HTTP/2 免登入遠端程式碼執行漏洞，影響可追溯到 2015 年"
+     },
+     "summary": {
+      "zh-Hans": "Wiz 与 Rapid7 等多家团队独立发现 CVE-2026-123633 和 CVE-2026-123007，CVSS 4.0 均为 9.2，前提是开启了 HTTP/2；其中 123007 影响 1.9.5 起的版本（Wiz 表格列到 1.31.8）。F5 于 11 月 18 日发布安全更新，Wiz 同时列出 HTTP/3、DNS 解析、邮件代理等多个相关漏洞。建议尽快升级；暂时不能升级可先关闭 HTTP/2（http2 off; 并去掉 listen 上的 http2 参数）。HN 约 1,070 分。",
+      "en": "Wiz, Rapid7 and other teams independently found CVE-2026-123633 and CVE-2026-123007, both rated 9.2 under CVSS 4.0, which require HTTP/2 to be enabled; CVE-2026-123007 affects versions from 1.9.5 (the Wiz table runs to 1.31.8). F5 shipped security updates on November 18, and Wiz also lists related bugs in HTTP/3, the DNS resolver and the mail proxy. Upgrade soon; if you cannot yet, turn HTTP/2 off (http2 off; and remove the http2 parameter from listen directives). About 1,070 points on HN.",
+      "zh-Hant": "Wiz 與 Rapid7 等多家團隊獨立發現 CVE-2026-123633 和 CVE-2026-123007，CVSS 4.0 均為 9.2，前提是開啟了 HTTP/2；其中 123007 影響 1.9.5 起的版本（Wiz 表格列到 1.31.8）。F5 於 11 月 18 日釋出安全更新，Wiz 同時列出 HTTP/3、DNS 解析、郵件代理等多個相關漏洞。建議儘快升級；暫時不能升級可先關閉 HTTP/2（http2 off; 並去掉 listen 上的 http2 引數）。HN 約 1,070 分。"
+     },
+     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50547374"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "谷歌 AI 摘要让外部网站点击少约 40%，柏林生活指南站流量掉了 75%",
+      "en": "Google’s AI answers cut clicks to websites by about 40%; a Berlin guide site lost 75% of its traffic",
+      "zh-Hant": "谷歌 AI 摘要讓外部網站點選少約 40%，柏林生活指南站流量掉了 75%"
+     },
+     "summary": {
+      "zh-Hans": "RevScope 汇总的随机实验显示，出现 AI Overview 时点向外部网站的点击约减少 40%；DataForSEO 跟踪的关键词里出现 AI 摘要的比例从 2024 年 9 月的 5.93% 升到 2026 年 8 月的 61.43%，而 AI 助手 3 月只给网站带来 0.3% 的流量。同日，独立站 All About Berlin 站长写道，运营 8 年后流量被 AI 摘要拿走约 75%。两帖在 HN 分别约 690 和 750 分。",
+      "en": "RevScope summarises a randomised experiment showing an AI Overview cuts clicks to outside websites by about 40%; among keywords tracked by DataForSEO, the share showing AI answers rose from 5.93% in September 2024 to 61.43% in August 2026, while AI assistants sent websites just 0.3% of their traffic in March. The same day the owner of the independent site All About Berlin wrote that after 8 years it lost about 75% of its traffic to AI Overviews. About 690 and 750 points on HN.",
+      "zh-Hant": "RevScope 彙總的隨機實驗顯示，出現 AI Overview 時點向外部網站的點選約減少 40%；DataForSEO 跟蹤的關鍵詞裡出現 AI 摘要的比例從 2024 年 9 月的 5.93% 升到 2026 年 8 月的 61.43%，而 AI 助手 3 月只給網站帶來 0.3% 的流量。同日，獨立站 All About Berlin 站長寫道，運營 8 年後流量被 AI 摘要拿走約 75%。兩帖在 HN 分別約 690 和 750 分。"
+     },
+     "url": "https://revscope.co/blog/search-seo-geo-2026/",
+     "extra": [
+      "https://nicolasbouliane.com/blog/death-by-ai",
+      "https://news.ycombinator.com/item?id=50540178",
+      "https://news.ycombinator.com/item?id=50542705"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "谷歌发布 Gemini 4 Neon：每百万 token 输入 3 美元、输出 15 美元",
+      "en": "Google launches Gemini 4 Neon at $3 input and $15 output per million tokens",
+      "zh-Hant": "谷歌釋出 Gemini 4 Neon：每百萬 token 輸入 3 美元、輸出 15 美元"
+     },
+     "summary": {
+      "zh-Hans": "谷歌称 Neon 在 Artificial Analysis 智能指数 xhigh 档得 61 分、总榜第 3，Vals Index 第 2，在 Zapier AutomationBench 和模拟经营小店的 Vending-Bench 2 上第 1（厂商口径）。定价输入 3 美元、缓存输入 0.15 美元、输出 15 美元，上下文 100 万 token；已上 Gemini API、Gemini 应用（Pro/Ultra）和 Antigravity，GitHub Copilot 同日接入。HN 约 340 分。",
+      "en": "Google says Neon scores 61 on the Artificial Analysis Intelligence Index at xhigh (third overall), ranks second on the Vals Index and first on Zapier’s AutomationBench and the shop-running simulation Vending-Bench 2 (vendor figures). Pricing is $3 input, $0.15 cached input and $15 output per million tokens with a 1 million-token context; it is in the Gemini API, the Gemini app (Pro and Ultra) and Antigravity, and GitHub Copilot added it the same day. About 340 points on HN.",
+      "zh-Hant": "谷歌稱 Neon 在 Artificial Analysis 智慧指數 xhigh 檔得 61 分、總榜第 3，Vals Index 第 2，在 Zapier AutomationBench 和模擬經營小店的 Vending-Bench 2 上第 1（廠商口徑）。定價輸入 3 美元、快取輸入 0.15 美元、輸出 15 美元，上下文 100 萬 token；已上 Gemini API、Gemini 應用（Pro/Ultra）和 Antigravity，GitHub Copilot 同日接入。HN 約 340 分。"
+     },
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "extra": [
+      "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "https://news.ycombinator.com/item?id=50552424"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软 Ignite 一次发布七款 MAI 模型，主打性价比",
+      "en": "Microsoft unveils seven MAI models at Ignite, pitched on price-performance",
+      "zh-Hant": "微軟 Ignite 一次釋出七款 MAI 模型，主打價效比"
+     },
+     "summary": {
+      "zh-Hans": "除前一天的 MAI Code 2 外，还有 MAI Cyber 2 Flash（称在 CyberGym-E2E 上以不到 2% 的每任务成本超过 GPT-6 Astra）、图像编辑模型 MAI Image 2.7、每分钟音频 0.01 美元起的 MAI Realtime 1、决策模型 Decision 1.1，以及已投产的第二代 AI 芯片 Maia 200（每瓦 token 提升 1.7 倍）。均为微软自报数字。HN 约 415 分。",
+      "en": "Beyond the previous day’s MAI Code 2, the lineup includes MAI Cyber 2 Flash (claimed to beat GPT-6 Astra on CyberGym-E2E at under 2% of the cost per task), the image-editing model MAI Image 2.7, MAI Realtime 1 from $0.01 per audio minute, the decision model Decision 1.1, and the second-generation Maia 200 AI chip now in production (1.7x more tokens per watt). All figures are Microsoft’s own. About 415 points on HN.",
+      "zh-Hant": "除前一天的 MAI Code 2 外，還有 MAI Cyber 2 Flash（稱在 CyberGym-E2E 上以不到 2% 的每任務成本超過 GPT-6 Astra）、影象編輯模型 MAI Image 2.7、每分鐘音訊 0.01 美元起的 MAI Realtime 1、決策模型 Decision 1.1，以及已投產的第二代 AI 晶片 Maia 200（每瓦 token 提升 1.7 倍）。均為微軟自報數字。HN 約 415 分。"
+     },
+     "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50548021"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "KPMG 试验：100 多个 AI Agent 审计上市公司，有时比人类团队问得更深",
+      "en": "KPMG trial: 100+ AI agents audited a listed company and sometimes asked better questions than humans",
+      "zh-Hant": "KPMG 試驗：100 多個 AI Agent 審計上市公司，有時比人類團隊問得更深"
+     },
+     "summary": {
+      "zh-Hans": "据 FT 和 European Business Magazine，KPMG 英国在代号 Project Exponential 的试验中让 100 多个 AI Agent 与常规审计团队并行审一家未具名的富时 250 公司；英国审计负责人称 Agent 在若干问题上挖得更深、提出了人类没问的问题。讨论焦点是审计这类高人力行业的成本结构会怎么变。HN 约 320 分。",
+      "en": "According to the FT and European Business Magazine, KPMG UK ran more than 100 AI agents alongside a regular audit team on an unnamed FTSE 250 company in a trial codenamed Project Exponential; its UK head of audit said the agents sometimes dug deeper and raised questions the humans had not. The debate is how the economics of labour-heavy work like auditing will change. About 320 points on HN.",
+      "zh-Hant": "據 FT 和 European Business Magazine，KPMG 英國在代號 Project Exponential 的試驗中讓 100 多個 AI Agent 與常規審計團隊並行審一家未具名的富時 250 公司；英國審計負責人稱 Agent 在若干問題上挖得更深、提出了人類沒問的問題。討論焦點是審計這類高人力行業的成本結構會怎麼變。HN 約 320 分。"
+     },
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50547777"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软 ONNX Runtime 仓库突然从 GitHub 消失",
+      "en": "Microsoft’s ONNX Runtime repository suddenly vanishes from GitHub",
+      "zh-Hant": "微軟 ONNX Runtime 倉庫突然從 GitHub 消失"
+     },
+     "summary": {
+      "zh-Hans": "这个约 2.2 万星的推理运行时仓库无预告变成 404（我们抓取时 GitHub API 仍返回 Not Found），HN 上有人反映评测流水线因此直接失败。原因暂未见官方说明；ONNX 规范本身的仓库 onnx/onnx 仍在。提醒：关键依赖要有镜像或本地缓存。HN 约 450 分。",
+      "en": "The inference runtime repository, with about 22k stars, went 404 without notice (the GitHub API still returned Not Found when we checked), and people on HN said their eval pipelines broke. No official explanation has been seen yet; the ONNX spec repository onnx/onnx is still up. A reminder to mirror or cache critical dependencies. About 450 points on HN.",
+      "zh-Hant": "這個約 2.2 萬星的推理執行時倉庫無預告變成 404（我們抓取時 GitHub API 仍返回 Not Found），HN 上有人反映評測流水線因此直接失敗。原因暫未見官方說明；ONNX 規範本身的倉庫 onnx/onnx 仍在。提醒：關鍵依賴要有映象或本地快取。HN 約 450 分。"
+     },
+     "url": "https://github.com/microsoft/onnxruntime",
+     "extra": [
+      "https://github.com/onnx/onnx",
+      "https://news.ycombinator.com/item?id=50539610"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Genie 4 开放：用文字实时改造可交互的 3D 世界",
+      "en": "Genie 4 opens up: reshape interactive 3D worlds with text in real time",
+      "zh-Hant": "Genie 4 開放：用文字實時改造可互動的 3D 世界"
+     },
+     "summary": {
+      "zh-Hans": "谷歌向符合条件的 Google AI Ultra 订阅者推出 Genie 4：用自然语言实时改天气、加角色、配原生音频，新增帮你搭世界的 Project Genie Agent 和可二次创作的社区画廊；AI Pro 用户可排队等候。HN 约 170 分。",
+      "en": "Google is rolling out Genie 4 to eligible Google AI Ultra subscribers: change weather, add characters and get native audio in real time with natural language, plus a Project Genie agent that builds worlds through conversation and a community gallery for remixing; AI Pro users can join a waitlist. About 170 points on HN.",
+      "zh-Hant": "谷歌向符合條件的 Google AI Ultra 訂閱者推出 Genie 4：用自然語言實時改天氣、加角色、配原生音訊，新增幫你搭世界的 Project Genie Agent 和可二次創作的社群畫廊；AI Pro 使用者可排隊等候。HN 約 170 分。"
+     },
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50550415"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "能量模型做推理：数独极难题 99.9% 准确，推理算力省 345 倍",
+      "en": "Energy-based reasoning: 99.9% on extreme Sudoku with 345x less inference compute",
+      "zh-Hant": "能量模型做推理：數獨極難題 99.9% 準確，推理算力省 345 倍"
+     },
+     "summary": {
+      "zh-Hans": "论文提出 Energy-Based Reasoners：给循环推理的中间状态学一个「能量」打分，用梯度下降来改进并判断何时停止。在四个算法推理基准上追平或超过此前的循环推理模型，Sudoku-Extreme 准确率 99.9%，推理算力比次优模型少 345 倍。HN 约 300 分。",
+      "en": "The paper introduces Energy-Based Reasoners, which learn an energy score over latent reasoning states and refine them by gradient descent, which also signals when to stop. Across four algorithmic reasoning benchmarks they match or beat prior recurrent reasoners, reaching 99.9% on Sudoku-Extreme with 345x less inference compute than the next-best model. About 300 points on HN.",
+      "zh-Hant": "論文提出 Energy-Based Reasoners：給迴圈推理的中間狀態學一個「能量」打分，用梯度下降來改進並判斷何時停止。在四個演算法推理基準上追平或超過此前的迴圈推理模型，Sudoku-Extreme 準確率 99.9%，推理算力比次優模型少 345 倍。HN 約 300 分。"
+     },
+     "url": "https://energy-based-reasoners.github.io/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50543989"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "Nginx 暴露面自查 — 一个 CLI / GitHub Action：扫描配置和镜像里的 Nginx 版本、是否开 HTTP/2 和 HTTP/3、是否用了 resolver 或 mail 代理，对照 Wiz 披露的受影响范围输出升级清单和临时关 HTTP/2 的改法。免费引流，托管巡检收费。",
+     "多模型成本路由器 — Gemini 4 Neon、GPT-6.2、MAI 系列一周内接连降价：做一个按任务类型自动选最便宜且合格模型的网关，用你自己的样例做小规模回归，月底出账单对比。开源核心 + 托管版按调用量收费。",
+     "关键依赖「消失险」 — ONNX Runtime 仓库无预告 404、Codeberg 一度不可达：一个 GitHub App 自动给项目依赖的上游仓库和发布包做镜像，上游删除、改名或转私有时告警并自动切到镜像。按仓库收费。",
+     "AI 摘要引用追踪 — AI 摘要让点击少约 40%：做一个工具，定期在主流 AI 搜索里问你行业的问题，记录谁被引用、你的页面有没有被提到，并给出「更易被引用」的页面改写建议。按站点订阅。",
+     "Agent 技能质检 — NVIDIA SkillEvaluator、last30days-skill 等技能类仓库同时上榜，GitHub 又给 Copilot 加了 8 个连接器：做一个技能上架前的评测服务，测触发准确率、和现有技能的重叠以及对 Agent 行为的影响，出可分享的报告徽章。"
+    ],
+    "en": [
+     "An Nginx exposure check — A CLI or GitHub Action that scans configs and images for the Nginx version, whether HTTP/2 or HTTP/3 is on and whether the resolver or mail proxy is used, compares them with the affected ranges Wiz published, and outputs an upgrade list plus the change to turn HTTP/2 off temporarily. Free for reach, paid managed scanning.",
+     "A multi-model cost router — Gemini 4 Neon, GPT-6.2 and the MAI family all cut prices within a week: a gateway that picks the cheapest model that passes for each task type, runs small regressions on your own samples and shows a monthly cost comparison. Open-source core plus a hosted version billed by usage.",
+     "Insurance against vanishing dependencies — ONNX Runtime went 404 without notice and Codeberg was briefly unreachable: a GitHub App that mirrors the upstream repositories and release artifacts a project depends on, alerts when one is deleted, renamed or made private, and switches builds to the mirror. Priced per repository.",
+     "AI-answer citation tracking — AI answers cut clicks by about 40%: a tool that regularly asks the main AI search engines questions in your niche, records who gets cited and whether your pages appear, and suggests rewrites that make pages easier to quote. Subscription per site.",
+     "Quality checks for agent skills — NVIDIA SkillEvaluator and skill repositories such as last30days-skill are trending together, and GitHub added 8 connectors to Copilot: a pre-release evaluation service for skills that tests trigger accuracy, overlap with existing skills and impact on agent behaviour, with a shareable report badge."
+    ],
+    "zh-Hant": [
+     "Nginx 暴露面自查 — 一個 CLI / GitHub Action：掃描配置和映象裡的 Nginx 版本、是否開 HTTP/2 和 HTTP/3、是否用了 resolver 或 mail 代理，對照 Wiz 披露的受影響範圍輸出升級清單和臨時關 HTTP/2 的改法。免費引流，託管巡檢收費。",
+     "多模型成本路由器 — Gemini 4 Neon、GPT-6.2、MAI 系列一週內接連降價：做一個按任務型別自動選最便宜且合格模型的閘道器，用你自己的樣例做小規模迴歸，月底出賬單對比。開源核心 + 託管版按呼叫量收費。",
+     "關鍵依賴「消失險」 — ONNX Runtime 倉庫無預告 404、Codeberg 一度不可達：一個 GitHub App 自動給專案依賴的上游倉庫和釋出包做映象，上游刪除、改名或轉私有時告警並自動切到映象。按倉庫收費。",
+     "AI 摘要引用追蹤 — AI 摘要讓點選少約 40%：做一個工具，定期在主流 AI 搜尋裡問你行業的問題，記錄誰被引用、你的頁面有沒有被提到，並給出「更易被引用」的頁面改寫建議。按站點訂閱。",
+     "Agent 技能質檢 — NVIDIA SkillEvaluator、last30days-skill 等技能類倉庫同時上榜，GitHub 又給 Copilot 加了 8 個聯結器：做一個技能上架前的評測服務，測觸發準確率、和現有技能的重疊以及對 Agent 行為的影響，出可分享的報告徽章。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "小商家「AI 搜索曝光」体检 — 店主输入店名和所在城市，工具模拟顾客在谷歌 AI 摘要、ChatGPT、Gemini 里常问的问题（附近哪家好、营业时间、价格），看自己有没有被提到、信息对不对，并给出改进清单。 RevScope 数据：AI 摘要已出现在约 61% 的被跟踪关键词上，出现时外部网站点击少约 40%；连做了 8 年的柏林指南站也丢了约 75% 流量。餐馆、诊所、维修、民宿等本地商家都靠搜索被找到。",
+     "自媒体与小网站的「流量转型」助手 — 把博客或指南站的内容一键改编成邮件订阅、短视频脚本、可下载清单和付费小册，减少对搜索流量的依赖，并追踪每个新渠道的效果。 All About Berlin 站长说许多站长私下反映同样遭遇，有人加了付费墙、有人停更；AI 摘要覆盖率两年内从约 6% 升到约 61%。大量旅游、生活、教程类博主都受影响。",
+     "「条款大白话」：注册前看清你同意了什么 — 用户粘贴或在浏览器里打开任何服务条款，AI 标出仲裁条款、数据出售/营销用途、自动续费和退出期限，并提醒在期限内完成退出（例如 30 天内拒绝仲裁）。 Consumer Rights Wiki 整理：在美国用 ID.me 登录 IRS 需接受其条款，争议默认走仲裁、30 天内可退出；该帖 HN 约 490 分。几乎每个人每周都在点「同意」，却很少读。",
+     "小微企业「报税前自查」助手 — 店主上传银行流水、发票和记账表，AI 像审计师一样提问：哪些收支对不上、哪些发票缺失、哪些大额支出要补说明，生成给会计的整理包。 KPMG 试验中 AI Agent 有时比审计团队问得更深；谷歌称 Gemini 4 Neon 在 Tax Agent Bench 与表格建模类评测上排第一（厂商口径）。小商家和个体户每年都要报税，多数请不起完整审计。",
+     "小团队的「云工具搬家与备份」 — 一键把 Slack、Notion、Google Drive、M365 里的数据定期备份成可读格式，并在需要时迁移到更便宜或开源的替代品，附迁移清单。 Show HN 的 ExitPath（离开 Slack、Notion、M365 的开源路径）约 140 分；同一天 ONNX Runtime 仓库无预告消失、Codeberg 一度不可达，提醒依赖单一平台的风险。大量小团队把全部资料放在几个 SaaS 里。",
+     "小网站的「补丁翻译官」 — 站主验证域名所有权后，工具检查自己网站公开可见的服务器信息（如是否开 HTTP/2），对照最新安全公告，用大白话说明要不要处理，并生成可直接发给建站外包的操作说明。 Wiz 称 Nginx 是使用最广的开源 Web 服务器、支撑超过 2.25 亿个网站，这次漏洞影响到 2015 年的版本。大量小商家网站由外包搭建，店主看不懂公告也不知道该问什么。"
+    ],
+    "en": [
+     "An AI-search visibility check-up for small businesses — An owner enters the business name and city; the tool asks Google AI Overviews, ChatGPT and Gemini the questions customers ask (who is good nearby, opening hours, prices), checks whether the business is mentioned and correct, and gives a fix list. RevScope’s data: AI answers now appear on about 61% of tracked keywords and cut clicks to websites by about 40% when shown; even an 8-year-old Berlin guide site lost about 75% of its traffic. Local businesses such as restaurants, clinics, repair shops and guesthouses all depend on being found in search.",
+     "A traffic-shift helper for creators and small sites — Turns a blog or guide site’s content into a newsletter, short-video scripts, downloadable checklists and a paid mini-guide in one go, reducing reliance on search traffic and tracking each new channel. The All About Berlin owner says many site owners told him privately of the same problem, with some adding paywalls and others giving up; AI-answer coverage rose from about 6% to about 61% in two years. Huge numbers of travel, lifestyle and tutorial bloggers are affected.",
+     "Plain-language terms: know what you agree to before signing up — Users paste or open any terms of service and AI flags arbitration clauses, data sale or marketing use, auto-renewal and opt-out deadlines, then reminds them to opt out in time (for example refusing arbitration within 30 days). Consumer Rights Wiki documents that signing in to the IRS with ID.me means accepting its terms, which send disputes to arbitration unless you opt out within 30 days; the post drew about 490 points on HN. Almost everyone clicks “agree” every week and rarely reads.",
+     "A pre-tax self-check assistant for micro-businesses — An owner uploads bank statements, invoices and bookkeeping sheets, and AI asks questions the way an auditor would: which items do not reconcile, which invoices are missing, which large expenses need explanation, then produces a tidy pack for the accountant. In KPMG’s trial AI agents sometimes asked deeper questions than the audit team, and Google says Gemini 4 Neon ranks first on Tax Agent Bench and spreadsheet-modelling evals (vendor figures). Small shops and sole traders file taxes every year and most cannot afford a full audit.",
+     "Cloud-tool moving and backup for small teams — Regularly backs up data from Slack, Notion, Google Drive and Microsoft 365 into readable formats in one click and, when needed, migrates to cheaper or open-source alternatives with a migration checklist. ExitPath on Show HN (open-source ways out of Slack, Notion and Microsoft 365) drew about 140 points; the same day the ONNX Runtime repository vanished without notice and Codeberg was briefly unreachable, a reminder of the risk of relying on one platform. Many small teams keep everything in a few SaaS tools.",
+     "A patch translator for small website owners — After verifying domain ownership, the tool checks the publicly visible server details of the owner’s own site (such as whether HTTP/2 is on), compares them with the latest advisories, explains in plain language whether action is needed, and drafts instructions to forward to the web contractor. Wiz says Nginx is the most widely used open-source web server, powering more than 225 million websites, and this bug reaches back to 2015 versions. Many small-business sites are built by contractors, and owners cannot read advisories or know what to ask."
+    ],
+    "zh-Hant": [
+     "小商家「AI 搜尋曝光」體檢 — 店主輸入店名和所在城市，工具模擬顧客在谷歌 AI 摘要、ChatGPT、Gemini 裡常問的問題（附近哪家好、營業時間、價格），看自己有沒有被提到、資訊對不對，並給出改進清單。 RevScope 資料：AI 摘要已出現在約 61% 的被跟蹤關鍵詞上，出現時外部網站點選少約 40%；連做了 8 年的柏林指南站也丟了約 75% 流量。餐館、診所、維修、民宿等本地商家都靠搜尋被找到。",
+     "自媒體與小網站的「流量轉型」助手 — 把部落格或指南站的內容一鍵改編成郵件訂閱、短影片指令碼、可下載清單和付費小冊，減少對搜尋流量的依賴，並追蹤每個新渠道的效果。 All About Berlin 站長說許多站長私下反映同樣遭遇，有人加了付費牆、有人停更；AI 摘要覆蓋率兩年內從約 6% 升到約 61%。大量旅遊、生活、教程類博主都受影響。",
+     "「條款大白話」：註冊前看清你同意了什麼 — 使用者貼上或在瀏覽器裡開啟任何服務條款，AI 標出仲裁條款、資料出售/營銷用途、自動續費和退出期限，並提醒在期限內完成退出（例如 30 天內拒絕仲裁）。 Consumer Rights Wiki 整理：在美國用 ID.me 登入 IRS 需接受其條款，爭議預設走仲裁、30 天內可退出；該帖 HN 約 490 分。幾乎每個人每週都在點「同意」，卻很少讀。",
+     "小微企業「報稅前自查」助手 — 店主上傳銀行流水、發票和記賬表，AI 像審計師一樣提問：哪些收支對不上、哪些發票缺失、哪些大額支出要補說明，生成給會計的整理包。 KPMG 試驗中 AI Agent 有時比審計團隊問得更深；谷歌稱 Gemini 4 Neon 在 Tax Agent Bench 與表格建模類評測上排第一（廠商口徑）。小商家和個體戶每年都要報稅，多數請不起完整審計。",
+     "小團隊的「雲工具搬家與備份」 — 一鍵把 Slack、Notion、Google Drive、M365 裡的資料定期備份成可讀格式，並在需要時遷移到更便宜或開源的替代品，附遷移清單。 Show HN 的 ExitPath（離開 Slack、Notion、M365 的開源路徑）約 140 分；同一天 ONNX Runtime 倉庫無預告消失、Codeberg 一度不可達，提醒依賴單一平臺的風險。大量小團隊把全部資料放在幾個 SaaS 裡。",
+     "小網站的「補丁翻譯官」 — 站主驗證域名所有權後，工具檢查自己網站公開可見的伺服器資訊（如是否開 HTTP/2），對照最新安全公告，用大白話說明要不要處理，並生成可直接發給建站外包的操作說明。 Wiz 稱 Nginx 是使用最廣的開源 Web 伺服器、支撐超過 2.25 億個網站，這次漏洞影響到 2015 年的版本。大量小商家網站由外包搭建，店主看不懂公告也不知道該問什麼。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "NVIDIA/SkillEvaluator",
+      "en": "NVIDIA/SkillEvaluator",
+      "zh-Hant": "NVIDIA/SkillEvaluator"
+     },
+     "summary": {
+      "zh-Hans": "英伟达开源的 Agent 技能/插件评测框架：质量门槛、语义重叠检测、合成评测集与实测技能对 Agent 行为的影响，今日约 310 星。",
+      "en": "NVIDIA’s open-source framework for evaluating agent skills and plugins: quality gates, semantic overlap detection, synthetic eval sets and live measurement of how skills change agent behaviour; about 310 stars today.",
+      "zh-Hant": "英偉達開源的 Agent 技能/外掛評測框架：質量門檻、語義重疊檢測、合成評測集與實測技能對 Agent 行為的影響，今日約 310 星。"
+     },
+     "url": "https://github.com/NVIDIA/SkillEvaluator"
+    },
+    {
+     "title": {
+      "zh-Hans": "mvanhorn/last30days-skill",
+      "en": "mvanhorn/last30days-skill",
+      "zh-Hant": "mvanhorn/last30days-skill"
+     },
+     "summary": {
+      "zh-Hans": "一个 Agent 技能：跨 Reddit、X、YouTube、HN、Polymarket 和网页调研任意话题并给出有出处的汇总，今日约 1,060 星。",
+      "en": "An agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket and the web and writes a sourced summary; about 1,060 stars today.",
+      "zh-Hant": "一個 Agent 技能：跨 Reddit、X、YouTube、HN、Polymarket 和網頁調研任意話題並給出有出處的彙總，今日約 1,060 星。"
+     },
+     "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+     "title": {
+      "zh-Hans": "google-research/paper-orchestra",
+      "en": "google-research/paper-orchestra",
+      "zh-Hant": "google-research/paper-orchestra"
+     },
+     "summary": {
+      "zh-Hans": "谷歌研究院的多 Agent 论文写作框架，今日约 1,520 星，适合参考多 Agent 分工设计。",
+      "en": "Google Research’s multi-agent framework for writing research papers; about 1,520 stars today, a useful reference for splitting work across agents.",
+      "zh-Hant": "谷歌研究院的多 Agent 論文寫作框架，今日約 1,520 星，適合參考多 Agent 分工設計。"
+     },
+     "url": "https://github.com/google-research/paper-orchestra"
+    },
+    {
+     "title": {
+      "zh-Hans": "HKUDS/CLI-Anything",
+      "en": "HKUDS/CLI-Anything",
+      "zh-Hant": "HKUDS/CLI-Anything"
+     },
+     "summary": {
+      "zh-Hans": "把任意软件包装成 Agent 可调用的命令行，今日约 390 星。",
+      "en": "Wraps any software as a command line that agents can call; about 390 stars today.",
+      "zh-Hant": "把任意軟體包裝成 Agent 可呼叫的命令列，今日約 390 星。"
+     },
+     "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Copilot: 8 new connectors",
+      "en": "GitHub Copilot: 8 new connectors",
+      "zh-Hant": "GitHub Copilot: 8 new connectors"
+     },
+     "summary": {
+      "zh-Hans": "公测：Copilot 可通过 GitHub 验证的 MCP 服务器连接 Supabase、Box、Calendly、ClickUp、Mixpanel、Webflow、Wix、Buildkite。",
+      "en": "Public preview: Copilot can connect to Supabase, Box, Calendly, ClickUp, Mixpanel, Webflow, Wix and Buildkite through GitHub-verified MCP servers.",
+      "zh-Hant": "公測：Copilot 可透過 GitHub 驗證的 MCP 伺服器連線 Supabase、Box、Calendly、ClickUp、Mixpanel、Webflow、Wix、Buildkite。"
+     },
+     "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "path": "digest/2026-11-18/",
