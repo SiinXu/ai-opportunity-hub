@@ -1,6 +1,1215 @@
 {
- "latest": "2026-11-20",
+ "latest": "2026-11-21",
  "digests": [
+  {
+   "date": "2026-11-21",
+   "path": "digest/2026-11-21/",
+   "kind": "daily",
+   "auto": true,
+   "cutoff": "2026-11-20T23:30:00Z",
+   "generated": "2026-11-21T04:09:19Z",
+   "new_count": 58,
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-21",
+    "zh-Hant": "早間技術熱點 · 2026-11-21",
+    "en": "Morning tech digest · 2026-11-21",
+    "ja": "朝のテックダイジェスト · 2026-11-21",
+    "ko": "아침 테크 다이제스트 · 2026-11-21",
+    "ms": "Ringkasan teknologi pagi · 2026-11-21",
+    "vi": "Bản tin công nghệ buổi sáng · 2026-11-21",
+    "fr": "Digest tech du matin · 2026-11-21",
+    "es": "Resumen tecnológico matinal · 2026-11-21",
+    "de": "Morgendlicher Tech-Digest · 2026-11-21"
+   },
+   "lede": {
+    "zh-Hans": "上海时间 2026-11-21 07:30 自动生成：从上一期以来 OPC Radar 新收录的 58 条信号里，按热度挑出最值得看的内容。",
+    "zh-Hant": "上海時間 2026-11-21 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 58 條信號裡，按熱度挑出最值得看的內容。",
+    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-11-21: the hottest of the 58 signals OPC Radar picked up since the previous issue.",
+    "ja": "2026-11-21 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 58 件のシグナルから、注目度の高いものを選びました。",
+    "ko": "2026-11-21 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 58개 중 가장 주목받는 것을 골랐습니다.",
+    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-11-21: isyarat paling hangat daripada 58 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
+    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-11-21: những tín hiệu nổi bật nhất trong 58 tín hiệu mới OPC Radar thu thập từ số trước.",
+    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-11-21 : les plus marquants des 58 signaux repérés par OPC Radar depuis le numéro précédent.",
+    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-11-21: lo más destacado de las 58 señales que OPC Radar recogió desde el número anterior.",
+    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-11-21: das Wichtigste aus 58 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
+   },
+   "label": {
+    "zh-Hans": "早间技术热点",
+    "zh-Hant": "早間技術熱點",
+    "en": "Morning tech digest",
+    "ja": "朝のテックダイジェスト",
+    "ko": "아침 테크 다이제스트",
+    "ms": "Ringkasan teknologi pagi",
+    "vi": "Bản tin công nghệ buổi sáng",
+    "fr": "Digest tech du matin",
+    "es": "Resumen tecnológico matinal",
+    "de": "Morgendlicher Tech-Digest"
+   },
+   "top": [
+    {
+     "id": "hn-50572503",
+     "title": {
+      "zh-Hans": "Frostbite:AI发现,设计和验证的新型CPU架构",
+      "zh-Hant": "Frostbite:AI發現,設計和驗證的新型CPU架構",
+      "en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "ja": "Frostbite:AIによって発見、設計、検証された新しいCPUアーキテクチャ",
+      "ko": "Frostbite: 새로운 CPU 건축은 AI에 의해, 디자인되고 확인했습니다",
+      "ms": "Parameter Frostbite: Arsitektur CPU baru ditemukan, dirancang dan diverifikasi oleh AI",
+      "vi": "Frostbite: Một kiến trúc CPU mới được phát hiện, được thiết kế và kiểm tra bởi AI",
+      "fr": "Frostbite: Une nouvelle architecture CPU découverte, conçue et vérifiée par AI",
+      "es": "Frostbite: Una nueva arquitectura de CPU descubierta, diseñada y verificada por AI",
+      "de": "Frostbite: Eine neue CPU-Architektur, die von AI entdeckt, entworfen und verifiziert wurde"
+     },
+     "summary": {
+      "en": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar…",
+      "zh-Hans": "Frostbite是一个通用CPU,围绕相互作用网而建,由我们的AI系统发现,设计,并验证端到端,达到4.59x的性能每瓦的现代超级星级. .",
+      "ja": "Frostbiteは、インタラクションネットの周りに構築された汎用CPUで、当社のAIシステムによってエンドツーエンドを発見し、設計し、検証されています。 現代のスーパースケーラのパフォーマンス/ワットの4.59xに達する...",
+      "ko": "Frostbite는 상호 작용 그물, 발견, 디자인하고, 우리의 AI 체계에 의해 확인한 끝에 근거를 둔 다목적 CPU, 4.59x를 도달하는 현대 superscalar의 성과 당 와트...",
+      "ms": "Faskila Frostbite adalah CPU umum yang dibangun di sekitar jaring interaksi, ditemukan, dirancang, dan diverifikasi end-to-end oleh sistem AI kita, mencapai 4.59x kinerja-per-watt dari superskalar modern ...",
+      "vi": "Frostbite là một CPU có mục đích chung được xây dựng xung quanh màn tương tác, được phát hiện, được thiết kế, và xác nhận kết thúc bởi hệ thống AI của chúng tôi, đạt 4.59x hiệu suất của một superscalar hiện đại...",
+      "fr": "Frostbite est un CPU à usage général construit autour de filets d'interaction, découvert, conçu et vérifié de bout en bout par nos systèmes d'IA, atteignant 4,59x la performance par...",
+      "es": "Frostbite es una CPU de uso general construida alrededor de redes de interacción, descubierta, diseñada y verificada final a extremo por nuestros sistemas AI, alcanzando 4.59x el rendimiento-por-watt de un moderno superscalar...",
+      "de": "Frostbite ist eine Allzweck-CPU, die auf Interaktionsnetzen basiert, die von unseren KI-Systemen entdeckt, entworfen und verifiziert wurden und die 4,59-fache Leistung pro Watt eines modernen Superskalars erreichen.",
+      "zh-Hant": "Frostbite是一個通用CPU,圍繞相互作用網而建,由我們的AI系統發現,設計,並驗證端到端,達到4.59x的效能每瓦的現代超級星級. ."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 628 分 · 328 条评论",
+      "zh-Hant": "Hacker News 628 分 · 328 則留言",
+      "en": "628 points · 328 comments on Hacker News",
+      "ja": "Hacker News 628 ポイント · コメント 328 件",
+      "ko": "Hacker News 628점 · 댓글 328개",
+      "ms": "628 mata · 328 komen di Hacker News",
+      "vi": "628 điểm · 328 bình luận trên Hacker News",
+      "fr": "628 points · 328 commentaires sur Hacker News",
+      "es": "628 puntos · 328 comentarios en Hacker News",
+      "de": "628 Punkte · 328 Kommentare auf Hacker News"
+     },
+     "url": "https://architectlabs.com/blog/frostbite",
+     "src": "architectlabs.com",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50572503"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50572348",
+     "title": {
+      "zh-Hans": "限制移动操作系统平台的AI代理获取数据",
+      "zh-Hant": "限制移動作業系統平臺的AI代理獲取資料",
+      "en": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "ja": "データのキャプチャからモバイルオペレーティングシステムプラットフォームにおけるAIエージェントの制限",
+      "ko": "데이터 캡처에서 모바일 운영 시스템 플랫폼에서 AI 에이전트 제한",
+      "ms": "Menglarang agen AI dalam platform sistem operasi bergerak dari data penangkapan",
+      "vi": "Giới hạn các tác nhân AI trong hệ điều hành di động từ việc thu dữ liệu",
+      "fr": "Restreindre les agents d'IA dans les plates-formes de systèmes d'exploitation mobiles à capter les données",
+      "es": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "de": "Einschränkung der Erfassung von Daten durch KI-Agenten in mobilen Betriebssystemplattformen"
+     },
+     "summary": {
+      "en": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially…",
+      "zh-Hans": "隐私是我们的使命;这就是我们存在的原因,我们竭尽全力保护隐私。 这意味着,我们正在限制最新的AI代理 安装在移动操作系统 从潜在的.",
+      "ja": "プライバシーは私たちの使命です。それが私たちが存在している理由であり、私たちはそれを保護できるすべてのことをします。 これは、潜在的なモバイルオペレーティングシステムに構築された最新のAIエージェントを制限していることを意味します...",
+      "ko": "개인 정보 보호는 우리의 임무입니다; 우리는 왜 존재하고, 우리는 우리가 그것을 보호할 수 있는 모든 것을 합니다. 이것은 우리가 잠재적으로 모바일 운영 체제에 내장 된 최신 AI 에이전트를 제한하는 것을 의미합니다 ...",
+      "ms": "Privasi adalah misi kita; itulah sebabnya kita ada, dan kita melakukan sebisa - bisanya untuk melindunginya. Ini berarti bahwa kita membatasi agen AI terbaru yang dibangun ke dalam sistem operasi mobile dari berpotensi ...",
+      "vi": "Nhiệm vụ của chúng ta là sự riêng tư; đó là tại sao chúng ta hiện hữu, và chúng ta làm mọi điều có thể để bảo vệ nó. Điều này có nghĩa là chúng ta đang hạn chế các đặc vụ AI mới nhất được xây dựng thành hệ thống điều hành di động từ khả năng...",
+      "fr": "La vie privée est notre mission; c'est pourquoi nous existons, et nous faisons tout notre possible pour la protéger. Cela signifie que nous restreignons potentiellement les derniers agents d'IA intégrés dans les systèmes d'exploitation mobiles...",
+      "es": "La privacidad es nuestra misión; es por eso que existimos, y hacemos todo lo posible para protegerla. Esto significa que estamos restringiendo los últimos agentes de IA integrados en sistemas operativos móviles de...",
+      "de": "Privatsphäre ist unsere Mission; deshalb existieren wir und wir tun alles, um sie zu schützen. Das bedeutet, dass wir die neuesten KI-Agenten, die in mobile Betriebssysteme eingebaut sind, von potenziell...",
+      "zh-Hant": "隱私是我們的使命;這就是我們存在的原因,我們竭盡全力保護隱私。 這意味著,我們正在限制最新的AI代理 安裝在移動作業系統 從潛在的."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 511 分 · 305 条评论",
+      "zh-Hant": "Hacker News 511 分 · 305 則留言",
+      "en": "511 points · 305 comments on Hacker News",
+      "ja": "Hacker News 511 ポイント · コメント 305 件",
+      "ko": "Hacker News 511점 · 댓글 305개",
+      "ms": "511 mata · 305 komen di Hacker News",
+      "vi": "511 điểm · 305 bình luận trên Hacker News",
+      "fr": "511 points · 305 commentaires sur Hacker News",
+      "es": "511 puntos · 305 comentarios en Hacker News",
+      "de": "511 Punkte · 305 Kommentare auf Hacker News"
+     },
+     "url": "https://signal.org/blog/protecting-your-privacy/",
+     "src": "signal.org",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50572348"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50581260",
+     "title": {
+      "zh-Hans": "墨水2型迷你车",
+      "zh-Hant": "墨水2型迷你車",
+      "en": "Inkling 2 Mini",
+      "ja": "Inkling 2ミニ",
+      "ko": "잉크 2 미니",
+      "ms": "2 Mini",
+      "vi": "Giảm mực 2 tối thiểu",
+      "fr": "Encre 2 Mini",
+      "es": "Tintura 2 Mini",
+      "de": "2 Mini"
+     },
+     "summary": {
+      "en": "Inkling 2 Mini is an open-weights model small enough to run on your laptop. It loops its middle layers to reason more per token and reach answers in fewer tokens.",
+      "zh-Hans": "墨水2迷你是一个开放量级的模型,小到可以运行在你的笔记本电脑上. 它环绕其中间层,以每个符号进行更多的推理,并以更少的符号获得答案.",
+      "ja": "Inkling 2 Miniは、ノートパソコン上で実行するのに十分なオープン級モデルです。 ミドルレイヤーをループし、トークンごとにより多くの理由を把握し、数少ないトークンで回答に到達します。",
+      "ko": "Inkling 2 Mini는 노트북에서 실행하기에 충분한 개방 중량 모델입니다. 그것은 토큰 당 더 많은 것을 주장하고 더 적은 토큰에 대한 답변을 도달하기 위해 중간 층을 반복합니다.",
+      "ms": "Makin 2 Mini adalah model kelas terbuka yang cukup kecil untuk menjalankan laptop Anda. Ini loop lapisan tengahnya untuk alasan lebih per token dan mencapai jawaban dalam token yang lebih sedikit.",
+      "vi": "Hai mini là một mô hình nhỏ cỡ mở đủ để chạy trên laptop của bạn. Nó bao quanh các lớp giữa để lý luận nhiều hơn cho mỗi món biểu tượng và đưa ra câu trả lời ít hơn.",
+      "fr": "Enkling 2 Mini est un modèle à poids ouvert assez petit pour fonctionner sur votre ordinateur portable. Il boucle ses couches moyennes pour raisonner plus par jeton et atteindre des réponses en moins de jetons.",
+      "es": "Inkling 2 Mini es un modelo de peso abierto lo suficientemente pequeño como para funcionar en su portátil. Arranca sus capas medias para razonar más per token y alcanzar respuestas en menos fichas.",
+      "de": "Inkling 2 Mini ist ein offenes Modell, das klein genug ist, um auf Ihrem Laptop zu laufen. Es schlingt seine mittleren Schichten, um mehr pro Token zu argumentieren und Antworten in weniger Token zu erreichen.",
+      "zh-Hant": "墨水2迷你是一個開放量級的模型,小到可以執行在你的膝上型電腦上. 它環繞其中間層,以每個符號進行更多的推理,並以更少的符號獲得答案."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 686 分 · 110 条评论",
+      "zh-Hant": "Hacker News 686 分 · 110 則留言",
+      "en": "686 points · 110 comments on Hacker News",
+      "ja": "Hacker News 686 ポイント · コメント 110 件",
+      "ko": "Hacker News 686점 · 댓글 110개",
+      "ms": "686 mata · 110 komen di Hacker News",
+      "vi": "686 điểm · 110 bình luận trên Hacker News",
+      "fr": "686 points · 110 commentaires sur Hacker News",
+      "es": "686 puntos · 110 comentarios en Hacker News",
+      "de": "686 Punkte · 110 Kommentare auf Hacker News"
+     },
+     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+     "src": "thinkingmachines.ai",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50581260"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50578794",
+     "title": {
+      "zh-Hans": "纳斯达克公司在IPO之后的Anthropic股权库 抹去2026年的收益",
+      "zh-Hant": "納斯達克公司在IPO之後的Anthropic股權庫 抹去2026年的收益",
+      "en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "ja": "ナスダック消去2026の利益としてIPOの後の無作株式タンク",
+      "ko": "Anthropic는 Nasdaq가 2026의 이익으로 IPO 후에 탱크를 공유합니다",
+      "ms": "Antropi saham tangki saham setelah IPO sebagai Nasdaq menghapus 2026 keuntungan",
+      "vi": "Xe tăng nhân tạo sau khi IPO là người Nasdaq bị xóa sổ 2026 lợi nhuận",
+      "fr": "Char des actions anthropiques après l'IPO comme le Nasdaq efface 2026 gains",
+      "es": "Tanque de acciones antropópicas después de la IPO como Nasdaq erases 2026 ganancias",
+      "de": "Anthropic Aktien Tank nach IPO als die Nasdaq löscht 2026 Gewinne"
+     },
+     "summary": {
+      "en": "Anthropic’s record-setting IPO Thursday failed to restore investor confidence in the AI market.",
+      "zh-Hans": "Anthropic创纪录IPO星期四未能恢复投资者对AI市场的信心.",
+      "ja": "Anthropic のレコード設定 IPO 木曜日は、AI 市場での投資家の信頼を回復できなかった.",
+      "ko": "Anthropic의 기록 설정 IPO 목요일은 AI 시장에서 투자자의 신뢰를 복원하지 못했습니다.",
+      "ms": "IPO Kamis yang mensetting rekor Antropik gagal mengembalikan kepercayaan investor pada pasar AI.",
+      "vi": "Việc lập kỷ lục IPO thứ 5 đã thất bại trong việc khôi phục lại lòng tin của các nhà đầu tư trong thị trường AI.",
+      "fr": "Anthropics records IPO jeudi n'a pas rétabli la confiance des investisseurs dans le marché de l'IA.",
+      "es": "El jueves de la IPO de fisura récord de Anthropic no restableció la confianza de los inversores en el mercado de AI.",
+      "de": "Der rekordverdächtige Börsengang von Anthropic konnte das Vertrauen der Anleger in den KI-Markt nicht wiederherstellen.",
+      "zh-Hant": "Anthropic創紀錄IPO星期四未能恢復投資者對AI市場的信心."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 181 分 · 180 条评论",
+      "zh-Hant": "Hacker News 181 分 · 180 則留言",
+      "en": "181 points · 180 comments on Hacker News",
+      "ja": "Hacker News 181 ポイント · コメント 180 件",
+      "ko": "Hacker News 181점 · 댓글 180개",
+      "ms": "181 mata · 180 komen di Hacker News",
+      "vi": "181 điểm · 180 bình luận trên Hacker News",
+      "fr": "181 points · 180 commentaires sur Hacker News",
+      "es": "181 puntos · 180 comentarios en Hacker News",
+      "de": "181 Punkte · 180 Kommentare auf Hacker News"
+     },
+     "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+     "src": "nbcnews.com",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50578794"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50574383",
+     "title": {
+      "zh-Hans": "全球股市暴跌 为Anthropic创纪录IPO未能阻止AI销售",
+      "zh-Hant": "全球股市暴跌 為Anthropic創紀錄IPO未能阻止AI銷售",
+      "en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "ja": "Anthropic のレコード IPO として世界的な株式市場は、幹の AI の売却に失敗します",
+      "ko": "Anthropic의 레코드 IPO로 글로벌 주식 시장 슬럼프는 AI 판매 오프에 실패",
+      "ms": "Pasar saham global yang merosot sebagai catatan Anthropic IPO gagal membendung AI menjual-off",
+      "vi": "Thị trường chứng khoán toàn cầu đang sụp đổ với tư cách là thành tích IPO thất bại trong việc đầu tư AI",
+      "fr": "Les marchés boursiers mondiaux s'affaiblissent comme le record d'IPO d'Anthropic ne parvient pas à endiguer la vente d'IA",
+      "es": "Los mercados mundiales de valores se desplomaron mientras el récord de Antropopic IPO no logra detener la venta de AI",
+      "de": "Globaler Aktienmarkteinbruch, da Anthropics Rekord-IPO den Verkauf von KI nicht aufhalten kann"
+     },
+     "summary": {
+      "en": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout",
+      "zh-Hans": "Nasdaq公司损失了数万亿美元,",
+      "ja": "Nasdaq は、AI スタートアップの IPO が投資家がAI ビルドアウトに注がれている巨大な合計を疑問に抱えていると、価値の兆を失いました。",
+      "ko": "Nasdaq는 AI 시작의 IPO와 함께 가치에 조 달러를 잃었습니다. 투자자가 AI 빌더로 쏟아지는 엄청난 금액을 투자하는 데 실패했습니다.",
+      "ms": "Tesdaq ini kehilangan triliunan nilai, dengan IPO startup AI gagal menyalakannya sebagai investor mempertanyakan jumlah besar yang dituangkan ke dalam buildout AI",
+      "vi": "Người Nasdaq đã mất hàng ngàn tỉ đồng tiền quý giá, với IPO bắt đầu khi các nhà đầu tư đặt câu hỏi về số lượng lớn được đổ vào hệ thống AI",
+      "fr": "Le Nasdaq a perdu des trillions de valeur, avec la startup AI, IPOs ne l'ayant pas soutenue car les investisseurs s'interrogent sur d'énormes sommes versées à la construction d'IA",
+      "es": "El Nasdaq perdió trillones de valor, con la IPO de la startup de AI no vacilando como los inversores cuestionan enormes sumas que se vierten en la construcción de AI",
+      "de": "Die Nasdaq verlor Billionen an Wert, wobei der Börsengang des KI-Startups es nicht schaffte, ihn zu beflügeln, da Investoren riesige Summen in Frage stellen, die in den KI-Ausbau gesteckt werden",
+      "zh-Hant": "Nasdaq公司損失了數萬億美元,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 192 分 · 231 条评论",
+      "zh-Hant": "Hacker News 192 分 · 231 則留言",
+      "en": "192 points · 231 comments on Hacker News",
+      "ja": "Hacker News 192 ポイント · コメント 231 件",
+      "ko": "Hacker News 192점 · 댓글 231개",
+      "ms": "192 mata · 231 komen di Hacker News",
+      "vi": "192 điểm · 231 bình luận trên Hacker News",
+      "fr": "192 points · 231 commentaires sur Hacker News",
+      "es": "192 puntos · 231 comentarios en Hacker News",
+      "de": "192 Punkte · 231 Kommentare auf Hacker News"
+     },
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "src": "theguardian.com",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50574383"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50568130",
+     "title": {
+      "zh-Hans": "双子座4 Neon是模型工程指数上的新1",
+      "zh-Hant": "雙子座4 Neon是模型工程指數上的新1",
+      "en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "ja": "Gemini 4 Neon は、モデルエンジニアリングのインデックスの新しい #1 です。",
+      "ko": "Gemini 4 네온은 모델 엔지니어링 인덱스의 새로운 #1입니다.",
+      "ms": "Gemini 4 Neon adalah #1 baru pada Indeks Teknik Model",
+      "vi": "Song Tử thứ 4 là số 1 mới trên Chỉ mục Kỹ thuật Mô hình",
+      "fr": "Gemini 4 Neon est le nouveau #1 de l'indice d'ingénierie des modèles",
+      "es": "Gemini 4 Neon es el nuevo #1 en el índice de ingeniería de modelos",
+      "de": "Gemini 4 Neon ist die neue #1 auf dem Models Engineering Index"
+     },
+     "summary": {
+      "en": "Mei calculates language models' practical performance on engineering tasks.",
+      "zh-Hans": "小梅计算语言模型在工程任务上的实际表现.",
+      "ja": "エンジニアリングタスクの言語モデルの実践的なパフォーマンスを計算します。",
+      "ko": "Mei는 공학 작업에 언어 모델의 실용적인 성능을 계산합니다.",
+      "ms": "Mei menghitung kinerja praktis model bahasa pada tugas teknik.",
+      "vi": "Mei tính toán hiệu suất thực tế của mô hình ngôn ngữ trong các công việc kỹ thuật.",
+      "fr": "Mei calcule les performances pratiques des modèles de langue sur les tâches d'ingénierie.",
+      "es": "Mei calcula el rendimiento práctico de los modelos de lenguaje en tareas de ingeniería.",
+      "de": "Mei berechnet die praktische Leistung von Sprachmodellen für technische Aufgaben.",
+      "zh-Hant": "小梅計算語言模型在工程任務上的實際表現."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 367 分 · 241 条评论",
+      "zh-Hant": "Hacker News 367 分 · 241 則留言",
+      "en": "367 points · 241 comments on Hacker News",
+      "ja": "Hacker News 367 ポイント · コメント 241 件",
+      "ko": "Hacker News 367점 · 댓글 241개",
+      "ms": "367 mata · 241 komen di Hacker News",
+      "vi": "367 điểm · 241 bình luận trên Hacker News",
+      "fr": "367 points · 241 commentaires sur Hacker News",
+      "es": "367 puntos · 241 comentarios en Hacker News",
+      "de": "367 Punkte · 241 Kommentare auf Hacker News"
+     },
+     "url": "https://git-aarvin.github.io/mei/",
+     "src": "git-aarvin.github.io",
+     "date": "2026-11-19",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50568130"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50579331",
+     "title": {
+      "zh-Hans": "我们把开发者提升为建筑师 而不通知他们",
+      "zh-Hant": "我們把開發者提升為建築師 而不通知他們",
+      "en": "We promoted developers into architects without informing them",
+      "ja": "開発者を建築家に伝えることなく、",
+      "ko": "우리는 개발자를 건축가에 알리지 않고",
+      "ms": "Kami mempromosikan pengembang menjadi arsitek tanpa memberitahu mereka",
+      "vi": "Chúng tôi thăng chức các nhà phát triển thành kiến trúc sư mà không báo cho họ biết",
+      "fr": "Nous avons promu les développeurs en architectes sans les informer",
+      "es": "Promovimos a los desarrolladores en arquitectos sin informarles",
+      "de": "Wir haben Entwickler zu Architekten befördert, ohne sie zu informieren"
+     },
+     "summary": {
+      "en": "If you hate vibe coding, it’s because you’re still trying to do the old job. AI does what you ask and won’t push back on requirements that slows your app or delete tables you created for testing.",
+      "zh-Hans": "如果你讨厌气温编码, AI做你要求的, 并且不会退缩,",
+      "ja": "vibe コーディングを憎むなら、古い仕事をやろうとしているから。 AIは、アプリを遅くしたり、テスト用に作成したテーブルを削除したりする要件をバックアップし、プッシュバックしないようにします。",
+      "ko": "vibe 코딩을 싫어하면 여전히 오래된 일을하려고합니다. AI는 당신이 요구하고 당신의 앱을 느리고 테스트에 생성 된 테이블을 삭제하는 요구 사항에 다시 밀어하지 않습니다.",
+      "ms": "Jika Anda membenci pengodean getaran, itu karena Anda masih mencoba melakukan pekerjaan lama. AI melakukan apa yang Anda minta dan tidak akan menolak persyaratan yang memperlambat aplikasi Anda atau menghapus tabel yang Anda buat untuk pengujian.",
+      "vi": "Nếu bạn ghét lập trình, đó là vì bạn vẫn cố gắng làm công việc cũ. AI làm những gì bạn yêu cầu và sẽ không phản ứng lại những yêu cầu làm chậm ứng dụng của bạn hoặc xóa các bảng bạn tạo ra để thử nghiệm.",
+      "fr": "Si vous détestez le codage des vibrations, c'est parce que vous essayez toujours de faire l'ancien travail. AI fait ce que vous demandez et n'a pas repoussé les exigences qui ralentit votre application ou supprime les tables que vous avez créées pour tester.",
+      "es": "Si odias la codificación vibe, es porque todavía estás tratando de hacer el viejo trabajo. AI hace lo que usted pide y no presionará los requisitos que ralentiza su aplicación o elimina las tablas que usted creó para la prueba.",
+      "de": "Wenn Sie Vibe-Codierung hassen, liegt es daran, dass Sie immer noch versuchen, den alten Job zu erledigen. AI tut, was Sie verlangen, und wird keine Anforderungen zurückdrängen, die Ihre App verlangsamen oder Tabellen löschen, die Sie zum Testen erstellt haben.",
+      "zh-Hant": "如果你討厭氣溫編碼, AI做你要求的, 並且不會退縮,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 301 分 · 184 条评论",
+      "zh-Hant": "Hacker News 301 分 · 184 則留言",
+      "en": "301 points · 184 comments on Hacker News",
+      "ja": "Hacker News 301 ポイント · コメント 184 件",
+      "ko": "Hacker News 301점 · 댓글 184개",
+      "ms": "301 mata · 184 komen di Hacker News",
+      "vi": "301 điểm · 184 bình luận trên Hacker News",
+      "fr": "301 points · 184 commentaires sur Hacker News",
+      "es": "301 puntos · 184 comentarios en Hacker News",
+      "de": "301 Punkte · 184 Kommentare auf Hacker News"
+     },
+     "url": "https://manidoraisamy.com/developer-to-architect.html",
+     "src": "manidoraisamy.com",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50579331"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50577265",
+     "title": {
+      "zh-Hans": "语言模型可以重写自己的重量",
+      "zh-Hant": "語言模型可以重寫自己的重量",
+      "en": "Language Models Can Rewrite Their Own Weights",
+      "ja": "言語モデルは、独自の重量を書き換えることができます",
+      "ko": "언어 모형은 그들의 자신의 무게를 읽을 수 있습니다",
+      "ms": "Model Bahasa Bahasa Bisa Tulis Ulang Beratnya Sendiri",
+      "vi": "Mô hình ngôn ngữ có thể tự viết lại những điểm quan trọng",
+      "fr": "Les modèles linguistiques peuvent réécrire leurs propres poids",
+      "es": "Modelos de lenguaje pueden reescribir sus propias pesas",
+      "de": "Sprachmodelle können ihre eigenen Gewichte umschreiben"
+     },
+     "summary": {
+      "en": "A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends.",
+      "zh-Hans": "一个语言模型被训练一次并被冷冻。 更好的办法是再进行一次训练,或者立即进行一次试验,或者在任务结束后再进行额外的计算。",
+      "ja": "一度、凍結して、言語モデルを訓練します。 タスクが終わると、別のトレーニングの実行、またはプロンプト、ハーネス、または追加の計算をします。",
+      "ko": "언어 모델은 한 번 훈련되고 냉동. 더 나은 또 다른 훈련 실행, 또는 프롬프트, 하네스 또는 여분의 계산을 한 번 작업 종료.",
+      "ms": "Seorang model bahasa dilatih sekali dan dibekukan. Lebih baik membuat latihan lain berjalan, atau prompt, harness atau ekstra komputasi pada inferensi yang pergi setelah tugas berakhir.",
+      "vi": "Mô hình ngôn ngữ được đào tạo một lần và đóng băng. Làm cho nó tốt hơn mất một chạy đào tạo khác, hoặc một nhắc nhở, một bộ dụng cụ hoặc tính toán thêm tại suy luận mà được đi khi nhiệm vụ kết thúc.",
+      "fr": "Un modèle de langue est formé une fois et gelé. Il faut une autre course d'entraînement, ou un harnais ou un calcul supplémentaire à l'inférence, une fois la tâche terminée.",
+      "es": "Un modelo de lenguaje es entrenado una vez y congelado. Hacerlo mejor requiere otra carrera de entrenamiento, o un impulso, un arnés o computación extra a la inferencia que se ha ido una vez que la tarea termina.",
+      "de": "Ein Sprachmodell wird einmal trainiert und eingefroren. Um es besser zu machen, braucht es einen weiteren Trainingslauf oder eine Aufforderung, ein Geschirr oder zusätzliche Berechnungen bei Inferenz, die nach Beendigung der Aufgabe verschwunden sind.",
+      "zh-Hant": "一個語言模型被訓練一次並被冷凍。 更好的辦法是再進行一次訓練,或者立即進行一次試驗,或者在任務結束後再進行額外的計算。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 341 分 · 112 条评论",
+      "zh-Hant": "Hacker News 341 分 · 112 則留言",
+      "en": "341 points · 112 comments on Hacker News",
+      "ja": "Hacker News 341 ポイント · コメント 112 件",
+      "ko": "Hacker News 341점 · 댓글 112개",
+      "ms": "341 mata · 112 komen di Hacker News",
+      "vi": "341 điểm · 112 bình luận trên Hacker News",
+      "fr": "341 points · 112 commentaires sur Hacker News",
+      "es": "341 puntos · 112 comentarios en Hacker News",
+      "de": "341 Punkte · 112 Kommentare auf Hacker News"
+     },
+     "url": "https://arxiv.org/abs/2611.21885",
+     "src": "arxiv.org",
+     "date": "2026-11-20",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50577265"
+     ],
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "more": [
+    {
+     "id": "hn-50575644",
+     "title": {
+      "zh-Hans": "为什么iOS上仍然没有非WebKit浏览器",
+      "zh-Hant": "為什麼iOS上仍然沒有非WebKit瀏覽器",
+      "en": "Why there are still no non-WebKit browsers on iOS",
+      "ja": "なぜまだiOS上で非WebKitブラウザはありません",
+      "ko": "왜 iOS의 비 웹킷 브라우저가 없습니다.",
+      "ms": "Mengapa belum ada peramban non-WebKit di iOS",
+      "vi": "Tại sao vẫn không có trình duyệt khác WebKit trên iOS",
+      "fr": "Pourquoi il n'y a toujours aucun navigateur non-WebKit sur iOS",
+      "es": "Por qué todavía no hay navegadores no WebKit en iOS",
+      "de": "Warum es immer noch keine Nicht-WebKit-Browser auf iOS gibt"
+     },
+     "summary": {
+      "en": "Firefox on iPhone is growing fast across the world. This is especially true in the EU since 2024, when the EU Digital Markets Act (DMA) started requiring A",
+      "zh-Hans": "iPhone上的Firefox在全球快速增长. 自2024年欧盟数字市场法开始要求A以来,欧盟尤其如此。",
+      "ja": "iPhoneのFirefoxは世界中に急速に成長しています。 EU Digital Markets Act(DMA)がAを必要とすると、2024年以来、これはEUで特に本当です",
+      "ko": "iPhone에서 Firefox가 빠르게 성장하고 있습니다. 이것은 특히 유럽 연합 (EU) 디지털 시장 법 (DMA)이 A를 요구하는 것을 시작했을 때 2024 이후 EU에서 사실입니다.",
+      "ms": "Firefox di iPhone berkembang pesat di seluruh dunia. Ini khususnya berlaku di UE sejak 2024, ketika EU Digital Markets Act (DMA) mulai mewajibkan A",
+      "vi": "Firefox trên iPhone đang phát triển nhanh trên toàn thế giới. Điều này đặc biệt đúng trong EU từ năm 2024, khi Đạo luật Thị trường số EU bắt đầu yêu cầu A",
+      "fr": "Firefox sur iPhone est en croissance rapide à travers le monde. C'est particulièrement vrai dans l'UE depuis 2024, lorsque la loi sur les marchés numériques de l'UE (DMA) a commencé à exiger",
+      "es": "Firefox en iPhone está creciendo rápido en todo el mundo. Esto es especialmente cierto en la UE desde 2024, cuando la Ley de Mercados Digitales de la UE (DMA) comenzó a requerir A",
+      "de": "Firefox auf dem iPhone wächst schnell auf der ganzen Welt. Dies gilt insbesondere in der EU seit 2024, als der EU Digital Markets Act (DMA) begann, eine A-Regelung zu verlangen.",
+      "zh-Hant": "iPhone上的Firefox在全球快速增長. 自2024年歐盟數字市場法開始要求A以來,歐盟尤其如此。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 332 分 · 194 条评论",
+      "zh-Hant": "Hacker News 332 分 · 194 則留言",
+      "en": "332 points · 194 comments on Hacker News",
+      "ja": "Hacker News 332 ポイント · コメント 194 件",
+      "ko": "Hacker News 332점 · 댓글 194개",
+      "ms": "332 mata · 194 komen di Hacker News",
+      "vi": "332 điểm · 194 bình luận trên Hacker News",
+      "fr": "332 points · 194 commentaires sur Hacker News",
+      "es": "332 puntos · 194 comentarios en Hacker News",
+      "de": "332 Punkte · 194 Kommentare auf Hacker News"
+     },
+     "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+     "src": "blog.mozilla.org",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50581438",
+     "title": {
+      "zh-Hans": "美国证监会的Nvidia调查正在研究潜在的会计问题,",
+      "zh-Hant": "美國證監會的Nvidia調查正在研究潛在的會計問題,",
+      "en": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "ja": "米国 SEC の Nvidia プローブは、潜在的な会計問題の検証です。 – ソース",
+      "ko": "미국 SEC의 Nvidia probe는 잠재적 인 회계 문제 – 소스",
+      "ms": "Probe Nvidia milik SEC AS sedang memeriksa masalah akuntansi potensial – sumber",
+      "vi": "Máy thăm dò Nvidia của US SEC đang kiểm tra các vấn đề kế toán tiềm năng - nguồn",
+      "fr": "La sonde Nvidia de US SEC examine des questions comptables potentielles – sources",
+      "es": "La sonda Nvidia de la US SEC está examinando posibles problemas de contabilidad – fuentes",
+      "de": "Die Nvidia-Sonde der US-SEC untersucht potenzielle Buchhaltungsprobleme - Quellen"
+     },
+     "summary": {
+      "en": "Published on 11/20/2026 at 02:10 pm EST - Modified on 11/20/2026 at 02:17 pm EST",
+      "zh-Hans": "发布于11/20/2026 02:10 pm EST - 在11/20/2026 02:17 pm EST上修改",
+      "ja": "上に公開 11/20/20/2026 に 02:10 午後 EST - で変更 11/20/2026 に 02:17 午後 EST",
+      "ko": "에 게시 됨 11/20/2026 에 02:10 오후 EST - 에서 수정 11/20/2026 에 02:17 오후 EST",
+      "ms": "Diterbitkan pada 11/20/2026 pada 02:10 pm EST - Diubah pada 11/20/2026 pada 02:17 pm EST",
+      "vi": "Xuất bản trên 11/2026 tại 0:10 pmT - sửa đổi trên 11/2026 tại 0:17 pm TT",
+      "fr": "Publié le 11/20/2026 à 14:10 HNE - Modifié le 11/20/2026 à 14:17 HNE",
+      "es": "Publicado el 11/20/2026 a las 02:10 pm EST - Modificado el 11/20/2026 a las 02:17 pm EST",
+      "de": "Veröffentlicht am 20.11.2026 um 02:10 Uhr EST - Geändert am 20.11.2026 um 02:17 Uhr EST",
+      "zh-Hant": "釋出於11/20/2026 02:10 pm EST - 在11/20/2026 02:17 pm EST上修改"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 222 分 · 113 条评论",
+      "zh-Hant": "Hacker News 222 分 · 113 則留言",
+      "en": "222 points · 113 comments on Hacker News",
+      "ja": "Hacker News 222 ポイント · コメント 113 件",
+      "ko": "Hacker News 222점 · 댓글 113개",
+      "ms": "222 mata · 113 komen di Hacker News",
+      "vi": "222 điểm · 113 bình luận trên Hacker News",
+      "fr": "222 points · 113 commentaires sur Hacker News",
+      "es": "222 puntos · 113 comentarios en Hacker News",
+      "de": "222 Punkte · 113 Kommentare auf Hacker News"
+     },
+     "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+     "src": "marketscreener.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50579297",
+     "title": {
+      "zh-Hans": "虚拟推论芯片",
+      "zh-Hant": "虛擬推論晶片",
+      "en": "Vibecoding an inference chip",
+      "ja": "インフェレンスチップの Vibecoding",
+      "ko": "Vibecoding inference 칩",
+      "ms": "Kecurian Vibecoding sebuah chip inferensi",
+      "vi": "Vibecoing a inference chip",
+      "fr": "Vibecoding une puce d'inférence",
+      "es": "Vibecoding un chip de inferencia",
+      "de": "Vibecodierung eines Inferenzchips"
+     },
+     "summary": {
+      "en": "how coding agents wrote 3M lines of code to implement and optimize LLM inference on an FPGA",
+      "zh-Hans": "编码代理如何写出3M行代码以执行和优化对一个FPGA的LLM推论",
+      "ja": "コーディングエージェントが3Mのコード行を書いて、FPGAでLMLの推論を実装し最適化する方法",
+      "ko": "코딩 에이전트가 FPGA에서 LLM inference를 구현하고 최적화하는 코드의 3M 라인을 썼는 방법",
+      "ms": "Bagaimana coding agen coding menulis 3M baris kode untuk mengimplementasikan dan mengoptimalkan LLM inferensi pada FPGA",
+      "vi": "Làm thế nào các mật vụ mã đã viết 3M dòng mã để thực hiện và tối ưu hóa suy luận trên một FPGA",
+      "fr": "comment les agents de codage ont écrit des lignes de code 3M pour implémenter et optimiser l'inférence LLM sur un FPGA",
+      "es": "cómo los agentes de codificación escribieron líneas de código 3M para implementar y optimizar la inferencia LLM en un FPGA",
+      "de": "Wie Codierungsagenten 3M-Codezeilen geschrieben haben, um LLM-Inferenz auf einem FPGA zu implementieren und zu optimieren",
+      "zh-Hant": "編碼代理如何寫出3M行程式碼以執行和最佳化對一個FPGA的LLM推論"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 114 分 · 41 条评论",
+      "zh-Hant": "Hacker News 114 分 · 41 則留言",
+      "en": "114 points · 41 comments on Hacker News",
+      "ja": "Hacker News 114 ポイント · コメント 41 件",
+      "ko": "Hacker News 114점 · 댓글 41개",
+      "ms": "114 mata · 41 komen di Hacker News",
+      "vi": "114 điểm · 41 bình luận trên Hacker News",
+      "fr": "114 points · 41 commentaires sur Hacker News",
+      "es": "114 puntos · 41 comentarios en Hacker News",
+      "de": "114 Punkte · 41 Kommentare auf Hacker News"
+     },
+     "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+     "src": "ankitg.me",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50577901",
+     "title": {
+      "zh-Hans": "Google的员工告诉雇主不要惩罚那些不希望AI的学校.",
+      "zh-Hant": "Google的員工告訴僱主不要懲罰那些不希望AI的學校.",
+      "en": "Google workers tell their employer not to punish schools that don't want AI",
+      "ja": "Googleワーカーは、AIが望まない学校を罰しないことを雇用者に伝えます",
+      "ko": "Google 근로자는 AI를 원하지 않는 학교를 처벌하지 말",
+      "ms": "Pekerja Google mengatakan kepada majikan mereka untuk tidak menghukum sekolah yang tidak ingin AI",
+      "vi": "Công nhân Google nói với chủ của họ không được phạt những trường không muốn AI",
+      "fr": "Les travailleurs de Google disent à leur employeur de ne pas punir les écoles qui ne veulent pas d'IA",
+      "es": "Los trabajadores de Google le dicen a su empleador que no castigue escuelas que no quieren AI",
+      "de": "Google-Mitarbeiter sagen ihrem Arbeitgeber, dass sie Schulen, die keine KI wollen, nicht bestrafen sollen"
+     },
+     "summary": {
+      "en": "Executives are “convinced that resistance to AI\" just means schools \"don’t see the vision,” a Google staffer said.",
+      "zh-Hans": "管理者“相信对AI的抵制”只是指学校“看不到愿景”,",
+      "ja": "エクゼクティブは「AIに抵抗する」ということは、単に「ビジョンを見ない」という学校を意味します。",
+      "ko": "임원은 \"AI에 대한 저항\"을 의미하는 것은 학교 \"그런 비전을 보이지 않는\"라고 Google 직원은 말했다.",
+      "ms": "Eksekutif-eksekutif ULY \\\"meyakinkan bahwa perlawanan terhadap AI\" berarti hanya sekolah \"tidak melihat visi,\\\" kata seorang staf Google.",
+      "vi": "Giám đốc điều hành “tin rằng sự kháng cự với AI\" chỉ có nghĩa là các trường học \"không nhìn thấy tầm nhìn, một nhân viên Google nói.",
+      "fr": "Les dirigeants sont convaincus que la résistance à l'IA\" signifie simplement les écoles \"ne voient pas la vision,\" un employé de Google a déclaré.",
+      "es": "Los ejecutivos están \"convencidos que la resistencia a la IA\" significa que las escuelas \"no ven la visión\", dijo un empleado de Google.",
+      "de": "Führungskräfte sind \"überzeugt, dass Widerstand gegen KI\" nur bedeutet, dass Schulen \"die Vision nicht sehen\", sagte ein Google-Mitarbeiter.",
+      "zh-Hant": "管理者“相信對AI的抵制”只是指學校“看不到願景”,"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 266 分 · 196 条评论",
+      "zh-Hant": "Hacker News 266 分 · 196 則留言",
+      "en": "266 points · 196 comments on Hacker News",
+      "ja": "Hacker News 266 ポイント · コメント 196 件",
+      "ko": "Hacker News 266점 · 댓글 196개",
+      "ms": "266 mata · 196 komen di Hacker News",
+      "vi": "266 điểm · 196 bình luận trên Hacker News",
+      "fr": "266 points · 196 commentaires sur Hacker News",
+      "es": "266 puntos · 196 comentarios en Hacker News",
+      "de": "266 Punkte · 196 Kommentare auf Hacker News"
+     },
+     "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+     "src": "motherjones.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50576232",
+     "title": {
+      "zh-Hans": "纳维埃号的有限时间爆炸 斯托克斯方程",
+      "zh-Hant": "納維埃號的有限時間爆炸 斯托克斯方程",
+      "en": "Finite-time blow-up for the Navier–Stokes equations",
+      "ja": "NavierのFinite-timeブローアップ ストーク式",
+      "ko": "Navier에 대한 Finite-time blow-up– Stokes 방정식",
+      "ms": "Apa? Persamaan Stokes",
+      "vi": "Name Đường thẳng",
+      "fr": "Bombardement final pour le navigateur– équations Stokes",
+      "es": "El soplo de tiempo finito para el Navier – Ecuaciones de Stokes",
+      "de": "Endzeit-Blow-up für den Navier- Stokes-Gleichungen"
+     },
+     "summary": {
+      "en": "This repository holds the paper Finite-time blow-up for the Navier–Stokes equations by L. Alpöge and T. Buckmaster and the Lean 4 formalization that accompanies it.",
+      "zh-Hans": "这个寄存器保存着纳维埃的 无限时间爆炸的文件 由L. Alpöge和T. Buckmaster共同制作的斯托克斯方程式,以及伴随它而来的精益4形式化.",
+      "ja": "このリポジトリは、Navier用の紙Finite-timeブローアップを保持しています。 L. Alpöge と T. Buckmaster と Lean 4 の正式化による冗談。",
+      "ko": "이 저장소는 Navier를 위한 Paper Finite-time blow-up을 보유하고 있습니다. L. Alpöge 및 T. Buckmaster 및 Lean 4 공식화에 의해 방정식.",
+      "ms": "Repositori ini menyimpan kertas Finite-time blow-up untuk Navier– Stokes persamaan oleh L. Alpöge dan T. Buckmaster dan Lean 4 formalisasi yang menyertainya.",
+      "vi": "Kho này giữ giấy Finite-time-up cho Navier– Stokes phương trình của L. Alpöge và T. Buckmaster và nghiêng 4 chính thức hóa nó.",
+      "fr": "Ce dépôt contient le papier Finite-time blow-up pour le navigateur– Stokes équations par L. Alpöge et T. Buckmaster et la formalisation Lean 4 qui l'accompagne.",
+      "es": "Este repositorio sostiene el papel de soplado de tiempo finito para el Navier – Ecuaciones de Stokes de L. Alpöge y T. Buckmaster y la formalización Lean 4 que lo acompaña.",
+      "de": "Dieses Repository hält das Papier Finite-Time Blow-up für den Navier- Stokes Gleichungen von L. Alpöge und T. Buckmaster und die Lean 4-Formalisierung, die sie begleitet.",
+      "zh-Hant": "這個暫存器儲存著納維埃的 無限時間爆炸的檔案 由L. Alpöge和T. Buckmaster共同製作的斯托克斯方程式,以及伴隨它而來的精益4形式化."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 260 分 · 82 条评论",
+      "zh-Hant": "Hacker News 260 分 · 82 則留言",
+      "en": "260 points · 82 comments on Hacker News",
+      "ja": "Hacker News 260 ポイント · コメント 82 件",
+      "ko": "Hacker News 260점 · 댓글 82개",
+      "ms": "260 mata · 82 komen di Hacker News",
+      "vi": "260 điểm · 82 bình luận trên Hacker News",
+      "fr": "260 points · 82 commentaires sur Hacker News",
+      "es": "260 puntos · 82 comentarios en Hacker News",
+      "de": "260 Punkte · 82 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+     "src": "github.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50569226",
+     "title": {
+      "zh-Hans": "OpenSSL: EVP EncodeBlock()中的缓冲溢出(CVE-2026-121481,CVSS 9.8)",
+      "zh-Hant": "OpenSSL: EVP EncodeBlock()中的緩衝溢位(CVE-2026-121481,CVSS 9.8)",
+      "en": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "ja": "OpenSSL: EVP EncodeBlock() (CVE-2026-121481、CVSS 9.8) のバッファオーバーフロー",
+      "ko": "OpenSSL: EVP EncodeBlock ()에 있는 완충기 과잉 (CVE-2026-121481, CVSS 9.8)",
+      "ms": "NIVE OpenSSL: Buffer overflow dalam EVP EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "vi": "OpenSSL: Buffer tràn vào EVP En codeBlock() (CVE-26-1481, CVSS 9.8)",
+      "fr": "OpenSSL: Débordement de tampon dans EVP EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "es": "OpenSSL: Buffer overflow in EVP EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "de": "OpenSSL: Pufferüberlauf in EVP EncodeBlock() (CVE-2026-121481, CVSS 9.8)"
+     },
+     "summary": {
+      "en": "General purpose TLS and crypto library",
+      "zh-Hans": "通用 TLS 和加密库",
+      "ja": "General purpose TLS and crypto library",
+      "ko": "일반 목적 TLS 및 암호화 라이브러리",
+      "ms": "Tujuan umum TLS dan perpustakaan kripto",
+      "vi": "Mục đích chung của TLS và thư viện mật mã",
+      "fr": "Bibliothèque TLS et cryptothèque à usage général",
+      "es": "Objetivo general TLS y biblioteca criptográfico",
+      "de": "Allgemeine Zweck TLS und Krypto-Bibliothek",
+      "zh-Hant": "通用 TLS 和加密庫"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 365 分 · 328 条评论",
+      "zh-Hant": "Hacker News 365 分 · 328 則留言",
+      "en": "365 points · 328 comments on Hacker News",
+      "ja": "Hacker News 365 ポイント · コメント 328 件",
+      "ko": "Hacker News 365점 · 댓글 328개",
+      "ms": "365 mata · 328 komen di Hacker News",
+      "vi": "365 điểm · 328 bình luận trên Hacker News",
+      "fr": "365 points · 328 commentaires sur Hacker News",
+      "es": "365 puntos · 328 comentarios en Hacker News",
+      "de": "365 Punkte · 328 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/openssl/openssl/pull/33652",
+     "src": "github.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50574968",
+     "title": {
+      "zh-Hans": "莱文特·阿尔波赫(英语:Levent Alpöge)声称证明通俗化的里曼假说[pdf].",
+      "zh-Hant": "萊文特·阿爾波赫(英語:Levent Alpöge)聲稱證明通俗化的裡曼假說[pdf].",
+      "en": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "ja": "Levent Alpögeは、一般化Riemann Hypothesis [pdf]の要求の証拠を主張します",
+      "ko": "Levent Alpöge는 일반 Riemann Hypothesis의 증거를 주장 [pdf]",
+      "ms": "¡Levent Alpöge mengklaim bukti Generalized Riemann Hypothesis [pdf]",
+      "vi": "Levent Alpöge tuyên bố bằng chứng về thuyết Hy Lạp của Riemann [pdf]",
+      "fr": "Levent Alpöge réclame la preuve de l'hypothèse généralisée de Riemann [pdf]",
+      "es": "Levent Alpöge reclama prueba de la Hipótesis Riemann Generalizada [pdf]",
+      "de": "Levent Alpöge behauptet Beweis für die Generalisierte Riemann-Hypothese [pdf]"
+     },
+     "summary": {
+      "en": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "zh-Hans": "相关内容:呼和浩特公告:Alessandro Masullo GRH - https://news.ycombinator.com/items?id=50579568",
+      "ja": "関連する: ハリのある通知: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "ko": "관련: Hurried 발표: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "ms": "Kabarkanlah: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "vi": "Liên quan: Thông báo Hurried: Alessdro Masullo GH - https lập lại.ycom/ items?id = 50579568",
+      "fr": "Related: Hurried Annonce: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "es": "Related: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "de": "Related: Eilige Ankündigung: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+      "zh-Hant": "相關內容:呼和浩特公告:Alessandro Masullo GRH - https://news.ycombinator.com/items?id=50579568"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 2371 分 · 1602 条评论",
+      "zh-Hant": "Hacker News 2371 分 · 1602 則留言",
+      "en": "2371 points · 1602 comments on Hacker News",
+      "ja": "Hacker News 2371 ポイント · コメント 1602 件",
+      "ko": "Hacker News 2371점 · 댓글 1602개",
+      "ms": "2371 mata · 1602 komen di Hacker News",
+      "vi": "2371 điểm · 1602 bình luận trên Hacker News",
+      "fr": "2371 points · 1602 commentaires sur Hacker News",
+      "es": "2371 puntos · 1602 comentarios en Hacker News",
+      "de": "2371 Punkte · 1602 Kommentare auf Hacker News"
+     },
+     "url": "https://alpo.ge/remark.pdf",
+     "src": "alpo.ge",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50581403",
+     "title": {
+      "zh-Hans": "OpenComputer - Devin 的开源替代品",
+      "zh-Hant": "OpenComputer - Devin 的開源替代品",
+      "en": "OpenComputer – an open source alternative to Devin",
+      "ja": "OpenComputer - Devin のオープンソースの代替",
+      "ko": "OpenComputer – Devin의 오픈 소스 대안",
+      "ms": "OpenComputer – alternatif sumber terbuka untuk Devin",
+      "vi": "Open Computer — một nguồn mở thay thế cho Devin",
+      "fr": "OpenComputer – une alternative open source à Devin",
+      "es": "OpenComputer – una alternativa de código abierto a Devin",
+      "de": "OpenComputer – eine Open-Source-Alternative zu Devin"
+     },
+     "summary": {
+      "en": "An open-source, faster Devin alternative",
+      "zh-Hans": "一个开源, 更快的 Devin 选项",
+      "ja": "オープンソース、Devinの代替",
+      "ko": "오픈 소스, 빠른 Devin 대안",
+      "ms": "Sumber terbuka, alternatif Devin yang lebih cepat",
+      "vi": "Một nguồn mở, phương tiện thay thế nhanh hơn",
+      "fr": "Une alternative de Devin ouverte et plus rapide",
+      "es": "Una alternativa de Devin más rápida y de código abierto",
+      "de": "Eine Open-Source, schnellere Devin Alternative",
+      "zh-Hant": "一個開源, 更快的 Devin 選項"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 68 分 · 20 条评论",
+      "zh-Hant": "Hacker News 68 分 · 20 則留言",
+      "en": "68 points · 20 comments on Hacker News",
+      "ja": "Hacker News 68 ポイント · コメント 20 件",
+      "ko": "Hacker News 68점 · 댓글 20개",
+      "ms": "68 mata · 20 komen di Hacker News",
+      "vi": "68 điểm · 20 bình luận trên Hacker News",
+      "fr": "68 points · 20 commentaires sur Hacker News",
+      "es": "68 puntos · 20 comentarios en Hacker News",
+      "de": "68 Punkte · 20 Kommentare auf Hacker News"
+     },
+     "url": "https://github.com/diggerhq/opencomputer",
+     "src": "github.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50579568",
+     "title": {
+      "zh-Hans": "愤怒的公告:Alessandro Masullo GRH",
+      "zh-Hant": "憤怒的公告:Alessandro Masullo GRH",
+      "en": "Hurried Announcement: Alessandro Masullo GRH",
+      "ja": "Alessandro Masullo GRH(アレッサンドロ・マスロ・グラ)",
+      "ko": "Hurried 발표 : Alessandro Masullo GRH",
+      "ms": "Pengumuman Terkutuk: Alessandro Masullo GH",
+      "vi": "Lời thông báo đầy khích lệ: Alessdro Masullo GH",
+      "fr": "Annonce hurlée: Alessandro Masullo GRH",
+      "es": "Alessandro Masullo GRH",
+      "de": "Eilige Ankündigung: Alessandro Masullo GRH"
+     },
+     "summary": {
+      "en": "I am at the American Mathematical Society Executive Committee and Board of Trustees meeting now, and about to chair an hours-long meeting, but this is urgent, so I will try to get this out quickly.",
+      "zh-Hans": "我现在在美国数学会执行委员会和董事会会议上, 并准备主持一个长达数小时的会议, 但这是紧急的, 所以我会设法迅速把事情解决掉。",
+      "ja": "アメリカン・数学会実行委員会と評議員会の理事会に出席し、約1時間にわたる会議を議長するが、これは急務であるので、この会議を迅速に受けようとします。",
+      "ko": "나는 미국의 수학 사회 집행위원회와 Trustees 회의의 보드에서 지금, 그리고 의자에 대한 시간 긴 회의, 그러나 이것은 긴급, 그래서 나는이 빨리 얻을하려고합니다.",
+      "ms": "Saya berada di American Mathematical Society Executive Committee dan Dewan Trustees pertemuan sekarang, dan akan kursi pertemuan berjam-jam, tapi ini mendesak, jadi saya akan mencoba untuk mendapatkan ini keluar dengan cepat.",
+      "vi": "Tôi đang ở Ủy ban Toán học và Ủy ban tín dụng Hoa Kỳ, và sắp sửa tổ chức một cuộc họp dài hàng giờ, nhưng đây là việc khẩn cấp, nên tôi sẽ cố gắng đưa nó ra nhanh chóng.",
+      "fr": "Je suis à la réunion du comité exécutif et du conseil d'administration de l'American Mathematical Society maintenant, et je suis sur le point de présider une réunion d'une durée d'heures, mais c'est urgent, donc je vais essayer d'en sortir rapidement.",
+      "es": "Estoy en la reunión del Comité Ejecutivo de la Sociedad Matemática Americana y de la Junta de Consejeros, y a punto de presidir una reunión de horas, pero esto es urgente, así que intentaré sacar esto rápidamente.",
+      "de": "Ich bin jetzt bei der Sitzung des Executive Committee und des Board of Trustees der American Mathematical Society und werde eine stundenlange Sitzung leiten, aber das ist dringend, also werde ich versuchen, dies schnell herauszuholen.",
+      "zh-Hant": "我現在在美國數學會執行委員會和董事會會議上, 並準備主持一個長達數小時的會議, 但這是緊急的, 所以我會設法迅速把事情解決掉。"
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 1575 分 · 718 条评论",
+      "zh-Hant": "Hacker News 1575 分 · 718 則留言",
+      "en": "1575 points · 718 comments on Hacker News",
+      "ja": "Hacker News 1575 ポイント · コメント 718 件",
+      "ko": "Hacker News 1575점 · 댓글 718개",
+      "ms": "1575 mata · 718 komen di Hacker News",
+      "vi": "1575 điểm · 718 bình luận trên Hacker News",
+      "fr": "1575 points · 718 commentaires sur Hacker News",
+      "es": "1575 puntos · 718 comentarios en Hacker News",
+      "de": "1575 Punkte · 718 Kommentare auf Hacker News"
+     },
+     "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+     "src": "math216.wordpress.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "hn-50580536",
+     "title": {
+      "zh-Hans": "Winedroid – 运行没有Android的Android应用程序(WASM演示)",
+      "zh-Hant": "Winedroid – 執行沒有Android的Android應用程式(WASM演示)",
+      "en": "Winedroid – run Android apps without Android (WASM demo)",
+      "ja": "Winedroid - AndroidなしでAndroidアプリを実行 (WASMデモ)",
+      "ko": "Winedroid – 안드로이드없이 안드로이드 앱 실행 (WASM 데모)",
+      "ms": "Winedroid – jalankan aplikasi Android tanpa Android (demo WASM)",
+      "vi": "Winedroid — chạy ứng dụng steroid mà không có steroid (ASM demo)",
+      "fr": "Winedroid – exécuter des applications Android sans Android (démonstration WASM)",
+      "es": "Winedroid – ejecutar aplicaciones Android sin Android (WASM demo)",
+      "de": "Winedroid – Android-Apps ohne Android ausführen (WASM-Demo)"
+     },
+     "summary": {
+      "en": "Run an Android APK in your browser with winedroid.",
+      "zh-Hans": "在您的浏览器中运行一个使用winedroid的Android APK.",
+      "ja": "WinedroidであなたのブラウザでAndroid APKを実行します。",
+      "ko": "winedroid로 브라우저에서 Android APK를 실행하십시오.",
+      "ms": "Android APK menggunakan winedroid.",
+      "vi": "Điều hành một máy tính A-rô-bốt trong trình duyệt của bạn với rượu vang.",
+      "fr": "Exécutez un Android APK dans votre navigateur avec vindroid.",
+      "es": "Ejecute un APK Android en su navegador con Winedroid.",
+      "de": "Führen Sie ein Android APK in Ihrem Browser mit Winedroid aus.",
+      "zh-Hant": "在您的瀏覽器中執行一個使用winedroid的Android APK."
+     },
+     "fact": {
+      "zh-Hans": "Hacker News 104 分 · 30 条评论",
+      "zh-Hant": "Hacker News 104 分 · 30 則留言",
+      "en": "104 points · 30 comments on Hacker News",
+      "ja": "Hacker News 104 ポイント · コメント 30 件",
+      "ko": "Hacker News 104점 · 댓글 30개",
+      "ms": "104 mata · 30 komen di Hacker News",
+      "vi": "104 điểm · 30 bình luận trên Hacker News",
+      "fr": "104 points · 30 commentaires sur Hacker News",
+      "es": "104 puntos · 30 comentarios en Hacker News",
+      "de": "104 Punkte · 30 Kommentare auf Hacker News"
+     },
+     "url": "https://winedroid.soham.sh/demo/",
+     "src": "winedroid.soham.sh",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ],
+   "follow": [
+    {
+     "id": "gh-1463963309",
+     "title": {
+      "zh-Hans": "iamajmeena/neonclipping",
+      "zh-Hant": "iamajmeena/neonclipping",
+      "en": "iamajmeena/neonclipping",
+      "ja": "iamajmeena/neonclipping",
+      "ko": "iamajmeena/neonclipping",
+      "ms": "iamajmeena/neonclipping",
+      "vi": "iamajmeena/neonclipping",
+      "fr": "iamajmeena/neonclipping",
+      "es": "iamajmeena/neonclipping",
+      "de": "iamajmeena/neonclipping"
+     },
+     "summary": {
+      "en": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "zh-Hans": "粘贴链接, 在~2分钟内获得9: 16 片段的字幕 。 自由,本地,开源剪辑引擎(Audio-First,YouTube字幕,本地LLM).",
+      "ja": "リンクを貼り付け、9:16のクリップを~2 minでキャプションします。 無料、ローカル、オープンソースのクリッピングエンジン(オーディオファースト、YouTubeキャプション、ローカルLM)。",
+      "ko": "링크를 붙여 넣기, ~2 분에 9:16 클립을 얻을. 무료, 로컬, 오픈 소스 차단 엔진 (audio-first, YouTube captions, 로컬 LLM).",
+      "ms": "Paste link, mendapatkan kapsi 9:16 klip dalam ~2 min. Free, lokal, open-source clipping engine (audio-first, YouTube kaptions, LLM lokal).",
+      "vi": "Dán một liên kết, ghi chú 9:16 clip trong ~2 phút. Tự do, địa phương, cơ chế kẹp mã nguồn mở (audio- first, YouTube phụ đề, LLM cục bộ).",
+      "fr": "Coller un lien, obtenir sous-titré 9:16 clips en ~2 min. Moteur de coupure libre, local et open source (audio-first, sous-titres YouTube, LLM local).",
+      "es": "Pruebe un enlace, obtenga 9:16 clips en ~2 min. Motor gratuito, local, de código abierto (audio-first, YouTube captions, local LLM).",
+      "de": "Fügen Sie einen Link ein, erhalten Sie 9:16 Clips in ~ 2 min. Kostenlose, lokale, Open-Source-Clip-Engine (Audio-First, YouTube-Untertitel, lokales LLM).",
+      "zh-Hant": "貼上連結, 在~2分鐘內獲得9: 16 片段的字幕 。 自由,本地,開源剪輯引擎(Audio-First,YouTube字幕,本地LLM)."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 1,253 星",
+      "zh-Hant": "GitHub 1,253 星",
+      "en": "1,253 stars on GitHub",
+      "ja": "GitHub スター 1,253",
+      "ko": "GitHub 스타 1,253개",
+      "ms": "1,253 bintang di GitHub",
+      "vi": "1,253 sao trên GitHub",
+      "fr": "1,253 étoiles sur GitHub",
+      "es": "1,253 estrellas en GitHub",
+      "de": "1,253 Sterne auf GitHub"
+     },
+     "url": "https://github.com/iamajmeena/neonclipping",
+     "src": "github.com",
+     "date": "2026-11-19",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1464126198",
+     "title": {
+      "zh-Hans": "MSNightmare/FastUnlock",
+      "zh-Hant": "MSNightmare/FastUnlock",
+      "en": "MSNightmare/FastUnlock",
+      "ja": "MSNightmare/FastUnlock",
+      "ko": "MSNightmare/FastUnlock",
+      "ms": "MSNightmare/FastUnlock",
+      "vi": "MSNightmare/FastUnlock",
+      "fr": "MSNightmare/FastUnlock",
+      "es": "MSNightmare/FastUnlock",
+      "de": "MSNightmare/FastUnlock"
+     },
+     "summary": {
+      "en": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "zh-Hans": "FastUnlock: Windows 叙述器 LockScreen Bypass 0day 弱点",
+      "ja": "FastUnlock : Windowsのナレーターロック画面バイパス0day脆弱性",
+      "ko": "FastUnlock: Windows 도착기 자물쇠스크린 우회 0day 취약",
+      "ms": "- Windows Narator Kunci Layar Bypass Hari Ini Vulnerability",
+      "vi": "FastUnlock : WindowsAverter Lock màn hình bởi vượt qua 0 ngày Vulnerable",
+      "fr": "FastUnlock : Windows Narrator LockScreen Bypass 0 jour Vulnérabilité",
+      "es": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "de": "FastUnlock: Windows Narrator LockScreen Bypass 0day Sicherheitsanfälligkeit",
+      "zh-Hant": "FastUnlock: Windows 敘述器 LockScreen Bypass 0day 弱點"
+     },
+     "fact": {
+      "zh-Hans": "GitHub 581 星",
+      "zh-Hant": "GitHub 581 星",
+      "en": "581 stars on GitHub",
+      "ja": "GitHub スター 581",
+      "ko": "GitHub 스타 581개",
+      "ms": "581 bintang di GitHub",
+      "vi": "581 sao trên GitHub",
+      "fr": "581 étoiles sur GitHub",
+      "es": "581 estrellas en GitHub",
+      "de": "581 Sterne auf GitHub"
+     },
+     "url": "https://github.com/MSNightmare/FastUnlock",
+     "src": "github.com",
+     "date": "2026-11-19",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    },
+    {
+     "id": "gh-1465523535",
+     "title": {
+      "zh-Hans": "han938/open-webui-private-ai-desk",
+      "zh-Hant": "han938/open-webui-private-ai-desk",
+      "en": "han938/open-webui-private-ai-desk",
+      "ja": "han938/open-webui-private-ai-desk",
+      "ko": "han938/open-webui-private-ai-desk",
+      "ms": "han938/open-webui-private-ai-desk",
+      "vi": "han938/open-webui-private-ai-desk",
+      "fr": "han938/open-webui-private-ai-desk",
+      "es": "han938/open-webui-private-ai-desk",
+      "de": "han938/open-webui-private-ai-desk"
+     },
+     "summary": {
+      "en": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+      "zh-Hans": "与本地的私人AI模型聊天,由Open Webui Private Ai Desk提供动力.",
+      "ja": "ローカルでプライベートなAIモデルとチャットし、Open Webui Private Ai Deskを利用しています。",
+      "ko": "Webui Private Ai Desk에 의해 구동되는 개인 AI 모델과 채팅.",
+      "ms": "IGN Chat dengan model AI swasta lokal, didukung oleh Open Webui Private Ai Desk.",
+      "vi": "Tán gẫu với các mô hình AI riêng tại địa phương, được cung cấp bởi Open Webui Binh nhì Ai Desk.",
+      "fr": "Dialoguez avec des modèles d'IA privés localement, alimentés par Open Webui Private Ai Desk.",
+      "es": "Chat con modelos privados de inteligencia artificial local, impulsado por Open Webui Private Ai Desk.",
+      "de": "Chatten Sie lokal mit privaten KI-Modellen, unterstützt von Open Webui Private Ai Desk.",
+      "zh-Hant": "與本地的私人AI模型聊天,由Open Webui Private Ai Desk提供動力."
+     },
+     "fact": {
+      "zh-Hans": "GitHub 152 星",
+      "zh-Hant": "GitHub 152 星",
+      "en": "152 stars on GitHub",
+      "ja": "GitHub スター 152",
+      "ko": "GitHub 스타 152개",
+      "ms": "152 bintang di GitHub",
+      "vi": "152 sao trên GitHub",
+      "fr": "152 étoiles sur GitHub",
+      "es": "152 estrellas en GitHub",
+      "de": "152 Sterne auf GitHub"
+     },
+     "url": "https://github.com/han938/open-webui-private-ai-desk",
+     "src": "github.com",
+     "date": "2026-11-20",
+     "rw": "",
+     "mt": [
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "ms",
+      "vi",
+      "fr",
+      "es",
+      "de"
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "path": "digest/2026-11-20/",
