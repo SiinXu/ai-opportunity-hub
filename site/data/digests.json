@@ -4,1155 +4,260 @@
   {
    "date": "2026-11-23",
    "path": "digest/2026-11-23/",
-   "kind": "daily",
-   "auto": true,
-   "cutoff": "2026-11-22T23:30:00Z",
-   "generated": "2026-11-23T03:54:10Z",
-   "new_count": 38,
    "title": {
     "zh-Hans": "早间技术热点 · 2026-11-23",
-    "zh-Hant": "早間技術熱點 · 2026-11-23",
     "en": "Morning tech digest · 2026-11-23",
-    "ja": "朝のテックダイジェスト · 2026-11-23",
-    "ko": "아침 테크 다이제스트 · 2026-11-23",
-    "ms": "Ringkasan teknologi pagi · 2026-11-23",
-    "vi": "Bản tin công nghệ buổi sáng · 2026-11-23",
-    "fr": "Digest tech du matin · 2026-11-23",
-    "es": "Resumen tecnológico matinal · 2026-11-23",
-    "de": "Morgendlicher Tech-Digest · 2026-11-23"
+    "zh-Hant": "早間技術熱點 · 2026-11-23"
    },
    "lede": {
-    "zh-Hans": "上海时间 2026-11-23 07:30 自动生成：从上一期以来 OPC Radar 新收录的 38 条信号里，按热度挑出最值得看的内容。",
-    "zh-Hant": "上海時間 2026-11-23 07:30 自動生成：從上一期以來 OPC Radar 新收錄的 38 條信號裡，按熱度挑出最值得看的內容。",
-    "en": "Generated automatically at 07:30 Asia/Shanghai on 2026-11-23: the hottest of the 38 signals OPC Radar picked up since the previous issue.",
-    "ja": "2026-11-23 07:30（上海時間）に自動生成：前号以降に OPC Radar が新たに拾った 38 件のシグナルから、注目度の高いものを選びました。",
-    "ko": "2026-11-23 07:30(상하이 시간)에 자동 생성: 지난 호 이후 OPC Radar가 새로 수집한 신호 38개 중 가장 주목받는 것을 골랐습니다.",
-    "ms": "Dijana secara automatik pada 07:30 waktu Shanghai, 2026-11-23: isyarat paling hangat daripada 38 isyarat baharu yang dikutip OPC Radar sejak isu sebelumnya.",
-    "vi": "Tự động tạo lúc 07:30 giờ Thượng Hải ngày 2026-11-23: những tín hiệu nổi bật nhất trong 38 tín hiệu mới OPC Radar thu thập từ số trước.",
-    "fr": "Généré automatiquement à 07:30 heure de Shanghai le 2026-11-23 : les plus marquants des 38 signaux repérés par OPC Radar depuis le numéro précédent.",
-    "es": "Generado automáticamente a las 07:30 hora de Shanghái del 2026-11-23: lo más destacado de las 38 señales que OPC Radar recogió desde el número anterior.",
-    "de": "Automatisch erstellt um 07:30 Uhr Shanghai-Zeit am 2026-11-23: das Wichtigste aus 38 neuen Signalen, die OPC Radar seit der letzten Ausgabe gesammelt hat."
-   },
-   "label": {
-    "zh-Hans": "早间技术热点",
-    "zh-Hant": "早間技術熱點",
-    "en": "Morning tech digest",
-    "ja": "朝のテックダイジェスト",
-    "ko": "아침 테크 다이제스트",
-    "ms": "Ringkasan teknologi pagi",
-    "vi": "Bản tin công nghệ buổi sáng",
-    "fr": "Digest tech du matin",
-    "es": "Resumen tecnológico matinal",
-    "de": "Morgendlicher Tech-Digest"
+    "zh-Hans": "上海时间早间例行简报：英伟达董事会、模型评测、本地 AI、推理供应链安全，以及一人公司可执行信号。",
+    "en": "Morning brief (Asia/Shanghai): NVIDIA’s board, model evaluation, local AI, inference-supply-chain security, and actionable signals for one-person companies.",
+    "zh-Hant": "上海時間早間例行簡報：英偉達董事會、模型評測、本地 AI、推理供應鏈安全，以及一人公司可執行訊號。"
    },
    "top": [
     {
-     "id": "hn-50597612",
      "title": {
-      "zh-Hans": "87%的Anthropic电源将来自2028年的天然气和11%的煤炭",
-      "zh-Hant": "87%的Anthropic電源將來自2028年的天然氣和11%的煤炭",
-      "en": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "ja": "亜熱帯の電力の87%は2028年に石炭からガスと11%から来る",
-      "ko": "Anthropic 힘의 87%는 2028년에 석탄에서 가스 그리고 11%에서 올 것입니다",
-      "ms": "87% dari tenaga Antropik akan berasal dari gas dan 11% dari batubara pada tahun 2028",
-      "vi": "87% năng lượng nhân tạo sẽ đến từ khí gas và 11% từ than đá vào năm 2028",
-      "fr": "87 % de l'énergie anthropique proviendra du gaz et 11 % du charbon en 2028.",
-      "es": "El 87% de la potencia antropópica vendrá de gas y el 11% del carbón en 2028",
-      "de": "87% der anthropischen Energie werden 2028 aus Gas und 11% aus Kohle stammen"
+      "zh-Hans": "英伟达董事会一致通过，黄仁勋立即重回总裁兼 CEO 和董事",
+      "en": "NVIDIA’s board unanimously reinstates Jensen Huang as president, CEO and director, effective immediately",
+      "zh-Hant": "英偉達董事會一致透過，黃仁勳立即重回總裁兼 CEO 和董事"
      },
      "summary": {
-      "en": "A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028.",
-      "zh-Hans": "关于Anthropic电力总使用量和排放量的案例研究。 我们发现该公司可能在2028年排放3200万吨二氧化碳.",
-      "ja": "Anthropicの総電力使用と排出量のケーススタディ。 当社は、2028年に二酸化炭素の約32万トンの排出量を出すことができました。",
-      "ko": "Anthropic의 총 전력 사용 및 배출 사례 연구. 우리는 회사는 2028년에 이산화탄소의 32백만 미터톤을 방출할 수 있었습니다.",
-      "ms": "Studi kasus terhadap penggunaan dan emisi listrik total Antropik. Kami menemukan perusahaan dapat mengeluarkan 32 juta metrik ton karbon dioksida pada tahun 2028.",
-      "vi": "Một cuộc nghiên cứu về việc sử dụng toàn bộ năng lượng và khí thải của Antropic. Chúng tôi tìm thấy công ty có thể thải ra 32 triệu tấn CO2 vào năm 2028.",
-      "fr": "Une étude de cas de l'utilisation totale de la puissance et des émissions d'anthropie. Nous trouvons que l'entreprise pourrait émettre 32 millions de tonnes de dioxyde de carbone en 2028.",
-      "es": "Un estudio de caso del uso total de energía y las emisiones de Anthropic. Encontramos que la compañía podría emitir 32 millones de toneladas métricas de dióxido de carbono en 2028.",
-      "de": "Eine Fallstudie über den gesamten Stromverbrauch und die Emissionen von Anthropic. Wir stellen fest, dass das Unternehmen im Jahr 2028 32 Millionen Tonnen Kohlendioxid ausstoßen könnte.",
-      "zh-Hant": "關於Anthropic電力總使用量和排放量的案例研究。 我們發現該公司可能在2028年排放3200萬噸二氧化碳."
+      "zh-Hans": "英伟达 11 月 23 日公告：董事会在与黄仁勋多轮沟通后，一致投票恢复其总裁兼首席执行官及董事职务，即时生效；董事长 Harvey C. Jones 表示，过程中听取了美国政府高层意见，并认为复职不构成国家安全风险。针对此前“黄仁勋成为外国情报活动目标”的报道，由独立董事组成的调查委员会及独立律师将继续查完；公司还新设国家安全与出口管制委员会，并开始招聘首席合规官。临时 CEO Colette Kress 继续担任 CFO。HN 约 1,169 分。",
+      "en": "NVIDIA said on 23 November that after talks with Jensen Huang, the board voted unanimously to restore him as president, chief executive and director, effective immediately. Chair Harvey C. Jones said the board heard from senior levels of the U.S. government and is confident the reinstatement poses no national security risk. A committee of independent directors, with independent counsel, will finish its investigation of earlier reporting that Huang had been the target of a foreign intelligence effort; the company also formed a National Security and Export Control Committee and is searching for a chief compliance officer. Interim CEO Colette Kress remains CFO. About 1,169 points on HN.",
+      "zh-Hant": "英偉達 11 月 23 日公告：董事會在與黃仁勳多輪溝通後，一致投票恢復其總裁兼執行長及董事職務，即時生效；董事長 Harvey C. Jones 表示，過程中聽取了美國政府高層意見，並認為復職不構成國家安全風險。針對此前“黃仁勳成為外國情報活動目標”的報道，由獨立董事組成的調查委員會及獨立律師將繼續查完；公司還新設國家安全與出口管制委員會，並開始招聘首席合規官。臨時 CEO Colette Kress 繼續擔任 CFO。HN 約 1,169 分。"
      },
-     "fact": {
-      "zh-Hans": "Hacker News 906 分 · 905 条评论",
-      "zh-Hant": "Hacker News 906 分 · 905 則留言",
-      "en": "906 points · 905 comments on Hacker News",
-      "ja": "Hacker News 906 ポイント · コメント 905 件",
-      "ko": "Hacker News 906점 · 댓글 905개",
-      "ms": "906 mata · 905 komen di Hacker News",
-      "vi": "906 điểm · 905 bình luận trên Hacker News",
-      "fr": "906 points · 905 commentaires sur Hacker News",
-      "es": "906 puntos · 905 comentarios en Hacker News",
-      "de": "906 Punkte · 905 Kommentare auf Hacker News"
-     },
-     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-     "src": "betterdatacenterproject.com",
-     "date": "2026-11-22",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
      "extra": [
-      "https://news.ycombinator.com/item?id=50597612"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
+      "https://news.ycombinator.com/item?id=50611588"
      ]
     },
     {
-     "id": "hn-50605045",
      "title": {
-      "zh-Hans": "亚历山德罗·马苏洛手稿精益正规化进度图",
-      "zh-Hant": "亞歷山德羅·馬蘇洛手稿精益正規化進度圖",
-      "en": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "ja": "Alessandro Masulloの原稿のリーン正式化のための進捗マップ",
-      "ko": "Alessandro Masullo의 manuscript의 Lean 공식화를위한 진행지도",
-      "ms": "Peta kemajuan untuk formalisasi Lean dari naskah Alessandro Masullo",
-      "vi": "Bản đồ tiến triển cho việc chính thức hóa độ nghiêng của bản thảo của Alessdro Masullo",
-      "fr": "Carte d'avancement pour la formalisation lean du manuscrit d'Alessandro Masullo",
-      "es": "Mapa de progreso para la formalización Lean del manuscrito de Alessandro Masullo",
-      "de": "Fortschrittskarte für die Lean-Formalisierung von Alessandro Masullos Manuskript"
+      "zh-Hans": "OpenAI 首席科学家主张把困惑度当成跨实验室的能力与安全共同尺子",
+      "en": "OpenAI’s chief scientist argues for perplexity as a shared yardstick of capability and safety",
+      "zh-Hant": "OpenAI 首席科學家主張把困惑度當成跨實驗室的能力與安全共同尺子"
      },
      "summary": {
-      "en": "Try out Artifacts created by Claude users",
-      "zh-Hans": "尝试 Claude 用户创建的艺术",
-      "ja": "Claudeユーザーが作成したアーティファクトを試してみる",
-      "ko": "Claude 사용자가 만든 Artifacts를 사용해보십시오.",
-      "ms": "Coba coba keluar Artefak dibuat oleh pengguna Claude",
-      "vi": "Thử đồ tạo tác do người dùng Claude tạo",
-      "fr": "Essayez les artefacts créés par les utilisateurs de Claude",
-      "es": "Prueba Artifacts creados por los usuarios de Claude",
-      "de": "Probieren Sie Artefakte aus, die von Claude-Benutzern erstellt wurden",
-      "zh-Hant": "嘗試 Claude 使用者建立的藝術"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 167 分 · 146 条评论",
-      "zh-Hant": "Hacker News 167 分 · 146 則留言",
-      "en": "167 points · 146 comments on Hacker News",
-      "ja": "Hacker News 167 ポイント · コメント 146 件",
-      "ko": "Hacker News 167점 · 댓글 146개",
-      "ms": "167 mata · 146 komen di Hacker News",
-      "vi": "167 điểm · 146 bình luận trên Hacker News",
-      "fr": "167 points · 146 commentaires sur Hacker News",
-      "es": "167 puntos · 146 comentarios en Hacker News",
-      "de": "167 Punkte · 146 Kommentare auf Hacker News"
-     },
-     "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-     "src": "claude.ai",
-     "date": "2026-11-22",
-     "extra": [
-      "https://news.ycombinator.com/item?id=50605045"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50601525",
-     "title": {
-      "zh-Hans": "困惑和智力",
-      "zh-Hant": "困惑和智力",
-      "en": "Perplexity and Intelligence",
-      "ja": "複雑さと知性",
-      "ko": "Perplexity 및 정보",
-      "ms": "Kebingungan dan Intelijen",
-      "vi": "Sự phức tạp và thông minh",
-      "fr": "Perplexité et intelligence",
-      "es": "Perplejidad e inteligencia",
-      "de": "Ratlosigkeit und Intelligenz"
-     },
-     "summary": {
-      "en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "zh-Hans": "复杂度如何衡量AI模型的进展,以及为什么它能帮助开发者建立评估新兴能力的共享方法.",
-      "ja": "AIモデルの複雑性がどのように進んでいるのか、なぜ開発者が新しい機能を評価するための共有アプローチを確立するのに役立つのか。",
-      "ko": "AI 모델의 각성 측정이 진행되는 방법, 왜 개발자가 신흥 역량을 평가하는 공동 접근 방식을 수립할 수 있습니다.",
-      "ms": "Bagaimana kejanggalan perkembangan model AI, dan mengapa hal itu dapat membantu pengembang membangun pendekatan bersama untuk mengevaluasi kemampuan yang muncul.",
-      "vi": "Làm thế nào sự phức tạp đo sự tiến bộ trong mô hình AI, và tại sao nó có thể giúp các nhà phát triển thiết lập một cách tiếp cận chia sẻ để đánh giá các khả năng nổi lên.",
-      "fr": "Comment la perplexité mesure les progrès des modèles d'IA et pourquoi elle pourrait aider les développeurs à établir une approche commune pour évaluer les capacités émergentes.",
-      "es": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluate emerging capabilities.",
-      "de": "Wie Perplexität den Fortschritt in KI-Modellen misst und warum sie Entwicklern helfen könnte, einen gemeinsamen Ansatz zur Bewertung neuer Fähigkeiten zu entwickeln.",
-      "zh-Hant": "複雜度如何衡量AI模型的進展,以及為什麼它能幫助開發者建立評估新興能力的共享方法."
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 507 分 · 348 条评论",
-      "zh-Hant": "Hacker News 507 分 · 348 則留言",
-      "en": "507 points · 348 comments on Hacker News",
-      "ja": "Hacker News 507 ポイント · コメント 348 件",
-      "ko": "Hacker News 507점 · 댓글 348개",
-      "ms": "507 mata · 348 komen di Hacker News",
-      "vi": "507 điểm · 348 bình luận trên Hacker News",
-      "fr": "507 points · 348 commentaires sur Hacker News",
-      "es": "507 puntos · 348 comentarios en Hacker News",
-      "de": "507 Punkte · 348 Kommentare auf Hacker News"
+      "zh-Hans": "Jakub Pachocki 在 11 月 22 日的文章里写道：现代模型的许多能力，来自在大规模语料上把“压缩器 / 预测器”训练得更好；他们内部一直用留存集上的对数困惑度（交叉熵）跟踪进展，并首次公开了从 GPT-3.5 以来的内部数字。他举例：约 0.99 对应流畅对话，约 0.91 对应能有效使用思维链，低于 0.8 后在网络安全和数学里出现了“变革性”能力，约 0.76 时模型开始对未解数学问题给出突破性结果。他建议实验室共同用困惑度等指标设下“先不要越过”的上限，直到监控和理解能力达到明确里程碑，并预计约 0.68–0.7 窗口还会出现新能力。他也写明局限：不同实验室的评测集不同，思维链不会降低困惑度，数据固有熵也不清楚。HN 约 646 分。",
+      "en": "In a 22 November essay, Jakub Pachocki writes that many modern model skills come from training a better “compressor / predictor” on a large corpus. OpenAI has long tracked log-perplexity (cross-entropy) on a held-out set and, for the first time, published its internal figures from GPT-3.5 onward. He maps rough thresholds: about 0.99 went with fluent conversation, about 0.91 with useful chain-of-thought, losses below 0.8 with “transformative” skills in cybersecurity and mathematics, and about 0.76 with groundbreaking answers to open math problems. He wants labs to set shared “do not cross” limits, tied to perplexity and other measures, until monitoring and understanding hit a concrete milestone, and expects new skills in a roughly 0.68–0.7 window. He also lists limits: eval sets differ across labs, chain-of-thought does not lower perplexity, and the data’s inherent entropy is unknown. About 646 points on HN.",
+      "zh-Hant": "Jakub Pachocki 在 11 月 22 日的文章裡寫道：現代模型的許多能力，來自在大規模語料上把“壓縮器 / 預測器”訓練得更好；他們內部一直用留存集上的對數困惑度（交叉熵）跟蹤進展，並首次公開了從 GPT-3.5 以來的內部數字。他舉例：約 0.99 對應流暢對話，約 0.91 對應能有效使用思維鏈，低於 0.8 後在網路安全和數學裡出現了“變革性”能力，約 0.76 時模型開始對未解數學問題給出突破性結果。他建議實驗室共同用困惑度等指標設下“先不要越過”的上限，直到監控和理解能力達到明確里程碑，並預計約 0.68–0.7 視窗還會出現新能力。他也寫明侷限：不同實驗室的評測集不同，思維鏈不會降低困惑度，資料固有熵也不清楚。HN 約 646 分。"
      },
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "src": "openai.com",
-     "date": "2026-11-22",
      "extra": [
       "https://news.ycombinator.com/item?id=50601525"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
      ]
     },
     {
-     "id": "hn-50599762",
      "title": {
-      "zh-Hans": "我建了一个游戏,你是一个LLM的子代理",
-      "zh-Hant": "我建了一個遊戲,你是一個LLM的子代理",
-      "en": "I built a game where you are an LLM's subagent",
-      "ja": "LLMのサブエージェントであるゲームを組んだ",
-      "ko": "LLM의 시약인 게임 구축",
-      "ms": "Aku membuat permainan dimana kau adalah bawahan LLM",
-      "vi": "Tôi đã xây dựng một trò chơi mà bạn là một phụ tá của LM",
-      "fr": "J'ai construit un jeu où vous êtes un subagent de LLM",
-      "es": "Construí un juego donde eres un subagente de LLM",
-      "de": "Ich habe ein Spiel gebaut, in dem du ein LLM-Subagent bist"
+      "zh-Hans": "一份用 Inkling、Qwen 和 Unsloth 在本地跑 AI 的入门指南登上 HN 前列",
+      "en": "A beginner’s guide to local AI with Inkling, Qwen and Unsloth reaches the front of HN",
+      "zh-Hant": "一份用 Inkling、Qwen 和 Unsloth 在本地跑 AI 的入門指南登上 HN 前列"
      },
      "summary": {
-      "en": "A browser game where an AI manager thinks you are its subagent. Play at worker755.com",
-      "zh-Hans": "一个浏览器游戏,一个AI管理者认为你是它的子代理. 在 Worker755.com 游戏",
-      "ja": "AIマネジャーが、そのサブマゼントだと思うブラウザゲーム。 Worker755.comで遊ぶ",
-      "ko": "AI 관리자가 시약인 브라우저 게임. worker755.com에서 재생",
-      "ms": "Permainan penjelajah di mana seorang manajer AI berpikir Anda subagennya. Bermain di pekerja755.com",
-      "vi": "Một trò chơi trình duyệt mà một quản lý AI nghĩ bạn là tác nhân phụ của nó. Chơi tại công nhân755.com",
-      "fr": "Un jeu de navigateur où un gestionnaire d'IA pense que vous êtes son subagent. Jouer à la worker755.com",
-      "es": "Un juego de navegador donde un gerente de AI piensa que eres su subagente. Jugar en worker755.com",
-      "de": "Ein Browserspiel, bei dem ein AI-Manager denkt, dass Sie sein Subagent sind. Spielen Sie auf worker755.com",
-      "zh-Hant": "一個瀏覽器遊戲,一個AI管理者認為你是它的子代理. 在 Worker755.com 遊戲"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 279 分 · 65 条评论",
-      "zh-Hant": "Hacker News 279 分 · 65 則留言",
-      "en": "279 points · 65 comments on Hacker News",
-      "ja": "Hacker News 279 ポイント · コメント 65 件",
-      "ko": "Hacker News 279점 · 댓글 65개",
-      "ms": "279 mata · 65 komen di Hacker News",
-      "vi": "279 điểm · 65 bình luận trên Hacker News",
-      "fr": "279 points · 65 commentaires sur Hacker News",
-      "es": "279 puntos · 65 comentarios en Hacker News",
-      "de": "279 Punkte · 65 Kommentare auf Hacker News"
-     },
-     "url": "https://github.com/gulivan/worker755",
-     "src": "github.com",
-     "date": "2026-11-22",
-     "extra": [
-      "https://news.ycombinator.com/item?id=50599762"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50603845",
-     "title": {
-      "zh-Hans": "与Inkling, Quen, 和 Unsloth 合作的本地人工智能初级指南",
-      "zh-Hant": "與Inkling, Quen, 和 Unsloth 合作的本地人工智慧初級指南",
-      "en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "ja": "インクリング、Qwen、Unsloth によるローカルAI入門ガイド",
-      "ko": "A Beginner의 Inkling, Qwen, Unsloth로 Local AI 가이드",
-      "ms": "Panduan Beginner untuk AI Lokal dengan Inkling, Qwen, dan Unsloth",
-      "vi": "Một hướng dẫn viên cho AI địa phương với Inkling, Qwen và Unsloth",
-      "fr": "Guide du débutant sur l'IA locale avec Incling, Qwen et Unsloth",
-      "es": "Guía de un principiante para la inteligencia local con tinta, Qwen y Unsloth",
-      "de": "Ein Leitfaden für Anfänger zur lokalen KI mit Inkling, Qwen und Unsloth"
-     },
-     "summary": {
-      "en": "We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it.",
-      "zh-Hans": "我们家里有人工智能! 用Unsloth和Inkling或Quen在个人电脑上设置自己的免费个人ChatGPT. 私用之,全家皆可用之.",
-      "ja": "自宅でAIを持っている! Unsloth と Inkling または Qwen を使用して、PC に独自の無料個人チャットGPT を設定します。 個室で、全館でご利用頂けます。",
-      "ko": "우리는 집에 AI가 있습니다! Unsloth 및 Inkling 또는 Qwen과 함께 PC에서 무료 개인 ChatGPT를 설정합니다. 그것은 개인, 전체 집 그것을 사용할 수 있습니다.",
-      "ms": "Kami memiliki AI di rumah! Luather Siapkan ChatGPT pribadi gratis Anda di PC Anda dengan Unsloth dan Inkling atau Qwen. Ini pribadi, dan seluruh rumah bisa menggunakannya.",
-      "vi": "Chúng tôi có AI ở nhà! Tự cài đặt ChatGPT cá nhân lên máy tính của bạn với Unsloth và Inkling hoặc Qwen. Nó là đồ riêng tư, và cả căn nhà có thể dùng.",
-      "fr": "Nous avons l'IA chez nous ! Configurez votre propre ChatGPT personnel gratuit sur votre PC avec Unsloth et Inkling ou Qwen. C'est privé, et toute la maison peut l'utiliser.",
-      "es": "¡Tenemos AI en casa! Configura tu propio ChatGPT personal gratuito en tu PC con Unsloth y Inkling o Qwen. Es privado, y toda la casa puede usarlo.",
-      "de": "Wir haben KI zu Hause! Richten sie ihre eigene kostenlose persönliche chatgpt auf ihrem pc mit unsloth und inkling oder qwen ein. Es ist privat und das ganze Haus kann es benutzen.",
-      "zh-Hant": "我們家裡有人工智慧! 用Unsloth和Inkling或Quen在個人電腦上設定自己的免費個人ChatGPT. 私用之,全家皆可用之."
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 279 分 · 121 条评论",
-      "zh-Hant": "Hacker News 279 分 · 121 則留言",
-      "en": "279 points · 121 comments on Hacker News",
-      "ja": "Hacker News 279 ポイント · コメント 121 件",
-      "ko": "Hacker News 279점 · 댓글 121개",
-      "ms": "279 mata · 121 komen di Hacker News",
-      "vi": "279 điểm · 121 bình luận trên Hacker News",
-      "fr": "279 points · 121 commentaires sur Hacker News",
-      "es": "279 puntos · 121 comentarios en Hacker News",
-      "de": "279 Punkte · 121 Kommentare auf Hacker News"
+      "zh-Hans": "一篇面向新手的公开指南，讲如何用 Inkling、Qwen 和 Unsloth 在本地把模型跑起来，而不是把数据送到云端。它和当天 GitHub Trending 上的 MiniMind（介绍里写“两小时从 0 训出 64M 大模型”）以及本地编程代理仓库一起，说明“能在自己机器上跑”仍是很大的需求。HN 约 635 分。",
+      "en": "A public beginner’s guide explains how to run models locally with Inkling, Qwen and Unsloth, instead of sending data to the cloud. Together with MiniMind on GitHub Trending (its pitch is training a 64M model from scratch in two hours) and other local coding-agent repos, it shows that “run it on your own machine” is still in strong demand. About 635 points on HN.",
+      "zh-Hant": "一篇面向新手的公開指南，講如何用 Inkling、Qwen 和 Unsloth 在本地把模型跑起來，而不是把資料送到雲端。它和當天 GitHub Trending 上的 MiniMind（介紹裡寫“兩小時從 0 訓出 64M 大模型”）以及本地程式設計代理倉庫一起，說明“能在自己機器上跑”仍是很大的需求。HN 約 635 分。"
      },
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "src": "gpupartner.com",
-     "date": "2026-11-22",
      "extra": [
       "https://news.ycombinator.com/item?id=50603845"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
      ]
     },
     {
-     "id": "hn-50595554",
      "title": {
-      "zh-Hans": "关于推论提供者的数据处理事件",
-      "zh-Hant": "關於推論提供者的資料處理事件",
-      "en": "Data Processing Incidents on Inference Providers",
-      "ja": "インフェレンスプロバイダーのデータ処理のインシデント",
-      "ko": "Inference Providers의 데이터 처리 Incidents",
-      "ms": "Insiden Pemrosesan Data Pemrosesan Data pada Penyedia Inferensi",
-      "vi": "Các tiến trình xử lý dữ liệu về các nhà cung cấp suy luận",
-      "fr": "Incidents liés au traitement des données sur les fournisseurs d'inférence",
-      "es": "Incidentes de procesamiento de datos sobre proveedores de referencia",
-      "de": "Datenverarbeitungsvorfälle bei Inferenzanbietern"
+      "zh-Hans": "智谱发布 GLM-5.4：面向通用编程，并称是其首个 Loop Transformer",
+      "en": "Zhipu releases GLM-5.4, aimed at generalized coding, and calls it their first Loop Transformer",
+      "zh-Hant": "智譜釋出 GLM-5.4：面向通用程式設計，並稱是其首個 Loop Transformer"
      },
      "summary": {
-      "en": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers.",
-      "zh-Hans": "OpenRouter 卸载了三个供应商,取消了零数据保留资格的125个端点,并在对推论提供者进行金丝雀符号研究后通知了可能受影响的客户.",
-      "ja": "OpenRouter は 3 つのプロバイダーをオフ ボードし、ゼロ データ保持の適格性から 125 エンドポイントを削除し、インフェレンス プロバイダーに関するカナリア トークンの研究後の潜在的な顧客を通知しました。",
-      "ko": "OpenRouter off-boarded 3 제공 업체, Zero Data Retention eligibility에서 125 엔드 포인트를 제거하고 방해 제공자에 대한 운하 토큰 연구 후 잠재적으로 영향을 미쳤습니다.",
-      "ms": "OpenRouter off-boarded tiga penyedia, menghapus 125 titik akhir dari Zero Data Retention eligibility, dan diberitahu berpotensi mempengaruhi pelanggan setelah penelitian token kenari pada penyedia inferensi.",
-      "vi": "OpenRouter ngoài bảng điều khiển ba nhà cung cấp, loại bỏ 125 điểm kết thúc từ Zero Data Convationity, và thông báo có khả năng ảnh hưởng đến khách hàng sau khi nghiên cứu thẻ chim yến về các nhà cung cấp suy luận.",
-      "fr": "OpenRouter a débordé trois fournisseurs, a retiré 125 paramètres de l'admissibilité à la rétention de données zéro, et a avisé les clients potentiellement touchés après la recherche de jeton canari sur les fournisseurs d'inférence.",
-      "es": "OpenRouter desbordó a tres proveedores, eliminó 125 puntos finales de Zero Data Retention elegibilidad, y notificó a clientes potencialmente afectados después de la investigación de señalización canaria sobre proveedores de referencia.",
-      "de": "OpenRouter hat drei Anbieter ausgeschaltet, 125 Endpunkte aus der Zero Data Retention-Berechtigung entfernt und potenziell betroffene Kunden nach einer Kanaren-Token-Forschung zu Inferenzanbietern benachrichtigt.",
-      "zh-Hant": "OpenRouter 解除安裝了三個供應商,取消了零資料保留資格的125個端點,並在對推論提供者進行金絲雀符號研究後通知了可能受影響的客戶."
+      "zh-Hans": "z.ai 在博客里发布 GLM-5.4，副标题是“Toward Generalized Coding with Our First Loop Transformer”。官方页面可打开，具体基准和价格以这篇博客为准，这里不转述未经核对的分数。HN 约 553 分。",
+      "en": "Z.ai’s blog introduces GLM-5.4 under the heading “Toward Generalized Coding with Our First Loop Transformer”. The official page is live; benchmarks and pricing should be read there, and are not restated here without a checked source. About 553 points on HN.",
+      "zh-Hant": "z.ai 在部落格裡釋出 GLM-5.4，副標題是“Toward Generalized Coding with Our First Loop Transformer”。官方頁面可開啟，具體基準和價格以這篇部落格為準，這裡不轉述未經核對的分數。HN 約 553 分。"
      },
-     "fact": {
-      "zh-Hans": "Hacker News 280 分 · 97 条评论",
-      "zh-Hant": "Hacker News 280 分 · 97 則留言",
-      "en": "280 points · 97 comments on Hacker News",
-      "ja": "Hacker News 280 ポイント · コメント 97 件",
-      "ko": "Hacker News 280점 · 댓글 97개",
-      "ms": "280 mata · 97 komen di Hacker News",
-      "vi": "280 điểm · 97 bình luận trên Hacker News",
-      "fr": "280 points · 97 commentaires sur Hacker News",
-      "es": "280 puntos · 97 comentarios en Hacker News",
-      "de": "280 Punkte · 97 Kommentare auf Hacker News"
+     "url": "https://z.ai/blog/glm-5.4",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50609685"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "OpenRouter：推理供应商出现数据处理事件，已下架三家并撤销 125 个零数据保留端点",
+      "en": "OpenRouter: data-processing incidents at inference providers; three off-boarded and 125 zero-data-retention endpoints removed",
+      "zh-Hant": "OpenRouter：推理供應商出現資料處理事件，已下架三家並撤銷 125 個零資料保留端點"
+     },
+     "summary": {
+      "zh-Hans": "OpenRouter 11 月 22 日写道，安全研究者发现部分推理供应商数据被泄露，或数据政策未被遵守；检测未显示 OpenRouter 自身被入侵。他们已下架三家供应商，把 125 个端点移出零数据保留（ZDR）资格（包括被点名的，以及作为预防再撤的），并通知了可能受影响的客户。正在进行的工作包括把研究者的检测方法做成持续检查，以及在恢复 ZDR 前要求验证。页面还链到 Atlas Cloud、Novita、Phala、Together 的公告。HN 约 290 分。",
+      "en": "On 22 November OpenRouter said researchers had found that some inference providers had data compromised or were not upholding their data policies; the testing did not show a breach of OpenRouter itself. It off-boarded three providers, removed 125 endpoints from zero-data-retention (ZDR) eligibility (including flagged ones and others taken down as a precaution), and notified potentially affected customers. Work underway includes turning the researchers’ checks into ongoing tests and requiring verification before restoring ZDR. The post links notices from Atlas Cloud, Novita, Phala and Together. About 290 points on HN.",
+      "zh-Hant": "OpenRouter 11 月 22 日寫道，安全研究者發現部分推理供應商資料被洩露，或資料政策未被遵守；檢測未顯示 OpenRouter 自身被入侵。他們已下架三家供應商，把 125 個端點移出零資料保留（ZDR）資格（包括被點名的，以及作為預防再撤的），並通知了可能受影響的客戶。正在進行的工作包括把研究者的檢測方法做成持續檢查，以及在恢復 ZDR 前要求驗證。頁面還鏈到 Atlas Cloud、Novita、Phala、Together 的公告。HN 約 290 分。"
      },
      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "src": "openrouter.ai",
-     "date": "2026-11-22",
      "extra": [
       "https://news.ycombinator.com/item?id=50595554"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
      ]
     },
     {
-     "id": "hn-50604988",
      "title": {
-      "zh-Hans": "GL.iNet 2026-11-20号安全通知",
-      "zh-Hant": "GL.iNet 2026-11-20號安全通知",
-      "en": "GL.iNet Security Notice 2026-11-20",
-      "ja": "GL.iNetセキュリティ通知 2026-11-20",
-      "ko": "GL.iNet 보안 통지 2026-11-20",
-      "ms": "Notis Keamanan GL.iNet No. 2026-11-20",
-      "vi": "Thông báo an ninh GL.iNet 2026-11-20",
-      "fr": "Avis de sécurité GL.iNet 2026-11-20",
-      "es": "GL.iNet Security Notice 2026-11-20",
-      "de": "Sicherheitshinweis GL.iNet 2026-11-20"
+      "zh-Hans": "GL.iNet：云端远程管理漏洞被用来给部分路由器和 KVM 安装恶意软件",
+      "en": "GL.iNet: a cloud remote-management bug was used to install malware on some routers and KVMs",
+      "zh-Hant": "GL.iNet：雲端遠端管理漏洞被用來給部分路由器和 KVM 安裝惡意軟體"
      },
      "summary": {
-      "en": "On November 20, 2026, GL.iNet identified a vulnerability in its cloud remote management services. An unauthorized party exploited the vulnerability to access and install malicious software on some…",
-      "zh-Hans": "2026年11月20日,GL开机. iNet指出其云远程管理服务的脆弱性。 一个未经授权的政党利用了获取和安装恶意软件的弱点......",
-      "ja": "2018年11月20日 iNetはクラウドリモート管理サービスの脆弱性を特定しました。 不正なパーティーは、悪意のあるソフトウェアにアクセスしてインストールする脆弱性を悪用しました。",
-      "ko": "에 11월 20, 2026, GL. iNet은 클라우드 원격 관리 서비스에 취약점을 확인했습니다. 악의적 인 파티는 취약점을 악의적 인 소프트웨어에 액세스하고 설치합니다.",
-      "ms": "Pada 20 November 2026, GL. mengidentifikasi kerentanan dalam layanan manajemen jarak jauh awan. Sebuah partai yang tidak diizinkan dieksploitasi kerentanan untuk mengakses dan memasang perangkat lunak jahat pada beberapa...",
-      "vi": "Ngày 20 tháng 11, 2026, GL. Net đã xác định được sự dễ bị tổn thương trong dịch vụ quản lý từ xa. Một bên trái phép đã lợi dụng sự dễ bị tổn thương để truy cập và cài phần mềm độc hại vào một số...",
-      "fr": "Le 20 novembre 2026, GL. iNet a identifié une vulnérabilité dans ses services de gestion à distance en nuage. Une partie non autorisée a exploité la vulnérabilité à l'accès et installer des logiciels malveillants sur certains...",
-      "es": "El 20 de noviembre de 2026, GL. iNet identificó una vulnerabilidad en sus servicios de gestión remota en la nube. Una parte no autorizada explotó la vulnerabilidad a acceder e instalar software malicioso en algunos...",
-      "de": "Am 20. November 2026, GL. iNet identifizierte eine Schwachstelle in seinen Cloud-Remote-Management-Diensten. Eine nicht autorisierte Partei nutzte die Sicherheitsanfälligkeit aus, um auf einige ...",
-      "zh-Hant": "2026年11月20日,GL開機. iNet指出其雲遠端管理服務的脆弱性。 一個未經授權的政黨利用了獲取和安裝惡意軟體的弱點......"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 110 分 · 47 条评论",
-      "zh-Hant": "Hacker News 110 分 · 47 則留言",
-      "en": "110 points · 47 comments on Hacker News",
-      "ja": "Hacker News 110 ポイント · コメント 47 件",
-      "ko": "Hacker News 110점 · 댓글 47개",
-      "ms": "110 mata · 47 komen di Hacker News",
-      "vi": "110 điểm · 47 bình luận trên Hacker News",
-      "fr": "110 points · 47 commentaires sur Hacker News",
-      "es": "110 puntos · 47 comentarios en Hacker News",
-      "de": "110 Punkte · 47 Kommentare auf Hacker News"
+      "zh-Hans": "GL.iNet 11 月 20 日发布、11 月 23 日更新的安全公告说，有人利用云端远程管理服务的漏洞，在部分路由器和 KVM 上安装了恶意软件；这条攻击路径已被堵住，但云端修复不能清掉已经感染的设备，需要安装对应型号的安全固件（公告列出了多个型号的最低版本）。用户可在进程里查找 `crond -i /tmp/.log` 作为感染迹象。公司称仍在调查范围，包括接入受影响 KVM 的电脑是否被波及，并会给确认受影响的云账号发邮件。HN 约 239 分。",
+      "en": "A GL.iNet advisory dated 20 November, updated 23 November, says an attacker exploited a vulnerability in its cloud remote-management services to install malware on some routers and KVM devices. The attack path has been blocked, but the cloud fix does not remove malware already on a device; owners should install the security firmware for their exact model (minimum versions are listed). A process showing `crond -i /tmp/.log` is an infection indicator. The company says it is still determining the scope, including whether computers attached to affected KVMs were hit, and will email cloud accounts it identifies as affected. About 239 points on HN.",
+      "zh-Hant": "GL.iNet 11 月 20 日釋出、11 月 23 日更新的安全公告說，有人利用雲端遠端管理服務的漏洞，在部分路由器和 KVM 上安裝了惡意軟體；這條攻擊路徑已被堵住，但云端修復不能清掉已經感染的裝置，需要安裝對應型號的安全韌體（公告列出了多個型號的最低版本）。使用者可在程序裡查詢 `crond -i /tmp/.log` 作為感染跡象。公司稱仍在調查範圍，包括接入受影響 KVM 的電腦是否被波及，並會給確認受影響的雲賬號發郵件。HN 約 239 分。"
      },
      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "src": "gl-inet.com",
-     "date": "2026-11-22",
      "extra": [
       "https://news.ycombinator.com/item?id=50604988"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
      ]
     },
     {
-     "id": "hn-50596664",
      "title": {
-      "zh-Hans": "里曼证明手册",
-      "zh-Hant": "裡曼證明手冊",
-      "en": "The Riemann Proof Handbook",
-      "ja": "リエマン・プルーフ・ハンドブック",
-      "ko": "Riemann 증거 핸드북",
-      "ms": "Buku Panduan Proof Riemann",
-      "vi": "Sổ tay kiểm chứng Riymann",
-      "fr": "Le manuel de preuve de Riemann",
-      "es": "The Riemann Proof Handbook",
-      "de": "Das Riemann Proof Handbuch"
+      "zh-Hans": "XNU Linux：在 Linux 内核上跑完整的 OS X 图形用户态",
+      "en": "XNU Linux: a full OS X graphical userspace on a Linux kernel",
+      "zh-Hant": "XNU Linux：在 Linux 核心上跑完整的 OS X 圖形使用者態"
      },
      "summary": {
-      "en": "The Riemann Handbook: the proof of the Riemann Hypothesis in tamnd/riemann-lean, written as mathematics, as PDF and EPUB",
-      "zh-Hans": "里曼手册:里曼假说在tamnd/riemann-lean,写作数学,PDF和EPUB的证明",
-      "ja": "リエマン・ハンドブック:PDFとEPUBの数学として書かれたタンド/リーマン・リアンのリエマン・ヒポシスの証明",
-      "ko": "Riemann Handbook: PDF 및 EPUB로 수학으로 작성된 tamnd/riemann-lean의 Riemann Hypothesis의 증거",
-      "ms": "Buku panduan Riemann: bukti hipotesis Riemann dalam tamnd/riemann-lean, ditulis sebagai matematika, sebagai PDF dan EPUB",
-      "vi": "Sách hướng dẫn của Riemann: bằng chứng của thuyết Hy Lạp Riemann ở Tamnd/rimann, được viết như toán học, PDF và EPUB",
-      "fr": "Le manuel de Riemann : la preuve de l'hypothèse de Riemann en tamnd/riemann-lean, écrite en mathématiques, en PDF et EPUB",
-      "es": "The Riemann Handbook: the proof of the Riemann Hypothesis in tamnd/riemann-lean, written as mathematics, as PDF and EPUB",
-      "de": "Das Riemann-Handbuch: der Beweis der Riemann-Hypothese in tamnd/riemann-lean, geschrieben als Mathematik, als PDF und EPUB",
-      "zh-Hant": "裡曼手冊:裡曼假說在tamnd/riemann-lean,寫作數學,PDF和EPUB的證明"
+      "zh-Hans": "GitHub 仓库 AFK-surf/xnulinux 演示把完整的 OS X 图形用户态跑在 Linux 内核上，HN 标题是 “XNU Linux: Full OS X GUI Userspace on Linux”。这是系统兼容和桌面环境方面的硬核实验，不是面向普通用户的发行版承诺。HN 约 471 分。",
+      "en": "The GitHub repository AFK-surf/xnulinux shows a full OS X graphical userspace running on a Linux kernel, under the HN title “XNU Linux: Full OS X GUI Userspace on Linux”. It is a hard-core experiment in compatibility and desktop stacks, not a promise of a consumer distro. About 471 points on HN.",
+      "zh-Hant": "GitHub 倉庫 AFK-surf/xnulinux 演示把完整的 OS X 圖形使用者態跑在 Linux 核心上，HN 標題是 “XNU Linux: Full OS X GUI Userspace on Linux”。這是系統相容和桌面環境方面的硬核實驗，不是面向普通使用者的發行版承諾。HN 約 471 分。"
      },
-     "fact": {
-      "zh-Hans": "Hacker News 86 分 · 58 条评论",
-      "zh-Hant": "Hacker News 86 分 · 58 則留言",
-      "en": "86 points · 58 comments on Hacker News",
-      "ja": "Hacker News 86 ポイント · コメント 58 件",
-      "ko": "Hacker News 86점 · 댓글 58개",
-      "ms": "86 mata · 58 komen di Hacker News",
-      "vi": "86 điểm · 58 bình luận trên Hacker News",
-      "fr": "86 points · 58 commentaires sur Hacker News",
-      "es": "86 puntos · 58 comentarios en Hacker News",
-      "de": "86 Punkte · 58 Kommentare auf Hacker News"
-     },
-     "url": "https://github.com/tamnd/riemann-handbook",
-     "src": "github.com",
-     "date": "2026-11-22",
+     "url": "https://github.com/AFK-surf/xnulinux",
      "extra": [
-      "https://news.ycombinator.com/item?id=50596664"
-     ],
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
+      "https://news.ycombinator.com/item?id=50607261"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Show HN：一款让你扮演大模型子代理的游戏",
+      "en": "Show HN: a game in which you play as an LLM’s subagent",
+      "zh-Hant": "Show HN：一款讓你扮演大模型子代理的遊戲"
+     },
+     "summary": {
+      "zh-Hans": "仓库 gulivan/worker755 是一个 Show HN 项目：玩家在游戏里给大模型当子代理。它把最近很热的“主代理拆子代理、再调度任务”做成了可玩的体验，适合做 Agent 产品时观察任务分派和沟通成本。HN 约 347 分。",
+      "en": "The repository gulivan/worker755 is a Show HN project: you play as a subagent working for a large language model. It turns the current pattern of a main agent splitting work among subagents into a playable experience, useful for watching how task hand-offs and communication actually feel. About 347 points on HN.",
+      "zh-Hant": "倉庫 gulivan/worker755 是一個 Show HN 專案：玩家在遊戲裡給大模型當子代理。它把最近很熱的“主代理拆子代理、再排程任務”做成了可玩的體驗，適合做 Agent 產品時觀察任務分派和溝通成本。HN 約 347 分。"
+     },
+     "url": "https://github.com/gulivan/worker755",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50599762"
      ]
     }
    ],
-   "more": [
-    {
-     "id": "hn-50597743",
-     "title": {
-      "zh-Hans": "哈舍在马累? 评估冲突中两性对等道德结构的法学硕士学位",
-      "zh-Hant": "哈舍在馬累? 評估衝突中兩性對等道德結構的法學碩士學位",
-      "en": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-      "ja": "男性にハーザー? 紛争におけるジェンダー・アシムメトリック・モーラル・フラミングに関するLMSの評価",
-      "ko": "남성에 해저? Conflicts에서 Gender-Asymmetric Moral Framing에 LLM을 증발",
-      "ms": "Apa Harsher on Male? Mengosongkan LLM pada Framing Moral Gender-Asimetris dalam Konflik",
-      "vi": "Lợi dụng nam giới? Đánh giá LTM về sự mâu thuẫn đạo đức đối xứng trong các cuộc xung đột",
-      "fr": "Harsher sur Male ? Évaluation des LLM sur la structure morale asymétrique entre les sexes dans les conflits",
-      "es": "¿Harsher en Hombre? Evaluar las LM en el marco moral simétrico de género en los conflictos",
-      "de": "Harsher auf Male? Bewertung von LLMs zu gender-asymmetrischem Moral Framing in Konflikten"
-     },
-     "summary": {
-      "en": "Existing studies on gender bias in LLMs have largely focused on stereotypes, occupational associations, or explicit harmful outputs.",
-      "zh-Hans": "关于法学硕士课程中性别偏见的现有研究主要侧重于陈规定型观念、职业协会或明显的有害产出。",
-      "ja": "LLMの性別バイアスに関する既存の研究は、主にステレオタイプ、職業協会、または有害な出力に焦点を当てています。",
-      "ko": "LLMs의 성별 bias에 대한 기존 연구는 크게 스테레오 타입, 직업 협회에 초점을 맞추고, 또는 유해한 출력을 명시.",
-      "ms": "Penelitian yang ada tentang bias gender di LLM sebagian besar berfokus pada stereotip, asosiasi pendudukan, atau output berbahaya yang eksplisit.",
-      "vi": "Các cuộc nghiên cứu tồn tại về khuynh hướng giới tính trong các số những người có khuynh hướng này phần lớn tập trung vào những khuôn mẫu, bạn bè trong nghề nghiệp, hoặc những sản phẩm gây hại rõ rệt.",
-      "fr": "Les études existantes sur les préjugés sexistes dans les LLM ont surtout porté sur les stéréotypes, les associations professionnelles ou les résultats négatifs explicites.",
-      "es": "Los estudios existentes sobre el prejuicio de género en las LLM se han centrado en gran medida en estereotipos, asociaciones ocupacionales o productos nocivos explícitos.",
-      "de": "Bestehende Studien zu geschlechtsspezifischen Vorurteilen in LLMs haben sich weitgehend auf Stereotypen, Berufsverbände oder explizit schädliche Ergebnisse konzentriert.",
-      "zh-Hant": "關於法學碩士課程中性別偏見的現有研究主要側重於陳規定型觀念、職業協會或明顯的有害產出。"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 92 分 · 78 条评论",
-      "zh-Hant": "Hacker News 92 分 · 78 則留言",
-      "en": "92 points · 78 comments on Hacker News",
-      "ja": "Hacker News 92 ポイント · コメント 78 件",
-      "ko": "Hacker News 92점 · 댓글 78개",
-      "ms": "92 mata · 78 komen di Hacker News",
-      "vi": "92 điểm · 78 bình luận trên Hacker News",
-      "fr": "92 points · 78 commentaires sur Hacker News",
-      "es": "92 puntos · 78 comentarios en Hacker News",
-      "de": "92 Punkte · 78 Kommentare auf Hacker News"
-     },
-     "url": "https://arxiv.org/abs/2606.14068",
-     "src": "arxiv.org",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50593481",
-     "title": {
-      "zh-Hans": "Pandex – 官方欧洲AI代理法,优于MCP",
-      "zh-Hant": "Pandex – 官方歐洲AI代理法,優於MCP",
-      "en": "Pandex – Official European Law for AI Agents, over MCP",
-      "ja": "パンデックス – MCP を超える AI エージェントの公式ヨーロッパ法",
-      "ko": "Pandex – MCP에 AI Agents의 공식 유럽 법률",
-      "ms": "Pandex – Hukum Resmi Eropa untuk Agen AI, atas MCP",
-      "vi": "Pandex – Luật Châu Âu chính thức cho các đặc vụ AI, hơn MCP",
-      "fr": "Pandex – Droit européen officiel pour les agents de l'IA, sur MCP",
-      "es": "Pandex – Ley Oficial Europea para Agentes AI, sobre MCP",
-      "de": "Pandex – Offizielles europäisches Gesetz für KI-Agenten, über MCP"
-     },
-     "summary": {
-      "en": "Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search…",
-      "zh-Hans": "欧盟,七个欧洲国家和欧洲人权法院的立法和最高法庭裁决,来自出版这些裁决的机构,在一个API和MCP服务器上建立,用于搜索. .",
-      "ja": "EU、7つのヨーロッパ諸国および欧州人権裁判所の法律および最高裁判所の決定、それらを公開する機関から、検索のために構築された1つのAPIおよびMCPサーバーで...",
-      "ko": "유럽 연합 (EU), 7 유럽 국가 및 유럽 인권위원회 (European Court of Human Rights)의 법률 및 최고 수준의 결정은 검색에 내장 된 하나의 API 및 MCP 서버에서 출판 한 기관에서...",
-      "ms": "Legislasi dan keputusan tertinggi UE, tujuh negara Eropa dan Mahkamah Eropa Hak Asasi Manusia, dari lembaga-lembaga yang menerbitkannya, dalam satu API dan MCP server dibangun untuk pencarian...",
-      "vi": "Lập pháp và quyết định cao nhất của EU, 7 quốc gia châu Âu và Tòa án Nhân quyền Châu Âu, từ các tổ chức xuất bản chúng, trong một máy chủ CNP và mục tiêu tìm kiếm...",
-      "fr": "Législation et décisions des plus hautes juridictions de l'UE, sept pays européens et la Cour européenne des Droits de l'Homme, des institutions qui les publient, dans un serveur API et MCP construit pour...",
-      "es": "Legislación y decisiones más altas de la UE, siete países europeos y el Tribunal Europeo de Derechos Humanos, de las instituciones que las publican, en un servidor API y MCP construido para buscar...",
-      "de": "Gesetzgebung und höchstrichterliche Entscheidungen der EU, sieben europäischer Länder und des Europäischen Gerichtshofs für Menschenrechte, von den Institutionen, die sie veröffentlichen, in einem API- und MCP-Server, der für die Suche...",
-      "zh-Hant": "歐盟,七個歐洲國家和歐洲人權法院的立法和最高法庭裁決,來自出版這些裁決的機構,在一個API和MCP伺服器上建立,用於搜尋. ."
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 139 分 · 33 条评论",
-      "zh-Hant": "Hacker News 139 分 · 33 則留言",
-      "en": "139 points · 33 comments on Hacker News",
-      "ja": "Hacker News 139 ポイント · コメント 33 件",
-      "ko": "Hacker News 139점 · 댓글 33개",
-      "ms": "139 mata · 33 komen di Hacker News",
-      "vi": "139 điểm · 33 bình luận trên Hacker News",
-      "fr": "139 points · 33 commentaires sur Hacker News",
-      "es": "139 puntos · 33 comentarios en Hacker News",
-      "de": "139 Punkte · 33 Kommentare auf Hacker News"
-     },
-     "url": "https://www.pandex.io",
-     "src": "pandex.io",
-     "date": "2026-11-21",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50592097",
-     "title": {
-      "zh-Hans": "上传2壳( CVE-2026-125396)",
-      "zh-Hant": "上傳2殼( CVE-2026-125396)",
-      "en": "Upload2Shell (CVE-2026-125396)",
-      "ja": "アップロード2シェル(CVE-2026-125396)",
-      "ko": "업로드2판매 (CVE-2026-125396)",
-      "ms": "Upload2Shell (CVE-2026-125396)",
-      "vi": "Tải lên2Shell",
-      "fr": "Télécharger2Shell (CVE-2026-125396)",
-      "es": "Upload2Shell (CVE-2026-125396)",
-      "de": "Upload2Shell (CVE-2026-125396)"
-     },
-     "summary": {
-      "en": "A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands as the rendering…",
-      "zh-Hans": "在Ghostscript's Type 1字体加载器中免费使用后让一个精心设计的文档跨Ghostscript's -dSAFER 沙盒,改变本地路径控制,并执行攻击者选择的命令作为渲染...",
-      "ja": "Ghostscript の Type 1 フォントローダで使用後フリーで、Ghostscript の -dSAFER サンドボックスを渡る、ネイティブパスコントロールを変更し、レンダリングとして攻撃者-chosen コマンドを実行できます。",
-      "ko": "Ghostscript의 Type 1 폰트 로더의 사용 후 무료는 기술 문서 크로스 Ghostscript의 -dSAFER 샌드박스, 네이티브 경로 컨트롤을 변경하고, 렌더링으로 공격자 중심 명령을 실행 ...",
-      "ms": "A use-after-free dalam loader fon Tipe 1 Ghostscript memungkinkan dokumen buatan melintasi kotak pasir -dSAFER milik Ghostscript, mengubah kontrol jalur asli, dan mengeksekusi perintah yang dipilih penyerang sebagai render...",
-      "vi": "Một bộ tải phông chữ được sử dụng tự do theo loại 1 của Ghostscript cho phép một tài liệu được biên soạn qua hộp cát -dSAFER của Ghostscript, thay đổi đường dẫn bản địa, và thực hiện lệnh tấn công bằng cách dịch...",
-      "fr": "Un chargeur de police de type 1 use-after-free permet à un document conçu de traverser Ghostscripts -dSAFER sandbox, de modifier les commandes de chemin natif et d'exécuter des commandes attaquant-choisi comme rendu...",
-      "es": "Un cargador de fuentes tipo 1 sin uso en Ghostscript permite un documento elaborado cruzando la caja de arena Ghostscript -dSAFER, alterar los controles de ruta nativa, y ejecutar comandos seleccionados por el atacante como el render...",
-      "de": "Ein Use-After-Free in Ghostscripts Type 1 Font Loader lässt ein erstelltes Dokument die Ghostscript-dSAFER-Sandbox kreuzen, native Pfadsteuerungen ändern und von Angreifern ausgewählte Befehle als Rendering-Befehle ausführen.",
-      "zh-Hant": "在Ghostscript's Type 1字型載入器中免費使用後讓一個精心設計的文件跨Ghostscript's -dSAFER 沙盒,改變本地路徑控制,並執行攻擊者選擇的命令作為渲染..."
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 151 分 · 77 条评论",
-      "zh-Hant": "Hacker News 151 分 · 77 則留言",
-      "en": "151 points · 77 comments on Hacker News",
-      "ja": "Hacker News 151 ポイント · コメント 77 件",
-      "ko": "Hacker News 151점 · 댓글 77개",
-      "ms": "151 mata · 77 komen di Hacker News",
-      "vi": "151 điểm · 77 bình luận trên Hacker News",
-      "fr": "151 points · 77 commentaires sur Hacker News",
-      "es": "151 puntos · 77 comentarios en Hacker News",
-      "de": "151 Punkte · 77 Kommentare auf Hacker News"
-     },
-     "url": "https://pwn.ai/upload2shell",
-     "src": "pwn.ai",
-     "date": "2026-11-21",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50596133",
-     "title": {
-      "zh-Hans": "丰田、尼桑和本田将零件标准化以降低成本",
-      "zh-Hant": "豐田、尼桑和本田將零件標準化以降低成本",
-      "en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "ja": "トヨタ、日産およびホンダはコストを下げるために部品を標準化します",
-      "ko": "Toyota, Nissan 및 Honda는 비용을 낮추기 위해 부품을 표준화합니다.",
-      "ms": "Toyota, Nissan, dan Honda untuk menstandarkan suku cadang untuk menurunkan biaya",
-      "vi": "Các bộ phận được chuẩn hóa để giảm chi phí",
-      "fr": "Toyota, Nissan et Honda pour standardiser les pièces pour réduire les coûts",
-      "es": "Toyota, Nissan y Honda para estandarizar las piezas a menores costos",
-      "de": "Toyota, Nissan und Honda standardisieren Teile, um Kosten zu senken"
-     },
-     "summary": {
-      "en": "Japan’s automakers will work together to lower production costs as they band together to compete against China’s growing automotive sector.",
-      "zh-Hans": "日本的汽车制造商将共同努力降低生产成本,因为他们联合起来与中国不断增长的汽车部门竞争。",
-      "ja": "日本の自動車メーカーは、中国で成長する自動車産業と競争するために一緒にバンドとして、生産コストを削減するために一緒に働きます。",
-      "ko": "일본 자동차 제조업체는 중국 자동차 부문에서 경쟁하기 위해 함께 생산 비용을 낮추기 위해 함께 노력합니다.",
-      "ms": "Pembuat otomotif Jepang akan bekerja sama untuk menurunkan biaya produksi saat mereka bergerombol bersama untuk bersaing melawan sektor otomotif Tiongkok yang berkembang.",
-      "vi": "Những người chế tạo ô - tô tại Nhật Bản sẽ cùng nhau làm việc với nhau để giảm chi phí sản xuất khi họ kết hợp với nhau để cạnh tranh với khu vực gia tăng xe hơi của Trung Quốc.",
-      "fr": "Les constructeurs automobiles japonais travailleront ensemble pour réduire les coûts de production alors qu'ils se regroupent pour rivaliser avec le secteur automobile en croissance en Chine.",
-      "es": "Los fabricantes de automóviles de Japón trabajarán juntos para reducir los costos de producción mientras se unen para competir contra el creciente sector automotriz de China.",
-      "de": "Japans Automobilhersteller werden zusammenarbeiten, um die Produktionskosten zu senken, während sie sich zusammenschließen, um gegen Chinas wachsenden Automobilsektor zu konkurrieren.",
-      "zh-Hant": "日本的汽車製造商將共同努力降低生產成本,因為他們聯合起來與中國不斷增長的汽車部門競爭。"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 1203 分 · 682 条评论",
-      "zh-Hant": "Hacker News 1203 分 · 682 則留言",
-      "en": "1203 points · 682 comments on Hacker News",
-      "ja": "Hacker News 1203 ポイント · コメント 682 件",
-      "ko": "Hacker News 1203점 · 댓글 682개",
-      "ms": "1203 mata · 682 komen di Hacker News",
-      "vi": "1203 điểm · 682 bình luận trên Hacker News",
-      "fr": "1203 points · 682 commentaires sur Hacker News",
-      "es": "1203 puntos · 682 comentarios en Hacker News",
-      "de": "1203 Punkte · 682 Kommentare auf Hacker News"
-     },
-     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "src": "caranddriver.com",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50602947",
-     "title": {
-      "zh-Hans": "硅谷发生了什么?",
-      "zh-Hant": "矽谷發生了什麼?",
-      "en": "What Happened to Silicon Valley?",
-      "ja": "シリコンバレーに何が起こったのか?",
-      "ko": "실리콘 밸리에 Happened?",
-      "ms": "Apa yang Terjadi dengan Silicon Valley?",
-      "vi": "Điều gì đã xảy ra cho thung lũng Silicon?",
-      "fr": "Qu'est-il arrivé à Silicon Valley?",
-      "es": "¿Qué pasó con Silicon Valley?",
-      "de": "Was ist mit Silicon Valley passiert?"
-     },
-     "summary": {
-      "en": "This lecture traces Silicon Valley’s move from customer-centered innovation to extraction driven by shareholder capitalism, monopoly ambitions, and hype.",
-      "zh-Hans": "这一演讲追溯了硅谷从以客户为中心的创新转向由股东资本主义、垄断野心和胡言乱语驱动的提取。",
-      "ja": "シリコンバレーは、顧客中心のイノベーションから株主資本主義、独占禁止、ハイプが推進する抽出まで、シリコンバレーの歩みを追跡しています。",
-      "ko": "이 강의는 실리콘 밸리의 고객 중심의 혁신을 통해 주주 자본주의, monopoly ambitions 및 hype에 의해 구동 추출합니다.",
-      "ms": "Kuliah berkuliah ini menelusuri langkah Silicon Valley dari inovasi pelanggan yang berpusat pada ekstraksi yang didorong oleh kapitalisme pemegang saham, ambisi monopoli, dan hipe.",
-      "vi": "Bài giảng này ghi lại sự chuyển động của Thung lũng Silicon từ sự đổi mới tầm cỡ khách hàng đến sự khai thác của chủ nghĩa cổ đông, tham vọng độc quyền và sự thôi miên.",
-      "fr": "Cette conférence retrace le passage de la Silicon Valley de l'innovation centrée sur le client à l'extraction guidée par le capitalisme actionnaire, les ambitions monopolistiques et l'hype.",
-      "es": "Esta conferencia traza el movimiento de Silicon Valley de la innovación centrada en el cliente a la extracción impulsada por el capitalismo de accionista, las ambiciones monopolistas y la hipócrita.",
-      "de": "Dieser Vortrag verfolgt den Wandel des Silicon Valley von kundenzentrierter Innovation zu Extraktion, die vom Aktionärskapitalismus, Monopolambitionen und Hype angetrieben wird.",
-      "zh-Hant": "這一演講追溯了矽谷從以客戶為中心的創新轉向由股東資本主義、壟斷野心和胡言亂語驅動的提取。"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 468 分 · 270 条评论",
-      "zh-Hant": "Hacker News 468 分 · 270 則留言",
-      "en": "468 points · 270 comments on Hacker News",
-      "ja": "Hacker News 468 ポイント · コメント 270 件",
-      "ko": "Hacker News 468점 · 댓글 270개",
-      "ms": "468 mata · 270 komen di Hacker News",
-      "vi": "468 điểm · 270 bình luận trên Hacker News",
-      "fr": "468 points · 270 commentaires sur Hacker News",
-      "es": "468 puntos · 270 comentarios en Hacker News",
-      "de": "468 Punkte · 270 Kommentare auf Hacker News"
-     },
-     "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "src": "oreilly.com",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50602843",
-     "title": {
-      "zh-Hans": "GTA6的鸟类: 副城和列奥尼达野生动物野外指南",
-      "zh-Hant": "GTA6的鳥類: 副城和列奧尼達野生動物野外指南",
-      "en": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "ja": "GTA 6の鳥:副市とレオニダの野生動物へのフィールドガイド",
-      "ko": "GTA 6의 새 : Vice City 및 Leonida의 Wildlife에 대한 현장 가이드",
-      "ms": "A Field Guide to Vice City and Leonida's Wildlife",
-      "vi": "The Birds of GTA 6: A Field Guide to Vice City and Leonida'slife",
-      "fr": "Les oiseaux de la GTA 6 : Guide de campagne pour la faune de la vice-ville et de Leonida",
-      "es": "Las aves del GTA 6: Una guía de campo para la vida silvestre de Vice City y Leonida",
-      "de": "Die Vögel von GTA 6: Ein Leitfaden für Vice City und Leonida's Wildlife"
-     },
-     "summary": {
-      "en": "From Roseate Spoonbills in the Grassrivers to gulls over Vice Beach, here's what it takes to find Leonida’s birds, how the spotting mechanics work, and what Rockstar’s artists got right.",
-      "zh-Hans": "从草原的Roseate Spoonbills到Vice Beach的海鸥, 寻找列奥尼达的鸟类,",
-      "ja": "バラード・スプーンビルズの草原から、バイス・ビーチを経由してグールまで、レオニダの鳥、ポッティング・メカニックスがどのように機能するか、そしてロックスターのアーティストが正しいものを見つけるために要するものです。",
-      "ko": "Grassrivers의 Roseate Spoonbills에서 Vice Beach에 gulls에 이르기까지, 여기에 Leonida의 새를 찾는 데 걸리는 것이 무엇인지, 스포팅 기계 작업, 그리고 Rockstar의 예술가가 바로 도착.",
-      "ms": "Dari Roseate Spoonbills di sungai-sungai untuk gulls di atas Vice Beach, inilah yang diperlukan untuk menemukan burung Leonida, bagaimana pekerjaan mekanika spotting, dan apa yang artis Rockstar dapatkan benar.",
-      "vi": "Từ những cây hoa hồng ở thảo nguyên tới những con rãnh trên biển Vice, đây là những gì cần thiết để tìm ra những con chim của Leonida, cách cơ học phát hiện ra, và những gì các nghệ sĩ của Rockstar đã làm đúng.",
-      "fr": "De Roseate Spoonbills dans les Grassrivers aux goélands au-dessus de Vice Beach, voici ce qu'il faut pour trouver les oiseaux de Leonida, comment fonctionne la mécanique de repérage, et ce que les artistes Rockstar's ont bien obtenu.",
-      "es": "De Roseate Spoonbills en los Grassrivers a Gulls sobre Vice Beach, esto es lo que se necesita para encontrar los pájaros de Leonida, cómo funcionan los mecánicos de observación, y lo que los artistas de Rockstar tienen razón.",
-      "de": "Von Roseate Spoonbills in den Grassrivers bis hin zu Möwen über Vice Beach, hier ist, was es braucht, um Leonidas Vögel zu finden, wie die Spotting-Mechanik funktioniert und was Rockstars Künstler richtig gemacht haben.",
-      "zh-Hant": "從草原的Roseate Spoonbills到Vice Beach的海鷗, 尋找列奧尼達的鳥類,"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 382 分 · 182 条评论",
-      "zh-Hant": "Hacker News 382 分 · 182 則留言",
-      "en": "382 points · 182 comments on Hacker News",
-      "ja": "Hacker News 382 ポイント · コメント 182 件",
-      "ko": "Hacker News 382점 · 댓글 182개",
-      "ms": "382 mata · 182 komen di Hacker News",
-      "vi": "382 điểm · 182 bình luận trên Hacker News",
-      "fr": "382 points · 182 commentaires sur Hacker News",
-      "es": "382 puntos · 182 comentarios en Hacker News",
-      "de": "382 Punkte · 182 Kommentare auf Hacker News"
-     },
-     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "src": "audubon.org",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50600511",
-     "title": {
-      "zh-Hans": "开放社会网络联盟",
-      "zh-Hant": "開放社會網路聯盟",
-      "en": "Open Social Web Alliance",
-      "ja": "ソーシャル・ウェブ・アライアンス",
-      "ko": "소셜 웹 얼라이언스",
-      "ms": "Aliansi Web Sosial Terbuka",
-      "vi": "Mở liên kết mạng xã hội",
-      "fr": "Alliance Web sociale ouverte",
-      "es": "Open Social Web Alliance",
-      "de": "Open Social Web Alliance"
-     },
-     "summary": {
-      "en": "How do we build social media that strengthens democratic discourse and is both resilient and appealing?",
-      "zh-Hans": "我们如何建设加强民主言论,既具有弹性又具有吸引力的社交媒体?",
-      "ja": "民主的な議論を強化し、弾力性と魅力を両立させるソーシャルメディアを構築する方法は?",
-      "ko": "우리는 민주적 토론을 강화하는 소셜 미디어를 구축하고 탄력과 호소 모두?",
-      "ms": "Bagaimana kita membangun media sosial yang memperkuat wacana demokrasi dan sama - sama tangguh dan menarik?",
-      "vi": "Làm thế nào chúng ta xây dựng phương tiện truyền thông xã hội củng cố bài diễn văn dân chủ vừa kiên cường vừa hấp dẫn?",
-      "fr": "Comment construire des médias sociaux qui renforcent le discours démocratique et qui sont à la fois résilients et attrayants?",
-      "es": "¿Cómo construimos las redes sociales que fortalecen el discurso democrático y es resistente y atractivo?",
-      "de": "Wie bauen wir soziale Medien auf, die den demokratischen Diskurs stärken und sowohl widerstandsfähig als auch ansprechend sind?",
-      "zh-Hant": "我們如何建設加強民主言論,既具有彈性又具有吸引力的社交媒體?"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 227 分 · 216 条评论",
-      "zh-Hant": "Hacker News 227 分 · 216 則留言",
-      "en": "227 points · 216 comments on Hacker News",
-      "ja": "Hacker News 227 ポイント · コメント 216 件",
-      "ko": "Hacker News 227점 · 댓글 216개",
-      "ms": "227 mata · 216 komen di Hacker News",
-      "vi": "227 điểm · 216 bình luận trên Hacker News",
-      "fr": "227 points · 216 commentaires sur Hacker News",
-      "es": "227 puntos · 216 comentarios en Hacker News",
-      "de": "227 Punkte · 216 Kommentare auf Hacker News"
-     },
-     "url": "https://osw-alliance.net/en/",
-     "src": "osw-alliance.net",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50603589",
-     "title": {
-      "zh-Hans": "一个小型的旧金山,有公共汽车,飞机和船只",
-      "zh-Hant": "一個小型的舊金山,有公共汽車,飛機和船隻",
-      "en": "A miniature San Francisco with live buses, planes and boats",
-      "ja": "ライブバス、飛行機、ボートを備えたミニチュアサンフランシスコ",
-      "ko": "라이브 버스, 비행기 및 보트가있는 소형 샌프란시스코",
-      "ms": "Sebuah miniatur San Francisco dengan bus, pesawat dan perahu",
-      "vi": "Một San Francisco thu nhỏ với xe buýt, máy bay và thuyền",
-      "fr": "Un San Francisco miniature avec bus, avions et bateaux en direct",
-      "es": "Una miniatura de San Francisco con autobuses en directo, aviones y barcos",
-      "de": "Eine Miniatur San Francisco mit Live-Bussen, Flugzeugen und Booten"
-     },
-     "summary": {
-      "en": "An illustrated, isometric map of San Francisco you can drag and zoom through, with live Muni, BART, ferries, planes, simulated traffic and the real sky.",
-      "zh-Hans": "旧金山的一幅有图画的同位素地图,你可以拖动和放大,有活的穆尼,BART,渡轮,飞机,模拟交通和真实的天空.",
-      "ja": "サンフランシスコの象徴的な地図で、ライブMuni、BART、フェリー、飛行機、シミュレートされたトラフィックと実際の空でドラッグ&ズームすることができます。",
-      "ko": "샌프란시스코의 해적, isometric 맵은 라이브 Muni, BART, 페리, 비행기, 시뮬레이션 트래픽 및 실제 하늘과 함께 드래그 앤 줌 할 수 있습니다.",
-      "ms": "Sebuah ilustrasi, peta isometrik San Francisco Anda dapat menyeret dan memperbesar, dengan Muni, BART, feri, pesawat, simulasi lalu lintas dan langit nyata.",
-      "vi": "Một bản đồ hiện đại của San Francisco, bạn có thể kéo và phóng to, với Muni, barT, bến phà, máy bay, mô phỏng giao thông và bầu trời thật.",
-      "fr": "Une carte isométrique illustrée de San Francisco vous pouvez glisser et zoomer à travers, avec Muni en direct, BART, ferries, avions, trafic simulé et le ciel réel.",
-      "es": "Un mapa ilustrado e isométrico de San Francisco se puede arrastrar y acercar, con Muni vivo, BART, ferries, aviones, tráfico simulado y el cielo real.",
-      "de": "Eine illustrierte, isometrische Karte von San Francisco, durch die Sie ziehen und zoomen können, mit Muni, BART, Fähren, Flugzeugen, simuliertem Verkehr und dem realen Himmel.",
-      "zh-Hant": "舊金山的一幅有圖畫的同位素地圖,你可以拖動和放大,有活的穆尼,BART,渡輪,飛機,模擬交通和真實的天空."
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 165 分 · 75 条评论",
-      "zh-Hant": "Hacker News 165 分 · 75 則留言",
-      "en": "165 points · 75 comments on Hacker News",
-      "ja": "Hacker News 165 ポイント · コメント 75 件",
-      "ko": "Hacker News 165점 · 댓글 75개",
-      "ms": "165 mata · 75 komen di Hacker News",
-      "vi": "165 điểm · 75 bình luận trên Hacker News",
-      "fr": "165 points · 75 commentaires sur Hacker News",
-      "es": "165 puntos · 75 comentarios en Hacker News",
-      "de": "165 Punkte · 75 Kommentare auf Hacker News"
-     },
-     "url": "https://smallsf.com/",
-     "src": "smallsf.com",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50600677",
-     "title": {
-      "zh-Hans": "欧洲会削弱化学规则,因为科学将它们与“生活方式疾病”联系起来。",
-      "zh-Hant": "歐洲會削弱化學規則,因為科學將它們與“生活方式疾病”聯絡起來。",
-      "en": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-      "ja": "欧州は、化学規則を科学として弱まらせ、「ライフスタイル疾患」にリンクします",
-      "ko": "유럽은 과학으로 화학적 규칙을 약화하여 '생활 질병'",
-      "ms": "Afrika Eropa melemahkan aturan kimia sebagai ilmu pengetahuan menghubungkan mereka dengan 'penyakit gaya hidup'",
-      "vi": "Châu Âu làm suy yếu các quy tắc hóa học khi khoa học liên kết chúng với \"các loại bệnh sống\"",
-      "fr": "L'Europe affaiblit les règles chimiques car la science les relie aux «maladies du style de vie»",
-      "es": "Europa debilita las reglas químicas ya que la ciencia las vincula a \"fecciones al estilo de vida\"",
-      "de": "Europa schwächt chemische Regeln, da die Wissenschaft sie mit \"Lifestyle-Krankheiten\" verbindet"
-     },
-     "summary": {
-      "zh-Hans": "Hacker News 上的链接，原文来自 lemonde.fr。",
-      "zh-Hant": "Hacker News 上的連結，原文來自 lemonde.fr。",
-      "en": "Shared on Hacker News; original at lemonde.fr.",
-      "ja": "Hacker News で共有されたリンク。元記事は lemonde.fr にあります。",
-      "ko": "Hacker News에서 공유된 링크입니다. 원문은 lemonde.fr에 있습니다.",
-      "ms": "Dikongsi di Hacker News; artikel asal di lemonde.fr.",
-      "vi": "Được chia sẻ trên Hacker News; bài gốc tại lemonde.fr.",
-      "fr": "Partagé sur Hacker News ; original sur lemonde.fr.",
-      "es": "Compartido en Hacker News; original en lemonde.fr.",
-      "de": "Geteilt auf Hacker News; Original auf lemonde.fr."
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 160 分 · 134 条评论",
-      "zh-Hant": "Hacker News 160 分 · 134 則留言",
-      "en": "160 points · 134 comments on Hacker News",
-      "ja": "Hacker News 160 ポイント · コメント 134 件",
-      "ko": "Hacker News 160점 · 댓글 134개",
-      "ms": "160 mata · 134 komen di Hacker News",
-      "vi": "160 điểm · 134 bình luận trên Hacker News",
-      "fr": "160 points · 134 commentaires sur Hacker News",
-      "es": "160 puntos · 134 comentarios en Hacker News",
-      "de": "160 Punkte · 134 Kommentare auf Hacker News"
-     },
-     "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-     "src": "lemonde.fr",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    },
-    {
-     "id": "hn-50603465",
-     "title": {
-      "zh-Hans": "Nyx,最老的互联网服务提供商",
-      "zh-Hant": "Nyx,最老的網際網路服務提供商",
-      "en": "Nyx, the Oldest Internet Service Provider",
-      "ja": "Nyx、最も古いインターネットサービスプロバイダ",
-      "ko": "Nyx, 가장 오래된 인터넷 서비스 제공 업체",
-      "ms": "[ Gambar di hlm.",
-      "vi": "Nyx, nhà cung cấp dịch vụ Internet cũ nhất",
-      "fr": "Nyx, le plus ancien fournisseur de services Internet",
-      "es": "Nyx, el proveedor de servicios de Internet más antiguo",
-      "de": "Nyx, der älteste Internet Service Provider"
-     },
-     "summary": {
-      "en": "HOME | ABOUT | JOIN | HELP | SEARCH | USER PAGES | FAQ | LINKS",
-      "zh-Hans": "回家 约联合 帮助 搜索 使用 PAGES QQ 链接",
-      "ja": "HOME | 会社案内 | 採用情報 | 採用情報 | 採用情報 | 採用情報 | よくある質問 | リンク",
-      "ko": "HOME | 회사소개 | 회원가입 | HELP | SEARCH | USER PAGES | FAQ | LINKS",
-      "ms": "HOME BAHASA ORANG ORANG ORANG ORANG ORANG ORANG ORANG ORANG ORANG ORANG DENGAN YOIN KANAN KANTOR KANTOR KANTOR",
-      "vi": "Tại nhà  BAR giúp   GIÚP NHỮNG TRANG  TRANG AQ TRONG LINKS",
-      "fr": "ACCUEIL À PROPOS ABONNEZ-VOUS AIDE RECHERCHER UTILISER LES PAGES FAQ",
-      "es": "INICIO FORMULARIO SOBRE TERRITORIO TENIDO TERRITORIO TENIDO TERRITORIOS PÁGOS TERRITORIOS TERRITORIOS TERRENAS",
-      "de": "HOME | ABOUT | JOIN | HELP | SEARCH | USER PAGES | FAQ | LINKS",
-      "zh-Hant": "回家 約聯合 幫助 搜尋 使用 PAGES QQ 連結"
-     },
-     "fact": {
-      "zh-Hans": "Hacker News 106 分 · 12 条评论",
-      "zh-Hant": "Hacker News 106 分 · 12 則留言",
-      "en": "106 points · 12 comments on Hacker News",
-      "ja": "Hacker News 106 ポイント · コメント 12 件",
-      "ko": "Hacker News 106점 · 댓글 12개",
-      "ms": "106 mata · 12 komen di Hacker News",
-      "vi": "106 điểm · 12 bình luận trên Hacker News",
-      "fr": "106 points · 12 commentaires sur Hacker News",
-      "es": "106 puntos · 12 comentarios en Hacker News",
-      "de": "106 Punkte · 12 Kommentare auf Hacker News"
-     },
-     "url": "https://nyx.net/",
-     "src": "nyx.net",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
-    }
-   ],
+   "opportunities": {
+    "zh-Hans": [
+     "本地小模型安装与私有文档助手 — 当天本地 AI 入门指南在 HN 约 635 分，GitHub Trending 上 MiniMind 今日约 828 星：一周做出“在自己电脑或小主机上装好模型、能问答本地文档和表格”的安装包或上门/远程安装服务。",
+     "长视频自动切成短视频 — 开源桌面工具 AutoClip 今日约 908 星，介绍里写“一个链接，一键出片”，面向播客、访谈和课程：一周做最小版——上传或贴链接、出字幕、封面和平台文案，先服务创作者和小商家。",
+     "推理供应商的数据政策核验 — OpenRouter 已下架三家供应商并撤销 125 个 ZDR 端点：给会把客户数据送到第三方模型的小团队，做一份可勾选的核验清单和定期抽检报告（官方公告、ZDR 声明、是否可验证的网络路径），按订阅收费。",
+     "Agent 技能与 CLI 包装 — CLI-Anything、last30days-skill、Cursor 官方 plugins，以及今日约 2,037 星的 Claude-BugHunter 同时在 Trending：一周做一个“把现有软件封成 Agent 可调用命令、并附带技能说明和安全标签”的模板，卖给要给内部工具加 Agent 的小团队。",
+     "应用商店上架预检 — app-store-compliance 今日约 755 星，介绍里写收录了 124 种常见拒审模式和修复、隐私清单与 Data safety 检查：一周做一份面向独立开发者的预检问卷和自动检查清单，按应用收费。"
+    ],
+    "en": [
+     "Local small-model setup and a private document assistant — The local-AI beginner’s guide has about 635 points on HN, and MiniMind has about 828 stars today on GitHub Trending: in a week, ship an installer or a remote setup service that puts a model on the user’s own computer or a small box and answers questions over local documents and spreadsheets.",
+     "Auto-clip long videos into short ones — The open-source desktop tool AutoClip has about 908 stars today; its pitch is “one link, one finished clip” for podcasts, interviews and courses. In a week, ship a minimum version: upload or paste a link, and get subtitles, a cover and platform copy, starting with creators and small merchants.",
+     "Checks on inference providers’ data policies — OpenRouter has off-boarded three providers and removed 125 ZDR endpoints. For small teams that send customer data to third-party models, ship a checklist and a recurring test report (public advisories, ZDR claims, and whether the network path can be verified), sold as a subscription.",
+     "Agent skills and CLI wrappers — CLI-Anything, last30days-skill, Cursor’s official plugins, and Claude-BugHunter (about 2,037 stars today) are on Trending together. In a week, ship a template that wraps an existing app as an agent-callable CLI, with a skill write-up and safety tags, for small teams adding agents to internal tools.",
+     "A pre-flight check before app-store submission — app-store-compliance has about 755 stars today and says it documents 124 common rejection patterns and fixes, plus privacy-manifest and Data safety checks. In a week, ship a questionnaire and automated checklist for indie developers, charged per app."
+    ],
+    "zh-Hant": [
+     "本地小模型安裝與私有文件助手 — 當天本地 AI 入門指南在 HN 約 635 分，GitHub Trending 上 MiniMind 今日約 828 星：一週做出“在自己電腦或小主機上裝好模型、能問答本地文件和表格”的安裝包或上門/遠端安裝服務。",
+     "長影片自動切成短影片 — 開源桌面工具 AutoClip 今日約 908 星，介紹裡寫“一個連結，一鍵出片”，面向播客、訪談和課程：一週做最小版——上傳或貼連結、出字幕、封面和平臺文案，先服務創作者和小商家。",
+     "推理供應商的資料政策核驗 — OpenRouter 已下架三家供應商並撤銷 125 個 ZDR 端點：給會把客戶資料送到第三方模型的小團隊，做一份可勾選的核驗清單和定期抽檢報告（官方公告、ZDR 宣告、是否可驗證的網路路徑），按訂閱收費。",
+     "Agent 技能與 CLI 包裝 — CLI-Anything、last30days-skill、Cursor 官方 plugins，以及今日約 2,037 星的 Claude-BugHunter 同時在 Trending：一週做一個“把現有軟體封成 Agent 可呼叫命令、並附帶技能說明和安全標籤”的模板，賣給要給內部工具加 Agent 的小團隊。",
+     "應用商店上架預檢 — app-store-compliance 今日約 755 星，介紹裡寫收錄了 124 種常見拒審模式和修復、隱私清單與 Data safety 檢查：一週做一份面向獨立開發者的預檢問卷和自動檢查清單，按應用收費。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "家用和小店的路由器安全体检 — 店主或家人验证这是自己的设备后，工具按官方步骤检查是否出现已知感染迹象，并生成对应型号的固件升级说明。 GL.iNet 在公开公告里写明：云端远程管理漏洞已被用来给部分路由器和 KVM 安装恶意软件，并列出了多款家用/办公路由器的安全固件版本。很多小店和家庭用的是这类便携或小主机路由器，店主看不懂进程检查命令。",
+     "黑色星期五的比价与退货提醒 — 普通人贴商品链接或购物车，工具对照公开价格和退货政策，提醒可能的更好买点和退货截止日，而不是替他下单。 The Verge 报道 Walmart 开放了 Agent 接口，Meta Muse 可以代做黑色星期五购物。购物季是大量普通人都会做的事；不少人需要的不是全权代买，而是看清价格和退货规则。",
+     "小店的本地文档问答助手 — 把发票、报价单、库存表放在店主自己的电脑里，用本地模型问答，不把原始账目上传到云端。 当天本地 AI 入门指南在 HN 讨论很热，说明有一批人想把模型放在自己机器上。中小商家有对账和找发票的需求，又不愿把完整账目交给不明云服务。",
+     "课程和直播的一键短视频切片 — 老师、店主把一堂课或一场直播变成多条短视频：切片、字幕、封面和各平台文案一次出。 AutoClip 今日在 GitHub Trending 约 908 星，介绍明确写给播客、访谈、课程，以及抖音、小红书、TikTok、Reels 和 YouTube Shorts。这是大量中小商家和老师已经在做的内容动作。",
+     "小商家的常见问题客服助手 — 把退换货、营业时间和配送范围做成可引用的问答，先在网店或聊天窗口里回答重复问题，复杂单再转人工。 TechCrunch 11 月 23 日报道，做客服 AI 的 Sierra 在六个月内估值翻到 300 亿美元（报道口径），说明企业对“AI 做客服”的需求仍在加码。大量中小商家买不起这类大公司产品，但同样被重复咨询占用时间。",
+     "独立开发者的应用商店上架预检 — 开发者在提交 App Store 或 Google Play 前，对照常见拒审原因做一次检查，并得到可执行的修改清单。 GitHub Trending 上的 app-store-compliance 今日约 755 星，介绍里写它整理了 124 种常见拒审模式和修复，以及隐私清单与 Data safety 检查。独立开发者和小团队反复被拒审，是很常见的痛点。"
+    ],
+    "en": [
+     "A security checkup for home and shop routers — After the owner confirms it is their device, a tool follows the vendor’s steps to look for known infection signs and writes upgrade instructions for that exact model. GL.iNet’s public advisory says a cloud remote-management bug was used to install malware on some routers and KVMs, and it lists security-firmware versions for several home and office models. Many shops and households use this class of travel or small-office router, and owners often cannot read process-check commands.",
+     "A Black Friday price and returns reminder — The user pastes a product link or a cart. The tool compares public prices and return policies, and flags a possibly better buy or a return deadline, without placing the order. The Verge reported that Walmart opened an agent gateway so Meta Muse can shop Black Friday. Holiday shopping is something large numbers of ordinary people do; many need a clear view of price and returns, not a bot that buys on their behalf.",
+     "A local document Q&A helper for a small shop — Keep invoices, quotes and stock sheets on the owner’s own computer, and answer questions with a local model, without uploading the raw books to the cloud. A beginner’s guide to local AI was heavily discussed on HN the same day, which shows demand for running models on one’s own machine. Small shops need to reconcile accounts and find invoices, and often do not want to hand full books to an unfamiliar cloud service.",
+     "One-click short clips from courses and live streams — A teacher or shop owner turns one class or live stream into several short videos: cuts, subtitles, a cover and per-platform copy in one pass. AutoClip has about 908 stars today on GitHub Trending, and its description is aimed at podcasts, interviews and courses, plus Douyin, Xiaohongshu, TikTok, Reels and YouTube Shorts. That is work many small merchants and teachers already do.",
+     "A FAQ helper for small-business customer service — Turn returns, opening hours and delivery areas into citable answers. Handle repeat questions in the shop or chat window first, and pass hard cases to a person. TechCrunch reported on 23 November that Sierra, which sells AI for customer experience, doubled its valuation to $30 billion in six months (the figure is the publication’s). That is a public signal of demand for AI in support. Many small merchants cannot buy a product at that scale, but they still lose time to the same questions.",
+     "A pre-submission check for indie app-store listings — Before submitting to the App Store or Google Play, a developer checks common rejection reasons and gets a concrete fix list. The GitHub Trending repository app-store-compliance has about 755 stars today and says it documents 124 common rejection patterns and fixes, plus privacy-manifest and Data safety checks. Repeated rejections are a familiar pain for indie developers and small teams."
+    ],
+    "zh-Hant": [
+     "家用和小店的路由器安全體檢 — 店主或家人驗證這是自己的裝置後，工具按官方步驟檢查是否出現已知感染跡象，並生成對應型號的韌體升級說明。 GL.iNet 在公開公告裡寫明：雲端遠端管理漏洞已被用來給部分路由器和 KVM 安裝惡意軟體，並列出了多款家用/辦公路由器的安全韌體版本。很多小店和家庭用的是這類便攜或小主機路由器，店主看不懂程序檢查命令。",
+     "黑色星期五的比價與退貨提醒 — 普通人貼商品連結或購物車，工具對照公開價格和退貨政策，提醒可能的更好買點和退貨截止日，而不是替他下單。 The Verge 報道 Walmart 開放了 Agent 介面，Meta Muse 可以代做黑色星期五購物。購物季是大量普通人都會做的事；不少人需要的不是全權代買，而是看清價格和退貨規則。",
+     "小店的本地文件問答助手 — 把發票、報價單、庫存表放在店主自己的電腦裡，用本地模型問答，不把原始賬目上傳到雲端。 當天本地 AI 入門指南在 HN 討論很熱，說明有一批人想把模型放在自己機器上。中小商家有對賬和找發票的需求，又不願把完整賬目交給不明雲服務。",
+     "課程和直播的一鍵短影片切片 — 老師、店主把一堂課或一場直播變成多條短影片：切片、字幕、封面和各平臺文案一次出。 AutoClip 今日在 GitHub Trending 約 908 星，介紹明確寫給播客、訪談、課程，以及抖音、小紅書、TikTok、Reels 和 YouTube Shorts。這是大量中小商家和老師已經在做的內容動作。",
+     "小商家的常見問題客服助手 — 把退換貨、營業時間和配送範圍做成可引用的問答，先在網店或聊天視窗裡回答重複問題，複雜單再轉人工。 TechCrunch 11 月 23 日報道，做客服 AI 的 Sierra 在六個月內估值翻到 300 億美元（報道口徑），說明企業對“AI 做客服”的需求仍在加碼。大量中小商家買不起這類大公司產品，但同樣被重複諮詢佔用時間。",
+     "獨立開發者的應用商店上架預檢 — 開發者在提交 App Store 或 Google Play 前，對照常見拒審原因做一次檢查，並得到可執行的修改清單。 GitHub Trending 上的 app-store-compliance 今日約 755 星，介紹裡寫它整理了 124 種常見拒審模式和修復，以及隱私清單與 Data safety 檢查。獨立開發者和小團隊反覆被拒審，是很常見的痛點。"
+    ]
+   },
    "follow": [
     {
-     "id": "gh-1466635339",
      "title": {
-      "zh-Hans": "EL4CTEO/fast-anything",
-      "zh-Hant": "EL4CTEO/fast-anything",
-      "en": "EL4CTEO/fast-anything",
-      "ja": "EL4CTEO/fast-anything",
-      "ko": "EL4CTEO/fast-anything",
-      "ms": "EL4CTEO/fast-anything",
-      "vi": "EL4CTEO/fast-anything",
-      "fr": "EL4CTEO/fast-anything",
-      "es": "EL4CTEO/fast-anything",
-      "de": "EL4CTEO/fast-anything"
+      "zh-Hans": "elementalsouls/Claude-BugHunter",
+      "en": "elementalsouls/Claude-BugHunter",
+      "zh-Hant": "elementalsouls/Claude-BugHunter"
      },
      "summary": {
-      "en": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "zh-Hans": "别在罗斯特重写 重写慢速的5%: profile Python, Node 或 Ruby apps, 用您的编码代理端移植热功能, 证明它们的行为相同.",
-      "ja": "Rustに書き換えないでください。 遅くなる5%を書き換えます: プロファイルPython、ノード、またはRubyアプリ、ホット機能をコーディングエージェントに移植し、同じことを振る舞います。",
-      "ko": "Rust에서 다시 작성하지 마십시오. 느린 5 %를 다시 작성하십시오. Python, Node 또는 Ruby 앱을 프로파일링하고 코딩 에이전트와 핫 기능을 포트하면 동일하게 행동합니다.",
-      "ms": "Jangan menulis ulang di Rust. ¡Tulis ulang 5% yang lambat: profil Python, Node atau aplikasi Ruby, port fungsi panas dengan agen coding Anda, membuktikan mereka berperilaku sama.",
-      "vi": "Đừng viết lại ở Rust. Viết lại 5% đó là chậm: profile Python, Node hoặc Ruby ứng dụng, gửi các chức năng nóng với tác nhân mã hóa của bạn, chứng minh chúng cũng hành động như vậy.",
-      "fr": "Ne le réécrivez pas dans Rust. Réécrire les 5% qui sont lents : profil Python, Node ou Ruby apps, porter les fonctions chaudes avec votre agent de codage, prouver qu'ils se comportent de la même façon.",
-      "es": "No lo reescribas en Rust. Reescribir el 5% que es lento: perfil Python, aplicaciones Node o Ruby, portar las funciones calientes con su agente de codificación, demostrar que se comportan igual.",
-      "de": "Schreibe es nicht in Rust um. Schreiben Sie die langsamen 5% um: Profil Python, Node oder Ruby Apps, portieren Sie die Hot-Funktionen mit Ihrem Codierungsagenten und beweisen Sie, dass sie sich gleich verhalten.",
-      "zh-Hant": "別在羅斯特重寫 重寫慢速的5%: profile Python, Node 或 Ruby apps, 用您的編碼代理端移植熱功能, 證明它們的行為相同."
+      "zh-Hans": "面向漏洞梳理的 Claude Code 技能包，介绍里写含 82 个技能、15 条斜杠命令，以及按 24 类漏洞整理的披露报告模式；今日约 2,037 星。",
+      "en": "A Claude Code skill bundle for bug hunting; its description lists 82 skills, 15 slash commands and disclosed-report patterns across 24 vulnerability classes. About 2,037 stars today.",
+      "zh-Hant": "面向漏洞梳理的 Claude Code 技能包，介紹裡寫含 82 個技能、15 條斜槓命令，以及按 24 類漏洞整理的披露報告模式；今日約 2,037 星。"
      },
-     "fact": {
-      "zh-Hans": "GitHub 2,035 星",
-      "zh-Hant": "GitHub 2,035 星",
-      "en": "2,035 stars on GitHub",
-      "ja": "GitHub スター 2,035",
-      "ko": "GitHub 스타 2,035개",
-      "ms": "2,035 bintang di GitHub",
-      "vi": "2,035 sao trên GitHub",
-      "fr": "2,035 étoiles sur GitHub",
-      "es": "2,035 estrellas en GitHub",
-      "de": "2,035 Sterne auf GitHub"
-     },
-     "url": "https://github.com/EL4CTEO/fast-anything",
-     "src": "github.com",
-     "date": "2026-11-21",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
-     "id": "gh-1467519193",
      "title": {
-      "zh-Hans": "os6/nospeaker",
-      "zh-Hant": "os6/nospeaker",
-      "en": "os6/nospeaker",
-      "ja": "os6/nospeaker",
-      "ko": "os6/nospeaker",
-      "ms": "os6/nospeaker",
-      "vi": "os6/nospeaker",
-      "fr": "os6/nospeaker",
-      "es": "os6/nospeaker",
-      "de": "os6/nospeaker"
+      "zh-Hans": "zhouxiaoka/autoclip",
+      "en": "zhouxiaoka/autoclip",
+      "zh-Hant": "zhouxiaoka/autoclip"
      },
      "summary": {
-      "en": "make your macbook's trackpad talk using its haptic motor",
-      "zh-Hans": "让你的Macbook的田径板说话 使用它的偶然马达",
-      "ja": "お使いのMacbookのトラックパッドは、そのハプティックモーターを使用して話します",
-      "ko": "Macbook의 트랙패드가 해적 모터를 사용하여 대화를 만듭니다.",
-      "ms": "Kau bisa bicara dengan cara yang buruk.",
-      "vi": "Làm cho macbook của bạn nói chuyện bằng cách sử dụng động cơ haptic của nó",
-      "fr": "faire parler le trackpad de votre macbook en utilisant son moteur haptique",
-      "es": "hacer la charla del trackpad de tu Macbook usando su motor haptico",
-      "de": "Machen Sie das Trackpad Ihres Macbooks mit seinem haptischen Motor",
-      "zh-Hant": "讓你的Macbook的田徑板說話 使用它的偶然馬達"
+      "zh-Hans": "开源 AI 视频切片桌面工具，面向长视频转短视频、字幕、封面和发布文案；今日约 908 星。",
+      "en": "An open-source desktop tool for AI video clipping: long video to short clips, subtitles, covers and publish copy. About 908 stars today.",
+      "zh-Hant": "開源 AI 影片切片桌面工具，面向長影片轉短影片、字幕、封面和釋出文案；今日約 908 星。"
      },
-     "fact": {
-      "zh-Hans": "GitHub 480 星",
-      "zh-Hant": "GitHub 480 星",
-      "en": "480 stars on GitHub",
-      "ja": "GitHub スター 480",
-      "ko": "GitHub 스타 480개",
-      "ms": "480 bintang di GitHub",
-      "vi": "480 sao trên GitHub",
-      "fr": "480 étoiles sur GitHub",
-      "es": "480 estrellas en GitHub",
-      "de": "480 Sterne auf GitHub"
+     "url": "https://github.com/zhouxiaoka/autoclip"
+    },
+    {
+     "title": {
+      "zh-Hans": "jingyaogong/minimind",
+      "en": "jingyaogong/minimind",
+      "zh-Hant": "jingyaogong/minimind"
      },
-     "url": "https://github.com/os6/nospeaker",
-     "src": "github.com",
-     "date": "2026-11-22",
-     "rw": "",
-     "mt": [
-      "zh-Hans",
-      "zh-Hant",
-      "ja",
-      "ko",
-      "ms",
-      "vi",
-      "fr",
-      "es",
-      "de"
-     ]
+     "summary": {
+      "zh-Hans": "介绍里写“两小时从 0 训出你的 64M 大模型”，适合对照看最小可训练模型的教学实现；今日约 828 星。",
+      "en": "Its description says you can train a 64M model from scratch in two hours; useful as a tiny, teachable training stack. About 828 stars today.",
+      "zh-Hant": "介紹裡寫“兩小時從 0 訓出你的 64M 大模型”，適合對照看最小可訓練模型的教學實現；今日約 828 星。"
+     },
+     "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+     "title": {
+      "zh-Hans": "firecrawl/firecrawl",
+      "en": "firecrawl/firecrawl",
+      "zh-Hant": "firecrawl/firecrawl"
+     },
+     "summary": {
+      "zh-Hans": "给 Agent 用的检索和网页抓取基础设施，介绍里写可通过一个 API 访问 550 多个数据源；今日约 920 星。",
+      "en": "Search and scraping infrastructure for agents; its description says one API can reach 550+ data sources. About 920 stars today.",
+      "zh-Hant": "給 Agent 用的檢索和網頁抓取基礎設施，介紹裡寫可透過一個 API 訪問 550 多個資料來源；今日約 920 星。"
+     },
+     "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog: pin repositories / security advisory permissions",
+      "en": "GitHub Changelog: pin repositories / security advisory permissions",
+      "zh-Hant": "GitHub Changelog: pin repositories / security advisory permissions"
+     },
+     "summary": {
+      "zh-Hans": "11 月 20 日 Changelog：可以把常用仓库钉在仪表盘上；同日安全公告权限也已正式可用。另有 GitHub Desktop 支持同一主机多个账号、Enterprise Server 3.23 候选版。",
+      "en": "The 20 November Changelog says you can pin favorite repositories to the dashboard, and security advisory permissions are generally available. GitHub Desktop also gained multiple accounts per host, and Enterprise Server 3.23 is a release candidate.",
+      "zh-Hant": "11 月 20 日 Changelog：可以把常用倉庫釘在儀表盤上；同日安全公告許可權也已正式可用。另有 GitHub Desktop 支援同一主機多個賬號、Enterprise Server 3.23 候選版。"
+     },
+     "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard"
     }
    ]
   },
