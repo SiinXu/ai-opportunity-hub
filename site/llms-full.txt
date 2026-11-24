@@ -9,6 +9,7 @@
 - Updated: 2026-11-06T22:24:55Z
 
 ## Latest daily digests
+- [OPC Radar Daily Digest · 2026-11-24 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-24/) — Morning brief (Asia/Shanghai): the Ladybird browser enters alpha, hearings after Jensen Huang’s return, the open-model fight, Arm forcing a docs site offline, AI agents approving code, and ideas ordinary people and small businesses can use.
 - [OPC Radar Daily Digest · 2026-11-23 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-23/) — Morning brief (Asia/Shanghai): NVIDIA’s board, model evaluation, local AI, inference-supply-chain security, and actionable signals for one-person companies.
 - [OPC Radar Daily Digest · 2026-11-19 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-19/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.
 - [OPC Radar Daily Digest · 2026-11-18 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-18/) — Morning brief (Asia/Shanghai): AI, open source, security, and actionable signals for one-person companies.

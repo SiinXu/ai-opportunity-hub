@@ -1,6 +1,267 @@
 {
- "latest": "2026-11-23",
+ "latest": "2026-11-24",
  "digests": [
+  {
+   "date": "2026-11-24",
+   "path": "digest/2026-11-24/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-24",
+    "en": "Morning tech digest · 2026-11-24",
+    "zh-Hant": "早間技術熱點 · 2026-11-24"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：Ladybird 浏览器进入 alpha、黄仁勋复职后的听证安排、开源模型之争、Arm 文档站被要求关停、AI 自动审批代码，以及面向普通人和小商家的可执行方向。",
+    "en": "Morning brief (Asia/Shanghai): the Ladybird browser enters alpha, hearings after Jensen Huang’s return, the open-model fight, Arm forcing a docs site offline, AI agents approving code, and ideas ordinary people and small businesses can use.",
+    "zh-Hant": "上海時間早間例行簡報：Ladybird 瀏覽器進入 alpha、黃仁勳復職後的聽證安排、開源模型之爭、Arm 文件站被要求關停、AI 自動審批程式碼，以及面向普通人和小商家的可執行方向。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Ladybird 浏览器进入 alpha，可在 macOS 和 Linux 下载",
+      "en": "The Ladybird browser enters alpha, with downloads for macOS and Linux",
+      "zh-Hant": "Ladybird 瀏覽器進入 alpha，可在 macOS 和 Linux 下載"
+     },
+     "summary": {
+      "zh-Hans": "Andreas Kling 11 月 23 日宣布：Ladybird 用的是从零自研的新引擎，不是任何现有引擎的分支；alpha 版提供 macOS 和 Linux 下载，走滚动更新、自动升级。官方直说部分网站打不开、偶尔会崩，安全方面“今天不做承诺”，欢迎安全研究者来攻。做网站的人可以拿自己的站去试，它支持 WebDriver 自动化测试和 Firefox DevTools 协议。HN 约 1,331 分。",
+      "en": "Andreas Kling announced on 23 November that Ladybird runs on a new engine built from scratch, not a fork; the alpha is available for macOS and Linux as a rolling channel with automatic updates. The team says some sites will not work, it will sometimes crash, and it makes no security promises yet, inviting researchers to attack it. Web developers can test their sites; it supports WebDriver for automated testing and the Firefox DevTools protocol. About 1,331 points on HN.",
+      "zh-Hant": "Andreas Kling 11 月 23 日宣佈：Ladybird 用的是從零自研的新引擎，不是任何現有引擎的分支；alpha 版提供 macOS 和 Linux 下載，走滾動更新、自動升級。官方直說部分網站打不開、偶爾會崩，安全方面“今天不做承諾”，歡迎安全研究者來攻。做網站的人可以拿自己的站去試，它支援 WebDriver 自動化測試和 Firefox DevTools 協議。HN 約 1,331 分。"
+     },
+     "url": "https://ladybird.org/posts/alpha/",
+     "extra": [
+      "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "https://news.ycombinator.com/item?id=50614249"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "新进展：黄仁勋复职后，被安排 12 月 3 日到参议院银行委员会作证",
+      "en": "Update: after his reinstatement, Jensen Huang is set to testify before the Senate Banking Committee on 3 December",
+      "zh-Hant": "新進展：黃仁勳復職後，被安排 12 月 3 日到參議院銀行委員會作證"
+     },
+     "summary": {
+      "zh-Hans": "昨天简报写了英伟达董事会恢复黄仁勋 CEO 职务，今天的新进展是：据 TechCrunch，参议院银行委员会网站显示他将于 12 月 3 日出席公开听证，该委员会管出口管制；在复职前，他已同意 12 月 1 日出席众议院外交、对华特设和情报委员会。CNBC 报道特朗普称直接和间接与英伟达董事会沟通过。外界争议很大，Foreign Policy 的评论文章直接称其为严重的国家安全丑闻。CNBC 这条讨论在 HN 约 1,964 分。",
+      "en": "Yesterday’s brief covered NVIDIA’s board restoring Jensen Huang as CEO. The new development: according to TechCrunch, the Senate Banking Committee’s website lists a public hearing with him on 3 December; the committee oversees export controls. Before the reinstatement he had already agreed to appear on 1 December before the House Foreign Affairs Committee, the Select Committee on the CCP and the House Intelligence Committee. CNBC reported that President Trump said he had spoken with the board directly and indirectly. Reaction is sharply divided; a Foreign Policy opinion piece called it a major national security scandal. The CNBC thread has about 1,964 points on HN.",
+      "zh-Hant": "昨天簡報寫了英偉達董事會恢復黃仁勳 CEO 職務，今天的新進展是：據 TechCrunch，參議院銀行委員會網站顯示他將於 12 月 3 日出席公開聽證，該委員會管出口管制；在復職前，他已同意 12 月 1 日出席眾議院外交、對華特設和情報委員會。CNBC 報道特朗普稱直接和間接與英偉達董事會溝透過。外界爭議很大，Foreign Policy 的評論文章直接稱其為嚴重的國家安全醜聞。CNBC 這條討論在 HN 約 1,964 分。"
+     },
+     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+     "extra": [
+      "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "https://news.ycombinator.com/item?id=50611576"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "LeCun 公开批评 Amodei：渲染 AI 危险是为了让开源模型被禁",
+      "en": "LeCun accuses Amodei of hyping AI dangers so open models get banned",
+      "zh-Hant": "LeCun 公開批評 Amodei：渲染 AI 危險是為了讓開源模型被禁"
+     },
+     "summary": {
+      "zh-Hans": "Yann LeCun 在 X 上回复一段 Dario Amodei 谈开源 AI 风险的视频，说 Amodei 从 GPT-2 起一直在“渲染危险”，目的是让开源模型被立法禁止、由他保持控制，并把这比作奥斯曼帝国禁止阿拉伯文印刷术。这是开源与闭源阵营之间的老争论，但这次措辞很重，HN 讨论约 1,019 分、近 600 条评论。",
+      "en": "Replying on X to a clip of Dario Amodei discussing the risks of open AI models, Yann LeCun wrote that Amodei has been hyping the dangers since GPT-2 so that open models would be made illegal and he would stay in control, comparing it to the Ottoman Empire banning the printing press for Arabic. It is an old open-versus-closed argument, but the wording is unusually harsh; the HN thread has about 1,019 points and nearly 600 comments.",
+      "zh-Hant": "Yann LeCun 在 X 上回復一段 Dario Amodei 談開源 AI 風險的影片，說 Amodei 從 GPT-2 起一直在“渲染危險”，目的是讓開源模型被立法禁止、由他保持控制，並把這比作奧斯曼帝國禁止阿拉伯文印刷術。這是開源與閉源陣營之間的老爭論，但這次措辭很重，HN 討論約 1,019 分、近 600 條評論。"
+     },
+     "url": "https://x.com/ylecun/status/2124550037912920090",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50615308"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Arm 律师要求个人维护的 AArch64 指令参考站 12 月 4 日关停",
+      "en": "Arm’s lawyers force a community AArch64 reference site offline on 4 December",
+      "zh-Hant": "Arm 律師要求個人維護的 AArch64 指令參考站 12 月 4 日關停"
+     },
+     "summary": {
+      "zh-Hans": "开发者 Jon 个人维护的“Jon’s Arm Reference”提供 Armv8-A / Armv9-A 的 AArch64 指令和系统寄存器速查，很多做底层开发的人一直在用。站点首页现在写着：Arm 的律师通知他下线，否则将采取法律行动，网站将于 2026 年 12 月 4 日停止；他会想办法让旧书签和链接继续可用。HN 约 797 分。",
+      "en": "“Jon’s Arm Reference”, maintained by a developer named Jon, offers fast lookup for AArch64 instructions and system registers in Armv8-A and Armv9-A, and many low-level developers rely on it. The homepage now says Arm’s lawyers told him to take the site down or face legal action, so it will be discontinued on 4 December 2026; he will look for ways to keep old bookmarks and links working. About 797 points on HN.",
+      "zh-Hant": "開發者 Jon 個人維護的“Jon’s Arm Reference”提供 Armv8-A / Armv9-A 的 AArch64 指令和系統暫存器速查，很多做底層開發的人一直在用。站點首頁現在寫著：Arm 的律師通知他下線，否則將採取法律行動，網站將於 2026 年 12 月 4 日停止；他會想辦法讓舊書籤和連結繼續可用。HN 約 797 分。"
+     },
+     "url": "https://arm.jonpalmisc.com/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50617499"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic 推出 Claude Ship：AI 代理审查、修复，并按团队策略自动批准代码",
+      "en": "Anthropic launches Claude Ship: AI agents that review, fix and approve code under a team policy",
+      "zh-Hant": "Anthropic 推出 Claude Ship：AI 代理審查、修復，並按團隊策略自動批准程式碼"
+     },
+     "summary": {
+      "zh-Hans": "TechCrunch 11 月 23 日报道：Claude Ship 包括已正式可用的 Code Review，以及两个测试版代理——PR Steward 处理 CI 失败、合并冲突和审查意见，每次推送后说明改了什么、怎么回滚；Claude Approvals 按团队写在仓库里的自然语言审批策略，决定哪些常规改动可以自动合并。官方建议先用“只观察”模式、从一个仓库开始，并设置月度花费上限。面向 GitHub 上的 Claude Team 和 Enterprise 用户。",
+      "en": "TechCrunch reported on 23 November that Claude Ship combines the generally available Code Review with two beta agents: PR Steward handles failing CI checks, merge conflicts and review feedback, and after each push explains what it changed and how to roll it back; Claude Approvals applies an approval policy the team writes in plain language as a file in the repository to decide which routine changes can merge automatically. Anthropic suggests starting in observe-only mode on one repository with a monthly spending limit. It is rolling out to Claude Team and Enterprise plans for GitHub repositories.",
+      "zh-Hant": "TechCrunch 11 月 23 日報道：Claude Ship 包括已正式可用的 Code Review，以及兩個測試版代理——PR Steward 處理 CI 失敗、合併衝突和審查意見，每次推送後說明改了什麼、怎麼回滾；Claude Approvals 按團隊寫在倉庫裡的自然語言審批策略，決定哪些常規改動可以自動合併。官方建議先用“只觀察”模式、從一個倉庫開始，並設定月度花費上限。面向 GitHub 上的 Claude Team 和 Enterprise 使用者。"
+     },
+     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic 公开一份由内部 Claude 模型得出的 VP ≠ VNP 证明及 Lean 4 形式化",
+      "en": "Anthropic publishes a VP ≠ VNP proof found by an internal Claude model, with a Lean 4 formalization",
+      "zh-Hant": "Anthropic 公開一份由內部 Claude 模型得出的 VP ≠ VNP 證明及 Lean 4 形式化"
+     },
+     "summary": {
+      "zh-Hans": "仓库说明写道：结论是对所有域，哈密顿回路多项式（以及特征不为 2 时的积和式）的电路规模都需要超多项式级的门数，因此 VP 真包含于 VNP；这不解决 P 与 NP。论文和 Lean 证明都由 AI 模型写出，目前没有人类数学家审核过证明；Lean 能检查证明，但“陈述是否就是所声称的内容”没有机器能检查。仓库标为研究成果，不维护。HN 约 183 分。",
+      "en": "The repository says that over every field, circuits for the Hamiltonian cycle polynomial, and for the permanent outside characteristic 2, need superpolynomially many gates, so VP is a proper subset of VNP; this does not settle P versus NP. Both the paper and the Lean proof were written by AI models and no human mathematician has checked the proof; Lean checks the proofs, but no machine checks that the statement says what is claimed. It is marked as an unmaintained research artifact. About 183 points on HN.",
+      "zh-Hant": "倉庫說明寫道：結論是對所有域，哈密頓迴路多項式（以及特徵不為 2 時的積和式）的電路規模都需要超多項式級的門數，因此 VP 真包含於 VNP；這不解決 P 與 NP。論文和 Lean 證明都由 AI 模型寫出，目前沒有人類數學家稽核過證明；Lean 能檢查證明，但“陳述是否就是所聲稱的內容”沒有機器能檢查。倉庫標為研究成果，不維護。HN 約 183 分。"
+     },
+     "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50620102"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "维护 9 年的开源笔记应用 FSNotes 被 Apple 从欧盟所有商店下架",
+      "en": "Apple pulls FSNotes, an open-source notes app with a nine-year history, from every EU App Store",
+      "zh-Hant": "維護 9 年的開源筆記應用 FSNotes 被 Apple 從歐盟所有商店下架"
+     },
+     "summary": {
+      "zh-Hans": "FSNotes 作者（乌克兰注册的个体经营者）写公开信说：10 月销售款没到账，随后应用被从所有欧洲 App Store 下架，没有明确原因；他 11 月 5 日和 17 日开了两个支持工单至今无回复，已补交欧盟《数字服务法》（DSA）要求的合规信息和乌克兰官方登记文件。应用在 GitHub 上仍可免费下载。HN 约 470 分。",
+      "en": "The FSNotes developer, a sole proprietor registered in Ukraine, wrote an open letter: his October payout did not arrive, then the app was removed from all European App Stores without a clear reason. Two support cases opened on 5 and 17 November have had no reply, although he completed the EU Digital Services Act (DSA) compliance information and submitted official Ukrainian registry documents. The app is still free on GitHub. About 470 points on HN.",
+      "zh-Hant": "FSNotes 作者（烏克蘭註冊的個體經營者）寫公開信說：10 月銷售款沒到賬，隨後應用被從所有歐洲 App Store 下架，沒有明確原因；他 11 月 5 日和 17 日開了兩個支援工單至今無回覆，已補交歐盟《數字服務法》（DSA）要求的合規資訊和烏克蘭官方登記檔案。應用在 GitHub 上仍可免費下載。HN 約 470 分。"
+     },
+     "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50616933"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "邮件两条：Kagi Mail 公测，开源 Stalwart 可直接替代 Exchange",
+      "en": "Two email stories: Kagi Mail opens a public beta, and open-source Stalwart becomes a drop-in Exchange replacement",
+      "zh-Hant": "郵件兩條：Kagi Mail 公測，開源 Stalwart 可直接替代 Exchange"
+     },
+     "summary": {
+      "zh-Hans": "Kagi 11 月 23 日开放 Kagi Mail 公测：免费试用 60 天，之后每年 99 美元（另加税），含 @kagimail.com 地址、无限别名和自有域名、日历、50 GB 存储，以及用自然语言写收件规则、直接问收件箱等 AI 功能；底层用开源的 Stalwart 服务器，支持 IMAP、JMAP、CalDAV。同一天 Stalwart 发布 1.2.0，实现 MAPI over HTTP、EWS、ActiveSync 和 Autodiscover，Outlook 等客户端可以像连 Exchange 一样连它，这部分在 AGPL 社区版里。HN：Kagi Mail 约 330 分，Stalwart 约 121 分。",
+      "en": "Kagi opened the Kagi Mail public beta on 23 November: free for 60 days, then $99 a year plus tax, with a @kagimail.com address, unlimited aliases and custom domains, a calendar, 50 GB of storage, and AI features such as plain-language inbox rules and asking your inbox questions; it runs on the open-source Stalwart server with IMAP, JMAP and CalDAV. The same day Stalwart released 1.2.0, implementing MAPI over HTTP, EWS, ActiveSync and Autodiscover, so Outlook and other clients connect as if to Exchange; this is in the AGPL Community edition. On HN, Kagi Mail has about 330 points and Stalwart about 121.",
+      "zh-Hant": "Kagi 11 月 23 日開放 Kagi Mail 公測：免費試用 60 天，之後每年 99 美元（另加稅），含 @kagimail.com 地址、無限別名和自有域名、日曆、50 GB 儲存，以及用自然語言寫收件規則、直接問收件箱等 AI 功能；底層用開源的 Stalwart 伺服器，支援 IMAP、JMAP、CalDAV。同一天 Stalwart 釋出 1.2.0，實現 MAPI over HTTP、EWS、ActiveSync 和 Autodiscover，Outlook 等客戶端可以像連 Exchange 一樣連它，這部分在 AGPL 社群版裡。HN：Kagi Mail 約 330 分，Stalwart 約 121 分。"
+     },
+     "url": "https://blog.kagi.com/kagi-mail-public-beta",
+     "extra": [
+      "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "https://news.ycombinator.com/item?id=50615481"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "单卡本地编程代理安装包 — NariQ 发布的 Qwen3.8-27B 3 bit 文件约 10.1 GB，团队自测在 DeepSWE、Terminal-Bench 等代理任务上接近 BF16（需用其 llama.cpp 分支）：一周做一个“检测显卡 → 下载合适量化 → 接上现成编程代理”的安装脚本和说明，卖给不想把代码发到云端的小团队。",
+     "自建 Exchange 的迁移评估 — Stalwart 博客写明 Exchange 2016/2019 已于 2025 年 10 月 14 日停止支持，而 Stalwart 1.2 能让 Outlook 照常连接：一周做一份迁移前检查表（邮箱数量、日历共享、移动端、DNS），给仍在跑旧 Exchange 的小公司做评估和代迁移。",
+     "代理改动的审批策略模板 — Claude Ship 让团队把审批策略写成仓库里的文件，GitHub 同日推出的 Issue 状态也会在“分配给代理”时自动变成进行中：一周整理几套可直接用的策略模板（哪些改动可自动合并、哪些必须人看）和周报，卖给开始用代理写代码的小团队。",
+     "多浏览器引擎兼容巡检 — Ladybird alpha 支持 WebDriver，做网站的人被邀请去试：一周做一个对指定页面在 Chromium、Firefox、WebKit 和 Ladybird 下截图对比、标出明显错位的小服务，按站点月费收。",
+     "补丁空窗期的临时防护清单 — OpenAI 和 Cisco 开源了 Shirudo，用于在补丁上线前给运行中的 Linux 服务加临时防护；Gentoo 开发者也在写漏洞报告泛滥的压力：一周给小运维团队做“新漏洞 → 是否影响我 → 临时缓解 → 补丁跟进”的流程模板和提醒。"
+    ],
+    "en": [
+     "A one-GPU local coding agent bundle — The NariQ 3-bit Qwen3.8-27B file is about 10.1 GB, and the team reports near-BF16 results on agent tasks such as DeepSWE and Terminal-Bench (it requires their llama.cpp fork). In a week, build a script and guide that detects the GPU, downloads a suitable quantization and connects an existing coding agent, for small teams that do not want to send code to the cloud.",
+     "Migration checks for self-hosted Exchange — Stalwart’s blog notes that Exchange 2016 and 2019 reached end of support on 14 October 2025, while Stalwart 1.2 lets Outlook connect as before. In a week, build a pre-migration checklist (mailbox count, calendar sharing, mobile devices, DNS) and offer assessment and migration help to small firms still running old Exchange.",
+     "Approval-policy templates for agent-made changes — Claude Ship lets teams write the approval policy as a file in the repository, and GitHub’s new issue statuses, launched the same day, move an issue to In progress when it is assigned to an agent. In a week, package ready-to-use policy templates (what can merge automatically, what needs a human) plus a weekly report for small teams starting to code with agents.",
+     "Cross-engine compatibility checks — The Ladybird alpha supports WebDriver and invites web developers to test their sites. In a week, build a small service that screenshots chosen pages in Chromium, Firefox, WebKit and Ladybird and flags obvious layout breaks, charged monthly per site.",
+     "Stopgap protection checklists before patches land — OpenAI and Cisco open-sourced Shirudo to put temporary shields on running Linux services before patches roll out, and a Gentoo developer describes the strain of a flood of vulnerability reports. In a week, build a workflow template and alerts for small ops teams: new vulnerability, does it affect me, temporary mitigation, patch follow-up."
+    ],
+    "zh-Hant": [
+     "單卡本地程式設計代理安裝包 — NariQ 釋出的 Qwen3.8-27B 3 bit 檔案約 10.1 GB，團隊自測在 DeepSWE、Terminal-Bench 等代理任務上接近 BF16（需用其 llama.cpp 分支）：一週做一個“檢測顯示卡 → 下載合適量化 → 接上現成程式設計代理”的安裝指令碼和說明，賣給不想把程式碼發到雲端的小團隊。",
+     "自建 Exchange 的遷移評估 — Stalwart 部落格寫明 Exchange 2016/2019 已於 2025 年 10 月 14 日停止支援，而 Stalwart 1.2 能讓 Outlook 照常連線：一週做一份遷移前檢查表（郵箱數量、日曆共享、移動端、DNS），給仍在跑舊 Exchange 的小公司做評估和代遷移。",
+     "代理改動的審批策略模板 — Claude Ship 讓團隊把審批策略寫成倉庫裡的檔案，GitHub 同日推出的 Issue 狀態也會在“分配給代理”時自動變成進行中：一週整理幾套可直接用的策略模板（哪些改動可自動合併、哪些必須人看）和週報，賣給開始用代理寫程式碼的小團隊。",
+     "多瀏覽器引擎相容巡檢 — Ladybird alpha 支援 WebDriver，做網站的人被邀請去試：一週做一個對指定頁面在 Chromium、Firefox、WebKit 和 Ladybird 下截圖對比、標出明顯錯位的小服務，按站點月費收。",
+     "補丁空窗期的臨時防護清單 — OpenAI 和 Cisco 開源了 Shirudo，用於在補丁上線前給執行中的 Linux 服務加臨時防護；Gentoo 開發者也在寫漏洞報告氾濫的壓力：一週給小運維團隊做“新漏洞 → 是否影響我 → 臨時緩解 → 補丁跟進”的流程模板和提醒。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "小店信息在 AI 助手里的“体检” — 店主输入店名和地址，工具去问几家主流 AI 助手“几点开门、今天开不开”，对照店家自己的官方信息，列出答错的地方和该去哪里改。 PlaceBench 用 121 个城市的 150 道真实问题测了 6 个 AI 助手，得分从 49 到 92（满分 100），垫底的是 Google 地图的 Ask Maps；作者还说常遇到 AI 推荐早已关门的店。每家线下店都需要顾客拿到对的营业时间。",
+     "小公司的邮箱搬家服务 — 帮还在用旧 Exchange 或想离开大厂邮箱的小公司和家庭，把邮件、日历、联系人搬到新服务，并配好域名和手机。 Stalwart 博客写明 Exchange 2016/2019 已在 2025 年 10 月 14 日停止支持；Kagi 也刚推出每年 99 美元的 Kagi Mail，并把收件箱视为“很多人还留在 Google 的最后一块”。有自有域名的小商家和不想被广告扫描邮件的普通用户都可能要搬。",
+     "购物季“千人千价”记录器 — 普通人在不同设备、登录或不登录、不同地点查同一件商品时，一键记下看到的价格，自动对比，发现差价时生成价格匹配或客服沟通的话术。 Ars Technica 11 月 23 日的文章讲“监控式定价”：引用 Consumer Reports 2025 年的发现，Instacart 的价格差异按四口之家的典型开销算，一年可能差约 1,200 美元（Instacart 已撤掉该工具）；Target 应用也曾被指在店内查看电视时贵 100 美元。黑五前后正是大量普通人比价的时候。",
+     "小卖家的平台合规资料与申诉助手 — 帮在应用商店或电商平台卖东西的个人和小商家，整理平台要求的经营者资料，账号或商品被下架时生成申诉信并跟踪工单时间线。 FSNotes 作者的公开信说，补交了欧盟 DSA 合规信息和官方登记文件后，应用仍被从所有欧盟 App Store 下架，两个工单都没回复，HN 讨论约 470 分。被平台冻结、下架是大量小卖家和独立开发者都会遇到的事。",
+     "自由职业者的“客户跟进本” — 给自己跑业务的自由职业者和小店主：记录客户、报价、该回的消息和下次跟进日期，AI 帮写跟进消息，但发送前必须本人确认。 开源免费的 Hermit CRM 11 月 23 日在 Show HN 上线，定位“给一个人用的 CRM”，数据是电脑上的纯文本文件，外联消息由 AI 起草、等人批准。自由职业者和小商家数量庞大，多数人还在用聊天记录和表格记客户。",
+     "家庭 AI 授权体检 — 一步步带家人查看：哪些 AI 助手连上了自己的邮箱、网盘、日历、钱包，能看到什么，怎么查看依据、怎么关掉，最后生成一页家庭设置记录。 TechCrunch 11 月 23 日报道：Google 搜索的 AI Mode 个性化功能新增可连接 Drive、Wallet 和 Gemini 应用，此前已可连 Gmail、日历和相册；连接是可选的，Google 称连 Wallet 后只能读不能动钱。用 Google 服务的普通人数量极大，很多人不清楚自己开了什么。"
+    ],
+    "en": [
+     "An “AI check-up” for how assistants describe a local shop — The owner enters the shop name and address; the tool asks several major AI assistants questions like “when do you open, are you open today”, compares the answers with the shop’s own official information, and lists what is wrong and where to fix it. PlaceBench tested six AI assistants on 150 real questions across 121 cities; scores ranged from 49 to 92 out of 100, with Google Maps’ Ask Maps last. The authors also say AI often recommends places that closed years ago. Every physical shop needs customers to get its hours right.",
+     "Email moving service for small companies — Help small companies and households still on old Exchange, or wanting to leave a big-tech mailbox, move mail, calendars and contacts to a new service with domains and phones set up. Stalwart’s blog notes that Exchange 2016 and 2019 reached end of support on 14 October 2025, and Kagi just launched Kagi Mail at $99 a year, calling the inbox the last big piece many people still keep at Google. Small businesses with their own domain and ordinary users who do not want ad-driven mail may both want to move.",
+     "A holiday-season price-difference logger — When people check the same product on different devices, logged in or out, or in different places, they log the price with one tap; the tool compares them and, when prices differ, drafts a price-match or customer-service message. An Ars Technica piece on 23 November explains surveillance pricing, citing Consumer Reports’ 2025 finding that Instacart’s price variations could mean a swing of about $1,200 a year for a typical household of four (Instacart has since removed the tool), and claims that Target’s app showed a TV $100 higher inside a store. Black Friday week is exactly when many ordinary people compare prices.",
+     "Compliance paperwork and appeal helper for small sellers — Help individuals and small merchants selling on app stores or marketplaces organise the trader information platforms require, and when an account or listing is removed, draft appeals and track the support-case timeline. The FSNotes developer’s open letter says the app was still removed from every EU App Store after he completed the DSA compliance information and submitted official registry documents, and two support cases got no reply; the HN thread has about 470 points. Freezes and removals are something many small sellers and indie developers run into.",
+     "A client follow-up book for freelancers — For freelancers and shop owners who do their own sales: track clients, quotes, replies owed and next follow-up dates, with AI drafting follow-up messages that the person must approve before sending. The free, open-source Hermit CRM appeared on Show HN on 23 November as “a CRM for one”: data lives as plain-text files on your computer, and AI drafts outreach that waits for your approval. Freelancers and small merchants are numerous, and most still track clients in chat history and spreadsheets.",
+     "A household check-up of what AI can see — Walk family members step by step through which AI assistants are connected to their mail, cloud drive, calendar and wallet, what they can see, how to view the context used and how to switch it off, ending with a one-page household settings record. TechCrunch reported on 23 November that Personal Intelligence in Google Search’s AI Mode can now connect to Drive, Wallet and the Gemini app, after Gmail, Calendar and Photos; connecting is optional, and Google says a connected Wallet is read-only. Huge numbers of ordinary people use Google services, and many do not know what they have turned on."
+    ],
+    "zh-Hant": [
+     "小店資訊在 AI 助手裡的“體檢” — 店主輸入店名和地址，工具去問幾家主流 AI 助手“幾點開門、今天開不開”，對照店家自己的官方資訊，列出答錯的地方和該去哪裡改。 PlaceBench 用 121 個城市的 150 道真實問題測了 6 個 AI 助手，得分從 49 到 92（滿分 100），墊底的是 Google 地圖的 Ask Maps；作者還說常遇到 AI 推薦早已關門的店。每家線下店都需要顧客拿到對的營業時間。",
+     "小公司的郵箱搬家服務 — 幫還在用舊 Exchange 或想離開大廠郵箱的小公司和家庭，把郵件、日曆、聯絡人搬到新服務，並配好域名和手機。 Stalwart 部落格寫明 Exchange 2016/2019 已在 2025 年 10 月 14 日停止支援；Kagi 也剛推出每年 99 美元的 Kagi Mail，並把收件箱視為“很多人還留在 Google 的最後一塊”。有自有域名的小商家和不想被廣告掃描郵件的普通使用者都可能要搬。",
+     "購物季“千人千價”記錄器 — 普通人在不同裝置、登入或不登入、不同地點查同一件商品時，一鍵記下看到的價格，自動對比，發現差價時生成價格匹配或客服溝通的話術。 Ars Technica 11 月 23 日的文章講“監控式定價”：引用 Consumer Reports 2025 年的發現，Instacart 的價格差異按四口之家的典型開銷算，一年可能差約 1,200 美元（Instacart 已撤掉該工具）；Target 應用也曾被指在店內檢視電視時貴 100 美元。黑五前後正是大量普通人比價的時候。",
+     "小賣家的平臺合規資料與申訴助手 — 幫在應用商店或電商平臺賣東西的個人和小商家，整理平臺要求的經營者資料，賬號或商品被下架時生成申訴信並跟蹤工單時間線。 FSNotes 作者的公開信說，補交了歐盟 DSA 合規資訊和官方登記檔案後，應用仍被從所有歐盟 App Store 下架，兩個工單都沒回復，HN 討論約 470 分。被平臺凍結、下架是大量小賣家和獨立開發者都會遇到的事。",
+     "自由職業者的“客戶跟進本” — 給自己跑業務的自由職業者和小店主：記錄客戶、報價、該回的訊息和下次跟進日期，AI 幫寫跟進訊息，但傳送前必須本人確認。 開源免費的 Hermit CRM 11 月 23 日在 Show HN 上線，定位“給一個人用的 CRM”，資料是電腦上的純文字檔案，外聯訊息由 AI 起草、等人批准。自由職業者和小商家數量龐大，多數人還在用聊天記錄和表格記客戶。",
+     "家庭 AI 授權體檢 — 一步步帶家人檢視：哪些 AI 助手連上了自己的郵箱、網盤、日曆、錢包，能看到什麼，怎麼檢視依據、怎麼關掉，最後生成一頁家庭設定記錄。 TechCrunch 11 月 23 日報道：Google 搜尋的 AI Mode 個性化功能新增可連線 Drive、Wallet 和 Gemini 應用，此前已可連 Gmail、日曆和相簿；連線是可選的，Google 稱連 Wallet 後只能讀不能動錢。用 Google 服務的普通人數量極大，很多人不清楚自己開了什麼。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "XiaoYouChR/Ghost-Downloader-3",
+      "en": "XiaoYouChR/Ghost-Downloader-3",
+      "zh-Hant": "XiaoYouChR/Ghost-Downloader-3"
+     },
+     "summary": {
+      "zh-Hans": "开源下载器，介绍里写“下载器的集大成者”；今日 GitHub Trending 约 1,087 星。",
+      "en": "An open-source downloader billed as “the only downloader you need”; about 1,087 stars today on GitHub Trending.",
+      "zh-Hant": "開源下載器，介紹裡寫“下載器的集大成者”；今日 GitHub Trending 約 1,087 星。"
+     },
+     "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+     "title": {
+      "zh-Hans": "obra/superpowers",
+      "en": "obra/superpowers",
+      "zh-Hant": "obra/superpowers"
+     },
+     "summary": {
+      "zh-Hans": "给编程代理用的技能框架和开发方法；今日约 840 星，抓取时总星数约 325,049。",
+      "en": "An agentic skills framework and development methodology for coding agents; about 840 stars today and about 325,049 in total at fetch time.",
+      "zh-Hant": "給程式設計代理用的技能框架和開發方法；今日約 840 星，抓取時總星數約 325,049。"
+     },
+     "url": "https://github.com/obra/superpowers"
+    },
+    {
+     "title": {
+      "zh-Hans": "cathrynlavery/diagram-design",
+      "en": "cathrynlavery/diagram-design",
+      "zh-Hant": "cathrynlavery/diagram-design"
+     },
+     "summary": {
+      "zh-Hans": "给 Claude Code、Codex、Copilot、Cursor 等用的图表设计技能，介绍里写支持 52 种图表、输出自包含的 HTML + SVG；今日约 620 星。",
+      "en": "A diagram-design skill for Claude Code, Codex, Copilot, Cursor and others, described as covering 52 diagram types with self-contained HTML + SVG output; about 620 stars today.",
+      "zh-Hant": "給 Claude Code、Codex、Copilot、Cursor 等用的圖表設計技能，介紹裡寫支援 52 種圖表、輸出自包含的 HTML + SVG；今日約 620 星。"
+     },
+     "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+     "title": {
+      "zh-Hans": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "en": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "zh-Hant": "nari-labs/Qwen3.8-27B-NariQ-GGUF"
+     },
+     "summary": {
+      "zh-Hans": "Qwen3.8-27B 的 3 / 2.5 / 2 bit 量化文件（约 10.1 / 8.4 / 6.8 GB），模型卡附有与 BF16 的对比表和技术报告链接；需用其 llama.cpp 分支运行。",
+      "en": "3-, 2.5- and 2-bit quantizations of Qwen3.8-27B (about 10.1, 8.4 and 6.8 GB); the model card includes comparison tables against BF16 and a link to the tech report; it needs their llama.cpp fork.",
+      "zh-Hant": "Qwen3.8-27B 的 3 / 2.5 / 2 bit 量化檔案（約 10.1 / 8.4 / 6.8 GB），模型卡附有與 BF16 的對比表和技術報告連結；需用其 llama.cpp 分支執行。"
+     },
+     "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog: issue statuses and repository boards",
+      "en": "GitHub Changelog: issue statuses and repository boards",
+      "zh-Hant": "GitHub Changelog: issue statuses and repository boards"
+     },
+     "summary": {
+      "zh-Hans": "11 月 23 日公开预览：Issue 有了 Backlog、Todo、In progress、In review 等状态，关联 PR 或分配给代理时会自动更新，并可通过 API 和 MCP 服务器读写；仓库视图新增看板布局。",
+      "en": "Public preview on 23 November: issues get statuses such as Backlog, Todo, In progress and In review that update automatically when PRs are linked or an agent is assigned, readable and writable through the API and the MCP server; repository views gain a board layout.",
+      "zh-Hant": "11 月 23 日公開預覽：Issue 有了 Backlog、Todo、In progress、In review 等狀態，關聯 PR 或分配給代理時會自動更新，並可透過 API 和 MCP 伺服器讀寫；倉庫檢視新增看板佈局。"
+     },
+     "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview"
+    }
+   ]
+  },
   {
    "date": "2026-11-23",
    "path": "digest/2026-11-23/",
