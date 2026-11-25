@@ -1,6 +1,288 @@
 {
- "latest": "2026-11-24",
+ "latest": "2026-11-25",
  "digests": [
+  {
+   "date": "2026-11-25",
+   "path": "digest/2026-11-25/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-25",
+    "en": "Morning tech digest · 2026-11-25",
+    "zh-Hant": "早間技術熱點 · 2026-11-25"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：Anthropic 跌破 IPO 价、黄仁勋复职风波继续发酵、Tidal 全面下架纯 AI 音乐、纽约州禁止汽车功能订阅费、AI 代理自动化攻击升温，以及面向普通人和小商家的可执行方向。",
+    "en": "Morning brief (Asia/Shanghai): Anthropic falls below its IPO price, the Jensen Huang saga keeps unfolding, Tidal bans fully AI-generated music, New York bans car-feature subscriptions, AI-agent attacks are rising, and ideas ordinary people and small businesses can use.",
+    "zh-Hant": "上海時間早間例行簡報：Anthropic 跌破 IPO 價、黃仁勳復職風波繼續發酵、Tidal 全面下架純 AI 音樂、紐約州禁止汽車功能訂閱費、AI 代理自動化攻擊升溫，以及面向普通人和小商家的可執行方向。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "Anthropic 股价跌破 83 美元发行价，上市不到一周",
+      "en": "Anthropic falls below its $83 IPO price less than a week after listing",
+      "zh-Hant": "Anthropic 股價跌破 83 美元發行價，上市不到一週"
+     },
+     "summary": {
+      "zh-Hans": "TechCrunch 报道：Anthropic 周二盘中最低到 76 美元，较周一收盘跌近 12%，跌破 83 美元的 IPO 价；不到一周前它在纳斯达克首日开在 111.50 美元。跌破发行价通常被看成负面信号，风投把它当作公开市场如何给 AI 公司定价的风向标，若持续走弱可能压低未上市 AI 公司估值。同日英伟达盘中也跌超 7%。X 上 Bernie Sanders 警告“AI 泡沫将破”的讨论同时上了热门话题。HN 约 320 分、630 多条评论。",
+      "en": "TechCrunch reports Anthropic traded as low as $76 on Tuesday, down nearly 12% from Monday’s close and below its $83 IPO price; less than a week ago it opened on Nasdaq at $111.50. Breaking issue is usually read as a bad sign, and VCs treat the stock as a barometer for how public markets value AI companies, so a lasting slide could weigh on private AI valuations. Nvidia also fell more than 7% intraday. On X, Bernie Sanders’ warning that the AI bubble is about to burst became a trending topic. About 320 points and more than 630 comments on HN.",
+      "zh-Hant": "TechCrunch 報道：Anthropic 週二盤中最低到 76 美元，較週一收盤跌近 12%，跌破 83 美元的 IPO 價；不到一週前它在納斯達克首日開在 111.50 美元。跌破發行價通常被看成負面訊號，風投把它當作公開市場如何給 AI 公司定價的風向標，若持續走弱可能壓低未上市 AI 公司估值。同日英偉達盤中也跌超 7%。X 上 Bernie Sanders 警告“AI 泡沫將破”的討論同時上了熱門話題。HN 約 320 分、630 多條評論。"
+     },
+     "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+     "extra": [
+      "https://x.com/i/trending/2125359751768715520",
+      "https://news.ycombinator.com/item?id=50627836"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "新进展：黄仁勋在全员会上道歉并否认特朗普促成复职；特朗普称“赦免是一个选项”",
+      "en": "Update: Huang apologizes at an all-hands and denies Trump got him rehired; Trump calls a pardon “an option”",
+      "zh-Hant": "新進展：黃仁勳在全員會上道歉並否認特朗普促成復職；特朗普稱“赦免是一個選項”"
+     },
+     "summary": {
+      "zh-Hans": "前两期写了黄仁勋复职和 12 月国会听证安排，今天的新进展：据 The Verge 汇总 Bloomberg、纽约时报等报道，黄仁勋在复职后首次全员会上向员工道歉，称“特朗普直接参与复职”的说法“完全不实”，说是董事会评估了全部情况。TechCrunch 报道特朗普接受纽约邮报采访时说赦免黄仁勋“总是一个选项，但我觉得没必要”。另有一篇法语链上分析称：Polymarket 上一个创建仅 81 小时的账户在特朗普发帖前 89 分钟停止买入，以约 6.5% 的赔率下注 4,648 美元，复职公告后变成 71,518 美元；作者也承认无法百分百确定动机。这篇分析 HN 约 465 分。",
+      "en": "Earlier briefs covered Jensen Huang’s reinstatement and his December hearings. New today: per The Verge, citing Bloomberg, The New York Times and others, Huang apologized to staff at his first all-hands since returning and called claims that Trump was directly involved “completely untrue”, saying the board evaluated the whole situation. TechCrunch reports Trump told the New York Post that pardoning Huang is “always an option” but probably unnecessary. Separately, an on-chain analysis in French says a Polymarket account created 81 hours earlier stopped buying 89 minutes before Trump’s post, having bet $4,648 at about 6.5% odds that turned into $71,518 after the announcement; the author concedes motive cannot be proven with certainty. That analysis has about 465 points on HN.",
+      "zh-Hant": "前兩期寫了黃仁勳復職和 12 月國會聽證安排，今天的新進展：據 The Verge 彙總 Bloomberg、紐約時報等報道，黃仁勳在復職後首次全員會上向員工道歉，稱“特朗普直接參與復職”的說法“完全不實”，說是董事會評估了全部情況。TechCrunch 報道特朗普接受紐約郵報採訪時說赦免黃仁勳“總是一個選項，但我覺得沒必要”。另有一篇法語鏈上分析稱：Polymarket 上一個建立僅 81 小時的賬戶在特朗普發帖前 89 分鐘停止買入，以約 6.5% 的賠率下注 4,648 美元，復職公告後變成 71,518 美元；作者也承認無法百分百確定動機。這篇分析 HN 約 465 分。"
+     },
+     "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+     "extra": [
+      "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "https://news.ycombinator.com/item?id=50626578"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Tidal 宣布 12 月 9 日起删除全部纯 AI 生成的歌曲",
+      "en": "Tidal will delete all fully AI-generated tracks from 9 December",
+      "zh-Hant": "Tidal 宣佈 12 月 9 日起刪除全部純 AI 生成的歌曲"
+     },
+     "summary": {
+      "zh-Hans": "Tidal 7 月才开始给纯 AI 歌曲打标签、取消分成，现在改成全面禁止。Ars Technica 报道：过去 90 天新上传里 43% 是纯 AI 生成，11 月 6 日一天甚至到 60%；平台上已标记为 AI 的约 2,700 万首（占曲库 6.3%）将在 12 月 9 日删除，其中 96% 在过去 90 天零播放。Variety 引用 Tidal 负责人的话：此后每天要拒收 8 万到 8.5 万首。只针对“完全由 AI 生成”的作品，用 AI 辅助、有人类创作成分的仍可上传。HN 约 315 分。",
+      "en": "Tidal only began labeling and demonetizing fully AI tracks in July; now it is banning them outright. Ars Technica reports 43% of new uploads in the past 90 days were fully AI-generated, hitting 60% on 6 November; about 27 million AI-labeled tracks (6.3% of the catalog) will be deleted on 9 December, and 96% of them had zero plays in the past 90 days. Variety quotes Tidal’s lead saying it will reject 80,000 to 85,000 songs a day. The ban covers only fully AI-generated work; music that uses AI but contains human elements is still allowed. About 315 points on HN.",
+      "zh-Hant": "Tidal 7 月才開始給純 AI 歌曲打標籤、取消分成，現在改成全面禁止。Ars Technica 報道：過去 90 天新上傳裡 43% 是純 AI 生成，11 月 6 日一天甚至到 60%；平臺上已標記為 AI 的約 2,700 萬首（佔曲庫 6.3%）將在 12 月 9 日刪除，其中 96% 在過去 90 天零播放。Variety 引用 Tidal 負責人的話：此後每天要拒收 8 萬到 8.5 萬首。只針對“完全由 AI 生成”的作品，用 AI 輔助、有人類創作成分的仍可上傳。HN 約 315 分。"
+     },
+     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+     "extra": [
+      "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/",
+      "https://news.ycombinator.com/item?id=50630309"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "纽约州：禁止汽车对已装好的功能收订阅费，并暂停销售 AI 聊天玩具 5 年",
+      "en": "New York bans subscriptions for built-in car features and pauses AI chatbot toys for five years",
+      "zh-Hant": "紐約州：禁止汽車對已裝好的功能收訂閱費，並暫停銷售 AI 聊天玩具 5 年"
+     },
+     "summary": {
+      "zh-Hans": "州长 Hochul 11 月 23 日签署法案：车企、经销商和第三方不得对“使用预装硬件、且没有持续成本”的功能（如座椅加热、导航增强、免手扶驾驶、娱乐）收订阅费或购后费用，2027 年 2 月 27 日生效；Ars Technica 指出“没有持续成本”这一条可能留下漏洞。次日她又签署法案，对内置联网 AI 聊天功能的儿童玩具实行 5 年禁售，90 天后生效，每次违规每天最高罚 1.5 万美元。汽车这条在 HN 约 761 分。",
+      "en": "Governor Hochul signed a bill on 23 November barring automakers, dealers and third parties from charging subscriptions or post-purchase fees for features that use pre-installed hardware with no ongoing cost, such as heated seats, enhanced navigation, hands-free driving and entertainment; it takes effect on 27 February 2027. Ars Technica notes the “no ongoing cost” wording may leave a loophole. The next day she signed a five-year moratorium on selling toys with built-in internet-connected AI chatbots, effective in 90 days, with penalties of up to $15,000 per day per violation. The car story has about 761 points on HN.",
+      "zh-Hant": "州長 Hochul 11 月 23 日簽署法案：車企、經銷商和第三方不得對“使用預裝硬體、且沒有持續成本”的功能（如座椅加熱、導航增強、免手扶駕駛、娛樂）收訂閱費或購後費用，2027 年 2 月 27 日生效；Ars Technica 指出“沒有持續成本”這一條可能留下漏洞。次日她又簽署法案，對內建聯網 AI 聊天功能的兒童玩具實行 5 年禁售，90 天后生效，每次違規每天最高罰 1.5 萬美元。汽車這條在 HN 約 761 分。"
+     },
+     "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+     "extra": [
+      "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+      "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+      "https://news.ycombinator.com/item?id=50622774"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "“LLM 代理替母公司干活，不是替你”：一篇博客引发 HN 热议",
+      "en": "“LLM agents work for their parent companies, not for you”: a blog post sparks a big HN thread",
+      "zh-Hant": "“LLM 代理替母公司幹活，不是替你”：一篇部落格引發 HN 熱議"
+     },
+     "summary": {
+      "zh-Hans": "作者用 Claude Code 写了个技能：从 Instagram 短视频识别歌曲，再去 Bandcamp 找购买链接。Bandcamp 给搜索接口加了验证后，Claude 主动表示不会帮他绕过。作者说自己本来也不打算绕，但让他在意的是：他付费的代理会先替厂商和版权方做判断，所以他想换成在家里跑的本地模型。同日 HN 上还有一条 Ask HN：一家公司说被 Anthropic 指控“蒸馏”模型，被要求 24 小时内自证（约 217 分）。博客这条 HN 约 880 分、370 条评论。",
+      "en": "The author built a Claude Code skill that identifies songs from Instagram reels and finds where to buy them on Bandcamp. After Bandcamp added a challenge to its search endpoint, Claude volunteered that it would not help get around it. The author says he never meant to bypass it, but what bothers him is that the agent he pays for makes judgments on behalf of vendors and rights holders first, so he wants a local model in his homelab. The same day an Ask HN from a company saying Anthropic accused it of distillation and gave it 24 hours to prove otherwise drew about 217 points. The blog post has about 880 points and 370 comments.",
+      "zh-Hant": "作者用 Claude Code 寫了個技能：從 Instagram 短影片識別歌曲，再去 Bandcamp 找購買連結。Bandcamp 給搜尋介面加了驗證後，Claude 主動表示不會幫他繞過。作者說自己本來也不打算繞，但讓他在意的是：他付費的代理會先替廠商和版權方做判斷，所以他想換成在家裡跑的本地模型。同日 HN 上還有一條 Ask HN：一家公司說被 Anthropic 指控“蒸餾”模型，被要求 24 小時內自證（約 217 分）。部落格這條 HN 約 880 分、370 條評論。"
+     },
+     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50627340"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "AI 代理自动攻击升温：亚马逊称攻击者的代理自己找到并利用了 0day",
+      "en": "AI-agent attacks rise: Amazon says attackers’ agents found and exploited a zero-day on their own",
+      "zh-Hant": "AI 代理自動攻擊升溫：亞馬遜稱攻擊者的代理自己找到並利用了 0day"
+     },
+     "summary": {
+      "zh-Hans": "Ars Technica 报道：亚马逊称，攻击者只给开源 AI 渗透测试框架 Cairn 一串 IP 和“拿到 shell”的目标，代理就在一所东亚大学服务器上的开源医学影像 AI 应用里发现并利用了 0day，拿下整台机器。英国 NCSC 同日表示自 9 月以来 AI 驱动的攻击“明显增加”，但被利用的多是暴露在公网的系统、弱口令和 API 端点这类积压多年的老问题，而不是新漏洞。GreyNoise 另披露一起针对 Check Point 安全管理服务器的入侵活动，10 月 17 日到 11 月 2 日至少波及 22 家机构（HN 约 253 分）。",
+      "en": "Ars Technica reports Amazon said attackers gave the open-source AI pentesting framework Cairn a list of IPs and the goal “obtain shell access”, and its agents found and exploited a zero-day in an open-source medical-imaging AI app on an East Asian university server, taking full control. The UK’s NCSC said the same day that AI-driven attacks have risen markedly since September, but they mostly exploit exposed systems, weak passwords and API endpoints, years of accumulated technical debt rather than new bugs. GreyNoise separately disclosed an intrusion campaign against Check Point Security Management Servers that hit at least 22 organizations between 17 October and 2 November (about 253 points on HN).",
+      "zh-Hant": "Ars Technica 報道：亞馬遜稱，攻擊者只給開源 AI 滲透測試框架 Cairn 一串 IP 和“拿到 shell”的目標，代理就在一所東亞大學伺服器上的開源醫學影像 AI 應用裡發現並利用了 0day，拿下整臺機器。英國 NCSC 同日表示自 9 月以來 AI 驅動的攻擊“明顯增加”，但被利用的多是暴露在公網的系統、弱口令和 API 端點這類積壓多年的老問題，而不是新漏洞。GreyNoise 另披露一起針對 Check Point 安全管理伺服器的入侵活動，10 月 17 日到 11 月 2 日至少波及 22 家機構（HN 約 253 分）。"
+     },
+     "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+     "extra": [
+      "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "https://news.ycombinator.com/item?id=50630594"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Quad9 停止向法国用户提供 DNS 服务",
+      "en": "Quad9 shuts off its DNS service for users in France",
+      "zh-Hant": "Quad9 停止向法國使用者提供 DNS 服務"
+     },
+     "summary": {
+      "zh-Hans": "公益 DNS 解析服务 Quad9 宣布，11 月 24 日巴黎时间 9:00 起拒绝所有来自法国的查询。原因是体育版权方 beIN 要求它屏蔽涉嫌盗播的域名，法国法院支持了这一要求，Quad9 不执行已被罚款。Quad9 说自己反对盗版，但坚持递归 DNS 不该被当作内容屏蔽工具，屏蔽它也碰不到真正的源站，所以选择退出法国；它也承认这会让不知情的用户突然断网、改用隐私保护更差的解析服务。HN 约 340 分。",
+      "en": "The nonprofit DNS resolver Quad9 began refusing every query from France at 09:00 Paris time on 24 November. Sports rights holder beIN demanded it block domains tied to piracy streams, French courts sided with beIN, and Quad9 was fined for not complying. Quad9 says it opposes piracy but that recursive resolvers should not be used for content blocking, which does not touch the servers hosting the content, so it is withdrawing; it admits unaware users will suddenly lose resolution and may move to less private resolvers. About 340 points on HN.",
+      "zh-Hant": "公益 DNS 解析服務 Quad9 宣佈，11 月 24 日巴黎時間 9:00 起拒絕所有來自法國的查詢。原因是體育版權方 beIN 要求它遮蔽涉嫌盜播的域名，法國法院支援了這一要求，Quad9 不執行已被罰款。Quad9 說自己反對盜版，但堅持遞迴 DNS 不該被當作內容遮蔽工具，遮蔽它也碰不到真正的源站，所以選擇退出法國；它也承認這會讓不知情的使用者突然斷網、改用隱私保護更差的解析服務。HN 約 340 分。"
+     },
+     "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50625384"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "“2035 提前到了”：在浏览器里直接跑 Nix 软件包和图形程序",
+      "en": "“2035 came early”: running Nix packages and GUI apps straight in the browser",
+      "zh-Hant": "“2035 提前到了”：在瀏覽器裡直接跑 Nix 軟體包和圖形程式"
+     },
+     "summary": {
+      "zh-Hans": "作者 Farid Zakaria 借 Gary Bernhardt 的经典演讲《The Birth & Death of JavaScript》开题：当年设想到 2035 年才会出现的“一切都跑在浏览器里”，大模型让它提前实现了。他的 trynix.dev 原本用浏览器里的 QEMU 跑 Nix 软件包，慢到更像玩具；换上 11 月 19 日发布的 unkernel（把 Linux 内核编译成 WebAssembly，只模拟用户程序）后，速度快了 2 到 32 倍，现在能直接在网页里跑接龙、xeyes 甚至 Firefox。HN 约 951 分。",
+      "en": "Farid Zakaria riffs on Gary Bernhardt’s classic talk “The Birth & Death of JavaScript”: the everything-runs-in-the-browser future it placed in 2035 has arrived early thanks to LLMs. His trynix.dev used to run Nix packages through QEMU in the browser, slow enough to feel like a toy; after switching to unkernel, released on 19 November, which compiles the Linux kernel to WebAssembly and only emulates user programs, it is 2 to 32 times faster and now runs solitaire, xeyes and even Firefox in a web page. About 951 points on HN.",
+      "zh-Hant": "作者 Farid Zakaria 借 Gary Bernhardt 的經典演講《The Birth & Death of JavaScript》開題：當年設想到 2035 年才會出現的“一切都跑在瀏覽器裡”，大模型讓它提前實現了。他的 trynix.dev 原本用瀏覽器裡的 QEMU 跑 Nix 軟體包，慢到更像玩具；換上 11 月 19 日釋出的 unkernel（把 Linux 核心編譯成 WebAssembly，只模擬使用者程式）後，速度快了 2 到 32 倍，現在能直接在網頁裡跑接龍、xeyes 甚至 Firefox。HN 約 951 分。"
+     },
+     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+     "extra": [
+      "https://trynix.dev",
+      "https://news.ycombinator.com/item?id=50624497"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "小公司的“对外暴露面”周检 — 英国 NCSC 说现在的 AI 自动化攻击主要打的是公网暴露的系统、弱口令和 API 端点，不是新漏洞；Cairn 这类开源渗透框架谁都能下载：一周做一个只扫客户自己授权资产的周检服务（开放端口、默认口令、过期组件、管理后台是否暴露），出大白话修复清单，按月收费。",
+     "给网站的“AI 代理访问”验证层 — Walmart 用 Agent Gateway 接入 Meta 的 Muse 做黑五购物，YC 公司 Versine 在 Launch HN 推出让代理收付款的 MCP，X 上也在热议“Accountable Agents Framework”这类代理身份框架：一周做一个中间件，给网站识别“这是谁的代理”、限额、需人工确认的操作和审计日志，卖给想接代理流量又怕出事的电商和 SaaS。",
+     "浏览器里免安装的命令行教程 — unkernel 把 Linux 内核编译成 WebAssembly，trynix.dev 已能在网页里跑真实软件包：一周把一门命令行或运维入门课做成“打开网页就有真实终端”的交互教程，不用学员装环境，卖给培训机构和企业内训。",
+     "预测市场异常交易的公开监控 — 有人用链上数据追出 Polymarket 上可能的提前下注，文章在 HN 约 465 分：一周做一个只读公开链上数据的看板，盯住新钱包、单一事件重仓、公告前集中买入等信号，做成给记者和研究者的订阅简报。",
+     "音乐发行前的“AI 含量”自查 — Tidal 12 月 9 日起删除纯 AI 歌曲，Apple Music、Spotify 也在加标签：一周给独立音乐人和小厂牌做发行前自查，整理工程文件、分轨和创作过程记录，对照各平台公开规则生成说明材料，降低被误判下架的风险。"
+    ],
+    "en": [
+     "A weekly exposure check for small companies — The UK NCSC says today’s AI-driven attacks mostly hit internet-exposed systems, weak passwords and API endpoints rather than new bugs, and open-source pentest frameworks like Cairn are free for anyone. In a week, build a weekly check that scans only assets the client authorizes (open ports, default passwords, outdated components, exposed admin panels) and returns a plain-language fix list, billed monthly.",
+     "An agent-verification layer for websites — Walmart is using its Agent Gateway to let Meta’s Muse shop its Black Friday deals, YC startup Versine launched an MCP for agents to send and request money, and X is discussing agent-identity proposals such as the Accountable Agents Framework. In a week, build middleware that tells a site whose agent is calling, enforces limits, requires human confirmation for risky actions and keeps an audit log, for shops and SaaS that want agent traffic without the risk.",
+     "Install-free command-line tutorials in the browser — unkernel compiles the Linux kernel to WebAssembly and trynix.dev already runs real packages in a web page. In a week, turn a command-line or ops beginner course into an interactive tutorial with a real terminal in the page and nothing to install, sold to training providers and corporate learning teams.",
+     "Public monitoring of unusual prediction-market trades — An on-chain analysis of a possible early bet on Polymarket drew about 465 points on HN. In a week, build a dashboard that reads only public on-chain data and flags new wallets, single-event concentration and buying just before announcements, packaged as a subscription brief for journalists and researchers.",
+     "An “AI content” pre-check before music distribution — Tidal will delete fully AI tracks from 9 December, and Apple Music and Spotify are adding labels. In a week, build a pre-release check for independent musicians and small labels that gathers project files, stems and process notes and produces documentation against each platform’s public rules, lowering the risk of wrongful takedowns."
+    ],
+    "zh-Hant": [
+     "小公司的“對外暴露面”周檢 — 英國 NCSC 說現在的 AI 自動化攻擊主要打的是公網暴露的系統、弱口令和 API 端點，不是新漏洞；Cairn 這類開源滲透框架誰都能下載：一週做一個只掃客戶自己授權資產的周檢服務（開放埠、預設口令、過期元件、管理後臺是否暴露），出大白話修復清單，按月收費。",
+     "給網站的“AI 代理訪問”驗證層 — Walmart 用 Agent Gateway 接入 Meta 的 Muse 做黑五購物，YC 公司 Versine 在 Launch HN 推出讓代理收付款的 MCP，X 上也在熱議“Accountable Agents Framework”這類代理身份框架：一週做一箇中介軟體，給網站識別“這是誰的代理”、限額、需人工確認的操作和審計日誌，賣給想接代理流量又怕出事的電商和 SaaS。",
+     "瀏覽器裡免安裝的命令列教程 — unkernel 把 Linux 核心編譯成 WebAssembly，trynix.dev 已能在網頁裡跑真實軟體包：一週把一門命令列或運維入門課做成“開啟網頁就有真實終端”的互動教程，不用學員裝環境，賣給培訓機構和企業內訓。",
+     "預測市場異常交易的公開監控 — 有人用鏈上資料追出 Polymarket 上可能的提前下注，文章在 HN 約 465 分：一週做一個只讀公開鏈上資料的看板，盯住新錢包、單一事件重倉、公告前集中買入等訊號，做成給記者和研究者的訂閱簡報。",
+     "音樂發行前的“AI 含量”自查 — Tidal 12 月 9 日起刪除純 AI 歌曲，Apple Music、Spotify 也在加標籤：一週給獨立音樂人和小廠牌做發行前自查，整理工程檔案、分軌和創作過程記錄，對照各平臺公開規則生成說明材料，降低被誤判下架的風險。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "买车和用车的“隐藏收费”核对器 — 车主或准备买车的人上传报价单、合同或车机里的订阅列表，工具逐项标出哪些是附加费、哪些是已装硬件的订阅，并生成询问或退订的话术。 纽约州刚立法禁止对已装好的功能收订阅费，2027 年 2 月 27 日生效，州长新闻稿点名座椅加热、导航增强、免手扶驾驶；这条在 HN 约 761 分。买车、养车是极普通的大额开销，几乎每个车主都看不懂合同里的各种费用。",
+     "节日送礼的“儿童 AI 玩具”安全核查 — 家长输入想买的玩具名称或链接，工具查它有没有内置联网 AI 聊天、会不会录音或拍脸、有没有家长控制，给出“买 / 慎买 / 换一个”的建议和替代品。 纽约州 11 月 24 日签署 AI 聊天玩具 5 年禁售令，但 90 天后才生效，州长特意提醒家长这个节日季购买前先看清；新闻稿引用消费者监督组织的测试：部分面向 3–12 岁的玩具会聊露骨话题、告诉孩子去哪找火柴。Pinterest 同周也推出让家长限制孩子看到 AI 生成内容的设置。有孩子的家庭基数极大，节日季正是买玩具高峰。",
+     "创作者的“人类创作过程”存档 — 给写作者、音乐人、插画师：自动按时间保存草稿、分轨、图层和修改记录，一键生成“创作过程说明”，在被质疑是 AI 生成或平台审核时拿得出证据。 Tidal 将删除约 2,700 万首纯 AI 歌曲，过去 90 天新上传里 43% 是纯 AI；Apple Music、Spotify 也在加 AI 标签。平台审核越来越严，误判的代价落在真人创作者身上。独立音乐人、网文和同人作者、自由插画师人数众多。",
+     "家庭“AI 代理购物”的护栏设置 — 一步步带用户给 AI 购物代理设好花费上限、下单前确认、可用的店铺和收货地址，并每周汇总代理下过的单，发现异常就提醒。 TechCrunch 报道：Walmart 让 Meta 的 Muse 代理直接购买黑五商品，Muse 也进了 Instagram 私信；Meta 10 月称美国和加拿大 6 周内超过 1,000 万人设置了 Muse。同日另一篇报道的 ShellBench 测试显示，最强模型做日常代理任务失败率仍超过三分之一，15.7% 的尝试违反至少一项安全要求。用代理购物的普通人正在快速变多。",
+     "小公司的“大厂云服务停摆”应急包 — 给用 Microsoft 365 或 Google Workspace 的小公司：提前准备好备用联络渠道、关键联系人和客户名单的离线副本、停摆时的对外通知模板，并在官方状态页报故障时自动提醒。 Ars Technica 报道：11 月 12 日的故障让全球用户无法使用 Exchange Online、Teams 和 Outlook，微软内部备忘录称这是 Exchange Online 史上客户影响最大的一次，并启动“Code Red”；HN 约 212 分。绝大多数小公司的邮件、会议、文档都压在一家套件上，停一天就没法接单。",
+     "小网店的“AI 代理可下单”准备度检查 — 网店店主输入店铺网址，工具检查商品信息（价格、库存、尺码、退换政策、运费）是否清楚、结构化、能被 AI 购物代理读懂，并生成逐条修改建议。 Walmart 推出 Agent Gateway 让外部 AI 助手直接接入下单，并计划开放给更多开发者和 AI 平台；Muse 已有超过 1,000 万人设置。代理购物变多以后，商品信息写不清的小店会被跳过。做电商的小商家数量庞大，多数没有技术团队。"
+    ],
+    "en": [
+     "A checker for hidden car fees — Car buyers and owners upload a quote, contract or the in-car subscription list; the tool flags add-on fees and subscriptions for pre-installed hardware, and drafts questions or cancellation messages. New York just banned subscriptions for features using pre-installed hardware, effective 27 February 2027, with the governor’s release naming heated seats, enhanced navigation and hands-free driving; the story has about 761 points on HN. Buying and running a car is a common big expense, and most owners cannot decode the fees in their contracts.",
+     "A holiday safety check for children’s AI toys — Parents enter a toy’s name or link; the tool checks whether it has a built-in internet AI chatbot, whether it records voice or scans faces, and whether it has parental controls, then suggests buy, think twice or pick something else, with alternatives. New York signed a five-year moratorium on AI chatbot toys on 24 November, but it only takes effect in 90 days, so the governor urged parents to check before buying this season; the release cites a consumer watchdog’s tests in which some toys for ages 3 to 12 discussed explicit topics and told kids where to find matches. Pinterest also added a setting this week that lets parents limit AI-generated content for teens. Families with children are a huge group, and the holidays are peak toy-buying season.",
+     "A human-process archive for creators — For writers, musicians and illustrators: automatically keep time-stamped drafts, stems, layers and revisions, and generate a “creative process” summary in one click, as evidence when accused of using AI or during platform review. Tidal will delete about 27 million fully AI tracks after 43% of new uploads in 90 days were fully AI, and Apple Music and Spotify are adding AI labels. As platforms tighten review, the cost of mistakes falls on human creators, and there are huge numbers of independent musicians, web-fiction and fan-fiction writers and freelance illustrators.",
+     "Guardrails for family AI shopping agents — A step-by-step setup that gives an AI shopping agent spending limits, confirmation before purchase, allowed stores and delivery addresses, plus a weekly summary of the agent’s orders with alerts for anything unusual. TechCrunch reports Walmart now lets Meta’s Muse buy Black Friday deals, and Muse has arrived in Instagram DMs; Meta said in October that more than 10 million people in the US and Canada set up Muse within six weeks. Another report the same day says the ShellBench benchmark found top models still fail more than a third of everyday agent tasks, and 15.7% of attempts broke at least one safety requirement. The number of ordinary people shopping through agents is growing fast.",
+     "An outage kit for small firms that rely on big cloud suites — For small firms on Microsoft 365 or Google Workspace: set up backup contact channels, offline copies of key contacts and customer lists, and customer notice templates in advance, with automatic alerts when the official status page reports an incident. Ars Technica reports the 12 November outage cut off Exchange Online, Teams and Outlook for users worldwide; internal Microsoft memos called it the most customer-impacting incident in Exchange Online’s history and declared a “Code Red” (about 212 points on HN). Most small firms run email, meetings and documents on a single suite, and a day down means no orders.",
+     "An agent-readiness check for small online shops — Shop owners enter their store URL; the tool checks whether product information (price, stock, sizes, returns, shipping) is clear, structured and readable by AI shopping agents, then produces item-by-item fixes. Walmart launched an Agent Gateway that lets outside AI assistants connect and order directly, and plans to open it to more developers and AI platforms; more than 10 million people have set up Muse. As agent shopping grows, small shops with unclear product data get skipped, and the many small online sellers mostly have no tech team."
+    ],
+    "zh-Hant": [
+     "買車和用車的“隱藏收費”核對器 — 車主或準備買車的人上傳報價單、合同或車機裡的訂閱列表，工具逐項標出哪些是附加費、哪些是已裝硬體的訂閱，並生成詢問或退訂的話術。 紐約州剛立法禁止對已裝好的功能收訂閱費，2027 年 2 月 27 日生效，州長新聞稿點名座椅加熱、導航增強、免手扶駕駛；這條在 HN 約 761 分。買車、養車是極普通的大額開銷，幾乎每個車主都看不懂合同裡的各種費用。",
+     "節日送禮的“兒童 AI 玩具”安全核查 — 家長輸入想買的玩具名稱或連結，工具查它有沒有內建聯網 AI 聊天、會不會錄音或拍臉、有沒有家長控制，給出“買 / 慎買 / 換一個”的建議和替代品。 紐約州 11 月 24 日簽署 AI 聊天玩具 5 年禁售令，但 90 天后才生效，州長特意提醒家長這個節日季購買前先看清；新聞稿引用消費者監督組織的測試：部分面向 3–12 歲的玩具會聊露骨話題、告訴孩子去哪找火柴。Pinterest 同周也推出讓家長限制孩子看到 AI 生成內容的設定。有孩子的家庭基數極大，節日季正是買玩具高峰。",
+     "創作者的“人類創作過程”存檔 — 給寫作者、音樂人、插畫師：自動按時間儲存草稿、分軌、圖層和修改記錄，一鍵生成“創作過程說明”，在被質疑是 AI 生成或平臺稽核時拿得出證據。 Tidal 將刪除約 2,700 萬首純 AI 歌曲，過去 90 天新上傳裡 43% 是純 AI；Apple Music、Spotify 也在加 AI 標籤。平臺稽核越來越嚴，誤判的代價落在真人創作者身上。獨立音樂人、網文和同人作者、自由插畫師人數眾多。",
+     "家庭“AI 代理購物”的護欄設定 — 一步步帶使用者給 AI 購物代理設好花費上限、下單前確認、可用的店鋪和收貨地址，並每週彙總代理下過的單，發現異常就提醒。 TechCrunch 報道：Walmart 讓 Meta 的 Muse 代理直接購買黑五商品，Muse 也進了 Instagram 私信；Meta 10 月稱美國和加拿大 6 周內超過 1,000 萬人設定了 Muse。同日另一篇報道的 ShellBench 測試顯示，最強模型做日常代理任務失敗率仍超過三分之一，15.7% 的嘗試違反至少一項安全要求。用代理購物的普通人正在快速變多。",
+     "小公司的“大廠雲服務停擺”應急包 — 給用 Microsoft 365 或 Google Workspace 的小公司：提前準備好備用聯絡渠道、關鍵聯絡人和客戶名單的離線副本、停擺時的對外通知模板，並在官方狀態頁報故障時自動提醒。 Ars Technica 報道：11 月 12 日的故障讓全球使用者無法使用 Exchange Online、Teams 和 Outlook，微軟內部備忘錄稱這是 Exchange Online 史上客戶影響最大的一次，並啟動“Code Red”；HN 約 212 分。絕大多數小公司的郵件、會議、文件都壓在一家套件上，停一天就沒法接單。",
+     "小網店的“AI 代理可下單”準備度檢查 — 網店店主輸入店鋪網址，工具檢查商品資訊（價格、庫存、尺碼、退換政策、運費）是否清楚、結構化、能被 AI 購物代理讀懂，並生成逐條修改建議。 Walmart 推出 Agent Gateway 讓外部 AI 助手直接接入下單，並計劃開放給更多開發者和 AI 平臺；Muse 已有超過 1,000 萬人設定。代理購物變多以後，商品資訊寫不清的小店會被跳過。做電商的小商家數量龐大，多數沒有技術團隊。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "elementalsouls/Claude-BugHunter",
+      "en": "elementalsouls/Claude-BugHunter",
+      "zh-Hant": "elementalsouls/Claude-BugHunter"
+     },
+     "summary": {
+      "zh-Hans": "给 Claude Code 用的漏洞挖掘和外部红队技能包，介绍里写有 84 个技能、15 个斜杠命令、681 条公开报告模式；今日 GitHub Trending 约 1,826 星，适合防守方对照自查。",
+      "en": "A Claude Code skill bundle for bug hunting and external red-team work, described as 84 skills, 15 slash commands and 681 disclosed-report patterns; about 1,826 stars today on GitHub Trending, useful for defenders to check themselves against.",
+      "zh-Hant": "給 Claude Code 用的漏洞挖掘和外部紅隊技能包，介紹裡寫有 84 個技能、15 個斜槓命令、681 條公開報告模式；今日 GitHub Trending 約 1,826 星，適合防守方對照自查。"
+     },
+     "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+     "title": {
+      "zh-Hans": "HKUDS/CLI-Anything",
+      "en": "HKUDS/CLI-Anything",
+      "zh-Hant": "HKUDS/CLI-Anything"
+     },
+     "summary": {
+      "zh-Hans": "口号是“让所有软件都能被代理调用”，给软件生成命令行接口；今日约 1,074 星。",
+      "en": "Billed as “making all software agent-native” by generating command-line interfaces for software; about 1,074 stars today.",
+      "zh-Hant": "口號是“讓所有軟體都能被代理呼叫”，給軟體生成命令列介面；今日約 1,074 星。"
+     },
+     "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+     "title": {
+      "zh-Hans": "mjmirza/app-store-compliance",
+      "en": "mjmirza/app-store-compliance",
+      "zh-Hant": "mjmirza/app-store-compliance"
+     },
+     "summary": {
+      "zh-Hans": "整理了 124 种 App Store / Google Play 常见拒审模式和修法、隐私清单检查，以及 112 个跟踪中的法规截止日期，并附给编程代理用的技能；今日约 928 星。",
+      "en": "Documents 124 common App Store and Google Play rejection patterns with fixes, privacy manifest and data safety checks, and 112 tracked regulatory deadlines, plus a skill for coding agents; about 928 stars today.",
+      "zh-Hant": "整理了 124 種 App Store / Google Play 常見拒審模式和修法、隱私清單檢查，以及 112 個跟蹤中的法規截止日期，並附給程式設計代理用的技能；今日約 928 星。"
+     },
+     "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+     "title": {
+      "zh-Hans": "zhouxiaoka/autoclip",
+      "en": "zhouxiaoka/autoclip",
+      "zh-Hant": "zhouxiaoka/autoclip"
+     },
+     "summary": {
+      "zh-Hans": "开源 AI 视频剪辑桌面工具，把播客、访谈、课程等长视频自动剪成短视频并生成字幕、封面和发布文案；今日约 980 星。",
+      "en": "An open-source desktop AI clipping tool that cuts podcasts, interviews and lessons into short videos with subtitles, covers and post copy; about 980 stars today.",
+      "zh-Hant": "開源 AI 影片剪輯桌面工具，把播客、訪談、課程等長影片自動剪成短影片並生成字幕、封面和釋出文案；今日約 980 星。"
+     },
+     "url": "https://github.com/zhouxiaoka/autoclip"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog: more predictable notifications",
+      "en": "GitHub Changelog: more predictable notifications",
+      "zh-Hant": "GitHub Changelog: more predictable notifications"
+     },
+     "summary": {
+      "zh-Hans": "11 月 24 日公告：12 月 1 日起用一周迁移 GitHub.com 通知。手动退订后，评论、提交审查等日常操作不会再把你重新订阅（被 @、被指派、被请求审查仍会）；团队提及的通知改为跟随当前团队成员关系。不适用于 GitHub Enterprise Server。",
+      "en": "Announced on 24 November: from 1 December GitHub.com notifications migrate over a week. After you unsubscribe, routine actions such as commenting or reviewing no longer resubscribe you (mentions, assignments and review requests still do), and team-mention notifications follow current team membership. GitHub Enterprise Server is not affected.",
+      "zh-Hant": "11 月 24 日公告：12 月 1 日起用一週遷移 GitHub.com 通知。手動退訂後，評論、提交審查等日常操作不會再把你重新訂閱（被 @、被指派、被請求審查仍會）；團隊提及的通知改為跟隨當前團隊成員關係。不適用於 GitHub Enterprise Server。"
+     },
+     "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog: secret scanning cuts Slack false positives",
+      "en": "GitHub Changelog: secret scanning cuts Slack false positives",
+      "zh-Hant": "GitHub Changelog: secret scanning cuts Slack false positives"
+     },
+     "summary": {
+      "zh-Hans": "11 月 23 日：密钥扫描对 Slack incoming webhook 的检测排除了不符合官方 webhook 地址格式的 URL，误报更少。",
+      "en": "23 November: secret scanning now ignores URLs that do not match Slack’s incoming-webhook format when detecting slack_incoming_webhook_url, cutting false positives.",
+      "zh-Hant": "11 月 23 日：金鑰掃描對 Slack incoming webhook 的檢測排除了不符合官方 webhook 地址格式的 URL，誤報更少。"
+     },
+     "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack"
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "path": "digest/2026-11-24/",
