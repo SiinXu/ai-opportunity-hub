@@ -1,6 +1,288 @@
 {
- "latest": "2026-11-25",
+ "latest": "2026-11-26",
  "digests": [
+  {
+   "date": "2026-11-26",
+   "path": "digest/2026-11-26/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-26",
+    "en": "Morning tech digest · 2026-11-26",
+    "zh-Hant": "早間技術熱點 · 2026-11-26"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：Anthropic 发布压缩版黎曼猜想 Lean 证明、OpenAI 公开 730 篇数学手稿并证伪多项式 Hirsch 猜想、Google 放出一批分解与离散对数论文、1Password 和 Defang 先后因 GitHub 账号或应用被攻破泄露数据、Linux NFS 服务端 12 年老漏洞，以及面向普通人和小商家的可执行方向。",
+    "en": "Morning brief (Asia/Shanghai): Anthropic ships a shortened Lean proof of the Riemann Hypothesis, OpenAI publishes 730 math manuscripts including a disproof of the polynomial Hirsch conjecture, Google drops a batch of factoring and discrete-log papers, 1Password and Defang both lose data through compromised GitHub access, a 12-year-old Linux NFS server bug, and ideas ordinary people and small businesses can use.",
+    "zh-Hant": "上海時間早間例行簡報：Anthropic 釋出壓縮版黎曼猜想 Lean 證明、OpenAI 公開 730 篇數學手稿並證偽多項式 Hirsch 猜想、Google 放出一批分解與離散對數論文、1Password 和 Defang 先後因 GitHub 賬號或應用被攻破洩露資料、Linux NFS 服務端 12 年老漏洞，以及面向普通人和小商家的可執行方向。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "新进展：Anthropic 发布压缩版黎曼猜想 Lean 证明，约 7.6 万行",
+      "en": "Update: Anthropic researchers publish a shortened Lean proof of the Riemann Hypothesis, about 76,000 lines",
+      "zh-Hant": "新進展：Anthropic 釋出壓縮版黎曼猜想 Lean 證明，約 7.6 萬行"
+     },
+     "summary": {
+      "zh-Hans": "11 月 23 日的简报只提到有人估算黎曼猜想的 Lean 形式化约 1700 万行。今天的新进展：Luke Sernau 在 GitHub 发布了和 Anthropic 同事及 Claude 合作做的缩短版，基于 Levent Alpöge 的证明。仓库说明有两个版本：可读版约 30 万行，压缩版约 7.6 万行，都覆盖同样的 5 个定理（黎曼猜想及 Dirichlet L 函数的广义黎曼猜想），只用 propext、Classical.choice、Quot.sound 三个标准公理；完整构建要 Lean v4.35.0，12 核、24 GB 内存约 1 到 2 小时。仓库自己也写明：目前只通过了机器检查，没有数学家通读过，也没有配套论文。Ars Technica 本周的解读强调，AI 目前解决的都是人类早已认定重要的问题，还看不出它能自己提出重要问题。HN 约 203 分、88 条评论，有评论指出仓库不在 Anthropic 官方账号下。",
+      "en": "The 23 November brief only mentioned an estimate that the Lean formalization of the Riemann Hypothesis runs to about 17 million lines. Today’s development: Luke Sernau published on GitHub a shorter version made with Anthropic colleagues and Claude, based on Levent Alpöge’s proof. The repository has two editions, a readable one of about 300,000 lines and a compact one of about 76,000 lines, both covering the same five theorems (the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet L-functions) and using only the three standard axioms propext, Classical.choice and Quot.sound; a full build needs Lean v4.35.0 and takes one to two hours on 12 cores with 24 GB of memory. The repository itself states that the proof has passed machine checks only, that no mathematician has read it through and that no paper accompanies it. Ars Technica’s explainer this week stresses that AI has so far solved problems humans already considered important and shows no sign yet of posing important problems itself. About 203 points and 88 comments on HN; one commenter notes the repository is not under an official Anthropic account.",
+      "zh-Hant": "11 月 23 日的簡報只提到有人估算黎曼猜想的 Lean 形式化約 1700 萬行。今天的新進展：Luke Sernau 在 GitHub 釋出了和 Anthropic 同事及 Claude 合作做的縮短版，基於 Levent Alpöge 的證明。倉庫說明有兩個版本：可讀版約 30 萬行，壓縮版約 7.6 萬行，都覆蓋同樣的 5 個定理（黎曼猜想及 Dirichlet L 函式的廣義黎曼猜想），只用 propext、Classical.choice、Quot.sound 三個標準公理；完整構建要 Lean v4.35.0，12 核、24 GB 記憶體約 1 到 2 小時。倉庫自己也寫明：目前只透過了機器檢查，沒有數學家通讀過，也沒有配套論文。Ars Technica 本週的解讀強調，AI 目前解決的都是人類早已認定重要的問題，還看不出它能自己提出重要問題。HN 約 203 分、88 條評論，有評論指出倉庫不在 Anthropic 官方賬號下。"
+     },
+     "url": "https://github.com/lsernau/grh-lean",
+     "extra": [
+      "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "https://x.com/i/trending/2125737278664524136",
+      "https://news.ycombinator.com/item?id=50648050"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "OpenAI 公开 730 篇数学手稿，其中一篇证伪多项式 Hirsch 猜想",
+      "en": "OpenAI publishes 730 math manuscripts, one of them disproving the polynomial Hirsch conjecture",
+      "zh-Hant": "OpenAI 公開 730 篇數學手稿，其中一篇證偽多項式 Hirsch 猜想"
+     },
+     "summary": {
+      "zh-Hans": "openai/math 仓库说明：这些手稿和证明材料由 OpenAI 一个未公开名称的内部模型生成，目前收录 730 篇、375 个主题族，约 42% 的主要结论带 Lean 形式化；OpenAI 自己写明有些未形式化的结果可能有问题，并把它们称为“原始研究数据”而不是成稿论文。其中 11 月 24 日的预印本称为每个足够大的 n 构造出有 n 个面的有界简单多面体，其图直径增长快于任何固定次幂，即证伪多项式 Hirsch 猜想；HN 上有评论解释这意味着不存在多项式时间的单纯形法路径界，同时提醒原版 Hirsch 猜想早在 2010 年已被证伪，这更像收尾。Scott Aaronson 的博客（HN 约 790 分、648 条评论）转述 OpenAI 声称矩阵乘法指数 ω 恰为 9/4，以及傅里叶变换所需线性门数的上下界，并说他的工作假设是实验室直接发布且附 Lean 证书的证明大概率正确，但他也明确没有核实任何密码学方面的传闻。这些说法我没有独立验证，请以原始手稿和形式化状态为准。",
+      "en": "The openai/math repository says the manuscripts and proof artifacts were produced by an unnamed internal OpenAI model; the catalogue holds 730 manuscripts in 375 families and about 42% of top-line results have Lean formalizations. OpenAI itself writes that some unformalized results could have issues and calls the files raw research data rather than polished papers. A preprint dated 24 November says that for every sufficiently large n it constructs a bounded simple polytope with n facets whose graph diameter grows faster than any fixed power, disproving the polynomial Hirsch conjecture; an HN commenter explains this means there is no polynomial bound on simplex-style paths, while noting the original Hirsch conjecture was already disproved in 2010 so this reads as mopping up. Scott Aaronson’s blog (about 790 points and 648 comments on HN) relays OpenAI’s claim that the matrix-multiplication exponent ω is exactly 9/4 plus bounds for linear gates needed for the Fourier transform, and says his working assumption is that proofs released directly by the labs with Lean certificates are probably correct, though he explicitly did not verify any cryptography rumors. I have not independently verified these claims; rely on the original manuscripts and their formalization status.",
+      "zh-Hant": "openai/math 倉庫說明：這些手稿和證明材料由 OpenAI 一個未公開名稱的內部模型生成，目前收錄 730 篇、375 個主題族，約 42% 的主要結論帶 Lean 形式化；OpenAI 自己寫明有些未形式化的結果可能有問題，並把它們稱為“原始研究資料”而不是成稿論文。其中 11 月 24 日的預印本稱為每個足夠大的 n 構造出有 n 個面的有界簡單多面體，其圖直徑增長快於任何固定次冪，即證偽多項式 Hirsch 猜想；HN 上有評論解釋這意味著不存在多項式時間的單純形法路徑界，同時提醒原版 Hirsch 猜想早在 2010 年已被證偽，這更像收尾。Scott Aaronson 的部落格（HN 約 790 分、648 條評論）轉述 OpenAI 聲稱矩陣乘法指數 ω 恰為 9/4，以及傅立葉變換所需線性門數的上下界，並說他的工作假設是實驗室直接釋出且附 Lean 證書的證明大機率正確，但他也明確沒有核實任何密碼學方面的傳聞。這些說法我沒有獨立驗證，請以原始手稿和形式化狀態為準。"
+     },
+     "url": "https://github.com/openai/math",
+     "extra": [
+      "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "https://scottaaronson.blog/?p=10379",
+      "https://news.ycombinator.com/item?id=50646108",
+      "https://news.ycombinator.com/item?id=50644980"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Google 放出 Cogentic 的 6 篇新论文，含整数分解与离散对数",
+      "en": "Google releases six new Cogentic papers, including integer factoring and discrete logs",
+      "zh-Hant": "Google 放出 Cogentic 的 6 篇新論文，含整數分解與離散對數"
+     },
+     "summary": {
+      "zh-Hans": "google-research 仓库里的 Cogentic 目录在 11 月 25 日列出 6 篇新论文，标题包括：无条件的 L_N[1/3, O(1)] 整数分解、固定特征有限域上亚拟多项式时间的离散对数、双矩阵博弈 1/5 近似纳什均衡的多项式时间精确算法、突破对数秩猜想的平方根壁垒、线性密度简单图的边重构。目录声明“不是 Google 官方产品”，代码和文档用 Apache 2.0。HN 约 435 分、324 条评论；评论里有人把 Cogentic 描述为让现有大模型协作的多智能体“证明发现”框架，也有人问能否由此在经典计算机上分解大整数。我读到的页面只有论文标题和 PDF 链接，没有看到对现有加密的实际攻击，也没有人工审稿结论，所以应当先当作待验证的预印本。",
+      "en": "The Cogentic folder in the google-research repository lists six new papers dated 25 November, with titles including unconditional integer factorization in time L_N[1/3, O(1)], discrete logarithms in finite fields of fixed characteristic in sub-quasi-polynomial time, an exact polynomial-time algorithm for 1/5-approximate Nash equilibria in bimatrix games, breaking the square-root barrier for the log-rank conjecture, and edge reconstruction of simple graphs of linear density. The folder states it is not an official Google product and the content is under Apache 2.0. About 435 points and 324 comments on HN; one commenter describes Cogentic as a multi-agent proof-discovery harness that has existing models collaborate, and another asks whether this could lead to factoring large integers on classical computers. The page I read lists only titles and PDF links; I saw no practical attack on deployed cryptography and no peer-review verdict, so treat these as preprints awaiting verification.",
+      "zh-Hant": "google-research 倉庫裡的 Cogentic 目錄在 11 月 25 日列出 6 篇新論文，標題包括：無條件的 L_N[1/3, O(1)] 整數分解、固定特徵有限域上亞擬多項式時間的離散對數、雙矩陣博弈 1/5 近似納什均衡的多項式時間精確演算法、突破對數秩猜想的平方根壁壘、線性密度簡單圖的邊重構。目錄宣告“不是 Google 官方產品”，程式碼和文件用 Apache 2.0。HN 約 435 分、324 條評論；評論裡有人把 Cogentic 描述為讓現有大模型協作的多智慧體“證明發現”框架，也有人問能否由此在經典計算機上分解大整數。我讀到的頁面只有論文標題和 PDF 連結，沒有看到對現有加密的實際攻擊，也沒有人工審稿結論，所以應當先當作待驗證的預印本。"
+     },
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50642086"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "1Password 和 Defang 的泄露都从 GitHub 账号或应用入手",
+      "en": "1Password and Defang both lost data through GitHub accounts or apps",
+      "zh-Hant": "1Password 和 Defang 的洩露都從 GitHub 賬號或應用入手"
+     },
+     "summary": {
+      "zh-Hans": "1Password 的公告说，11 月 19 日开始调查一名员工的公司 GitHub 账号被入侵：攻击者用它读取源码、向后端服务推送恶意代码并下载了一部分客户的账户记录，包括姓名、邮箱、账户和用户标识、公钥、SRP 协议参数，以及邀请、开通和账号恢复邮件链接里的令牌；保险库内容、条目和密钥未受影响，也无需更改账户。The Verge 补充说 1Password 没说明受影响客户数量，并已把发给用户的验证码加长到 10 位字母数字。另一起：Defang 说 11 月 12 日攻击者通过一个权限过大的本地开发用 GitHub 应用推送提交并打上发布标签，而生产环境信任发布标签，因此代码在 CI 里拿到生产凭据并下载了主数据库，11 月 23 日才确认。两起的共同点是代码托管账号或应用成了进入内部系统的入口。1Password 在 HN 约 1050 分、452 条评论，Defang 约 45 分。",
+      "en": "1Password’s notice says it began investigating on 19 November after an attacker reached an employee’s corporate GitHub account; the attacker read source code, pushed malicious code to backend services and downloaded account records for a subset of customers, including names, emails, account and user identifiers, public keys, SRP protocol parameters, and tokens in emailed invitation, provisioning and recovery links. Vault contents, items and keys were not affected and users need not change anything. The Verge adds that 1Password did not say how many customers are affected and has lengthened the codes it emails to 10 alphanumeric characters. Separately, Defang says that on 12 November an attacker used an over-permissioned local-development GitHub App to push a commit and tag a release; production trusted release tags, so the code ran in CI with production credentials and downloaded the main database, confirmed only on 23 November. Both cases show code-hosting accounts or apps becoming the way in. 1Password has about 1,050 points and 452 comments on HN; Defang about 45 points.",
+      "zh-Hant": "1Password 的公告說，11 月 19 日開始調查一名員工的公司 GitHub 賬號被入侵：攻擊者用它讀取原始碼、向後端服務推送惡意程式碼並下載了一部分客戶的賬戶記錄，包括姓名、郵箱、賬戶和使用者標識、公鑰、SRP 協議引數，以及邀請、開通和賬號恢復郵件連結裡的令牌；保險庫內容、條目和金鑰未受影響，也無需更改賬戶。The Verge 補充說 1Password 沒說明受影響客戶數量，並已把發給使用者的驗證碼加長到 10 位字母數字。另一起：Defang 說 11 月 12 日攻擊者透過一個許可權過大的本地開發用 GitHub 應用推送提交併打上釋出標籤，而生產環境信任釋出標籤，因此程式碼在 CI 裡拿到生產憑據並下載了主資料庫，11 月 23 日才確認。兩起的共同點是程式碼託管賬號或應用成了進入內部系統的入口。1Password 在 HN 約 1050 分、452 條評論，Defang 約 45 分。"
+     },
+     "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+     "extra": [
+      "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "https://defang.io/blog/post/security-incident-november-2026/",
+      "https://news.ycombinator.com/item?id=50644817",
+      "https://news.ycombinator.com/item?id=50648035"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Linux 内核 NFS 服务端有 12 年的未认证远程 root 漏洞",
+      "en": "A 12-year-old pre-auth remote root bug in the Linux kernel’s NFS server",
+      "zh-Hant": "Linux 核心 NFS 服務端有 12 年的未認證遠端 root 漏洞"
+     },
+     "summary": {
+      "zh-Hans": "OpenSec 披露 CVE-2026-99362（CVSS 9.8）：Linux 内核 nfsd 中的堆溢出，只要能连上 tcp/2049，一次未登录连接就能越过内核堆对象写入 61 字节，链式利用可拿 root shell；漏洞自 2014 年 Linux 3.16 起存在，影响提供 NFSv4.1 或 4.2（默认）的主机。已在 Linux 6.12.117、6.18.61、7.3.2 和 7.4-rc1 修复，文章建议升级内核并重启，来不及时先用防火墙挡住 tcp/2049。同日 Hanno Böck 在 oss-security 邮件列表指出：NoisyTCP（CVE-2026-99288）细节 11 月 16 日公开，九天后 Ubuntu 还没有发布修复；另一个 AMD 虚拟化 KVM 逃逸 CVE-2026-99312 同样没有修复。HN 上这两条分别约 66 分和 99 分。",
+      "en": "OpenSec disclosed CVE-2026-99362 (CVSS 9.8), a heap overflow in the kernel NFS server nfsd: anyone who can reach tcp/2049 can, with one unauthenticated connection, write 61 bytes past a kernel heap object, and chaining it yields a root shell. The bug has existed since Linux 3.16 in 2014 and affects hosts serving NFSv4.1 or 4.2, the default. It is fixed in Linux 6.12.117, 6.18.61, 7.3.2 and 7.4-rc1; the write-up advises updating the kernel and rebooting, and firewalling tcp/2049 until then. Separately, Hanno Böck wrote on the oss-security list that details of NoisyTCP (CVE-2026-99288) were published on 16 November and nine days later Ubuntu still has no fix, and an AMD virtualization KVM host escape, CVE-2026-99312, is also unfixed there. The two stories have about 66 and 99 points on HN.",
+      "zh-Hant": "OpenSec 披露 CVE-2026-99362（CVSS 9.8）：Linux 核心 nfsd 中的堆溢位，只要能連上 tcp/2049，一次未登入連線就能越過核心堆物件寫入 61 位元組，鏈式利用可拿 root shell；漏洞自 2014 年 Linux 3.16 起存在，影響提供 NFSv4.1 或 4.2（預設）的主機。已在 Linux 6.12.117、6.18.61、7.3.2 和 7.4-rc1 修復，文章建議升級核心並重啟，來不及時先用防火牆擋住 tcp/2049。同日 Hanno Böck 在 oss-security 郵件列表指出：NoisyTCP（CVE-2026-99288）細節 11 月 16 日公開，九天後 Ubuntu 還沒有釋出修復；另一個 AMD 虛擬化 KVM 逃逸 CVE-2026-99312 同樣沒有修復。HN 上這兩條分別約 66 分和 99 分。"
+     },
+     "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+     "extra": [
+      "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "https://news.ycombinator.com/item?id=50647161",
+      "https://news.ycombinator.com/item?id=50647181"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "FCC 有条件批准 SpaceX 部署最多 100 万颗 Starmind 数据中心卫星",
+      "en": "FCC conditionally approves up to 1 million Starmind data-center satellites for SpaceX",
+      "zh-Hant": "FCC 有條件批准 SpaceX 部署最多 100 萬顆 Starmind 資料中心衛星"
+     },
+     "summary": {
+      "zh-Hans": "Ars Technica 报道：FCC 周三有条件批准 SpaceX 部署最多 100 万颗用作轨道数据中心的 Starmind 卫星，全部部署后在轨卫星数量将增加约 50 倍。SpaceX 有 7 年时间部署第一颗可运行的卫星，到 2035 年 11 月要有 10 万颗可运行卫星，2040 年 11 月完成全部，监管期长达 14 年。FCC 没有批准 SpaceX 把高于 600 公里的退役卫星送入其他地球轨道或日心轨道的豁免请求，理由是资料不足；文章也写明这一决定并不证明轨道数据中心在技术或经济上可行，并批评 FCC 对环境方面的意见相当宽松。The Verge 也报道了这一决定。",
+      "en": "Ars Technica reports that on Wednesday the FCC conditionally authorized SpaceX to deploy up to 1 million Starmind satellites meant to act as orbital data centers, which would increase the number of satellites in orbit roughly 50-fold if fully deployed. SpaceX has seven years to launch a single operational satellite, until November 2035 to have 100,000 operational, and until November 2040 for the full constellation, a 14-year regulatory runway. The FCC did not grant SpaceX’s waiver to move retired satellites above 600 km into other Earth orbits or heliocentric orbits, citing insufficient information. The article stresses that the decision does not show orbital data centers are technically or economically viable, and says the FCC was lenient on environmental objections. The Verge also covers the decision.",
+      "zh-Hant": "Ars Technica 報道：FCC 週三有條件批准 SpaceX 部署最多 100 萬顆用作軌道資料中心的 Starmind 衛星，全部部署後在軌衛星數量將增加約 50 倍。SpaceX 有 7 年時間部署第一顆可執行的衛星，到 2035 年 11 月要有 10 萬顆可執行衛星，2040 年 11 月完成全部，監管期長達 14 年。FCC 沒有批准 SpaceX 把高於 600 公里的退役衛星送入其他地球軌道或日心軌道的豁免請求，理由是資料不足；文章也寫明這一決定並不證明軌道資料中心在技術或經濟上可行，並批評 FCC 對環境方面的意見相當寬鬆。The Verge 也報道了這一決定。"
+     },
+     "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+     "extra": [
+      "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Etsy 就 AI 条款风波发文澄清，部分卖家仍要关店",
+      "en": "Etsy clarifies its AI terms after seller backlash, some sellers still leaving",
+      "zh-Hant": "Etsy 就 AI 條款風波發文澄清，部分賣家仍要關店"
+     },
+     "summary": {
+      "zh-Hans": "Ars Technica 报道：Etsy 本月修改服务条款，新增允许自己和第三方合作方使用卖家内容来开发、训练、测试和改进人工智能技术（受隐私政策中的退出权限制），引发卖家集体反弹。CEO Kruti Patel Goyal 周一发文称“并非为了训练模型去制造你们商品的仿品，我们不会也不会这样做”，并承认应当解释得更清楚；一位做了 15 年的插画师卖家说这只是“糖衣”，仍计划 12 月 1 日关店，估计会损失约 20% 年收入。文章还提到 Meta 之前也曾提出类似要求，后来无限期搁置；Etsy 上个月还表示要对 AI 使用设置更清晰的限制。",
+      "en": "Ars Technica reports that Etsy’s terms update this month added the right for itself and third-party partners to use sellers’ content to develop, train, test and improve AI and machine-learning technologies, subject to opt-out rights in the privacy policy, which triggered a seller backlash. CEO Kruti Patel Goyal wrote on Monday that it was not meant to enable training models to create copycats of sellers’ items, that Etsy does not and will not do that, and that the company should have given more context. A seller and illustrator with a 15-year-old shop called it sugar coating, still plans to close on 1 December and estimates losing about 20% of his yearly income. The article notes Meta had pushed a similar requirement before pausing it indefinitely, and that last month Etsy said it would set clearer restrictions on AI use.",
+      "zh-Hant": "Ars Technica 報道：Etsy 本月修改服務條款，新增允許自己和第三方合作方使用賣家內容來開發、訓練、測試和改進人工智慧技術（受隱私政策中的退出許可權制），引發賣家集體反彈。CEO Kruti Patel Goyal 週一發文稱“並非為了訓練模型去製造你們商品的仿品，我們不會也不會這樣做”，並承認應當解釋得更清楚；一位做了 15 年的插畫師賣家說這只是“糖衣”，仍計劃 12 月 1 日關店，估計會損失約 20% 年收入。文章還提到 Meta 之前也曾提出類似要求，後來無限期擱置；Etsy 上個月還表示要對 AI 使用設定更清晰的限制。"
+     },
+     "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "新进展：Anthropic 股价从周三低点反弹，创始人减持和“把决策交给 AI”之争同时上了 X 话题",
+      "en": "Update: Anthropic rebounds from Wednesday’s low as founder share sales and the “hand decisions to AI” row trend on X",
+      "zh-Hant": "新進展：Anthropic 股價從週三低點反彈，創始人減持和“把決策交給 AI”之爭同時上了 X 話題"
+     },
+     "summary": {
+      "zh-Hans": "昨天的简报写到 Anthropic 跌破 83 美元发行价。据 X 话题摘要（由 X 自动生成，未经独立核实）：周三盘中最低约 73.85 美元，随后在散户买盘带动下回升到发行价之上，后段约 84 美元；另一条话题引用 SEC 文件称，七位联合创始人各以 83 美元卖出 3,378,378 股 A 类股，合计接近 20 亿美元，这笔钱归个人而不是公司，网友称之为“同步套现”。同时，Axios 报道 Anthropic 内部有人认为当 AI 在治病、防灾等方面明显更强时可以让出部分决策权，Meta 的 Alexandr Wang 和 OpenAI 的 Sam Altman 公开反对，Dario Amodei 回应称这种想法“荒谬”、AI 必须处于民主控制之下。这些数字请以 SEC 文件和交易所行情为准。",
+      "en": "Yesterday’s brief noted Anthropic falling below its $83 IPO price. According to X trending-topic summaries (generated by X and not independently verified), the stock hit a low of about $73.85 on Wednesday, then climbed back above the offer price on retail buying, trading around $84 later in the session; another topic cites SEC filings saying the seven co-founders each sold 3,378,378 Class A shares at $83, nearly $2 billion in total that went to them rather than the company, which some users called a synchronized cash-out. Separately, Axios reported that some people inside Anthropic think handing some decisions to AI could be ethical once it is clearly better at things like curing disease or preventing disasters; Meta’s Alexandr Wang and OpenAI’s Sam Altman pushed back publicly, and Dario Amodei called the idea absurd and said AI must stay under democratic control. Check the figures against SEC filings and exchange data.",
+      "zh-Hant": "昨天的簡報寫到 Anthropic 跌破 83 美元發行價。據 X 話題摘要（由 X 自動生成，未經獨立核實）：週三盤中最低約 73.85 美元，隨後在散戶買盤帶動下回升到發行價之上，後段約 84 美元；另一條話題引用 SEC 檔案稱，七位聯合創始人各以 83 美元賣出 3,378,378 股 A 類股，合計接近 20 億美元，這筆錢歸個人而不是公司，網友稱之為“同步套現”。同時，Axios 報道 Anthropic 內部有人認為當 AI 在治病、防災等方面明顯更強時可以讓出部分決策權，Meta 的 Alexandr Wang 和 OpenAI 的 Sam Altman 公開反對，Dario Amodei 回應稱這種想法“荒謬”、AI 必須處於民主控制之下。這些數字請以 SEC 檔案和交易所行情為準。"
+     },
+     "url": "https://x.com/i/trending/2125727941258866703",
+     "extra": [
+      "https://x.com/i/trending/2125009614769168564",
+      "https://x.com/i/trending/2125696657987895602"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "AI 数学成果“人话解读与核验状态”追踪站 — OpenAI 的 openai/math 仓库有手稿地图和形式化目录，Anthropic 和 Google 也在直接上传论文，HN 评论甚至调侃“数学突破现在像 GitHub 更新日志”：一周做一个站，每天抓这些仓库的新增提交，用大模型写一段大白话摘要，并固定标注“是否带 Lean 形式化、是否有人类审阅、仓库自己声明的限制”，做成每日邮件。不要自己判断证明对错，只转述来源写明的状态。",
+     "GitHub 账号与 CI 凭据的“入口自查” — 1Password 和 Defang 的泄露都从 GitHub 账号或应用开始，Defang 的关键是权限过大的 GitHub 应用加上“信任发布标签”的生产流水线。一周做一个只读检查器：用 GitHub API 列出组织里已安装的应用及权限、由标签触发且能读生产密钥的工作流、长期有效的令牌，输出按风险排序的大白话整改清单。只扫用户授权的组织。",
+     "NFS 暴露面与内核版本的“一键对照” — CVE-2026-99362 影响默认开启 NFSv4.1/4.2 的 Linux 主机，修复版本是 6.12.117、6.18.61、7.3.2 和 7.4-rc1。一周做一个小工具：用户输入自己的服务器清单（或贴 uname 输出），工具对照修复版本判断是否需要升级，并只对已授权的 IP 检查 tcp/2049 是否对公网开放，用邮件或 Slack 提醒；NoisyTCP 等发行版修复滞后的情况也可以按发行版公告加一栏。",
+     "Copilot 代码审查计费默认转到组织的“设置提醒” — GitHub 今天公告：如果没有选择 Copilot 代码审查的计费方式，12 月 30 日起，持 Copilot 许可的成员的审查会计到组织名下；想保持不变要在此前选择“Member”，且组织计费需要开通 AI Credits 付费用量，可能增加支出。一周做一个检查脚本加提醒：读取组织的 Copilot 策略设置，没选的就发提醒并附上点哪里选，面向管理多个组织的小团队和外包公司。",
+     "加密资产“清点与迁移准备”周报 — Google 的 Cogentic 论文标题涉及整数分解和离散对数，Aaronson 也说密码学方面可能有未证实的消息，但目前没有公开的实际攻击。比起猜测，更实际的是清点：一周做一个工具，扫描授权的域名和服务器，列出证书密钥类型和长度、SSH 主机密钥、TLS 版本，标出过旧的 RSA 或 DH 配置，给出升级建议，让团队在真有消息时知道要改哪里。不要宣称任何算法已被攻破。"
+    ],
+    "en": [
+     "A plain-language tracker for AI math results and their verification status — OpenAI’s openai/math repository has a manuscript map and a formalization catalogue, Anthropic and Google are also uploading papers directly, and an HN commenter joked that math breakthroughs now arrive as GitHub patch notes. In a week, build a site that watches these repositories daily, has an LLM write a plain-language summary of each new commit, and always labels whether it has a Lean formalization, whether a human has reviewed it and what limits the repository itself states, delivered as a daily email. Do not judge correctness yourself; only relay the status the sources state.",
+     "An entry-point check for GitHub accounts and CI credentials — Both the 1Password and Defang incidents began at GitHub accounts or apps, and Defang’s key weakness was an over-permissioned GitHub App plus a production pipeline that trusted release tags. In a week, build a read-only checker that uses the GitHub API to list installed apps and their permissions, tag-triggered workflows that can read production secrets and long-lived tokens, and outputs a risk-ranked plain-language fix list. Scan only organizations the user authorizes.",
+     "A one-click check of NFS exposure and kernel versions — CVE-2026-99362 affects Linux hosts serving NFSv4.1 or 4.2, the default, and the fixed versions are 6.12.117, 6.18.61, 7.3.2 and 7.4-rc1. In a week, build a small tool where users enter a server list (or paste uname output); it compares versions against the fixed releases, checks whether tcp/2049 is open to the internet only for IPs the user has authorized, and alerts by email or Slack. A column for distro fix lag such as NoisyTCP can be added from vendor advisories.",
+     "A reminder for Copilot code-review billing defaulting to the organization — GitHub announced today that if no billing choice is saved for Copilot code review, from 30 December reviews by members with a Copilot license will be billed to the organization; to keep things unchanged, select Member before then, and organization billing requires AI Credits paid usage and can raise spending. In a week, build a check script plus reminder that reads an organization’s Copilot policy settings, alerts when nothing is chosen and shows where to click, aimed at small teams and agencies managing several organizations.",
+     "A weekly cryptography inventory and migration-readiness report — Google’s Cogentic paper titles touch integer factoring and discrete logs, and Aaronson says there may be unconfirmed news in cryptography, but no practical attack has been published. Rather than speculate, inventory: in a week, build a tool that scans authorized domains and servers, lists certificate key types and sizes, SSH host keys and TLS versions, flags outdated RSA or DH setups and suggests upgrades, so a team knows what to change if real news arrives. Never claim any algorithm has been broken."
+    ],
+    "zh-Hant": [
+     "AI 數學成果“人話解讀與核驗狀態”追蹤站 — OpenAI 的 openai/math 倉庫有手稿地圖和形式化目錄，Anthropic 和 Google 也在直接上傳論文，HN 評論甚至調侃“數學突破現在像 GitHub 更新日誌”：一週做一個站，每天抓這些倉庫的新增提交，用大模型寫一段大白話摘要，並固定標註“是否帶 Lean 形式化、是否有人類審閱、倉庫自己宣告的限制”，做成每日郵件。不要自己判斷證明對錯，只轉述來源寫明的狀態。",
+     "GitHub 賬號與 CI 憑據的“入口自查” — 1Password 和 Defang 的洩露都從 GitHub 賬號或應用開始，Defang 的關鍵是許可權過大的 GitHub 應用加上“信任釋出標籤”的生產流水線。一週做一個只讀檢查器：用 GitHub API 列出組織裡已安裝的應用及許可權、由標籤觸發且能讀生產金鑰的工作流、長期有效的令牌，輸出按風險排序的大白話整改清單。只掃使用者授權的組織。",
+     "NFS 暴露面與核心版本的“一鍵對照” — CVE-2026-99362 影響預設開啟 NFSv4.1/4.2 的 Linux 主機，修復版本是 6.12.117、6.18.61、7.3.2 和 7.4-rc1。一週做一個小工具：使用者輸入自己的伺服器清單（或貼 uname 輸出），工具對照修復版本判斷是否需要升級，並只對已授權的 IP 檢查 tcp/2049 是否對公網開放，用郵件或 Slack 提醒；NoisyTCP 等發行版修復滯後的情況也可以按發行版公告加一欄。",
+     "Copilot 程式碼審查計費預設轉到組織的“設定提醒” — GitHub 今天公告：如果沒有選擇 Copilot 程式碼審查的計費方式，12 月 30 日起，持 Copilot 許可的成員的審查會計到組織名下；想保持不變要在此前選擇“Member”，且組織計費需要開通 AI Credits 付費用量，可能增加支出。一週做一個檢查指令碼加提醒：讀取組織的 Copilot 策略設定，沒選的就發提醒並附上點哪裡選，面向管理多個組織的小團隊和外包公司。",
+     "加密資產“清點與遷移準備”週報 — Google 的 Cogentic 論文標題涉及整數分解和離散對數，Aaronson 也說密碼學方面可能有未證實的訊息，但目前沒有公開的實際攻擊。比起猜測，更實際的是清點：一週做一個工具，掃描授權的域名和伺服器，列出證書金鑰型別和長度、SSH 主機金鑰、TLS 版本，標出過舊的 RSA 或 DH 配置，給出升級建議，讓團隊在真有訊息時知道要改哪裡。不要宣稱任何演算法已被攻破。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "网店卖家的“平台条款变动”提醒器 — 卖家贴上店铺所在平台的条款链接，工具每周对比版本，把涉及 AI 训练、内容授权、费用的改动用大白话列出来，并给出导出商品图片和描述作备份的步骤。 Ars Technica 报道，Etsy 的新条款让卖家集体反弹，有做了 15 年的卖家计划 12 月 1 日关店；Meta 也曾提出类似要求后搁置。卖家分散在各个平台，几乎没人有时间逐条读条款。",
+     "密码管理器泄露后的“钓鱼邮件检查器” — 用户把可疑邮件转发或粘贴进来，工具对照官方公告里说明的泄露内容和提醒，判断是不是在冒充邀请、账号恢复或验证码邮件，并告诉用户下一步该做什么、不该点什么。 1Password 公告称泄露了客户姓名和邮箱，并建议警惕有关 1Password 的意外邮件，如未发起的邀请或账号恢复请求；这条在 HN 约 1050 分。受影响的是大量个人和小团队用户，而泄露名单已在攻击者手里。",
+     "隐私政策变更的“人话摘要” — 用户贴上服务的隐私政策链接，工具抽出“收集什么、给谁、能否退出”做成一张表，并在政策生效日期前提醒，附退出步骤。 Ars Technica 报道，Backblaze 新隐私政策 12 月 1 日生效，表格列出标识符、商业信息、地理位置等可能与广告和营销合作方共享；Backblaze 回应称不共享备份文件内容、也不向广告方披露监控类数据，并会复核表格措辞。用户的担心说明大家看不懂这类条款。",
+     "家用摄像头 AI 功能的“隐私设置清单” — 用户选择摄像头品牌和型号，工具生成一页清单：人脸识别开在哪、数据存多久、要不要订阅、对门口和邻居的提醒该怎么设。 The Verge 报道，Google 的 Familiar Faces 人脸识别现在支持沃尔玛 35 美元的 Onn 室外摄像头，但仍需要 Google Home Premium 订阅。便宜摄像头加上 AI 识人，租客、老人子女和小店主都会遇到“要不要开”的问题。",
+     "小商家的“节日消息排期与话术包” — 商家输入产品、节日和客户分组，AI 生成多语言话术和一份发送时间表，商家自己在 WhatsApp 里按表排期发送。 The Verge 报道，WhatsApp 正在向全球推出定时消息，可在 10 分钟到两周后发送，支持文字、照片和视频，用户称有 30 亿；Meta 称这是最受欢迎的需求之一。不少小商家本来就靠 WhatsApp 联系熟客，年底促销前正需要排期。",
+     "办公室“AI 稿件体检” — 用户把收到或自己用 AI 生成的报告贴进来，工具标出空泛句子、没有出处的数字、缺失的关键信息，并生成“发回去该问的 5 个问题”。 X 上有两条关于“workslop”（看着专业但没实质内容的 AI 稿）的热门话题，讨论同事要花时间返工；摘要里引用了调查数字，我没有核实，所以这里不写数字。上班族几乎人人都会收到 AI 写的东西。"
+    ],
+    "en": [
+     "A platform-terms change alert for online sellers — Sellers paste the terms link of their platform; the tool compares versions weekly, lists changes about AI training, content licensing and fees in plain language, and gives steps to export product photos and descriptions as a backup. Ars Technica reports Etsy’s new terms triggered a seller backlash and a seller of 15 years plans to close on 1 December; Meta had also proposed something similar before pausing it. Sellers are spread across platforms and almost none have time to read terms line by line.",
+     "A phishing-email checker after a password-manager breach — Users forward or paste a suspicious email; the tool checks it against what the official notice says was exposed and warned about, judges whether it imitates an invitation, account-recovery or code email, and tells the user what to do next and what not to click. 1Password’s notice says customer names and emails were taken and advises caution about unexpected 1Password emails such as invitations or recovery requests you did not start; the story has about 1,050 points on HN. The affected group is large numbers of individuals and small teams, and the list is in the attacker’s hands.",
+     "A plain-language summary of privacy-policy changes — Users paste a service’s privacy-policy link; the tool extracts what is collected, who gets it and whether you can opt out into one table, and reminds before the effective date with opt-out steps. Ars Technica reports Backblaze’s new privacy policy takes effect on 1 December and its table lists identifiers, commercial information and geolocation as possibly shared with advertising and marketing partners; Backblaze says it does not share backup file contents or disclose surveillance data to advertisers and will review the table’s wording. User worry shows people cannot parse such policies.",
+     "A privacy settings checklist for home-camera AI features — Users pick a camera brand and model; the tool produces a one-page list: where face recognition is switched, how long data is kept, whether a subscription is needed and how to set notices for visitors and neighbors. The Verge reports Google’s Familiar Faces now works on Walmart’s $35 Onn outdoor camera, though a Google Home Premium subscription is still required. Cheap cameras with AI recognition raise the “should I turn it on” question for renters, adult children of older parents and small shop owners.",
+     "A holiday message scheduling and wording pack for small merchants — Merchants enter products, holidays and customer groups; AI writes multilingual wording and a send schedule, and the merchant schedules the messages in WhatsApp by hand following it. The Verge reports WhatsApp is rolling out scheduled messages worldwide, sendable from 10 minutes to two weeks later and supporting text, photos and video; the article cites 3 billion users and Meta calls it one of the most requested features. Many small merchants already reach regular customers on WhatsApp and need scheduling before year-end promotions.",
+     "An office check for AI-written drafts — Users paste a report they received or generated with AI; the tool marks vague sentences, unsourced numbers and missing key information, and produces five questions to send back. Two trending X topics discuss “workslop”, AI output that looks professional but has no substance and makes colleagues spend time redoing it; the summaries cite survey figures I could not verify, so none are given here. Almost every office worker now receives AI-written material."
+    ],
+    "zh-Hant": [
+     "網店賣家的“平臺條款變動”提醒器 — 賣家貼上店鋪所在平臺的條款連結，工具每週對比版本，把涉及 AI 訓練、內容授權、費用的改動用大白話列出來，並給出匯出商品圖片和描述作備份的步驟。 Ars Technica 報道，Etsy 的新條款讓賣家集體反彈，有做了 15 年的賣家計劃 12 月 1 日關店；Meta 也曾提出類似要求後擱置。賣家分散在各個平臺，幾乎沒人有時間逐條讀條款。",
+     "密碼管理器洩露後的“釣魚郵件檢查器” — 使用者把可疑郵件轉發或貼上進來，工具對照官方公告裡說明的洩露內容和提醒，判斷是不是在冒充邀請、賬號恢復或驗證碼郵件，並告訴使用者下一步該做什麼、不該點什麼。 1Password 公告稱洩露了客戶姓名和郵箱，並建議警惕有關 1Password 的意外郵件，如未發起的邀請或賬號恢復請求；這條在 HN 約 1050 分。受影響的是大量個人和小團隊使用者，而洩露名單已在攻擊者手裡。",
+     "隱私政策變更的“人話摘要” — 使用者貼上服務的隱私政策連結，工具抽出“收集什麼、給誰、能否退出”做成一張表，並在政策生效日期前提醒，附退出步驟。 Ars Technica 報道，Backblaze 新隱私政策 12 月 1 日生效，表格列出識別符號、商業資訊、地理位置等可能與廣告和營銷合作方共享；Backblaze 回應稱不共享備份檔案內容、也不向廣告方披露監控類資料，並會複核表格措辭。使用者的擔心說明大家看不懂這類條款。",
+     "家用攝像頭 AI 功能的“隱私設定清單” — 使用者選擇攝像頭品牌和型號，工具生成一頁清單：人臉識別開在哪、資料存多久、要不要訂閱、對門口和鄰居的提醒該怎麼設。 The Verge 報道，Google 的 Familiar Faces 人臉識別現在支援沃爾瑪 35 美元的 Onn 室外攝像頭，但仍需要 Google Home Premium 訂閱。便宜攝像頭加上 AI 識人，租客、老人子女和小店主都會遇到“要不要開”的問題。",
+     "小商家的“節日訊息排期與話術包” — 商家輸入產品、節日和客戶分組，AI 生成多語言話術和一份傳送時間表，商家自己在 WhatsApp 裡按表排期傳送。 The Verge 報道，WhatsApp 正在向全球推出定時訊息，可在 10 分鐘到兩週後傳送，支援文字、照片和影片，使用者稱有 30 億；Meta 稱這是最受歡迎的需求之一。不少小商家本來就靠 WhatsApp 聯絡熟客，年底促銷前正需要排期。",
+     "辦公室“AI 稿件體檢” — 使用者把收到或自己用 AI 生成的報告貼進來，工具標出空泛句子、沒有出處的數字、缺失的關鍵資訊，並生成“發回去該問的 5 個問題”。 X 上有兩條關於“workslop”（看著專業但沒實質內容的 AI 稿）的熱門話題，討論同事要花時間返工；摘要裡引用了調查數字，我沒有核實，所以這裡不寫數字。上班族幾乎人人都會收到 AI 寫的東西。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "openai/math",
+      "en": "openai/math",
+      "zh-Hant": "openai/math"
+     },
+     "summary": {
+      "zh-Hans": "OpenAI 的数学手稿与 Lean 形式化仓库：730 篇手稿，约 42% 的主要结论已形式化，README 写明部分结果可能有问题；可用来追踪更新历史。",
+      "en": "OpenAI’s math manuscripts and Lean formalization repository: 730 manuscripts, about 42% of top-line results formalized, and the README says some results could have issues; useful for tracking the update history.",
+      "zh-Hant": "OpenAI 的數學手稿與 Lean 形式化倉庫：730 篇手稿，約 42% 的主要結論已形式化，README 寫明部分結果可能有問題；可用來追蹤更新歷史。"
+     },
+     "url": "https://github.com/openai/math"
+    },
+    {
+     "title": {
+      "zh-Hans": "lsernau/grh-lean",
+      "en": "lsernau/grh-lean",
+      "zh-Hant": "lsernau/grh-lean"
+     },
+     "summary": {
+      "zh-Hans": "黎曼猜想与 Dirichlet L 函数广义黎曼猜想的 Lean 4 证明，可读版约 30 万行、压缩版约 7.6 万行；只过了机器检查，尚无人通读。",
+      "en": "A Lean 4 proof of the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet L-functions, about 300,000 lines readable and about 76,000 compact; machine-checked only, not yet read through by anyone.",
+      "zh-Hant": "黎曼猜想與 Dirichlet L 函式廣義黎曼猜想的 Lean 4 證明，可讀版約 30 萬行、壓縮版約 7.6 萬行；只過了機器檢查，尚無人通讀。"
+     },
+     "url": "https://github.com/lsernau/grh-lean"
+    },
+    {
+     "title": {
+      "zh-Hans": "firecrawl/firecrawl",
+      "en": "firecrawl/firecrawl",
+      "zh-Hant": "firecrawl/firecrawl"
+     },
+     "summary": {
+      "zh-Hans": "给代理用的数据层：一个 API 做搜索、抓取并接入 550 多个数据源；今日 GitHub Trending 约 1,135 星。",
+      "en": "A data layer for agents: one API to search, scrape and reach 550+ data providers; about 1,135 stars today on GitHub Trending.",
+      "zh-Hant": "給代理用的資料層：一個 API 做搜尋、抓取並接入 550 多個資料來源；今日 GitHub Trending 約 1,135 星。"
+     },
+     "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+     "title": {
+      "zh-Hans": "jingyaogong/minimind",
+      "en": "jingyaogong/minimind",
+      "zh-Hant": "jingyaogong/minimind"
+     },
+     "summary": {
+      "zh-Hans": "中英文项目，讲两小时从零训出 6400 万参数大模型，适合学习训练流程；今日约 826 星。",
+      "en": "A Chinese and English project on training a 64M-parameter LLM from scratch in two hours, good for learning the training pipeline; about 826 stars today.",
+      "zh-Hant": "中英文專案，講兩小時從零訓出 6400 萬引數大模型，適合學習訓練流程；今日約 826 星。"
+     },
+     "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+     "title": {
+      "zh-Hans": "mvanhorn/last30days-skill",
+      "en": "mvanhorn/last30days-skill",
+      "zh-Hant": "mvanhorn/last30days-skill"
+     },
+     "summary": {
+      "zh-Hans": "给 AI 代理用的研究技能：跨 Reddit、X、YouTube、HN、Polymarket 和网页查任意主题并合成带出处的摘要；今日约 945 星。",
+      "en": "An agent research skill that searches any topic across Reddit, X, YouTube, HN, Polymarket and the web and synthesizes a grounded summary; about 945 stars today.",
+      "zh-Hant": "給 AI 代理用的研究技能：跨 Reddit、X、YouTube、HN、Polymarket 和網頁查任意主題併合成帶出處的摘要；今日約 945 星。"
+     },
+     "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+     "title": {
+      "zh-Hans": "GitHub Changelog: Copilot code review billing",
+      "en": "GitHub Changelog: Copilot code review billing",
+      "zh-Hant": "GitHub Changelog: Copilot code review billing"
+     },
+     "summary": {
+      "zh-Hans": "11 月 25 日公告：未设置计费方式的组织，12 月 30 日起 Copilot 代码审查改为计到组织；要保持成员计费需提前选“Member”，组织计费需开通 AI Credits 付费用量。",
+      "en": "25 November: for organizations that have not chosen a billing option, Copilot code review will be billed to the organization from 30 December; select Member beforehand to keep member billing, and organization billing requires AI Credits paid usage.",
+      "zh-Hant": "11 月 25 日公告：未設定計費方式的組織，12 月 30 日起 Copilot 程式碼審查改為計到組織；要保持成員計費需提前選“Member”，組織計費需開通 AI Credits 付費用量。"
+     },
+     "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization"
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "path": "digest/2026-11-25/",
