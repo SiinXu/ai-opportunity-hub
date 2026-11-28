@@ -1,0 +1,27 @@
+# OPC Radar
+> OPC Radar is a free opportunity radar for one-person companies (OPC), indie developers, designers and cross-border sellers. It collects AI tools, GitHub repos, new products, news, deals and ideas from public sources (Hacker News, GitHub, Hugging Face, DEV, Lobsters and a curated list), translates them into 10 languages and refreshes automatically. Currently 914 items.
+
+- Site: https://siinxu.github.io/ai-opportunity-hub/
+- Data (JSON): https://siinxu.github.io/ai-opportunity-hub/data/items.json
+- Languages: zh-Hans, zh-Hant, en, ja, ko, ms, vi, fr, es, de (append ?lang=<code>)
+- Publisher: Incidental AI (https://incidental.site/)
+- Full list: https://siinxu.github.io/ai-opportunity-hub/llms-full.txt
+- Updated: 2026-11-28T13:51:14Z
+
+## Latest daily digests
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-28 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-28/) — Morning brief (Asia/Shanghai): a card skimmer that moves data over WebRTC hit five online stores the week before Black Friday, SAP is investigating stolen GitHub tokens, Microsoft says Chinese and North Korean crews use the open-source AI pentest framework ARTEX, Anthropic explains how Claude rewrote its Messages API in Rust and was checked against production traffic, Convex’s Claude skills are accused of sending users’ ideas to a remote server, Nvidia pauses server shipments to four Southeast Asian countries, two US states sue SpaceX over Grok, and ideas ordinary people and small businesses can use.
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-27 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-27/) — Morning brief (Asia/Shanghai): OpenAI admits a GPT-6.2 billing mistake and plan limits now run out faster, Google will require AI agents to reach Workspace only through its MCP servers from February, Android developers will have to publish their addresses, Nvidia’s 45°C inlet temperature lets data centers drop chillers, a “ransomware recovery” firm is charged with secretly paying ransoms at a markup, and ideas ordinary people and small businesses can use.
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-26 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-26/) — Morning brief (Asia/Shanghai): Anthropic ships a shortened Lean proof of the Riemann Hypothesis, OpenAI publishes 730 math manuscripts including a disproof of the polynomial Hirsch conjecture, Google drops a batch of factoring and discrete-log papers, 1Password and Defang both lose data through compromised GitHub access, a 12-year-old Linux NFS server bug, and ideas ordinary people and small businesses can use.
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-25 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-25/) — Morning brief (Asia/Shanghai): Anthropic falls below its IPO price, the Jensen Huang saga keeps unfolding, Tidal bans fully AI-generated music, New York bans car-feature subscriptions, AI-agent attacks are rising, and ideas ordinary people and small businesses can use.
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-24 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-24/) — Morning brief (Asia/Shanghai): the Ladybird browser enters alpha, hearings after Jensen Huang’s return, the open-model fight, Arm forcing a docs site offline, AI agents approving code, and ideas ordinary people and small businesses can use.
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-23 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-23/) — Morning brief (Asia/Shanghai): NVIDIA’s board, model evaluation, local AI, inference-supply-chain security, and actionable signals for one-person companies.
+- [OPC Radar by Incidental AI · Daily Digest · 2026-11-22 · Morning tech digest](https://siinxu.github.io/ai-opportunity-hub/digest/2026-11-22/) — Generated automatically at 07:30 Asia/Shanghai on 2026-11-22: the hottest of the 38 signals OPC Radar picked up since the previous issue.
+- [All daily digests](https://siinxu.github.io/ai-opportunity-hub/digest/)
+
+## Channels
+- [AI](https://siinxu.github.io/ai-opportunity-hub/channel/ai/): 226 items
+- [GitHub repos](https://siinxu.github.io/ai-opportunity-hub/channel/repos/): 220 items
+- [New products](https://siinxu.github.io/ai-opportunity-hub/channel/products/): 90 items
+- [News](https://siinxu.github.io/ai-opportunity-hub/channel/news/): 126 items
+- [Deals](https://siinxu.github.io/ai-opportunity-hub/channel/deals/): 156 items
+- [Ideas](https://siinxu.github.io/ai-opportunity-hub/channel/ideas/): 96 items
