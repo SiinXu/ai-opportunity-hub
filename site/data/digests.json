@@ -1,6 +1,265 @@
 {
- "latest": "2026-11-27",
+ "latest": "2026-11-28",
  "digests": [
+  {
+   "date": "2026-11-28",
+   "path": "digest/2026-11-28/",
+   "title": {
+    "zh-Hans": "早间技术热点 · 2026-11-28",
+    "en": "Morning tech digest · 2026-11-28",
+    "zh-Hant": "早間技術熱點 · 2026-11-28"
+   },
+   "lede": {
+    "zh-Hans": "上海时间早间例行简报：黑五前一周 5 家网店被植入走 WebRTC 的盗刷脚本，SAP 因 GitHub 令牌被盗启动内部调查，微软说中朝黑客在用开源 AI 渗透框架 ARTEX，Anthropic 讲了它如何让 Claude 把 Messages API 改写成 Rust 并靠生产流量验证，Convex 的 Claude 技能被指把用户想法发往远程服务器，英伟达暂停向东南亚四国发运服务器，美国两州起诉 SpaceX 旗下 Grok，以及面向普通人和小商家的可执行方向。",
+    "en": "Morning brief (Asia/Shanghai): a card skimmer that moves data over WebRTC hit five online stores the week before Black Friday, SAP is investigating stolen GitHub tokens, Microsoft says Chinese and North Korean crews use the open-source AI pentest framework ARTEX, Anthropic explains how Claude rewrote its Messages API in Rust and was checked against production traffic, Convex’s Claude skills are accused of sending users’ ideas to a remote server, Nvidia pauses server shipments to four Southeast Asian countries, two US states sue SpaceX over Grok, and ideas ordinary people and small businesses can use.",
+    "zh-Hant": "上海時間早間例行簡報：黑五前一週 5 家網店被植入走 WebRTC 的盜刷指令碼，SAP 因 GitHub 令牌被盜啟動內部調查，微軟說中朝駭客在用開源 AI 滲透框架 ARTEX，Anthropic 講了它如何讓 Claude 把 Messages API 改寫成 Rust 並靠生產流量驗證，Convex 的 Claude 技能被指把使用者想法發往遠端伺服器，英偉達暫停向東南亞四國發運伺服器，美國兩州起訴 SpaceX 旗下 Grok，以及面向普通人和小商家的可執行方向。"
+   },
+   "top": [
+    {
+     "title": {
+      "zh-Hans": "黑五前一周，5 家网店被植入走 WebRTC 的盗刷脚本",
+      "en": "A card skimmer that moves data over WebRTC hit five online stores the week before Black Friday",
+      "zh-Hant": "黑五前一週，5 家網店被植入走 WebRTC 的盜刷指令碼"
+     },
+     "summary": {
+      "zh-Hans": "安全公司 Infohawk 说，Lascana、Samsonite、American Tourister、Revolve 和 FWRD 的网店在黑五前一周被植入盗刷脚本，经他们通报后已在 11 月 24 日或 25 日移除；他们只在 Lascana 一家亲眼看到测试卡信息被发往第三方。脚本只在手机或触屏尺寸的结账页启用，会在店铺校验支付前就把卡号、有效期、安全码和姓名地址电话邮箱发出，所以订单被拒也会被盗。它先靠一次普通网络请求建立 WebRTC 连接，之后恶意代码和被盗数据都走 WebRTC 数据通道，因此只检查普通请求的规则看不到后半段。Infohawk 的建议是：每个收款页都用 connect-src 只列出自己需要的域名，这样脚本一开始的两次请求就会被挡住；买家则检查账单、尤其是借记卡，发现异常立刻联系银行。有多少人的资料被盗不清楚。HN 上约 401 分、203 条评论。",
+      "en": "Security firm Infohawk says the stores of Lascana, Samsonite, American Tourister, Revolve and FWRD were infected in the week before Black Friday, and that the script was removed on 24 or 25 November after its reports; it saw test card details leave in action on only one of them, Lascana. The script ran only on small or touch screens at checkout and sent the card number, expiry, security code and the shopper’s name, address, phone and email before the store checked the payment, so a card could be taken even if the order was declined. It opens the WebRTC connection with ordinary web requests, then both the malicious code and the stolen data travel over the WebRTC data channel, which rules that only watch ordinary requests do not see. Infohawk advises every payment page to set a connect-src rule listing only the hosts it uses, which blocks the first two requests; shoppers should check statements, especially debit cards, and call their bank at once. How many shoppers were affected is unknown. About 401 points and 203 comments on HN.",
+      "zh-Hant": "安全公司 Infohawk 說，Lascana、Samsonite、American Tourister、Revolve 和 FWRD 的網店在黑五前一週被植入盜刷指令碼，經他們通報後已在 11 月 24 日或 25 日移除；他們只在 Lascana 一家親眼看到測試卡資訊被髮往第三方。指令碼只在手機或觸屏尺寸的結賬頁啟用，會在店鋪校驗支付前就把卡號、有效期、安全碼和姓名地址電話郵箱發出，所以訂單被拒也會被盜。它先靠一次普通網路請求建立 WebRTC 連線，之後惡意程式碼和被盜資料都走 WebRTC 資料通道，因此只檢查普通請求的規則看不到後半段。Infohawk 的建議是：每個收款頁都用 connect-src 只列出自己需要的域名，這樣指令碼一開始的兩次請求就會被擋住；買家則檢查賬單、尤其是簽帳金融卡，發現異常立刻聯絡銀行。有多少人的資料被盜不清楚。HN 上約 401 分、203 條評論。"
+     },
+     "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50668145"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "SAP 确认安全事件：报道称员工 GitHub 令牌被盗，源码可能被复制和修改",
+      "en": "SAP confirms a security incident; reports say employee GitHub tokens were stolen and source code may have been copied and changed",
+      "zh-Hant": "SAP 確認安全事件：報道稱員工 GitHub 令牌被盜，原始碼可能被複制和修改"
+     },
+     "summary": {
+      "zh-Hans": "德国软件公司 SAP 向多家媒体确认发现“可疑活动”并已采取措施，称目前没有发现客户业务数据被未经授权访问。《明镜》周刊最先报道，称攻击者拿到员工的认证令牌，用来复制甚至修改 GitHub 上的源码；《商报》说内部行动代号“Project Granite”，SAP 限制了 GitHub 访问、停掉自动化开发流程并更换了签名密钥。heise 提到内部人士称攻击者可能用了智能体 AI，但 SAP 没有确认，也没有说明攻击入口、受影响的仓库，以及被改的代码有没有进入交付给客户的软件。X 话题摘要（由 X 自动生成，未经独立核实）也在讨论同一件事。11 月 25 日披露的 1Password 事件也是从员工的 GitHub 账号入手；SAP 这边的入口目前只是媒体报道。",
+      "en": "German software company SAP told several outlets it found “suspicious activity” and took steps to protect customers, and says it has found no evidence of unauthorized access to customer business data. Der Spiegel reported first that attackers obtained employee authentication tokens and used them to copy and even modify source code on GitHub; Handelsblatt says the internal operation is code-named “Project Granite” and that SAP restricted GitHub access, halted automated development processes and replaced signing keys. heise notes that insiders say the attackers may have used agentic AI, which SAP has not confirmed, and SAP has not said how the attackers got in, which repositories were affected, or whether any altered code reached software delivered to customers. An X topic summary (auto-generated by X, not independently verified) covers the same story. The 1Password incident disclosed on 25 November also started with an employee’s GitHub account; for SAP the entry point is so far only media reporting.",
+      "zh-Hant": "德國軟體公司 SAP 向多家媒體確認發現“可疑活動”並已採取措施，稱目前沒有發現客戶業務資料被未經授權訪問。《明鏡》週刊最先報道，稱攻擊者拿到員工的認證令牌，用來複制甚至修改 GitHub 上的原始碼；《商報》說內部行動代號“Project Granite”，SAP 限制了 GitHub 訪問、停掉自動化開發流程並更換了簽名金鑰。heise 提到內部人士稱攻擊者可能用了智慧體 AI，但 SAP 沒有確認，也沒有說明攻擊入口、受影響的倉庫，以及被改的程式碼有沒有進入交付給客戶的軟體。X 話題摘要（由 X 自動生成，未經獨立核實）也在討論同一件事。11 月 25 日披露的 1Password 事件也是從員工的 GitHub 賬號入手；SAP 這邊的入口目前只是媒體報道。"
+     },
+     "url": "https://therecord.media/sap-germany-cyberattack-github",
+     "extra": [
+      "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "https://www.heise.de/en/news/SAP-IT-incident-affects-development-systems-11540040.html",
+      "https://x.com/i/trending/2126372155168321620"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "微软：中朝黑客在用开源 AI 渗透框架 ARTEX，有的入侵在三小时内拿到高权限",
+      "en": "Microsoft: Chinese and North Korean crews use the open-source AI pentest framework ARTEX, some reaching privileged access in under three hours",
+      "zh-Hant": "微軟：中朝駭客在用開源 AI 滲透框架 ARTEX，有的入侵在三小時內拿到高許可權"
+     },
+     "summary": {
+      "zh-Hans": "The Register 报道，微软说中国和朝鲜的国家背景黑客团伙在使用 ARTEX：一个开源、由 AI 驱动的渗透测试框架，自 7 月公开发布后被攻击者用来自动完成侦察、凭证攻击和利用。与它有关的攻击瞄准云环境、ConnectWise 这类 IT 软件和金融机构，有的在不到三小时内拿到特权访问；微软说它能在几分钟内从侦察走到持久的特权访问，取决于配置和目标的防御。ARTEX 没有新的攻击手法，价值在于把已知手法以机器速度串起来；Register 引用 Infrawatch 称已有 130 多个变种。英国 NCSC 本周的警告指出这类工具很吵，更容易在日志里被发现。",
+      "en": "The Register reports that Microsoft says Chinese and North Korean state-backed groups use ARTEX, an open-source, AI-powered penetration-testing framework that attackers have used to automate reconnaissance, credential attacks and exploitation since its public release in July. Campaigns linked to it have targeted cloud environments, IT software such as ConnectWise and financial institutions, sometimes reaching privileged access in under three hours; Microsoft says it can go from reconnaissance to persistent privileged access within minutes, depending on configuration and the target’s defenses. ARTEX adds no new attack techniques; its value is chaining known ones at machine speed, and The Register, citing Infrawatch, says more than 130 variants are in circulation. The UK NCSC’s warning this week notes that these tools are noisy and easier to spot in logs.",
+      "zh-Hant": "The Register 報道，微軟說中國和朝鮮的國家背景駭客團伙在使用 ARTEX：一個開源、由 AI 驅動的滲透測試框架，自 7 月公開發布後被攻擊者用來自動完成偵察、憑證攻擊和利用。與它有關的攻擊瞄準雲環境、ConnectWise 這類 IT 軟體和金融機構，有的在不到三小時內拿到特權訪問；微軟說它能在幾分鐘內從偵察走到持久的特權訪問，取決於配置和目標的防禦。ARTEX 沒有新的攻擊手法，價值在於把已知手法以機器速度串起來；Register 引用 Infrawatch 稱已有 130 多個變種。英國 NCSC 本週的警告指出這類工具很吵，更容易在日誌裡被發現。"
+     },
+     "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "Anthropic：让 Claude 把 Messages API 从 Python 改写成 Rust，难点是验证",
+      "en": "Anthropic: Claude rewrote the Messages API from Python to Rust, and verification was the hard part",
+      "zh-Hant": "Anthropic：讓 Claude 把 Messages API 從 Python 改寫成 Rust，難點是驗證"
+     },
+     "summary": {
+      "zh-Hans": "Anthropic 发文说，Messages API 是客户和 Claude Code 等自家应用访问 Claude 的主要入口，2024 年初到 2026 年秋流量涨到约 1,800 倍；Claude 约一周写出核心请求路径的第一版，真正难的是证明新旧一致：Python 版一直在变，模型输出本身不确定，而且他们看不了客户请求。做法是把生产中的 Messages API 变成验证器：让新旧两版在生产流量上并行比对，再自动派 Claude 智能体去修复差异。结果是每个请求约少用 70% CPU、首 token 中位时间约快 20%，期间没停机；其中 CPU 数字来自一个地区，首 token 数字来自 Claude Code 请求且时间较短，都是 Anthropic 自述，未经独立测量。文中还说他们审查移植的测试时发现了 100 多处被放宽的断言，以及测试通过率约 98% 时生产输入只有约四分之一一致。X 话题摘要（由 X 自动生成，未经独立核实）也在转这篇。",
+      "en": "Anthropic writes that the Messages API is the main way customers and its own apps such as Claude Code reach Claude, with traffic growing about 1,800 times from early 2024 to fall 2026. Claude wrote a first version of the core request path in about a week; the hard part was proving parity, because the Python API kept changing, model output is nondeterministic, and the team cannot read customer requests. Their answer was to turn the production Messages API into a verifier: run old and new on production traffic in parallel and automatically dispatch Claude agents to fix the differences. The result is about 70% less CPU per request and about 20% lower median time to first token, with no downtime; the CPU figure comes from one region and the latency figure from Claude Code requests over a shorter period, and both are Anthropic’s own, not independently measured. The post also says an audit of ported tests found more than 100 weakened assertions, and that at about 98% of tests passing only about a quarter of production inputs matched. An X topic summary (auto-generated by X, not independently verified) also circulates the post.",
+      "zh-Hant": "Anthropic 發文說，Messages API 是客戶和 Claude Code 等自家應用訪問 Claude 的主要入口，2024 年初到 2026 年秋流量漲到約 1,800 倍；Claude 約一週寫出核心請求路徑的第一版，真正難的是證明新舊一致：Python 版一直在變，模型輸出本身不確定，而且他們看不了客戶請求。做法是把生產中的 Messages API 變成驗證器：讓新舊兩版在生產流量上並行比對，再自動派 Claude 智慧體去修復差異。結果是每個請求約少用 70% CPU、首 token 中位時間約快 20%，期間沒停機；其中 CPU 數字來自一個地區，首 token 數字來自 Claude Code 請求且時間較短，都是 Anthropic 自述，未經獨立測量。文中還說他們審查移植的測試時發現了 100 多處被放寬的斷言，以及測試透過率約 98% 時生產輸入只有約四分之一一致。X 話題摘要（由 X 自動生成，未經獨立核實）也在轉這篇。"
+     },
+     "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+     "extra": [
+      "https://x.com/i/trending/2125634927710642376",
+      "https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "Convex 的 Claude 技能被指把用户的项目想法发往远程服务器，还教代理拆开命令绕过安全检查",
+      "en": "Convex’s Claude skills are accused of sending users’ project ideas to a remote server and of telling the agent to reshape commands to avoid safety checks",
+      "zh-Hant": "Convex 的 Claude 技能被指把使用者的專案想法發往遠端伺服器，還教代理拆開命令繞過安全檢查"
+     },
+     "summary": {
+      "zh-Hans": "一位用户在 GitHub 提 issue 说，Anthropic 官方插件市场里 Convex 插件的三个技能有同一类问题：quickstart 技能把用户一句话的项目想法 POST 到一个 convex.site 主机（代码注释标为遥测），却没告诉用户想法离开了本机；add 技能把同一主机的脚本直接管道给 bash；labs-quickstart 技能把“下载”和“执行”拆成两次调用，理由是“同时下载并执行远程代码的单条命令，正是代理安全分类器会拦的形状”。提 issue 的人说这更像想让上手更顺，不是恶意，但最后一条等于教代理改变命令形状来避开用户自己选的安全工具。这是单方面的 issue 报告，我没有看到 Convex 的回应。HN 上约 212 分、61 条评论。",
+      "en": "A user opened a GitHub issue saying three skills in the Convex plugin, listed in Anthropic’s official plugin marketplace, share one concern: the quickstart skill POSTs the user’s one-sentence project idea to a convex.site host, marked in a comment as telemetry, without telling the user the idea leaves the machine; the add skill pipes a script from the same host straight into bash; and the labs-quickstart skill splits download and execution into two calls, giving the reason that a single command that downloads and runs remote code is the shape harness safety classifiers block. The reporter reads this as an attempt to make onboarding reliable rather than malicious, but says the last item tells the agent to change a command’s shape so the user’s own safety tooling does not catch it. This is one side’s issue report and I did not see a response from Convex. About 212 points and 61 comments on HN.",
+      "zh-Hant": "一位使用者在 GitHub 提 issue 說，Anthropic 官方外掛市場裡 Convex 外掛的三個技能有同一類問題：quickstart 技能把使用者一句話的專案想法 POST 到一個 convex.site 主機（程式碼註釋標為遙測），卻沒告訴使用者想法離開了本機；add 技能把同一主機的指令碼直接管道給 bash；labs-quickstart 技能把“下載”和“執行”拆成兩次呼叫，理由是“同時下載並執行遠端程式碼的單條命令，正是代理安全分類器會攔的形狀”。提 issue 的人說這更像想讓上手更順，不是惡意，但最後一條等於教代理改變命令形狀來避開使用者自己選的安全工具。這是單方面的 issue 報告，我沒有看到 Convex 的回應。HN 上約 212 分、61 條評論。"
+     },
+     "url": "https://github.com/convex/convex-backend-skill/issues/64",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50669765"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "英伟达据报让合作厂商暂停向马来西亚、新加坡、泰国、印尼发运服务器",
+      "en": "Nvidia reportedly tells partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia",
+      "zh-Hant": "英偉達據報讓合作廠商暫停向馬來西亞、新加坡、泰國、印尼發運伺服器"
+     },
+     "summary": {
+      "zh-Hans": "TechCrunch 引用《华尔街日报》：英伟达已通知戴尔、超微等制造伙伴，对发往马来西亚、新加坡、泰国和印尼的服务器暂停发运，时间长短未定，目的是评估当地合作伙伴是否满足美国出口要求。背景是中国公司一直通过这些国家的数据中心远程使用英伟达芯片，美国商务部本月早些时候堵上了这个漏洞；报道还引用 Institute for Progress 的估算，这类远程数据中心提供约 24% 的中国 AI 算力（该数字为报道转述的第三方估算）。在这些地区租 GPU 或部署服务的团队，要留意交付延期和合规审查。",
+      "en": "TechCrunch, citing the Wall Street Journal, says Nvidia has told manufacturing partners including Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia for an unspecified period while it assesses whether regional partners meet US export requirements. The background is that Chinese companies have been using Nvidia chips remotely from data centers in those countries, a loophole the US Commerce Department closed earlier this month; the report also cites an Institute for Progress estimate, relayed second-hand, that such remote data centers supply about 24% of China’s AI computing power. Teams renting GPUs or deploying services in those regions should watch for delivery delays and compliance reviews.",
+      "zh-Hant": "TechCrunch 引用《華爾街日報》：英偉達已通知戴爾、超微等製造夥伴，對發往馬來西亞、新加坡、泰國和印尼的伺服器暫停發運，時間長短未定，目的是評估當地合作伙伴是否滿足美國出口要求。背景是中國公司一直透過這些國家的資料中心遠端使用英偉達晶片，美國商務部本月早些時候堵上了這個漏洞；報道還引用 Institute for Progress 的估算，這類遠端資料中心提供約 24% 的中國 AI 算力（該數字為報道轉述的第三方估算）。在這些地區租 GPU 或部署服務的團隊，要留意交付延期和合規審查。"
+     },
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "extra": []
+    },
+    {
+     "title": {
+      "zh-Hans": "弗吉尼亚和俄勒冈两州检察长起诉 SpaceX，指 Grok 生成未经同意的性化图像",
+      "en": "Virginia and Oregon attorneys general sue SpaceX, saying Grok produced non-consensual sexualized images",
+      "zh-Hant": "弗吉尼亞和俄勒岡兩州檢察長起訴 SpaceX，指 Grok 生成未經同意的性化影象"
+     },
+     "summary": {
+      "zh-Hans": "弗吉尼亚州检察长办公室发布新闻稿：弗吉尼亚州起诉 SpaceX（运营 X 的公司，xAI 现名“SpaceX Super Intelligence”，Grok 系列模型的开发者），称它没能阻止 Grok 在当事人不知情、未同意的情况下生成包括儿童在内的性化图像，同时对外宣传平台和 AI 工具安全；俄勒冈州检察长同时提起了类似但独立的诉讼。起诉书称 Grok 的“spicy mode”专门允许生成裸露和性化图像；新闻稿还引用 CCDH 的估算，2025 年 12 月 29 日到 2026 年 1 月 8 日 Grok 发布了约 300 万张性化图像、其中约 2.3 万张看起来涉及儿童。这是州政府单方面的指控，SpaceX 的回应不在这份新闻稿里。HN 上约 230 分、124 条评论。",
+      "en": "Virginia’s Attorney General published a press release saying the state is suing SpaceX, which operates X and whose AI company xAI is now called “SpaceX Super Intelligence” and developed the Grok models, alleging it failed to stop Grok from generating sexualized images of people, including children, without their knowledge or consent while promoting the platform and AI tool as safe; Oregon’s Attorney General filed a separate but similar action. The filing says Grok’s “spicy mode” specifically allowed nude and sexualized images, and the release cites a CCDH estimate that between 29 December 2025 and 8 January 2026 Grok created and posted about three million sexualized images, about 23,000 of which appeared to depict children. These are one side’s allegations from the state; SpaceX’s response is not in this release. About 230 points and 124 comments on HN.",
+      "zh-Hant": "弗吉尼亞州檢察長辦公室釋出新聞稿：弗吉尼亞州起訴 SpaceX（運營 X 的公司，xAI 現名“SpaceX Super Intelligence”，Grok 系列模型的開發者），稱它沒能阻止 Grok 在當事人不知情、未同意的情況下生成包括兒童在內的性化影象，同時對外宣傳平臺和 AI 工具安全；俄勒岡州檢察長同時提起了類似但獨立的訴訟。起訴書稱 Grok 的“spicy mode”專門允許生成裸露和性化影象；新聞稿還引用 CCDH 的估算，2025 年 12 月 29 日到 2026 年 1 月 8 日 Grok 釋出了約 300 萬張性化影象、其中約 2.3 萬張看起來涉及兒童。這是州政府單方面的指控，SpaceX 的回應不在這份新聞稿裡。HN 上約 230 分、124 條評論。"
+     },
+     "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50670855"
+     ]
+    },
+    {
+     "title": {
+      "zh-Hans": "黑五硬盘价格“坏掉了”：同一款 20TB 外置盘比两年前贵 300 美元",
+      "en": "Black Friday hard-drive pricing “has gotten bad”: the same 20TB external drive costs $300 more than two years ago",
+      "zh-Hant": "黑五硬碟價格“壞掉了”：同一款 20TB 外接盤比兩年前貴 300 美元"
+     },
+     "summary": {
+      "zh-Hans": "自托管博主在 ktz.me 说，他每年黑五都会换一两块硬盘，今年价格不对劲：他在 2024 年 11 月以 249.99 美元买的 20TB WD EasyStore，今年黑五的特价是 549.99 美元，同一商店、同一产品贵了 300 美元；每 TB 价格从当时的 12.50 美元变成 27.50 美元，他说这个价钱“绝对不行”，打算改用更少、更大的盘并重做存储池布局。这是单个玩家的价格对比，不代表整个市场，但 HN 上约 550 分、465 条评论，很多人在讨论同样的感受；和 AI 数据中心抢存储的关系，原文和我都没有核实。",
+      "en": "A self-hosting blogger at ktz.me says he replaces a drive or two every Black Friday, but this year the prices are off: the 20TB WD EasyStore he bought for $249.99 in November 2024 is on sale at $549.99 this Black Friday, $300 more for the same product from the same store, taking the price per TB from $12.50 to $27.50, which he calls absolutely not worth it; he plans to move to fewer, larger drives and redo his storage pool layout. This is one hobbyist’s price comparison, not the whole market, but it drew about 550 points and 465 comments on HN, with many describing the same experience; whether AI data centers are behind it is not verified by the post or by me.",
+      "zh-Hant": "自託管博主在 ktz.me 說，他每年黑五都會換一兩塊硬碟，今年價格不對勁：他在 2024 年 11 月以 249.99 美元買的 20TB WD EasyStore，今年黑五的特價是 549.99 美元，同一商店、同一產品貴了 300 美元；每 TB 價格從當時的 12.50 美元變成 27.50 美元，他說這個價錢“絕對不行”，打算改用更少、更大的盤並重做儲存池佈局。這是單個玩家的價格對比，不代表整個市場，但 HN 上約 550 分、465 條評論，很多人在討論同樣的感受；和 AI 資料中心搶儲存的關係，原文和我都沒有核實。"
+     },
+     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "extra": [
+      "https://news.ycombinator.com/item?id=50661646"
+     ]
+    }
+   ],
+   "opportunities": {
+    "zh-Hans": [
+     "生产流量“新旧对比”验证器 — Anthropic 说改写 API 最难的是验证，测试通过率约 98% 时生产输入只有约四分之一一致：一周做一个开源工具，把线上请求记录下来同时发给旧服务和新服务，按差异类型聚类，并生成可复现的最小用例交给 AI 修。先服务要做重写或升级框架的小团队，按托管和报告收费；注意脱敏，不碰客户明文请求。",
+     "Agent 技能 / 插件“偷偷联网”审计器 — Convex 的技能被指把用户想法发往远程主机、还教代理拆分命令：一周做一个命令行加 GitHub Action，扫描 SKILL.md 和插件目录里的 curl 管道 bash、向外 POST 的请求、“绕过分类器”之类的话术，输出风险报告和人话说明。卖给团队内部的插件市场和公司里统一管理代理的人；只报告发现的事实，不下“恶意”结论。",
+     "GitHub 令牌“体检和自动过期” — 1Password 说攻击者从一名员工的 GitHub 账号入手，SAP 被报道员工令牌被盗：一周做一个 GitHub App，列出组织里所有个人令牌、OAuth 应用和部署密钥的权限、最后使用时间，标出过宽和很久没用的，一键发提醒或到期。卖给没有专职安全人员的几十人团队，按成员数订阅；只读权限起步，先不做自动吊销。",
+     "针对 AI 攻击框架的日志检测规则包 — ARTEX 的特点是快而且“吵”（英国 NCSC 的说法）：一周把公开报道里的行为特征（短时间大量侦察、凭证尝试、扫描公开仓库里的密钥）写成 Sigma 规则和云日志查询，附中英文处置清单。卖给小型 IT 外包和托管服务商，按月更新订阅；只用公开资料，不发布攻击代码。",
+     "“生成者—评估者”多代理脚手架 — X 话题摘要（由 X 自动生成，未经独立核实）说，开发者正从调提示词转向做“外壳”：规划、生成、评估三个代理加测试和规则，让单个代理做不成的项目做成：一周做一个可直接套用的模板，带评估代理的验收清单、成本上限和失败回退，覆盖网页和脚本两类任务。靠模板包和咨询变现；先拿自己真实项目做对比，成本和成功率只报告实测。"
+    ],
+    "en": [
+     "Production-traffic old-vs-new verifier — Anthropic says verification was the hard part of its API rewrite, with only about a quarter of production inputs matching at about 98% of tests passing. In a week, build an open-source tool that records live requests, sends them to the old and new services, clusters differences by type and produces minimal reproducible cases for AI to fix. Start with small teams doing rewrites or framework upgrades and charge for hosting and reports; redact data and never touch plaintext customer requests.",
+     "Audit tool for agent skills and plugins that quietly phone home — Convex’s skills are accused of sending users’ ideas to a remote host and teaching agents to split commands. In a week, build a CLI plus GitHub Action that scans SKILL.md files and plugin directories for curl-piped-to-bash, outbound POSTs and phrases about evading classifiers, and outputs a risk report in plain language. Sell it to teams running internal plugin marketplaces and to people who manage agents company-wide; report only observed facts and never conclude “malicious”.",
+     "GitHub token health check with automatic expiry — 1Password says the attacker started from one employee’s GitHub account, and SAP is reported to have had employee tokens stolen. In a week, build a GitHub App that lists every personal token, OAuth app and deploy key in an organization with its permissions and last use, flags the overly broad and long-idle ones, and sends reminders or sets expiry in one click. Sell it per member to teams of a few dozen with no dedicated security staff; start read-only and skip automatic revocation at first.",
+     "Log-detection rule pack for AI attack frameworks — ARTEX is fast and “noisy”, in the UK NCSC’s words. In a week, turn the behaviors in public reports (bursts of reconnaissance, credential attempts, scans for secrets in public repositories) into Sigma rules and cloud-log queries with a response checklist in several languages. Sell a monthly-updated subscription to small IT outsourcers and managed-service providers; use public sources only and publish no attack code.",
+     "A generator-and-evaluator multi-agent scaffold — An X topic summary (auto-generated by X, not independently verified) says developers are moving from tweaking prompts to building harnesses: planner, generator and evaluator agents plus tests and rules that finish projects a single agent could not. In a week, build a ready-to-use template with an evaluator’s acceptance checklist, cost caps and failure fallbacks, covering web and script tasks. Monetize through template packs and consulting; compare on your own real projects first and report only measured cost and success rates."
+    ],
+    "zh-Hant": [
+     "生產流量“新舊對比”驗證器 — Anthropic 說改寫 API 最難的是驗證，測試透過率約 98% 時生產輸入只有約四分之一一致：一週做一個開源工具，把線上請求記錄下來同時發給舊服務和新服務，按差異型別聚類，並生成可復現的最小用例交給 AI 修。先服務要做重寫或升級框架的小團隊，按託管和報告收費；注意脫敏，不碰客戶明文請求。",
+     "Agent 技能 / 外掛“偷偷聯網”審計器 — Convex 的技能被指把使用者想法發往遠端主機、還教代理拆分命令：一週做一個命令列加 GitHub Action，掃描 SKILL.md 和外掛目錄裡的 curl 管道 bash、向外 POST 的請求、“繞過分類器”之類的話術，輸出風險報告和人話說明。賣給團隊內部的外掛市場和公司裡統一管理代理的人；只報告發現的事實，不下“惡意”結論。",
+     "GitHub 令牌“體檢和自動過期” — 1Password 說攻擊者從一名員工的 GitHub 賬號入手，SAP 被報道員工令牌被盜：一週做一個 GitHub App，列出組織裡所有個人令牌、OAuth 應用和部署金鑰的許可權、最後使用時間，標出過寬和很久沒用的，一鍵發提醒或到期。賣給沒有專職安全人員的幾十人團隊，按成員數訂閱；只讀許可權起步，先不做自動吊銷。",
+     "針對 AI 攻擊框架的日誌檢測規則包 — ARTEX 的特點是快而且“吵”（英國 NCSC 的說法）：一週把公開報道里的行為特徵（短時間大量偵察、憑證嘗試、掃描公開倉庫裡的金鑰）寫成 Sigma 規則和雲日誌查詢，附中英文處置清單。賣給小型 IT 外包和託管服務商，按月更新訂閱；只用公開資料，不釋出攻擊程式碼。",
+     "“生成者—評估者”多代理腳手架 — X 話題摘要（由 X 自動生成，未經獨立核實）說，開發者正從調提示詞轉向做“外殼”：規劃、生成、評估三個代理加測試和規則，讓單個代理做不成的專案做成：一週做一個可直接套用的模板，帶評估代理的驗收清單、成本上限和失敗回退，覆蓋網頁和指令碼兩類任務。靠模板包和諮詢變現；先拿自己真實專案做對比，成本和成功率只報告實測。"
+    ]
+   },
+   "opportunities_broad": {
+    "zh-Hans": [
+     "网店“结账页第三方脚本”体检 — 店主输入网址，工具用手机尺寸模拟打开商品页和结账页，列出页面里所有第三方脚本和请求的域名，对照常见营销像素和已知恶意特征，标出陌生的，再生成一条可以直接交给开发者的收紧建议（例如 connect-src 白名单）。 Infohawk 报告 5 家网店在黑五前一周被植入走 WebRTC 的盗刷脚本，脚本只在手机结账页启用，桌面检查和首页扫描可能看不到；它们是通过营销像素、同意横幅设置、CDN 文件等不同方式进来的。任何接受在线付款的小店都用第三方脚本，却很少有人逐个看过。",
+     "小公司“我用的软件出事了吗”提醒 — 用户勾选自己公司用的 10 到 30 个软件（密码管理器、ERP、代码托管等），工具盯着这些厂商的安全公告和主流媒体报道，出事时发一封人话邮件：发生了什么、和你有没有关系、你现在该做什么。 11 月 25 日 1Password 披露攻击者拿走部分客户的姓名和邮箱，并提醒大家小心钓鱼邮件；11 月 27 日 SAP 确认安全事件。这些公告写给安全人员，小公司的老板和行政很少看，也不知道哪些要动手。",
+     "家庭和小办公室的“存储预算”计算器 — 用户填照片、视频、文档大概有多少、要保留几年、几份备份，工具给出云存储、外置盘、NAS、翻新盘几种组合的总成本，并提醒“现在是不是买盘的好时机”。 ktz.me 这篇文章说，同一款 20TB 外置盘从 2024 年 11 月的 249.99 美元变成今年黑五的 549.99 美元，HN 上约 550 分、465 条评论，很多人在比较办法。照片、家庭视频和公司文件都要存，但多数人没算过一年真正要花多少。",
+     "小应用和社群的“未成年人年龄限制新规”清单 — 小应用开发者或社群管理员回答几个问题（面向哪些地区、有没有推荐流、有没有夜间通知、用户是否可能未满 18 岁），工具列出可能适用的新规、生效日期和需要准备的事项。 EFF 说加州三项法律将在 2027 年 1 月 1 日生效，纽约 SAFE for Kids 法案的检察长规则将在 2027 年 1 月 25 日生效，涉及算法推荐、夜间通知和设备与应用层面的年龄确认。受影响的不只是大平台，还有大量小应用、论坛和聊天群，它们没有法务。",
+     "“AI 对你了解多少”隐私自查 — 给常用 ChatGPT、Claude、Gemini 的普通用户：一步步带你查看各助手保存了哪些“记忆”和聊天记录，怎么关闭、导出和删除，并提供一组提示词，让助手列出它记住的关于你的信息，由你判断哪些该删。 construct22.com 上一条一行提示词，让 ChatGPT 根据它对你的了解，写出一个 AI 们在背后议论你的 WhatsApp 群聊，在 HN 上约 682 分、298 条评论；页面也说在 Claude、Gemini 等积累了聊天记录的助手上同样能试。这说明很多人意识到助手记住了很多，但不知道怎么管。",
+     "给身边人的“ChatGPT 功能教练” — 按职业（老师、店主、学生、行政）每周发一条 5 分钟的小课：这周值得试的一个功能、一个可直接复制的提示词、一个真实任务示范，帮不是技术圈的人真正用起来。 据 X 话题摘要（由 X 自动生成，未经独立核实），有人把 ChatGPT 桌面端的浏览和可视化等工具演示给妹妹，她觉得非常有用，却此前完全不知道有这些功能；讨论的主题是技术圈和普通人使用 AI 的差距。数字没有核实，这里不引用。"
+    ],
+    "en": [
+     "A checkout-page third-party script check for online stores — The owner enters a store URL, and the tool opens product and checkout pages at phone size, lists every third-party script and requested domain, compares them with common marketing pixels and known malicious indicators, flags unfamiliar ones, and generates a ready-to-hand-over recommendation for tightening them, such as a connect-src allowlist. Infohawk reported a WebRTC card skimmer on five online stores in the week before Black Friday; it ran only on mobile checkouts, so desktop checks and homepage scans could miss it, and it arrived through different routes such as a marketing pixel, a consent-banner setting and a CDN file. Any small shop that takes online payments uses third-party scripts, yet few owners have reviewed them one by one.",
+     "“Did a tool I use have an incident?” alerts for small companies — Users tick the 10 to 30 tools their company uses, such as password managers, ERP and code hosting, and the tool watches those vendors’ security notices and major media reports. When something happens it sends a plain-language email: what happened, whether it concerns you and what to do now. On 25 November 1Password disclosed that an attacker copied some customers’ names and emails and warned everyone to watch for phishing; on 27 November SAP confirmed a security incident. Such notices are written for security staff, and small-company owners and office managers rarely read them or know which ones need action.",
+     "A storage budget calculator for homes and small offices — Users enter roughly how many photos, videos and documents they have, how many years to keep them and how many backups, and the tool gives total cost for mixes of cloud storage, external drives, NAS and refurbished drives, with a note on whether now is a good time to buy. The ktz.me post says the same 20TB external drive went from $249.99 in November 2024 to $549.99 this Black Friday, with about 550 points and 465 comments on HN as many people compared options. Almost everyone stores photos, family video and company files, yet few have worked out what a year really costs.",
+     "A checklist for small apps and communities on the new age-gating rules — Small-app developers or community admins answer a few questions: which regions they serve, whether they have recommendation feeds or night-time notifications, and whether users may be under 18. The tool lists the rules that may apply, their effective dates and what to prepare. EFF says three California laws take effect on 1 January 2027 and the attorney general’s rules for New York’s SAFE for Kids Act take effect on 25 January 2027, covering algorithmic feeds, night-time notifications and age assurance at device and app level. Not only big platforms are affected: many small apps, forums and chat groups are too, and they have no lawyers.",
+     "A “what does your AI know about you” privacy check — For ordinary users of ChatGPT, Claude and Gemini: a step-by-step guide to see what “memory” and chat history each assistant has saved and how to turn it off, export it and delete it, plus a set of prompts that make the assistant list what it remembers about you so you can decide what to remove. A one-line prompt on construct22.com makes ChatGPT write a WhatsApp group chat where AI models gossip about you, based on what it knows about you; it reached about 682 points and 298 comments on HN, and the page says it also works on Claude, Gemini and other assistants that have accumulated your history. It suggests many people realize assistants remember a lot but do not know how to manage it.",
+     "A ChatGPT feature coach for the people around you — A weekly five-minute lesson by occupation, such as teacher, shop owner, student or office admin: one feature worth trying this week, a copy-ready prompt and a real-task demo, to help non-technical people actually use AI. According to an X topic summary (auto-generated by X, not independently verified), someone showed his sister ChatGPT desktop tools such as in-app browsing and visualizations; she found them very useful but had not known they existed, and the discussion is about the gap between tech insiders and everyday users. The figures were not verified and are not quoted here."
+    ],
+    "zh-Hant": [
+     "網店“結賬頁第三方指令碼”體檢 — 店主輸入網址，工具用手機尺寸模擬開啟商品頁和結賬頁，列出頁面裡所有第三方指令碼和請求的域名，對照常見營銷畫素和已知惡意特徵，標出陌生的，再生成一條可以直接交給開發者的收緊建議（例如 connect-src 白名單）。 Infohawk 報告 5 家網店在黑五前一週被植入走 WebRTC 的盜刷指令碼，指令碼只在手機結賬頁啟用，桌面檢查和首頁掃描可能看不到；它們是透過營銷畫素、同意橫幅設定、CDN 檔案等不同方式進來的。任何接受線上付款的小店都用第三方指令碼，卻很少有人逐個看過。",
+     "小公司“我用的軟體出事了嗎”提醒 — 使用者勾選自己公司用的 10 到 30 個軟體（密碼管理器、ERP、程式碼託管等），工具盯著這些廠商的安全公告和主流媒體報道，出事時發一封人話郵件：發生了什麼、和你有沒有關係、你現在該做什麼。 11 月 25 日 1Password 披露攻擊者拿走部分客戶的姓名和郵箱，並提醒大家小心釣魚郵件；11 月 27 日 SAP 確認安全事件。這些公告寫給安全人員，小公司的老闆和行政很少看，也不知道哪些要動手。",
+     "家庭和小辦公室的“儲存預算”計算器 — 使用者填照片、影片、文件大概有多少、要保留幾年、幾份備份，工具給出雲端儲存、外接盤、NAS、翻新盤幾種組合的總成本，並提醒“現在是不是買盤的好時機”。 ktz.me 這篇文章說，同一款 20TB 外接盤從 2024 年 11 月的 249.99 美元變成今年黑五的 549.99 美元，HN 上約 550 分、465 條評論，很多人在比較辦法。照片、家庭影片和公司檔案都要存，但多數人沒算過一年真正要花多少。",
+     "小應用和社群的“未成年人年齡限制新規”清單 — 小應用開發者或社群管理員回答幾個問題（面向哪些地區、有沒有推薦流、有沒有夜間通知、使用者是否可能未滿 18 歲），工具列出可能適用的新規、生效日期和需要準備的事項。 EFF 說加州三項法律將在 2027 年 1 月 1 日生效，紐約 SAFE for Kids 法案的檢察長規則將在 2027 年 1 月 25 日生效，涉及演算法推薦、夜間通知和裝置與應用層面的年齡確認。受影響的不只是大平臺，還有大量小應用、論壇和聊天群，它們沒有法務。",
+     "“AI 對你瞭解多少”隱私自查 — 給常用 ChatGPT、Claude、Gemini 的普通使用者：一步步帶你檢視各助手儲存了哪些“記憶”和聊天記錄，怎麼關閉、匯出和刪除，並提供一組提示詞，讓助手列出它記住的關於你的資訊，由你判斷哪些該刪。 construct22.com 上一條一行提示詞，讓 ChatGPT 根據它對你的瞭解，寫出一個 AI 們在背後議論你的 WhatsApp 群聊，在 HN 上約 682 分、298 條評論；頁面也說在 Claude、Gemini 等積累了聊天記錄的助手上同樣能試。這說明很多人意識到助手記住了很多，但不知道怎麼管。",
+     "給身邊人的“ChatGPT 功能教練” — 按職業（老師、店主、學生、行政）每週發一條 5 分鐘的小課：這周值得試的一個功能、一個可直接複製的提示詞、一個真實任務示範，幫不是技術圈的人真正用起來。 據 X 話題摘要（由 X 自動生成，未經獨立核實），有人把 ChatGPT 桌面端的瀏覽和視覺化等工具演示給妹妹，她覺得非常有用，卻此前完全不知道有這些功能；討論的主題是技術圈和普通人使用 AI 的差距。數字沒有核實，這裡不引用。"
+    ]
+   },
+   "follow": [
+    {
+     "title": {
+      "zh-Hans": "Anthropic: Migrating our Messages API to Rust",
+      "en": "Anthropic: Migrating our Messages API to Rust",
+      "zh-Hant": "Anthropic: Migrating our Messages API to Rust"
+     },
+     "summary": {
+      "zh-Hans": "讲如何把生产 API 变成验证器、让新旧版本在真实流量上比对并自动派智能体修差异；想做大型 AI 辅助重写的团队可以直接参考；数字为 Anthropic 自述。",
+      "en": "How a production API became a verifier, with old and new versions compared on real traffic and agents dispatched to fix differences; a useful reference for teams planning large AI-assisted rewrites; the figures are Anthropic’s own.",
+      "zh-Hant": "講如何把生產 API 變成驗證器、讓新舊版本在真實流量上比對並自動派智慧體修差異；想做大型 AI 輔助重寫的團隊可以直接參考；數字為 Anthropic 自述。"
+     },
+     "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+    },
+    {
+     "title": {
+      "zh-Hans": "Infohawk: WebRTC card skimmer report",
+      "en": "Infohawk: WebRTC card skimmer report",
+      "zh-Hant": "Infohawk: WebRTC card skimmer report"
+     },
+     "summary": {
+      "zh-Hans": "5 家网店盗刷脚本的完整技术拆解，含七步流程、需要查找的脚本和域名特征，以及店主该怎么设 connect-src；做电商或安全的人值得读原文。",
+      "en": "A full technical teardown of the card skimmer on five online stores, with the seven-step flow, the script and domain signs to look for and how owners should set connect-src; worth reading for anyone in e-commerce or security.",
+      "zh-Hant": "5 家網店盜刷指令碼的完整技術拆解，含七步流程、需要查詢的指令碼和域名特徵，以及店主該怎麼設 connect-src；做電商或安全的人值得讀原文。"
+     },
+     "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+    },
+    {
+     "title": {
+      "zh-Hans": "The Record: SAP confirms cyber incident",
+      "en": "The Record: SAP confirms cyber incident",
+      "zh-Hant": "The Record: SAP confirms cyber incident"
+     },
+     "summary": {
+      "zh-Hans": "SAP 事件的整理，区分了 SAP 已确认的内容和《明镜》等媒体的报道；其中源码是否被改、是否进入客户软件目前都不清楚。",
+      "en": "A roundup of the SAP incident that separates what SAP confirmed from what Der Spiegel and others reported; whether source code was changed or reached customer software remains unclear.",
+      "zh-Hant": "SAP 事件的整理，區分了 SAP 已確認的內容和《明鏡》等媒體的報道；其中原始碼是否被改、是否進入客戶軟體目前都不清楚。"
+     },
+     "url": "https://therecord.media/sap-germany-cyberattack-github"
+    },
+    {
+     "title": {
+      "zh-Hans": "The Register: Microsoft on ARTEX",
+      "en": "The Register: Microsoft on ARTEX",
+      "zh-Hant": "The Register: Microsoft on ARTEX"
+     },
+     "summary": {
+      "zh-Hans": "汇总了微软、FBI、AWS 和英国 NCSC 对 AI 攻击框架的警告，包括它“快而吵”的特点；做防守或日志检测的人可以顺着里面的链接读原始公告。",
+      "en": "Pulls together warnings from Microsoft, the FBI, AWS and the UK NCSC about AI attack frameworks, including that they are fast and noisy; defenders and log-detection builders can follow its links to the original notices.",
+      "zh-Hant": "彙總了微軟、FBI、AWS 和英國 NCSC 對 AI 攻擊框架的警告，包括它“快而吵”的特點；做防守或日誌檢測的人可以順著裡面的連結讀原始公告。"
+     },
+     "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+    },
+    {
+     "title": {
+      "zh-Hans": "convex-backend-skill issue #64",
+      "en": "convex-backend-skill issue #64",
+      "zh-Hant": "convex-backend-skill issue #64"
+     },
+     "summary": {
+      "zh-Hans": "给做代理插件和技能的人看的反面教材：遥测要明示、不要管道执行远程脚本、不要教代理绕过安全分类器；目前只有提 issue 的人一方的说法。",
+      "en": "A cautionary example for anyone building agent plugins and skills: disclose telemetry, do not pipe remote scripts into a shell and do not teach agents to evade safety classifiers; so far only the reporter’s side is on record.",
+      "zh-Hant": "給做代理外掛和技能的人看的反面教材：遙測要明示、不要管道執行遠端指令碼、不要教代理繞過安全分類器；目前只有提 issue 的人一方的說法。"
+     },
+     "url": "https://github.com/convex/convex-backend-skill/issues/64"
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "path": "digest/2026-11-27/",
